@@ -1,0 +1,406 @@
+[
+  {
+    "film_title": "Laila Majnu",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39858",
+    "cert_date": "30-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Juvenile Qais reciting love couplets: 'Main yahan ata hun is but ki ziarat ke liyo Qais paida hua Laila kiziaiat ke liye'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Lines from a song: 'Khinchi thi dil pe jo tasveer ankhen men utar aal' and 'Is quudar tera tasyvar kabhi badh jata hai na dekhoon to munh tera nazar ata hai'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue: 'Apka hal bhal ? kaun kahcga -Mujhse chahncwalo ho khabar hoti ha .'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Moulvi saying 'Bibiyan to Allah ki bargah men chali gaycon' replaced with 'Jahannam men jhaadu done chalı gai hain'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Close-up of Zarina with emphasised bust when she first appears with the Prince of Iraq",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Nawaz saying 'Layala ko paida karke Khuda Mayan no apni khudai ke danke pitya diyo hain' replaced with 'Jalwa hi jalwa hai'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Close-up of dancer in the dance before the Prince of Iraq after his marriage",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Nawaz's words 'Vojaldimunne kamunh dikhaye'",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Considerably the lip shaking of the principal dancer in the first dance",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Beating of Qais by Amir",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Amir's beating Laila (sound of whipping and crying)",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Viva Zapata",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "39866",
+    "cert_date": "03-01-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rule III",
+        "description": "Shot where prisoner's body is dragged a considerable distance by a running horse after he falls on the ground",
+        "length_m": 2.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In the dance, delete a shot showing a soldier biting the shoulder of a female dancer",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete the scene showing Zapata's bullet-ridden body immediately after he has been shot",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "From Here To Eternity",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "39874",
+    "cert_date": "08-01-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The words 'A beautiful woman going all to waste' by Warden",
+        "length_m": 0.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Kissing and embracing between Karen and Warden on the sea beach",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels VI & VII",
+        "description": "All shots of waitress walking in a tantalising manner between tables, wolf calls and leers by the men and the words 'I want to watch you'",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The sentence 'It's almost a sacred duty to be drunk'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "Karen and Warden's close embrace in the car",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The first kiss between Karen and Warden",
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Embracing between Karen and Warden when listening to Hawaiian music",
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably fight between Prewitt and Galovitch",
+        "length_m": 21.64,
+        "length_retained_m": 20.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "To a minimum scene of Prewitt and Warden drunk on the road",
+        "length_m": 45.72,
+        "length_retained_m": 39.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Maggio's description of the brutality with which he has been treated in the stockade",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Fighting between Prewitt and Fatso, particularly shots of attempted strangling",
+        "length_m": 3.96,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerably actual drinking",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VI, VII",
+        "description": "Considerably actual drinking",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Reference to kissing between Karen and Warden",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "From Here To Eternity",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "39875",
+    "cert_date": "08-01-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Sub-title 'Clash of loves'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Close embrace and kiss of Karen and Warden on the sea-beach",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "Waitress walking in the club",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Chham Chama Chham (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39877",
+    "cert_date": "09-01-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The word 'Chaul' where Leela addresses Kishor",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Sound 'ab chaache sath teru kaleja Klaaui) ya ture baap ka sal' replaced",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The cacchy replies of Jiggu talking to Mam",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The picturisation of song 'Saani khushuan sathi aain aap jab aac'",
+        "length_m": 109.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Words 'Banjh kuhin kı' spoken by Shyan Sundur's mother",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Words 'are chuail' spoken by Shyam Supder's mother",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Words 'uchha nun chufail hi sahi' spoken by Kishor",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Silent shot of Shemmi in place of common",
+        "length_retained_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Close-up of Kishor, Shamsundar and child",
+        "length_m": 24.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Close-ups and back shots of Kishor and Shamsunder in dream sequence",
+        "length_m": 105.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Close-up of lamp, portrait, window etc.",
+        "length_m": 21.34
+      }
+    ]
+  },
+  {
+    "film_title": "Police",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39879",
+    "cert_date": "09-01-1964",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Teckou Lou",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39881",
+    "cert_date": "10-01-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The word 'Chaul' where Leela addresses Kishor",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Sound 'ab chaache sath teru kaleja Klaaui) ya ture baap ka sal' replaced",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The cacchy replies of Jiggu talking to Mam",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The picturisation of song 'Saani khushuan sathi aain aap jab aac'",
+        "length_m": 109.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Words 'Banjh kuhin kı' spoken by Shyan Sundur's mother",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Words 'are chuail' spoken by Shyam Supder's mother",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Words 'uchha nun chufail hi sahi' spoken by Kishor",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Silent shot of Shemmi in place of common",
+        "length_retained_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Close-up of Kishor, Shamsundar and child",
+        "length_m": 24.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Close-ups and back shots of Kishor and Shamsunder in dream sequence",
+        "length_m": 105.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Close-up of lamp, portrait, window etc.",
+        "length_m": 21.34
+      }
+    ]
+  },
+  {
+    "film_title": "Laila Majnu (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39883",
+    "cert_date": "10-01-1964",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

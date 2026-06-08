@@ -1,0 +1,553 @@
+[
+  {
+    "film_title": "Hello Elephant",
+    "languages": [
+      "Italian",
+      "English",
+      "Hindi"
+    ],
+    "cert_no": "43801",
+    "cert_date": "31-12-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IF",
+        "description": "Shot of Indian Prince pocketing relics from church",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "IF",
+        "description": "Shot of Indian Prince kissing new tenant girl",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shot of woman soliciting while teacher takes shelter with elephant",
+        "length_m": 7.55
+      }
+    ]
+  },
+  {
+    "film_title": "Nirupedalu",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "22968",
+    "cert_date": "28-12-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Part of song No. 2, verse 1 and verse 4, including insert pictures of police enjoying song, and rickshaw pullers abandoning check-up to follow girl",
+        "length_m": 127.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Insert picture of dogs and child eating from garbage pile, with Narayana looking at them",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Picture and sound of girl Bulbul visiting Dharmayya's house, from whistling announcing her arrival to Dharmayya following her",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Picture of policemen in mufti being passed off as fare to Narayana by other rickshaw-pullers",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Part of song No. 5, words against the cooly",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Sound and picture of song No. 6 'Aelaraa', including brass band tune",
+        "length_m": 79.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Approved shots of rickshaw starting, procession joining and arrival at the house",
+        "length_m": 31.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Picture of Narayana breaking into Dharmayya’s house at night, leaving only a suggestion at the beginning",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Narayana in police custody saying 'What we do in dongathanam (theft) what they do is dorathanam'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Picture and sound referring to girl Bulbul arriving at Dharmayya’s house after Badrayya and Saunasi are separated",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Ramudu being beaten by Ranganna, leaving only a suggestion at the beginning",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Picture and conversation between Sannasi and Kamala after she is invited to Dharmayya's house, arrival of girl Bulbul, and whispered conversation",
+        "length_m": 9.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Picture and conversation of girl Bulbul inviting Kamala to Dharmayya's house",
+        "length_m": 32.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Entire sequence, sound and picture relating to Kamala's being taken to Dharmayya's house, leaving only suggestion of two girls entering the house, up to and including whistling and indecent gestures of Sannasi to girl Bulbul",
+        "length_m": 14.94
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Mayur Pankh”",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "43808",
+    "cert_date": "5-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Part depicting suggestion of a kiss between the European girl and the hero of the picture",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Nastik",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43810",
+    "cert_date": "5-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II, IV, V, X, & XI",
+        "description": "Cynical references to the deity",
+        "length_m": 19.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "II, IV, V, X, & XI",
+        "description": "Approved dialogues",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Words 'Yahan meri izzat looti bazar men' as uttered by Kamala in her dialogue in the boat scene (Sound), and scenes of whipping of Kamala in the boat and whipping in the house where the statue is broken",
+        "length_m": 32.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV & VII",
+        "description": "In all scenes where Anil enters the temple, shots of his looking derisively at the idols",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The word 'Chandal' uttered by the Rani Maa (Sound), and shots where the camera is focused on the bust of the corpse of Kamala, and the shot of blood trickling from her mouth",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "In the song 'Baithe balama hamaare the picturisation where the dancing girl approaches the villain and sits beside him and also the portion where the villain makes the gestures of a dancing girl",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Cynical reference to Deity by Anil (Sound)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "Suitable reference or picturisation to establish that the marriage between Anil and Rama was performed in a valid manner",
+        "length_m": 6.1
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "Scene in Amamath’s house between Mahant, Rama, Vinod and Ranima",
+        "length_m": 34.75
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Vinod marking Rama in streets",
+        "length_m": 12.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Vinod proposing to Rama",
+        "length_m": 53.34
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Rama insulting Vinod",
+        "length_m": 39.62
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Police chasing Anil, and later Rama in the street",
+        "length_m": 18.29
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Insertion of Rama in song No. 7",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Shankar hitting policeman on head",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Scene of Anil watching Rama on way to temple etc.",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Scene showing Rama refusing to speak to Anil in the temple, arrival of police and Anil jumping into water",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Crooks telling Mataji that the collection has come down to Rs. 4 from Rs. 400",
+        "length_m": 9.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Scene of Shankar hitting policeman on head at instance of Vinod",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Old lady advising Rama to take the child to doctor",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Anil refused to hand over the collections to the crooks",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Scene of boat sinking with Rama and Anil on it",
+        "length_m": 45.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Approved re-shot scene of sinking",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Words 'Bhagwan mananewalon ho bewukoof banana kya mushkil hai?' (Sound replaced with words 'Abe Joker, m logon ko bewakoof banana kya mushkil haj?')",
+        "length_m": 9.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Re-arranged sequence of the song",
+        "length_m": 39.62
+      }
+    ]
+  },
+  {
+    "film_title": "And Now Miguel",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "43847",
+    "cert_date": "20-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Two shots showing actual birth of a kid",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The picture of the dead lamb being skinned",
+        "length_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer No. 4 (W.S.) of “Gone With the Wind”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "43853",
+    "cert_date": "20-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the lady with flesh of her bosom and the parting between the busts exposed",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Bhagyawan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43856",
+    "cert_date": "20-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II, IV & K",
+        "description": "Word 'saat' as used in the phrases 'sat bachchon ki maa' and 'saat bachchon ka paap' (sound)",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Scene showing Ramlal barking under the 'influence' of rabies and his subsequent mad behaviour in the bazaar and at home",
+        "length_m": 115.82
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "ARE BHA1 BAVLE KUTTE BAHUT BADH GAYE HAIN IS LI YE BIN PATTEWALE AWARA KUTTE KO MAR DENE KA HUKUM HAI— (sound)",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "View of the bleeding from the dog shot dead",
+        "length_m": 9.91
+      }
+    ]
+  },
+  {
+    "film_title": "Mun Ki Ject",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43861",
+    "cert_date": "20-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III Sc IV",
+        "description": "Scene showing Prakash’s servant winking and making vulgar gestures with hands at Arsi in the palace of the Bagira Queen. (The dance song entitled” Dekho mera joban lea ubhar”)",
+        "length_m": 121.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the marriage ceremony dance the hip movement by dancers and musicians",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI & XII",
+        "description": "All actual drinking scenes",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The close-up of the blood stained body of Prakash in the hotel room",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Koday Shah",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "43864",
+    "cert_date": "27-1-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Word 'maaT from the sentences 'Jo rupaya paisa mile oh mera. to maul tohada' and 'Inhan ap tan kchya si bai maal onhan da te paise mere'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Substitution by the word ‘Kamal’",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The sentence ‘Jadon phal pakke, khaan noon hoar aagayc’",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Substitution by “te chhaven behn noon hoar aagaye”",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Stanza ‘Has, hac, hae pateela hogaya teela hae, hae’ of song No. 9 (Syapa)",
+        "length_m": 3.66
+      },
+      {
+        "kind": "insertion",
+        "reel": "XV",
+        "description": "The shot of police van at the end of the Teel in reverse motion",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Hulchul",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "62",
+    "cert_date": "11-2-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Scene of beating up of Nanda by the police in lock-up",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dialogue between Nanda and a fellow prisoner regarding starvation outside and Nanda's urging him to return to the prison early",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "Lachak",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43867",
+    "cert_date": "5-2-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Omit the fade out of Ramesh and Rita from the moment Ramesh begins bending over Rita, followed by sounds of kissing and the picture of two cranes standing beak to beak",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Omit the two close-ups of Kammu in the Lachak dance",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "1(b)",
+        "description": "Omit the shot in which Aga seated is shown trying to cover his head with the gossamer odnl of the girl and rubbing his head against her body",
+        "length_m": 17.37
+      }
+    ]
+  },
+  {
+    "film_title": "Azaad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "22973",
+    "cert_date": "23-2-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "When the policeman and inspector are about to climb a tree, delete the clowning by policeman, his handing his baton to the inspector, and his slipping repeatedly before getting on to the tree",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "When the inspector and 441 are discussing the plan to arrest Sunder, delete 441 saying 'In getting a big man into trouble, we may be transferred to some place where we may have not even water to drink. I am a man with young children.'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "When the inspector and 441 are taking down Shoba’s statement, delete the sentence of 441 'In this world lakhs of richmen are sleepingon the footpath.' The word footpath is replaced by word Sadak. (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "11 and 12",
+        "description": "Reduce by half, the present duration of the fighting, deleting in particular the two close-up insert shots of Sunder bleeding from the mouth in Reel 11, and the violent body blows in both sequences",
+        "length_m": 42.98,
+        "length_retained_m": 42.98
+      }
+    ]
+  }
+]

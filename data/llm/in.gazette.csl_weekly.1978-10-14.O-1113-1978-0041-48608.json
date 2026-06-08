@@ -1,0 +1,937 @@
+[
+  {
+    "film_title": "\" Shabash Daddy\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Mr. Kishore Kumar.",
+    "cert_no": "B/83061",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the word Bhangi from the sentence Mujhe bhangi bnaya, as spoken by Rangaswamy the press reporter.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the sentence Vo to zaduvali se bhi shaadi karegu, uttered by the brigadier.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the word Neech from the sentence Mein abhagan neech spoken by Kamli.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "\" Bobby Decrfield\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sydeny Pollack.",
+    "cert_no": "B/83768",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the view of Lillian with bare breasts before she gets into bed.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "\" Be- Sharam \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Deven Varma, Navaratna Films, 31, Worli Sea Face, Bombay-25.",
+    "cert_no": "B/82531",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the fight between Ram and Rony in the drinking den by deleting hard hitting shots on the stomach and face.",
+        "length_m": 43,
+        "length_retained_m": 33.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the following words from Deven Varma's dialogue in reference to his wife and his physical strength, \"khugh rakha hain.\"",
+        "length_m": 2.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the shot in which Chandra pulls out scissor from her body and blood oozing out.",
+        "length_m": 1.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the double meaning words Bumper, headlight said by Laxman in reference to the girl's breasts.",
+        "length_m": 2.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce suitably the close shot of Tony's blood smeared face.",
+        "length_m": 2.6,
+        "length_retained_m": 18.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the shot of Ram tied with snake and fight between Ram and Bharamdas by deleting hard hitting shots.",
+        "length_m": 30.6,
+        "length_retained_m": 59.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Remove the impression that the police officer deliberately committing the murder in the lift.",
+        "length_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "\" Pal Do Pal Ka Saath \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "G. P. Kapoor, Kaveri Films, BEST Nagar, Goregaon (W) Bombay-62.",
+    "cert_no": "B/79282",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From Manchala's dialogue addressed to his girlfriend, delete the remark Saaz agar thik ho to soor milno men der nahin lagati.",
+        "length_m": 13.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "From picturisation of song showing love montage, delete suggestive close shots of two hands processed together, legs on each other, the hand of the girl and its opening and other intercourse shots.",
+        "length_m": 6.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "During the scene when Tripti imagines her past romance after alighting from a bus delete shots of close physical proximity between her and Gyan and also her lips on his neck.",
+        "length_m": 2.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete Manchala's dialogue \"Jhad ke nichc chalkar soor milayenge, addressed to his girl-friend while he is taking her near a tree and subsequent tilt up shot and suggestive sound.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close view of Tripti's bare back when she is asking Gyan to button up her blouse, along with her dialogue “Nungi peethpar aap ki ungaliyan bahot achchi lag rahi hai.",
+        "length_m": 5.48
+      }
+    ]
+  },
+  {
+    "film_title": "\" Besharam \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Deven Varma, Navaratna Films, 31, Worli Sea Face, Bombay-25.",
+    "cert_no": "B/82531",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Hand glaous scene.",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Car entry scene.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Photograph of Sai Baba.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Press conference scene.",
+        "length_m": 13.72
+      }
+    ]
+  },
+  {
+    "film_title": "\" Rathi Nirvethain \"",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Supriya Creations, Madras.",
+    "cert_no": "M/11139",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "The shot of the blood-stain on the bicycle seat should be deleted.",
+        "length_m": 2.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "The close-pan of the heroine's body commencing from her feet upwards, while she is lying on the cot, in the imagination of Pappu, should be deleted.",
+        "length_m": 5.08
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "The love-making sequence of Pappu and the girl should be reduced, by deleting the close shots of the girl and boy caressing the back.",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "\" Vichitra Jeevitham \"",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sri Uma Lakshmi Combines, Madras.",
+    "cert_no": "M/11156",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "During the picturisation of the song, delete the shot where the women are being carried by the men perpendicular to their bodies.",
+        "length_m": 2.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "In the picturisation of the song, delete the shot where the girls are shown writhing on the floor with the men standing by.",
+        "length_m": 0.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the bed-room scene of Chandram and Gowri, to suggestion only.",
+        "length_m": 9.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "In the picturisation of the song, delete all visuals of indecent movements by the 2 female dancers, including all pose and mid shots.",
+        "length_m": 18.04
+      }
+    ]
+  },
+  {
+    "film_title": "\" Agent Vinod \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s. Sargam Pictures Pvt. Ltd., Bhevana, 422- Veer Savarkar Rd., Bombay- 25.",
+    "cert_no": "B/84542",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\" Kasme Vaade \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Ramesh Bohl, Rose Movies, 237 Baba House, T. P. S. III, 27th Road, Bandra, Bombay-50.",
+    "cert_no": "B/84700",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the entire sequence in which Juda is introduced for the first time when he is ringing the bells in the church and statue of Christ is shown. The Scene in which the Coffins with dead bodies are shown may also be deleted.",
+        "length_m": 46.33
+      }
+    ]
+  },
+  {
+    "film_title": "\" Chundadi Odhi Tara Naamni\"",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Madhubhai A. Patel R.S.R. Films, No. 8, Tinwala Bldg., Tribhuvan Road, Bombay-4.",
+    "cert_no": "B/84690",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reference to Dhede caste in the dialogue.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "From the dialogue of Nana Reference when he compares \"Chandals and Brahmins.",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "\" Trishul\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Trimurti Films Pvt. Ltd., B-11, Commcrco Centre, Tardeo, Bombay-34.",
+    "cert_no": "B/84744",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the fight between Madho Singh and Vijay, particularly deleting the visuals showing the former's blood-smeared head.",
+        "length_m": 1.52,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the fight on the roadside between Vijay and Gangy by deleting the visuals showing fight on the broad road.",
+        "length_m": 0.91,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "\" Aahutee \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s. Basho Productions, 588/D, Rama Nagar Society, 3rd Road, Khar Bombay-52.",
+    "cert_no": "B/84549",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "General",
+        "description": "Reduce substantially the overall impact of violence, cruelty, sadism, horror and gruesomeness which are predominant in the film by deleting or substantially reducing scenes of fights and torture to a mere suggestion.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Substantially reducing scenes of maltreatment of women including the slapping of a handicapped mother.",
+        "length_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted slapping of handicapped mother by villain.",
+        "length_m": 42.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleting the scene in which a man is forced to drink himself to death.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reducing the sequence in which a man is whipped a number of times.",
+        "length_m": 3.66,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Eliminating or reducing the scene in which a doctor takes out from the mother's foot what looks like a piece of bleeding flesh.",
+        "length_m": 17.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the view of National Flag displayed inside the office of the factory owner.",
+        "length_m": 13.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the vulgar visuals of two comedians who are disguised as husband and wife.",
+        "length_m": 8.23,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Reduce the visuals of two comedians in womanly attires, particularly deleting the Portion where one of them is asking the guard not to hit on the stomach of his partner who is described as pregnant and also the visual of the partner taking out an apple from his brassiers.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drastically reduce the scene in which Kaushalya (Kamini Kaushal) is trapped in fire, in order to reduce the impact of horror.",
+        "length_m": 9.45,
+        "length_retained_m": 4.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete close view of dancers shaking their breasts.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the scene where the comedian wants to go to.",
+        "length_m": 17.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Drastically reduce Harman's fight with tiger.",
+        "length_m": 1.52,
+        "length_retained_m": 7.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete close view of dancers shaking their breasts.",
+        "length_m": 13.0
+      }
+    ]
+  },
+  {
+    "film_title": "\" Indian News Review No. 1525 - A \"",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of International Film Festival held in New Delhi",
+        "length_m": 5.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce Prime Minister Shri Morarji Desai's speech",
+        "length_m": 4.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Added shots of Shri Jagjivan Ram, Shri Jayaprakash Narayan, Smt. Indira Gandhi, Y. B. Chavan. Shri Charan Singh, Shri AB. Bajpayee and Shri Morarji Desai addressing election meeting",
+        "length_m": 5.5
+      }
+    ]
+  },
+  {
+    "film_title": "\" Bommarillu \"",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Shri Vijaya Bapineedu Madras.",
+    "cert_no": "M/11202",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the loud smack from the bed-room.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shots of the woman undressing for bath as the comedian looks out of the window.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the following words: Yeh Tokkudu billa by Krishna. Tokkudu billa, occurring in the song. Banthulisthava, Mudda Banthulisthava in the song.",
+        "length_m": 2.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Delete the following visuals from the picturisation of the song: The girl sitting on the lap of the boy at the words \"Petlukuntava.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "The shot of the boy and the girl rolling on each other.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the shots of the comedian rolling on his wife and putting his legs on her repeatedly in the bed-room scene.",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the shot of the comedian lying on ground with whisky bottle in in his mouth, and with his legs wide open.",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the shot where the dancer jumps on to the stage with her thighs widespread in the BGM.",
+        "length_m": 4.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Movement of the hips of the dancer synchronously with a man facing her.",
+        "length_m": 1.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The dancer shaking her body on the ground along with the men.",
+        "length_m": 6.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "The man pulling the dancer by her thighs.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The entire game with the ball on the ground.",
+        "length_m": 6.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The dancer crawling through the men's legs.",
+        "length_m": 2.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The man pressing his face on the dancer's lap while sits on the table.",
+        "length_m": 5.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The dancer shaking her hips with the men scrambling around her.",
+        "length_m": 0.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the rape scene by deleting visuals after the villain grabs the girl's blouse from behind.",
+        "length_m": 3.22
+      }
+    ]
+  },
+  {
+    "film_title": "\" Khaidee No. 77 \"",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Shri G. Satyanarayana, Madras.",
+    "cert_no": "M/11133",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Reduce the passionate sound of panting and meaning by Madhavi during the song.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete close up of dancer's hip swaying while dancing on the table.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete close up of Madhavi's bust cleavage, while on bed.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete close-up of Madhavi's bust cleavage on bed as observed by Ravi.",
+        "length_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "\" Rendu Penkuttikal \"",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Shri N. C. Menon and Shri Y. V. Gopikrishnan, Madras.",
+    "cert_no": "M/11178",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete all direct and unmistakable references in the visuals and dialogues of the unnatural relationship between Girija and Kokila.",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted words Rasakeli Saiya thalangallil (Sound only replaced Manayan Kothikkunna Soundarya Rupamam).",
+        "length_m": 9.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the words \"Inakkilikal Alle Inakkilikal Alla Penne - Navathambathikal. (Sound only replaced by girls laugh sound).",
+        "length_m": 17.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted Mrs. Girja ennum Parayum\".",
+        "length_m": 2.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted words \"Huss vannu kanilla - Hussinnu ivideyano Jholi (Sound only replaced Guardian yannu kaanilla - guardian iyidanam Jholi.",
+        "length_m": 1.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted word Kulichu , (Replaced word Mamukku ).",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted girls moving towards the bathrooms and touching.",
+        "length_m": 4.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted girls inside the bathroom undressing.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the song, deleted: Girls inside the bathroom (Shadow view).",
+        "length_m": 1.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Girls inside the bathroom through the glass. (shadow).",
+        "length_m": 8.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Girls Photograph.",
+        "length_m": 0.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Girls in shadow.",
+        "length_m": 2.89
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Close shot of painting.",
+        "length_m": 1.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Girls inside the bathroom.",
+        "length_m": 5.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Close glot of hooks inserts.",
+        "length_m": 1.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Close shot of books insert.",
+        "length_m": 0.93
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Photo on the wall and girls in shadow.",
+        "length_m": 2.41
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Girls in shadow.",
+        "length_m": 1.78
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Photo on the wall.",
+        "length_m": 1.87
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Girls inside the bathroom and shadow (2 shots.)",
+        "length_m": 4.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Girls inside the bathroom.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted reference about perversion.",
+        "length_m": 2.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the entire episode showing a Konkani woman running after the comedian, falling down on the ground, rolling S embracing him and all subsequent shots showing their struggle on the ground etc.",
+        "length_m": 41.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete close-up of ventilated busts of girl in the bed, when she turns and walks away towards the end.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the entire Konkaiwoman's episode.",
+        "length_m": 28.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete words Ningalukku Endha Rahasyam Yellan Prathu kanikkalle.",
+        "length_m": 45.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the appeajarice of the Konkai woman in den.",
+        "length_m": 5.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the fight with iron gloves.",
+        "length_m": 22.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the rape scene drastically, retaining the bare minimum necessary for continuity (Reel verified after cut).",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete a man pressing the neck of the villain with his booted leg.",
+        "length_m": 7.16
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the climax fight Particularly deleting direct hit and kicks.",
+        "length_m": 7.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the fight between two women.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "\" Rowdi Rangamma \"",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Shri T. Babulnath, 507/6, Chirag Ali Lane, Nampalli, Hyderabad.",
+    "cert_no": "M/11222",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete the shot of Rani lying on the rock under the waterfall.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the following dialogue: (i) Nuvvu Emipattukomantey, Vadalakunta Pattukuntanu, Gattika Pattukuntanu, (ii) Bhale Polam ‘Bhale Polam by Rja (Sound only).",
+        "length_m": 1.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the word Andhukaina in the song replace Enthukaina appd.) (Sound only).",
+        "length_m": 0.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Delete the shot of Raja Putting his leg across Rani in the song saying Guttalekute Mittalekkunta.",
+        "length_m": 0.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the whipping of Raja by Ganda substantially (Retained 13.11 mts.)",
+        "length_m": 3.12
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Delete the following visuals from the picturisation of the song: (i) Raja lifting Rani's leg and pulling her.",
+        "length_m": 1.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Raja kissing Rani on the arms, neck, back etc.",
+        "length_m": 3.16
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Rani moving her hips with her legs across Raja.",
+        "length_m": 0.41
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Rani swaying her back vulgarly close to Raja.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce the whipping of Ganda by Raja, substantially (Retajocd 7 lashes, cut 8 lashes).",
+        "length_m": 6.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "General",
+        "description": "Reduce the use of the swear word Na Koduku to 2 in 3 timeoply, in the whole film. (Retained in Reel No. 5 and Reel No. 15 only).",
+        "length_m": 6.9
+      }
+    ]
+  },
+  {
+    "film_title": "\" Daaha \"",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35 mm",
+    "producer": "Sree Banashankari Pictures, Bangalore.",
+    "cert_no": "M/11214",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the attempted rape of Mudda by the probit, to bare suggestion only.",
+        "length_m": 20.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the attempted rape of Sita by the Patel to bare suggestion only.",
+        "length_m": 4.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete zoom shots showing the magnified hideous face of the madman.",
+        "length_m": 10.03
+      }
+    ]
+  },
+  {
+    "film_title": "\" Dak Diye Jai \"",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Ranjit Mull Kankarja, 87, Dharamtala Street, Cal- 13.",
+    "cert_no": "C/9207",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

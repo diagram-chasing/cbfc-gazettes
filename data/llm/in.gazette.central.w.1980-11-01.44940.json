@@ -1,0 +1,635 @@
+[
+  {
+    "film_title": "Suhaag",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Naag Devia Films, Shantilal Soni, 6, Ram Mandir Road, Vile Parle (E), Bombay-57",
+    "cert_no": "91901",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Replaced the initial still shots of painted hoarding alongwith commentary with only titles.",
+        "length_m": 0,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Apli Monse",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "V.K. Productions, 11, Flemingo, 1st Floor St. Alexius Road, Bandra, Bombay-50",
+    "cert_no": "91915",
+    "endorsement": "U",
+    "original_length_m": 4502.9,
+    "length_deleted_m": 3.77,
+    "final_length_m": 4502.51,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete visuals showing Kanchan and Shekhar in compromising, intimate poses and rolling over each other prior to and during the song sequence in the garden.",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the word 'maal' with reference to the dancing girl.",
+        "length_m": 1.41
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Tere Ashiq Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Prem Sagar Films, Natraj Studios, Kurla Road, Andheri, Bombay-400069",
+    "cert_no": "91919",
+    "endorsement": "U",
+    "original_length_m": 4321.05,
+    "length_deleted_m": 25.6,
+    "final_length_m": 4295.45,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete dialogue regarding children being born in spite of 'Nasbandi' and sending the wife to her parents for three years, as uttered by Keshto Mukerji.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete close shots of cabaret dancers with their thighs prominently exposed.",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Maal' and 'Choosa' with reference to Ramkali.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close shot of Ramkali's blouse being unzipped when her brassier is shown during attempted rape.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce drastically in impact the visuals showing fire and fighting between the villain, the hero and the heroine.",
+        "length_m": 21.0
+      }
+    ]
+  },
+  {
+    "film_title": "Marathon Map",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "4582",
+    "endorsement": "U",
+    "original_length_m": 3405.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the scene where two cars crash into an oil truck, and the petrol catches fire, delete close shots showing the dead body of Szell's brother (in front of steering wheel) catching fire and also similar close shots of the other person in his car.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete double meaning dialogue by Melendez when Bane runs up steps of the building: 'You time yourself in the shower' with suggestive action.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the fight between Doe and Chinaman, delete the shots when blood is oozing from Doe's hand profusely and other gruesome shots.",
+        "length_m": 1.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the love-making scene between Baba and Ela, and also delete the breast nudity.",
+        "length_retained_m": 1.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "M",
+        "description": "In the scene where Doe meets Szell who thrusts the knife into Doe's stomach, delete all shots depicting oozing of blood from Doe's stomach and also shots showing blood-stained hands (for the sake of continuity of the story a few frames showing Doe's body lying on the ground may be retained).",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "NO",
+        "description": "Delete the scene showing Doc entering into Babe's room with blood oozing from stomach and mouth and with blood-stained hands (only minimum number of frames may be retained for the sake of continuity of the story).",
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce considerably the scenes showing the dead body of Doe lying on the ground with blood oozing from his mouth in the room of Baho. Also delete the scene showing Doe's body being placed inside the coffin, retaining a few frames necessary for the continuity.",
+        "length_retained_m": 0.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & V",
+        "description": "Delete all the shots of dental torture, retaining just a few frames for suggestion of the purpose of the scenes.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Desh Drohi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sangam Arts International Bhagwant Singh, G.I. Khanna",
+    "cert_no": "4583",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue regarding children being born in spite of 'Nasbandi' and sending the wife to her parents for three years, as uttered by Keshto Mukerji.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete close shots of cabaret dancers with their thighs prominently exposed.",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Maal' and 'Choosa' with reference to Ramkali.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close shot of Ramkali's blouse being unzipped when her brassier is shown during attempted rape.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce drastically in impact the visuals showing fire and fighting between the villain, the hero and the heroine.",
+        "length_m": 21.0
+      }
+    ]
+  },
+  {
+    "film_title": "Apli Monse",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "V.K. Productions, 11, Flemingo, 1st Floor St. Alexius Road, Bandra, Bombay-50",
+    "cert_no": "91915",
+    "endorsement": "U",
+    "original_length_m": 4502.9,
+    "length_deleted_m": 3.77,
+    "final_length_m": 4502.51,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete visuals showing Kanchan and Shekhar in compromising, intimate poses and rolling over each other prior to and during the song sequence in the garden.",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the word 'maal' with reference to the dancing girl.",
+        "length_m": 1.41
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Tere Ashiq Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Prem Sagar Films, Natraj Studios, Kurla Road, Andheri, Bombay-400069",
+    "cert_no": "91919",
+    "endorsement": "U",
+    "original_length_m": 4321.05,
+    "length_deleted_m": 25.6,
+    "final_length_m": 4295.45,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete dialogue regarding children being born in spite of 'Nasbandi' and sending the wife to her parents for three years, as uttered by Keshto Mukerji.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete close shots of cabaret dancers with their thighs prominently exposed.",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Maal' and 'Choosa' with reference to Ramkali.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close shot of Ramkali's blouse being unzipped when her brassier is shown during attempted rape.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce drastically in impact the visuals showing fire and fighting between the villain, the hero and the heroine.",
+        "length_m": 21.0
+      }
+    ]
+  },
+  {
+    "film_title": "Marathon Map",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "4582",
+    "endorsement": "U",
+    "original_length_m": 3405.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the scene where two cars crash into an oil truck, and the petrol catches fire, delete close shots showing the dead body of Szell's brother (in front of steering wheel) catching fire and also similar close shots of the other person in his car.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete double meaning dialogue by Melendez when Bane runs up steps of the building: 'You time yourself in the shower' with suggestive action.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the fight between Doe and Chinaman, delete the shots when blood is oozing from Doe's hand profusely and other gruesome shots.",
+        "length_m": 1.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the love-making scene between Baba and Ela, and also delete the breast nudity.",
+        "length_retained_m": 1.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "M",
+        "description": "In the scene where Doe meets Szell who thrusts the knife into Doe's stomach, delete all shots depicting oozing of blood from Doe's stomach and also shots showing blood-stained hands (for the sake of continuity of the story a few frames showing Doe's body lying on the ground may be retained).",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "NO",
+        "description": "Delete the scene showing Doc entering into Babe's room with blood oozing from stomach and mouth and with blood-stained hands (only minimum number of frames may be retained for the sake of continuity of the story).",
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce considerably the scenes showing the dead body of Doe lying on the ground with blood oozing from his mouth in the room of Baho. Also delete the scene showing Doe's body being placed inside the coffin, retaining a few frames necessary for the continuity.",
+        "length_retained_m": 0.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & V",
+        "description": "Delete all the shots of dental torture, retaining just a few frames for suggestion of the purpose of the scenes.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Desh Drohi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sangam Arts International Bhagwant Singh, G.I. Khanna",
+    "cert_no": "4583",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete dialogue regarding children being born in spite of 'Nasbandi' and sending the wife to her parents for three years, as uttered by Keshto Mukerji.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete close shots of cabaret dancers with their thighs prominently exposed.",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Maal' and 'Choosa' with reference to Ramkali.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close shot of Ramkali's blouse being unzipped when her brassier is shown during attempted rape.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce drastically in impact the visuals showing fire and fighting between the villain, the hero and the heroine.",
+        "length_m": 21.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bandhan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "M/s. Kalimata Productions, 50, M.N. Sen Lane, Calcutta-40",
+    "cert_no": "090603",
+    "endorsement": "U",
+    "original_length_m": 3761.23,
+    "length_deleted_m": 18.0,
+    "final_length_m": 3743.23,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visual of the judge reading the verdict.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the objectionable portion in the song following the judge's verdict, amounting to contempt of court.",
+        "length_m": 17.0
+      }
+    ]
+  },
+  {
+    "film_title": "Srungara Ramudu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Sathiyaithaai Productions, Madras",
+    "cert_no": "81349",
+    "endorsement": "U",
+    "original_length_m": 4030.21,
+    "length_deleted_m": 12.02,
+    "final_length_m": 3988.92,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the word 'Meshanani' (Visual also deleted).",
+        "length_m": 4.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete visuals: Rajaram hitting Shanthi's back with a brief case; His lifting Shanthi's neckline with finger; His patting her lap with his hand and running his hand on her lap.",
+        "length_m": 8.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete dialogue of Rajaram with visuals of Shanti slipping her pallu: 'Brahmandamga undi'.",
+        "length_m": 3.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete dialogue of Rajaram: 'Alavatu chesuko Vali'. (Visual also deleted).",
+        "length_m": 4.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete visuals in the song sequence: Rajaram pinching the buttocks of Shanthi; His knocking her chest to chest; His hitting the buttocks with his knee; His hitting her with elbow which makes her fall on his side; His hugging her.",
+        "length_m": 1.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete words from song No. 2: 'Sth line Bppudomi- Bla dheyyalo', '7th line Oka gari . . Choppali', '7th line the last four words Andaka . . Cheyyali'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete visuals of Ram tearing the blouse strap of Shanthi.",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the words 'Repa Repa' in the dialogue 'Naku antakanto repa ropa'. (Visual also deleted).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete dialogue of Rajaram 'Na Debba'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete visuals in the song sequence: Body to body hit between Rajaram and Shanthi before the line 'Manchithanem'; His hitting with his shoulder on her body against the words 'Adi dampatulam manam'; Two prolonged low-angle shots of Shanthi and Rajaram on boat, revealing the thighs of Shanthi and his leg.",
+        "length_m": 8.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete dialogue of Rita while in bath tub - 'Vallu vedikkinde' and Pratap's reply 'Ayedi bath tubfoote'. (Visual also deleted).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete visuals of Pratap getting up with bare body and the shot of clock showing suggesting the time lapse.",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete visuals: Rajaram opening the zip of Rita; Visual of Rajaram sitting on Rita's lap; Rajaram hitting her with knee; Rajaram unzipping the blouse; Rita's gesture against the word 'Choodu choodu'; Gesture against the word 'Iddaram adeaata okati'; Rajaram's dialogue 'Nee bodilo unna vodi'.",
+        "length_m": 11.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete visual of Rajaram kicking Shanthi with leg; Shanthi rubbing on her hips and moving her skirt up and down against the words 'Vayasuku sogasulu choopistu'.",
+        "length_m": 4.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete dialogue of Rajaram: 'Ratribri oka ranku mugudito pandukini ranku pellam', 'Muhurtham Rathri padinkiti', 'Atta Mamaoto moodu nidralayinc cheseva'. Rita reply 'Ayyo antamathrane'.",
+        "length_m": 6.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Pratap's dialogue 'Na vallu yedikki potundi'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Indra Dhanussu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Shakili Enterprises, Madras",
+    "cert_no": "81367",
+    "endorsement": "U",
+    "original_length_m": 4078.22,
+    "length_deleted_m": 43.04,
+    "final_length_m": 3977.32,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the opening shot in the dance number, the forward and backward movements of the dancing couple.",
+        "length_m": 4.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the visual of the hero hitting the licentie in the abdomen and his.",
+        "length_m": 11.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the top-shot of the heroine's wriggling in the bed.",
+        "length_m": 8.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the visual of the 'schi Gui Liji' licking and licking of blood in his hand.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the last shot of Khan 'maring his botulinysor the henchman of the villain.",
+        "length_m": 10.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the visuals of the man falling on the red hot iron and dying with blood-smelled face.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Guruji's dialogue with Khan 'O mundanu Unchuki'. (Visual also deleted).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce the loud sound impact of the laughter of Guruji after shooting the forehead of Khan.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of Guruji's son lasting and licking blood.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the visual of Krishna's gesture of railing the girl below her waist in the song sequence.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete words in song 3 - last 3 words in charanan 1 - 'Dachite Na vallu vidukker'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the visual of hero and heroine hitting each other back to back.",
+        "length_m": 6.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the visual of hero placing his hands on the hips of the hej one and shaking.",
+        "length_m": 19.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete visuals in the climax sequence: Waist movements in the opening shots; Another movement of dancer pressing her hands below the pelly; The dancer's gesture against the words 'Na Rangu Chudura'; The gesture against the word 'Manusu', her hands in rubbing gesture above her breast line; The forward and backward movement and hip movement of the dancer against the words 'Terpa moda Teddeyle Telepotadi'.",
+        "length_m": 17.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete words in song No. 4: 'in the 1st line of Pallavi Langi reste Nilichindi Oda', 'In the 1st line in charanam 1 - Reiului. Vodunckevu ledura', 'In 3rd line in chiranam - Attaina poli112', 'In the 1st line in charanam 2 - ( Teppa moda Teddeste Telipe tundi )'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Uranguillit Kangal",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Gngai Brothers, Madras",
+    "cert_no": "81351",
+    "endorsement": "U",
+    "original_length_m": 3467.1,
+    "length_deleted_m": 2.5,
+    "final_length_m": 3467.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete visuals in the dance sequence of the hero and heroine singing together: The shots of the hero and heroine rolling over each other; The shot of the hero caressing the heroine's hips.",
+        "length_m": 2.5
+      }
+    ]
+  }
+]

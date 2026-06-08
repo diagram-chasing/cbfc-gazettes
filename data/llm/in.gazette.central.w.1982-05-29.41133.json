@@ -1,0 +1,253 @@
+[
+  {
+    "film_title": "Dhan Daulat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shiplakar, Bungalow No. 5, Meera Baug Santacruz West, Bombay-54.",
+    "cert_no": "91952",
+    "cert_date": "7-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "LX",
+        "description": "Delete derogatory references to the caste Sunar in the sentences: (i) Neech Haramzada] Sunar nc (ii) Kasai nahi, sundu",
+        "length_m": 13.9
+      }
+    ]
+  },
+  {
+    "film_title": "Maniyara",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Babubhai Tniba, 2, Nabuvat Villa, N. S. Road, J. V. P. D. Scheme, Andheri West Bombay-58.",
+    "cert_no": "91954",
+    "cert_date": "10-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, VII & XII",
+        "description": "Deleted all sequences where the eunuch appears with the comedian and his fiancee.",
+        "length_m": 396.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Comedian's request to his father-in-law about marrying his daughter.",
+        "length_m": 313.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Marriage scene of comedian and his fiancee.",
+        "length_m": 119.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Comedian approaches his friend Baburoopla to help him in escaping.",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Comedian, his fiancee and his friend Bahuroopla go to khandar and show a play (Tamasha) to the soldiers.",
+        "length_m": 58.2
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Comedian and his wife visit a temple for granting their wishes.",
+        "length_m": 588.3
+      }
+    ]
+  },
+  {
+    "film_title": "Jagal Bhag Hamar",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Swar Chitra, 11-A Roopdarshan, Juhu Lane, Bombay-58.",
+    "cert_no": "91955",
+    "cert_date": "10-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Rape sequence drastically reduced, particularly shots after Moti falls on Sone, deleted till his eye falls on her ring.",
+        "length_m": 13.06,
+        "length_retained_m": 7.5
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Death Dimension",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Film Finance Corporation",
+    "cert_no": "92721",
+    "cert_date": "10-1-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot in which a hand uncovers the transparent screen revealing Kelly's girl friend with bare bosom screaming (main title appears on this shot).",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot in which a (black) henchman of pig attacks another man with a lethal ring worn in his finger with a scream.",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot(s) in which a man with semi-nude girls around him is seen in swimming pool.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot in which the henchman of pig frightens Felicia with a turtle and her scream.",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot in which Kelly bashes a goonda on the tree trunk.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot in which Kelly pushes the henchman and the latter falls down the cliff.",
+        "length_m": 1.05
+      }
+    ]
+  },
+  {
+    "film_title": "Karm Veer",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "Cinemascope",
+    "producer": "M/s Vigneswara Movies, No. 1, Thanikachalam Chetty Road, T. Nagar, Madras-17.",
+    "cert_no": "91963",
+    "cert_date": "23-1-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the shot showing the cut hand of Guru lying on the ground, bleeding profusely.",
+        "length_m": 16.6,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete dialogue: Maa Bahen Ho Ya Beti Ho, Kali Ho Ya Gori Ho.",
+        "length_m": 0.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the scene of molestation of ladies.",
+        "length_m": 0.0,
+        "length_retained_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of a man with bugger on his stomach.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue: Doodh pite hui man ke saath.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the fight between the slaves.",
+        "length_m": 2.2,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the whipping of slaves.",
+        "length_m": 2.2,
+        "length_retained_m": 3.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the whipping scene of old man and his son.",
+        "length_m": 1.1,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Dao Pe Dao",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gayathri Cine Enterprises, No. 1, Porur Somasundara Mudali Street, T. Negar, Madru 17.",
+    "cert_no": "91965",
+    "cert_date": "24-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deleted views of dancer bending in indecorous posture.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deleted some of the shots in which the dancer indecorously brushes her posterior with a counter.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deleted one shot in which the Golden Robert hits the man showing blood marks on his face.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "A Dream of Passion",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Finance Corpo. ration Ltd.",
+    "cert_no": "4596",
+    "cert_date": "17-1-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the following dialogue: Luck Biblo.",
+        "length_m": 0.46
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "film_title": "Eyes of Laura Mars",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "John Peters",
+    "cert_no": "A-4584",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete photographs of two scantily-clad models lying over one another, a nude lady lying on the pavement with a dog, a bear lying on the floor with a girl in bikini leaning over it, two girls standing facing the camera with bare bosoms, and a girl lying dead with bare bosom.",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "II & III",
+        "description": "Reduce the shot showing the left eye of a victim bleeding.",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Reduce the use of four-letter words uttered by Tommy.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II & III",
+        "description": "From the sequence in the green room, delete all shots in which the female models reveal their bare bosoms or reflections thereof in the mirror.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots of scantily-clad models lying over one another, a nude lady lying on the pavement with a dog, and two girls standing facing the camera with bare bosoms.",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete a nude lady lying on the pavement with a dog.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete two girls standing facing the camera with bare bosoms.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete a girl lying dead with bare bosom.",
+        "length_m": 2.59
+      }
+    ]
+  },
+  {
+    "film_title": "Unmarried Woman",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Paul Maxursky & Tricia Cirinin",
+    "cert_no": "A-4585",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete dialogues: '...does the fuck him or does she adopt him?', '...he does not come on...', 'And then I had an orgasm. And then another...and then another', 'I'd say it was sexual', 'There ain't nothing wrong with a good-old fashioned high-ball orgasm', 'Never getting enough-always on the make...constantly worried 'bout performing'.",
+        "length_m": 2.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot showing the bare breasts of Erica in her bedroom.",
+        "length_m": 19.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Drastically reduce the love-making scene between Erica and her husband, leaving only suggestion.",
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from the dialogue: 'I bore Marlin gets permanent case of the clap and his Picker falls off'.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Drastically reduce the love making scene between Erica and Charlie, keeping only minimum necessary to establish the suggestion of sex act between them.",
+        "length_retained_m": 0
+      }
+    ]
+  }
+]

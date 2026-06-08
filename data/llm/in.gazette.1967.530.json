@@ -1,0 +1,518 @@
+[
+  {
+    "film_title": "Pillars of The Sky (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm.",
+    "producer": "Universal Pictures (I) P. Ltd., Metro House, M G. Rd., Bombay- 1.",
+    "cert_no": "50121",
+    "cert_date": "22-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete words from commentary: 'Kamaikin, He seems to be the only chief who hasn’t got his name out of the Bible' and 'Well, sir ho was baptized Aaron but he hates us so much he throw it away. Timothy! Ride slowlv sir!'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete 'if the white man goes, then we must follow.'",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IF",
+        "description": "Delete 'But from the white man too. has come a faith that will help us wait'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete Holden's dialogue 'I can't afford to lose you, Emmett, You heard Timothy speak of a faith lo help them wait'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete shot showing Red Indian warrior riding in the thicket dragging Blackwood.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel ,V",
+        "description": "Delete shot showing furious Malachi running to Red Indian warrior and later spitting on him.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete commentary spoken by Emmet: 'so you must give back your names,' and 'Elijah, Isaliah, Simon, Isac these from the Bible, you can use no longer.' and 'From now on, as you did before, take the names of animals, for yon are no better, This man gave you the most precious gift he had — his God!'",
+        "length_m": 4.87
+      }
+    ]
+  },
+  {
+    "film_title": "Dhruba",
+    "languages": [
+      "Hindustani"
+    ],
+    "producer": "Festival Films, 132, Famous Cine Bldg. Bombay-11.",
+    "cert_no": "50135",
+    "cert_date": "23-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce shot of the child under the beam that has fallen.",
+        "length_m": 1.9,
+        "length_retained_m": 9.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce shot of the queen after she has been hit on the head.",
+        "length_m": 0.22,
+        "length_retained_m": 0.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce to a flash the shot showing the fat lady sitting on the man with whom she dashes and whose pot is broken.",
+        "length_m": 2.74,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Delete shots of indecorous movements in the dance accompanying song No. I, beginning with the words ‘Jaanc’Jigar Na dekha idhar’ and replace with approved shots.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel K",
+        "description": "Delete shots of indecorous movements in the picturisation of the song No. 2 beginning with the words ‘Main Raise kadam apana’ and replace with approved shots.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the shot of the comedian spitting water on the fat lady.",
+        "length_m": 2.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "In the fight in the sarai, reduce the prominent view of the stomach blow and reduce shots of hitting on head.",
+        "length_m": 2.75,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "In the picturisation of song No. 3, beginning with the words ‘Dil se majbur delete the indecorous movements of the dancer and delete the prominent views of the dancer with emphasised busts and replace with approved shots.",
+        "length_m": 2.73
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Reduce to a flash the shot of Shabab with emphasised busts when she is placed on bed by Abdul Rehman and replace with approved shots.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Delete indecorous movement by dancer in the picturisation of the song No. 4 beginning with the words ‘Tumne dil se kya kah diya’ and replace with approved shots.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "In the picturisation of the song No. 5 beginning with the words ‘Hai Alla Kyun humane pyar kiva turnse’ delete the indecorous movements of the girls and replace with approved shots.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Delete the views of the henchmen of tanqui after their dhotis are pulled by the comedian. Delete also the reactions of the comedian.",
+        "length_m": 2.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the shot of Halaim scratching the neck of a soldier with the point of the poisoned sword omitting the portion showing the copying of blood.",
+        "length_m": 3.35,
+        "length_retained_m": 9.3
+      }
+    ]
+  },
+  {
+    "film_title": "Allen And Rossi",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Road, Bombay-1",
+    "cert_no": "50136",
+    "cert_date": "23-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete close shot showing thighs of the blonde chauffeur when she comes out of the car.",
+        "length_m": 12.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shots showing blonde chauffeur in a black net bathing suit and lights standing saluting Rossi and later Rossi embracing and kissing her passionately.",
+        "length_m": 12.6
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol; 708",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Metro Goldwyn Mayer (I) Ltd. Metro House, M.G. Road, Bombay-1",
+    "cert_no": "50137",
+    "cert_date": "23-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the following portions from the commentary in respect of the item ‘The Air War’: 'Hanoi again rebuffed world wide urgings for peace talks', '..after the North Vietnamese and Vietcong took advantage of the 96 hour lunar New Year truce to build them up', 'Reportedly enough equipment was moved into South Vietnam to support a 10000 men division in combat for 250 days', 'But North Vietnam President Ho Chi Minh would not make the one simple act of trust that Mr. Wilson said would have achieved peace', 'The U.S. had no military choice but again to go after the targets along the enemy lines of communication and supplies'.",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Badrinath Yatra",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mewar Films, Dhanuka Bhavan, Nehru Rd, Bombay-57.",
+    "cert_no": "50138",
+    "cert_date": "24-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Insert a tablet to the effect that the story of the film is based on Puranik stories and that the modes of life, dress, etc., of the characters depicted in the film have been designed to relate to the Puranik period.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the scene of Satsavati as being manhandled and ousted by Chandra’s servants, particularly deleting her being struck on hands.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Delete scene of Shridhar harnessed to the plough along with the bullock and replace with approved shots.",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete Gang’s remarks ‘Arc! Din dhaadcl’ with reference to his parents.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Drastically reduce the scene laid at the dancing girl’s place, particularly deleting shots of the customers conversing in Gujarati and Rajasthani, as also the remarks ‘Ek grahak ke liye dukan thode hi band ki ja sakti hai’ and Chandra's words ‘Ych kotha hi to hai Main kis kis ko mana kar sakti hoon’.",
+        "length_m": 13.41,
+        "length_retained_m": 24.33
+      }
+    ]
+  },
+  {
+    "film_title": "Kiss Kiss Kill Kill",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Mukesh Movies, 5, Owners Court, A- Road, Bombay-1",
+    "cert_no": "50139",
+    "cert_date": "24-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the shot of a man falling off the roof of a building.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the close shot of Sen with bruises on his face.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the shot of bare legs of a girl partly seen.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete dialogue of Oberon addressed to Joe: 'Unfortunately the atomic radiation was not good for the man's complexion'.",
+        "length_m": 7.61
+      }
+    ]
+  },
+  {
+    "film_title": "The Glory Guys",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "20th Century Fox Corp. (I) Pvt. Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "50155",
+    "cert_date": "25-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the fight in the saloon by deleting vicious blows and smashing of a bottle on the head of a man.",
+        "length_m": 14.95,
+        "length_retained_m": 34.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the entire sequence of a soldier and woman being in bed.",
+        "length_m": 5.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete all direct thrusts of spears, knives and arrows and the dragging of a soldier when his foot gets caught in the horse reins.",
+        "length_m": 2.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the view of the dead bodies by deleting all near views.",
+        "length_m": 4.33
+      }
+    ]
+  },
+  {
+    "film_title": "Beau Geste",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Universal Pictures (I) P. Ltd., Bombay-1.",
+    "cert_no": "50157",
+    "cert_date": "27-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete shot of indecorous hip movements of the belly dancer and Legionnaires making love to women in cafe.",
+        "length_m": 0.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete shot showing Dagineau firing gun at the Legionnaires.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete shot showing Beau Geste buried in a sand pit and exposed to the scorching sun.",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Fahrenheit 451",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Universal Pictures (I) P. Ltd, Metro House, M. G. Rd. Bombay-1.",
+    "cert_no": "50163",
+    "cert_date": "28-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VC3 A",
+        "description": "Reduce the scene of Linda lying with Montage on the bed and kissing him passionately, particularly deleting the portion wherein her posteriors are revealed.",
+        "length_m": 7.87,
+        "length_retained_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "F(3 A)",
+        "description": "Delete the shot of Linda, before the mirror, rubbing her partly bare bosom while turning towards the camera.",
+        "length_m": 4.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX(5A)",
+        "description": "Reduce the scene of the old woman dying engulfed in the flames, particularly deleting the view of her charred hand.",
+        "length_m": 10.69,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIK6B)",
+        "description": "Reduce the scene of firemen being burnt to death by Montag with spit-fire gun, particularly deleting the view of the man lying dead in flames.",
+        "length_m": 3.63
+      }
+    ]
+  },
+  {
+    "film_title": "The War of the Gargantuas-Brother of Frankenstein",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Patel Enterprises, Bombay-1.",
+    "cert_no": "50200",
+    "cert_date": "2-3-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the view of the giant octopus with red glow emitting from eyes and the shriek given by the man on the boat.",
+        "length_m": 16.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "N/A",
+        "description": "Reduce drastically the views of the Gargantuas, particularly deleting close views of their faces towards camera.",
+        "length_m": 18.49,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Dracula-Prince of Darkness",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Bldg., Churchgate, Bombay-1.",
+    "cert_no": "2015",
+    "cert_date": "25-2-67",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the blow of the dagger on the visitor by the butler.",
+        "length_m": 0.93
+      }
+    ]
+  },
+  {
+    "film_title": "24 Hours to Kill",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Warner Bros First National Pictures Inc., Bombay-1.",
+    "cert_no": "2019",
+    "cert_date": "2-3-67",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the reference to smuggling of gold from India to Hongkong in the dialogue.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete references to Karachi which occurs twice in the dialogue.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the indecorous hip movements of the belly dancer when she is dancing with her back to the audience.",
+        "length_m": 2.8,
+        "length_retained_m": 0.93
+      }
+    ]
+  },
+  {
+    "film_title": "Sardar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "I. A. Nadiadwala, 113 Monalisa Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "50186",
+    "cert_date": "2-3-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Insert a tablet to the effect that the story of the film is purely fictional without any historical basis and that the character of Hercules is imaginary.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the shot showing Chashita trying to pull down the gown of his wife.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the entire scene of Mahapujari raising objection to the demolition of the statue of Hercules and all dialogues with Shakti to the effect that he has chosen slavery in preference to religion.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the shots of an old man being mercilessly beaten up and women being dragged and molested by soldiers.",
+        "length_m": 3.96,
+        "length_retained_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Invasion of Astro Monster",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Patel Enterprises, Bombay.",
+    "cert_no": "50187",
+    "cert_date": "3-3-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete all views of the monsters, retaining only two views in a flash.",
+        "length_m": 15.54
+      }
+    ]
+  }
+]

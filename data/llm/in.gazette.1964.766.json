@@ -1,0 +1,667 @@
+[
+  {
+    "film_title": "Fariyad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41209",
+    "cert_date": "13-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Indecorous movements of female dancers in jeans during a song-dance sequence.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Indecorous movements of two girls while bending on their knees towards the end of a song-dance sequence.",
+        "length_m": 12.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Flash-back of Devdutt’s speech pertaining to racial discrimination by white men against Negroes, along with visuals of a white man and a Negro.",
+        "length_m": 19.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Margula’s remark while touching Devdutt's shoes: “Chamar hun na?” (Sound)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Fun In Acapulco",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "41212",
+    "cert_date": "13-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Dialogue of Dolores to Mike referring to their going out at night: “Nervous? Is good for the nerves.”",
+        "length_m": 1.75
+      }
+    ]
+  },
+  {
+    "film_title": "Mera Qasoor Kya Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "41213",
+    "cert_date": "13-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reels II, V, VI, VIII, X, XI and XII",
+        "description": "Rasila's remark repeated several times: “Main agar muchhon ko bal dun to murgi bhl ghabra ke anda chor de\" (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Babloo's remark addressed to Vijay: \"Sahab achhi jagah phansi,\" referring to fishing tackle getting entangled on Nirmala’s back (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Babloo’s remark addressed to the Registrar of Marriages: “Kisne kisko phansaya is se aap ko kya matlab,\" referring to the marriage of Vijay and Nirmala (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Shashi’s remark addressed to Rasila along with its repetitions: “Agar main zulphon ko bal doon to ghabra ke anda bhi murgi ko chhor de. (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "In the picturisation of the song: “Akhiyan apni chhupa ko rakh goriye....\" shot of Shashi’s amorous gesture of bending over Rasila when he holds her hands.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "All references in Babloo's dialogue about the change in Nirmala’s condition after her marriage and her symptoms of pregnancy.",
+        "length_m": 20.42
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Shot of Vijay’s father snatching the milk bottle out of the mouth of Vijay’s baby when Babloo is feeding him.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Close-ups of Harcharan’s dangling legs when Nirmala laments his having committed suicide by hanging.",
+        "length_m": 4.88,
+        "length_retained_m": 24.69
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "The scene of Vijay’s father pushing Nirmala along with her child down the stairs.",
+        "length_m": 0.15,
+        "length_retained_m": 1.07
+      }
+    ]
+  },
+  {
+    "film_title": "Mary Mary",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "41218",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Mary’s dialogue to Dirk: “It, er, it does seem a little like incest, doesn’t it?”",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dirk’s dialogue to Mary: “Yes, it looks delicious.",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Mary’s dialogue to Bob about men's sensibility regarding sex.",
+        "length_m": 9.06
+      }
+    ]
+  },
+  {
+    "film_title": "He Rides Tall",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "cert_no": "41219",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel M2B)",
+        "description": "Katie’s dialogue to Morgan: ‘I'm a young girl married to a worn out old man.'",
+        "length_m": 0.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel M2B)",
+        "description": "Katie’s dialogue to Morgan: \"A young woman needs more than an old man can give her.\"",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7(4A)",
+        "description": "Bart's dialogue to Katie: “You make it awful tempting to stop...\"",
+        "length_m": 1.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5(34)",
+        "description": "Fight between Morgan and Bart’s gang, particularly the sequence where Morgan’s hands are pinned by pulling down his coat.",
+        "length_m": 6.44,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5(34)",
+        "description": "Kiss between Katie and Bart.",
+        "length_m": 1.27,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7(44)",
+        "description": "Screaming of Katie when the Red Indians seize her, and the sequence where she cuts the face of the Red Indian chief with a knife.",
+        "length_m": 4.88,
+        "length_retained_m": 5.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8(45)",
+        "description": "Fight in the saloon when the young man is being tossed around by Bart’s gang.",
+        "length_m": 2.99,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Mary Mary",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "41220",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Mary’s dialogue to Bob: “You're even sensible about sex.” Bob’s response: “Would you like to explain that crack?” Mary’s response: “H'h, any man that would tap his wife on the shoulder at eleven o’clock and say, 'Are you in the mood tonight, because if you’re not, I’m going to take a sleeping pill' is just about as sensible as you can get!”",
+        "length_m": 9.91
+      }
+    ]
+  },
+  {
+    "film_title": "Drums of Africa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "41221",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "View of a negro baby lying and crying in grass while fire is spreading.",
+        "length_m": 0.33,
+        "length_retained_m": 0.23
+      }
+    ]
+  },
+  {
+    "film_title": "Badshah",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "format": "35 mm",
+    "cert_no": "41222",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Raka’s dialogue when he saves a boy from being trampled under Salaka's chariot: “Yeh daulatwale aankhon per path bandh kar chalte hain.\"",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "In the wrestling bout, shot of a wrestler with his legs raised indecorously while lying on his back.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shilomi’s dialogue addressed to Raka: \"Kya meri Jawani me masti nahin hai, kya men angrai me qayamat nahin hat.\"",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "In the song dance sequence (in colour) beginning with the words “Kuchh tumhen aur bhi aata hai satane ke siva,” shot of the dancer in a transparent skirt emphasizing nudity.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Shots of kidnapping, torturing and lashing of women by the soldiers of Salakas.",
+        "length_m": 5.49,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Shots of whipping of Sheba’s father by Salakas’ men.",
+        "length_m": 0.61,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "In torture chamber scene, lashing of Raka by Salakas’ soldiers and the close-up of Raka’s bleeding palm after he holds Salakas’ sword.",
+        "length_m": 4.57,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Flash shots of Salakas’ bleeding face after Raka blinds him with a pitchfork.",
+        "length_m": 0.3,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Badshah\"",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "41223",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel l",
+        "description": "The shot of bleeding palm of Raka.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Pro Vita Mundi (For The Life of The World)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "41229",
+    "cert_date": "15-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (Part 4)",
+        "description": "The shot showing the images of Buddha & Kali and the accompanying commentary.",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel JX (Part 5)",
+        "description": "The reference to ‘Islam’ and ‘Crescent’ in the speech of the African delegate.",
+        "length_m": 6.28
+      }
+    ]
+  },
+  {
+    "film_title": "Jekra Charanva Me Lagle Paranva",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "format": "35 mm",
+    "cert_no": "41230",
+    "cert_date": "15-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The underlined words from Song No. 5: “Hamhu huyee ck sachche aasik mat samjha hajjam”.",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The underlined words from Nandlal’s dialogue to Lilli: “Banglaa Ko To Doman Clmmaaran Khaatir ba”.",
+        "length_m": 0.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (a)",
+        "description": "The word “Beswaa” referring to Lilly from Geeta's speech to Nandlal.",
+        "length_m": 3.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (b)",
+        "description": "From Nandlal’s speech to his wife Geeta: “Ab tumhi hamaar ko nu kaam ke nekho rahgayel\".",
+        "length_m": 0.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (c)",
+        "description": "From Nandlal’s speech to Geeta, words establishing that no proper marriage ceremony had taken place between him and Geeta.",
+        "length_m": 2.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The shot where Nandlal is taking money around the dancer’s face and then handing it over to her.",
+        "length_m": 2.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Scene of 'kotha'.",
+        "length_m": 5.13,
+        "length_retained_m": 38.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The words “Kasbin” and “Kulta” in reference to Geeta, spoken by both Nandlal and Geeta.",
+        "length_m": 7.41
+      }
+    ]
+  },
+  {
+    "film_title": "Wave Coral And Rock",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "41259",
+    "cert_date": "17-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Scene showing the tossing of beheaded and skinned goats and sheep, and the laughing of the old worker thereat.",
+        "length_m": 6.7
+      }
+    ]
+  },
+  {
+    "film_title": "Fever",
+    "languages": [
+      "Hungarian with English Sub-titles"
+    ],
+    "format": "35 mm",
+    "cert_no": "1466",
+    "cert_date": "15-4-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Close-up of the dancer in a very brief dress.",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "4 — For Texas",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "1467",
+    "cert_date": "16-4-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Near-view of partly exposed and emphasised bust of Elya while getting down from the carriage, and while sitting in the restaurant with Zack.",
+        "length_m": 9.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue between Zack and Joe regarding Zack's twenty-five kids (orphans): “You must have the fastest horse in Texas. You better have a little more of this to keep your strength up.”",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot of Maxine in a transparent negligee when her body is seen silhouetted against the light as she goes into and comes out of an adjoining cabin. Near-views of Maxine in revealing negligee and Joe’s reaction on seeing her, along with his query: “You are wearing something?” Also references in the subsequent dialogue about her gown being “too revealing”.",
+        "length_m": 8.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Joe’s dialogue addressed to Maxine: “If I go to that cabin, you know what’s going to happen and I know what is going to happen. Before you ‘know it, I’ll be thinking about marriage again.\"",
+        "length_m": 7.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Shots of partly exposed and emphasised bust of Elya before she starts singing: “I love you.”",
+        "length_m": 3.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Prominent views of the movements of Elya’s partly exposed bust while walking out of the boat.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot of nude picture of Maxine.",
+        "length_m": 1.47
+      }
+    ]
+  },
+  {
+    "film_title": "Kab Hoehein Gawanwa Hamaar",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "format": "35 mm",
+    "cert_no": "40838",
+    "cert_date": "24-2-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Scene of Banwarilal and Chandra.",
+        "length_m": 34.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel ATE",
+        "description": "Scene of Manohar and Chandra.",
+        "length_m": 12.49
+      }
+    ]
+  },
+  {
+    "film_title": "Leader",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Filmalayascope, 35 mm",
+    "cert_no": "40982",
+    "cert_date": "10-3-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Shots of Police chasing Vijay Khanna etc.",
+        "length_m": 4.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Shots showing Diwan climbing Ravan etc.",
+        "length_m": 5.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVIII",
+        "description": "Approved shots replacing deleted sequence of Diwan climbing Ravan etc.",
+        "length_m": 5.07
+      }
+    ]
+  },
+  {
+    "film_title": "Time Marches On",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "33445",
+    "cert_date": "8-9-1961",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Various shots.",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Sukhachi Savli",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "cert_no": "40218",
+    "cert_date": "9-12-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels Nos. I, V, VI, IX to XIV",
+        "description": "Various scenes.",
+        "length_m": 337.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Repetition of part of the song from Reel VIII and Nanda’s dialogues.",
+        "length_m": 14.94
+      }
+    ]
+  },
+  {
+    "film_title": "Kinare Kinare",
+    "languages": [
+      "Urdu"
+    ],
+    "format": "35 mm",
+    "cert_no": "39377",
+    "cert_date": "3-10-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels Nos. HI, VIII and XV",
+        "description": "Various shots.",
+        "length_m": 95.41
+      }
+    ]
+  },
+  {
+    "film_title": "Swami Vivekananda Janma Satabargha Parti Utshab",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "cert_no": "39476",
+    "cert_date": "14-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Reduction of shots of the procession.",
+        "length_m": 5.0
+      }
+    ]
+  },
+  {
+    "film_title": "Vivekananda Smarotsav",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "cert_no": "39452",
+    "cert_date": "18-3-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Reduction of shots of the procession.",
+        "length_m": 36.0
+      }
+    ]
+  }
+]

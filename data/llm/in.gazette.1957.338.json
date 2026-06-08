@@ -1,0 +1,454 @@
+[
+  {
+    "film_title": "Trailer of “Trapeze”",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "18410",
+    "cert_date": "10-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Mike kissing Lola passionately and Lola saying “Stop, stop”",
+        "length_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Mike and Lola kissing during the trapeze act",
+        "length_m": 0.6096,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Taulcha",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s Chitra Niketan Private Ltd., Noble Chambers, Parseo Bazar St., Fort, Bombay",
+    "cert_no": "18411",
+    "cert_date": "20-11-50",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The shot of Ratna and Shekhar lying side by side in close proximity, with Ratna’s head on Shekhar’s arm",
+        "length_m": 10.0584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The shot of the landlord, wearing Marwari turban in the sequence of eviction of tenant, and associated dialogues; the sequence relating to the snatching of the idol by the landlord",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Close shots of amorous movements of the body by the chief dancer when she sings",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels VIII d> XI",
+        "description": "The word “Patliar” when used with the word “Bhagwan”",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The entire scene of procuration showing Shekhar in company with the procuror",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1432",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "18415",
+    "cert_date": "22-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item on \"THE SOVIET CELEBRATES\", commentary regarding cruelties inflicted by Russian Communism and lack of celebration in Moscow",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item on \"REPORT FROM SUEZ\", commentary regarding attempted looting of food, distribution of supplies by British troops, Nasser's orders, and British troops' restraint and praise",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Gaumont British News No. 47/50",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., Lotus House, 33A, Marine Lines, Bombay 1",
+    "cert_no": "18416",
+    "cert_date": "22-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Commentary regarding Egyptians, Colonel Nasser's orders, damage to residential quarters, and praise for British operations",
+        "length_m": 9.4488
+      }
+    ]
+  },
+  {
+    "film_title": "Malola J^ev",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Sadhnna Chitra, Sheridan House, Gowalla Tank, Bombay",
+    "cert_no": "18429",
+    "cert_date": "23-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "The shot where Kanji and Jeevi embrace on the bank of the river",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VI",
+        "description": "Dialogues of Hira",
+        "length_m": 8.8392
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IX",
+        "description": "The shot where a little girl is thrown out by Dulla",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XII",
+        "description": "The stoning of Jeevi by boys",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIII",
+        "description": "The torture of Jeevi by the priest",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIII",
+        "description": "The shot where Jeevi is shown lying as a result of stroke given by Kanji",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. VII",
+        "description": "Flash of the scene where Jugand boats Jeevi",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. VIII",
+        "description": "Flash of the witchcraft scenes",
+        "length_m": 49.6848
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. IX",
+        "description": "Flash of the scene where Jeevi is beaten and kicked by the husband",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XIII",
+        "description": "Flash of the entire sequence of exercising evil spirit",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Shehri Babu",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "18443",
+    "cert_date": "20-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot where a young man is shown sitting in a young girl’s lap",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word “Maai” (sound)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The dialogue: “Padni morke tore nolke dl tutl tod divang i” (sound)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "A London Symphony",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., Lotus House, 33A, Marine Lines, Bombay 1",
+    "cert_no": "18444",
+    "cert_date": "27-11-50",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 and II",
+        "description": "All shots in the scene where a man and a woman are shown in a bedroom in a semi-naked state and the man is searching for his shoes",
+        "length_m": 52.4256
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1433",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "18401",
+    "cert_date": "28-11-50",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item “Hungarian Refugees Here”, the words “into Russia”",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item “Minesweepers in Canal”, commentary regarding town damage, Nasser’s blockships, allied salvage vessels, British troops' watch, and Nasser’s obstruction",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "In dances of New Guinea and other islands, all shots of primitive women with their upper bodies bare",
+        "length_m": 6.4008
+      }
+    ]
+  },
+  {
+    "film_title": "Paunt Ahe Mulagf",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Mangal Pictures, 700/1, N.C. Pawar’s Bungalow, Poona 4",
+    "cert_no": "18463",
+    "cert_date": "20-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XL",
+        "description": "The scene where Ratan, the prostitute, is shown cooing Puhlwan who is in a huff after fighting with the Raj Kumar and his companion; the scene ends with Ratan and Pahlwan reconciling and making merry",
+        "length_m": 21.6408
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XL",
+        "description": "The following dialogue of Ratan: “Maj mage hajaro poren lugali lioti”",
+        "length_m": 0.762
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Running Wild\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Private Ltd., Mustafa Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "18479",
+    "cert_date": "30-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a man violently slapping Mother",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word “Tempting” from a title",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of girl saying \"I want it now”",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a couple making love",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Oklahoma",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "RKO Radio Pictures Private Ltd., Dhannur Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "18480",
+    "cert_date": "30-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "The Oklahoma Rija",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "The Portion KiS",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "A Town Like Alice",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., Lotus House, 33A, Marine Lines, Bombay 1",
+    "cert_no": "18481",
+    "cert_date": "30-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The word “Bastard” addressed by Joe Harman to Kampetei Sergeant",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The words “How a Jap, is not that enough” addressed by Jean Paget to Mrs. Frith",
+        "length_m": 0.85344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The word “Japanese” in Suleiman’s dialogue to Jean Paget",
+        "length_m": 0.33528
+      }
+    ]
+  },
+  {
+    "film_title": "Miami Expose",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Lotus House, 33A, Marine Lines, Bombay 1",
+    "cert_no": "486",
+    "cert_date": "30-11-56",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close views of Lila in which her bust is prominently shown in the scene where Ascot and Lila are in the bedroom of Havana Hotel",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In the scene where Ascot’s accomplices assault Bart, the close shot of the punches (retaining necessary for the sake of continuity)",
+        "length_m": 3.9624
+      }
+    ]
+  },
+  {
+    "film_title": "Parivar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Productions, Mohan Studio, Kurla Road, Andheri, Bombay",
+    "cert_no": "18266",
+    "cert_date": "27-11-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "Composite shot of husband and wife (Ganesh and Malati). Ganesh saying: ‘Aare sona ho to ao jao lame notice dene U Kya zaroorat hai",
+        "length_m": 3.048
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "Composite shot of husband and wife (Ganesh and Malati). Ganesh saying \"Yeb dabao, zoraedaboo”",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Alam Ara",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Desai Films, 3-F, Naaz Bldg., Bombay 4",
+    "cert_no": "17589",
+    "cert_date": "10-9-50",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Song: \"Aaiane se tero koi khali na gaya\"",
+        "length_m": 256.032
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel II",
+        "description": "Song: \"A ai bahar dokho, chhal tahar dekho\"",
+        "length_m": 115.2144
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Song: \"Zindagl bajar hai slndagi bajar...\"",
+        "length_m": 126.192
+      }
+    ]
+  }
+]

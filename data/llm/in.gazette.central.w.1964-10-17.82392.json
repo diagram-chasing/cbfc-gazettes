@@ -1,0 +1,674 @@
+[
+  {
+    "film_title": "Shriman Balasaheb",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Ghulam Hussain, 1-E, Naaz Bldg., Lamington Road, Bombay",
+    "cert_no": "42167",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted words from the dialogue between Bheema and Balasaheb, specifically from 'Tar ho, tumhaala kalpana ngabi Balasaheb, aho maazya taakadichi khari kalpana tilaach.'",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Second Chance (Look at Life Series)",
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42168",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "British Board of Film Censors Certificate",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Key Of The Door (Look At Life)",
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42169",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "British Board of Film Censors Certificate",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "As Good As Gold (Look At Life Series)",
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42170",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "British Board of Film Censors Certificate",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jazz All The Way (Look at Life Series)",
+    "colour": "Colour",
+    "producer": "The Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42171",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "British Board of Film Censors Certificate",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "You Can't Catch Much From A Fish (Look at Life Series)",
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhar-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42172",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "British Board of Film Censors Certificate",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Wichita",
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42183",
+    "cert_date": "28-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of gunmen lifting girls in a saloon where their undergarments are visible, and a shot of a gunman with a girl in his lap falling on the floor.",
+        "length_m": 9.5
+      }
+    ]
+  },
+  {
+    "film_title": "Aandhi Aur Toofan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kamran Films (Pvt.) Ltd., Mahalaxmi, Bombay-11",
+    "cert_no": "42184",
+    "cert_date": "28-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Munshiji with his hand on his stomach after leaving Ram's house.",
+        "length_m": 0.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of indecorous movements of Gulabo's exposed belly and shots of Gulabo and Bhaggu dancing the Twist.",
+        "length_m": 9.99
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "The song lines 'Dil laya main bacha ke Punjab se...' and 'Roop lai main bacha ke Rajasthan se' were replaced with approved words. Also, shots of indecorous hip movements and bust shaking by the dancer were deleted and replaced with approved blown-up shots.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX, XI",
+        "description": "Direct sword and dagger thrusts during fighting scenes.",
+        "length_m": 3.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Prominent view of Mala's bust while lying down during the song-dance sequence 'Irada na tha nap se pyar ka...'. Shots were covered with approved superimposition of shadow.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Distorted recitation of marriage shlokas by the pundit.",
+        "length_m": 2.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "The abduction scene was reduced by deleting shots of Mala being gagged and lifted from her bed.",
+        "length_m": 4.57,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "A Distant Trumpet",
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Cinema Bldg., Churchgate, Bombay",
+    "cert_no": "42189",
+    "cert_date": "29-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The kiss between Kitty and Matt.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "With Fire And The Sword",
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "42190",
+    "cert_date": "29-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels IV, VI XI & XII",
+        "description": "Direct thrusts by swords, knives, spears etc. in fighting scenes and quarrels.",
+        "length_m": 9.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The view of the German Captain being trampled upon and his dead body afterwards.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The shot of a soldier falling over a woman.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Reduced the view of heads buried in sand.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The underlined word 'Polish dogs' from the Tartar Chief's speech.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Reduced the view of Bohon's neck smeared with blood.",
+        "length_retained_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "Gunfight At Comancho Creek",
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42191",
+    "cert_date": "29-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduced the passionate kiss between Tina and Gifford and deleted indecorous view of Tina's bust.",
+        "length_m": 1.5,
+        "length_retained_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gunfight At Commancho Crook",
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "42192",
+    "cert_date": "29-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduced the passionate kissing between Gifford and Tina.",
+        "length_m": 2.5,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduced the fight between Gifford and Tina's friend.",
+        "length_m": 5.0,
+        "length_retained_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduced the fight between the gangsters and between Jesse and Gifford.",
+        "length_m": 8.0,
+        "length_retained_m": 5.5
+      }
+    ]
+  },
+  {
+    "film_title": "A Nation Is Marching",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Friends of Moral Rearmament (India), 1st Floor, Haroon House, 294, Bazargate St., Bombay-1",
+    "cert_no": "42197",
+    "cert_date": "31-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted commentary: '... Diade by our leaders' and '...Now committees have not ended corruption or immorality'.",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "Kings of The Sun",
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "42198",
+    "cert_date": "1-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (Part6A), Reel XII (Part 6B)",
+        "description": "In fighting sequences, shots of warriors on fire and close views of direct hits and thrusts of swords and arrows piercing through.",
+        "length_m": 22.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "In the ceremony of human sacrifice, reduced to a mere suggestion the actual killing of youth by the king.",
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "The Cracksmán",
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Cinema Bldg., Churchgate, Bombay-1",
+    "cert_no": "42199",
+    "cert_date": "1-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduced to a flash the close-up of T.V. screen showing a criminal drilling a hole around the lock of a safe before blowing it up.",
+        "length_retained_m": 0.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Remark of Wright about Japanese locks: 'The Japanese — they are a cunning race, you know.'",
+        "length_m": 3.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots showing Wright using various devices to open the lock of a safe.",
+        "length_m": 9.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Near views of cabaret girls making indecorous movements with outstretched legs while rehearsing an apache dance.",
+        "length_m": 6.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of a woman in a low-neck dress offering a rose to Wright, in which her bosom is prominently visible.",
+        "length_m": 7.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot of Wright looking at a girl's bust on getting up.",
+        "length_m": 1.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of the apache dancer falling on Wright (occurring twice) in which her thighs and hips in netted tights are prominently visible.",
+        "length_m": 2.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced to a flash the girl agent falling over Wright on the bed with his legs dangling, before the gentleman crook appears to collect the money from the safe.",
+        "length_retained_m": 0.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Reduced to a flash the gagging of the museum guard by the jewel thieves.",
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "The Cracksman",
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Cinema Bldg., Churchgate, Bombay-1",
+    "cert_no": "42200",
+    "cert_date": "1-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of the TV screen showing a crook blowing up a safe.",
+        "length_m": 0.63
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of the girl falling on Wright in bed with his leg dangling.",
+        "length_m": 3.48
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of Wright looking at a girl's bust on getting up.",
+        "length_m": 0.93
+      }
+    ]
+  },
+  {
+    "film_title": "Aggi Pidugu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sri Vittal Productions & Co., 63-6 Koil Street, Madras-7",
+    "cert_no": "40148",
+    "cert_date": "27-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted the lines 'Ichina pimmata muchata chupaka. Immantava Andimmantava. Inkomundi Popommantava' from song No. 1.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "After Song 1, deleted the shot of Raja and Roja bumping back to back.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Before song 2, deleted shots of very close proximity and near kissing between Malathi and Madhav.",
+        "length_m": 4.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted the shots of Madhav lifting Malati.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "Reduced to the minimum the shot of Raja and Roja in embrace cheek to cheek.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "In song 4, deleted the shot of Malati and Madhav touching lips while coming closer.",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted close shot of Malati lying down synchronizing with the line 'Sampenga poolavanti' in song 5.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted the shot of Raja turning Malati's face towards his lips.",
+        "length_m": 1.23
+      }
+    ]
+  },
+  {
+    "film_title": "Shehnai",
+    "colour": "Colour",
+    "producer": "New Oriental Pictures, 150 Famous Cine Building, Mahalaxmi, Bombay-11",
+    "cert_no": "42234",
+    "cert_date": "5-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From the Cabaret dance, deleted all close-ups and near-views of the scantily-clad female dancer, shots of her hip and bust-shaking, her approaching customers, her arching on the table, and a customer looking at her suggestively.",
+        "length_m": 59.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Deepak smoking a biri while outside school with his classmates.",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the song-dance sequence 'Kitni jawan hai zindgi...', deleted near, front and back views of the girl dancers in jeans doing the Twist with camera focused on their hips, and shots of Johnny falling over Rita.",
+        "length_m": 2.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted shots of Rita and Preeti pressing Johnny's legs (in disguise as poet) along with Johnny's dialogue pertaining to their action and shots of his placing his hand on their thighs and shoulders.",
+        "length_m": 19.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Front view of Rita in green jeans when the camera is focused on her hips.",
+        "length_m": 1.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot of bust-shaking by Rita in jeans while approaching the camera and of Johnny picking up a girl in jeans on his shoulder while dancing.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Johnny's dialogue addressed to Rita, when they fall in mud: 'Tum ko bhi yeh jagah nurum lagti hai' was replaced with 'Tum ko bhi yeh jagah acchi lagi kya'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The shot of Preeti falling over Deepak and embracing him in the Military hospital.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduced to a flash the shot of Deepak lying wounded with his face bleeding.",
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Aaya Toofan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R.M. Art Productions, Ranjit Studios, Dadar Main Road, Bombay-14",
+    "cert_no": "42235",
+    "cert_date": "5-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels II, IX, XIII & XII",
+        "description": "All shots of direct thrusts of sword, dagger etc. in fighting sequences.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels II, IX, XIII & XII",
+        "description": "Replaced deleted shots with approved shots.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Close-ups of Genie's face and reduced to a flash shot of his hand being cut by Deepu.",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "In the song-dance 'Zara sambhalna meri jan...', near-views of two girls swaying their hips and shots of their bust-shaking while reclining on the ground were replaced with approved shots.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "In the song-dance 'Aap ne kya kalian...', close-up of bust-shaking by Rajkumari was replaced with approved shots.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduced to a flash shot of magician throttling Kanchan.",
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels XIII and XIV",
+        "description": "Reduced fighting sequences, deleting shots where Deepu's loins are prominently seen and reducing to a flash shots of a Negro wrestler lying on a spike bed and wrestlers putting legs on the neck.",
+        "length_retained_m": 299.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of King and Queen coming.",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "Goswami Tulsidas",
+    "languages": [
+      "Avadhi"
+    ],
+    "producer": "Adarshlok, Manek Chambers, Lamington Rd., Bombay-4",
+    "cert_no": "42247",
+    "cert_date": "7-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deleted the reference to 'Shoshnaag' being commanded by Kaliyug to bite Tulsidas. Reduced the scene showing a number of snakes around Tulsidas.",
+        "length_m": 7.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced to a flash the shot of Ratna showing herself as a skeleton to Tulsidas.",
+        "length_retained_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Majboor",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "De Lux Films, 103 Famous Cine Bldg., Hainso Road, Bombay-11",
+    "cert_no": "42039",
+    "cert_date": "7-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Hospital scene.",
+        "length_m": 25.91
+      }
+    ]
+  },
+  {
+    "film_title": "Gabhir Nalkupe Sal Soch",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Samir Ghose, 29, Gariahat Road (West), Calcutta-31",
+    "cert_no": "39465",
+    "cert_date": "30-3-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Several shots of cultivation of paddy, jute and potatoes, and shots of water supply to the field from a deep tube-well.",
+        "length_m": 160.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Several shots of cultivation of paddy, jute and potatoes, and shots of water supply to the field from a deep tube-well.",
+        "length_m": 164.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Several shots of cultivation of paddy, jute and potatoes, and shots of water supply to the field from a deep tube-well.",
+        "length_m": 150.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Several shots of cultivation of paddy, jute and potatoes, and shots of water supply to the field from a deep tube-well.",
+        "length_m": 144.0
+      }
+    ]
+  }
+]

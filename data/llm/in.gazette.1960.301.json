@@ -1,0 +1,1491 @@
+[
+  {
+    "film_title": "Guest House",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "28600",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Manohar lassoing dancing Gauri with a rope; near views of bust-shaking during song 'Thandi thandi chulti hawaa'",
+        "length_m": 20.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, III",
+        "description": "Dialogues with sarcastic derogatory references to the City of Bombay",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of Neela putting her hand on Amar’s hand and his feeling excited",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Reference to ‘Dalmia’ by Dharamraj",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of hip-shaking by the ‘Sapera’ dancer; dialogue from song No. 6, 'Tera judoo im chalega o sapere...'",
+        "length_m": 12.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replacement of dialogue from song No. 6 with approved shots",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue 'Abhi to abhi shuru kar raha tha’ spoken by Amar",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Views of the principal dancer with shining costume and suggestive shots of dancers approaching customers",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shots of dancers' skirts flying too high and hip-swaying",
+        "length_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Replacement of shots of dancers with approved shots",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Fight between Amar and his opponents, deleting hard knocks, kicking, and shot of Amar breaking a bottle",
+        "length_m": 10.36,
+        "length_retained_m": 34.14
+      }
+    ]
+  },
+  {
+    "film_title": "Satta Bazaar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "28702",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Reference to position of U.N.O. in Kashmir",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of a professional girl sitting in front of a man, singing and gesticulating",
+        "length_m": 14.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Lines 'Masjid me Khuda aur mandir me Bhagwan ko becha jaata hui' from song No. 4",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Lines from song No. 6",
+        "length_m": 9.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replacement of shot of Savita’s bust with approved shots",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replacement of amorous hip movements by Savita with approved shots",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replacement of shots of a man with his head on a woman's lap with approved shots",
+        "length_m": 9.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fight between Shyam and a goonda, deleting shots of the goonda trying to hit Shyam with a stone",
+        "length_m": 2.74,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Scene of Badri Prasad trying to criminally assault Jamuna, deleting shots of him pulling her by the leg",
+        "length_m": 5.79,
+        "length_retained_m": 39.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Lines 'Chandi ke chand tukden'",
+        "length_m": 35.36
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Insertion of lines 'Sukh me bite hue...' in place of 'Chaandl ko rhand tukdon...'",
+        "length_m": 42.06
+      }
+    ]
+  },
+  {
+    "film_title": "Chacha Zindabad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "28266",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel No 1",
+        "description": "Substitution of new credit titles",
+        "length_m": 79.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No VI",
+        "description": "Replacement of song 'Teia Mora Chad Zimlnhad' with song 'Badi chtez ha.i pyar raohahhat aisi tami jhngn ki'",
+        "length_m": 94.82
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Ferry To Hong Kong’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 103.63,
+    "length_deleted_m": 3.35,
+    "final_length_m": 103.63,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of pirate menacing children and their shrieks",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of Little Boy being dragged away mercilessly",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Bobbikins",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2460.55,
+    "length_deleted_m": 22.56,
+    "final_length_m": 2437.99,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Underlined words from dialogue between Benjamin and Betty with reference to Valerio",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of a girl practising dance with thighs and legs exposed; shots of chorus girls descending stairs with thighs exposed",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Valerio’s legs shown suggestively dangling before Benjamin, particularly shot of her moving one leg seductively",
+        "length_m": 11.58,
+        "length_retained_m": 3.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Valerie lowering herself on Benjamin; words ‘Try me, Benji Boy’ said suggestively by Valerie to Benjamin",
+        "length_m": 3.25
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Bobbikins’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 83.82,
+    "length_deleted_m": 3.05,
+    "final_length_m": 80.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of Valerie lowering herself on Benjamin",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of chorus girls coming down stairs with thighs exposed",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shot of child staring at girls' thighs",
+        "length_m": 2.35
+      }
+    ]
+  },
+  {
+    "film_title": "Ferry To Hong Kong",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2846.83,
+    "length_deleted_m": 15.3,
+    "final_length_m": 2831.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of pirate chief pointing knife threateningly to children; menacing face of pirate chief",
+        "length_m": 6.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Words ‘You may kiss her’ addressed by children to Conrad and shots of children giggling mischievously",
+        "length_m": 3.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Fight in the restaurant (The Dragon), deleting shots of a sailor dragging a person by his legs",
+        "length_m": 4.79,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Pati vrata",
+    "languages": [
+      "Marathi"
+    ],
+    "original_length_m": 4264.12,
+    "length_deleted_m": 1.83,
+    "final_length_m": 4262.29,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Voluntary deletion",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Fashionable Wile",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 4486.72,
+    "length_deleted_m": 31.4,
+    "final_length_m": 4455.32,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Amorous movements of the bust by the female dancer; shots of close physical proximity between Kumini and Natwar",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Kamini indecorously dressed upon arriving at her father-in-law’s house",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue 'Heroine ko mask lagaya to...'; shots of Natwar lifting Kamini in close embrace",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of a woman blowing a balloon of chewing gum",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of Makhanlal picking up cigarette ends and children smoking cigarettes",
+        "length_m": 24.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of Ragini when her pallav falls down",
+        "length_m": 3.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Dialogue 'airf W. C. rah jaayogaa'",
+        "length_m": 5.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shot of a man with arms around a woman during advertisement; Chameli showing undue familiarity to the Seth",
+        "length_m": 2.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Edited sequence",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "The Nun’s Story",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 4136.14,
+    "length_deleted_m": 12.5,
+    "final_length_m": 4123.64,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Dance in The Ait Gallery",
+    "languages": [
+      "Music Only"
+    ],
+    "colour": "Colour",
+    "original_length_m": 536.45,
+    "length_deleted_m": 9.14,
+    "final_length_m": 527.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of lady dancer performing swift circular movements, throwing up legs and exposing thighs; skirt raised above knee",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Swift circular movements of lady dancer exposing thighs and underwear",
+        "length_m": 3.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Dance in a flash with lady dancer in black transparent lace dress",
+        "length_m": 6,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "New Germany",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 2073.64,
+    "length_deleted_m": 32.92,
+    "final_length_m": 2040.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of naked grown-up children bathing at sea-side; impression that deaths are caused by Atom Bomb explosion; dialogue 'We had ordered one of those presses, . . .to the bad joke!'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Dialogue 'But they are. . . .to Ratskeller at night'",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Ardhangini",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 4230.62,
+    "length_deleted_m": 40.23,
+    "final_length_m": 4190.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Encounter between Prakash and Maya in the Airport restaurant",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots of Prakash dashing against Chhaya and encircling her at the waist",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Song No. 4: words 'pahloo me'; near view of female dancer with bust prominently shown; shots of close physical proximity between dancers",
+        "length_m": 9.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Song No. 5: shots of close physical proximity between Prakash and Chhaya; shot of her lying across his legs",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Scene of Chhaya thrashing the child",
+        "length_m": 2.74,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Scene of mother-in-law throttling Chhaya",
+        "length_m": 2.29,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Gimbo Ki Beti",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 3490.02,
+    "length_deleted_m": 1655.04,
+    "final_length_m": 3184.98,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Song 'O I nukhro vaale': lines 'Vuh re majnu dekha huniko aur vabin par maehal guyn'; shot of an aboriginal trying to hit Sheola with an axe",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Replacement of sound for song 'Rang juinaalo...'",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replacement of shots of Simula reclining on table and Sardar caressing her",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Scene of Khatpat, Bholi, Champa and girls, deleting shots after Bholi asks Khatpat to marry her, and after she comes out of water",
+        "length_m": 86.56,
+        "length_retained_m": 103.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Suggestion of embrace between Ashok and Banmala",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Replacement of shots for song 'Tirchhi nazron he humps...'",
+        "length_m": 4.27
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replacement of shots of close physical proximity between Banmala and Ashok",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Scene of Khatpat as a fake doctor, deleting shots of him trying to put his face close to Bholi’s bust",
+        "length_m": 34.14,
+        "length_retained_m": 25.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Dialogue 'Bhagwan lie ando diyo'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII & XII",
+        "description": "References to human sacrifice from dialogue of aborigines",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replacement of sound for song 'Dual do uteri baabon men bnnhojri' and 'Aft, pyar karen'; replacement of intimate shots of Banmala and Ashok",
+        "length_m": 6.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Close shots of Banmala sleeping emphasizing her bust",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Dialogue 'Rainjit ke pobnlun mu iiajnan'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shots of Bholi lying on ground and Khatpat beside her during song 'O! madam till dodo hurnko'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Song 'Jhoota Jhooia pyar jataake': lines 'Lid lul gaidon pe, dil ko vanr diyao'",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots of Ranjit falling and vanishing in quicksand",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Fight of Ashok and party with aborigines",
+        "length_m": 3.05,
+        "length_retained_m": 31.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Fight between Ashok and aborigines, deleting shots of Khatpal hitting an adversary repeatedly",
+        "length_m": 4.57,
+        "length_retained_m": 16.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Fight of aborigines with Ashok and party",
+        "length_m": 12.19,
+        "length_retained_m": 35.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Fight between Ranjit, Ashok and their followers",
+        "length_m": 6.71,
+        "length_retained_m": 13.72
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Fight between Houma and Banmala, deleting twisting of arms",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Shots of Ranjit carrying Banmula on his shoulder, deleting near views",
+        "length_m": 9.45,
+        "length_retained_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Fight between Ashok and aborigines, and fight between Ranjit and Ashok",
+        "length_m": 22.86,
+        "length_retained_m": 60.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Intensity of sound of Banmala’s shriek",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘The Mirror Has Two Faces’",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 56.08,
+    "length_deleted_m": 7.32,
+    "final_length_m": 48.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Scene of Tardivet throwing his wife on bed and the struggle between them",
+        "length_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Brooklyn Goes To Hong Kong",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 266.7,
+    "length_deleted_m": 2.44,
+    "final_length_m": 264.26,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Words ‘And what is happening north of the border innIteH me happy to be south of the border’",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Chini Jodoogar",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 3421.72,
+    "length_deleted_m": 110.64,
+    "final_length_m": 3311.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From fight at street-show, shots of Pedro kicking a man fallen to the ground",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replacement of amorous movements of busts by dancing girls during song No. X",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Painful shriek of the Gypsy chief suggesting he was killed",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Song No. 2: words ‘Zaraa dll dheelaa karde’",
+        "length_m": 20.12
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replacement of shots focusing on Rosy’s waist and thighs",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Song ‘Tori ohaal pe sanam mai’: lines ‘Teri ohaal pe sanam mai to mergayaa goro gaal ki kasam ye jigar gayaa zaraa daalto idhar ek pyaar ki nazar...’ and ‘Bade khatto hai angoor mat daal tu nazoar, kuch aayegua na hautli kabhi banegi na baat’",
+        "length_m": 20.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Fight between Salkan’s party and Kishore, shots of Kishore being beaten up while held, and blinded by dust; blows delivered on the abdomen",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shrieks of shrouded patient being injected; shot of a man by the cliff running away",
+        "length_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Song ‘Main hoon jadoogar nirala’: lines ‘Der na kar ab aajaa jaanl bo Ja jaye loffdaft, ban ha jaye pyaarse tore do jaano ka ragodaa’",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shot of Chinese magician kicking Balkan",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Why Won’t Tommy Eat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 211.23,
+    "length_deleted_m": 0.7,
+    "final_length_m": 210.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing bare breasts when the lady feeds a baby",
+        "length_m": 0.7
+      }
+    ]
+  },
+  {
+    "film_title": "Yesterday And Today- Africa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 188.98,
+    "length_deleted_m": 1.83,
+    "final_length_m": 187.15,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of pawing African women with bare breasts",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "The Mirror Has Two Faces",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 2715.65,
+    "length_deleted_m": 27.43,
+    "final_length_m": 2688.22,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots in which Marie Jose is seen with her bust partially revealed",
+        "length_m": 4.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Scene of struggle between Marie-Jose and her husband on bed, tearing her dress; dialogue from Tardivet",
+        "length_m": 9.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scene of Marie-Jose and her brother-in-law sleeping together in bed",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Anatomy of A Murder",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 4559.18,
+    "length_deleted_m": 50.6,
+    "final_length_m": 4508.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue: ‘.... but I know that he tore my panties off, and did what he wanted’; ‘. . . .and said he was going to tear all my clothes off and attack me again’",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue: ‘I a woman says that she has had intercourse with a certain man, and’",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue: ‘Now, in this post-mortem where you also asked to determine whether or not the deceased had reached a sexual climax shortly before his death?’",
+        "length_m": 3.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue: ‘Do you know what constitutes rape under the law ?’; ‘Yes Sir, Violation is sufficient for rape. There need not be a completion’; ‘You mean she was flipping her hips around?’; ‘Yes’....; ‘Well she. . . .she kind of lean on him and a couple of times she humped him with her hips’; ‘. . . .And may good old Barney, when he came up to get some drinks from you, may he winked and said, ‘Alphonse, I’m gonna take this babe out and rape her’; ‘No No he didn’t’; ‘Yenb, And may be you said, Do It once for me. Boss’",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue: ‘I think that was the expression you used, swishing her hips around the pinball machine’",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Dialogue: ‘Do you always wear panties, Mrs. Manion?’; ‘Now your Honour, I object to this line of questioning. Now it’s immaterial what Mrs. Manion does all the time. On the night she was attacked, she was wearing panties, and that’s all we're concerned with’; ‘Your Honour, Mrs. Manion seems a little bit uncertain about what kind of panties she was wearing. And since these panties have not been found, I submit that it’s possible that she wasn’t wearing any and .... and has forgotten. That’s all I’m trying to get at’; ‘Do you always wear panties?’; ‘No’; ‘On what occasions don’t you wear them? When you go out alone at night?’; ‘Oh, non, on Objection. He says he's going after one thing and then he goes after another’; ‘I'll sustain the objection’; ‘Strike out the last two questions and Mrs. Manion’s answers. Now, Mr. Dancer get off the panties. you’ve done enough damage’",
+        "length_m": 22.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue: ‘As if they’d been ripped apart by powerful hands’",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Face of A Fugitive",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 2215.16,
+    "length_deleted_m": 109.73,
+    "final_length_m": 2105.43,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Fighting in the saloon between Ray Kincaid and Williams’ henchmen, deleting shots of blows to the chin and hanging of head on wall",
+        "length_m": 16.25,
+        "length_retained_m": 13.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots of gun-fighting between Ray Kincaid and Williams and his henchmen in the dilapidated building",
+        "length_m": 246.57,
+        "length_retained_m": 90.83
+      }
+    ]
+  },
+  {
+    "film_title": "The Oregon Trail",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2357.81,
+    "length_deleted_m": 79.25,
+    "final_length_m": 2278.56,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Scene of Blizzard whipping Harris",
+        "length_m": 6.19,
+        "length_retained_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Fight between Blizzard and Harris",
+        "length_m": 7.92,
+        "length_retained_m": 12.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Scene of torture of Blizzard by Hastings",
+        "length_m": 12.04,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Scene of battle between Red Indians and White Settlers",
+        "length_m": 45.72,
+        "length_retained_m": 39.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot of Jerie with an arrow pierced in his back",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot of Jeri’s son being struck by an arrow",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Garrison profusely bleeding",
+        "length_m": 0.61,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "The Mummy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 2449.55,
+    "length_deleted_m": 50.3,
+    "final_length_m": 2399.25,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Near views of Steve Banning being throttled by the Mummy",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue: ‘The Rublan slaves were put to the sword. Their fate Was ordained as was the fate of six maidens’ and corresponding visuals",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Scene of Kharis’s tongue being cut off; shots of Joseph being throttled by the Mummy",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Close views of the Mummy emerging from the case",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue between Mehemet and John",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots of Mehemet stabbing the poacher and police-man; close shots of John being strangled",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Sangatya Aika",
+    "languages": [
+      "Marathi"
+    ],
+    "original_length_m": 4078.74,
+    "length_deleted_m": 867.41,
+    "final_length_m": 3211.33,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Hand colouring of song 'Ram Ram Ghya'",
+        "length_m": 152.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Hand colouring of song: 'Bagadi Mazi'",
+        "length_m": 195.68
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV dt XV",
+        "description": "Hand colouring of 'Patlaohl Por-Vag and scene'",
+        "length_m": 187.45
+      }
+    ]
+  },
+  {
+    "film_title": "Mriter Mart© Agaman",
+    "languages": [
+      "Bengali"
+    ],
+    "original_length_m": 3927.17,
+    "length_deleted_m": 323.09,
+    "final_length_m": 3604.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Word 'Amader' preceding 'Jolkhanay' uttered by Chitragupta",
+        "length_m": 0.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13 and 14",
+        "description": "Sequence starting from a sentry guarding the Premier's house to the political leader breaking his own statue",
+        "length_m": 322.82
+      }
+    ]
+  },
+  {
+    "film_title": "Arnmai Magal Abhirami",
+    "languages": [
+      "Tamil"
+    ],
+    "original_length_m": 3215.65,
+    "length_deleted_m": 228.6,
+    "final_length_m": 2987.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Comedy by H. C. Ellappa at the police station, retaining only the report by the Chetti",
+        "length_m": 10.36
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Replacement of comic reactions by sub-inspector and H. C. Ellappa during Song No. 4",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Discussion between sub-inspector and H. C. Ellappa after Kasim escapes",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Entire comedy by H. C. Ellappa charging the cyclist",
+        "length_m": 82.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Replacement of picture shots of the dancer during Song No. 5",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Comedy by H. C. Ellappa after the street dance",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Conversation between sub-inspector and H. C. Ellappa regarding bills",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Picture shots of H. C. Ellappa partly dressed in female attire in Kasim’s cave",
+        "length_m": 22.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Sub-inspector and H. C. Ellappa being taken for hanging, deleting comedy dialogue by H. C. Ellappa",
+        "length_m": 16.46,
+        "length_retained_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Statement of H. C. Ellappa waking up in fright",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Scene of sub-inspector and H. C. Ellappa at the end of the reel",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Sub-inspector refusing to arrest, H. C. Ellappa advising, and sub-inspector agreeing",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "H. C. Ellappa's comedy dialogue and references to IPC sections",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Statement of H. C. Ellappa that his own mind was troubled",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Nagalingam's reply when Valli says she is not married",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Munian's reply when instructed to take Valli to the kitchen",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 17",
+        "description": "Replacement of sub-inspector's statement disguised as Bishop",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "Sub-inspector in Bishop's disguise engaged in stunt fighting",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 20",
+        "description": "Sub-inspector in Bishop's disguise engaged in fighting and wrestling with Nagalingam",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 20",
+        "description": "Sub-inspector disguised as Bishop asking for Ponnambalam’s daughter in marriage, and H. C. Ellappa advising and pulling off the beard",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Pelli Meetha Pelli",
+    "languages": [
+      "Telugu"
+    ],
+    "original_length_m": 4502.74,
+    "length_deleted_m": 2.74,
+    "final_length_m": 4499.99,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Brothel scene, picture and dialogue, retaining portion showing rescue of Lakshmi",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Mahishasura Mardini",
+    "languages": [
+      "Telugu"
+    ],
+    "original_length_m": 4947.92,
+    "length_deleted_m": 19.81,
+    "final_length_m": 4928.11,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Picture and dialogue at the Sati pyre, and Agni handing over the infant to Sukracharya",
+        "length_m": 19.81
+      }
+    ]
+  },
+  {
+    "film_title": "Behram Daku",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 3785.75,
+    "length_deleted_m": 61.26,
+    "final_length_m": 3724.49,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I F",
+        "description": "Song 2(a): lines 'Matak matak kar dil ka savaal karte hain'; visuals of a girl appearing during song 'Yeh phool aise hai khuahboo ka jin men naam nahi'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I F",
+        "description": "Replacement of visuals for song 'Yeh phool aise hai khuahboo ka jin men naam nahi'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Song 6: shots of Rehana lying in the lap of Anwar; shots of Anwar and colleagues carrying Hamida and her maids on their shoulders",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Entire scene between Bahadur (in female costume) and a woman",
+        "length_m": 30.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Shots of Rehana lying in the lap of Anwar under the tree, retaining only a flash for continuity",
+        "length_m": 24.38,
+        "length_retained_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Fight between the magician and Anwar, deleting shots of magician with a dagger in his abdomen",
+        "length_m": 20.73,
+        "length_retained_m": 24.99
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Pork Chop Hill’",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 73.15,
+    "length_deleted_m": 2.44,
+    "final_length_m": 70.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Admira|voioe: ‘Don’t you feel some responsibility towards thousands of...’",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Chinese representative removes earphone during Panmunjom discussion",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "The Amazing Colossalman",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 2237.23,
+    "length_deleted_m": 17.98,
+    "final_length_m": 2219.25,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of Col. Glen Manning lying on operation table with charred face",
+        "length_m": 6.71,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels III, IV & VII",
+        "description": "Screams",
+        "length_m": 2.74,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Shots of Col. Glen Manning pulling out knife from soldier's body (Dream sequence)",
+        "length_m": 3.35,
+        "length_retained_m": 1.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shot of sergeant being killed by syringe",
+        "length_m": 0.91,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shot of giant falling down the dam",
+        "length_m": 0.42,
+        "length_retained_m": 0.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of Colossal Man peeping into bathroom, breaking glass window",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “They Came To Cordura”",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 79.86,
+    "length_deleted_m": 10.36,
+    "final_length_m": 69.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dialogue: ‘Then it must have been quite a while since you’ve had a woman, I'd like to offer myself’; ‘They tried to rape me’; ‘I ain’t had a woman since we crossed the border. Now you turn her over to me and after I get through she won't be so damn fancy’",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot of two men trying to manhandle a woman",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "They Came To Cordura",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 3383.28,
+    "length_deleted_m": 6.4,
+    "final_length_m": 3376.88,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue of Truboo: ‘I ain’t had a woman since we crossed the border. Now you turn her over to me, and after I get through she won’t be no damn fancy’",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Dialogue of Chawk: ‘Give me a woman’",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Pork Chop Hill",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 2663.22,
+    "length_deleted_m": 12.8,
+    "final_length_m": 2650.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Chinese voice: Congratulations, and your tactics and bravery deserve our deepest respect",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Admiral: Don’t you feel some responsibility towards thousands of...; Admiral: Those are not just orientals, they are communists; Admiral: They are willing to spend lives for nothing, or for what seems nothing. That is what they want to know, are we as willing to do that as they are",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot of Chinese delegates refusing to listen to American delegates during discussions at Pan Mun Jon",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Clemons: Millions live in freedom today because of what they did",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Ardhangini",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 4230.62,
+    "length_deleted_m": 2.44,
+    "final_length_m": 4228.18,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion",
+        "length_m": 2.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Addition",
+        "length_m": 2.44
+      }
+    ]
+  }
+]

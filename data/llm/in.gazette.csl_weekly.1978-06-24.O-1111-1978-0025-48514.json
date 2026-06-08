@@ -1,0 +1,912 @@
+[
+  {
+    "film_title": "Gayatri Mahima",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division , Govt. of India",
+    "cert_no": "84114",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Title of the film on the face of the certificate may be read as \"Gayatri Mahina\" alias \"Ek Phool Ek Kanta\"",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Pandit Aur Pathan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division , Govt. of India",
+    "cert_no": "85136",
+    "endorsement": "U",
+    "original_length_m": 4075.11,
+    "length_deleted_m": 351.11,
+    "final_length_m": 3868.21,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "VII, XV, XVI",
+        "description": "Addition of various shots approved",
+        "length_m": 143.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV, XV, XVI",
+        "description": "Deletion of various shots approved",
+        "length_m": 207.27
+      }
+    ]
+  },
+  {
+    "film_title": "Sehakari Rishma",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "85359",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of various shots approved",
+        "length_m": 28.05
+      }
+    ]
+  },
+  {
+    "film_title": "Gharaonda",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "85501",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of various shots approved",
+        "length_m": 15.54
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV & XV",
+        "description": "Addition of various shots approved",
+        "length_m": 41.75
+      }
+    ]
+  },
+  {
+    "film_title": "Sall Solvan Chadya",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "85084",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replacement of the words \"Jazman\" and \"Bhaemani\" by \"Mehmani\" and \"Kamani\", respectively (Sound only)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Arvind",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "85763",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Title of the film on the face of the certificate may be read as \"Arvind\" instead of \"Arvind\"",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Letter",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "85159",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "GAD CHADHANYACHI SPARDHA",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "81914",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7 and II",
+        "description": "Deletion of various shots and the word \"Chief Minister\" approved",
+        "length_m": 63
+      }
+    ]
+  },
+  {
+    "film_title": "Haiwan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "85849",
+    "endorsement": "U",
+    "original_length_m": 3869.69,
+    "length_deleted_m": 86.36,
+    "final_length_m": 3783.33,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the inter-cut shot of a girl being suffocated during the war sequence",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the views of pictures of nude or semi-nude females in Taxi Driver's house",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reduce the scene of romance between Sethji and the girl, particularly deleting the intimate shots (Completely deleted)",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word \"Harramzada\", as spoken by Sethji addressed to the black-mailer (Sound only)",
+        "length_m": 5.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the vigorous movements of breasts by the cabaret",
+        "length_m": 25.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "In the imagination scenes of taxi-driver while he is driving the car, delete the shots of paintings of nude females and also passionate gestures of a girl",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the word \"Harramzade\" as spoken by the smuggler through the phone with reference to Inspector Salim (Sound only)",
+        "length_m": 1.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Reduce the shot of a girl drinking when her elder sister comes to take her away (Completely deleted)",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words \"Harramzadi\" , \"maal\" and other objectionable dialogues, as spoken by goondas with reference to a girl (Sound only)",
+        "length_m": 3.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the pictures of nude girls in the taxi-driver's house",
+        "length_m": 2.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "(a) Reduce to a flash the strangulation of Sultana (Length retained 1.67 m.)",
+        "length_m": 6.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(b) Reduce the flash-back shots of strangulation of girls (Completely deleted)",
+        "length_m": 17.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Delete the shot of nude picture on the wall when the camera pans from the view of a man bending over the girl in bed",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Delete the suggestive nude view of Naval Officer's finance",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the shots of Roopa taking shower, by deleting the portions where she is seen particularly nude (Longth retained : 7.75 m.)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce to a flash the chloroforming of Roopa and delete the portion of strangulation of placing of her body in the bath-tub (Length retained 6.08 m.)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Before titles delete the intercut shots (twicc) of a girl with barolegs wherever it is suggested that she is being molested",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Delete the underlined words from the following dialogue spoken by Col. Vurma \"Aap ka tala har chabi se khul jatu hai, uap ka tala to khul gaya ab meri chabi. (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the beating up of Haiwan by Col. Varina as also the circus people bitting haiwan. (Length retained : 34 - 74m)",
+        "length_m": 6.86
+      }
+    ]
+  },
+  {
+    "film_title": "The Wilby Conspiracy",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "4086",
+    "endorsement": "A",
+    "original_length_m": 2891.64,
+    "length_deleted_m": 10.45,
+    "final_length_m": 2881.19,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from the following dialogue spoken by Shack in the car. \"They wired my balls to a storage battery and switched on the current\"",
+        "length_m": 0.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(a) Delete the underlined words spoken by Van in the following dialogue: \"Mukerjec I am glad you re out of politics - stick to what you Indians know bost-cheating theblacks \"",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(b) Delete the following dialogues: Van : \"Swear on your God - what s his name ?\" Horn : \"It s Vizhnu . . . . . . and Mukerjee could swear by the beard of the Propher or the nails of the True Cross and it wouldn t mean a thing . . . . . . . . .",
+        "length_m": 4.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the love scene betweon Keogh and Rina in the bath tub, and delete the view of Rina where her nudo breast it visible. ( Length retained : 2.00 m .)",
+        "length_m": 0.42
+      }
+    ]
+  },
+  {
+    "film_title": "Naam Pirandha Mann",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "79595",
+    "endorsement": "U",
+    "original_length_m": 4567.58,
+    "length_deleted_m": 14.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shot of the police sergeant buttonlog his pant after the suggested rapo of Valli",
+        "length_m": 2.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shots and dialogue suggosting that M.L.A. wanted money for attesting the application of Thevar.",
+        "length_m": 10.28
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Delete the close shot of the dancer jerking her bust on the word Kattidam Jolikkiradhu, in the picturisation of the song. (Replaced approved shot 0.98 )",
+        "length_m": 0.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the following words of the police Suda cholli uttharavu. (Sound only) (Replaced approved words)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi Driver",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "79596",
+    "endorsement": "U",
+    "original_length_m": 3955.4,
+    "length_deleted_m": 1.22,
+    "final_length_m": 3954.18,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete close-up of the bird struggling after boing shot down",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Aadu Puli Aattam",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "79590",
+    "endorsement": "U",
+    "original_length_m": 3975.2,
+    "length_deleted_m": 32.75,
+    "final_length_m": 3947.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shots of the dancer moving her bust indecently during the music",
+        "length_m": 4.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Delete the shot where the cabaret dancer jerks her bust indecently (Replaced shot of clock 0.95 )",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the underlined word by Rajagi \"God damn stupid\". (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the scene of Murali's wife and her boss together in an embrace, to a suggestion (Retained : nil)",
+        "length_m": 14.02
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Delete the close and medium shots of indecent bust joys hy the dancer and the indecent exposure of her entire thigh. Approved replacements 1.83, 0.91 & 0.91 )",
+        "length_m": 3.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduce the scene of Rajani molesting Malati, to a suggestion",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Delete the following words by the old Muslim In the jaul : \"Allah Necngathan \" (Replaced \"Ellam Ncen gathan). Total roplacements 4.60 Mts.",
+        "length_m": 4.6
+      }
+    ]
+  },
+  {
+    "film_title": "Chillarakottu Chittemina",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "79592",
+    "endorsement": "U",
+    "original_length_m": 3971.24,
+    "length_deleted_m": 12.8,
+    "final_length_m": 3958.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the scene of the toddy tapper's wife and her lover from the time they are on the bed together, to the end of the scene along with the dialogue",
+        "length_m": 12.8
+      }
+    ]
+  },
+  {
+    "film_title": "Ellam Avaley",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "79592",
+    "endorsement": "U",
+    "original_length_m": 4004.76,
+    "length_deleted_m": 0.97,
+    "final_length_m": 3993.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the close hot of the dancer in the hotel room jerking her bust indocently. (No replacement)",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the underlined words from the song : “Thiru meni Vaadamal, Siru Osat Varimal\" (Sound only ) (Osai - deleted gap in song)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Vasthadey Maa Baava",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "79594",
+    "endorsement": "U",
+    "original_length_m": 3710.33,
+    "length_deleted_m": 56.38,
+    "final_length_m": 3665.53,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Delete Padmasri and Padma Bhushan mentioned against names in credit titles. (Replacement approved 5.79mts.)",
+        "length_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "(i) Delete close-ups of bust cleavage of dancer. (Replaced appd. shot 0.61 )",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "(II) Delete the entire passionate love scene on bed between Gopi and the dancer, retaining only shots of dancer with towel woven her , and Gopi opening the door. (Replaced appd, shot 3:35)",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Delete the kissing suggestion betweon Shantha and Venu, and shos showing them rolling on cach other, (Replaced approved shot 1.83 )",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the entire abstract dance performed before Gopi in hotel Ritz",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the entire picturisation showing a lady selling mangoes to Surl along with the accompanying vulgar dialouges",
+        "length_m": 21.21
+      }
+    ]
+  },
+  {
+    "film_title": "Nagar Hole",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "79216",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Nagar Hole named Jungle Uncle for export purposes",
+        "length_m": 2
+      }
+    ]
+  },
+  {
+    "film_title": "Aaj Ki Dhara",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "85849",
+    "endorsement": "U",
+    "original_length_m": 3869.69,
+    "length_deleted_m": 86.36,
+    "final_length_m": 3783.33,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the inter-cut shot of a girl being suffocated during the war sequence",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the views of pictures of nude or semi-nude females in Taxi Driver's house",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reduce the scene of romance between Sethji and the girl, particularly deleting the intimate shots (Completely deleted)",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word \"Harramzada\", as spoken by Sethji addressed to the black-mailer (Sound only)",
+        "length_m": 5.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the vigorous movements of breasts by the cabaret",
+        "length_m": 25.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "In the imagination scenes of taxi-driver while he is driving the car, delete the shots of paintings of nude females and also passionate gestures of a girl",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the word \"Harramzade\" as spoken by the smuggler through the phone with reference to Inspector Salim (Sound only)",
+        "length_m": 1.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Reduce the shot of a girl drinking when her elder sister comes to take her away (Completely deleted)",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words \"Harramzadi\" , \"maal\" and other objectionable dialogues, as spoken by goondas with reference to a girl (Sound only)",
+        "length_m": 3.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the pictures of nude girls in the taxi-driver's house",
+        "length_m": 2.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "(a) Reduce to a flash the strangulation of Sultana (Length retained 1.67 m.)",
+        "length_m": 6.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(b) Reduce the flash-back shots of strangulation of girls (Completely deleted)",
+        "length_m": 17.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Delete the shot of nude picture on the wall when the camera pans from the view of a man bending over the girl in bed",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Delete the suggestive nude view of Naval Officer's finance",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the shots of Roopa taking shower, by deleting the portions where she is seen particularly nude (Longth retained : 7.75 m.)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce to a flash the chloroforming of Roopa and delete the portion of strangulation of placing of her body in the bath-tub (Length retained 6.08 m.)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Before titles delete the intercut shots (twicc) of a girl with barolegs wherever it is suggested that she is being molested",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Delete the underlined words from the following dialogue spoken by Col. Vurma \"Aap ka tala har chabi se khul jatu hai, uap ka tala to khul gaya ab meri chabi. (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the beating up of Haiwan by Col. Varina as also the circus people bitting haiwan. (Length retained : 34 - 74m)",
+        "length_m": 6.86
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Ambe Maa",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "85861",
+    "endorsement": "U",
+    "original_length_m": 3383.63,
+    "length_deleted_m": 52.47,
+    "final_length_m": 3331.16,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "During the song \"Jogi re....., \" delete two shots of breast jerking, the shot of unbuttoning of blouse and leg movement in water by Rambha the dancer (Replaced with approved shots 3:12 )",
+        "length_m": 3.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the close view of Indra disguised as Gautam caressing bare leg of Ahilya and the suggestivo facial expression in the love making scene between Ahilya and Gautam (Indra )",
+        "length_m": 3.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete completely the cabaret dance interposed in the classical dance in Indra Darbar",
+        "length_m": 48.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Delete the view of P.M's portiat at the end (Replaced with approved shots 14.73 m .)",
+        "length_m": 14.73
+      }
+    ]
+  },
+  {
+    "film_title": "Wangar",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "85958",
+    "endorsement": "U",
+    "original_length_m": 3549.82,
+    "length_deleted_m": 57.1,
+    "final_length_m": 3494.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the Shobha s dialogue on the tractor addressed to Baldeo Churadi kyon yarciain -sunoji tusi ki khaongeki khaonge tuşi. Naa daso 114 daso par ciuradi tun vado ahadi taraan . . . .",
+        "length_m": 7.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Baldco s words addressed to Nimu : \"Saonon pyasa hichhad diogo \"",
+        "length_m": 4.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete entirely thecomedian bringing gout and millking it",
+        "length_m": 33
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Delete shots in which feet of Indu and Santosh are scen intetwined in their lying posture. ( Replaced with approved shots 2 :00 )",
+        "length_m": 2
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Delete the dialogues between Baldev and Nimoo on the tractor beginning from fariner s words : \"Achha gal sun . . . . \" to Nimoo s words \"Chal hat baiman \"",
+        "length_m": 10.6
+      }
+    ]
+  },
+  {
+    "film_title": "Rani aur Lalpari",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "77691",
+    "endorsement": "U",
+    "original_length_m": 3794.77,
+    "final_length_m": 2855.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "A total per voluntary deletion of 938.97 Mts. from Reels 1, 2, 3, 4, 5, 6, 8, 9, 10, 12 & 13 is approved",
+        "length_m": 938.97
+      }
+    ]
+  },
+  {
+    "film_title": "Bhule Alludu",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "3361",
+    "endorsement": "U",
+    "original_length_m": 4064.52,
+    "length_deleted_m": 2.85,
+    "final_length_m": 4061.67,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Delete all these shots of the nude model, except the last one where she is trying to cover himself. (Substitute shot of model scen through the certain approved )",
+        "length_m": 2.85
+      }
+    ]
+  },
+  {
+    "film_title": "Banasankari",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "79741",
+    "endorsement": "U",
+    "original_length_m": 4446.35,
+    "length_deleted_m": 13.72,
+    "final_length_m": 4432.63,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1 & 2",
+        "description": "Reduce to the bare mimimum Rananath's attempt at rape of 5 girls. (Retaied 4.88 Metrcs & 3.04 Metres )",
+        "length_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduce the prolonged caressing of Chandra by Ranganath to bare mini mum. (Retained 15.24 Metres )",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Radha's Ayurvedic Soap",
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "cert_no": "79742",
+    "endorsement": "U",
+    "original_length_m": 36,
+    "length_deleted_m": 3,
+    "final_length_m": 33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word Janathipathi in both the Tamil and Malayalam versions. (Sound only )",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the downward panning shot of the body of the woman in the bath, in both Tamil and Malayalain versions",
+        "length_m": 3
+      }
+    ]
+  },
+  {
+    "film_title": "Odi Vilayadu Thatha",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "3360",
+    "endorsement": "A",
+    "original_length_m": 4094.32,
+    "length_deleted_m": 114.6,
+    "final_length_m": 3992.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Kownder's dialogue : (1) \"Vara Vara . . upto Nan Ingirindu pogamatten\". (II) Naan Adodan Harumasama kottukondirukkircn . upto kodukka magtengare. (III) Nee , Naan andru sindhiya ratham (IV) Vandana .. . upto valavannu pesi elapu vandhidichu",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the sequence where two girls come to sell tickets to Mudaliar and Kownder, delete close-ups where camera pans on (1) the bust of the first girl: (11) the buttocks of the second girl. (Replaced approved shot 4.27 )",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Delete repetition of similar shots where Kownder and Mudaliar sign cheques. (Replaced appd. shot 6 -71)",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete entire text of song No. 1 beginning with the words \"Aa paar aadąi\" sung against the picturisation of cabaret dance. (Souad only replaced )",
+        "length_m": 9.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "In the picturisation of cabaret dance, against the above song, delete (a) close-up of dancer's first bust thrust ; (b) dancer on the floor near villain, her leg movements ; (c) dancer on the floor, picturisation against 3rd stanza of song revealing centre with thighs drawn aparta close-up of bust - crawling and rolling - swaying bottom slightly raised above ground. (Replaced app. shots 4.88 )",
+        "length_m": 41.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "(i) Delete the picturisation of Kownder and Vedumani from the time they go into the bathroom , upto the time the children come back dialogues of boys and parents — till they say no cinema - powercut",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "(ii) Delete the dialogue between Mudaliar And Astrologer from \"Ennango chinnapillai madhri- - upto \"Idhu prayojanam illai- adhudan uonai kettukkiren \"",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Kowndor's dialogue to hotel manager \"Ennanga Ellathayum Aatarangale \". (Sond replaced )",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Mudaliar drinking liquour kept on Julie's hare thigh",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the girl with torn blouse , revealing baro back in the studio , and also her subsequent shots with bust pressed on the shelf, in between Selvam and villain",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Galatta Samsara",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "79737",
+    "endorsement": "U",
+    "original_length_m": 4430.52,
+    "length_deleted_m": 3.04,
+    "final_length_m": 4430.52,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete the shot of the dancer pointing towards her breast on the song Line HOsa Yavama Ido Ide (Replaced audience shot 1.06 )",
+        "length_m": 1.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Delete the forward jerk of the hip by the dancer on the song line Ba Ba Baro (Replaced audience shot - 1.98 )",
+        "length_m": 1.98
+      }
+    ]
+  }
+]

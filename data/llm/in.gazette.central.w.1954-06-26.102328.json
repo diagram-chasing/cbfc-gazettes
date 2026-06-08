@@ -1,0 +1,706 @@
+[
+  {
+    "film_title": "Aurat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Varma Films, 4A, Rawalpindiwala Building, Tribhuvan Road, Bombay-4",
+    "cert_no": "13.0498",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 5427.0,
+    "final_length_m": 5400.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XXIII",
+        "description": "Close-ups and mid-close-ups emphasizing the dasi's bust",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Darwalt",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Film India Corporation, Bombay",
+    "cert_no": "3B-0800",
+    "endorsement": "U",
+    "original_length_m": 3780.0,
+    "final_length_m": 3750.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Picturisation of the song 'Chhute tum se to ho'",
+        "length_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Chhobal seen with Rajkumari referring to the Surwala, Pathan's words 'Panolam ko... up to... ko taar', and an silent shot of Rajkumari following in the song and her close-up",
+        "length_m": 34.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Lallu's gone with Ratan at the palace, couplet by Chanchal regarding Rajkumari's eyes and portion of the chase-scene where Raja knock down the pawn",
+        "length_m": 52.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Scene of the unconscious Ketan at beggars camp till regaining consciousness, entry of Lakhla and Lallu in the palace and portion of entry of beggar",
+        "length_m": 57.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Blindman calling for 'Jambura' and midshot of Chhenga seeing coins",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Lakhia requesting for old clothes for washing",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Raja's son getting up after hearing Lakhia's statement",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Midshot of Rajkumari",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Rajkumari's scene with Lakhia in the village",
+        "length_m": 58.22
+      }
+    ]
+  },
+  {
+    "film_title": "Shabal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sadiq Productions Ltd., Shree Sound Studios, Dadar, Bombay-14",
+    "cert_no": "3B-0800",
+    "endorsement": "U",
+    "original_length_m": 6040.0,
+    "final_length_m": 6010.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dowan, entry and dialogue with girls",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Chhobal seen with Rajkumari referring to the Surwala, Pathan's words 'Panolam ko... up to... ko taar', and an silent shot of Rajkumari following in the song and her close-up",
+        "length_m": 34.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Lallu's gone with Ratan at the palace, couplet by Chanchal regarding Rajkumari's eyes and portion of the chase-scene where Raja knock down the pawn",
+        "length_m": 52.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Scene of the unconscious Ketan at beggars camp till regaining consciousness, entry of Lakhla and Lallu in the palace and portion of entry of beggar",
+        "length_m": 57.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Blindman calling for 'Jambura' and midshot of Chhenga seeing coins",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Lakhia requesting for old clothes for washing",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Raja's son getting up after hearing Lakhia's statement",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Midshot of Rajkumari",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Rajkumari's scene with Lakhia in the village",
+        "length_m": 58.22
+      }
+    ]
+  },
+  {
+    "film_title": "Laila",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shah Pictures, C/o Mohan Studios, Kurle Road, Andheri, Bombay",
+    "cert_no": "43-9810",
+    "endorsement": "U",
+    "original_length_m": 3560.0,
+    "final_length_m": 3456.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Fraz's seller scene with Behram",
+        "length_m": 43.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Showing Behram and the police at Khund's house",
+        "length_m": 63.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Naked Jungle",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Paramount Film of India Ltd., Hogue Bldg., Ballard Estate, Bombay",
+    "cert_no": "B - 10006",
+    "endorsement": "U",
+    "original_length_m": 2692.0,
+    "final_length_m": 2630.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The three Indians shown hanging, retaining the portion wherein Deowo is being put round their necks",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Christopher in a drunken state kissing Joanna",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Kim M. Kato",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Bombay",
+    "cert_no": "B -9203",
+    "endorsement": "U",
+    "original_length_m": 3023.0,
+    "final_length_m": 2849.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Lois Lane in scanty pink dress including her dance with the song 'It's too darn hot'. In the same sequence the dialogue about legs between Lilli and the other girl",
+        "length_m": 100.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "In the rehearsal on stage, Lois Lane raising her skirt and showing her bare legs and Lilli, reference to it in dialogue",
+        "length_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "In the tap duet dance of Lois Lane and her lover-partner, the portion where she lifts her skirt and shows her bare legs",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In the dance with the song 'Tom-Dick-Harry', Blanca (Lois Lane) lifting her skirt as well as shots where her skirt goes up revealing her bare legs prominently",
+        "length_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "In the sequence in which Frap kisses Lilli in green dress thrice, the second kiss and reduce the third",
+        "length_retained_m": 8.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "In the tap dance sequence of three pairs on the stage, the shots where the legs of the girls are prominently seen from their slit skirts",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "In the tap dance the shots where the girls lift their skirts to show their bare legs",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Admiral Ushakov",
+    "languages": [
+      "Russian",
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Pravda Pictures, Andhull Bldg., Thampnoor, Trivandrum",
+    "cert_no": "B -0087",
+    "endorsement": "U",
+    "original_length_m": 2974.0,
+    "final_length_m": 2700.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Sub-titles and accompanying pictures: (i) Words of William Pitt, the Elder 'We cannot strangle all the enemies of Britain with our own hands. So let them strangle one another. As long as you follow that path you will be a true English statesman' and (ii) Words of William Pitt, the younger 'My great father was referring to France. I refer to France and Russia. Russia must be strangled' and (iii) Words of William Pitt, the younger 'What did God create the Turks for'",
+        "length_m": 25.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Sub-titles and accompanying pictures: 'And in every battle on board the Turkish ship, passing neutral observers, there were British officers'",
+        "length_m": 5.64
+      }
+    ]
+  },
+  {
+    "film_title": "Hell Below Zero",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Columbia Films of India Ltd., 33A, Marine Lines, Bombay",
+    "cert_no": "B -0088",
+    "endorsement": "U",
+    "original_length_m": 2603.0,
+    "final_length_m": 2535.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Entire scene of Judy taking bath including low shot of her bare legs",
+        "length_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The fight between Craig and his partner in the hotel room",
+        "length_retained_m": 76.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "The fight on board the ship, eliminating blows on front of the unconscious doctor",
+        "length_retained_m": 14.94
+      }
+    ]
+  },
+  {
+    "film_title": "Ramayan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Prakash Pictures, Kurla Road, Andheri, Bombay",
+    "cert_no": "B -9720",
+    "endorsement": "U",
+    "original_length_m": 5635.0,
+    "final_length_m": 5635.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Male Vanity",
+    "languages": [
+      "English"
+    ],
+    "producer": "RKO Radio Pictures Ltd., Dhan Nur Building, Sir P.M. Road, Bombay",
+    "cert_no": "B -9876",
+    "endorsement": "U",
+    "original_length_m": 222.0,
+    "final_length_m": 222.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Escort's Solta",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Bombay",
+    "cert_no": "B -9080",
+    "endorsement": "U",
+    "original_length_m": 2987.0,
+    "final_length_m": 2987.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Rihla",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rashid Parwez, Raja rathan Production, 227, Famous Cine Bldg., Mahalaxmi, Bombay",
+    "cert_no": "B -9968",
+    "endorsement": "U",
+    "original_length_m": 3600.0,
+    "final_length_m": 3600.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Knock on Wood'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Paramount Filme of India Ltd., Hogue Building, Ballard Estate, Bombay 1",
+    "cert_no": "B -10108",
+    "endorsement": "U",
+    "original_length_m": 62.0,
+    "final_length_m": 62.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Prolight Inspection - Airplane",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "United States Information Service, Adelphi, 3, Queens Road, Bombay",
+    "cert_no": "B -10072",
+    "endorsement": "P.E.I.",
+    "original_length_m": 180.0,
+    "final_length_m": 180.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Melody",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cartoon",
+    "producer": "RKO Radio Pictures Ltd., Dhan Nur Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "B -10086",
+    "endorsement": "U",
+    "original_length_m": 278.0,
+    "final_length_m": 278.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Dangerous Mission",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "RKO Radio Pictures Inc., U.S.A.",
+    "cert_no": "B -9873",
+    "endorsement": "U",
+    "original_length_m": 2054.0,
+    "final_length_m": 2054.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Dangerous Mission'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "RKO Radio Pictures Ltd., Dhan Nur Building, Sir P.M. Road, Bombay",
+    "cert_no": "B -10084",
+    "endorsement": "U",
+    "original_length_m": 30.5,
+    "final_length_m": 30.5,
+    "alterations": []
+  },
+  {
+    "film_title": "The Glory Brigade",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Bombay",
+    "cert_no": "B -4028",
+    "endorsement": "U",
+    "original_length_m": 2235.0,
+    "final_length_m": 2235.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Banglar Nari",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Cine Film Productions, 23/24, Radha Bazar Street, Calcutta",
+    "cert_no": "C -1149",
+    "endorsement": "U",
+    "original_length_m": 3353.0,
+    "final_length_m": 3250.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot containing dance and the wordings of the song by the street-dancer and her companion - 'Cham cham bajo payella' to 'Dilki jhula mo jhulo barajaman'",
+        "length_m": 22.56
+      }
+    ]
+  },
+  {
+    "film_title": "Eastern Himalaya",
+    "languages": [
+      "Silent"
+    ],
+    "colour": "Coloured",
+    "format": "16mm",
+    "producer": "Sri Naren Sain, 7A, Jhamapokor Lane, Calcutta-9",
+    "cert_no": "C -1180",
+    "endorsement": "U",
+    "original_length_m": 213.0,
+    "final_length_m": 213.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Olympics",
+    "format": "10 MM",
+    "producer": "Office of the Director of Public Instructions, Madras",
+    "cert_no": "M -837",
+    "endorsement": "U",
+    "original_length_m": 1128.0,
+    "final_length_m": 1128.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Manohara",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Messrs. Manohar Picture, Madras-2A",
+    "cert_no": "M -893",
+    "endorsement": "U",
+    "original_length_m": 3200.0,
+    "final_length_m": 3017.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Vasantanna describing himself as 'Veeru Bhoga Vaganturyuluvari' (sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 17",
+        "description": "Contact shot of Manohar being flogged",
+        "length_m": 17.37
+      }
+    ]
+  },
+  {
+    "film_title": "Manohara",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Manohar Picture, Madras-2A",
+    "cert_no": "M -893",
+    "endorsement": "U",
+    "original_length_m": 4628.0,
+    "final_length_m": 4610.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In Song No. 2, delete the words of Devada 'Ilathi Godo Ki Chahiye Savari ro'",
+        "length_m": 27.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 16",
+        "description": "Contact shot of Mandar being flogged",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Manohara",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Menn, Sri Sai Ganamirtha Pictures, Madras",
+    "cert_no": "M -869",
+    "endorsement": "U",
+    "original_length_m": 5477.0,
+    "final_length_m": 5453.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Vasantanna telling Malini 'I am the Maharaja's bed' (sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In Song No. 2, delete the pictures of the dancer in close-up during the first verse of song No. 2",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "In Song No. 7, delete the last verse with picturisation of the words 'Yes, what do you say mount be done now'",
+        "length_m": 61.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "In song No. 7, delete the references to Vasantan as 'Ramaswamy doola' and 'Hanuman' (sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "In the rehearsal of Vasantan. Durbar, Malini being pulled by hand",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 16",
+        "description": "Ugra wron telling Malini 'Do you think that Bakthi marga is going to be expounded here now?' and Vasantedena telling Ugrakon 'Why do you look at me w if you are going to eat me?', with accompanying picturisation in each case",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Manohara",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Menn, Sri Sai Ganamirtha Pictures, Madras",
+    "cert_no": "M -863",
+    "endorsement": "U",
+    "original_length_m": 5446.0,
+    "final_length_m": 5425.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Mathivanan bidding farewell to Kaviraj, Tilaka and mother - full sequence",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Instrumental music",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "In Kumari's Chamber - From 'Eppadi Devi Irukkirathu oor' ... upto 'Puyal Kilambukirathu'",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Tilaka - Karpagam full sequence from 'Ennadiyamma ato.'",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Tilaka - Karpegam dialogues - from 'Thilaka Olayai Sariyagothan Parthya' ... upto 'Tohiren'",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Muthu - Thilaka meeting in garden - dialogues in full sequence",
+        "length_m": 105.77
+      }
+    ]
+  },
+  {
+    "film_title": "Puthu Yugam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Menn, Sri Sai Ganamirtha Pictures, Madras",
+    "cert_no": "M -889",
+    "endorsement": "U",
+    "original_length_m": 5194.0,
+    "final_length_m": 4953.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Delete the reference to the Professor's sister as the magnet for Shekar",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "In Song No. 3, delete (7) the picture of Vimala dancing in the gypsy DIANA (second sequence) and (5) Cine lines in Song No. 3, at the end, 'Chor is another, like the king of the night-time who is looking at me grandly without appearing to look, and enjoying me by himself'",
+        "length_m": 125.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Delete the entire sequence of the police inspector coming with a lady doctor and purporting to conduct an enquiry into Chellam being with child, on complaint hence claims to have conceived",
+        "length_m": 41.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "In Song No. 7, delete in the last verse, the picturisation by Pushpa indicating leprosy",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Delete the entire picture and dialogue of the doctor making love to the nurse Pushpa, (from her bringing coffee, upto, but not including, the invitation to the Chitra Pournami dance)",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "Delete the consequent references to the previous conversation when the doctor says that he had made the promise before and the time had arrived now",
+        "length_m": 28.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Delete the entire picture and dialogue where Muthamma comes dressed as a poon and ties the Thali round Nonjan's neck and Nonjan removing it, (up to the end of that reel)",
+        "length_m": 85.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "In song No. 10, delete all the close-up shots of Kanisla bust, wherever the low-cut choli is shown exposed",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 20",
+        "description": "Delete the statement by Murugen 'we live by eating the leaven which you throw after you have eaten the food'",
+        "length_m": 2.74
+      }
+    ]
+  }
+]

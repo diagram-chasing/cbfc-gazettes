@@ -1,0 +1,677 @@
+[
+  {
+    "film_title": "Trailer of ‘Nor The Moon By Night’",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27091",
+    "cert_date": "16-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The words ‘Savage Country’",
+        "length_m": 0.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot where Alice is shown in wet cloth exposing her body",
+        "length_m": 2.29
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Step Down To Terror’",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27092",
+    "cert_date": "17-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of direct hit on detective’s head by Johnny",
+        "length_m": 1.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The title ‘He knew no mercy’",
+        "length_m": 1.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The remarks of Johnny to Helen, after he has poisoned her",
+        "length_m": 5.46
+      }
+    ]
+  },
+  {
+    "film_title": "Kali Topi Lai Rumal",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27094",
+    "cert_date": "18-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The word ‘Sala’ wherever used (sound)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The following dialogue of Raja to Chugh — ‘Teri dhoti utar gai’",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots where Raja lifts Rani on his bank and Shankar makes a similar gesture to Champa"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots in which prostitutes are shown soliciting"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots where men are shown scrambling for bread",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Jaggu’s following dialogue — ‘Zananl Khushbu kahan so aa rahihai’ (sound)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots where Mala rushes and holds Shekhar (Shankar) in her arms"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots where Mala is lying on sofa and Shekhar (Shankar) lifts her up",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots where the Director touches Mala’s cheeks twice",
+        "length_m": 1.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots where Shankar picks up Mala",
+        "length_m": 3.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots where Raja and Rani are embracing",
+        "length_m": 3.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Considerably the scene where Raja, Rani, Shankar and Champa are shown love-making and exchanging amorous dialogues",
+        "length_m": 52.12,
+        "length_retained_m": 43.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerably fight between Jaggu and Raja and also between Shankar and Jaggu",
+        "length_m": 19.2,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably fight between Jaggu and Shankar",
+        "length_m": 32.31,
+        "length_retained_m": 51.21
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘The Perfect Furlough’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "27095",
+    "cert_date": "18-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word ‘Seiations’ from the title",
+        "length_m": 0.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The dialogue 'Why don’t you sleep in my berth’",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shots of Paul Hodgson kissing Sandra Boone",
+        "length_m": 1.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Sandra in bath tub",
+        "length_m": 0.97
+      }
+    ]
+  },
+  {
+    "film_title": "Nowhere To Go",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27096",
+    "cert_date": "18-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of man cutting piece of celluloid in phone booth and shot of him using this celluloid to open servant’s front door"
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Party Girl’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "26513",
+    "cert_date": "19-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Vicki’s words ‘I go out with men for money’",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of semi-nude dance of Vicki and her amorous movements",
+        "length_m": 2.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close view of the posterior of Vicki in scanty costume",
+        "length_m": 3.63
+      }
+    ]
+  },
+  {
+    "film_title": "Step Down To Terror",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "850",
+    "cert_date": "18-3-1959",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The sequence showing Johnny taking up Helen’s hand and applying her fingerprints on the drug bottle which he holds with his hand after he has poisoned her",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shot of Johnny kissing Helen lying unconscious on bed before leaving the room",
+        "length_m": 2.23
+      }
+    ]
+  },
+  {
+    "film_title": "Is Your Honeymoon Really Necessary",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "851",
+    "cert_date": "19-3-1959",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 6",
+        "description": "‘In that case, let us make ourselves comfortable’",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 6",
+        "description": "‘What a wonderful material’",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 7",
+        "description": "‘Why don’t you discover that I am very attractive!’",
+        "length_m": 3.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 9",
+        "description": "‘You rouse me’",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red",
+        "description": "The prolonged kiss which the maid forces on the colonel",
+        "length_m": 3.41,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Mirkashim",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "21601",
+    "cert_date": "20-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "The portion at the end of Reel 12 showing Mirkashini committing suicide with a knife",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Jaya Bheri",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "Colour",
+    "cert_no": "26231",
+    "cert_date": "21-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Song No. 6 — Delete the picture of Ram and Manju embracing, in close proximity",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "At the criminality of Brahmins, delete the punishment of excommunication for seven generations and the incapacity to perform Tarpanam, ordered for Viswanath"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "After the stage-drama, delete the scene following at the actor’s house"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 72",
+        "description": "Delete the sentence at the end that the wine was Amruthain or Amrutha’s prasadam, and the laughter which follows"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the entire scene in Amrutham’s house from Sanjeevi speaking to Amrutham onwards, including the text and picture of song No. 13, upto and including her pouring wine and Kaalnath calling out Amrutham and laughing"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the entire sequence of Kasinath in bed calling for Amrutham upto and including his calling out for Amrutham after Sanjeevi whispers about the arrival of soldiers"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the King telling the Dharmadhikari that the latter was beyond his authority"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "When Kasinath takes his turban for pledging, delete the rest of the scene (Manju offering her Mangalyam, telling him that he could win if he wanted and his reply that he had no such powers and could not live without wine)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "(a) Before song No. 14 (Temple Katha) Delete the picture shot of a Brahmin ordering aside a Harijan. (b) all the picture and dialogue of the Harijan being ordered out despite his pleading, leaving only one flash, for continuity"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the entire scene from the beginning of the riot, the Katha in the temple about all being equal, Kasinath coming in drunk and discoursing about God. No objection to one picture shot of the group of Harijans entering and being stopped, and Kasinath leading them in and singing song No. 15"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the picture and dialogue of Kasinath shown drunk in his house discoursing about drink and snatching a jar of liquor, slapping Manju and pushing her away"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red 17",
+        "description": "When Annapurna calls Kasinath, reduce to a suggestion his being drunk, before Annapurna laments standing near the pillar",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 17",
+        "description": "Delete Sambhu being told about Brahminism being in danger and of the Brahmins going to Viswanathan’s house, and the scene which follows, upto and including Viswanathan’s remarks about religion which he was leaving (Re-edited sequence approved)"
+      }
+    ]
+  },
+  {
+    "film_title": "Varhlckai Oppandam",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "22677-U",
+    "cert_date": "19-11-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of Main titles",
+        "length_m": 84.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7 & 214",
+        "description": "Voluntary deletion",
+        "length_m": 109.73
+      }
+    ]
+  },
+  {
+    "film_title": "Chdla Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "12963-U",
+    "cert_date": "21-6-1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel Nos. 1, 7, 10, 11, 12, 14 and 17",
+        "description": "Voluntary deletion totalling",
+        "length_m": 537.36
+      }
+    ]
+  },
+  {
+    "film_title": "Nok Khatoon",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20514",
+    "cert_date": "23-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Mid IV, VI, IX tfe XIV",
+        "description": "Gruesome close views of K(i,ma,a’B face"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Meel XV",
+        "description": "Shots of ‘Ah’ shown as a water-hole containing dirty water in desert surroundings, including shots of Amna taking water from it"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bed III",
+        "description": "Considerably shots of prisoners being whipped, particularly delete direct cuts on an old man and Amno",
+        "length_m": 12.8,
+        "length_retained_m": 14.94
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘The Blob’",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "26510",
+    "cert_date": "23-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Super-imposed title, ‘It eats you alive’",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "A Stranger In My Arms",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "20518",
+    "cert_date": "23-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue PAT — ‘Or if you’d rather go some place where we can cook’",
+        "length_m": 1.13
+      }
+    ]
+  },
+  {
+    "film_title": "Those Thousand Hills",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "26519",
+    "cert_date": "23-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 V",
+        "description": "The words ‘Brink hoy, It cures your miseries’",
+        "length_m": 2.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 V",
+        "description": "The shots of Callie lying in bed in Callie’s house"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Ref.l II, III and 77",
+        "description": "Shots of drinking",
+        "length_m": 32.61,
+        "length_retained_m": 30.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of Jehu trying to kiss Callie forcibly",
+        "length_m": 2.13,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably the scene of hanging of Tom particularly deleting shots showing details",
+        "length_m": 5.79,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The fight particularly deleting shots of hard punches in near views",
+        "length_m": 11.89,
+        "length_retained_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘These Thousand Hills’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "26520",
+    "cert_date": "23-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of man trying to kiss a girl forcibly",
+        "length_m": 2.71
+      }
+    ]
+  },
+  {
+    "film_title": "Party Girl",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "882",
+    "cert_date": "23-3-1959",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From Vicki’s dance at the beginning of the reel, all near views in which her thighs are seen prominently exposed through slit costume as also her strip-tease act and amorous movements",
+        "length_m": 64.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of a show-girl bending while climbing down steps revealing her bust prominently",
+        "length_m": 3.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All near views of Vicki dancing in ‘leopard costume’ exposing her thighs and underwear prominently as also shots of her amorous movements",
+        "length_m": 75.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably scene of Angelo hitting Gusto with a rod and particularly delete shots of Gusto’s bleeding face",
+        "length_m": 5.49,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "The Blob",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "883",
+    "cert_date": "23-3-1959",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of the Blob attacking and overpowering the cinema projectionist",
+        "length_m": 2.71
+      }
+    ]
+  },
+  {
+    "film_title": "Toofani Teerandaz",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26630",
+    "cert_date": "24-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot where knife is shown sticking in the side of Banjit’s daughter"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot where a spiked mace is shown sticking in Sipahidar’s body"
+      }
+    ]
+  },
+  {
+    "film_title": "Harlequin",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "26671",
+    "cert_date": "6-3-1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Scene of a woman bathing in the nude and being observed closely by a man"
+      }
+    ]
+  },
+  {
+    "film_title": "New Stomach",
+    "languages": [
+      "Bulgarian"
+    ],
+    "colour": "Colour",
+    "cert_no": "901",
+    "cert_date": "6-3-1959",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Corneal Grafting",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "904",
+    "cert_date": "6-3-1959",
+    "endorsement": "A",
+    "alterations": []
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "film_title": "Mac Arthur",
+    "languages": [
+      "English"
+    ],
+    "producer": "Frank McCarthy",
+    "cert_no": "B/F-105",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IX",
+        "description": "Dialogue of Ramesh Sippy's character comparing the film to a 'sound' is deleted.",
+        "length_m": 35.33
+      }
+    ]
+  },
+  {
+    "film_title": "Guru Ho Jaa Shuru",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Nirmal Singh Chadha",
+    "cert_no": "B/F-86",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Fight between Suruj and goondas is reduced.",
+        "length_m": 0.34,
+        "length_retained_m": 32.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Close-up shots of a girl being stabbed to death are deleted.",
+        "length_m": 1.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fight between Prem and Suraj is reduced.",
+        "length_m": 4.93,
+        "length_retained_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "In the fight between the Sheikh and Suraj, shots showing the Sheikh's mouth full of blood are deleted.",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots where a fighting bald man feels the exposed thigh of Sila are deleted.",
+        "length_m": 2.59
+      }
+    ]
+  },
+  {
+    "film_title": "Alex & the Gypsy",
+    "languages": [
+      "English"
+    ],
+    "producer": "Richard Shepherd",
+    "cert_no": "B/86655",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Scene where the Gypsy girl opens Alex's pant buttons and puts her hand inside is reduced.",
+        "length_m": 0.83,
+        "length_retained_m": 0.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Suggestion of blood stains on the bedsheet as proof of virginity is deleted.",
+        "length_m": 6.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Love-making scene where the girl's nudity is established is deleted.",
+        "length_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogues: 'Do you still pass out afterwards.', 'I don't pass out', 'Well -- then, why the handcuffs?', 'My blood pressure drops and I go to sleep.' are deleted.",
+        "length_m": 3.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogues: 'Well, screw her.' and 'She used to screw around with.' are deleted.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Underlined words 'I'm gonna fuckin' write yuh!' are deleted.",
+        "length_m": 0.13
+      }
+    ]
+  },
+  {
+    "film_title": "Aani Muthyalu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Juluri Subba Rao",
+    "cert_no": "81003",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Dialogues of Gopanna: '(i) Kamasastram Anthaa Nerchukuntunnanu (ii) Dhikku Mokku leni vaunui, Repu Kaavalanto Naaku Evaru Nerputharu ?' and dialogue of Radha: 'Kamasastram Antavu.' are deleted.",
+        "length_m": 6.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Dialogue of Shastri: 'Anni Bhagalni Upamaanamthe Varnichu.' is deleted.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Lines 'Pposukuntoo, Haal Raasukuntu', 'Kalige Kaamam', 'Salupaleni Ee Baadhaa; Challarpanu Raavela.', 'Pilicho Ec Deham' from the song are replaced. Visuals of Radha jumping over Gopanna while he is lying on the ground are replaced.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Dialogue of house owner addressing Paduaina: 'Nae Life Antha Ninnu Unchukuntaanu Unchukunna -Daanivina Chesukunna daanikante Ekkuvagaane choosukuntanu.' is deleted.",
+        "length_m": 4.92
+      }
+    ]
+  },
+  {
+    "film_title": "College Beauty",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri K. C. Balan",
+    "cert_no": "81005",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shots of a servant girl with her bra are deleted.",
+        "length_m": 17.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Shot of a man squatting and urinating in front of a cinema poster and when he stands up is deleted.",
+        "length_m": 19.16
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Rape scene of Gita by Ravi is reduced to a bare suggestion.",
+        "length_m": 4.52,
+        "length_retained_m": 11.59
+      }
+    ]
+  },
+  {
+    "film_title": "Rosappu Ravikkaikari",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Vivekananda Pictures",
+    "cert_no": "3649",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Dialogue of Karuppayi: 'Sollakoodatha idathiley.' is deleted.",
+        "length_m": 18.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Dialogues: 'Sombattaikku ongeyo machcham irukkuda. illoyna Iddadi oruthi avauukku kidappala.' are deleted.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Lines 'Unn ponkudam rondum vilai solladi.' from the song are deleted.",
+        "length_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Ottappettavar",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Fivestar Moviestones",
+    "cert_no": "81009",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Kidnapper gauging the eyes of Peter including the boy's scream is deleted.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Love making of Ramani and Peter including kissing and overlapping sound of kiss is reduced, retaining only one shot for continuity.",
+        "length_m": 11.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Rape of Nirmala by her foster father is reduced, retaining only shots showing her uncle banging the door from outside and the foster father coming out of the room after rape. Symbolic shots are inserted.",
+        "length_m": 45.81
+      }
+    ]
+  },
+  {
+    "film_title": "Mani-Koyu-Kurup",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Deva Art Films",
+    "cert_no": "3650",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot of customer lying over Susio is deleted.",
+        "length_m": 1.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 2",
+        "description": "Rape of Gracy is reduced to a suggestion.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Shot of Radha and Kurup rubbing and entwining their legs is deleted.",
+        "length_m": 1.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Shot of customer lifting Omana's sari is deleted.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Word 'Ninto' before 'Palu' and 'Ente' before 'apple' in the comedian's dialogue are deleted. Sound replacement approved.",
+        "length_m": 16.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "All shots of Pappu and bull are deleted.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "All shots of Pappu with the wet loin cloth, and later the shot of Pappu lifting sari and scratching are deleted.",
+        "length_m": 7.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "Fight between Kurup and rowdies and Mani is reduced.",
+        "length_m": 20.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Kuttan lifting his sister-in-law's cloth is deleted.",
+        "length_m": 7.75
+      }
+    ]
+  },
+  {
+    "film_title": "Texas Detour",
+    "languages": [
+      "English"
+    ],
+    "producer": "Hickmet Avedia",
+    "cert_no": "B/89043",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All shots of Claudia with bare breasts are deleted.",
+        "length_m": 1.77
+      }
+    ]
+  },
+  {
+    "film_title": "Kartayya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Climb Films",
+    "cert_no": "B/F-43",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Lines 'HUSN NAHI YEH ZAHAR SE BHARA PHOOL HAI TO ISKI WAFADARI DEKHNA' from the song DUNIYA JAI BHAR MET are deleted.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Scene between Hero and Sheikh Sami about the secret plan is deleted.",
+        "length_m": 21.03
+      }
+    ]
+  },
+  {
+    "film_title": "Land And People of Gujarat",
+    "languages": [
+      "English"
+    ],
+    "producer": "Indian Posts and Telegraphs Department",
+    "cert_no": "61913",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Various shots of agriculture fields, river, fertilizer, dance, marriage, and garba etc. are deleted.",
+        "length_m": 248.5
+      }
+    ]
+  },
+  {
+    "film_title": "Purbadiganta",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "West Bengal State Committee, Communist Party of India (Marxist)",
+    "cert_no": "89034",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "The film has cuts.",
+        "length_m": 31.0
+      }
+    ]
+  },
+  {
+    "film_title": "Anubhavangale Nandi",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Poora Sree Arts",
+    "cert_no": "81001",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of Babu and Krishnan lying crushed under the legs by the side of the lorry and the subsequent shots of their blood-stained bodies are deleted.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Ayal Niraparadhi",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Arifa Enterprises",
+    "cert_no": "81009",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "All flashback shots of Swapna's rape, as related by her, are deleted.",
+        "length_m": 7.64
+      }
+    ]
+  },
+  {
+    "film_title": "Tiger Rani",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Technicians Combincs",
+    "cert_no": "81016",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Shots of the servant girl with her bra are deleted.",
+        "length_m": 17.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Shot of a man squatting and urinating in front of a cinema poster and when he stands up is deleted.",
+        "length_m": 19.16
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Rape scene of Gita by Ravi is reduced to a bare suggestion.",
+        "length_m": 11.59
+      }
+    ]
+  },
+  {
+    "film_title": "Punadi Rallu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Shaik Fazulullah Haq",
+    "cert_no": "81043",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Close-up of the village girl's hip movement at the beginning of the song, the shot of her putting her thighs against the Sarpanch and clinging to him, and her hip movements on the floor and rolling over, indecently exposing her thighs are reduced.",
+        "length_m": 5.91
+      }
+    ]
+  },
+  {
+    "film_title": "Andaman Ammayi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Venus Combincs",
+    "cert_no": "81044",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The word 'Billa' in the dialogues of Dr. Vedantam and Bhanumati is deleted. The word 'model' is inserted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Shots of the naked statue when Kavitha poses for Madan are deleted. Shots of Kavita posing as a model are inserted.",
+        "length_m": 2.09
+      }
+    ]
+  },
+  {
+    "film_title": "Heera Moti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R. M. Art Productions Combine",
+    "cert_no": "90416",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Fight between Heera, Moti and their friends versus Sheikh and Pratap Singh and their gangsters is reduced, including hard-hitting shots.",
+        "length_m": 3.81,
+        "length_retained_m": 226.1
+      }
+    ]
+  },
+  {
+    "film_title": "Gorakh Dhanda",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Premkumar Gupta",
+    "cert_no": "B/F-127",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Crime rate card in Billa's den is deleted. Shots showing the dancing girl in a semi-nude pink dress are deleted. Conversation regarding the settlement of a crime deal between Rajesh and Billa is totally deleted.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Shots showing Rajesh attempting to tear Pinky's blouse over her breasts are deleted.",
+        "length_m": 8.84
+      }
+    ]
+  },
+  {
+    "film_title": "The Delta Factor",
+    "languages": [
+      "English"
+    ],
+    "producer": "Tay Garnet",
+    "cert_no": "B/F-77",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Flash showing a woman with bare breasts and shots of another woman with net over her breasts are deleted.",
+        "length_m": 7.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of the other lady with bare breasts after Kim tears her shirt are deleted.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue where Kim distinguishes male from female is deleted.",
+        "length_m": 4.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV & V",
+        "description": "Scene of Clay and Claudia making love is reduced.",
+        "length_m": 25.54,
+        "length_retained_m": 35.36
+      }
+    ]
+  },
+  {
+    "film_title": "Coming Home",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jerome Hellman",
+    "cert_no": "B/F-68",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "All shots exposing nudity in the love scene between Luke and Sally are deleted.",
+        "length_m": 36.94
+      }
+    ]
+  },
+  {
+    "film_title": "Valentino",
+    "languages": [
+      "English"
+    ],
+    "producer": "Irwin Winkler & Robert Chartoff",
+    "cert_no": "B/F-67",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I, III",
+        "description": "Entire sequence of Salome involving nudity is deleted.",
+        "length_m": 68.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Whole sequence between Monsieur Beaucaire and Lorna, including initial topless shots to the very end of Lorna's frenzy and exhaustion, is deleted.",
+        "length_m": 60.76
+      }
+    ]
+  },
+  {
+    "film_title": "Ahinsa",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shiv Kumar",
+    "cert_no": "B/F-133",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Close-up shots of blood on the back of dying Birju's father are reduced.",
+        "length_m": 0.76,
+        "length_retained_m": 1.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "On the nuptial night, the close-up shot of Birju embracing Radha is deleted.",
+        "length_m": 1.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "The scene of dragging Birju in mud is reduced. Hard-hitting close shots in the fight between Birju and Raka's men are reduced.",
+        "length_m": 10.44,
+        "length_retained_m": 12.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "The scene of Raka beating Birju is reduced, deleting hard-hitting shots.",
+        "length_m": 2.74,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "The climax fight between Birju and Raka's men is reduced, deleting hard-hitting close shots.",
+        "length_m": 3.17,
+        "length_retained_m": 24.4
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. Natwarlal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Tony Nav Jeyvan Films International",
+    "cert_no": "B/F-124",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XVIII",
+        "description": "Scene of Natwarlal being pushed by Vikram's jeep is reduced.",
+        "length_m": 2.43,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Heera Moti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R. M. Art Productions Combine",
+    "cert_no": "B/F-111",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Fight between Heera, Moti and their friends versus Sheikh and Pratap Singh and their gangsters is reduced, including hard-hitting shots.",
+        "length_m": 3.81,
+        "length_retained_m": 226.1
+      }
+    ]
+  },
+  {
+    "film_title": "Scorchy",
+    "languages": [
+      "English"
+    ],
+    "producer": "Hicknet Avedis",
+    "cert_no": "B/F-39",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Flash showing a woman with bare breasts and shots of another woman with net over her breasts are deleted.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Jackie swimming with her bare breasts are deleted.",
+        "length_m": 10.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Close shot of the burning man is deleted.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shot of Allen and Jackie making love in bed is drastically reduced. The shot of Jackie with her naked breasts is deleted and the attempt by Nicky (the bandit) to rape her is reduced to a suggestion.",
+        "length_m": 52.43,
+        "length_retained_m": 21.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Suzi with bare breasts are deleted.",
+        "length_m": 10.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Blood shots of Karl's head (in his fight with Phillip) along with all hard-hitting close shots in the same fight are deleted.",
+        "length_m": 3.28
+      }
+    ]
+  },
+  {
+    "film_title": "Another Man, Another Chance",
+    "languages": [
+      "English"
+    ],
+    "producer": "Alexander Mnouchkine and Georges Dancigers",
+    "cert_no": "B/F-19",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Close view of the girl's skirt flying up and exposing her underwear is suitably reduced.",
+        "length_m": 1.62,
+        "length_retained_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "View of the boxer seen almost naked while he is taking out his clothes before the boat starts is deleted.",
+        "length_m": 2.71
+      }
+    ]
+  },
+  {
+    "film_title": "Texas Detour",
+    "languages": [
+      "English"
+    ],
+    "producer": "Hickmet Avedla",
+    "cert_no": "B/F-A2",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Scene of passionate kissing between Clay and Claudia in the car is reduced.",
+        "length_m": 2.12,
+        "length_retained_m": 8.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "In the rape scene, the second prolonged shot is deleted, retaining the first shot.",
+        "length_m": 8.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "All shots of Claudia with bare breasts including Beau peeping from outside are deleted.",
+        "length_m": 25.54
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV & V",
+        "description": "Scene of Clay and Claudia making love is reduced.",
+        "length_m": 52.21,
+        "length_retained_m": 35.36
+      }
+    ]
+  }
+]

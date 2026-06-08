@@ -1,0 +1,298 @@
+[
+  {
+    "film_title": "Taxi Driver",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40703",
+    "cert_date": "31-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All suggestions that Mastana is acting as a procurer",
+        "length_m": 20.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "In the dance song \"Dil se mila ke dil\" two shots of the dancer with emphasised bust uncovered by odhni",
+        "length_m": 29.26,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Scene between Chitku and John after Kamla takes away the children from latter",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Scene of Join’s cottage dissolving into the street scene wherein John and the children sing the song",
+        "length_m": 109.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The jail scene of John and other convicts singing together",
+        "length_m": 233.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Entire song “Chalo kaun sc desh\"",
+        "length_m": 77.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Dance-song “Main baharon ki natkhat rani\"",
+        "length_m": 99.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A7//",
+        "description": "Scene of Joint being led into Lata’s house till he takes seat near sofa and latter conversation between him and Lata",
+        "length_m": 53.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A7//",
+        "description": "Shot of Bhola after he has sold berries to Gopak",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Leader of the orphanage singing till end of the chorus sung by the boys",
+        "length_m": 35.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Scene from the point John sings as Gopal and Lata stand with him till end",
+        "length_m": 35.97,
+        "length_retained_m": 35.97
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Perils of Nyoka\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "40712",
+    "cert_date": "13-2-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Shots of Nyoka on the sacrificial altar while the axe is swinging over her",
+        "length_m": 0.75,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing the legend \"Arabian Treachery” and “Ruler of Arabs\"",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Gunah",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40713",
+    "cert_date": "13-2-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Lamentation after the child has twice shouted 'Mother' and has been removed away from the dead mother",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Fatechand's instructions to truck driver to run over the child",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Piddi’s words superimposed on her face giving the impression that she would amputate her own leg for obtaining compensation",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI, XI & XIII",
+        "description": "Word “Ganda\"",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels VI & X",
+        "description": "Sound “Murgha\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Sound 'Kutta'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Scene of Jankidas teasing Iris brother etc.",
+        "length_m": 25.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel l",
+        "description": "Credit titles",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Alibaba And Forty Thieves",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "cert_no": "40776",
+    "cert_date": "13-3-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From the first dance sequence all inserts of the old man with flowing white beard lustifully watching the performance and their remarks in respect of the dancer, retaining one insert referring to Marjina",
+        "length_m": 11.28
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Abbu’s words “Taqat ke liye” as spoken in the presence of the ladies while asking for the Basra chickenfsowirf",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Havas’ as referred to by Marjina",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Abbu’s words “Turn men pyas bujha dena\" as spoken to Sitara during their romance at the well",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Abbu’s words “Ghusl-c-lagavat”",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "All close and mid-close shots focussing the dancer’s bust in the dance-song” Ankh mill hai pyar hoga”",
+        "length_m": 24.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Word “Ismet” as referred to by Marjina while heaping accusations on Ali Baba in the presence of Kassim and others",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot showing a dacoit wiping off blood from the sword after having thrust it into Kassim’s body",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "All inserts of the old toiler looking lustifully at the dancers during the dance song “Lab-e-lali ne“ and his remarks, “Budhe bhi hon jawan” etc., and again “Agar yeh daulat mujhe jawani men milti, to aaj is daulat ke saath jawani ko bhi luta deta”",
+        "length_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII & XIV",
+        "description": "Picturisation of Abbu’s backward and forward movements including close view of Sitara’s bust under the preceding line “Babul badi door hai”",
+        "length_m": 36.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "From the last dance sequence of Marjina, mid-close view of her bust preceding her song “Sharam ke laja ke” and her three close-shots focussing her bust as she comes along dancing toward Abbu Hussain",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "To one lash whipping of Marjina by Sher Khan",
+        "length_m": 1.22,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "To a flash each of the scenes of Kassim’s head lying servered from his body laid in tho hide-out of the dacoits and again, in Alii Baba's house",
+        "length_m": 1.22,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Picturisation of the tailor singing while stitching the corpse, eliminating all inserts of the corpse excepting one each at the beginning and at the endl of the sequence",
+        "length_m": 22.25,
+        "length_retained_m": 67.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Torture scene of the tailor",
+        "length_m": 8.23,
+        "length_retained_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Alibaba And Forty Thieves\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "cert_no": "40777",
+    "cert_date": "13-3-1964",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Alibaba And Forty Thieves",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "22922",
+    "cert_date": "13-3-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "the chorus song by the robbers beginning “Aandavan Peraal\"",
+        "length_m": 82.3
+      }
+    ]
+  }
+]

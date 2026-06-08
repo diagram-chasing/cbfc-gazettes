@@ -1,0 +1,661 @@
+[
+  {
+    "film_title": "Trailer of “Sharks’ Treasure\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Cornel Wilde",
+    "cert_no": "83549",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the killing of a man with a dagger",
+        "length_m": 0.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce scenes of violence",
+        "length_m": 2.17
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Who Would Be King",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "John Foreman",
+    "cert_no": "83627",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the words 'Filled her with red peppers'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete shots of a girl in nude after she undresses in front of Camchan",
+        "length_m": 13.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete indecent view of hips of a man during the battle sequence",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce to suggestion the shot of Dravot appearing nude before he is robed, as King",
+        "length_m": 5.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce to bare minimum necessary the battle between the monks, Davot, Camehan and Billy, by deleting all gruesome and hard hitting shots",
+        "length_m": 104.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete indecent Hindi translation of 'rape your daughter'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the words 'you may kiss my Royal Arse', as spoken by Dravot along with his visual",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the total length of scenes/sequences of violence in the entire film to less than 540 ft. by deleting all gruesome and hard hitting shots",
+        "length_m": 48.1
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi Taxic",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Radha Mohan Arts",
+    "cert_no": "83634",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the word 'Snntre Wall' and 'Kelevali' along with the hand gesture of Jr. Mehmood on Taxi",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the suggestive dialogues of Dev with reference to call girl sitting in the 'Taxi ka boja bhari ho raha hai kiyon ki taxi main taxi baith gayee hai'",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the words 'Tlilaoonga' and 'tarbooj' along with hand gesture of Jr. Mehmood",
+        "length_m": 26.21
+      }
+    ]
+  },
+  {
+    "film_title": "Vanzari Vaav",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Maheshkumar M. Kanodia",
+    "cert_no": "83635",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the underlined words to the effect: 'Maatli kh olvi padaho jeva mate andar shoo chhe' said to Champa by Vira",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the words 'Haath na zalu to biju shoo zalu ?' said by Madhav to Champa when he brings the bangles",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the prominent views of the partly covered breasts of the girl at two places in the beginning during the song 'Pur jnapatc jay rejobau..'",
+        "length_m": 5.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce the total length of scenes of violence in the entire film to the barest minimum by deleting all gruesome and hard hitting shots, each sequence of violence should be reduced to less than 90 ft.",
+        "length_m": 34.14
+      }
+    ]
+  },
+  {
+    "film_title": "Massacre in Rome",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Carlo Ponti for champion Films & Fiduciary Films",
+    "cert_no": "4029",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce to minimum the inter-cut close shots of men's faces with blood",
+        "length_m": 3.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce to about 90ft. in length actual scene of massacre i. e. Italians being shot dead, particularly deleting the visuals of direct killings",
+        "length_m": 13.52
+      }
+    ]
+  },
+  {
+    "film_title": "Ghar Ke Chirag",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1 & II",
+        "description": "Additions of various shots",
+        "length_m": 83.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "1 & II",
+        "description": "Deleted various shots",
+        "length_m": 88.74
+      }
+    ]
+  },
+  {
+    "film_title": "Bhrashtachar Murdabad",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "V. Nathwani",
+    "cert_no": "83619",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI, XII, XIII and XIV",
+        "description": "Deleted various shots",
+        "length_m": 123.44
+      }
+    ]
+  },
+  {
+    "film_title": "Chhatrabhang",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete from footage 262 to 343 from last credit fully illuminated on the screen— Delete questions of Manu written and spoken and Hindi dialogue against blank visual. Start again from steady shot of rock at footage 343",
+        "length_m": 24.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace the word 'Month' by the words 'a couple of days'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace the word 'month' by the words 'a couple of days'",
+        "length_m": 0.77
+      }
+    ]
+  },
+  {
+    "film_title": "BabuMoshai",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Protibha Kumar Kundu",
+    "cert_no": "79999",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete last shot of blood flowing",
+        "length_m": 4.26
+      }
+    ]
+  },
+  {
+    "film_title": "Oorukku Nallavan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Sri Sai Pictures",
+    "cert_no": "3349",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce whipping of Govindaraj by Gora Singh to bare minimum",
+        "length_m": 3.34
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replace approved words for deleted dialogue by Marwadi",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replace approved words for deleted song stanza",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete low angle shots of the dancer in the cabaret dance",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce whipping of Nagaraju by Bhagwan, to bare minimum",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Aaina",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kalakendra Films",
+    "cert_no": "79087",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Reduce the scenes where Shalini is raped by a lecherous fellow at the time of seeking admission of Caustam to the Medical college",
+        "length_m": 47.54
+      }
+    ]
+  },
+  {
+    "film_title": "Dhanalakshmi",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Shri. H. N. Maruthi",
+    "cert_no": "79088",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replace deleted scene with symbolic shot of snake fighting an animal",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete taking impression of key of the strong-room on soap by the criminals",
+        "length_m": 4.44
+      }
+    ]
+  },
+  {
+    "film_title": "Sankupushpam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Dhanya Enterprises",
+    "cert_no": "79091",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2, 4 & 7",
+        "description": "Delete all references to revolution uttered by the mad politician in the mental hospital, wherever occuring in the film",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Udugore",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35mm",
+    "producer": "Smt. Janaki Chander",
+    "cert_no": "79093",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the entire rape scene of Lakshmi by Ramesh, retaining only the first shot of Ramesh coming near Lakshmi and subsequent shot showing Lakshmi running away after the rape",
+        "length_m": 40.54
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replace deleted scene with symbolic shot of snake fighting an animal",
+        "length_m": 3.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Ramesh taking a liquour bottle and all shots of his drinking in the bedroom",
+        "length_m": 33.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the following drunken dialogue of Ramesh: 'Bazaar nalli samruddiyagi haalu sikkavaga yaaru thaane hasuvana*kattikondu vaddaduthanc'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the entire molestation of a girl in the field by Ramesh, retaining only the 1st shot where he pulls her down and the shot towards the end where the girl runs away from the field",
+        "length_m": 24.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Reduce to a flash, Ramesh being hit by villagers",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete Raju kissing Lakshmi together with overlapping sound",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce Raju caressing Lakshmi and their struggle in bed to bare flash",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "My Dear Robinson",
+    "languages": [
+      "German"
+    ],
+    "format": "35mm",
+    "producer": "Cine Central Calcutta",
+    "cert_no": "79992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined words from the commentary",
+        "length_m": 46
+      }
+    ]
+  },
+  {
+    "film_title": "Meri DoSti Tcra Pyar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kamal International",
+    "cert_no": "83624",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of throwing of the cook into water",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the view of the Captain with blood smeared face",
+        "length_m": 5.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the last scene of violence",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the underlined words from Baatif's dialogue addressed to Deepak: 'Aankh hi maari -gur kuchh to nahin - mard to aag bujhate hah'",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Nana's remark 'Daaruwalae wohai ki uparwale ko bhi-bhatta dete hai/'",
+        "length_m": 9.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce suitably shots where the girls make indecent gestures of putting or shaking their hands on their bosoms on words joban hamara; prominent shots of their breast jerking and shots of indecorous/indecent movements",
+        "length_m": 9.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce to less than 90 ft. the light where Deepak is beaten by goonda, whipped and then Deepak hitting him and trying to strangulate him, deleting all hard hitting shots of Strangulation",
+        "length_m": 17.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Reduce to less than 90 ft. the light between Deepak and Raja deleting hard hitting shots",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the underlined words from Deepak’s dialogue: 'Tumhi apn c Jeban ke ubhar ko sambhal'",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "During the song, delete all shots showing the Prime Minister, Smt. Indira Gandhi",
+        "length_m": 4.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduce to minimum, the scene where Raja is trying to rape Nirali",
+        "length_m": 15.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce drastically the entire scene when Deepak, in a drunken state, imagines Kiran stripping and dancing in swimming suit and delete shots of their kissing, kissing in shadowgraph, shots of nude sculpture on the wall, shots where her partly exposed breast are revealed, close-ups of midriff, their intciwined legs on bed and the shots of Deepak opening the zip of her blouse",
+        "length_m": 60.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce to less than 90 ft. the entire sequence of shipping first by Raja to Gopal and then by Deepak to Raja, deleting shots of strangulation and close views of whipping",
+        "length_m": 16.4
+      }
+    ]
+  },
+  {
+    "film_title": "Maadi Na Yaaya",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "VII I",
+        "description": "Addition of one song together with the shots",
+        "length_m": 166.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "III, VI, VII, VIII, XIV & XV",
+        "description": "Deleted various shots",
+        "length_m": 135.03
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi Taxio",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Addition of chase scene",
+        "length_m": 68.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, V, IV, VI T, VTTI, X, XT Sc XVI",
+        "description": "Deleted various shots",
+        "length_m": 293.73
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Daur",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deleted various shots",
+        "length_m": 16.46
+      }
+    ]
+  },
+  {
+    "film_title": "The Visitor",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "Anson C. Moorhouse",
+    "cert_no": "83678",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the following underlined words from the commentary",
+        "length_m": 46
+      }
+    ]
+  },
+  {
+    "film_title": "The SeawolT",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Arthur Cohn Walter Ulbrich",
+    "cert_no": "83657",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of throwing of the cook into water",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of the Captain with blood smeared face",
+        "length_m": 5.33
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the last scene of violence",
+        "length_m": 2.36
+      }
+    ]
+  },
+  {
+    "film_title": "Hand of conflence",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Filmi Saudagars",
+    "cert_no": "83801",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the visuals and the commentary in the beginning to the following effect: 'Arajakatanc logonko bhadkaya till Yeh sub shady antra tha desh ki pragati men rukavate dalneka.'",
+        "length_m": 0
+      }
+    ]
+  }
+]

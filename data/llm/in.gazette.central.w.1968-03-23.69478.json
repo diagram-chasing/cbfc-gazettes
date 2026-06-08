@@ -1,0 +1,578 @@
+[
+  {
+    "film_title": "Juna Te Sona",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Y. V. Pethkar, F-19, Tarabaus, Girgaum, Bombay-4.",
+    "cert_no": "50267",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the gruesome details of surgical operation when the two incisions on back are made, when the doctor uses hammer to chisel out something from the spine and view of the blood oozing out and swabs applied to stop the flow.",
+        "length_m": 14
+      }
+    ]
+  },
+  {
+    "film_title": "Black Market",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "48887",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the bust exposure view of Sasikala facing camera when Shyamsunder comes to her house and is talking to her father.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the bust exposure of the dancer seen prominently in the near views throughout the dance picture.",
+        "length_m": 8.83
+      }
+    ]
+  },
+  {
+    "film_title": "Let s Kill Uncle",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "50277",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II(14)",
+        "description": "Delete the shots showing blood stains on the face of a man when he is involved in car accident in the background of title cards.",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II(18)",
+        "description": "Delete the scream of Chrissic on seeing the catchman with a sharp dagger in his hand and prominent views of the catchman.",
+        "length_m": 1.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III -24",
+        "description": "Delete the screams of Chrissie when pursued by the shark.",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV -2B",
+        "description": "Delete the dialogue about Murder Cult in India.",
+        "length_m": 3.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (3A)",
+        "description": "Delete shots of demonstrations of killing by various means by the Uncle to Barnaby.",
+        "length_m": 25.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III -24, TX5A, X5B",
+        "description": "Reduce the eerie scenes showing Barnaby and Chrissie in the old haunted house.",
+        "length_m": 53.22,
+        "length_retained_m": 6.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII(4B)",
+        "description": "Reduce the scenes of fire - specially deleting those when the scared children are shown near the edge of the flames.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (5A)",
+        "description": "Delete the prominent views of the catchman with bound hands and with blood on his face.",
+        "length_m": 1.01
+      }
+    ]
+  },
+  {
+    "film_title": "One Million Years B.C.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "cert_no": "50278",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot of a man dismembering the animal trapped in the pit.",
+        "length_m": 1.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce shrieks of the old man who has fallen in the pit when attacked by the vulture.",
+        "length_m": 3.92,
+        "length_retained_m": 1.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shot of blood-stricken face of the lady.",
+        "length_m": 1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete shot of a man crushing the hand of the other man who is hanging from the cliff by the hand.",
+        "length_m": 1.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the shots of fight with the animal and delete the second shot of thrust with the spear.",
+        "length_m": 7.31,
+        "length_retained_m": 39.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In the fight, delete shot of throwing of boiling water on the eyes of a man.",
+        "length_m": 2.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In the fight between two men, delete second blow of spear thrust directly in the other man who has fallen.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the fight with burning torches.",
+        "length_m": 0.99,
+        "length_retained_m": 3.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "Delete the prominent views of the lady coming out of the water.",
+        "length_m": 1.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce shouts and cries of the lady who has been lifted by the giant bird.",
+        "length_m": 2.93,
+        "length_retained_m": 3.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "In the last fight, delete the shot of direct hit with the spear and delete the shot of crushing a man's head with stone.",
+        "length_m": 7.11
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Not with my wife, You Dont",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "cert_no": "50279",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of legs of a lady below the table and a man caressing them (Keeping only the last flash when the title is superimposed).",
+        "length_m": 5.63
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man lifting a girl and hitting with her legs and the commentary 'two buddies who share everything together'.",
+        "length_m": 4.15
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots showing Tom imitating the Sheikh and the reference to Harem.",
+        "length_m": 8.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the words 'You crawling out of his bed'.",
+        "length_m": 0.25
+      },
+      {
+        "kind": "deletion",
+        "description": "In the fight delete the prominent view of low stomach blow and knee blow.",
+        "length_m": 0.72
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete views of Julietta with her bosom exposed.",
+        "length_m": 1.05
+      }
+    ]
+  },
+  {
+    "film_title": "Khed Preetan Di",
+    "languages": [
+      "Pugjabi"
+    ],
+    "cert_no": "50280",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted the picture of Shri Lal Bahadur Shastri preceding the titles.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From the court sequence deleted the portion in which the judge indicates the extenuating circumstances under which Shera was obliged to kill the goonda, and therewith, sentencing Shera to three years imprisonment.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the word Nauta as referred to in respect of the barber.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted close view of tracing of a female figure in bikini, from the point Lota enters the room and picks it up, retaining the rest of its views.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted the pictures of Shri Lal Bahadur Shastri and Guru Nanak as interspersed over the death sequence of Lal Singh.",
+        "length_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "Doctor You've Got To Be Kidding",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "Cinema scope",
+    "cert_no": "2022",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "Deleted the shot of the cigarette seller with the lecherous neighbour rising from a compromising pose from below the other side of the cot when Heather surprises them on entering the house without knowing.",
+        "length_m": 8.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "The words 'Do not condemn the neighbour before it is tested' as referred to a woman.",
+        "length_m": 3
+      }
+    ]
+  },
+  {
+    "film_title": "International Spy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "CS.",
+    "cert_no": "2024",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce the view of blood dripping from the palm of No. 5. and the view of his face with blood as he is lying on the ground.",
+        "length_m": 1.02,
+        "length_retained_m": 33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the close shot of the belly dancer.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete all shots of Rumi in the bathroom giving the impression of nudity as seen through the glass door.",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "Requiem For A Secret Agent",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "2026",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I & II",
+        "description": "From the dance sequence in the club, delete: the dancers stripping her clothes on the left; the shot panning from foot to head when she is only on trunk and blouse; the last shot on the stage in the dance sequence where the dancer acknowledges applause and bows with only her trunk on and holding her bare bosom with both palms; shots showing the dancer walking from the stage to the green room upto the point where she is fully covered with a dressing gown by her attendant.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the italic words from the following dialogue of Old Man addressed to Moran: 'Our agents know all about Russian, Chinese and Cuban espionage. However, this time we are up against something different. In Morocco we are fighting against independents private network of mercenaries, who sell themselves to the highest bidder to arrange political assassinations, revolutions and even wars'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the italic words from the following dialogue of Bingo addressed to Professor's party: 'If I may say so, welcome to the free world'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the italic words from the following dialogue of Bingo addressed to Kruger: 'You were telephoning while I was receiving three new citizens for democracy'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the following dialogue of Erik addressed to Bingo: 'My Government is not like the United States. If I told you what they pay me for a day's...'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete entirely the scene in which Edith is lying on the bed giving clear suggestion of nudity, although partly covered by a sheet, and Bingo takes the briefcase from top of the cupboard and approaches towards the bed and stands for a while by the side of the bed.",
+        "length_m": 21.34
+      }
+    ]
+  },
+  {
+    "film_title": "Funeral In Berlin",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "Panavision",
+    "cert_no": "2027",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete shots of the photographs showing Krushchev and other officials along with the italic words from the dialogue of Palmer addressed to Rose: 'Stock... Colonel Stock, K.G.B. Russian Intelligence. Berlin Sector'.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (a)",
+        "description": "Delete the following dialogue of Palmer addressed to Col. Stock: 'And so Russian Tea was invented'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (b)",
+        "description": "'You've got all that in Russia now'.",
+        "length_m": 0.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (c)",
+        "description": "Delete the following dialogue of Col. Stock addressed to Palmer: 'Oh... in Russia there is no place for an old Bolshevik,... You quote Marshal Suvalov'.",
+        "length_m": 2.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (d)",
+        "description": "Delete the following dialogue of Palmer addressed to Stock: 'We get plenty of Russians'.",
+        "length_m": 1.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (e)",
+        "description": "Delete the italic words from the following dialogue of Stock addressed to Palmer: 'Who wants to live in America? They are just Russians in pressed trousers! Revolutionaries for decadent!'",
+        "length_m": 2.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the scene in the taxi delete Samantha opening her coat and showing decollete dress to Palmer and her covering it up along with the following dialogue between them: Samantha - 'It's better if you want body.' Samantha - 'Like it.' Palmer - 'Looks very expensive.'",
+        "length_m": 4.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the scene in Chez Nous night club, delete speech of the Artist in German to mou: 'White cheese on navel and knees, & melon under each arm, and do not forget - 2 lemon between the legs!' and '...as well as about each dress. I take it in and give it more... I give it more...'.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (a)",
+        "description": "Delete the italic words from the following dialogue of Palmer addressed to Vulkan: 'I still don't trust that Russian comic'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (b)",
+        "description": "'I'm calling that Russian's bluff'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (i)",
+        "description": "Delete the italic words from the following dialogue of Palmer addressed to Stock: 'Admit I scared you, Russian!'",
+        "length_m": 0.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (ii)",
+        "description": "Delete the following dialogue of Ross addressed to Palmer: 'Stock should have sent you to Siberia'.",
+        "length_m": 1.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the following dialogue of Stock addressed to Polne: 'Do you think this job, this loathsome wall is all I've done for Communism? Does Smolensk mean anything to you, or Stalingrad?'",
+        "length_m": 5.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the italic words from the following dialogue of Werner addressed to Palmer: 'You bastard, you! You double-crossing... English bastard!'",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the shot showing Palmer bending down and turning the dead body on floor with face up.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the italic words from the following dialogue of Palmer addressed to Vulkan: 'I told you Johnnie... Those are Russian'.",
+        "length_m": 0.52
+      }
+    ]
+  },
+  {
+    "film_title": "Agent Sigma 3",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "2028",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete the portion showing one of the men hitting Sigma in the stomach with a gun.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete the shot of Paco equipping a knife blade to his wrist prior to his waylaying and stabbing his victim to death in the street.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduce the fight between Sigma and Paco, omitting violent thrusts at each other.",
+        "length_m": 14.94
+      }
+    ]
+  },
+  {
+    "film_title": "Our Man In Casablanca",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "cert_no": "2029",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels IV & X",
+        "description": "Delete the words Russian and Moscow as referred to by the American agent.",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Gunge Gowri",
+    "languages": [
+      "Kannad"
+    ],
+    "cert_no": "48921",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Song 5 - (a) Delete the view of Gunge in mid-shot with a pitcher where part of her bust is exposed on the humming, before the song begins, (b) Delete her prominent bust line view when she shakes her bust.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the views where Gunge's bust is pressing prominently the shoulder and later the chest of Siva (2 places). Delete the mid-shot of Gunge with prominent low-neckline bust visible when she is with a rustic (before the fight begins).",
+        "length_m": 3.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the near views of Gunge when part of her bust is prominently seen while she is addressing Brahmachari at the door, before being taken away.",
+        "length_m": 0.95
+      }
+    ]
+  },
+  {
+    "film_title": "Ummaade Kutumbam",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "48911",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the sentence 'Mangalanni choosi dunnapotu kuntundi'.",
+        "length_m": 0.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the word 'Nee Vayimputo' from the dialogue of Nagayya.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete the word 'Chakalivadu' from the dialogue of Nagayya.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "Reduce the shot of Mukundam pulling the rail of Mohini.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the word 'Pattapagale' from the dialogue of Pasupati.",
+        "length_m": 0.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 17",
+        "description": "Reduce the shot of Yenki sitting on the cot with sari above her knee.",
+        "length_m": 1.52
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "film_title": "Chandu Jamiar",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gajanan P. Shirke, Surangi Chitra, Vishnu Lodge, Dadar, Bombay-28",
+    "cert_no": "B /82892",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Delete the words 'Amitab Bachhan' as referred to as sweeper by Chandu.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete indecent visuals, including Chandu holding a banana suggestively, during the dance by Zamku.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Alter the banana song to delete visuals and dialogues between Zamku and Chandu with reference to bag-pipe.",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete Chandu's dialogue to the male girl 'Maru dando tamare haath ma..'",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the words 'Kam kajmu kaamuavshe' spoken with reference to the 17th girl.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete dialogue between Zamku and Chandu on the beach: 'Hun khainbati talu choon', 'Hun Ahmedabadi dando choon', 'Taru Lalu khol', 'Tainch Kholone', 'Maru dando chhe Ahmedabadi', 'Taru tilu kholiye vagin luun javani nathi', 'Maru hulu chhe', 'Gagira matichhavi kaadi?' (Deleted sound only).",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete suggestive visual of Chandu pushing his stick in front of Zamku who is sitting on the box with hot legs.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the dialogue 'Tu bosi ja, luin glo. le tai- h' spoken by Chindu in the police station.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete Nathu's dialogue to Chandlu to the effect that the mute girl should be made to sleep in the passage.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the suggestive dialogue: 'Kam-kaujvali raknilo jo,' spoken by Nathu.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the visual of Nathu applying 'vaseline' on his face suggestively and keeping the bottle under the pillow while preparing himself for the mute girl.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined word from the dialogue: 'Ye aurat jaat ka koi bharosc nahin' as spoken by John.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the visual of urine on the staircase and the dialogue: 'Aklo claduro bayadi gayo'.",
+        "length_m": 1.42
+      }
+    ]
+  }
+]

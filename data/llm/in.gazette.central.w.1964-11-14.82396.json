@@ -1,0 +1,579 @@
+[
+  {
+    "film_title": "Horizons West",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "35085",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the beating of Neal.",
+        "length_m": 16.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete a man being thrown into the fire by Dan.",
+        "length_m": 3.75
+      }
+    ]
+  },
+  {
+    "film_title": "The Lawless Breed",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "35086",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the scene where Rosie is called by John wearing scanty pink underwear until she goes to the next room and puts on her negligee.",
+        "length_m": 2.3,
+        "length_retained_m": 905.0
+      }
+    ]
+  },
+  {
+    "film_title": "Mahatma Kabir",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "22845",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "Reduce the scene of Dharamdas and Sanjovi complaining before the Moulvi, deleting references to the Hindu and Muslim communities.",
+        "length_m": 22.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the picture of Bharatha Mathu superimposed on the India relief map.",
+        "length_m": 4.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete Kabir's dialogue that the various Avatars, founders of religions and the Acharyas, all ultimately died.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the advice of Kabir that Hindus and Muslims should abandon the love for their religion in order to become one.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the picture of the Indian National Flag at the end.",
+        "length_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Kanna Thalli",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "22847",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Reduce to one woman besides Kanthamma when women are prostrating and praying for children.",
+        "length_m": 11.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete reference to 'Thella Noeru'.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 4",
+        "description": "Add a sentence to establish that the doctor's advice (Kanthamma has enlarged liver and must undergo an operation) was followed."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete Suntha's utthaya saying thoo once.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete reference to Rs. 5/- for danda and Kamandalam.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete dialogue of the boy 'whether his father visits his mother unseen'.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 6",
+        "description": "Establish that one of the group protested when the fat woman casts a slur on Santha."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete shot of Sankar and Gowri marching off with arms round each other at the end of duet song.",
+        "length_m": 22.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete Sankar wanting to put his head on Gowri's lap but striking the ground.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the words 'Arava Vadu and Arava Gola'.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Sankar holding Gowri's face in his hands across window bars.",
+        "length_m": 26.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 10",
+        "description": "Show Sankar as first in the village."
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Show that Sarma has been arrested for his conduct towards the girl at the next table and delete Sarma following the girls in frocks and the entire sequence.",
+        "length_m": 55.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "Delete close-ups and mid-shots of heaps of currency notes on the table, keeping only long shots to establish gambling with cards.",
+        "length_m": 12.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "In Chanchal's dance, delete all bust-jerking, hip-jerking, asking or taking money from young men round table, lying down on the floor, moving foot around and bust movement.",
+        "length_m": 122.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "In Warden's room, delete reference to bathroom and number 2 with gesture, and 'thank you mastergaru'.",
+        "length_m": 47.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "When Sankar is in Chanchal's bed chamber, delete all intimate physical contacts such as Chanchal putting her arms around Sanker's neck, arms locked, Sankar caressing Chanchal's face and Chanchal reclining on Sankar's lap. Delete shot of Chanchal's diaphanous dress, and her bust swaying.",
+        "length_m": 55.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "Delete the word bloody.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 18 & 19",
+        "description": "Slightly reduce on both occasions Santha being marched on the public roads under police escort.",
+        "length_m": 12.0
+      }
+    ]
+  },
+  {
+    "film_title": "Anurago",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "1481",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the scene depicting forcible embrace.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete abduction scene - forcibly pulling a girl.",
+        "length_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Anurg",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "1481",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Cut from Sorcar's dialogue 'Saman Upabhogya; Ekjankc pelei holo, I am a real Hemanek janete amar man bharcna Tomake yakhan katche peyechi takan — I must have you'.",
+        "length_m": 13.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce forcible embrace and attempted kissing scenes, retaining minimum to keep continuity of story.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce forcible dragging scenes at two places.",
+        "length_m": 6.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce scenes of struggle at two places.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Cut the scene depicting kissing.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Omit the play-out music.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Add a preface indicating the fictitious nature of story."
+      },
+      {
+        "kind": "insertion",
+        "reel": "12",
+        "description": "Add an insertion of a kissing hour with head light on."
+      }
+    ]
+  },
+  {
+    "film_title": "Aurat",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "35095",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete all shots of Yasmin, the maid servant of Joohee, in close-ups and mid-shots.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete all close-ups of Joohee whilst she sings the words 'Kab talak jale yeh shiama ab to bujha lene de' reclining on a support.",
+        "length_m": 11.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "XC",
+        "description": "Delete all close-ups and mid-shots of Yasmin in embroidered blouse.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "XC",
+        "description": "Delete the words uttered by Joohee to Adil 'mujhe apne mazboot bazuon men jakde rakho yahan tak ke mera dum nikill jaac'.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the scene when Joohee caresses Adil's arm and when Joohee reclines on him.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the scene where Adil puts his arms round Joohee saying 'main tumhare sivac kusiku nyar nahin karta'.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete all shots of Yasmin in close-ups wherever she is seen in embroidered blouse.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "No whipping sound should accompany the picturisation of Adil being given strokes by a soldier when he is dragged in the street tied to a chariot."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The whole song of Roohcu 'O ! Ayengay Khusi Bankar...'.",
+        "length_m": 88.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Stone throwing by Adil.",
+        "length_m": 10.97
+      }
+    ]
+  },
+  {
+    "film_title": "Chhatrapati Sambhaji",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "35096",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Cut out very short the scene where Sumant is whipped by order of Sambhaji.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The scene where a Brahmin (Kubji) is shown offering goat's flesh to the goddess Mahakali at the time of sacrifice should be omitted entirely and also omit all words referring to blood, flesh, blood garlands etc. in the scene.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "The scene where Sambhaji on his refusal to become a mohammadan is shown being tortured and put to death by the agent of the Mogal Emperor should be curtailed very drastically. The scene should show only Sambhaji refusing to become a Mahommedan and then lying dead on the ground. All parts of the scene showing him being tortured etc. as also the accompanying dialogue should be omitted entirely.",
+        "length_m": 35.05
+      }
+    ]
+  },
+  {
+    "film_title": "Rail-Ka-Dibba",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "35097",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Shadowgraph of Chanda.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Ducking shot of Nirogi.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Mohan's speech about spending money on statues instead of helping the poor, orphans, and widows.",
+        "length_m": 19.2
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replace the words 'Zara aur haath lagao, maza aayoga' with 'zara aur polish kardo, maza rahega'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Wherever ghagra moves up, in whirling movement, exposing uncovered legs during Chanda's dance.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of Chanda's bust, and Chanda and Sundor lying together on the beach.",
+        "length_m": 44.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shot of policeman standing inactive after pistol shot rings out in the house.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Aah",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "35098",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Long shot of the Shehnai comprising atmosphere of the marriage party.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Two close shots of dancer's foot right to left moving out of frame and again from left to right.",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The title showing T.B. patients moving in the gallery of sanitorium.",
+        "length_m": 4.26
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "A scene showing Neeloo in bed."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deleted the dialogue between Dr. Yusuf and Raj just before the scene Neeloo standing on the balcony.",
+        "length_m": 11.27
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Added a scene where Dr. Kailash and Dr. Yusuf discussing Raj's T.B. disease and he overhears it.",
+        "length_m": 33.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "After the above, scene showing Dr. Kailash and Dr. Yusuf in conversation with Raj has been deleted.",
+        "length_m": 7.31
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "New dance sequence with insertions of Raj, Neelu and Chandra.",
+        "length_m": 282.54
+      },
+      {
+        "kind": "insertion",
+        "reel": "XV",
+        "description": "Scene showing Chandra reading letter-asking girls to go out and speaking to Neelu-Neelu rushing out to save Raj etc.",
+        "length_m": 56.08
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVI",
+        "description": "Insert of passing car.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVI",
+        "description": "Sequence of Raj's bridegroom etc.",
+        "length_m": 56.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Old scene of Chandra during marriage reading letter etc.",
+        "length_m": 7.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Silent shot of Raj going towards tonga.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Insertions of Raj and Neelu during the song Chhoti si yeh jindagani ro.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Shots of Kailash as bridegroom and Raj as dead.",
+        "length_m": 46.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Deleted last shot of Neelu leaning on Raj near the window following the baraat scene.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "replacement",
+        "reel": "XVII",
+        "description": "Raslila-dance in colour from the end of Reel XVI has been shifted to Reel XVII with shot of Raj and Neelu etc. attached thereto at the end.",
+        "length_m": 141.73
+      }
+    ]
+  },
+  {
+    "film_title": "Pandit Masai",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "1481",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Dialogues between Brindaban & Kesab in Brindaban's courtyard.",
+        "length_m": 24.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Wailing portion in Tarini's courtyard after Brindaban's visit.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Carrying dead bodies of villagers to burning Ghat.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Wailing portion in Khiru's courtyard when Brindaban arrived in his house.",
+        "length_m": 59.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Burning Ghat scenes just after the previous scenes.",
+        "length_m": 1.0
+      }
+    ]
+  }
+]

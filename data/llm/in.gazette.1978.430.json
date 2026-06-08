@@ -1,0 +1,287 @@
+[
+  {
+    "film_title": "Khel Kismat Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "86113",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the violence",
+        "length_m": 1.22,
+        "length_retained_m": 10.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kissa Kursee Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "96123",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the words 'Aur baad me jala dala gaya' from the introductory speech of the producer",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "From Ruby’s dialogue, delete references to 'undressing' and reduce her actual undressing in front of the President, together with his vulgar reaction and indecent gestures",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the visuals of 'Natraj' statue (zoom-close shots) trying to purposely catch the attention of the audience, inter-cut with the President's speech in order to avoid the identity of the country",
+        "length_m": 11.0
+      }
+    ]
+  },
+  {
+    "film_title": "Purvarish",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "85895",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II & XS III",
+        "description": "Deletion of various shots",
+        "length_m": 98.45
+      }
+    ]
+  },
+  {
+    "film_title": "PAHEL1",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "86106",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, V, IX, XI, XIV, XV & XVI",
+        "description": "Deletion of various shots",
+        "length_m": 238.64
+      }
+    ]
+  },
+  {
+    "film_title": "MUMTA",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "86112",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "FEMIBON",
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "cert_no": "86114",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "PACHANOL",
+    "languages": [
+      "Hindi",
+      "English",
+      "Marathi",
+      "Gujarati",
+      "Bengali",
+      "Tamil",
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "85009",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "LAKHENr LAAJ",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Partly B/W",
+    "cert_no": "85455",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, IX & X",
+        "description": "Deletion of various shots",
+        "length_m": 19.49
+      }
+    ]
+  },
+  {
+    "film_title": "SHANKAR HUSAIN",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "cert_no": "83516",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, IV, V, VI, VII, VIII, X, XI, XII, XIII, XIV, XV, & XVI",
+        "description": "Deletion of various shots",
+        "length_m": 206.04
+      }
+    ]
+  },
+  {
+    "film_title": "Proxy",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "cert_no": "84570",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Broja Bull",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "cert_no": "84572",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Prayanamlo Padanisalu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B. & W.",
+    "cert_no": "79809",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Evaru Devudu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "79810",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Innale Innu",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "79811",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the scene of Chandran molesting Radha to a flash",
+        "length_m": 104.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following dialogue by Nanu Aasan 'Rathri Kaalangalil Nee Onnu Kannadachal Anganeyum Kurachu Kaasu U.idaakalam'",
+        "length_m": 2.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the fighting sequence, by deleting the shots of rowdies whipping the others with their belts, and Rajan’s neck being pressed with his two crutches"
+      }
+    ]
+  },
+  {
+    "film_title": "Innale Innu",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B. & W.",
+    "cert_no": "79812",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the fight between Pratap and Nagesh, by deleting all direct hits & brutal punches",
+        "length_m": 1.54
+      }
+    ]
+  },
+  {
+    "film_title": "The Angry House wife",
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "Hindi",
+      "Marathi",
+      "Bengali",
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "79814",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Norman ..., Is That You ?",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Widescreen",
+    "cert_no": "4093",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from Ben’s dialogue 'Your mother and my brother are at the moment cohabitating in a hotel in Mexico'",
+        "length_m": 0.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the words 'My brother \"screwing\" her'",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the vulgar words used by Ben while talking to his brother on phone",
+        "length_m": 2.72
+      }
+    ]
+  }
+]

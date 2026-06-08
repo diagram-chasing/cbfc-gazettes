@@ -1,0 +1,113 @@
+[
+  {
+    "film_title": "Mere Sajana",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "78477",
+    "cert_date": "21-4-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots showing Master caressing thighs of Sona sitting in his lap and rubbing his lips on her shoulder while watching the killing of his henchman by a dog.",
+        "length_m": 5.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between the dog and the man.",
+        "length_m": 0.65
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replace Sona's remark 'Merc jisme se ang ubhar aayce hai' with 'Bahut Garmihai' while talking to Ratan suggestively.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the shots where Ratan is seen patting her bare back and the girl feeling passionate.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the portions of the scene where Ratan is trying to kiss Kammo and taking his lips too close to his and also his leg coming over Kammo's legs.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the views of Ratan being dragged by a jeep and also reduce the fight between Ratan and scordas where there are hard hitting shots.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Ratan and Master avoiding hard hitting shots.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the fight between Ratan and Master on the terrace of a building under construction particularly the shots showing the villain being pulled by means of a rope and his hard dashing against the wall.",
+        "length_m": 2.26
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Dharmatma",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "78488",
+    "cert_date": "22-4-75",
+    "endorsement": "With triangle mark",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce the impact of violence in the trailer.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce dragging of the hero behind running motor-cycles.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Chori Mera Kaam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "78617",
+    "cert_date": "30-4-75",
+    "endorsement": "With triangle mark",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the front view of the man buttoning up his pant while running, after urinating, when his scooter is taken away by Bhola.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the fight with a view to reduce the gruesome impact and tension and delete the close shot of blood smeared face of a man after the tiger's attack.",
+        "length_m": 42.42
+      }
+    ]
+  }
+]

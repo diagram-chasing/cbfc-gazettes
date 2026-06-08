@@ -1,0 +1,502 @@
+[
+  {
+    "film_title": "Hollywood Or Bust",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Ballard Estate, Bombay",
+    "cert_no": "20083",
+    "cert_date": "10th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Shot of a Frenchman kissing a girl on his lap and the shot of the Chinese putting Pop-Corn.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Hort V",
+        "description": "The following lines from song \"What lovely scenery Cupid's machinery also the whole picturising the same\".",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Hort V",
+        "description": "Shot where a dog is seen touching a girl; black twice after she is lying down.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rel VI",
+        "description": "Shot where Steve is shown hissing and lying on a girl whom he throws on the ground near a pond.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red I",
+        "description": "Undesirably where Anita's suggestively clothed bust is shown prominently.",
+        "length_m": 3.35,
+        "length_retained_m": 2.62
+      }
+    ]
+  },
+  {
+    "film_title": "Beyond A Reasonable Doubt",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "RKO Radio Pictures Pvt. Ltd., Dhanur, Sir P.M. Road, Bombay",
+    "cert_no": "20072",
+    "cert_date": "18th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Endorsement No. B /18787",
+        "description": "In the night club sequence: the words \"Any time. Hat\" from the dialogue between Tom and a catchhook girl.",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Endorsement No. B /18787",
+        "description": "Shot in which Dolly takes off her skirt on stage.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Endorsement No. B /18787",
+        "description": "The word \"You have touched enough already\" addressed by Dolly to Tom.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Endorsement No. B /18787",
+        "description": "In backstage dressing room scene, shot in which Dolly is seen sitting up on the table facing Tom with her thighs and legs exposed prominently.",
+        "length_m": 3.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Endorsement No. B /18787",
+        "description": "Shot in which Forty and Dolly are undressing after entering dressing-room and all subsequent shots in which they are seen only in underwears.",
+        "length_m": 29.26
+      }
+    ]
+  },
+  {
+    "film_title": "Commanche",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1",
+    "cert_no": "20127",
+    "cert_date": "18th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the scene where Red Indian attack a village, all close views of women being mauled.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Some shot of profusely bleeding face of wounded American Officer.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To flank shots in which Black Cloud repeatedly strikes Commissioner Tuned with his spear, Ward's painful scream.",
+        "length_m": 2.62,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably the last portion of fierce close combat between Black Cloud and Jim Road.",
+        "length_m": 9.14,
+        "length_retained_m": 12.29
+      }
+    ]
+  },
+  {
+    "film_title": "President Eisenhower's State of the Union Message",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm.",
+    "producer": "United States Information Service, The International, 18, Queens Road Estate, Bombay",
+    "cert_no": "20128",
+    "cert_date": "18th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The word \"Communist\".",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "The word \"Soviet\".",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Khuda Ke Banda",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Chitra Bharati Shrikant Studios, Chembur, Bombay",
+    "cert_no": "20129",
+    "cert_date": "18th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot showing hero carrying the dead body of his mother on his arms.",
+        "length_m": 1.34
+      }
+    ]
+  },
+  {
+    "film_title": "The Black Whip",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1",
+    "cert_no": "20180",
+    "cert_date": "25th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of two \"Black Legs\" jointly trying to molest Jennie.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "To ask shots in which Sally is being molested by a drunken person with a bottle in hand.",
+        "length_m": 5.49,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To two strokes the lashing by Murdock of Dewey with a whip till he drops down.",
+        "length_m": 9.45,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Zamana",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Nandkishore Khanna, Link Films, 304, Famous Cine Bldg., Haines Road, Mahalaxmi, Bombay",
+    "cert_no": "20149",
+    "cert_date": "22nd April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The dialogue of Rampyari to Bankey Lal regarding their childlessness: \"Yokya Leil kassocr hai\".",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Bankey's dialogue pertaining to liquor to Din Dayal: \"Gam galat karne ke liyo ipsc bari duva pabun\". \"Phir barari buon ka satr karo lacudga\".",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words of Bankey Lal to Din Dayal referring to Bimla: \"Char men ganga bahiti bp , jemo tum dubki Dabun desalte 9\".",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Bankey's dialogue to Din Dayal \"EL botul ghar men rakh de plur panja maxbout ho jayega\".",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Bankey's dialogue \"Gan galat karto ko liyo iwe bari dava nahin\".",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All shots except the shot where Din Dayal hits Shanta with the stick; also the shot of slapping. The shot of Shanta holding Promode in her hands suggesting that he is fainted.",
+        "length_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Dialogue of Promode when he is uttering the word of fear about his father: \"Babaji aa gaya\". \"Babaji ma renge\".",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots of Shanta taking the dead body of Promode in her hands from the time she comes out of the house till she takes the plunge in the river, retaining the shot where the goryant is laid over by the chr.",
+        "length_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The shot where the priest peeps into the room through the hole, the shot of Shanta changing her clothes. The dialogue uttered by the priest \"Mundir ke Bhagwu to mendur mon bain\" \" Badal gar no so mor naach uthhta hai\" \"Aurat ko dokh kar admiko roop badan jata hai\". In the same sequence the shot of the priest closing the door and the shots of molestation retaining only his attempt to catch her hand and the shot of Shanta batting him on his hand.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Shots of Shanta and Kishore cuddling and embracing each other to three shots.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Shots of Shanta and Kishor cuddling and embracing each other to one shot.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "To a flash the shot of strangulation of Bankey by Din Dayal.",
+        "length_m": 2.44,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Mohini",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Navkala Niketan, 251, Famous Cine Building, Haines Road, Bombay 11",
+    "cert_no": "20268",
+    "cert_date": "30th April 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot where Mahi Mantri is shown in the temple with shoes on.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Reference to \"Gandharva Vivah\".",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The sequence where the doctor stabs Mohini's son. She shrieks in pain and her bleeding sockets are shown in close ups.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The entire sequence where a group of his sons is played by Army characters behind Durge's idol and elsewhere in the temple which are profanatory.",
+        "length_m": 99.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following lines from Song No. 8. \"Tul moro dil km Bajanya lla kijiye\".",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The entire sequence where Bikram insults his father.",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The entire sequence where Chanduri is tortured by Bikram except the last shot where she falls down dead.",
+        "length_m": 35.97
+      }
+    ]
+  },
+  {
+    "film_title": "Jan Dushman",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Shivraj Productions, Post Box No. 6880, Dadar, Bombay 4",
+    "cert_no": "20260",
+    "cert_date": "1st May 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Champabai saying: \"Paag mon paiga nahin, chalo aate hain\".",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "\"Shantikye, Shantiki inua bbl app ko panand karegl\" and \"Oog kimaa no hamon kya kama hai\".",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Goondas calling Police \"Devacoof\".",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "\"Agar too dhando bo nafrat koregito kheyog ! kya\" spoken by Champabai.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "\"Zanak Zanak Charo been\" and \"Katuha kola trid laya hai\".",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Champabai saying \"Pukit men pajse nabin aur yahi halo nate baln\".",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV, VII, VIII, II & XII",
+        "description": "All fights particularly deleting hand knocks, punches and kicks in near views.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce Dilip and his friend's sadistically boastful reference to beating a Laddu and Jilebi.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "The Tattered Dress",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Universal Private Ltd., Mustafa Building, Sir P.M. Road, Bombay 1",
+    "cert_no": "20262",
+    "cert_date": "1st May 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Close shot in which Mrs. Ruxton is seen in tattered dress exposing parts of her bust and thigh prominently.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Close shot in which Mrs. Ruxton is seen semi-nude in the swimming costume with her thighs and legs very prominently exposed; while she is floating in swimming pool after being introduced to Blane.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "All shots in which Hank and Mrs. Morrow are seen together on the bed in the latter's bed room.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerably, deleting dinner punches, scene in which Blane is attacked by two hoodlums in the Alley at night.",
+        "length_m": 20.73,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Maharani",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Abul Chitra Production, A/38, Tarabag Estate, Cherni Road, Bombay",
+    "cert_no": "20290",
+    "cert_date": "4th May 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The following dialogues of Surila: (a) \"Tumhari gaiya ne buchhra diya huimagar main to kanvara li marJooga\". (b) \"Abhi tak Labh thik jagah par nahin jata\".",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot where Madan lifts the dancer up and holds her in his lap.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Photo of Radha And Krishna and Ram and Shots in the song - ( Ban ko muhman.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Vulgar hip movements of Surila while he is singing song \"Suhagan\".",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Sequence where Gujan is shown stumbling as blind and deafmute and then falls down from the precipice to her death.",
+        "length_m": 28.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Surila's dialogue referring to conception.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Considerably shots where Padmini and Veersingh talk about conception, retaining only the last two dialogues.",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      }
+    ]
+  }
+]

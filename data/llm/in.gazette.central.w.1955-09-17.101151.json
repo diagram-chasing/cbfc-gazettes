@@ -1,0 +1,303 @@
+[
+  {
+    "film_title": "Jupiter's Darling",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "13881",
+    "cert_date": "22-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "View of Amy in blue dress where her bare thighs are prominently visible.",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Anytis exposing her thigh on the bed and Hannibal watching her body with passion.",
+        "length_m": 0.004572
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Hannibal watching Amytis face when she is changing for swimming.",
+        "length_m": 0.0012192
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Suggestive dialogue of Hannibal and Amy starting from 'Well there are no hard and fast rules in warfare...' to 'It sounds exciting'.",
+        "length_m": 0.0118272
+      }
+    ]
+  },
+  {
+    "film_title": "We re No Angels",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Vistavision",
+    "producer": "Paramount Pictures Corp., U.S.A.",
+    "cert_no": "13854",
+    "cert_date": "22-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shot of three convicts on the roof watching Amelie who has undressed and trying on corsets.",
+        "length_m": 0.0057912
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Remark of Albert talking to Lonhelle who has come out at night out of her bedroom: 'You can't see anything through it'.",
+        "length_m": 0.0027432
+      }
+    ]
+  },
+  {
+    "film_title": "Tight Spot",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "13888",
+    "cert_date": "22-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The hoodoo showing Sergeant Vince being kidnapped by the gangsters.",
+        "length_m": 0.00115872,
+        "length_retained_m": 0.0006096
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Scenes showing Sergeant Vince being assaulted by the gangsters after he has been kidnapped.",
+        "length_m": 0.00265176,
+        "length_retained_m": 0.00170688
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Telegrams where the fact of Sergeant Vince having been involved with the woman is brought out so that merely a suggestion is left that the Sergeant concerned was in some way fully indebted to the accused and the latter was in some way personally indebted to the accused and the latter was trying to take advantage of this fact.",
+        "length_m": 0.003048
+      }
+    ]
+  },
+  {
+    "film_title": "Judgement of Paris",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Cine Del Duos (Italy)",
+    "cert_no": "13880",
+    "cert_date": "23-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Scene of Helen and Paris making love in the bed.",
+        "length_m": 0.0024384
+      }
+    ]
+  },
+  {
+    "film_title": "Chore",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Singh Art Productions, Bombay",
+    "cert_no": "13857",
+    "cert_date": "23-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Words of Nandu to Raj Kumar regarding 'Doodh pilawali' (from 'Gawali Khilawali ulirili curulli') 'Walid ben, doong'.",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Words of Nandu to Uma: 'Tore upar lostpoint ho juon'.",
+        "length_m": 0.0033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shot of Ganaal bringing his face close to that of Shobha's (once when Munshi enters and now when Shobha tightly pulls him) all the later one opens a pomartu to Shobha: 'Mori Pyao agal hokar bi raho gaye aur her vaklit jal door cabu'.",
+        "length_m": 0.027432
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Scene showing Shobha in night dress when the upper covering of her breast slips off.",
+        "length_m": 0.0024384
+      }
+    ]
+  },
+  {
+    "film_title": "We re No Angels",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Vistavision",
+    "producer": "Paramount Pictures Corp., U.S.A.",
+    "cert_no": "13873",
+    "cert_date": "26-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of three convicts on the roof watching Amelie trying on corsets.",
+        "length_m": 0.0012192
+      }
+    ]
+  },
+  {
+    "film_title": "Abdullah The Great",
+    "colour": "Color",
+    "producer": "Cine Del Duos (Italy)",
+    "cert_no": "13874",
+    "cert_date": "26-8-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the sexy dance by girls under sub-title 'Entertainment'.",
+        "length_m": 0.003048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "King Abdullah kissing Ronny on the bosom.",
+        "length_m": 0.003048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of scantily clad girls dancing while Abdullah throws oranges towards them and later view of them under the sub-title 'L'.",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Scantily clad girls dancing in the night club.",
+        "length_m": 0.0024384
+      }
+    ]
+  },
+  {
+    "film_title": "Abdullah The Great",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "cert_no": "307",
+    "cert_date": "28-8-45",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the last sequence in which the dance of scantily clad girls appear, all the way dancers, duo as well as group. From a later sequence only a view of the scantily clad girls on the table, view of scantily clad girls in the sequence in which Abdullah is talking to them and throwing pearls before them.",
+        "length_m": 0.0332232
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Marry lying in bed with a scantily clad girl and making love to her.",
+        "length_m": 0.0064008
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Abdullah saying 'Women are flowers. Enjoy them...' upto 'Change them often'.",
+        "length_m": 0.0054864
+      }
+    ]
+  },
+  {
+    "film_title": "Judgement of Paris",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Ciao Del Banco (Italy)",
+    "cert_no": "300",
+    "cert_date": "20-8-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Nude or almost nude paintings.",
+        "length_m": 0.0033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "A girl in blue costume courtesying where part of the flesh of her bosom is visible.",
+        "length_m": 0.00067056
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The scene of Helen and Paris making love in the bed.",
+        "length_m": 0.0360072
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Helen and Paris making love in the boat.",
+        "length_m": 0.0360072
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The two scenes of Helen and Paris making love when they are in Troy.",
+        "length_m": 0.0146304
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The whole scene of a passionate orgy in Troy just before the opening of the Trojan horse and later.",
+        "length_m": 0.0225552
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The whole scene of a soldier trying to rape a woman, also holding taking away women.",
+        "length_m": 0.0021336
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "A woman in scanty clothing in a shadowgraph.",
+        "length_m": 0.0033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "View of a girl where part of her bare bosom is visible as she gets up and walks when the soldiers surprise girls.",
+        "length_m": 0.0021336
+      }
+    ]
+  }
+]

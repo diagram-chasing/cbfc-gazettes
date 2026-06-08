@@ -1,0 +1,808 @@
+[
+  {
+    "film_title": "Oasis",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Ludwig Waldleitner and Gerd Oswald, Europe And U.S.A.",
+    "cert_no": "18156",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "dialogues about Quran prohibiting pleasures and Allah being generous.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "dialogue asking what Quran says and offering a drink.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "episode of drowning and killing a man.",
+        "length_m": 4.2672,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Magic Fire”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Republic Pictures Corporation, U.S.A.",
+    "cert_no": "18181",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Richard kissing Matilda",
+        "length_m": 3.9624
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1420",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietone News Ltd., U.K.",
+    "cert_no": "18207",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item on \"Polish Crisis\", the words \"to her long struggle for freedom\" as well as \"Ousted and Imprisoned under the Stalin regime\"",
+        "length_m": 2.37744
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item on \"Mau Mau leader Captured\", the words \"which known his reign of terror, 'evil' and the last sentence \"His capture is a powerful blow at the weakening morale of those few gangsters still trying to evade the security net, which is inevitably closing round them\"",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Broadway Varieties No. 8",
+    "languages": [
+      "English"
+    ],
+    "producer": "Trinity Pictures, U.S.A.",
+    "cert_no": "18220",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The item “Variety Girls\" in which scantily clad girls perform amorous movements of the body",
+        "length_m": 61.2648
+      }
+    ]
+  },
+  {
+    "film_title": "Broadway Varieties No. 9",
+    "languages": [
+      "English"
+    ],
+    "producer": "Trinity Pictures, U.S.A.",
+    "cert_no": "18221",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The acrobatic dance of the China girl in the item 'Tumi' in which thighs are fully exposed",
+        "length_m": 64.008
+      }
+    ]
+  },
+  {
+    "film_title": "Written On The Wind",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Universal International Films Inc., U.S.A.",
+    "cert_no": "483",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Z/Z",
+        "description": "Dialogues between Lucy and Kyle about marriage and intentions.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Dialogues between Roy and Marylee about insults and boredom.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Marylee's dialogue about marriage and personal experience.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Marylee's dialogues about knowing Mitch and exciting evenings.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Biff's dialogue about picking up and daughter being a tramp.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Marylee's dialogue about being 'filthy period' and Mitch kissing Lucy.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Hell’s Half Acre",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Republic Pictures Corporation, U.S.A.",
+    "cert_no": "484",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Sally being slapped by Roger Kong.",
+        "length_m": 1.524,
+        "length_retained_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Attempts of the fat man to molest Dona and her shrieks.",
+        "length_m": 15.24,
+        "length_retained_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Roger Kong slapping the fat man and his shrieks.",
+        "length_m": 3.048,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Afthu",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "A. K. I. Ltd., People’s Bldg., Sir P. M. Road, Bombay.",
+    "cert_no": "11881",
+    "endorsement": "U",
+    "rule_applied": "Rule 29",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Credit titles",
+        "length_m": 6.096
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "One animation shot to demonstrate double action of Vicks Vapo Rub.",
+        "length_m": 25.908
+      }
+    ]
+  },
+  {
+    "film_title": "Ankli Ka Nasba",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Natraja Productions, Mazdoor Tola Mandir, Parel Tank Road, Parel, Bombay 12.",
+    "cert_no": "17853",
+    "endorsement": "U",
+    "rule_applied": "Rule 29",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Hand coloured song \"Mera nazuk sa chaman, Zamana\"",
+        "length_m": 112.776
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Hand coloured song \"Mohfil men aai haseena .... \"",
+        "length_m": 106.68
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Hand coloured song \"Jaige jane wala kabon \"",
+        "length_m": 94.488
+      }
+    ]
+  },
+  {
+    "film_title": "New Delhi",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Mohan Segal",
+    "cert_no": "17528",
+    "endorsement": "U",
+    "rule_applied": "Rule 29",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Hand-coloured Bharat Natyam Dance and \"Murli Bairan Bhal\" Song",
+        "length_m": 164.592
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Hand-coloured Kishore’s song \"Nakharnwall\" with Mala’n dance \"Zindagi Baliar Lai\"",
+        "length_m": 249.936
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Hand-coloured Punjabi Bhangra dance \"Turn Sang Preet Lagli Raaja\"",
+        "length_m": 195.072
+      }
+    ]
+  },
+  {
+    "film_title": "Ayodhyapati",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "A. A. Nadiadwala",
+    "cert_no": "18203",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Trick scene of Marich visible to Lord Rama with one face, with more than one face and still more.",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Dialogues of Rama and Lakshmana about mata Kaikeyi, Rama says that she loved him the most, but Lakshmana opposes.",
+        "length_m": 21.336
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Shot of Bharat placing ‘Kharaon’ on the throne. Full scene of Rama, Lakshmana and Sita in the words of Panchavati. Marich comes in the shape of a deer. Sita wants that deer. Rama follows the deer. Ravana comes in the guise of a Sadhu and takes away Sita. Hanuman making a bridge with the help of his colleagues goes.",
+        "length_m": 146.304
+      }
+    ]
+  },
+  {
+    "film_title": "Raj Rani Meera",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Chitra Bharati, Shrikant Studios, Chembur, Bombay.",
+    "cert_no": "18244",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Rana Bhoj is shown chasing idols from place to place with intention of destroying them.",
+        "length_m": 6.7056,
+        "length_retained_m": 14.3256
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Rana Bhoj is shown with shoes on the platform which supports Krishna’s idol.",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The shot where Rana Mata asks the priest to get out by calling him ‘Ghaudi ke tukron par palno vale nevak’.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The shot where dead body of Rana Bhoj is shown on bed.",
+        "length_m": 19.5072
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The sequence where Rana Vikram is shown with Meera after Bhoj’s death asking her to be his Rani and trying to molest her, but is deterred by appearance. The sequence ends with the Rani ordering that Meera must quit Chittor.",
+        "length_m": 47.8536
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Nandi Thakur’s dialogue referring to Rana Vikram’s evil designs on Meera.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Dialogue referring to Rana Vikram’s bad designs on Meera.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "X/F",
+        "description": "The scene where the priest of Krishna’s temple of Dwarka ridicules Meera and prevents her from having darshan.",
+        "length_m": 21.336
+      }
+    ]
+  },
+  {
+    "film_title": "Storm Center",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "18236",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IT",
+        "description": "The word \"Red\"",
+        "length_m": 0.1524
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The word \"Kremlin\"",
+        "length_m": 0.4572
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words \"But You fear Ud\", \"You fear the truth\" and the word \"Russian\".",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words \"I detest communism\"",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words \"You talk about detesting Communists, but you seem blind to the fact that these people use our laws they hide behind our laws for one purpose to destroy our laws\"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The word \"Kremlin\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The words \"Brain washing\"",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Hotel",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Brightlights",
+    "cert_no": "18241",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "The title of the film has been changed from “Grand Hotel” to “Hotel” and a tablet reading as follows added: “This is an imaginary story. The characters and the situations are fictitious, They do not represent and are not intended to represent actual places, persons or events”",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Pran's dialogue.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Pran's dialogue.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The shot where Pathan kisses Ram Mohan.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Kitty's dialogue.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Ram Mohan’s dialogue.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The shot where Ram Mohan kisses Pathan.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "I, II, III, IV, V, VI, X, XI, XII",
+        "description": "The word ‘Grand’ from the phrase “Grand Hotel” (sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "The shots where Kitty’s bare shoulders are shown while she is changing her dress.",
+        "length_m": 0.6096,
+        "length_retained_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Gaumont British News No. 40/50",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm.",
+    "producer": "The Rank Organisation Ltd., U.K.",
+    "cert_no": "18286",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dialogue from commentary: \"CAPITULATION IN SINAI\" and related phrases about Egyptian army defeat, Israeli forces, and Anglo-French air forces.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dialogue from commentary: \"THE TRAGEDY OF HUNGARY\" and related phrases about Soviet domination, Red Star, and dawn of freedom.",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol. 047",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "18287",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From item No. 3, “HUNGARY’S FIGHT FOR FREEDOM”, dialogue about Russian-dominated satellite nation, Iron Curtain, Red Star, and Russian tanks.",
+        "length_m": 13.1064
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1431",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "British Movietonews Ltd., U.K.",
+    "cert_no": "18288",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item “Hungary’s agony” dialogue: \"Against Red oppression\", \"We in the free world rejoiced... Soviet domination\", \"Rambling through the streets... Hungarians\", \"In spite of promises... talks were in progress\".",
+        "length_m": 3.5664
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item “The First Landings” dialogue: \"To restore order in the Middle East\", \"in the general plan... loss of life as possible\", \"It’s up to everyone herein Britain... carrying out their duties\".",
+        "length_m": 8.5344
+      }
+    ]
+  },
+  {
+    "film_title": "The Rack",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "18289",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Dialogue: \"Four years in Korea\"",
+        "length_m": 3.1088
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "\"Uhh-Camp Number 6, Pyoktong\"",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "\"An interrogator — he was Chinese\"",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "\"Three years you lie in the sack in some quaint oriental teahouse\"",
+        "length_m": 9.6312
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "\"Well, for Heaven’s sake, I thought you were still in Korea\"",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "\"Pyoktong, North Korea, during a period from January 1951 to July 1953\"",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "\"Pyoktong\" and \"1951\"",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "\"Oh, he told us what wonderful people the Chinese were\" \"It was just those wall street big shots that made the United States invade peace-dorein Korea\"",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue about Dachau being a murder camp in Germany.",
+        "length_m": 5.3646
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "\"At Pyoktong, North Korea\" and \"for the Commie,\"",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "\"Called Pak, Pidaoe\" and \"At Pak's palace\"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "\"He was the person they had running this place, he was psycho. He told them to chain me up\"",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reference to Pak.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reference to Pak.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "F/f",
+        "description": "\"January 2, 1951\" and also \"At Pyoktong\"",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "F/f",
+        "description": "\"then the Chinese stopped the column\"",
+        "length_m": 1.46304
+      },
+      {
+        "kind": "deletion",
+        "reel": "F/f",
+        "description": "the word \"Chinese\"",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "\"By the Communist,\"",
+        "length_m": 3.2304
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "\"Sometime before you were in Korea\"",
+        "length_m": 11.5824
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "\"that the Chinese made you write\"",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The word \"Chinese\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "\"Written by the Communists\"",
+        "length_m": 0.762
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The words \"of communism\" \"of its nature\".",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The word \"Communist\"",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The word \"two from \"Two warn of his youth\"",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Reference to “Korea\"",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Jungle Man",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Sushil Pictures",
+    "cert_no": "18501",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The two close-ups of the dancer's bust in song No. 1.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "5 (a)",
+        "description": "Shamu’s words to Rajkumari “To aram he aar rakh krt so jain” and their going to deep together.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "6 (A)",
+        "description": "The shot of Rajkumari whimpering the explanation of love into Shamil's ear.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "H",
+        "description": "Shamu’s act of stabbing Chauhan to one stroke.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "H",
+        "description": "Delete the views of the Mantri’s bleeding fade.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Nazneen",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "All India Pictures, Cadell Road, Bombay 28.",
+    "cert_no": "18502",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the word ‘Chamar’ (sound changed).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "23",
+        "description": "Delete the words “Guram garam khane se table pad jate hain”",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Five",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "19",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2(a)",
+        "description": "In the scene where Michael attacks Roweanne delete all shots keeping only a small part where Michael attempts to kiss her in the beginning.",
+        "length_m": 8.8392
+      }
+    ]
+  }
+]

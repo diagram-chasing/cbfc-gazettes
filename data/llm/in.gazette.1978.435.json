@@ -1,0 +1,230 @@
+[
+  {
+    "film_title": "Niazaur Namaaz",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "The Bharat Pictures (Madras)",
+    "cert_no": "B/83323",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the last repetition of the words \"Aai doongi, Kaldoongi, Na Jaane kab degi\" from the dialogue of Sikander to Razia.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Baku Aur Mahatma",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Radha Mohan Arts",
+    "cert_no": "B/82963",
+    "endorsement": "U",
+    "original_length_m": 3945.03,
+    "final_length_m": 3927.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III & XIV",
+        "description": "Delete vulgar gestures of dancers, particularly close shots of shaking breasts, indecent hand movements and hip swaying in the song picturisation.",
+        "length_m": 8.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Delete the reference to \"Anguthi\" and \"Angithi\".",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Voluntarily deleted views of the tri-colour on Sri Lanka's border.",
+        "length_m": 7.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV, XI, XII & XV",
+        "description": "Voluntarily deleted various shots.",
+        "length_m": 12.93
+      }
+    ]
+  },
+  {
+    "film_title": "Aval Oru Athirsayam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Suchitra Films",
+    "cert_no": "M/10954",
+    "endorsement": "U",
+    "original_length_m": 3906.32,
+    "final_length_m": 3906.32,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Modify the picturisation in the song following the words \"Ermai thaangadi\" where the hero is shown as lying on the heroine, in the dream sequence.",
+        "length_m": 1.98,
+        "length_retained_m": 1.98
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Replace sound only for the song \"Poovai konjam krllamal ... to \"Thanjcani Charum\".",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Replace sound only for the song \"Ottihkayai Vilangattumc\".",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gandharvam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri A. Raghvan",
+    "cert_no": "M/10907",
+    "endorsement": "U",
+    "original_length_m": 4121.11,
+    "final_length_m": 4114.15,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Replace sound only with instrumental music for parts of the song \"Indra Chapam\".",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8",
+        "description": "Reduce to bare minimum the scene of Menon whipping his daughter and his wife.",
+        "length_m": 1.76,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10 & 11",
+        "description": "Reduce to bare suggestion the attempted rape of Leela by the estate owner.",
+        "length_m": 5.2,
+        "length_retained_m": 11.28
+      }
+    ]
+  },
+  {
+    "film_title": "Circus Kilaadeelu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Jetindra Manubhai Patel",
+    "cert_no": "M/10710",
+    "endorsement": "U",
+    "original_length_m": 3955.01,
+    "final_length_m": 3908.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete all close shots of vulgar and indecorous movements of the dancer, jerking her busts, indecent movement of hands and hip swaying in the song picturisation of the first song, beginning \"Noo Raa\".",
+        "length_m": 47.63
+      }
+    ]
+  },
+  {
+    "film_title": "Devatalara Deevinchandi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Jayabheri Art Pictures",
+    "cert_no": "M/10993",
+    "endorsement": "U",
+    "original_length_m": 4532.38,
+    "final_length_m": 4478.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete Upendra severing the head of a tribal with an axe, Upendra dashing the head of a tribal against the rock twice, and the hand of Upendra being pierced with a spear.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the words \"Mandu Kottadaniki Velladu\" uttered with reference to God.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete action and close ups of dancer occurring thrice: first passing her hands down sideways, standing opposite camera with legs apart, and lifting her skirt during the refrain of song No 2 \"Loyaiotu choopistanu\".",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the words from song No 2 \"Ravike mudi bigu auvtundi\" along with accompanying action.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete cleavage shots of Pham on BGM immediately after entering the room opened by Murali, cleavage while she is eating laddu, and cleavage while lying on the floor.",
+        "length_m": 13.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Pham shaking her busts while lying on the floor in a frock against the words \"Mohame Ragmai\".",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Pham and Murali dashing their buttocks sideways while lying on the beach.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Reduce the cabaret dance in the club to the bare minimum necessary for continuity, in long-shots only, deleting all close and mid-close shots of the dancer’s bust, cleavage, bust jerks, hips and midriffs swaying.",
+        "length_m": 16.15,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Pattalam Janaki",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Ross Movies",
+    "cert_no": "M/10974",
+    "endorsement": "U",
+    "original_length_m": 3952.65,
+    "final_length_m": 3943.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete Venu kissing Rekha on her neck.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete Rekha lying flat on Veuu on the ground.",
+        "length_m": 4.88
+      }
+    ]
+  }
+]

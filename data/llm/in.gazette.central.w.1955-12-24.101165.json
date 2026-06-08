@@ -1,0 +1,756 @@
+[
+  {
+    "film_title": "Sifni",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Eveready Productions",
+    "cert_no": "B/11011",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of a scene where the female dancer wears a black shiny triangular piece of cloth down the waist in front, with a point between the thighs, and the words 'Lo jawulka maza' from a song.",
+        "length_m": 40.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of the words of a song 'Duno km boeoti mon latak gaya huu' when explaining to his father.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of the words 'Shrukh jawani yahau po looti jinati hal' from a song.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduction of the entire sequence where a lady enters in the form and disguise of a snake in a grey dress.",
+        "length_m": 32.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replacement of the words '(1) Ekrant ku m - n hal, ok rast kl mahal hal' and '(2) Amjhoom ko tonto ban mu to' in a song with approved lines '(1) Dil dard ka manra hnididır kimunzıl hai' and '(ii) Aa Jhoom ko khunhion ki nai rahon mon kho ja'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of the profile view of Ritara and Sud.",
+        "length_m": 28.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of the words 'Kafr ka boohoha' uttered by Shor-E-Gul.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of suggestive words of Shor-E-Gul addressed to Poonu referring to the female dancer Gultore.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of shots of the pointed emphasized busts of the singer in a stripped choli during a song.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduction of the world of matching of the baby, omitting the kicking of the mother.",
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerable reduction of the scene of a man seeing girls bathing, omitting his kissing, hand gestures, and shots of bare shoulders.",
+        "length_retained_m": 122.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Complete deletion of shots of the dancer in a stripped choli when her back is exposed.",
+        "length_m": 80.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Complete deletion of the close-up contact, cheek to cheek, of Poonu and Samitre moving in the boat.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduction of the whipping of Chowdhary.",
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduction of shots omitting kicks in the chest.",
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Teerandaz",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Roshni Films",
+    "cert_no": "B/13050",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of the scene of chasing between Teerandaz and Ghulam.",
+        "length_m": 30.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of the scene of chasing between Teerandaz and Ghulam.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Deletion of the scene where Vazir falls from the steps.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "III, VII, VIII & XIV",
+        "description": "Deletion of the male voice of Teerandaz.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III, VIII XIV",
+        "description": "Deletion of the female voice of Teerandaz.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "II, III, VIII XIV",
+        "description": "Replacement of the singing of the line 'Ayo parda nashin-a Ishq kabla perdon non ohhupaya jata hal' from song No. 4 with approved lyrics.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Babu",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Bikramlal Pahwa for P.R. Films",
+    "cert_no": "B/13800",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Addition of sound of a train going to the Hill Station and sound of a train coming from the Hill Station.",
+        "length_m": 0
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVII",
+        "description": "Addition of a scene of a child crying at the place of Paro's mother.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of Bipin Gupta saying 'Namaste Bhai Saheb'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of a group playing cards in a den scene.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of Bipin Gupta sitting on a stool, calling Basant, and going to Paro's room.",
+        "length_m": 33.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of Usha Kiran coming to the balcony and hiding herself when Basant comes.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of Bipin Gupta's shadow moving upstairs.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of Kinn taking a puff of a cigarette while lying on bed on the marriage night.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of Shashikala embracing while Karsa is seated on the chair, saying 'Aap abht tak buitho hun', up to another scene where Pran and Johnny are talking together.",
+        "length_m": 36.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of scenes where Shashi says 'Bannt babi, insin virf...' up to Shashi saying 'Ynywi...'.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of Amir Bano, Manju and Kanti at the tea table.",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of dialogues of Amir Bano before Karan saying 'Lug mujh kya kya kidato...'.",
+        "length_m": 20.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of Usha Kiran going downstairs and about to go to Karan's room.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deletion of Kimalakanti in the hall and Amir entering up to Amir Bano going out of the shot.",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deletion of Pran, Shash and Johnny coming inside the den.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "LI",
+        "description": "Deletion of Bipin coming towards Usha in the foreground in Karan's room after his departure and uttering the word 'Balıu'.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deletion of Bipin Gupta and Amir Bino where the latter talks about Karan going away, with the last dialogue '...khud hi wapak bu jayegu'.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deletion of the shot showing Manju upset and Basant consoling her.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deletion of Manju entering the room while Basant is on the sofa, her becoming a mother and Basant's shock at the news.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deletion of super imposition on Usha of her insult in the party.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deletion of Manju entering the room up to Usha asking permission to go to Hill Station.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deletion of Bipin Gupta going through the corridor with Manju behind.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of Bapin Gupta saying 'Piahli diwali men' up to the last dialogue.",
+        "length_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "Jhunak Jhanak Payal Baaje",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Rajkamal Kalamandir Ltd.",
+    "cert_no": "B/13117",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of the song of the BonBon.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of the scene showing Badloo, Blaslya, Neela and Gurdher on the river bank when they shake their necks in Kandy Dance gesture.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduction of the scene of Neula and Mangal Maharaj talking.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduction of one stanza from the song 'mero e dil bato'.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduction of the scene showing Gurdhar moving restlessly below the tree in the garden.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduction of the scene showing Gurdhar, Mangal Maharaj and Szinda coming out of Dharmghaln and closing the door.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduction of the scene showing Rupkalm and her mother talking in bed-room.",
+        "length_m": 18.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduction of the scene showing Mini Bubu meeting Nuela on the desert.",
+        "length_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduction of the scene showing the interior part of the temple.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduction of the beginning of the burn showing the old madhu drying his clothes.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduction of the scene showing sick bed being treated by the old Sadhu.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of the scene allowing birds flying out of Notardwar till Nela regaining consciousness till the end of her vision of Yama.",
+        "length_m": 66.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of the scene after Pooja Unnoo where Nools falls down unconsciously.",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Mabini",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Aurora Film Corporation Ltd.",
+    "cert_no": "C/1640",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deletion of the word 'Mlecha' in relation to Burma by Nirmal's mother.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduction of the scene showing vomiting of blood by Aparan's mother when she gets sick to a more suggestive level.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Piyoli Phukan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Rup Jyoti Productions",
+    "cert_no": "C/1641",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "No.",
+        "description": "Replacement of five close-up shots of the pock-marked face of the old blind singer with approved shots.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "No. 6",
+        "description": "Replacement of two close-up shots of the same blind singer with approved shots.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "No. 13",
+        "description": "Replacement of the shot showing the hanging foot of Piyoli Phukan, after the Moor signal, with an approved shot.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Dr. Aurithiri",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M.S. Films",
+    "cert_no": "M/1092",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of picture and sound of the song 'Patt - p -pakalil' and related actions.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deletion of the dialogue 'You belong to the Nayakar caste and I to the Vellala caste - how can we be married?'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deletion of picture shots of Vanaja with bust in close-up, sideways and in profile during a song.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Deletion of mid-shots and close-ups showing the official crest of the High-Court, Madras.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deletion of suggestive actions of Muniandi willing to give credit in return for immoral considerations.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deletion of the dialogue related to the jewel shop and money-lender during a song.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "21",
+        "description": "Deletion of the picture and sound of Nagalingam's murder, except for a brief flash suggesting the stabbing.",
+        "length_m": 27.13
+      }
+    ]
+  },
+  {
+    "film_title": "Bhaktha Mallikarjun",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "M. Jagannath Film",
+    "cert_no": "M/1101",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deletion of the rest of the sequence showing the Archaka and Mahadeva discussing.",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deletion of the entire sequence showing the Archaka and Mahadeva discussing.",
+        "length_m": 64.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deletion of the entire sequence showing Joopa seated, Mahadeva hiding, the Archaka entering, searching, Mahadeva emerging, and going out.",
+        "length_m": 31.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deletion of two picture shots showing the cooked boy served a meal on the leaf during a meal sequence.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deletion of the rest of the sequence where Joova asks the Archaka to go to the Devatas.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Deletion of the slapping, beating, and dragging of Girija by Durga, except for one instance by suggestion.",
+        "length_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deletion of Kamini's sentence that he should enjoy her beauty.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deletion of the sequence of Joova weeping and the Archaka's response.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deletion of two picture shots of Parvathi in close-up during a conversation.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deletion of the entire sequence in Joova's house, including Mahadeva hiding, the Archaka's actions, and the subsequent events.",
+        "length_m": 94.49
+      }
+    ]
+  },
+  {
+    "film_title": "Hatimtai-Ki Beti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Vakil Productions",
+    "cert_no": "B/13000",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of the scene with its torture.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of the sentence 'Yo peor hal' spoken by a comic character.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of the dialogue 'Tum merl Bharaton jharoorp and kurngo' spoken by Jalpori to the hero.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Mustand",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shurd Productions",
+    "cert_no": "B/13808",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "G",
+        "description": "Replacement of the girl's forward movement in the opening bullock-cart scene with approved shots.",
+        "length_m": 35.36
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Replacement of Bhavani's forward movement towards the girl with approved shots.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deletion of the line 'Janath ki hur' in song No. 8, replaced with 'Buare ki hur'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Deletion of the words 'Kabul ke Pathan, badan beriman' uttered by Bahadur when disguised as a woman.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Replacement of all photos of the Prince with 1000 round his neck with approved shots.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduction of the last fighting scene including the groaning.",
+        "length_retained_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Tongawali\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kuldip Pictures Ltd.",
+    "cert_no": "B/13946",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of Tongawala asking Rojjo to be a public woman.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of the word 'Dubra'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of shot of Ratna being crushed under the horse's hoofs and her scream.",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Mastani\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sharad Productions",
+    "cert_no": "B/14082",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of a policeman being shot and falling down.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer No. 2 of \"Devdas\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Productions",
+    "cert_no": "B/14103",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of Devdas striking Parvati with a stick.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "The Powder of Progress",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Amo Ltd.",
+    "cert_no": "B/11849",
+    "endorsement": "P.E.",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduction of main building.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the shot showing dropping dinker.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the sequence showing workshop.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the sequence showing cement distribution.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the sequences showing Modern flats in Bombay.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the shot showing Income-tax Office and Government Secretariat, Bombay.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the shot showing Worker's amenities.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the shot showing food in India.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "insertion",
+        "description": "Addition of commentary.",
+        "length_m": 7.07
+      }
+    ]
+  }
+]

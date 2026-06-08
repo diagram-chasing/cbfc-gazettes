@@ -1,0 +1,394 @@
+[
+  {
+    "film_title": "Ramman (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Metropolitan Film Co., Jalmani Doman, Famous Bldg., Haines Road, Bombay 11",
+    "cert_no": "B-8802",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I, II & IV",
+        "description": "Delete the words \"Khuddar pursho\" (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I, II & IV",
+        "description": "Delete the words \"Suns\" (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I, II & IV",
+        "description": "Replace \"Tera baap\" (sound) with \"mora duabman\"",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I, II & IV",
+        "description": "Replace \"Lomri ka baohoha\" (sound) with \"Damri ko kaohbA\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot of two women laughing at Dr. Ramman",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replace word \"Chadhe ka bachoha\" (sound) with \"Alge hl bachohe\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Munna's word \"Hemara meal bharo bazar men nilam\"",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II & X",
+        "description": "Replace words \"Kutte ka bachoha\" (sound) with \"Ladle bachoha\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Railu's word \"Tab kahin apnlmohnat ka phal khate hain\" while describing with what price girls are brought up in his profession",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Praoner of The Casbah (color)",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Columbia Film of India Ltd., Lotus House, 33 A, Marine Lines, Bombay",
+    "cert_no": "B-871",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Words \"Son of a dog\" spoken by the Princess",
+        "length_m": 0.54864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of male-servants in bed as they are revealed after the Princess goes off camera after concluding her conversation in the pond scene",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Word \"Prophet\" as enforced by one of the deciples while drinking wine",
+        "length_m": 0.73152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot of the Princess sitting on sofa revealing exposed legs",
+        "length_m": 101.8032
+      }
+    ]
+  },
+  {
+    "film_title": "Anna",
+    "languages": [
+      "English"
+    ],
+    "producer": "Lily Film Company, Ganga Mahal, 2nd Floor, Bombay 1",
+    "cert_no": "B-8099",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot showing Vittorio uncovering Anna's back and planting his lips thereon",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Word \"Voluptuous\" from the sub-title",
+        "length_m": 8.8392
+      }
+    ]
+  },
+  {
+    "film_title": "A Lion Is In The Streets (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Theatre Bldg., Opp. Churchgate Railway Station, Bombay",
+    "cert_no": "B-8848",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Flamingo's words \"they allaya boon your baby\" and \"I boon your wife Otor olnoo I knowod what tho won moont\"",
+        "length_m": 0.0006096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To a flash shot of Tlum ngo flying into Hank s arte and being mopod about cleared roand his body",
+        "length_m": 3.3528,
+        "length_retained_m": 0.85344
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The firat klang noone botwaon Bank and Flippo",
+        "length_m": 1.2192,
+        "length_retained_m": 0.4572
+      }
+    ]
+  },
+  {
+    "film_title": "Walking My Baby Back Home (color)",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Universal Pictures India Ltd., Mustafa Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "B-8271",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The dance of Chris in black dress accompanying the song \"Camptown Rocor,\" from where her legs appear through the stage during the dance when the logos are again displayed",
+        "length_m": 66.1416
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The dance in the Concert Hall in flame colour dress with fringed skirt including the appearance of the chorus girls",
+        "length_m": 55.47648
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The shots of Chris opening the front part of her dress and exposing her legs up to the thigh",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "Dost (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kuldip Pictures Ltd., Sarita Villa, 7-Bungalow, Andheri, Bombay",
+    "cert_no": "B-8781",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "\"Agur banon dhakko hi khane hain to kisi lodet ne kharongel\"",
+        "length_m": 2.31648
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "\"Hawaldar kimooohhon ukhadkar uske muh per rakh doon\"",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "\"Mon beap kunwan , mora dado kunwars\"",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "\"Hum tumhari dukon mon kuohh Alfa vain maalla ya hain\" spoken by Pundit Rıldurun",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The shots of Bhola when the buttono hl. prorokor in the hook and him friond doing the 4171 lator",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Bhola's word \"To as ) mare paanch chbo bachrbe bo jato\"",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Bhola and manager \"Yo paaund hal, kya logo\"",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "\"Moro brohobe nb paida hon , tah palda hotohi unkiabadl ho jaye\"",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Brahman k chamon ki mall bhi ammt saman hoti hain",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The word \"Kamoone kutto\" (sound only)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Lustoon (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sadhil Pictures, 219 Subil Plotures & Studio, Mahalakshmi, Bombay 11",
+    "cert_no": "B-9878",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "From the davvoll \"Tah tirohalata\" mid. close photo of the girl urging the line \"Ik bor uthu (Kumml) and again, under the lines \"dil khol ko bhut Aitam und of another girl under the line \"Tu kitta hai zalım\" (replaced with approved shots of Anb.)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shobha's ren \"Hutn forosbi ko bazarre kharidi hui yalll valshya\"",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Ramesh's words \"Euſh so to Vaishyo tohi jonpal badkası pas arda to nahin doltt\"",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Angur (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shobha Art Films, Shobhe Art Studios, Bombay 7",
+    "cert_no": "B-9008",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV, V, VI, VII, VIII, IX, X, XI and XII",
+        "description": "Alterations of the scenes",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Bahu Beti (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R.K. Films, Trombay Road, Chembur, Bombay",
+    "cert_no": "B-9801",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Close shot of Neelu leaning on Raj near the window",
+        "length_m": 24.384
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XE",
+        "description": "Awledano in colour from the end of Reel XVI has been shifted to Reel XVII with shot of Raj and Neelu etc. attached thereto at the end",
+        "length_m": 121.92
+      }
+    ]
+  },
+  {
+    "film_title": "Dhoon (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kumar Film Katha Lodge, Bombay 14",
+    "cert_no": "B-9439",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Scene of Lord Shiva and Goddess Parvati",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "But XIV",
+        "description": "Scene of Lord Shiva and Goddess Parvati",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Boot Polish (Hindi)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ranbir Raj Kapoor, R.K. Films, Trombay Road, Chembur, Bombay",
+    "cert_no": "B-6788",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Superimposition - Scene background on the credit titles",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Konobangonga (Marathi)",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Borel Chitra, 298, Tar-doo Road, Bombay",
+    "cert_no": "B-6843",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Superimposed at the odd-sound and pictureation Reel XIII. \"Jo Jo Ap.1245 thevo, to to dusatyasixh [kNyayo ghahano korunl sodave, sakel Jana .. And - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shobha's ren \"Hutn forosbi ko bazarre kharidi hui yalll valshya\"",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Ramesh's words \"Euſh so to Vaishyo tohi jonpal badkası pas arda to nahin doltt\"",
+        "length_m": 3.048
+      }
+    ]
+  }
+]

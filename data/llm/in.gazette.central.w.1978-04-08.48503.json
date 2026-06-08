@@ -1,0 +1,726 @@
+[
+  {
+    "film_title": "Trailer of \" The Super Cops\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Metro - Goldwyn Mayer India Ltd .",
+    "cert_no": "B /81618",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of violent scenes.",
+        "length_m": 79.85
+      }
+    ]
+  },
+  {
+    "film_title": "A Star is Born",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Warner Bros ( F . E .)",
+    "cert_no": "B /81638",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of scenes of a girl with bare breasts.",
+        "length_m": 5.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of scenes of girls with bare breasts.",
+        "length_m": 7.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of close up of dogs mating on Maxiean Street.",
+        "length_m": 7.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of dialogue spoken by Philip to the police officers.",
+        "length_m": 1.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduction of close shot of the girl crying and convulsing with pain, after she is hit by Marty.",
+        "length_m": 4.71,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of views of girls with bare breasts.",
+        "length_m": 22.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of scenes of girls with bare breasts.",
+        "length_m": 7.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of close of shot of dogs mating on Maxiean Street.",
+        "length_m": 7.2
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Goodbye",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "United Artists Corporation",
+    "cert_no": "B /80416",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of the view of a girl with bare breasts.",
+        "length_m": 5.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of the views of girls with bare breasts.",
+        "length_m": 8.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduction of the close shot of the girl crying and convulsing with pain, after she is hit by Marty.",
+        "length_m": 4.71,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of the views of girls with bare breasts.",
+        "length_m": 22.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of the close of shot of dogs mating on Maxiean Street.",
+        "length_m": 7.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of dialogue spoken by Philip to the police officers.",
+        "length_m": 1.14
+      }
+    ]
+  },
+  {
+    "film_title": "The Exorcist (Revised )",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Warner Bros ( F . E .) Inc .",
+    "cert_no": "B /81660",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "VI",
+        "description": "Addition of various shots.",
+        "length_m": 68.28
+      }
+    ]
+  },
+  {
+    "film_title": "PERENNIAL GLORY",
+    "languages": [
+      "Eng."
+    ],
+    "cert_no": "B /81980 -81",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletions as per endorsement dated 21st August, 1975.",
+        "length_m": 32.29
+      }
+    ]
+  },
+  {
+    "film_title": "AADMI SADAK KA",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "cert_no": "B /81390",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIX",
+        "description": "Deletion of six shots of Shatrughan Sinha (Abdul) and Vikram (Chander).",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "PA KEEZAH RANG BARANG",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "cert_no": "B /81993",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of song No. 4 'Yeh kis ki aakhon ka noor'.",
+        "length_m": 131.06
+      }
+    ]
+  },
+  {
+    "film_title": "THE PARALLAX VIEW (Revised )",
+    "colour": "Colour",
+    "cert_no": "B /78857",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "VI",
+        "description": "Addition of various shots.",
+        "length_m": 68.28
+      }
+    ]
+  },
+  {
+    "film_title": "MASTAN DADA",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B /79957",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "III, XIV & XV",
+        "description": "Addition of various shots.",
+        "length_m": 89.31
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Raam Vanavas",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mni",
+    "producer": "P .S . R . Pictures . Madras.",
+    "cert_no": "M - 10732",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete close-up of Ravana tearing his stomach open to remove the intesting.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Itha Ivvada Vara",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Supriya Creations , Madras.",
+    "cert_no": "M - 10722",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete display of axe with blood by Pailce.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce shots showing dancing girls with legs raised against their male partners and also men holding girls legs.",
+        "length_m": 3.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce shots showing group of couples lying on the ground.",
+        "length_m": 6.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Replace natural and water punning shots.",
+        "length_m": 5.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Vishwanathan sprinkling poison powder into the duck feed.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete shots showing mass death of ducks, retaining only one or two shots showing Pailec picking up dead ducks.",
+        "length_m": 3.11
+      }
+    ]
+  },
+  {
+    "film_title": "Manasaakshi",
+    "languages": [
+      "Tel"
+    ],
+    "format": "35 mm",
+    "original_length_m": 4175.69,
+    "length_deleted_m": 181.05,
+    "final_length_m": 3994.64,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No, 2, 3, 4, 9 & 1",
+        "description": "Total voluntary deletion of scenes.",
+        "length_m": 181.05
+      }
+    ]
+  },
+  {
+    "film_title": "Kavikkuil",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "original_length_m": 3358.91,
+    "final_length_m": 3885.59,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "No. 8 to 12",
+        "description": "Addition of comedy sequences.",
+        "length_m": 526.68
+      }
+    ]
+  },
+  {
+    "film_title": "Appothcy Sonnøyney Kettia",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "original_length_m": 3706.68,
+    "final_length_m": 3706.68,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Voluntary deletion of the old title.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replacement of the new title 'Juru Manam'.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "The Reel Blade",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen (35mm )",
+    "producer": "Sovexport film Studio",
+    "cert_no": "B /81131",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of the shots showing a dagger pierced through the hands of a man.",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deletion of the shot of a sword piercing through the throat of a man.",
+        "length_m": 1.7
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Goodbye",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "United Artists Corporation",
+    "cert_no": "B /80416",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the view of a girl with bare breasts.",
+        "length_m": 5.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the views of girls with bare breasts.",
+        "length_m": 8.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the close shot of the girl crying and convulsing with pain, after she is hit by Marty.",
+        "length_m": 4.71,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the views of girls with bare breasts.",
+        "length_m": 22.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the close of shot of dogs mating on Maxiean Street.",
+        "length_m": 7.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following words spoken by Philip to the police officers.",
+        "length_m": 1.14
+      }
+    ]
+  },
+  {
+    "film_title": "Farishta Ya Qatil",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "M / s Parasmani Chitrashala",
+    "cert_no": "B /81717",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the view of the National Flag touching the ground when a soldier carries it.",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of Bajni s molestation, by deleting the indecorous visuals.",
+        "length_m": 1.82,
+        "length_retained_m": 17.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the close shot of blood-smeared hand of Nitin when he holds the mirror splinter in his hand.",
+        "length_m": 0.31,
+        "length_retained_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. Ricco",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col",
+    "format": "Cinemascope (35mm )",
+    "producer": "Metro Goldwyn Mayer India Ltd .",
+    "cert_no": "B /81615",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of various shots.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Addition of various shots.",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Kisise Kum Nahcen",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Col",
+    "format": "35 mm",
+    "cert_no": "B /81392",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Nos 1, 11, IV, VI, VIII,X, XI, XII XIII, XIV, XV, XVI, XVIII, XIX, & XX",
+        "description": "Deleted various shots.",
+        "length_m": 244.13
+      }
+    ]
+  },
+  {
+    "film_title": "Bhuvana Oru Kelvi Kuri",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm . B & W .",
+    "producer": "M . A . M . Films, Madras",
+    "cert_no": "M / 10740",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the sequence of Nagaraj seducing the girl to a suggestion, especially deleting the shot of his unhooking and removing the blouse and the sound effects of panting and moaning with the accompanying dialogues.",
+        "length_m": 8.45,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the following dialogue by Nagaraj 'Irupatthi Aindhu Paisa Mullai Poovil Saanthi Muhurtham'.",
+        "length_m": 2.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace words 'IrupathiAindliu Paisa Poovil oru santhosha mayakkam'.",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce substantially the shot of Nagaraj caressing Bhuvana and their panting with excitement.",
+        "length_m": 3.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the following shots of picturisation of the song (i) Shot of Bhuvana excited by the caresses of Nagaraj.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace shots of Bhuvana excited by the caresses of Nagaraj with palm shots.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the following shots of picturisation of the song (ii) Shot of Nagaraj lying on Bhuvana when she is reclining on the coconut tree.",
+        "length_m": 4.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace shot of Nagaraj lying on Bhuvana when she is reclining on the coconut tree with different shots.",
+        "length_m": 4.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the following shots of picturisation of the song (iii) Shot of Nagaraj moving his face on Bhuvana s body from her leg to shoulder.",
+        "length_m": 3.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace shot of Nagaraj moving his face on Bhuvana s body from her leg to shoulder with different shots.",
+        "length_m": 3.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the sequence of Nagaraj seducing Bhuvana to a suggestion, especially deleting the shot of his unhooking and removing the blouse and the sound effects of their panting with the dialogue.",
+        "length_m": 1.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of Nagaraj unhooking and removing the blouse and the sound effects of their panting with the dialogue.",
+        "length_m": 1.96
+      }
+    ]
+  },
+  {
+    "film_title": "Amara Deepum",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gopikrishna Movies, Madras",
+    "cert_no": "M - 10725",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shots of Kanchana jerking her bust and hips indecorously during the picturisation of the song.",
+        "length_m": 1.69
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace shots of Kanchana jerking her bust and hips indecorously with close-shot of hero.",
+        "length_m": 1.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of Kanchana spreading herself on the car during the picturisation of the song.",
+        "length_m": 2.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the shot of Sivaprasad kissing Parvati on the cheek during the picturisation of the song.",
+        "length_m": 2.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace shot of Sivaprasad kissing Parvati on the cheek with composit shot of Sivaprasad and Parvati.",
+        "length_m": 2.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shots giving prominence to the ill-covered bust and hips of Asha. shots of indecorous bust and hip movements including those where she lifts her skirt, lies on the table and moves on all fours on the floor, jerking her hips and busts.",
+        "length_m": 18.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Replace shots giving prominence to the ill-covered bust and hips of Asha with inserts of Sivaprasad, Manager and group.",
+        "length_m": 18.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shot showing Asha pulling the bed cover over herself and Sivaprasad and their indecorous movements under the cover.",
+        "length_m": 1.72
+      }
+    ]
+  },
+  {
+    "film_title": "Jagad-guru Adi Sankaran",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35min",
+    "producer": "Tanani Films, Madras",
+    "cert_no": "79337",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Scenes depicting the birth of Sankara will be so modified as to establish that when Sankara was born, his father Sivaguru was alive. A new scene will be introduced wherein Aryamba shows the new born baby to Sivaguru. The scenes depicting the death of Sivaguru will be shown after scene 21 in the script.",
+        "length_m": 30.18
+      },
+      {
+        "kind": "deletion",
+        "description": "Monologue of Moorkhan Namboodiri beginning from Nasichallo upto Natakkan Patto to be deleted. In the next sentence the words 'Aa Nasichavaloto' will be deleted.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "description": "Words uttered by the two ladies passing Aryamba on way to temple to be deleted, including the act of spitting on the ground.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Remarks by Moorkhan beginning 'Pumachalikku , . . . ' upto 'atratando' to be deleted.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "description": "Replace remarks by Moorkhan with 'Moorkkathu Namboodirippad Vararayi. Vegam Poykollo'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Entire scene and dialogue to be deleted. The visuals can be retained if the dialogue is completely modified to accord with the revised birth sequences.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "description": "Remarks by Moorkhan beginning 'Paapam cheithavala ' upto ' . . . unta villa ' will be deleted.",
+        "length_m": 6.55
+      },
+      {
+        "kind": "deletion",
+        "description": "Remarks of Venku Iyer 'Durnargikalute Nallakaalam' will be deleted.",
+        "length_m": 3.18
+      },
+      {
+        "kind": "deletion",
+        "description": "Statement by teacher beginning 'Widhavaputrane' upto 'adhappathichittilane' to be deleted.",
+        "length_m": 15.93
+      },
+      {
+        "kind": "replacement",
+        "description": "Replace statement by teacher with 'Manasallayille . Daridrabalane Padhipikkan Nom Orukkamilla . Atrakandu Nom Adhappathichittila . Makancm Kondu Poykkolloo '.",
+        "length_m": 15.93
+      },
+      {
+        "kind": "deletion",
+        "description": "Statement by teacher beginning 'Ee saraswathi mandiram' upto 'purathakendri varum' to be deleted.",
+        "length_m": 15.93
+      },
+      {
+        "kind": "deletion",
+        "description": "Statement by teacher beginning 'Panasanthathi' upto 'Allathentha paraka' to be deleted.",
+        "length_m": 15.93
+      },
+      {
+        "kind": "deletion",
+        "description": "Entire scene between Moorkhan and two of his tenants (Nara nan and his wife) will be deleted.",
+        "length_m": 39.66
+      },
+      {
+        "kind": "deletion",
+        "description": "Modify the fourth sentence by Sankara, beginning 'Bharathathinte . . . , ' by an appropriate statement specifically mentioning the names of the five Maths, viz. Badri Nath, Dwaraka, Puri, Sringeri and Kanchi.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "description": "Replace Sankara's statement with 'Now Sankara says that Mutts have been established at Badrinath, Dwarka. Puri Sringeri and Kanchi'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "In the remarks by Padmapada following the statement by Sankara, delete the word 'Sameepathulla'.",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

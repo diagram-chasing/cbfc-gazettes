@@ -1,0 +1,543 @@
+[
+  {
+    "film_title": "Tere Dwar Khada Bhagwan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43280",
+    "cert_date": "30-12-1964",
+    "endorsement": "U",
+    "original_length_m": 3793.54,
+    "length_deleted_m": 11.99,
+    "final_length_m": 3785.3,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Added a tablet in Hindi stating the film broadly follows the legend of the 18th-century poet Isardaan, but with changes for dramatic effect.",
+        "length_m": 3.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of bust-jerking by the dancer Vidvadhari and the reaction of Matndin.",
+        "length_m": 5.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel K",
+        "description": "Shot of Bhairav's vulgar gesture of eating flowers from his garland.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Shot of Tsardaan’s skeleton as visualized by Vidyudhari.",
+        "length_m": 3.75
+      }
+    ]
+  },
+  {
+    "film_title": "Waghya Murali",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "43281",
+    "cert_date": "30-12-1964",
+    "endorsement": "U",
+    "original_length_m": 4333.04,
+    "length_deleted_m": 14.33,
+    "final_length_m": 4318.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The word “Vcshya” from Manjula’s dialogue addressed to Madhav.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Visuals of a girl being accosted, from the song beginning with the words “Aaj kaalchya duniyc maazi”.",
+        "length_m": 8.23
+      }
+    ]
+  },
+  {
+    "film_title": "Purnamilan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43282",
+    "cert_date": "30-12-1964",
+    "endorsement": "U",
+    "original_length_m": 3860.29,
+    "length_deleted_m": 14.63,
+    "final_length_m": 3857.85,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "beginning of the film",
+        "description": "Credit titles along with the song lines as background music at places.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "From the dialogue of Sunil (disguised as Pathan) his remarks “Bulbule Hindustan” referring to Shobhna and his reference to Shobhna being an addition to his harem of three wives.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Dialogue in the operation theatre regarding the torch not being available when the lights are put off by the villain.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Distorted recitation of Shlokas in the marriage ceremony and dialogue suggesting the pundit started the wedding ceremony before the auspicious time at the villain's instance.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably reduced the scene of Sunil’s father anticipating his death, particularly the loud chanting associated with a Hindu funeral.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Ki Lahren",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "43296",
+    "cert_date": "31-12-1964",
+    "endorsement": "U",
+    "original_length_m": 4403.75,
+    "length_deleted_m": 13.41,
+    "final_length_m": 4401.31,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The scene of Kishore making his father dance with him.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "From song beginning with the words “Ek paisa ki hai savaal jiye tero bachhe maayee\" to a flash, shots of collective begging by children moving around in the streets.",
+        "length_m": 10.97,
+        "length_retained_m": 10.97
+      }
+    ]
+  },
+  {
+    "film_title": "Maharani Padmini",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43297",
+    "cert_date": "31-12-1964",
+    "endorsement": "U",
+    "original_length_m": 3793.25,
+    "length_deleted_m": 63.41,
+    "final_length_m": 3793.25,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "In the song-dance sequence \"Nat khat pare hat\" shots of bust-shaking by the principal dancer.",
+        "length_m": 14.33,
+        "length_retained_m": 14.33
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Close-up of the bust of the dancer before start of the dance “Naina re dekho un ke nain”; shot of the emphasised bust of the dancer as she lifts up her arms while bending backwards; and shots of shaking of bust.",
+        "length_m": 5.18,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "From the song-dance sequence “Chain kahan, aaram kahan\" shot of bust-shaking by the female dancer while sitting.",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "From the song-dance sequence “More ruthe balam ghar aa\" shots of bust-shaking by the dancer while sitting.",
+        "length_m": 7.32,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "In the song-dance sequence shots of the two dancers in which they move their stomach, hips and thighs indecently and shots in which the tights worn by them under their transparent shalwars give the impression of nudity.",
+        "length_m": 29.26,
+        "length_retained_m": 29.26
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Shot of Sultan Allaudin doing the \"sajdah\" while saluting the ashes of Maharani Padmini.",
+        "length_m": 4.88,
+        "length_retained_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "And Miles To Go",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "43299",
+    "cert_date": "31-12-1964",
+    "endorsement": "U",
+    "original_length_m": 388.62,
+    "length_deleted_m": 5.18,
+    "final_length_m": 406.91,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Tablet at the beginning of the film dedicated to forces of rational thought opposed to violence and seeking to strengthen the government's task of tackling pressing national problems.",
+        "length_m": 23.47
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Substantially reduced the visuals of protests.",
+        "length_m": 7.01,
+        "length_retained_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The sound of thunder in the sequence showing the policemen.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The underlined words from the line: “But beforo the cup of patience is spilled, before violent retaliation begins to arouse the devil in man, before caution is thrown to the winds”.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The following lines: “Said the poet: When the world is full of paddy, When the world is full of Wheat, Why should there be thousands Who have no food to eat?”",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The close-up of the sergeant.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "The Last Flight",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "43300",
+    "cert_date": "31-12-64",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dosti",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43701",
+    "cert_date": "2-1-65",
+    "endorsement": "U",
+    "original_length_m": 3253.0,
+    "length_deleted_m": 13.41,
+    "final_length_m": 3253.0,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "The scene of Kishore making his father dance with him.",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "From song beginning with the words “Ek paisa ki hai savaal jiye tero bachhe maayee\" to a flash, shots of collective begging by children moving around in the streets.",
+        "length_m": 10.97,
+        "length_retained_m": 10.97
+      }
+    ]
+  },
+  {
+    "film_title": "Maharani Padmini",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43297",
+    "cert_date": "31-12-1964",
+    "endorsement": "U",
+    "original_length_m": 3793.25,
+    "length_deleted_m": 63.41,
+    "final_length_m": 3793.25,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "In the song-dance sequence \"Nat khat pare hat\" shots of bust-shaking by the principal dancer.",
+        "length_m": 14.33,
+        "length_retained_m": 14.33
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Close-up of the bust of the dancer before start of the dance “Naina re dekho un ke nain”; shot of the emphasised bust of the dancer as she lifts up her arms while bending backwards; and shots of shaking of bust.",
+        "length_m": 5.18,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "From the song-dance sequence “Chain kahan, aaram kahan\" shot of bust-shaking by the female dancer while sitting.",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "From the song-dance sequence “More ruthe balam ghar aa\" shots of bust-shaking by the dancer while sitting.",
+        "length_m": 7.32,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "In the song-dance sequence shots of the two dancers in which they move their stomach, hips and thighs indecently and shots in which the tights worn by them under their transparent shalwars give the impression of nudity.",
+        "length_m": 29.26,
+        "length_retained_m": 29.26
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Shot of Sultan Allaudin doing the \"sajdah\" while saluting the ashes of Maharani Padmini.",
+        "length_m": 4.88,
+        "length_retained_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "To kill A Man",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1561",
+    "cert_date": "7-1-1965",
+    "endorsement": "A",
+    "original_length_m": 2408.83,
+    "length_deleted_m": 23.21,
+    "final_length_m": 2385.62,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III(2A)",
+        "description": "The bare back view of Lynn after Bill snatches her bra.",
+        "length_m": 6.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V(3A)",
+        "description": "The near views of the bust of Tuyet when she is wearing a wet slip.",
+        "length_m": 5.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI 11(411)",
+        "description": "Captain Dee’s talk to Rice as follows: \"By which Americans always mean ballot boxes. We cannot eat ballot boxes\" as also, \"The Asian mind is different.\"",
+        "length_m": 5.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X (51?)",
+        "description": "The semi-nude view of Tuyet as she turns to Bill to kiss him.",
+        "length_m": 5.59
+      }
+    ]
+  },
+  {
+    "film_title": "The Americanization of Emily",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1562",
+    "cert_date": "7-1-1965",
+    "endorsement": "A",
+    "original_length_m": 3183.33,
+    "length_deleted_m": 40.66,
+    "final_length_m": 3142.67,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III(2A)",
+        "description": "The passionate kissing between Emily and Charles.",
+        "length_m": 11.02,
+        "length_retained_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV(2R)",
+        "description": "The semi-nude shots of the girl in Bus's room.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI(E)",
+        "description": "The shot of a semi-nude girl in Bus's room.",
+        "length_m": 28.88
+      }
+    ]
+  },
+  {
+    "film_title": "Sahkarthi Sampatti",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "42152",
+    "cert_date": "25-7-1964",
+    "endorsement": "U",
+    "original_length_m": 303.27,
+    "length_deleted_m": 59.13,
+    "final_length_m": 244.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Various",
+        "description": "Various shots.",
+        "length_m": 59.13
+      }
+    ]
+  },
+  {
+    "film_title": "lravum Pagalum",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "41862",
+    "cert_date": "7-1-65",
+    "endorsement": "U",
+    "original_length_m": 4568.03,
+    "length_deleted_m": 137.6,
+    "final_length_m": 4509.67,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "The shots of Balu throwing paper rolls at a girl.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "The sound of whistling by the boys in the college premises.",
+        "length_m": 0.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "The shot of Govindani pointing to the caste mark of the office boy before saying that the salary would be Rs. 300.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 1",
+        "description": "The actual shot of the boy removing the car wheel hub and also his reply when questioned.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Song 3 — Delete the entire picturisation of the song. (No objection to the text of the song) (Redited picturisation approved).",
+        "length_m": 79.24,
+        "length_retained_m": 79.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce the scene of gang chief having drink before Kamala, delete the close shot of visuals of trade name of a drink.",
+        "length_m": 13.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the near views of Parimala in jeans with emphasised bust while she is talking to Chandra.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the scene of bottles, men and women, also deleting a man having drink and offering to his son.",
+        "length_m": 18.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Song 5— Delete close shots of the female dancer when she is single and also with others. From text, delete verse ‘Davani Potta. . . .Kekkudhillai’. Also delete the shot where boys lift the girls towards the end of the song.",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Pazhani",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "41859",
+    "cert_date": "31-12-1964",
+    "endorsement": "U",
+    "original_length_m": 5158.24,
+    "final_length_m": 5022.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 3, 12 and 13",
+        "description": "Voluntary deletion of scenes.",
+        "length_m": 146.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reels Nos. 6, 7, 8, 10, 11, 13, and 19",
+        "description": "Approved addition of scenes.",
+        "length_m": 230.0
+      }
+    ]
+  },
+  {
+    "film_title": "Manchi Manishi",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "41803",
+    "cert_date": "7-11-1964",
+    "endorsement": "U",
+    "original_length_m": 4736.34,
+    "final_length_m": 4092.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. 1, 2, 3, 4, 5, 6, 8, 10, 13, 14 and 16",
+        "description": "Voluntary deletion of scenes.",
+        "length_m": 644.29
+      }
+    ]
+  }
+]

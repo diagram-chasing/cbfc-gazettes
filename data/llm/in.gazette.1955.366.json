@@ -1,0 +1,523 @@
+[
+  {
+    "film_title": "Les Miserables",
+    "languages": [
+      "English"
+    ],
+    "producer": "Lax Film (Italy)",
+    "cert_no": "12157",
+    "cert_date": "1-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "woman talking at table where the flesh of the bosom of a woman on the left is visible",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Fighting between the revolutionaries and the French Police, deleting violent actions",
+        "length_m": 28.6512,
+        "length_retained_m": 94.488
+      }
+    ]
+  },
+  {
+    "film_title": "Cafe In Main Street",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "cert_no": "12160",
+    "cert_date": "1-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Babu Navik editor is always hanging around'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Ah, Scotland Yard in person'",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Intronetacaro's participation' in the 'M tellies dookitriko' 'ojllaat. Wnsn ^icyz hiarj Com nniit houses rad'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Look at the pigity of proatitubes and thelrparaaite*'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Swin ilera and profiteers, spooulator* and politician*'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Its* va who should bu prosecuting' 'aiooioty that parmlts all this'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'All for som e scoundrels in the Ministry'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Farther, wo aioaie th e existing molal order' 'of inuring thiPriLci \\pp\\ntmto lirert attention from iU er ambling fonudation®'",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "The Olympic Games Helsinki 1952",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "cert_no": "12161",
+    "cert_date": "1-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'Even through the ruling bourgeoisie still keeps the country in subjugation to foreign capital'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'Here, too, in the arena of the Olympic Games is being wages the struggle for a new and better man'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'A country in which racial discrimination does not allow its dark-skinned citizens full rights allows them to compete and win valuable points for their country. In Helsinki there is also a joke ground - 'if the winner is an American - then he's called black'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'Perhaps it was heard by the crews of the British warships at anchor not faraway'",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'The threat of unemployment is, owing to Government policy, already darkening the horizon of the hard working Finnish people'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'The people in the working class suburbs know, however, that there is a road leading out of present conditions to a better future. This is the House of the Communist Party of Finland, which the workers literally build with their own hands'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "commentary 'American business takes advantages of the Olympic Games to try and win a new market and has sent a ship to Helsinki with a cargo of thousands of bottles of Coca-Cola. The former Olympic champion in throwing hammer is to overcome scales resistance on the part of the Finnish population. But this advertising trick proved futile and the Americans suffered an unqualified defeat' along with accompanying picturisation of Coca-Cola",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "commentary 'morally' from the sentence 'He has given in physically and morally'",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "commentary 'Now the whole world of sport pays sincere homage to the great sports achievements of the countries of the peace camp'",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "commentary 'They had, however, to meet strong opposition not only from their rival contestants but also from the references who often differed by as much as two points'",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "commentary 'The un-sporting manner of a disappointed prime minister'",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Martin Luther",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "12162",
+    "cert_date": "1-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "the word 'infidel' in 'Infidel Turks'",
+        "length_m": 0.0042672
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Shots of idol breaking to the minimum necessary for continuity of the story",
+        "length_m": 4.2672,
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Kidappadam",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "12900-U",
+    "cert_date": "2-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel S",
+        "description": "the policeman saying ‘Eduda Thoppi’ (remove the cap) and the pushing and chasing of the lecturer",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 70",
+        "description": "in the railway platform, delete the picture of the person in policeman's uniform abusing and chasing Shankar and Ravi",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 77",
+        "description": "delete the picture of the six contact shots of Shankar beating Ravi with stick",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "delete the picture of the actual picking of the pocket by Ravi",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Jagannatha Mahatmyam",
+    "languages": [
+      "Telegu"
+    ],
+    "cert_no": "12907-U",
+    "cert_date": "2-2-55",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Addition of a separate reel (900 ft,) — one song and two slokas",
+        "length_m": 274.32
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “ Betrayed\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "12181",
+    "cert_date": "8-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Views of female character where the bare flesh of her bosom is visible from low-cut dress",
+        "length_m": 46.6344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Kiss and embrace of Carla and Peter",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Gann Goat",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "cert_no": "12190",
+    "cert_date": "9-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "dialogue 'Bibi ki bagal men ghus jayoga; apna bibi purana hu gaya hai'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "dialogue 'Kafar ku, banhoha ; saalo; raand'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "dialogue 'Ago ka baat uhhodo bhaiya, piahhe ka baat kato'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "scene in the drinking house keeping only what is necessary for continuity, deleting the complete eulogizing drink and the dialogue 'Ye bhi na hota to kya hota' with reference to liquor",
+        "length_m": 17.6784,
+        "length_retained_m": 92.0544
+      }
+    ]
+  },
+  {
+    "film_title": "Betrayed",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "12195",
+    "cert_date": "11-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I II",
+        "description": "The radio announcement that Germany would shoot people and the actual scene of the German army-men shooting them in the square",
+        "length_m": 26.2128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V, VII",
+        "description": "Views of female characters where the bare flesh of their bosom is visible from low-cut dresses",
+        "length_m": 67.9704
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V, VII & X",
+        "description": "The kiss and embrace of Carla and Peter after she says 'Don't you see'; the second kiss between them when Peter comes to Holland, one more kiss of Peter and Carla and one kiss of Scarf and Carla",
+        "length_m": 3.47472
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Gwign Mivly.\"",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "cert_no": "12207",
+    "cert_date": "12-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The views of histone with the flesh of her bosom and parting between the busts visible",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Railway Platform",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "12146",
+    "cert_date": "27-1-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Song No. 7 'Ohand Madham Hai Aaaman Chop Hai.'",
+        "length_m": 137.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Sheela Barnaul's words to Ram 'Kuoh karo Ram kuoh karo'",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Milap",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "12148",
+    "cert_date": "28-1-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene of Asha entering her room, where her brother Mohan is waiting, after the song 'Ye Baharon ka Sama.'",
+        "length_m": 40.2336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "In the court scene the evidence of News Paper Manager",
+        "length_m": 55.1712
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Second shot of Raju when he speaks in defence in the scene in court",
+        "length_m": 11.2776
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Evidence of Asha",
+        "length_m": 42.672,
+        "length_retained_m": 42.672
+      }
+    ]
+  },
+  {
+    "film_title": "Jagriti",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "12035",
+    "cert_date": "31-12-54",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Song 'Ohello Chalain Man'",
+        "length_m": 71.928
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Song 'Dedi Hamen Aazadi'",
+        "length_m": 123.444
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Song 'Ao Bachchon Tumhen Dikhayen'",
+        "length_m": 128.628
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "Song 'Ohalo Chalai Man'",
+        "length_m": 37.1856
+      }
+    ]
+  },
+  {
+    "film_title": "Mahatma Kabir",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "11916",
+    "cert_date": "11-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Song 'Ohalo Chalai Man'",
+        "length_m": 37.1856
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 16",
+        "description": "Song 'Hum Lave Hain Toofan Se' which was originally in Reel No. 13 now appears in Reel No. 16, as a result of further additions in the film",
+        "length_m": 243.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "scene wherein Loi praying before the word K A andherfostorfatherBrahm Bairagientors, The scene between Brabm Balragi and Loi till the exit of Brahma todragl",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Two shots of Loi",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "Six shots of Loi and four shots of Loi and Kabir with similar shots from other takes",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F///",
+        "description": "Shots of Loi’s bust where the nipple is discernible when she talks to Kabir Saheb 'Main to i devata ki ooojarin hun tankl ankhon pyase reh jayenge'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel F///",
+        "description": "Replaced three shots of Loi and her mother-in-law singing the song 'Kenae kohun apne man ki bipatlya ate.' with similar shots of the same characters",
+        "length_m": 125.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gunvmt British News No. 6/55",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "9870",
+    "cert_date": "11-2-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Item No. 1",
+        "description": "In group photograph on world affairs",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "deletion",
+        "reel": "Item No. 2",
+        "description": "The parade of tribal policemen, about to return home",
+        "length_m": 39.0144
+      }
+    ]
+  }
+]

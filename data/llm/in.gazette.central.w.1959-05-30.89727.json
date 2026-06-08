@@ -1,0 +1,742 @@
+[
+  {
+    "film_title": "Gun Duel In Durango",
+    "languages": [
+      "English"
+    ],
+    "producer": "Robert E. Lee",
+    "cert_no": "26976",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "To a flash the point-blank and direct shooting of a man with 20s. The number of shots fired to only one. Delete completely the kicking of dust on the dead man.",
+        "length_m": 3.048,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably the shooting between Dunston's men and Rangers.",
+        "length_m": 8.5344,
+        "length_retained_m": 9.6952
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "In the raid on the Exprosa Co.'s camp, the random shooting in the open street. The shooting between Dunston's men and townsfolk, and Sheriff.",
+        "length_m": 19.5072,
+        "length_retained_m": 22.2504
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The scene of bank robbery from Dan's entry upto his exit.",
+        "length_m": 11.8872,
+        "length_retained_m": 18.5928
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Gun Duel In Durango",
+    "languages": [
+      "English"
+    ],
+    "producer": "Robert E. Lee",
+    "cert_no": "26972",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "(1)",
+        "description": "Considerably shooting between Dunston's men and Rangers.",
+        "length_m": 2.4384,
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "(2)",
+        "description": "In the raid on Exprosa Co., shooting between Sheriff and townsfolk on one side and Dunston's men on the other; also the random shooting in the open street in the beginning of the scene.",
+        "length_m": 3.3528,
+        "length_retained_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Horror of Dracula (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Hammer Film Productions Ltd.",
+    "cert_no": "26973",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shriek of frightened woman.",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Safari City",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Dudley Pictures Corp.",
+    "cert_no": "26974",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of two Africans boys taking off their clothes and plunging in water.",
+        "length_m": 3.2004
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of C.I.D. Girl",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "P.D. Lamba",
+    "cert_no": "26979",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion.",
+        "length_m": 0.4572
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"7th Voyage of Sinbad\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Columbia Pictures Corp.",
+    "cert_no": "26980",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close shots of Cyclop.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of skeleton fighting with Sinbad.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of fight between Cyclops and Dragon.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion: Shot of Sinbad kissing the princess.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion: Shot of skeleton appearing at the magician's behest.",
+        "length_m": 1.46304
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of World Without End",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Noronha Private Ltd.",
+    "cert_no": "26982",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of attack by giant-spider.",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Nai Rahen",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Goel Cine Corporation",
+    "cert_no": "20778",
+    "cert_date": "20-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII (Revised)",
+        "description": "Addition to Reel No. XIII.",
+        "length_m": 120.9972
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deletion from Reel 1.",
+        "length_m": 21.9456
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deletion from Reel II.",
+        "length_m": 32.004
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion from Reel IV.",
+        "length_m": 35.9664
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion from Reel V.",
+        "length_m": 29.007
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion from Reel VI.",
+        "length_m": 66.7524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion from Reel VII.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion from Reel VIII.",
+        "length_m": 6.9996
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion from Reel IX.",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion from Reel X.",
+        "length_m": 14.0208
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion from Reel XI.",
+        "length_m": 11.8872
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deletion from Reel XIV.",
+        "length_m": 33.8328
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deletion from Reel XV.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deletion from Reel XVI.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Deletion from Reel XVII.",
+        "length_m": 13.1064
+      }
+    ]
+  },
+  {
+    "film_title": "Minnal Veeran",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "T.N.R. Productions",
+    "cert_no": "26210",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Reel 2 - Delete the picture of the prisoners removing the bars and escaping one after the other.",
+        "length_m": 17.3736
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Rest of the cave after the opening picture shot of Chianlah, Mohini and the old man looking around it, delete the roof of the picture and dialogue (from innumerable army.... upto and including the statement \"the death-knell will begin to sound \").",
+        "length_m": 31.0896
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "When the Aghormen pray to the deity, delete the entire picture and dialogue of the soldiers trampling on the fish, denying their right to fish and the fighting which follows, upto and including Vadivelu's statement that he was the friend of the poor and the enemy of the wrongdoing Ponong.",
+        "length_m": 63.0936
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "When Ramiah advises Vadivelu to be restrained, delete the statement that it was not a single tree but the entire forest which must be destroyed and it should be by stratagem, upto and including the reference to Chanakya and Chandragupta.",
+        "length_m": 22.2504
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete (a) the picture of starving dogs and a boy quarrelling on the dust-heap to eat the refuse; (b) the picture and text of the verse beginning, \"Kuulal puithiutthal.... and ending \"Voni Nai\"; (c) the text of the verse from \"Ozbukkathtai Sinnamai.... and ending \"Ooril buthuvadbum puriallo\"; (d) the text of the verse from \"Padippu vaganal ulla.... and ending \"Innum pokalle\".",
+        "length_m": 36.576
+      },
+      {
+        "kind": "deletion",
+        "reel": "5 & 6",
+        "description": "Delete all close-up inserts and shots of Mohini dressed in a low-cut jacket, exposing her bust. (10 separate shots).",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the picture of Sundaram kicking Ramaiah.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the statement of Vadivelu about the local people and about the outside people being available.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the statement of the Zamindar admiring the beauty of the Hindi boy and Kavari's reply. (Sound only).",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Sundaram's statement that the island was not under them, and the Zamindar's reply that simple-minded people do not inquire who is ruling over them.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the statement of the dubash that he could not expect mercy from the British Government who wants only to.... upto and including the reply of the dubash before the Zamindar's announcer.",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "When the Collector promises help to Zamindar, delete the picture and dialogue of the dubash explaining that a stratagem was available for our own people to kill their fellow-countrymen.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Delete Palani offering to take the job of treating the soldiers free and Singaram objecting.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce to sound only the sound of Mohini being dragged by Sundaram, and the length of the reaction shot correspondingly.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete Vadivelu being asked whether he wanted Minister and the reply that he did not want that position as then he could not get name from all people.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete (a) all the picture of the dancer wherever her legs are visible through the transparent skirt; (b) the superimposed picture shots of her offering grapes and wine to Nandurani and (c) the concluding picture of her swaying and leaning on Sundaram including the last shot when the camera track back exposing her thighs.",
+        "length_m": 62.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Minnal Veeran telling Manorama's brother that the money was not for him, but for the poor people, that it was found in the name of justice.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the picture of Minnal Veeran throwing the money to the fisher-folk and their exclamation.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete (a) the statement of Palani and Singam in the jail - \"If you got a stick we can have stick dance\" and (b) \"These fellows! it is a pity it had been prisoners themselves in this place\".",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Palani asking the jailor to close the barred door with planks and a bolt and give them facilities.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Palani telling the jailor that in their eyes he appeared to be the prisoner.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete in the last song and picture of the verse beginning Vrana Kazhikhutto.... and ending \"Makkaru Panname\" (The verse addressed to the donkey by the Wailerman); (b) the picture of Mohini in close-up against the background music, jerking her bust with the armseuisodi above; (c) At the end of the song, the picture of Mohini in close-up jerking her bust, and all of them dancing round the donkey.",
+        "length_m": 24.0792
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Delete the entire picture and dialogue from the beginning when Manorama's brother gives Sundaram drinks.",
+        "length_m": 32.6112
+      }
+    ]
+  },
+  {
+    "film_title": "Sabz Bagh",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Dominion Films Distributors",
+    "cert_no": "84",
+    "cert_date": "19-2-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the word Bhangi as referred to by Lindyal.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the word Pariyan as used by Babubhai while soliciting loan from the Marwari Seth.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of Rupa in the hotel room lying on bed with bust partly exposed.",
+        "length_m": 12.4968
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shot of the boy in the vicinity of the redlight district overhearing the dialogue between Babubhai and Dr Manohar.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the scenes of women as shown sitting in the bazaar.",
+        "length_m": 3.9624
+      }
+    ]
+  },
+  {
+    "film_title": "Aangan",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Filmfistan Pvt. Ltd.",
+    "cert_no": "27012",
+    "cert_date": "28-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots and dialogues which establish wrong interpretation or statement of the Divorce law by the judge.",
+        "length_m": 26.2128
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels XV & XVI",
+        "description": "Considerably shot, wherever occurring in which the step-mother mistreats Kamal.",
+        "length_m": 26.5176
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Adventures of Arsene Lupin",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "27020",
+    "cert_date": "2-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of kissing.",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Naked And The Dead",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "RKO Radio Pictures",
+    "cert_no": "899",
+    "cert_date": "3-3-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Scantily clad dancers in mid-shot also near views of the scantily clad solo dancer; shot of a semi clad girl on the divan; Croft spitting liquor in the bosom of a girl, including dialogues (a) \"but my company points that way\" (b) \"Done by the box painter that ever laid brush to a privy\".",
+        "length_m": 23.7744
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Wilson reading from Lili's letter....... \"but I did my act for the judge privately, and he suspended sentence\".",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "The shot of a girl approaching the camera in scanty clothing; also the shot of a girl in bathing costume sitting on Hearn's knee and kissing him, as well as the shot of a girl bending over Hearn and making love to him behind the screen. Croft's dialogue \"I figured another guy came along, same as I would have done with his wife\". Roth's dialogue \"Guy Beds & naked dame and goes out\".",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "The shots of Croft squeezing a bird to death.",
+        "length_m": 0.9906
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Substantially the incident of Wilson displaying and wrapping himself in a cloak with a picture of an almost naked girl on it. Particularly deleting Wilson rolling on ground after wrapping the cloak; reduce the shot of same cloak with picture of an almost naked girl wherever it appears in the picture (footage including in Reel No. 6 above). (Completely deleted).",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "The scene of a man lying with a girl in the barn, particularly deleting the part where her bosom is exposed and there is suggestion of her mounting upon him. Wilson saying \"you may be wet, honey, but you aren't cold (Completely deleted).",
+        "length_m": 15.8496
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Inside",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "847",
+    "cert_date": "11-3-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot of Rizzio slapping Trudiem.",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"A Streetcar Named Desire\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "20th Century Fox Corporation (India) Private Ltd.",
+    "cert_no": "27067",
+    "cert_date": "10-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot where Stanley carries Stella on his shoulder and cuddles her.",
+        "length_m": 8.8392
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Naked And The Dead",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "899",
+    "cert_date": "3-3-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Scantily clad dancers in mid-shot also near views of the scantily clad solo dancer; shot of a semi clad girl on the divan; Croft spitting liquor in the bosom of a girl, including dialogues (a) \"but my company points that way\" (b) \"Done by the box painter that ever laid brush to a privy\".",
+        "length_m": 23.7744
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Wilson reading from Lili's letter....... \"but I did my act for the judge privately, and he suspended sentence\".",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "The shot of a girl approaching the camera in scanty clothing; also the shot of a girl in bathing costume sitting on Hearn's knee and kissing him, as well as the shot of a girl bending over Hearn and making love to him behind the screen. Croft's dialogue \"I figured another guy came along, same as I would have done with his wife\". Roth's dialogue \"Guy Beds & naked dame and goes out\".",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "The shots of Croft squeezing a bird to death.",
+        "length_m": 0.9906
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Substantially the incident of Wilson displaying and wrapping himself in a cloak with a picture of an almost naked girl on it. Particularly deleting Wilson rolling on ground after wrapping the cloak; reduce the shot of same cloak with picture of an almost naked girl wherever it appears in the picture (footage including in Reel No. 6 above). (Completely deleted).",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "The scene of a man lying with a girl in the barn, particularly deleting the part where her bosom is exposed and there is suggestion of her mounting upon him. Wilson saying \"you may be wet, honey, but you aren't cold (Completely deleted).",
+        "length_m": 15.8496
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Is Your Honeymoon Really Necessary",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "The United Pioneer Films (Private) Ltd.",
+    "cert_no": "27069",
+    "cert_date": "12-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The words \"you rouge me\" and reduce the prolonged kissing after that.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The maid weeping on the colonel and kissing him.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Auntie Mame",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Warner Bros., First National Pictures Inc.",
+    "cert_no": "27077",
+    "cert_date": "13-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Babies and Mame falling on the couch together, also falling on couch together.",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue You do have a bust!",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Words of Gooch - I Lived.",
+        "length_m": 0.4064
+      }
+    ]
+  },
+  {
+    "film_title": "Mastana Ki Khushbu",
+    "languages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Akhtar Lutf",
+    "cert_no": "27085",
+    "cert_date": "19-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot immediately following title where a girl is shown wriggling her hips when doing Hula Hoop round the waist.",
+        "length_m": 1.524
+      }
+    ]
+  }
+]

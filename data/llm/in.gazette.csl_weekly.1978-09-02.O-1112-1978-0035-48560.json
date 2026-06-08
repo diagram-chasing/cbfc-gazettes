@@ -1,0 +1,249 @@
+[
+  {
+    "film_title": "Doctor Rekha",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Uma Pictures",
+    "cert_no": "86412",
+    "cert_date": "27-12-77",
+    "endorsement": "U",
+    "original_length_m": 3987.4,
+    "length_deleted_m": 5.99,
+    "final_length_m": 3981.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the picture of Mother Mary with a Child in her lap when the unmarried motherhood of Dr. Rekha is compared with her in dialogue",
+        "length_m": 5.99
+      }
+    ]
+  },
+  {
+    "film_title": "Khatau Terkosa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Cine The Que",
+    "cert_no": "86416",
+    "cert_date": "28-12-77",
+    "endorsement": "U",
+    "original_length_m": 38.1,
+    "length_deleted_m": 2.44,
+    "final_length_m": 35.66,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the side and front views of a girl in nude",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Yaarron Ka Yaar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Ashoka International",
+    "cert_no": "86450",
+    "cert_date": "31-12-77",
+    "endorsement": "U",
+    "original_length_m": 3384.0,
+    "final_length_m": 3569.5,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce beating of Nathu with lathis and whips by Zamindar's men",
+        "length_m": 6.1,
+        "length_retained_m": 15.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce views of entire basti set to fire by Zamindar's men",
+        "length_m": 4.2,
+        "length_retained_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VjI",
+        "description": "Reduce to a suggestion the scene of molestation of Shakuntala by Goondas",
+        "length_m": 4.2,
+        "length_retained_m": 9.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "V & VIII",
+        "description": "Deleted the word 'schhoot' wherever its use becomes derogatory (Replaced with approved words)"
+      }
+    ]
+  },
+  {
+    "film_title": "Dil Aur Patthar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "S. Kaniruddin",
+    "cert_no": "86483",
+    "cert_date": "4-1-78",
+    "endorsement": "U",
+    "original_length_m": 94.49,
+    "final_length_m": 85.96,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close shot(s) of indecorous movements of the dancer on 'cep'",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Diamond Smuggler",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Aar Key International",
+    "cert_no": "86485",
+    "cert_date": "5-1-78",
+    "endorsement": "U",
+    "original_length_m": 2438.4,
+    "final_length_m": 2392.68,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the reference of American Scientist talking to the President of U.S.A. and Mentioning about the leisure gun pointed towards French Atomic establishment",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Daur",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sudesh Gupta",
+    "cert_no": "86490",
+    "cert_date": "6-1-78",
+    "endorsement": "U",
+    "original_length_m": 4022.14,
+    "final_length_m": 3992.88,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the fight in the drinking den, by deleting the hard hitting and gruesome visuals",
+        "length_m": 3.96,
+        "length_retained_m": 19.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the fight between Ronny, Mark, Mahesh and others, by deleting the gruesome and hard hitting visuals",
+        "length_m": 3.96,
+        "length_retained_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the dialogue of Mark addressed to Mahesh, delete the general statement: 'Ych sab log jo peole hain....'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the visuals of the Captain wherever he is identified with the Indian Navy, as he is shown to be a link with the Charas smugglers",
+        "length_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV (a)",
+        "description": "Reduce the beating up of Mahesh considerably",
+        "length_m": 1.83,
+        "length_retained_m": 10.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV (b)",
+        "description": "Delete the indecent and provocative gesture in the cabaret item of a couple which is intercut with the suggestive rape of Jennie",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI (a)",
+        "description": "From the fight sequence in the stadium, delete the visual of a motor cycle being run over the body of a man, and reduce the overall impact of violence",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI (b)",
+        "description": "Reduce the gruesome impact of killing of Mark and Ronny, by deleting the close-ups",
+        "length_m": 1.83,
+        "length_retained_m": 3.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "XVI",
+        "description": "Modify suitably the end to show that Mahesh is booked by the law for his crimes"
+      }
+    ]
+  },
+  {
+    "film_title": "Jalan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Nepal Singh",
+    "cert_no": "4096",
+    "cert_date": "3-1-78",
+    "endorsement": "A",
+    "original_length_m": 3386.54,
+    "final_length_m": 3365.59,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the following dialogues between the Taxi-Driver and Dindayal and replace with approved dialogues: Taxi Driver: 'Ab do hazaar pandrah paye paise nikalo' (Replaced by 'Ab do huzaar pachas peschgi nikalo'); Dindayal: 'Do hazaar to samjhe pandhrůh naye paise kis liye' (Replaced by 'Do Hazaar to samjhe pachae peshgi kis liye'); Taxi Driver: 'Pandrah paisc nirodh ke liye' (Replaced by 'Pachas petrol ke liye'); Dindayal: 'Family planning Donation' (Replaced by 'Future Planning Commission')"
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the light between Trio and others by deleting the direct hits on stomach",
+        "length_m": 4.88,
+        "length_retained_m": 52.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce slightly the fight between the man and the dog in order to remove the gruesome impact",
+        "length_m": 5.14,
+        "length_retained_m": 19.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the word Dhaka wherever it occurs in the song and also the vulgar and indecent movements of Mona during the song (Replacement of the word dhaka wherever it occurs in the song by the word Alse together with the shots approved)"
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Remove the racial implication 'gora-kala' in the song (Replacement of the words 'You kala Aadini' by the words 'You kadka Aadmi' is approved)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the molestation of Ambika by a man and the subsequent fight after molestation by deleting hard hits on stomach and pressing of leg on the neck",
+        "length_m": 10.93,
+        "length_retained_m": 77.46
+      }
+    ]
+  }
+]

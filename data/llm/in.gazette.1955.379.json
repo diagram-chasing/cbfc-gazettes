@@ -1,0 +1,785 @@
+[
+  {
+    "film_title": "Veer Rajputani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Basant Pictures, Zaveri Building, Bombay.",
+    "cert_no": "13133",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "The word 'Angaro' in dialogue is replaced with 'Veerangana'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV, V",
+        "description": "Prominent views of Hansa's emphasized bust without sari covering her blouse are replaced with approved shots.",
+        "length_m": 71.63
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "The words 'Pathleko' in dialogue are replaced with 'pathirn ko'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Prominent view of the dancer's bust with embroidered nipple not covered by sari, and swift circular movements causing skirt to bare thighs are replaced with approved shots.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Views of Surekha's emphasized bust with sari not covering her blouse are replaced with approved shots.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Views of Surekha's emphasized bust with sari not covering her blouse during a song, and shots where skirt bares thighs are replaced with approved shots.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII, XIII & XIV",
+        "description": "Views of Padma Vati's bosom and parting visible are replaced with approved shots.",
+        "length_m": 38.1
+      }
+    ]
+  },
+  {
+    "film_title": "Battle Cry",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. First National Pictures Inc., 42 Queen's Road, Bombay.",
+    "cert_no": "13166",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of dialogue: 'Isn’t that the picture where, the, etc. the broad’s a Navy lookie and she flips her lid... for the private?'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of dialogue: 'Monkey around with a broad, you always wind up on the short end of the stick'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of dialogue: 'Full o’ beautiful tomatoes'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, V, VI, VII, IX",
+        "description": "Deletion of the words 'Huxley's Harlots'.",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of shots of the lady (Yarborough) changing clothes and getting into swimming costume showing portions of her thighs.",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of dialogue: 'Joe, you’d better produce all those broads you’ve been bragging about'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of dialogue: 'Joe’s got some broads comin’ over with his personal recommendation!' and 'with women'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deletion of shots of Pat and Andy falling together, lying together, and caressing passionately.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of shot of Pat with her bare leg exposed while sewing with her skirt raised.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably reduced views of the lady (Yarborough) in tight fitting shining dress with water, omitting the shot where her private parts are seen.",
+        "length_m": 7.32,
+        "length_retained_m": 12.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced views of Kathy with her skirt raised in water, omitting shots where her private parts are seen.",
+        "length_m": 7.32,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced scene of Johnny and Kathy lying together and their kissing.",
+        "length_m": 4.57,
+        "length_retained_m": 6.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced bar-room revelry and beer drinking, omitting shots of girls in soldiers' laps.",
+        "length_m": 13.72,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduced last battle scene, omitting two loud screams.",
+        "length_m": 57.0,
+        "length_retained_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Captain Lightfoot",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Universal Pictures India Ltd., Mustafa Bldg., Sir P. M. Road, Bombay 1.",
+    "cert_no": "13167",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, V and VII",
+        "description": "Prominent views of Ago with bosom and parting exposed are deleted.",
+        "length_m": 55.78
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII, XI",
+        "description": "Prolonged and repeated kisses between Michael and Ago are reduced.",
+        "length_m": 30.48,
+        "length_retained_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Rolling In Style",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Universal Pictures India, Ltd., Mustafa Building, Sir P. M. Road, Bombay 1.",
+    "cert_no": "13108",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The entire sequence of the fashion parade where models appear before a gathering of men only, with shots from a low angle showing gloating over exhibition of bare limbs, is deleted.",
+        "length_m": 30.78
+      }
+    ]
+  },
+  {
+    "film_title": "Desiree",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Corpn. (India) Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "13169",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "777",
+        "description": "Deletion of the second kiss Napoleon gives Desiree in the park at night.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV A VII",
+        "description": "Near views of female characters where the flesh of their bosom is prominently visible are deleted.",
+        "length_m": 32.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deletion of Desiree saying to Bernadotte 'On one condition that I become your mistress'.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Napoleon and Desiree kissing twice on the threshold of Desiree's father’s home and Bernadotte lifting her are reduced.",
+        "length_m": 2.13,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Escape To Burma",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Superscope",
+    "producer": "P.F.C. dir Metric f Ltd., RKO Radio Pictures Inc., 1 Ran Nut Building, Sir F. M. Road, Bombay 1.",
+    "cert_no": "13170",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of the monkey climbing the deity's images.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shooting from the punch hitting a spur on the head of the Chief’s man is reduced.",
+        "length_m": 24.99,
+        "length_retained_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "The torture scene and sounds of whipping are reduced to the minimum necessary for continuity.",
+        "length_m": 8.84,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Veer Rajputani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Colored",
+    "producer": "Basant Pictures, Zaveri Building, Bombay 12.",
+    "cert_no": "13178",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of the dancer when her skirt flies up baring her pyjama at the thighs during a swift circular movement.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Sakhi Lootere",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Eagle Films, 220 Famous Cine Building, Bombay 11.",
+    "cert_no": "13176",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "A Naqab",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "11672",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "The song 'Ay dil ki lagan' is optionally valid.",
+        "length_m": 99.06
+      }
+    ]
+  },
+  {
+    "film_title": "A Star Is Born",
+    "format": "Cinemascope",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "The following scenes are optionally valid: Norman and producer talking over phone about Judy; Judy telling her friend she is leaving the band; Judy in the make-up room with three make-up experts discussing her features; scenes in publicity offices and projection hall; flashback song sequence showing Judy visiting theatrical agents; Judy singing 'Melancholy Baby'.",
+        "length_m": 1737.36
+      }
+    ]
+  },
+  {
+    "film_title": "Pannhodh",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "12611",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "No. 13",
+        "description": "Shots of discussion between Ramani and Lalita about staying at Zemindar's house.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "insertion",
+        "reel": "No. 14",
+        "description": "Some shots of reading letter by Lalita.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 13",
+        "description": "Shots of car passing.",
+        "length_m": 44.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 14",
+        "description": "Rain and rain water watching.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Shiv Bhakta",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "12948-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Sound of rabbits shrieking after being shot.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Close-up of Rani's bust before her breast is replaced with a long shot.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Kailas saying of Sundari 'The elder has more experience...' and Rina's reply 'This bird is for serving others...'.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Close-up shot of Dinner being stopped.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "16",
+        "description": "Close-up shots of Panna removing his eye balls and his head free after removal are replaced with long shots.",
+        "length_m": 13.72
+      }
+    ]
+  },
+  {
+    "film_title": "Adabidda",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "12949-TT",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Kanaka Kanakanda",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "12950-U",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anarkali",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "12947-V",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1-9",
+        "description": "Addition of emblem.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "insertion",
+        "reel": "19",
+        "description": "Two close-up shots of Gulnar aiming arrow at Salim, one mid-long shot of Gulnar laughing after lifting Salim, one clear shot of Salim coughing, and Anarkali's tomb with background singing.",
+        "length_m": 37.19
+      }
+    ]
+  },
+  {
+    "film_title": "Jashan-e-Bahar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "2605",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Omission of the words of Bayan Saheb: 'TYA KAY BOLUN CHALUN KOLHATL'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Omission of the words of Bhringri: 'TEEN DIVASA LA BIF.HAD BADALTE MAJBA'.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Saiyan",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "2760",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of shots of the right-looking man (Vidy).",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Saiyan",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "2761",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of shots of the right-looking man (Vidy).",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Malialaxmi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "2762",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Mention Hiranyaksha in place of Sindhusen.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deletion of the first shots of the solo dance of Mahalaxmi on earth.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Deletion of jerky bust movements of dancers in the Indra Sabha dance.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Pasha Tatar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "2763",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of the shot showing an officer in uniform saluting bareheaded.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Tokyo File 212",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "2701",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Omission of the words 'Russians are next door'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Deletion of the communist son's speech about destroying democracy and overcoming obstacles.",
+        "length_m": 22.25
+      }
+    ]
+  },
+  {
+    "film_title": "Phoolon Ka Haar",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "2683",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of the portion of song sung as 'MAHARAAT CHIKNI CHIKNI HAI'.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of close-up of bust of western dancer.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Phoolon Ko Haar",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "2680",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduction of the sequence showing the Major beating Ajay to a flash.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "26th July",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "1445",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 9",
+        "description": "Deletion of vulgar dance scenes containing words 'Meri Jun Tu Saach Ilia Man' at four places.",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "Krishnakanter Will",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "1448",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of shot of attempt at forcible killing.",
+        "length_m": 26.52
+      }
+    ]
+  },
+  {
+    "film_title": "Rupavathi",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "1084-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the village execution scene, removal of shots showing the black cloth and fitting the noose.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In Nila’s dance, cutting close shots.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Cutting out the second shot in the assault on Rupavathi by the mob.",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Mohana Sundaram",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "1084-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deletion of insets in Bhupathi’s song showing worker pushing cart and motor cars.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deletion of stanza (pictures and sound) in the same song beginning 'Inhutl er velfr' to 'Taftn vcnura'.",
+        "length_m": 16.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Shortening the black mail scene by omitting the second extortion of Rs. 500.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Omission of the word 'Minister' in 'Minister Lilavati'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deletion of the word 'Kotlapuli' used as the name of the watchman and the actions in which he and other police men behave like clowns.",
+        "length_m": 38.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Trimming shots showing Mohan Mudaliar being whipped.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reducing scene where Sunder Mudaliar is tortured, retaining only suggestion of torture.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "20",
+        "description": "Deletion of the word 'Kotlapuli' used as the name of the policemen and the actions in which they behave like clowns.",
+        "length_m": 41.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "29",
+        "description": "Cutting out close shots in the mood scene in the police station.",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Sakatam",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "2108-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Removal of close-up of Ranee the maid at the time of introduction.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Removal of shots in the second number of the village dance where dancers whirl exposing underclothing.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reducing shots showing Dandayya and Ranee going up the stairs together after the dance.",
+        "length_m": 13.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reducing music and sound where Jayan plays the devil.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Removal of shots showing the Prince fondling Komali in the cot and close shots where he takes her into his arms before presenting the garland.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Deletion of inset where Manohari dressed as a male makes love to Komali and places her hand on her thigh at the time of the Camp dance.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Deletion of shots in which the Queen Mother feels Manohari’s abdomen and learns about the pregnancy.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Deletion of village woman fondling her husband's chin at the time of Singhi's dance.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "19",
+        "description": "Reducing scene where the King takes Ranee and offers her in marriage to Dandayya.",
+        "length_m": 3.81
+      }
+    ]
+  }
+]

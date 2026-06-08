@@ -1,0 +1,382 @@
+[
+  {
+    "film_title": "Vanishing Point",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp (I) Pvt. Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "B/63234",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the molestation scene on the back seat of the motor car when the girl's breast is visible.",
+        "length_m": 77.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the shots of the nude figure of the beloved of Kowalski in the flashback of his romance.",
+        "length_m": 4.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the shots showing the nude girl except when her face or legs only are shown.",
+        "length_m": 89.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the dialogues of the nude girl to the following effect: \"Let's have a little fun\".",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "A New Leaf",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India, Ltd., Hague Bldg., Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "B/63577",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II-A",
+        "description": "Delete the scene of a middle-aged woman in swimming costume pursuing Henry and accosting him with emphasised and half naked bosom and later wanting to remove the bra.",
+        "length_m": 22.25
+      }
+    ]
+  },
+  {
+    "film_title": "Sampoorna Devi Darshan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sargam Chitra, Evergreen Bldg., Naaz Cinema Compound, Lamington Road, Bombay-4",
+    "cert_no": "B/63605",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce considerably the shot of blood-smeared eyes and face of lara when she blinds herself.",
+        "length_m": 14.01,
+        "length_retained_m": 25.61
+      }
+    ]
+  },
+  {
+    "film_title": "I Love My Wife",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Universal Pictures India Pvt. Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "B/63576",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shots of couple making movements on bed together after covering themselves with a bed sheet.",
+        "length_m": 2.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce the scene of Richard forcing his pregnant wife on the couch while he is kneeling above her.",
+        "length_m": 1.93,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the shot of a nude girl coming out of the bed when she is with Richard.",
+        "length_m": 104.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the shot of Richard and Helen rolling together on bed after he removes her upper garment.",
+        "length_m": 2.57,
+        "length_retained_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "Nirdhast Jeevan",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "The Director of Publicity, Government of Maharashtra, Sachivalaya, Bombay-32",
+    "cert_no": "B/63748",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete the two diagrams of the male genitals shown later in the film retaining only the diagram in the introductory sequence of the film.",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Sharmeelee",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Subodh Mukerji Productions, Navyug Nivas, 2nd floor, 167-Lamington Rd., Bombay-7",
+    "cert_no": "B/63412",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Delete the view of the bare breasted woman appearing in a magazine which the army officer is reading by the side of fire place in the Mess.",
+        "length_m": 0.69
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Delete the last few frames of the scene showing suggestive kiss when Ajit is in Kamini's lap in the case.",
+        "length_m": 0.16
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Delete Ajit's remark addressed to Kamini: \"Agar hum donon saath mein gayo to padnimen aag lag jayegi\".",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Reduce to a flash the shots of Kamini in swimming costume coming out of the swimming pool and talking with a goonda in which the major portion of her bare bosoms is prominently seen.",
+        "length_m": 17.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "From the Tiger's dialogue addressed to Kamini, delete reference to under Secretary, could be any officer and the objection is to the mention of a particular status.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "In the cabaret dance \"Reshmi ujala, makhmali raat....\", reduce the shots of the male dancer smelling the girl's body right from the leg upwards.",
+        "length_m": 0.77
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "In the cabaret dance \"Reshmi ujala, makhmali raat....\", reduce drastically the shots of the dancer singing the line: \"Aav mere paas sochta hai kya,\" while jerking her bosom and dragging herself upto the legs of the male partner and caressing his legs and making sensuous movements of the body and the wording of the song: \"Aaj ki raat kuchch aisa kare na hove sa vera\".",
+        "length_m": 6.34
+      }
+    ]
+  },
+  {
+    "film_title": "Kanyadaan",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "cert_no": "B/62074",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Recls VI & IX",
+        "description": "Addition of various shots and dialogues approved.",
+        "length_m": 21.13
+      }
+    ]
+  },
+  {
+    "film_title": "Hulchul",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "B/62556",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels: III, IV, V, VIVII, VIII, IX, XI, XII, XIV and XV",
+        "description": "Deleted various shots.",
+        "length_m": 276.19
+      }
+    ]
+  },
+  {
+    "film_title": "The Last Valley",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "B/63256",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted the following dialogue: Erica - If popes and bishops can have families why not priests.",
+        "length_m": 1.94
+      }
+    ]
+  },
+  {
+    "film_title": "Prem Nagar",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Suresh Movies, Madras",
+    "cert_no": "M/6847",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the dialogue of Brute to Famsa \"Kadupuninda Pettestanu\".",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "When Laiha is showing a glass of blood to Kalyan, delete the word Tagandi from her dialogue. (It may be modified Choodandi).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "Reduce the dripping of blood on the floor when Kalyan hits Latha with a soda bottle.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "When Day brings i gul to Koshay Varma, delete his describing her as Lanband twice. (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Keshay Varma's dialogue Nuvvu Indiaku Princ Minister ga vundavalasinadanivi\", referring to Indrani.",
+        "length_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "Trade Group",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Rakrupa Movie Publicity, Vizianagaram",
+    "cert_no": "M/6822",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete the item of advertisement of particulars brand of cigar, in which cine actor S. V. Ranga Rao is shown as smoking.",
+        "length_m": 6.89
+      }
+    ]
+  },
+  {
+    "film_title": "Mayakkumi Mohini",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Smt. A. Kanayam, Madras",
+    "cert_no": "M/6816",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Delete the following lines from song 2 beginning with the words \"Sundara. Kadhalai Chollava??\" (a) \"Kanada Inbam Ondra Kaniyaka Kanindhadhu Indru; (b) \"Kanni Paruvam Sorgumn Endrey Kualhukindren, Kapkal Makizhia Penmai Inban Ootukindren\"; (c) \"Thenaka Sotiadho Asnandham Kanmunnaley\". (Sound only - replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Delete the following line from song 4 beginning with the words \"Jani, jana, (a) \"Aaduthu -Manam Makizhndhey\"; (b) \"Paavai Udal Kodiyaka Kaalai Manom Kombaka\". (Sound only - replacement approved).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Thapaswini",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Shri P. I. Mohammed Kassim, Madras",
+    "cert_no": "M/6858",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete the shot of Nindran keeping his head on Srilata's bust in trying to listen to her heart-beat.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete the suggestion of kissing coming after Srilata switching on the table lair,",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete the following line spoken by Maistry \"Yaan Avalai Belalkara Sangam Sheiðhy Erınju\".",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the following line spoken by Maisty \"Kaiyum Kaalum Paladhum Chodhikkum - Nee kodukkumo ?\".",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the following exchange of dialogue between Narayani and Motor Sivan Pillai: Nasyuni – “Enikkum Konjam Kedakanilini\"; Pillan — \"Yuar Engilum Kandalo ?\". Nariyan \"Adhinalla\".",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Delete the shot of Ravi moving his face from Srilata's hip to her bust in the course of the song (Replaced ca shots 2-13).",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delvie tic following line spoken by the defence counsel while referring to the medical report on Dr. Narendran vusectomy \"Ippodhum Bcejathil Uthapadum Sesham Illa\".",
+        "length_m": 1.82
+      }
+    ]
+  }
+]

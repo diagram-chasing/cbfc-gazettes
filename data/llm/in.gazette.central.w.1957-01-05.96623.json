@@ -1,0 +1,344 @@
+[
+  {
+    "film_title": "Uaslo",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2298.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of dialogue: \"Quran prohibits it but our Allule in very generous for all other pleasure\", \"What does it say in Quran?\", \"It way I can offer you a drink, Marlam\", \"No, it melta my poor hmart tu Allah s paradiso\".",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of dialogue: \"Acohura: May you be powerful in Irive till the end\".",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably reduced the episode of drowning and killing a man.",
+        "length_m": 4.27,
+        "length_retained_m": 2285.88
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Magic Fire\"",
+    "colour": "Colour",
+    "cert_no": "B /17347",
+    "endorsement": "U",
+    "original_length_m": 67.97,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deletion of Richard kinding Mutlldo.",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Ayodhyapati",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B -17286",
+    "endorsement": "U",
+    "original_length_m": 3069.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deletion of a frameshot where a man is being trampled by an elephant during the course of the fight.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deletion of a shot where Ravana pulls an Arrow sticking in the body of Shankhaaur.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 111",
+        "description": "Deletion of shots where girls make amorous advances to Shringi Rishi and he responds. Deletion of the shot where God Indra and Ravana are shown together and Ravana strikes Indra with a mace and offensive language.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of shots where God Vishnu is shown approaching and awaited on the bed of Kaushlye addressing her as mother and asking her to take him as her son and the accompanying dialogue: \"Log kahango kaushlya no itne bere putr ko janam diye\".",
+        "length_m": 34.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of shots where Ravana is being served wine by the dancer and he pulls her by the arm to himself. Deletion of the following lines from song No. 4: \"Dekh rangile, naine ravile, rop ke pyele bain pile\", \"Toro gun gaun, rajal Tori ban Joon\". Deletion of the shot where Ravana takes out an arrow from the body of Rakshas.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion of shot where Rama is shown arming Sita when she is shown seated on the platform after the song.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of sequence where Brahma and Saraswati are blown to pieces and praying for the arrival of Ram and Saraswati descends on Earth for this purpose.",
+        "length_m": 22.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion of shot where Dashratha is falling at the foot of his wife Kaikeyi and she kicks her foot to ward him off.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion of shots where Bharat pushes Kaikeyi and she is shown falling down the stairs.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Voluntary deletion of close-up of the dead child when brought to the court of Raja Dashrath.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Husn Banu",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B -17223",
+    "endorsement": "U",
+    "original_length_m": 3894.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reali",
+        "description": "Reference to \"Baglu\".",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of the word \"Bagdad\".",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of the words \"Chlupan Ohbar\" and \"Talvaren thhindi ho gai\".",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion of the word \"Rang Ralsiyun\".",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of the shot where Shaikh pushes Hamza twice towards Tun Tun and the following words: \"Muhobat karo\".",
+        "length_m": 13.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XG",
+        "description": "Dialogue of Harun to Husn Banu: \"Muhobut ke rigon men begrari ka khun dome lage\" (sound replaced by approved words).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deletion of dialogue of Noor to Harun \"Niysler pherno su nabiu, inunde an kam banta hui\".",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduction to a flash of sword being stuck in Imran's body.",
+        "length_m": 0.37,
+        "length_retained_m": 0.21
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1429",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B -17624",
+    "endorsement": "U",
+    "original_length_m": 187.45,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Item on \"Polak Criyig\"",
+        "description": "Deletion of the words \"In hor long strugglo for froodom\" as well as \"Ousted and Imprisoned under the Stalin rogimo\".",
+        "length_m": 2.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Item on \"M211 Mulvadoc Captured\"",
+        "description": "Deletion of the words \"which hi4 known hloroign of terror, ovil\" and the last sentence \"His captucow powerful blow at tho woakon ng morelo of those fow gangsters still trying to ovade tho woonrity not, which is loovitably olosing round thurn\".",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Chaman",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "B -27B /620",
+    "endorsement": "U",
+    "original_length_m": 372.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Real No. 1",
+        "description": "Cut out from the dialogue the words \"The Son of Donkey\".",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Real No. 2",
+        "description": "From the kowali song cut out the gestures of women who appear to be an onus.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Real No. 3",
+        "description": "Reduced considerably the staggering movements of Bhola.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bol No. 13(1)",
+        "description": "Omit altogether the actual sale of the woman and also all direct inferences to such male.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bol No. 13(1)",
+        "description": "Cut out entirely the throwing of bundles of currency notes by Dr. Chaman before Dawlu as price for Paro.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bol No. 13(1)",
+        "description": "Cut out from the dialogue the word, \"I am hor buyer\" if one buyer payo more than another bayor.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Further Endorsements 1",
+        "description": "Reduce the conversation between the mother, father and Bhola when the latter promises to secure 500 votes for Rs. 800.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Further Endorsements 2",
+        "description": "Reduce the scene in which a conspiracy is hatched to hire goondas to murder Dr. Chaman when he is being led in a procession by his friends and supporters.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Further Endorsements 3",
+        "description": "Reduce the sound rioting in the street to a mere flash.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Further Endorsements 4",
+        "description": "Reduce as much as possible all scenes of overacting, crying loudly, sobbing and beating of chest and other crude and grotesque gestures of Piya Bhagandosji.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Further Endorsements 5",
+        "description": "Reduce Bhola's actual giving of money and jewellery to Dolu Chowdhary in Paro's house for her hand in marriage.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "All for Mary",
+    "colour": "Colour",
+    "cert_no": "B -17526",
+    "endorsement": "U",
+    "original_length_m": 638.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Noel 11",
+        "description": "Close shots of Mary when she is singing and her bust is prominently revealed.",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Parivar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B -17285",
+    "endorsement": "U",
+    "original_length_m": 3799.7,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Two shots showing Ganesh and Malti talking.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "A shot showing five wives in kitchen talking.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Ayodhyapati",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B -17286",
+    "endorsement": "U",
+    "original_length_m": 3401.5,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "PATI",
+        "description": "Trick scene of Merloh visible to Lord Rama with one face, with more than one face and still more.",
+        "length_m": 132.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IT",
+        "description": "Dialogues of Rama and Lakshmana about mata Kukui, Rada by# that she loved him the mout , bat Luknbmann OppokuM.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Re X",
+        "description": "Shot of Bharat plaolng Kharaon on tho throne. Full nacno of Rilma, Lakolmnja and Scots in tho words of Panobavati. Marich comes in the shape of . la Smeta wants that door . Rame follows the deer , Ravan oomes lo the guiso of u Sadhu and takos away Bild . Hanuman making a bridye with tho help of his colle yen.",
+        "length_m": 113.39
+      }
+    ]
+  }
+]

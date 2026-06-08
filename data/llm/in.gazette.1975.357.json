@@ -1,0 +1,574 @@
+[
+  {
+    "film_title": "Love And Death (Ai Toshi)",
+    "languages": [
+      "Japanese"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 1010.41,
+    "length_deleted_m": 0.7,
+    "final_length_m": 1009.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot of a woman sun-bathing in the nude, who later gets up revealing her uncovered bosom",
+        "length_m": 0.7
+      }
+    ]
+  },
+  {
+    "film_title": "Chorus",
+    "languages": [
+      "Hindi"
+    ],
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce the view of Malcum falling over the woman (Chanda) on cot",
+        "length_m": 0.4,
+        "length_retained_m": 0.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the view of Jojo lying on Suza on grass (First portion may be retained)",
+        "length_m": 0.19,
+        "length_retained_m": 0.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce the view of Christine undressing near the cot while Malcum is seen sleeping",
+        "length_m": 0.52,
+        "length_retained_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the view of Jojo and Christine making love on the cot and also her back view with exposed upper part of her body. Delete her licking Jojo’s face",
+        "length_m": 0.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the view of love making between Jojo and Didi",
+        "length_m": 0.26
+      }
+    ]
+  },
+  {
+    "film_title": "Mere Jecvan Saathi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 4289.15,
+    "length_deleted_m": 10.49,
+    "final_length_m": 4285.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the view of a nude painting",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the zoom shot of nude painting and also beginning of the pan shot of the view of the nude painting being shown to Jyoti inside Prakash’s studio",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the close view of the nude painting of a lady’s bust while Rajkumari is talking to Prakash",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the view of Prakash and Jyoti in close embrace particularly deleting the view of their suggestive kissing against the back-ground of sunset",
+        "length_m": 0.15,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "In the song \"Jeena mushkil \"reduce the love making scene particularly deleting the suggestion of kissing between Jyoti and Prakash in his studio when both of them bend on sofa in close embrace, (Painting may be retained)",
+        "length_m": 0.61,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete zoom shot of nude painting",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce close view of Rajkumari’s partly exposed bust while she is sitting on piano",
+        "length_m": 0.91,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete Kamini’s action of taking Prakash’s hand and caressing her exposed thigh",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the pan view of Prakash and Kamini on bed under cover and delete the action of Kamini discarding her garments",
+        "length_m": 1.22,
+        "length_retained_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the view of lip to lip kissing between Prakash and Jyoti while they are in embrace in the beginning of the superimposition of montage",
+        "length_m": 1.67
+      }
+    ]
+  },
+  {
+    "film_title": "Munimji",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 3834.99,
+    "length_deleted_m": 47.24,
+    "final_length_m": 3812.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the song '“Pani men jalc met a gora gora Badan \"delete the view of Ramesh Caressing Lilli’s leg and hand while she is lying on the rock near water",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "During the song “Chal aa ” (a) Reduce the view of Rajesh embracing Asha on the railing particularly deleting his close embrace on words “gale lag jaa sanam”",
+        "length_m": 1.22,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "(b) Delete the view of Rajesh over Asha lying on the heep of sand and singing",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "During the song “Nasha sharab se ho to,...” delete the view of Munim’s face near dancer's belly and also reduce close view of the dancer's belly",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce drastically the rape scene",
+        "length_m": 21.03,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "(a) In the song dance delete the view of the male dancer caressing the leg of the female dancer and also the subsequent view of the female dancer reclining on the male dancer and his action of cathing her exposed belly",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "(b) Delete the underlined word from Munin-yi’s dialogue“Ek garma garamkiss”",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "During the song \"Ekchingari \"delete the view of Rajesh reclining on Rekha’s bosom on words “Chhod ke deklt\" koi unki mehfllms\" as also action of Rajesh pulling Rekha towards him and her action of reclining over Rajesh",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the young fighters words ‘‘That teri maa ka” (sound only)",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Do Bachcho Dus Haath",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 3997.75,
+    "length_deleted_m": 53.48,
+    "final_length_m": 3934.67,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete Dilip’s underlined words to the dog \"D ashman deshke rashtrapati kitaraha bonkraha hai.\"",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "During the dance song\"Mar gayee, mar gayoe\" reduce considerably tho view ofthedancerrolling. Delete the view of her forwardmovement where her indercloth is seen, also delete the view when she is lifted upside down and rotated by a man with her legs around his waist. Reduce her view particularly towards the end when she is seeing through the legs of a person standing with legs apart. Reduce her back view whilo sho is bending on the ground and shaking her back-side",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "(a) Reduce considerably tho view of Resltma’s full exposed bare back before she starts wearing her clothos (Deleted completely)",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "(b) Delete the underlined words of Reshma addressed to Rajesb “Lc maar “Kya 7” are ganth marna, oh, kaske mama” (Sound on ly)",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From the song dance “Chal iagalc soottaa” (i) Delete lower half view of the dancer where two persons caress her legs, and close up of the hand being caressed by the male dancer with lip and the upper view of the dancer with two persons caressing her shoulder and back",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "(ii) In the pan shot reduce the last view of the couples hugging each other till the camera tills down to their legs,— (Completely deleted)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "(iii) Reduce the low angle view of the female dancer with ‘Chilim’ in foreground particularly deleting from the word “Woh bandhanse chhoth\"upto her action of lying down in close view with ‘Chilim’ (Completed deleted)",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "(iv) Delete the back close view of the dancer’s legs with a man in the background under herlegs and (he amorous hip movements of the dancer till she reaches near Shatru",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete close shot of Shatru smoking ‘ChilinT while sitting in the chair",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the close view of the dancer lying on the floor and moving forward and the amorous movements of the body and busts on the floor",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete close view of the (hi ncer with ‘Chilim’ in hand lying down amongst other dancers with her busts prominently seen till she gets up",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the underlined words from Dili’s sentence addressed to Inspector Rajeshon phone:“Pahlciskcsketamaam Katti-lonka khatma kar doon”",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the view of the children being whipped by the gangster as also the view of their being dragged beh indacar",
+        "length_m": 10.06,
+        "length_retained_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the view of Jr. James Bond (Dilip) picking up a mashal from wall and throwing it down",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "(a) Retf/tce considerably the close view where brother of capt, Zamin-dar thrusts a knife in his arm and turns it round and the blood gushes out of the wound",
+        "length_m": 2.74,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "(A) Delete gangster's words : “Jo mulk apnijantako petbhar anaj nahidesakla, nangokokapdanahidesakta",
+        "length_m": 8.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "(a) Reduce the rape scene where Capt. Zamindar (Gangster) attempts to remove by tearing Rcshma’s upper gar-ment. (Completely deleted.)",
+        "length_m": 5.49,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "(b) Reduce the view of two children being dragged tied to a jeep",
+        "length_m": 20.42,
+        "length_retained_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "Sanjog",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 161.54,
+    "length_deleted_m": 3.65,
+    "final_length_m": 161.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shots showing suggestion of kiss between the newly married couple",
+        "length_m": 3.65
+      }
+    ]
+  },
+  {
+    "film_title": "Raja Jani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 4450.0,
+    "length_deleted_m": 20.12,
+    "final_length_m": 4433.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the action of swinging of hips by the dancer on the words \"aa aa\" in the picturisation of the song",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "V & VII",
+        "description": "Reduce the prolonged prominent view of the nude painting on (he wall in bed room",
+        "length_m": 9.45,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the reference to “Jhansi Ki Rani from tho dialogue of Shanno” (Deleted sound only)",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "(a) Delete the dose view of lay’s hand caressing male’s back and her lifting her heels",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "(b) Delete the view of Protap caressing Raj Kumari’s leg upto knee and kissing",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(a) Delete the word “Bastard” addressed by Pratap to Rajkumar. (Deleted sound only)",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(b) Ddelete Pratap’s sentence “Agar ye guiabi phooi ka ras aajhi choos liya to suhaagraat ka nasha kam hojayega.”",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Savera",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 3574.18,
+    "length_deleted_m": 11.46,
+    "final_length_m": 3572.09,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "(a) From thecabarctsequencedepictingthcpicturisationofthcsong “Yeh zindagi hai” Delete the low angle shot of the cabaret dancer",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "(b) Delete the shot of Jatin lying down on the thighs of one of the cabaret dancers while she is vigorously shaking her breasts. Reduce the shot of Jatin sitting on the ground while a cabaret dancer bends on his face and her breasts are visible through her bra.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce by half the zoom shot on the second cabaret dancer",
+        "length_m": 0.95,
+        "length_retained_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "(d) Reduce drastically the shot of a girl lying on bed giving the im-pression as if she is in nude. From the remaining sequence delete the two shots of Jatin and the girl rolling on bed",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the medium shot of the cabaret dancer lying on the reveling floor",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the close view of Jatin putting his mouth near the bare thighs of the dancer",
+        "length_m": 0.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "(g) Delete (a) close shot of the girl shaking her breasts",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "(h) Low angle shot of the girl in a sitting position seen turning",
+        "length_m": 0.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Modify the dialogue the words “bu” bheege roomal\" and kapada bhool jaati thi”",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the following off screen dialogue between Jatin and Saroj as it is heard while both arc seen in a car on way to Panehgani and also delete her deep breathing sound towards the end of the dialogue: Saroj : Tabhi aise bhuko ke taraha zapat rahe ho. Saroj : Bas, bas bas.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the superimposed sequence, drastically reduce the shot of Jateen kissing the neck of Saroj. (Delete completely )",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Reduce to a flash the view of Amar kissing on the neck of Saroj (Completely deleted )",
+        "length_m": 0.78
+      }
+    ]
+  },
+  {
+    "film_title": "Rider On The Rain",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "original_length_m": 3107.0,
+    "length_deleted_m": 19.18,
+    "final_length_m": 3087.82,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce drastically the scene of rape committed by the sex-maniac on Melly, deleting the shots of his giving a hard blow in her belly and the shots when he is tying her hand and when he is taking off her clothes and shots showing her thrown on the cot completely nude and the scenes where the man is atop her. Reduce her reactions on the face at the time of the actual rape and reduce her condition when shown as lying on bed with a wrap on her bare body and with dishevelled hair and aghast face",
+        "length_m": 15.18,
+        "length_retained_m": 12.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete Dobbs throwing Melly on the cot and he is about to jump on the cot",
+        "length_m": 1.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the shot showing Dobbs pushing violently and throwing the woman in the orange dress on bed",
+        "length_m": 2.05
+      }
+    ]
+  },
+  {
+    "film_title": "Raja Jani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 4450.0,
+    "length_deleted_m": 20.12,
+    "final_length_m": 4433.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the action of swinging of hips by the dancer on the words \"aa aa\" in the picturisation of the song",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "V & VII",
+        "description": "Reduce the prolonged prominent view of the nude painting on (he wall in bed room",
+        "length_m": 9.45,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the reference to “Jhansi Ki Rani from tho dialogue of Shanno” (Deleted sound only)",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "(a) Delete the dose view of lay’s hand caressing male’s back and her lifting her heels",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "(b) Delete the view of Protap caressing Raj Kumari’s leg upto knee and kissing",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(a) Delete the word “Bastard” addressed by Pratap to Rajkumar. (Deleted sound only)",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(b) Ddelete Pratap’s sentence “Agar ye guiabi phooi ka ras aajhi choos liya to suhaagraat ka nasha kam hojayega.”",
+        "length_m": 2.74
+      }
+    ]
+  }
+]

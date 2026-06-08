@@ -1,0 +1,1216 @@
+[
+  {
+    "film_title": "In Dreamland (Swapna Ka Sansar)",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Eva Telefilms, Theatre Advertising Services, 4-Woroden Road, Bombay 20.",
+    "cert_no": "25387",
+    "cert_date": "22-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot of the lean man jumping on the back of a very fat lady, clinging to her and being carried away.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Approved shots replacing deleted content.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Aap Ki Seva Men",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "The Eastern Educational Films & Shorts, 151-Famous Cine Building, Bombay 11.",
+    "cert_no": "25390",
+    "cert_date": "22-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Considerably the sequence showing the robbery at the point of a dagger.",
+        "length_m": 8.23,
+        "length_retained_m": 12.2
+      }
+    ]
+  },
+  {
+    "film_title": "A Certain Smile",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "25391",
+    "cert_date": "22-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Dominique Vallon in thin white negligee suggestive of nudity while going to the bathroom in Francoise's house.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of Dominique Vallon caressing Francoise's face with her lips in the hotel in the Riviera.",
+        "length_m": 4.11
+      }
+    ]
+  },
+  {
+    "film_title": "Kings Go Forth",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25412",
+    "cert_date": "25-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Britt with a woman on his lap in a restaurant.",
+        "length_m": 2.93
+      }
+    ]
+  },
+  {
+    "film_title": "Dunkirk",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Metio Golilwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "25414",
+    "cert_date": "25-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The second shot of the soldier wounded in the face by bomb splinters, and reduce the sound of his screams and groans.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Considerably the sound of the soldier’s groans when he is brought into the dressing station.",
+        "length_m": 6.71,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Youth",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Warner Bros. First National Pictures Inc. 42- Queen’s Road, Bombay 1.",
+    "cert_no": "784",
+    "cert_date": "25-9-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words spoken by Maureen: “Olive me a job and a steady supply of boy friends”.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably the fight between Simpson and Dave Wyman.",
+        "length_m": 14.63,
+        "length_retained_m": 12.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Considerably Juggler assaulting Dinah Brown.",
+        "length_m": 2.13,
+        "length_retained_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Kissing between Dave and Dinah.",
+        "length_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Aaram",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Art Films of Asia Ltd., Olympia House, Warden Road, Bombay 26.",
+    "cert_no": "12132",
+    "cert_date": "25-1-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "The name of the sole selling agents of Kaasoh fans.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Aaram",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Art Films of Asia, Ltd,. Olympia House, Warden Road, Bombay 20.",
+    "cert_no": "12132",
+    "cert_date": "25-1-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "The name of the sole selling agents of Kassels fans.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Pati Patmeahwar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "M.G.A. Productions 386, Lanington Road, Bombay 4.",
+    "cert_no": "25364",
+    "cert_date": "19-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Titles.",
+        "length_m": 55.78
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "The Close up of Vanin and Chandrakanya.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Close ups of Vanin and Chandrakanya.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Close-up of a girl.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Close-up of Varun.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Shot of Varun.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Close-up of Chandrakanya by changing the dialogue of Samaj into Log.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Shots of Chandrakanya, Rishi and mother of Chandrakanya.",
+        "length_m": 36.58
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "The shots of Rishi and mother of Chandrakanya.",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "The Young Lions",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "740",
+    "cert_date": "23-6-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "A young soldier boasts in front of his comrade of a vow given to his father that he would kill a Frenchman.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Sequence where Herman soldiers shoot wounded British soldiers lying on the ground, including the shooting of a British soldier who is standing in the scene dazed and confused by the injuries sustained by him.",
+        "length_m": 49.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The dialogue of Hardonburg: “Shoot all wounded I leave no one alive here. We cannot take prisoners, Our movements must not be reported. These wounded can give information. And their planes would be on us before we got back. Then all our reconnaissance. . .Useless”.",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Madhumati",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Bimal Roy Productions, Mohan Studios, Andheri, Bombay.",
+    "cert_no": "25318",
+    "cert_date": "10-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "As the flash back ends, the shot of water mines into a scene showing Devendra, Doctor and Caretaker talking to each other. Just then from the entrance Driver comes in and informs them about the accident. Devendra and Doctor get up and go out.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "After the main title ends the remaining portion of Reel No. 1 (upto the end of Reel No. 1).",
+        "length_m": 192.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the beginning upto the flash back.",
+        "length_m": 122.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Scene showing Devendra, Doctor and caretaker. After that the entire portion upto the end of Reel No. XVII.",
+        "length_m": 81.69
+      }
+    ]
+  },
+  {
+    "film_title": "Mai Bnhini",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Skri Gauri Chitra (Kolhapur)",
+    "cert_no": "25204",
+    "cert_date": "25-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete ‘Ifundi mala palwayaukl nlu’",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete. 'Mftdo in Tndia’",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete (a) ‘llholi hangar var adkun’",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Clandu standing near Baby in bedroom and handling her dressing go in.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Huskila lifting her loft heel standing near Kangaroo Suggesting hiss.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In bathroom delete Suskila throwing brassiere and applying soap to legs, and pouring water on her shoulders.",
+        "length_m": 4.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete (a) Ranga telling girl to go to doctor secretly suggesting abortion.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "(b) Hut owner asking ‘aaj ekteeh alaka aajohe daha iupayo budale’ and Hushila offering ten rupees.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete shot where a young woman is showing bathing in suggesting nudity.",
+        "length_m": 21.64
+      }
+    ]
+  },
+  {
+    "film_title": "Marjorie Morningstar",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Warner Bros, First National Pictures Inc., 42 - Queen’s Road, Bombay 1.",
+    "cert_no": "786-A",
+    "cert_date": "1-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of a girl biting a man’s hand while rehearsing.",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The following words from Marsha’s dialogue “Ho is not used to aneh struggling” — “Listen, you take a poll of your graduating class ten years from now and just see how many of them clinched the deal without giving away a few free samples”.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably shots of love-making of Marjorie and Sandy outside the front door of Arnold Morgenstern’s flat.",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots of kissing between Noel and Marjorie in dressing room.",
+        "length_m": 4.27,
+        "length_retained_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Considerably shots of kissing between Noel and Marjorie under an umbrella.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 1.22,
+        "length_retained_m": 2.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 2.44,
+        "length_retained_m": 1.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 5.18,
+        "length_retained_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 3.57,
+        "length_retained_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Gypsy And The Gentleman",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "The Rank Organisation Ltd.",
+    "cert_no": "25457",
+    "cert_date": "3-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots showing Belle with her legs and thighs exposed prominently and Deverill caressing them.",
+        "length_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Of Dewsrlll and Belle kissing and hugging passionately.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "To a flash scene of Belle and Jess hugging and kissing, towards the end of the reel.",
+        "length_m": 6.4,
+        "length_retained_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Considerably love scene between Deverill and Belle in bedroom; particularly delete shots in which Belle’s thighs and legs are seen erected prominently.",
+        "length_m": 38.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Gypsy And The Gentleman",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "The Rank Organisation Ltd.",
+    "cert_no": "786",
+    "cert_date": "3-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots in which Jess and Belle tumble down together, he over her, and embrace and kiss passionately.",
+        "length_m": 45.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The word “slut\" from Belle's dialogue.",
+        "length_m": 0.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "To a flash scene in which Belle and Jess hugging and kissing, towards the end of the reel.",
+        "length_m": 6.4,
+        "length_retained_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Considerably love scene between Deverill and Belle in bedroom; particularly delete shots in which Belle’s thighs and legs are seen erected prominently.",
+        "length_m": 38.4
+      }
+    ]
+  },
+  {
+    "film_title": "Livia, The Wanton Countess",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Lux Film.",
+    "cert_no": "787",
+    "cert_date": "3-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To the minimum required for continuity shots of love-making between Livia and Franz in Franz's hired room.",
+        "length_m": 21.34,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "To the minimum required for continuity shots of love-making between Franz and Livia in her husband’s villa.",
+        "length_m": 30.78,
+        "length_retained_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Maracaibo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Pictures Corporation.",
+    "cert_no": "788",
+    "cert_date": "3-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "To a flash the last shots of the scene where a cabaret dancer faces the audience scantily clad.",
+        "length_m": 0,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerably the scene where Laura and Vic are shown love making early in the morning while passing through a deserted street.",
+        "length_m": 5.49,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots where Vic kisses Laura passionately in Maracaibo.",
+        "length_m": 6.1,
+        "length_retained_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Song of Freedom",
+    "languages": [
+      "Hindi",
+      "Gujarati",
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sibal Films, Lotus House, Marine Lines, Bombay 1.",
+    "cert_no": "24877",
+    "cert_date": "17-7-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Long shot of musicians playing on the stage.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Indrani",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "H.N.C. Productions, 87, Dharamtolla Street, Calcutta 13.",
+    "cert_no": "21404",
+    "cert_date": "30-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot showing Sudarsan and Indrani lying on the ground in close physical proximity.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6",
+        "description": "Considerably the embrace between Sudarsan and Indrani.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the shot in which Indrani is shown rubbing her cheek on the breast of Sudarsan followed by an embrace between the two.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "To a flash the shot showing Indrani and Sudarsan holding each other in close embrace right at the end of the film.",
+        "length_m": 2.44,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Jalsaghar",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Aurora Film Corpn. Private Ltd., 125, Dharamtolla Street, Calcutta 13.",
+    "cert_no": "21450",
+    "cert_date": "22-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Shot No. 30A — Close shot of Durgabai singing.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Shot Nos. 25 — 27 — Display of fireworks at Mahim's house etc.",
+        "length_m": 37.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Shot No. 2A— Long shot of Raibari at night.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Shot No. 4A — Krishnabai dancing.",
+        "length_m": 21.64
+      }
+    ]
+  },
+  {
+    "film_title": "Mangalya Yoga",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35 mm",
+    "producer": "Puspanjali Pictures, Madras 17",
+    "cert_no": "22651",
+    "cert_date": "30-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the picture of the sculptural ornament, the camera tracking forward and then back, with Prakash pressing the shoulder of the woman’s figure, and reacting.",
+        "length_m": 25.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "When Prakash is dining Pushpa, delete the portion where she goes to the bough of the tree and they both embrace.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the picture of Pushpa seated and rising and walking to the window, with the camera focused on her bust, in close-up.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the sequence where Prakash smells the hair of Pushpa, their sitting together and the reaction shots, upto and including his pressing her shoulders.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 15 and 16",
+        "description": "Delete all the picture and dialogue establishing that Rama Rao set fire to the out-house. (Reel 16 — The reaction shots with voice out-field, going out with the lighted torch. Reel 16— At the out-house, the dialogue justifying the action and laughter, subsequent dialogues wherein it is indicated that he had committed the murder himself and was purified by repentance).",
+        "length_m": 44.81
+      }
+    ]
+  },
+  {
+    "film_title": "Kathavaroyan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "R. R. Pictures, Madras",
+    "cert_no": "22662",
+    "cert_date": "1-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Reduce to the barest minimum required for the story, the alternation between Siva and Parvathi after the dance, deleting all abusive and derogatory dialogues.",
+        "length_m": 18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the sentence of the tribal women that in the interests of unity among themselves, the 7 of them had married the man.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the statement of Chinnan to Aravalli \"Today rice was obtained, tomorrow even that would be zero\".",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the statement of Senapati regarding Chinnan dressed as a pregnant woman— \"Looking at the present state, it looks as if it will go on continuing\".",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduce considerably the sequence of Mannar disguised as a woman, attracting the attention of the first sentry and including him to move inside, retaining only the barest minimum.",
+        "length_m": 3.05,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "Delete all close-up shots of the executioner advancing with heated irons to put out the eyes of Karthava, including the latter’s close-up reactions.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 20",
+        "description": "Delete the statement of the Guru regarding the discipline of religion and Karthava’s reply regarding the burning of 8000 Jains, the worms in the sewers of tradition, the literary references, upto and including Rukmani’s marriage as the ideal of true love.",
+        "length_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "Maya Manithan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Southern Movies, Madras",
+    "cert_no": "22653",
+    "cert_date": "1-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete the picture and dialogue of Minnalkodi and later Kannan inflating the flat tyre, upto and including the rickshaw puller calling out to make proper connection and then pump. (Portion approved for continuity, accompanied by plain dialogue).",
+        "length_m": 35.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "During the dance song 1, delete picture of the dancer (a) bending back and shaking her bust; (b) exposing her bust (3 times).",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Kamala asking Kannan “Are you a Communist?”.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the entire picture and dialogue of illicit liquor bottles being transported as pumpkins, including the comedy scene in the laundry where the bottle is exposed. (No objection for the purpose of establishing that Meiyappan and Chettiar were engaged in liquor smuggling, to that portion when money is paid after exchange of snuff).",
+        "length_m": 102.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete in the scene between Meena and Meiyappan, all picture and dialogue indicating that she was pregnant, upto and including where he says that there will be no necessity at all if she takes the medicine. The dialogue of the doctor in the belief that she was a married woman is also to be deleted. (No objection to a bare suggestion that Meiyappan gave her poison, in a brief flash).",
+        "length_m": 48.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "When Karmegham gives clothes to Kannan, delete his statement 'Do not hesitate because they are black'.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the scene in the laundry from the boy’s description of Minnalkodi as ‘Umppadi’, upto and including the exposure of the female underclothing, and the observation that the boy was going on saying that he did not know these things. (Approved replacement of dialogue).",
+        "length_m": 45.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete Minnalkodi referring to Karmegham as the 'Iron' (Istri Petti).",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "When Meiyappan assaults Kamala after she slaps him (a) delete the rest of the picture (advancing on her and forcibly embracing her, chasing and falling on her at the sofa). (b) reduce the fighting between Meiyappan and Kannan, to a bare flash.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the statement of Meiyappan that the entertainment was in aid of the Washermen’s Association fund, including the poster with that announcement outside the hall, wherever it occurs.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Song No. 8 — Delete the picture of the woman dancer leaning over the man and shaking her shoulders and bust.",
+        "length_m": 2.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "When the Invisible man’s telephone call about the radio announcement is received by Kamala, delete the sentence “It is all empty rumour — do not believe it”.",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the sentence of the disguised rickshaw puller with reference to Karuna — “Is it something new you have got?”.",
+        "length_m": 0.73
+      }
+    ]
+  },
+  {
+    "film_title": "Rock-A-Bye-Baby",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Pictures Corporation.",
+    "cert_no": "25473",
+    "cert_date": "9-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The Egyptian dance with Clara as the principal dancer who is scantily clad.",
+        "length_m": 54.86
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Youth",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Warner Bros, Pictures Inc.",
+    "cert_no": "25498",
+    "cert_date": "10-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots in which Dinah is seen scantily dressed with her thighs and legs prominently exposed.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Too Much Too Soon",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Warner Bros, Pictures Inc.",
+    "cert_no": "780",
+    "cert_date": "7-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots of the cabaret dancer dancing with bare legs and thighs and making indecent hip movements.",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The remark “Come on, take it off” addressed to Diana wherever occurring also shots of spectators trying to tear off Diana’s dress.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably shots of Howard and Diana kissing passionately.",
+        "length_m": 3.35,
+        "length_retained_m": 1.04
+      }
+    ]
+  },
+  {
+    "film_title": "A Matter of Time",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "J. Walter Thompson & Co. Private Ltd., Bombay.",
+    "cert_no": "24206",
+    "cert_date": "12-5-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Shot No. 5",
+        "description": "Bottle of ENO, Glass of water and spoon, ENO being prepared.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Shot No. 8",
+        "description": "Pack shot of ENO.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "A Sparkling Remedy",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "J. Walter Thompson A Co. Private Ltd., Bombay.",
+    "cert_no": "24207",
+    "cert_date": "12-5-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Shot No. 8",
+        "description": "Close up of man drinking ENO.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Savera",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Basu Chitra Mandir Private Ltd. Shree Sound Studios, Dadar, Bombay 14.",
+    "cert_no": "25110",
+    "cert_date": "25-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Shots of car passing— Close shot of Ashok Kumar (Kundan)— Shot of Ashok Kumar (Kundan) and Kammo (dancer) in conversation.",
+        "length_m": 27.13
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Shots of Boat passing in rain at night.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Mahishasur Badh",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "New India Theatres Ltd., 87, Dharamtolla Street, Calcutta 13.",
+    "cert_no": "1437",
+    "cert_date": "8-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Shot of a deformed face.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "'O Betata' (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Mahishasur — “Ei Prashade vritya hoye tomake ami amar oharan shebar adhikar ditom kintu tumi taro jogya nao”. “Bhru Kapurush”.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Bhomra — “Keno, jake biye korechish, takh niye thatna”. Bhittdi — “She to Aj panohash baohar achhi — ar kalthano ihe chale?”.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Bhitti — “Amador biye diye ta be odor mukti”.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Bhitti — “Tomader barite jato meye achhe riliye eso ekbane amra biye karbo.\".",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Mahishasur — “Ei muhurte jadi tomay amar ei driro bahu-bandhane abadhya kari takale jagate kono sakti achhe tomay raksha kare?”.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Scene — Mahishasur whipping Jayantika.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Shachi— “Na — Na — tumi amar kachhe esona”. Mahishasur — “Aj fern an nirbhaye peye tomake amlo emni chhere debona sundari”.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Torture scene.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Second torture scene.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 4",
+        "description": "A close shot of an asur lifting a weapon on his shoulder.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Inti Guttu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Sangeethaa Productions, 10, Raman Street, T. Nagar, Madras 17.",
+    "cert_no": "22665",
+    "cert_date": "10-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Reduce to a bare minimum, picture and sound of Tirumalrao dragging and pushing Mahalakshmamma.",
+        "length_m": 6.71,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the scene of Tirumalrao performing Nischiyathartham.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the head-constable's dialogue when pushing the car, that she was heavier than the car. (6 ft. sound only).",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the scene in the police-station where the driver Subbiah is brought, and charged for overspeeding. (No objection where the Zamindar is told on the telephone that the driver had been arrested).",
+        "length_m": 17.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8",
+        "description": "Reduce to the minimum necessary for the story, the robbery in the Zemindar’s house Prabhakar himself with the aid of the gang.",
+        "length_m": 11.28,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Bhadraachalam referring to himself as Marwadi bidda, wherever it occurs. (2 ft. sound only).",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "In the police-station, delete the head-constable telling the inspector Gopal who is drinking tea, that he should make love to Sobha and pretend.",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "After Sobha asks the Zamindar what she can do for him, delete the rest of the entire scene, leaving only the bare suggestion that the Zamindar intended to get her married to Prabhakar.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "In Rita’s dance before the robber gang, song No. 13, delete her solo rock & roll— (a) before the song begins, (b) at the end of the first verse and before the second verse begins, and (c) at the end of the last verse, the picture where Godari lifts her gown.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "In the police-station, delete the slogan ‘Jampakka Pampa’ uttered twice by the head-constable.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "Delete in the marriage scene, all pictures showing Prabhakar and Sobha together, including the separate inserts of his tying the Tali.",
+        "length_m": 2.13
+      }
+    ]
+  }
+]

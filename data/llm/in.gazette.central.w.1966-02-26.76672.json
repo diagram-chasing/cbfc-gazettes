@@ -1,0 +1,773 @@
+[
+  {
+    "film_title": "\"The Queen Sees Germany\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45814",
+    "cert_date": "11-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of words from commentary: 'only the Wall...and divide the city in half'",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of words from commentary: 'On the other side of the Wall...has appalled the free world'",
+        "length_m": 4.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of words from commentary: 'As the car moved on...response,'",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"East Of Sudan\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "cert_no": "45815",
+    "cert_date": "11-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of words from commentary regarding Arab slavers, Mahdi, and Gordon's peace mission.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of fighting scene by deleting direct thrusts and stranglings.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX X",
+        "description": "Deletion of direct thrusts with swords or arrows from fighting scene.",
+        "length_m": 1.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Drastic reduction of the witch doctor's sequence.",
+        "length_m": 20.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Shortening of Gorrioko's actions suggesting preference for Margaret.",
+        "length_m": 14.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of words from Kinrasi's speech to Baker: 'Arabs are like great sickness, some it takes, others it leaves.'",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "\"Flying Man\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "45817",
+    "cert_date": "12-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Insertion of a tablet stating the film is fantasy and characters/incidents are fictitious.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of underlined words from dialogue: 'Mun halwai or Na, hi bratun hahin kar raha hoon Halwai' 'Na hoga um'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI & X",
+        "description": "Reduction of the scene of a child being carried away by the traitor.",
+        "length_m": 14.02
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Dear Heart\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "45820",
+    "cert_date": "12-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of underlined words from dialogue: 'You just can't go around sleeping with girls at all'",
+        "length_m": 0.64
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of underlined words from dialogue: 'You just march right in there and you tell that girl to put her clothes on'",
+        "length_m": 1.75
+      }
+    ]
+  },
+  {
+    "film_title": "\"Son Of Hatimtai\"",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "45825",
+    "cert_date": "13-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Insertion of a tablet stating the film is pure fantasy and unrelated to the legend of Hatim Tai.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of a line from the song 'Jo ishq-i-haqiqi rakhta ho...': 'Ek patthar ko bhi sajdah kiya badan tu no.'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of underlined words from Malika-E-Noor's dialogue: 'Yeh jaam aur yeh husn donon maujud hain.'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "17",
+        "description": "Replacement of close-ups of Mahrookh emphasizing her bust.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deletion of the villain's remark: 'Tumhara khuda bhi aajkal lamaic heath mo bal.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Replacement of near-views of Nilofar shaking her bust during dance sequence.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deletion of a line from the song 'Jab bhi dohral gai terc karam ki dastan...': 'Kufr jab had se barha, Islam zinda ho gaya,'",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Son Of Hatimtai\"",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "45828",
+    "cert_date": "16-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Insertion of a tablet stating the film is pure fantasy and the story has no relation to the legend of Hatim Tai or his descendants.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deletion of a line from the song 'Jo ishq-i-haqiqi rakhta ho...': 'Ek patthar ko bhi sajdah kiya badan tu no.'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deletion of underlined words from Malika-E-Noor's dialogue: 'Yeh jaam aur yeh husn donon maujud hain.'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "17",
+        "description": "Replacement of close-ups of Mahrookh emphasizing her bust.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deletion of the villain's remark: 'Tumhara khuda bhi aajkal lamaic heath mo bal.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Replacement of near-views of Nilofar shaking her bust during dance sequence.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deletion of a line from the song 'Jab bhi dohral gai terc karam ki dastan...': 'Kufr jab had se barha, Islam zinda ho gaya,'",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "\"Drums of Destiny\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45844",
+    "cert_date": "16-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deletion of a shot of a direct thrust of a spear to the back of a man.",
+        "length_m": 0.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of the killing of animals by George Michael.",
+        "length_m": 9.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduction of the scene of Penga killing a snake.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of views of seminude women from the beach.",
+        "length_m": 2.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduction of a shot of a monkey being eaten by a leopard.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduction of a shot of a vulture eating a rabbit.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduction of shots of talons on George Michael's hand.",
+        "length_m": 1.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduction of the struggle of Dr. Kau with the lion.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"It's A Mad, Mad, Mad, Mad World\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "45845",
+    "cert_date": "16-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of shots of indecorous dancing by Sylvester's girl friend.",
+        "length_m": 4.53
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Secret Invasion\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45846",
+    "cert_date": "16-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of a close-up of Mila's bare bosom with a baby suckling.",
+        "length_m": 2.55
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of the General's face in close-up, with blood smeared on it.",
+        "length_m": 0.36
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Ipcress File\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1665",
+    "cert_date": "18-10-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deletion of underlined words from Grantby's dialogue: 'We don't speak English in Albania...the land of my fathers' and the word 'Albania' said by Palmer.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deletion of the words '...and the MYD' said by the doctor to Grantby.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "\"Hush... Hush, Sweet Charlotte\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "1666",
+    "cert_date": "18-10-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Considerable reduction of the scene of chopping of John.",
+        "length_m": 3.54
+      }
+    ]
+  },
+  {
+    "film_title": "\"I Saw What You Did\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1667",
+    "cert_date": "18-10-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II (1B)",
+        "description": "Reduction of the scene of killing of Judith by deleting the shot of Steve & Judith struggling in the bathroom.",
+        "length_m": 0.54
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI (3B)",
+        "description": "Reduction of the stabbing of Amy and her reaction after being stabbed.",
+        "length_m": 2.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII (4B)",
+        "description": "Reduction of the scene of Steve throttling Libby.",
+        "length_m": 0.64
+      }
+    ]
+  },
+  {
+    "film_title": "\"Once A Thief\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1668",
+    "cert_date": "19-10-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV (2B)",
+        "description": "Deletion of the passionate embrace between Eddie and Kristine near the bedroom door.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII (4A, & VIII (4B)",
+        "description": "Deletion of details of the modus operandi used by gangsters for diverting telephone connection and blowing up the vault door.",
+        "length_m": 32.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI (3B)",
+        "description": "Reduction of Eddie's assault on his wife in a scanty costume in the nightclub, particularly his two blows on her face.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI (6A)",
+        "description": "Reduction of shots of Eddie being hit by bullets before he collapses.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"Bachchon Ke Beech\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "45473",
+    "cert_date": "11-8-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of a map of India shown on stage with a moon and star sign.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of boys and girls students marching with the national flag which is almost touching the ground.",
+        "length_m": 4.08
+      }
+    ]
+  },
+  {
+    "film_title": "\"Tuhi Meri Zindagi\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "45724",
+    "cert_date": "29-9-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, IV, V, XII, XIV & XIX",
+        "description": "Deletion of various scenes.",
+        "length_m": 409.98
+      }
+    ]
+  },
+  {
+    "film_title": "\"Poopalai\"",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "43673",
+    "cert_date": "11-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of a portion of the introductory speech of Shri Karunanidhi, quoting parallels from mythology (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of girls hitting each other on their posteriors during a dance-song.",
+        "length_m": 0.274
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deletion of the line 'Meduva Meduva Thodulima' and close-up of bare legs of the dancer during a song by the gypsy.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deletion of Chittu kissing his hand after caressing Myna.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deletion of Chittu lifting Myna from the car bumpers.",
+        "length_m": 7.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deletion of Sundaram's kissing gesture to Poomalai.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deletion of all kissing gestures between Sundaram and Poomalai.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "\"Prachanda Bhanavi\"",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "43676",
+    "cert_date": "15-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of Kinnara jerking her breasts during Song 1.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deletion of Singanna kicking the dead body of Ugra Bhairava's disciple.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replacement of shots of Malathi near the pillar with her busts prominent, during the song-line 'Andala'.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deletion of Pratap and Kinnara bumping each other back to back in the forest.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deletion of a sentence by a comedian to the Guru: 'Anubavaniki Ammayılıı Undaliga.'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replacement of a jumping dance by a girl, shaking of breasts and posterior, and two girls rubbing back to back.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Deletion of Kinnara jerking her breasts and Kinnara with her bust prominent, group of girls falling on their backs, jerking breasts and posterior during dance-song.",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Deletion of Pratap holding Kinneara in his hand with her bust prominent, Kinneara lying in water on Pratap's lap, his kissing gesture, and close-embrace of Pratap and Kinneara.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deletion of close-up bust-showing of the veena player before the dance song.",
+        "length_m": 7.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Replacement of the words 'Araginchura' and 'Anubhavincharat' in song 6.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deletion of the shot of Katyayini jumping into the fire.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Deletion of Singanna's henchman bringing a rabbit held by the ears.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Replacement of lines in song 'Oh Phoola Ranganna' with shots of shaking breasts, hips, thighs, bending backwards.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Deletion of Pratap kissing Prachanda's hand, pressing Kinneara who falls with hips raised and bust prominent, until she hands over the pillow.",
+        "length_m": 23.15
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Long Ships\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45864",
+    "cert_date": "19-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of all direct thrusts by arrows, spears, swords etc. and shots of hacking from fighting scenes.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of undecorous views of Amina and other harem girls.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "description": "Considerable reduction of the scene of orgy, particularly removing shots where a girl is thrown repeatedly by Vikings.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Battle of The Villa Florita\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "45865",
+    "cert_date": "19-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deletion of shots of Mira kissing and embracing Lorenzo in his apartment at night to remove suggestion of adulterous behavior.",
+        "length_m": 11.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deletion of Debby's remark to Michael referring to Dinna: 'She has got bosoms.'",
+        "length_m": 2.04
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Once A Thief\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "45866",
+    "cert_date": "19-10-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of the shot of Eddie assaulting his wife in a scanty dress in the nightclub.",
+        "length_m": 1.62
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduction of the shot of embrace between Eddie and Kristine in bed.",
+        "length_m": 0.96
+      }
+    ]
+  },
+  {
+    "film_title": "\"Once A Thief\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1668",
+    "cert_date": "19-10-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV (2B)",
+        "description": "Deletion of the passionate embrace between Eddie and Kristine near the bedroom door.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII (4A, & VIII (4B)",
+        "description": "Deletion of details of the modus operandi used by gangsters for diverting telephone connection and blowing up the vault door.",
+        "length_m": 32.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI (3B)",
+        "description": "Reduction of Eddie's assault on his wife in a scanty costume in the nightclub, particularly his two blows on her face.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI (6A)",
+        "description": "Reduction of shots of Eddie being hit by bullets before he collapses.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Curse of The Mummy's Tomb\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "1669",
+    "cert_date": "21-10-1965",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Sudharlelya Bajka\"",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "1661",
+    "cert_date": "12-10-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deletion of the sentence said by Januki to Sandhya in reference to milk: 'Poorvi navhta pachat, aataa pachel halu, halu.'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Removal of the impression that the servant is a Kanhara by deleting reference to his name Hanumantayya; Ayyayyo etc. (sound only).",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

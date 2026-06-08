@@ -1,0 +1,330 @@
+[
+  {
+    "film_title": "Shrimanji",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ram Dayal, Bombay-14.",
+    "cert_no": "55198",
+    "endorsement": "U",
+    "original_length_m": 4005.38,
+    "length_deleted_m": 44.26,
+    "final_length_m": 3964.78,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot of Panna switching off the light during her scene with Gupta.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete dialogues: 'Yeh free pass nabin ehalega-balo kitni raqam de gaya hai' and 'Main such kehti hun, woh kuchh nahi de gaya' and 'Ise nishani samajhkar main apnc pass rakhungi'.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Delete Panna’s words with reference to her son: 'Yeh bade baap ka khoon hai' (Sound only) and 'Yeh bachcha us raatki den hai. Aapki yeh nishani main zindagi bhar seenc so lagaye rakhi lekin meri halat ne muskhkil kar diya— Mujhsi vaishya ke paas reh kar aapka beta jeb kutra, chor, Iu- tera, daku, na jaanc kya ban jaata' (Sound only) and 'Seene par paththar rakh kar ise aap ko sonp rahi hoon. Yeh bachcha aapka khoon hai' (Underlined word only) (Sound only). Replaced with approved words.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the honeymoon Hotel sequence, delete the following words as spoken by the Sikh gentleman at the counter: 'Yeh suhagrat hotel hai — yahan alaheda alaheda kamara nahi milta. Aap samajh gayi na, Bhabhiji'.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Delete the words: 'Main oopar aaap neccho yani ke aap ooper main nccche mera matlab hai ke main ooper neeche' as spoken by Kishore to the girl (Sound only). Replaced with approved words.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the words ‘Om Namah Shivaye’ as referred to by Kishore while asking the girls to prostrate before the fake guru impersonated by Johar. (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "From the Royal Hotel sequence reduce to bare minimum the amorous behaviour of the first girl towards Johar, particularly deleting her words 'Donon taraf hai aag barabar lagi hui kya bataoon haaye', her holding his hand at her bosom, kissing his picture and forcibly making love to him as he is lying on the sofa.",
+        "length_m": 9.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Delete the shots showing Bina putting arms round Johar’s neck and forcibly trying to make love to him on the sofa, as also the following dialogues: 'Dekhiya Miss, is tarah gale padna theek nahin' 'Oh 1 nmjhe aapke ye purane khyalat bahut pasand hai' 'gale to Shaadi Ke baad hi milna chahiye'.",
+        "length_m": 7.62,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Delete the scene showing Lilli making love to Johar forcibly as he is lying on the sofa as also the following words: 'Ab mere katnre aur aapke kamre men kya faraq hai, darling ? ' 'Shaadi ke baad ek kamra' 'Dekha jo jalwa-i-yaar tabiyat machal gayi— ankhon ke tha kasoo chhuri dilpe chal gai' 'Aur pyar kame ka kamara ? '",
+        "length_m": 5.79,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Delete the words 'Yeh shiksha to ekant me di jaati hai, tumhara yeh joban' as spoken by Johar to Lata. (Sound only) (Replaced with approved words— sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the words ‘Maine abhi dana hi data tha to tumne kabutari uda di' as spoken by Johar.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Delete the song-line 'Jo ek minute na gaur kare woh government kehlati hai — are, government ji' (Sound only). (Replaced with approved words- sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From the scene showing Johar acting as cook, delete his reference to the French recipes while reading out the unsavoury ingredients to Lata.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "The Pink Jungle",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Stan Margnlics, U.S.A",
+    "cert_no": "55199",
+    "endorsement": "U",
+    "original_length_m": 2919.68,
+    "length_deleted_m": 1.67,
+    "final_length_m": 2918.01,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III (2A)",
+        "description": "Delete the shot blood-smeared face of the pilot when being lifted by the collar by the accomplices of Raul Ortaga.",
+        "length_m": 1.67
+      }
+    ]
+  },
+  {
+    "film_title": "Battle for Peace",
+    "languages": [
+      "English"
+    ],
+    "producer": "U.S.T. Agency, USA.",
+    "cert_no": "55213",
+    "endorsement": "U",
+    "original_length_m": 113.69,
+    "length_deleted_m": 1.22,
+    "final_length_m": 112.47,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the words ‘enemy’ and ‘enemies’ occurring in the film with reference to Viet Kong.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Processions",
+    "languages": [
+      "English"
+    ],
+    "producer": "U.S. Agency, USA.",
+    "cert_no": "55214",
+    "endorsement": "U",
+    "original_length_m": 199.34,
+    "length_deleted_m": 0.76,
+    "final_length_m": 198.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the words ‘Vietnamese history is the history of struggles and resistance against aggression from tho North’.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "AABROO",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "producer": "B. S. Rawal, Rawal Films, Bombay-7,",
+    "cert_no": "55215",
+    "endorsement": "U",
+    "original_length_m": 4909.72,
+    "length_deleted_m": 126.48,
+    "final_length_m": 4783.24,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete Sharda's words as spoken to Shekhar: 'Jis khetjne kuchh hasil mi ho aap uski dekh bhal kyon kar rahe hain'.",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the underlined words ‘Jawani chali gayi baehche paida karne ki khwahish nahin gai’, as spoken by Tilotama to Anand.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the undermentioned dialogues between Mnnish and grandmother, containing implication of illegitimate conception: 'Ye bade sharm ki baat hai inkeliyc main aapse kaise kahun unhonc aisa kyonkiya. Acchhe garanc ki ladk'ya aisa nahin karti'. 'Ye baat hain 7 Hai hai I Neena tera satyanas ho kya kahoongi'.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete Soda’s words as spoken to Whisky. 'Ye sab zamin zamin ka faraq hai patharili zamin.se kuchh paida hi nahin hota'.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete Dwarjhalal’s words ‘Aaj kal to shaadi ke pahle aulad ho jati hain'.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "In the holl-dance song ‘Aai ai ai holi. . . .* reduce to bare minimum the close shots of the girls lying on floor and writhing their bodies.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the entire scene of Whisky and Soda from the point he says “Aaj pilaogi?”, including appearance of the police constable till his exit.",
+        "length_m": 87.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the words “Abhi to phuljhadi ho turn muhabbat ka patakha ho. Agar chhooto andheri raat me din ka ujaia ho",
+        "length_m": 2.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete Soda’s words Thodi der me me J.P. aur leader ban jaoonga’, following his rclciue ficm jail.",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Baazi",
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 3922.1,
+    "length_deleted_m": 44.46,
+    "final_length_m": 3877.64,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Delete the second shot showing the dead woman in the cupboard also reducing shrieks as given by Liz and Joe.",
+        "length_m": 0.72,
+        "length_retained_m": 3.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII, XIV & XV",
+        "description": "Reduce drastically the fight sequence involving Ajay and the gunman, particularly reducing latter’s shrieks as ho is being thrust against the thorny trunk of the tree, the views of blood on the man shot dead by Liz, views of blood scattered around the place, etc.",
+        "length_m": 43.74,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Old Testament",
+    "format": "Super totalscope",
+    "producer": "Cineproduzion Asso- ciate, Italy.",
+    "cert_no": "55226",
+    "endorsement": "U",
+    "original_length_m": 3332.0,
+    "length_deleted_m": 27.13,
+    "final_length_m": 2304.87,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shots in which Syrians are killing an old man by piercing a sword in his back as also the shots in which they set fire to the room in which a blind old lady is lying on the cot.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the shots in which a Jew is being whipped by Syrians as also the prominent views of his back bleeding.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the scene in whicn Jews are shown with only their heads above the ground, as Syrian pouring wine on one of them and the vultures waiting for their prey.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the shots in which a woman, tied up, is being whipped by Syrians.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "How To Steel The World",
+    "colour": "Colour",
+    "producer": "Anthony Spinner, U.S.A",
+    "cert_no": "55227",
+    "endorsement": "U",
+    "original_length_m": 2509.11,
+    "length_deleted_m": 1.78,
+    "final_length_m": 2501.33,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VII, (4 A )",
+        "description": "Reduce considerably shots of kissing between Mrs. Kingslay and Mr. Webb.",
+        "length_m": 1.78,
+        "length_retained_m": 0.7
+      }
+    ]
+  },
+  {
+    "film_title": "The Ambushers",
+    "colour": "Col.",
+    "producer": "Irving Allen, U.S.A",
+    "cert_no": "2322",
+    "endorsement": "A",
+    "original_length_m": 2792.58,
+    "length_deleted_m": 0.99,
+    "final_length_m": 2791.59,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V(3A)",
+        "description": "Delete the words ‘Russian Invasion’ as referred to by the Radio Commentator.",
+        "length_m": 0.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X(5B)",
+        "description": "Delete the words ‘Slimy Hungarian’, as spoken by Peter with reference to Terry.",
+        "length_m": 0.81
+      }
+    ]
+  }
+]

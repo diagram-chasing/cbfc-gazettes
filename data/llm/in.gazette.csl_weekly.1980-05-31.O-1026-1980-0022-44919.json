@@ -1,0 +1,180 @@
+[
+  {
+    "film_title": "\"The Chauip\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Widescreen",
+    "producer": "M/s. Metro Goldwyn - Mayer India Ltd.",
+    "cert_no": "B/F-200",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the love scene between John and Jill, particularly deleting the scene where John and Jill are lying in bed revealing the bare upper parts of their bodies.",
+        "length_m": 36.9
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Uranium Conspiracy\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "B/F-177",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete all the shots in which the African belly dancer is dancing with her bare breasts.",
+        "length_m": 8.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the scene in the bed-room, delete the shots in which the Italian man and the African girl are seen in sex act in the nude.",
+        "length_m": 4.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the scene in the bed-room, delete the shots in which the African girl (still in the nude) gets up and runs away after the stranger enters the room.",
+        "length_m": 4.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the scene in the bed-room, delete the shots in which the Italian, in a sitting position, covers his private parts simultaneously exclaiming Oops.",
+        "length_m": 0.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the shots in which Helga walks with glasses in her hand and again turns, deleting the portion when her bare breasts are seen.",
+        "length_m": 7.24,
+        "length_retained_m": 0.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce drastically the fight on the roof top by deleting brutal and gruesome visuals.",
+        "length_m": 10.08,
+        "length_retained_m": 39.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the shot in which Helga gets a bullet shot in the forehead while she is in the church.",
+        "length_m": 0.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the scene in which the hero is being tortured, by deleting the gruesome visuals.",
+        "length_m": 2.13,
+        "length_retained_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the shot in which an innocent gramophone player is shot dead with children screaming.",
+        "length_m": 2.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & V",
+        "description": "Reduce drastically the shots in which shoot out takes place, deleting gruesome and brutal visuals.",
+        "length_m": 15.07,
+        "length_retained_m": 74.78
+      }
+    ]
+  },
+  {
+    "film_title": "\"Trailer of \" Gopaal Krishna \"\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "M/s. Rajshri Pictures Pvt. Ltd.",
+    "cert_no": "B/91512",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce shots of a tied up man being dragged by a running cart.",
+        "length_m": 2.74,
+        "length_retained_m": 0.16
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Uranium Conspiracy\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "producer": "Film Finance Corporation",
+    "cert_no": "B/90585",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot (3) in which the gramophone player is shot dead.",
+        "length_m": 1.19
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the brutal and gruesome visuals in the fight on the terrace.",
+        "length_m": 0.99
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete belly dance in semi-nude.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scene in which Renzo is tortured.",
+        "length_m": 2.84
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete reference to Israel.",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the gruesome and brutal visuals from the scenes of shootouts.",
+        "length_m": 0.78
+      }
+    ]
+  },
+  {
+    "film_title": "\"An Unmarried Woman \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "20th Century Fox Corporation (I) P. Ltd",
+    "cert_no": "B/89631",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of love making between Charlie and Erica.",
+        "length_m": 1.75
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the discussion on sex between Saul and Erica.",
+        "length_m": 5.62
+      }
+    ]
+  }
+]

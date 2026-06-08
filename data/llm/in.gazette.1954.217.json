@@ -1,0 +1,168 @@
+[
+  {
+    "film_title": "Trailer of \"Angara\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Akosh Chitra, Famous Cine Laboratories & Studios Ltd., Mahalaxmi, Bombay-11.",
+    "cert_no": "11128",
+    "cert_date": "29-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue 'Kisi doosre ka pehlu garam kar rai hain' referred to by the groom in respect of the bride.",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume 127",
+    "languages": [
+      "English",
+      "Bengali"
+    ],
+    "producer": "M/s. Metro-Goldwyn-Mayer, U.S.A.",
+    "cert_no": "11144",
+    "cert_date": "1-7-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Item 'First Anniversary of Berlin uprising'.",
+        "length_m": 28.6512
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Item 'Anti-Communist conference in Korov'.",
+        "length_m": 14.6304
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1307",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietonews Ltd., U.K.",
+    "cert_no": "11148",
+    "cert_date": "1-7-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Item 'News Briefs - Berlin riots'.",
+        "length_m": 14.0208
+      }
+    ]
+  },
+  {
+    "film_title": "Chor Bazar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s All India Pictures Studio, C/o. Famous Pictures Studio, Cadeli Road, Dadar, Bombay 28.",
+    "cert_no": "307",
+    "cert_date": "22-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI I",
+        "description": "Song 'Pardes ki thokaren...'",
+        "length_m": 97.536
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Fight scenes.",
+        "length_m": 23.1648,
+        "length_retained_m": 3877.3152
+      }
+    ]
+  },
+  {
+    "film_title": "King of The Khyber Rifles",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Bombay.",
+    "cert_no": "10901",
+    "cert_date": "21-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Item 'India 1857 - The Hundredth Year of British Rule'.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the first dance, the shaking of hips.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The second dance in Kurrum Khan's tent (completely deleted).",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shot showing Kurrum Khan and Captain King accepting the dancing girl.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue 'In Meerut garrison Civil uprising brought Bengal Rioting in Delhi'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Sniper",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., 33A, Marine Lines, Bombay.",
+    "cert_no": "62",
+    "cert_date": "1-7-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Scenes showing paranoid shooting with a rifle fitted with a telescopic sight.",
+        "length_m": 10.9728
+      }
+    ]
+  },
+  {
+    "film_title": "Maraner Parey",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Himalayan Art Producers, 127B, Lower Circular Road, Calcutta-14.",
+    "cert_no": "9608",
+    "cert_date": "23-6-54",
+    "endorsement": "B",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Boul song 'Ajke jure hashao tore kalke aghat hano Shudhu-i jano'.",
+        "length_m": 24.83136
+      }
+    ]
+  }
+]

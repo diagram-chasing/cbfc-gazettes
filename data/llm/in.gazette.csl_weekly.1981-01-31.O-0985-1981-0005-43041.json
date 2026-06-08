@@ -1,0 +1,1290 @@
+[
+  {
+    "film_title": "\"Khanjar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Guru Dutt Films Combine",
+    "cert_no": "B/F-305",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete portion where Jagat is suggestively moving sword forward and backward.",
+        "length_m": 5.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the same scene, delete Razvanti's dialogue: \"Tum men talwaar jalsi tozi kahaan ?\" and Jagat's reply: \"Aro tumko aapan ko chanas hi kldhar diya ?\"",
+        "length_m": 14.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete dialogue between Jagat and Razvanti along with accompanying visuals: Jagat: \"Ye to shaadi ke baad hi malum paregan ke tum baanjh ho ya majn ? Haay haay khoob pahochana - haay haay khoob pahechana,\" Rasvanti: Are hesharam in ke saath bodyguard ban kar jaa rahe ho to mardoo jaise jaawo.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete medium close shot in which Shekhar (Zomby boy)'s head is seen falling on the table. The accompanying sound of the thud should also be deleted. Also delete portion of the same shot where camera is zooming backwards.",
+        "length_m": 0.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the word Pavana aath spoken twice by Jagat.",
+        "length_m": 36.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the underlined word. Delete the entire obscene sequence involving Dr. Bruin and Jagat (addressed as women) and Rasvanti and Kamini upto and including use of expression \"Paavanna aath\".",
+        "length_m": 25.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the entire sequence involving Jagat and gangsters who are converted into animals. The sequence contains vulgar dialogues and vulgar gestures.",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete close shots of the dagger being lowered on the child.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "In the shot where Swami is seen rolling after getting the dagger pierced in his body. Delete portion where dagger and blood are seen prominently.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the word \"shangen\" used twice by Jagat in the last sequence.",
+        "length_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "\"22d June 1897\"",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "colour",
+    "producer": "Hachiket Patwardhan",
+    "cert_no": "B/F-334",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete views of Bhujangrao putting notes in the blouse of Munjo.",
+        "length_m": 4.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce beating of Sarjco in the police station by the Inspector.",
+        "length_retained_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the word Bastard spoken by the Inspector at the Police station.",
+        "length_m": 1.9
+      }
+    ]
+  },
+  {
+    "film_title": "\"Agitya Bilowar agoba\"",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "Shivshakti Productions",
+    "cert_no": "B/F-330",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the views of Bhujangrao putting notes in the blouse of Munjo.",
+        "length_m": 4.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce beating of Sarjco in the police station by the Inspector.",
+        "length_retained_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the word Bastard spoken by the Inspector at the Police station.",
+        "length_m": 1.9
+      }
+    ]
+  },
+  {
+    "film_title": "\"Hum Bhi Kuch Kum Nabin\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Golden Eagle Films",
+    "cert_no": "B/F-324",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete close up shots of cabaret dancer where her thighs are exposed very prominently.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete song lines beginning with the words \"Jane Walon Ka Gam To Hota Hal.\"",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "\"Kali Ghata\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shivalik Pictures",
+    "cert_no": "B/F-324",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete close up shots of cabaret dancer where her thighs are exposed very prominently.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete song lines beginning with the words \"Jane Walon Ka Gam To Hota Hal.\"",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Passage\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "B/F-217",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete all shots of the bare breasts of the lady taking bath.",
+        "length_m": 3.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "ID",
+        "description": "Rape of the girl by the Nazi captain may be reduced to a suggestion.",
+        "length_retained_m": 6.61
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Incredible Melting Men\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Columbia Films of India Ltd",
+    "cert_no": "B/F-197",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The shot of the floating head of the man should be reduced to the bare minimum.",
+        "length_retained_m": 7.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "All shots of the lady with bare breasts may be deleted.",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Close up shot of the headless mutilated body may be deleted.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "The shots of the electrocution of the Sheriff with his body in flame should be reduced drastically.",
+        "length_retained_m": 2.4
+      }
+    ]
+  },
+  {
+    "film_title": "\"Manover Street\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Columbia Films of India Ltd",
+    "cert_no": "B/F-254",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Premise For Tomorrow\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "National Film Board of Canada",
+    "cert_no": "B/90833",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Communication - The Receivor\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90953",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Communication - The Message\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90954",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Office Practice : working With Others\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91105",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Plants And Animals Depend On Each Other\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91106",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Photosynthesis : The Biochemical Process\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "B/92638-48",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Indian News Review No. 1627 (Northern)\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "B/92649-52",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"You ll Find It In The Library\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91125",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Trip to Mars\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "B/91420",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Box Car Bandil\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "B/91428",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Salmon Yeggs\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "B/91443",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"The Great Chase\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "B/91444",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Hurry, Hurry\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "B/91445",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Care & Cleaning Of Kitchen Equipment\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd",
+    "cert_no": "B/92230",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Microwave Oven\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "National Educational Media Inc.",
+    "cert_no": "B/92232",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Punjab Newsreel No. 50\"",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "producer": "Bombay Film Lab",
+    "cert_no": "B/92448",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Before The Monsoon\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "ATV, U.K.",
+    "cert_no": "B/92996",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Zalim\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Jagdish Srivastava",
+    "cert_no": "B/92480",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Selling\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd",
+    "cert_no": "B/92228",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"The Making Of A Legend\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Central Documentary Film",
+    "cert_no": "B/91594",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"A New Apartment\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Leningrad Documentary Film Studios",
+    "cert_no": "B/91581",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Personal Grooming And Hygiene\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Nationale EducationalMedia Inc.",
+    "cert_no": "B/92499",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Vote For Performance\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Amar Kakkad, Audio Visual Aids",
+    "cert_no": "B/92175",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Trailer of The Lady Vanishes\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "20th Century-Fox Corpn.(I) Pvt. Ltd",
+    "cert_no": "B/92229",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Banquet Service\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd",
+    "cert_no": "B/92231",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Hosting\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd",
+    "cert_no": "B/92657",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Trailer of Dera Aashgan Da\"",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Guru Dutt Films Combine",
+    "cert_no": "B/92626",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Kishan and The Magic Chariot\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Prof. Sint. V. Mulay",
+    "cert_no": "B/92106",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Trailer of Kaulapni\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Prof. Smt. V. Mulay",
+    "cert_no": "B/92672",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Trailer of Khanjar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Guru Dutt Films Combine",
+    "cert_no": "B/92678",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete the shot of the head of Shekhar falling down on the table and subsequent shot of the face lying on the table.",
+        "length_m": 3.7
+      }
+    ]
+  },
+  {
+    "film_title": "\"Indian News Review No. 1628 (National)\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "B/92752-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Indian News Review No. 1628/ (Eastern\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "B/92762-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Basic Job Skills: Handling criticism\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90943",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Get That Job : Line Up Your Interview\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90949",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Gravity and What It Does\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90949",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Malo and Female In Plants And Animals\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90958",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"The Cell : Structural Unit of Life\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90960",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Cells and What They Do\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90962",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Conserving Our Environment Use And Reuse\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90973",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Effective Writing : Learning From Advertising\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90987",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Get That Job : Handling The Interview\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90987",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Trailer of Hum Bhi Kuch Kum Nabin\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Golden Eagle Films",
+    "cert_no": "B/92276",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Get That Job : Keeping Up with the Changing Wors\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90983",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Get That Job : Choosing A Career\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90984",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Improve Your Vocabulary\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91069",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Nature Of Life : Respiration In Animals\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90946",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Basic Job Skills: Following Instructions\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90981",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"The Eye: An Inside Story\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91079",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Lighting And Thunder\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91084",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Movements Of Plats\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90934",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Nature of Life : The Living Organism\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91093",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Our Sun And Its Planets\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/91100",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Aristotle and The Scientific Method\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Coronet Films",
+    "cert_no": "B/90973",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Ratnadoop\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd",
+    "cert_no": "B/P-327",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted the shots showing the hero sitting in a car till the end at the Railway Station.",
+        "length_m": 86.87
+      },
+      {
+        "kind": "insertion",
+        "reel": "XV",
+        "description": "Added shots showing the Heroine dead in the room and then a graveyard shot where the baby is buried and the end.",
+        "length_m": 97.54
+      }
+    ]
+  },
+  {
+    "film_title": "\"Earth I am\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd",
+    "cert_no": "B/92613-25",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "The new title of the film may be read as Earth I am Alias Out of the Clay.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Havo A Date With Apco Handloom House\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Apco Handloom House",
+    "cert_no": "B/86244-46",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Deleted shots containing the Scheme of Lucky Date Draw - where the shots showing a hand picking out 13 number and Cash Memos containing that date getting the full refund for the purchases made on that date and the relevant sound track.",
+        "length_m": 11.68
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ahsaas\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Irwin Winkler and Robert Chartoff",
+    "cert_no": "A-4575",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "The characters of this film are fictitious. The word Mochi in the film is used in context of business or profession and has nothing to do with any cast or community.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "\"Olangthagoc Wangmadasoo\"",
+    "languages": [
+      "Manipuri"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. N. S. Films",
+    "cert_no": "C/9799",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Ekdin Pratidin\"",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "producer": "Mrinal Sen Productions",
+    "cert_no": "C/9814",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Mathura Vijay (Revised)\"",
+    "languages": [
+      "Oriya"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Chhayavani Pratisthan",
+    "cert_no": "C/9811",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Ghatanabæli-122 (Newarcol)\"",
+    "languages": [
+      "Oriya"
+    ],
+    "colour": "Colour",
+    "producer": "Shri R. M. Dutta",
+    "cert_no": "C/9828",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Paka Phasalera Kadacha\"",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "producer": "Dept. of Information & Cultural Affairs",
+    "cert_no": "C/9827",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Samajanaki Saval\"",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Sri Uday Art Pictures",
+    "cert_no": "M/12643",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Bushanam lying flat on the girl on bed, in the rape attempt.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Bushanam attempting to lift the skirt of the girl in the attempted rape sequence.",
+        "length_m": 3.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In dance performed in the den, delete Man feeling the dancer from her thighs upwards to her bosom.",
+        "length_m": 5.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace Man feeling the dancer from her thighs upwards to her bosom with insert of a man.",
+        "length_m": 5.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Man pulling the dancer backwards from her waistband.",
+        "length_m": 4.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace Man pulling the dancer backwards from her waistband with heroine sitting in den.",
+        "length_m": 4.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Mun's standing behind dancer, pulling her back and lifting her leg up.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace Mun's standing behind dancer, pulling her back and lifting her leg up with group with dancer.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Man kneeling before dancer, putting his hands on her thighs and dancer's shaking her thighs.",
+        "length_m": 4.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace Man kneeling before dancer, putting his hands on her thighs and dancer's shaking her thighs with two men and one boy dancing reaction.",
+        "length_m": 4.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the dragging of Ranganna by horses, to one fourth of its present length.",
+        "length_m": 9.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Andhala Rasi\"",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Binny International",
+    "cert_no": "M/12313",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the intercut shots of the model in bath tub in which her cleavage is revealed prominently.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Replace the intercut shots of the model in bath tub in which her cleavage is revealed prominently with shots of model without revealing the cleavage.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce considerably the shots of the model getting up and standing in front of the camera.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the profile shot of the nude.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete all the shots of Ranga and the woman making love on the bed, retaining only a suggestion of the first shot which is the only in which the woman's thighs are properly covered by her skirt.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shots of the nude photographs.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the cabaret dance.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all the dialogues comparing the prohibition policies of Andhra Pradesh and Tamilnadu. Delete also the dialogue of the drunkard Anni dorakathayi.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shot of the man removing his skirt in the hotel room prior to approaching the prostitute in the bed-room.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete Ranga's dialogue as said to the call girl *Anto Ropcat.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Replace Ranga's dialogue as said to the call girl *Anto Ropcat with sound Anto , Yemiti.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Call girl's reply Just once more.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Replace Call girl's reply Just once more with approved sound - I love you.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete Ranga's dialogue as said to the call girl (Okato Banam Okate Guri.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Replace Ranga's dialogue as said to the call girl (Okato Banam Okate Guri with approved sound -Okate paata Okate ragam.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete Ranga's dialogue as said to his friends playing cards Atu college palhakellito kotta Pitt. lu emaina taguluthayeme.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Replace Ranga's dialogue as said to his friends playing cards Atu college palhakellito kotta Pitt. lu emaina taguluthayeme with Kothapet.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Delete Ranga's friend's dialogue Tagalu Kunna cho.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Replace Ranga's friend's dialogue Tagalu Kunna cho with Veepu pagalınachu.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Geetha's dialogue to Ranga - Delete Nuvvu Demikee Ready kacu . Ninnu nenu ready chesukovalasına khar - manaadi.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace Geetha's dialogue to Ranga - Delete Nuvvu Demikee Ready kacu . Ninnu nenu ready chesukovalasına khar - manaadi with Ninnu prasannam chesukovaisina t. lanoppant madi.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Seetha's dialogue iurambabu - -- Nenu okha danne kannanna Rendu chetulu kalisten ?",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Replace Seetha's dialogue iurambabu - -- Nenu okha danne kannanna Rendu chetulu kalisten ? with Naa oshadanike houthuru , Mocku inatramekadu.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the dialogue of Tamilian Andhralo anni visha yalu dorukutayi and the subsequent dialogue Alhulu dihadı Anar Ravali.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Replace the dialogue of Tamilian Andhralo anni visha yalu dorukutayi and the subsequent dialogue Alhulu dihadı Anar Ravali with appreciated sound.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the dialogue of the constable as said to Hero and the heroine Pdt Srikrishnudulati koduku puttavatchu.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Replace the dialogue of the constable as said to Hero and the heroine Pdt Srikrishnudulati koduku puttavatchu with approved sound.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Veedani Bandhalu\"",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Krishnaraya Pictures",
+    "cert_no": "M/11833",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "From the text of song beginning with the words Atha koduku delete the following lines: From ‘Nallani Raga diraa io Nekkuvaga ezduladi , (3 lines) From (Pothenu koodivaru . to “ Vuthaga undalen . (2 lines ) From Inkokkasarı, to ( Pora ( lline).",
+        "length_m": 35.02
+      }
+    ]
+  },
+  {
+    "film_title": "\"Satharma\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Kasturi Films",
+    "cert_no": "R/28/3865",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Athai Magal\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Dhanabagyam Pictures",
+    "cert_no": "R/28/2578",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Operation Jackpot Nali C.I.D. 999\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Anupam Movies",
+    "cert_no": "R/28/2580",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Akka Chellelu\"",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Jagapathi Films",
+    "cert_no": "R/27/2582",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

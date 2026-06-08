@@ -1,0 +1,166 @@
+[
+  {
+    "film_title": "Maa Baap",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Genesis Film Productions",
+    "cert_no": "B/84826",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Added one song beginning with the words 'Hoort Ahmedabad No Rikaha Wale'.",
+        "length_m": 173.74
+      }
+    ]
+  },
+  {
+    "film_title": "Paddillu Chinnillu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/11825",
+    "endorsement": "U",
+    "original_length_m": 4010.68,
+    "final_length_m": 3992.88,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the words ‘pregnant Report’, ‘Abortion’ spoken by Venkataramiah.",
+        "length_m": 0.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words ‘Antha Ayyagarc’ spoken by Chalam to Seetha.",
+        "length_m": 4.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the words ‘Nelakki Moodrojulakkada Moodrojullkkadh’ spoken by Venkataramaiah to his children referring to menstruation.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the words ‘Deniandam, adee, idee, along with visuals showing Venkatnramiah's hand gesture referring to Deepa’ and ‘adee, idee’ referring to Seetha.",
+        "length_m": 5.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the words ‘Ammagariki vratham’ spoken by Chalam to Venkatarmlah with reference to Seetha.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "From the text of song No, 1, delete the words 'Painunchi kindiki-kmdununohi paiki-ekkutha digutha’ wherever occurring in song and also repeated in the last reel.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the words ‘Okka sukravaram, a sanivaram Nangalavaram thappa nimmalni oppadaina yibbandi pettana’ spoken by Seetha to Venkataramiah.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the words ‘Ekkada pettamantavu’ spoken by Venkataramiah to Deepa with reference to affixing signature and ‘Aadavallanni nene chestanu’ spoken by Venkataramiah to Chalam with reference to interview.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the words ‘Nimailikosam kalisi veltanantundi’.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "In the dance sequence, replace bust movements and subsequent belly movements in the beginning of the dance, hitting on thighs, widening legs and striking in a vulgar manner, grinding front movements, and Deepa and Jyothi hinting against each other on chest at the end of song.",
+        "length_m": 11.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "In the lyrics of song No. 4, delete the words ‘Little more* ‘fix fix’ and ‘That’s right’, wherever occurring in song.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete close-ups of Deepa's breasts as Venkataramiah advances towards her in water and while Deepa pumps out water from Veentaraoain’s stomach.",
+        "length_m": 3.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the words ‘Udnaavanni baita vesukenni atuitu thirugatfmc the Tu’ spoken by Seeth to Venkatramaih.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Deepa and Mohan dashing their shoulders against words ‘Eevollu aavellu’.",
+        "length_m": 1.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the words ‘Paalu freega dorakutuvunte ee vedava vurukuntadu’.",
+        "length_m": 2.93
+      }
+    ]
+  },
+  {
+    "film_title": "Mugathil Mugam Parkalam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "S.G. Movies, Madras",
+    "cert_no": "M-11954",
+    "endorsement": "U",
+    "original_length_m": 3468.1,
+    "final_length_m": 3423.69,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete the shots of Jayanthi with indecently exposed breasts looking at the photograph.",
+        "length_m": 16.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the shot of the heroine massaging the breasts of Jayanthi, retaining only the shot of the photo being removed.",
+        "length_m": 6.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the shots of Prabhu hitting the goondas with his belt.",
+        "length_retained_m": 0.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the shots of the cabaret dancer on the top of the table.",
+        "length_m": 31.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the shot of Prabhu kicking the villain in the head.",
+        "length_retained_m": 0.01
+      }
+    ]
+  }
+]

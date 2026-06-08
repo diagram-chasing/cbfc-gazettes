@@ -1,0 +1,621 @@
+[
+  {
+    "film_title": "Verna Valamna",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "M.I. Films Combine",
+    "cert_no": "B/F - 1675",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Scene of dragging of Amra by men on the horse reduced by 50 to 60%.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "Applicant has inserted the dialogue: ARE AA RE TE DEVABHATA POTANA PUTRANE MARINE VERNA VALAMAN KARYA ARE KAYDA NA SARRNE TUAYA.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Dhat Tere Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 109252",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Cur Reel VI",
+        "description": "Radio shots from the song line deleted.",
+        "length_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Scene where Pittu is drinking and his brother tries to stop him and he put on tape-recorder.",
+        "length_m": 97.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Pittu gives drink to his brother and he drinks, Pittu moves out.",
+        "length_m": 41.15
+      }
+    ]
+  },
+  {
+    "film_title": "Bo- Aabroo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "A-Cert. No. 017",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Song length reduced.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Emblem of God Superimposed GIRDHAR ART INTERNATIONAL and quotation of Mahatma Gandhi.",
+        "length_m": 8.23
+      }
+    ]
+  },
+  {
+    "film_title": "Bhulekha",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1645",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue between boy and girl 'Ambanu Kab Bachaogi Chonch Mari Janiyo' deleted.",
+        "length_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue 'Men ki phada. Na tu agge lagdie te ne ugge lagne dendie' as spoken by Rangila to the girl deleted.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Words 'Chupja' replaced with 'Tak Ja', 'Ke Amiya To Ab Pag Gaye' replaced with 'Bauga Vich Pag Gaye', and 'Aaja Chupja' and its repetition replaced with 'Aaja Tak Ja'.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Fight between Moti and Pratap reduced, particularly Moti's hand against the tree deleted."
+      }
+    ]
+  },
+  {
+    "film_title": "Paakhandoe",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1656",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Visuals of people smoking charas reduced by about 30 to 40%.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Beating of child by villains reduced by about 30 to 40%.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV & XVI",
+        "description": "Fight of Kishore with villains and burning of houses reduced by about 30 to 40%.",
+        "length_m": 27.95
+      }
+    ]
+  },
+  {
+    "film_title": "Karate",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1713",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Shot of scientist being stabbed by Khan deleted.",
+        "length_m": 1.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Shot of Kadar Khan striking man with his sword and splashing of blood deleted.",
+        "length_m": 3.08
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Shots of Yogitabali hitting walls reduced.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8",
+        "description": "Fight between two girls and close shot of Prema's thighs deleted.",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Close shot of sword in Danny's hand deleted.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Shot of Khan stabbing Sydney in flashback reduced.",
+        "length_m": 2.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3, 5, 6",
+        "description": "Words 'Haramzada' and 'Kutiya' deleted (sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Commentary on Karate with sunrise in background deleted.",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Khan's dialogue 'search Jairaj' deleted.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Yogita & Mithun song deleted.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Debu's telephone fight deleted partly.",
+        "length_m": 3.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Karate song music deleted.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Khan's den atmosphere deleted.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Mithun and mother scene deleted partly.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Khan's plan to attack two brothers deleted.",
+        "length_m": 16.17
+      }
+    ]
+  },
+  {
+    "film_title": "Atyachar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1563",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Dialogue 'TUM INDIANS KUTTE KE TARAH HO' deleted.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Sampark",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1712",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Savithri",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1710",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Chutkibanr Scnur",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1714",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bade Dil Wala",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B / F - 1677",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Haadsaa",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "VA -Cert. No. 06",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot of girl's frock in a song deleted.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Visual of Maratha's bare legs shown when Seth Ratan utters 'MARATHA MANG UTHAO' deleted.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Close up of Mrs. Asha kissing Jai at his neck deleted.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of a girl at yoga centre showing only panty and buttocks deleted.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Molestation scene with Rambhi reduced considerably and fight sequence with Baldy reduced considerably.",
+        "length_m": 5.08
+      }
+    ]
+  },
+  {
+    "film_title": "Gandugali Rama",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "cert_no": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Visual of a man wrapping a rope around another man's neck deleted.",
+        "length_m": 3.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Visual of Anand's friend over Anand's wife near the bed deleted.",
+        "length_m": 2.16
+      }
+    ]
+  },
+  {
+    "film_title": "RangangalMaruva",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 2(a)",
+        "description": "Close shot of Rajkumar placing his hands on Sheela's hips reduced.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(b)",
+        "description": "Visual of Sheela placing her hand on Rajkumar's hips deleted.",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(c)",
+        "description": "Visual of Sheela bending her legs while lying on the floor deleted.",
+        "length_m": 3.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(a)",
+        "description": "Visual of a man chasing and trying to molest Sheela before Rajkumar comes deleted.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Visual of Rajkumar's face being pressed against Sheela's breasts during fight deleted.",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(c)",
+        "description": "Intercut shot of Sheela in red dress trying to molest deleted.",
+        "length_m": 3.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3(a)",
+        "description": "Intercut shot of Rajkumar kissing the girl deleted.",
+        "length_m": 0.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3(b)",
+        "description": "Kapali's dialogue 'Idhu velaiyile theriyadhu' deleted.",
+        "length_m": 3.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Selvam's dialogue 'Vanga ishtam' deleted.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Selvam's dialogue to Meena's father 'Sizai kotta solluvan' deleted.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Rape scene: all visuals after Rajkumar pushes Radha to bed, retaining only gatekeeper closing the gate, until Rajkumar asks Radha to get up from the bed deleted.",
+        "length_m": 11.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Kapali's dialogue 'Ennalaana udavi soyya oppavum thayara irukken' deleted.",
+        "length_m": 3.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Radha's acting on the line 'Lossa noovittu poosu' replaced with close shot of Rajkumar and Radha sitting.",
+        "length_m": 2.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Visuals of Radha and Rajkumar rolling in imaginary sequence deleted.",
+        "length_m": 2.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Visual of Rajkumar pressing his face against Radha's breasts during the song 'Thamaralaagum' deleted.",
+        "length_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Radha's mother's dialogue to Radha 'Unnaina asam pannuvadhukku alla' deleted.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Praja Rajyam",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Shot of Gopi pressing Radha's hips and buttocks in the song sequence deleted.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Shot of Gopi and Radha rocking one behind the other in the song sequence deleted.",
+        "length_m": 2.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of girl lifting her legs while lying on the floor deleted.",
+        "length_m": 1.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of woman holding man's hips and shaking her hips, and woman shaking her hips deleted.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of a man with his head near the woman's navel while they are lying down deleted.",
+        "length_m": 1.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of a woman caressing the navel of the woman deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of man keeping his hand near the woman's navel and keeping his head near the woman's stomach deleted.",
+        "length_m": 10.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Man and woman on the grass moving forward with their legs apart until they stand up deleted.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Prem shot of dancers clinging to each other deleted.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Close shot of dancer's hips and breasts deleted.",
+        "length_m": 3.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Shots in the cabaret dance sequence deleted.",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Yuddham",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Visual of Vinod's wife's facial expression while she is being strangled deleted.",
+        "length_m": 1.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Sequence showing the torture of Esthappan by focusing light on his face reduced by 40%.",
+        "length_m": 1.67
+      }
+    ]
+  },
+  {
+    "film_title": "Ashtapadi",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "UA",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Struggle between Unni Nambudiri and Radha on the temple floor in the rape sequence deleted.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Satchi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 8 & 13",
+        "description": "The word 'Pudungi' in the constables' dialogue deleted wherever it occurs in the film.",
+        "length_m": 6.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Villain holding the dancer by her thighs replaced with extended previous shot.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Shot of Mottai holding the dancer by her breasts replaced with close-shot of Mottai.",
+        "length_m": 0.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Shot of dancer sitting on man's shoulder with her legs on either side of his neck replaced with close-shot of Mottai & Guru.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Shot of villain caressing the dancer's navel replaced with close, mid-shot of Guru.",
+        "length_m": 0.92
+      }
+    ]
+  }
+]

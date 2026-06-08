@@ -1,0 +1,721 @@
+[
+  {
+    "film_title": "Shark's Cave",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Finance Corporation, Regent Chambers, Nariman Point, Bombay-21.",
+    "cert_no": "90425",
+    "cert_date": "23-6-79",
+    "endorsement": "U",
+    "original_length_m": 2461.87,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Scene of Andres and Angelica kissing reduced.",
+        "length_m": 0.93,
+        "length_retained_m": 0.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "In the bed scene, shots of Andres caressing thighs reduced.",
+        "length_m": 2.6,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Close shots of hard knocks in the fight between Andres and Jackson and his agents deleted.",
+        "length_m": 6.19
+      }
+    ]
+  },
+  {
+    "film_title": "Stingray",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Finance Corporation, Regent Chambers, Nariman Point, Bombay-21.",
+    "cert_no": "4540",
+    "cert_date": "23-6-79",
+    "endorsement": "A",
+    "original_length_m": 2732.23,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Killing of cops reduced to a suggestion.",
+        "length_m": 0.83,
+        "length_retained_m": 0.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots in which wine is poured in the trousers of a man and set to fire with gas lighter by Abee deleted.",
+        "length_m": 6.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Scene showing Tony in pool of blood reduced.",
+        "length_m": 3.57,
+        "length_retained_m": 1.66
+      }
+    ]
+  },
+  {
+    "film_title": "Energy Goes Lemoney",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "cert_no": "90034",
+    "cert_date": "4-4-1979",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Drinking shot and pack shot added.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Khandaan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "90424",
+    "cert_date": "20-6-1979",
+    "endorsement": "U",
+    "original_length_m": 4050.15,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Title shots deleted.",
+        "length_m": 6.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "'Bhoot' scene trimmed and music piece of song 'Basti Ke Logon Mein Hu Badnam' deleted.",
+        "length_m": 10.32
+      }
+    ]
+  },
+  {
+    "film_title": "Guru Ho Jaa Shuru",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "90404",
+    "cert_date": "17-5-1979",
+    "endorsement": "U",
+    "original_length_m": 4068.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots of Salma talking to a man deleted.",
+        "length_m": 8.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogues between Gidku and Shera deleted.",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of fight of Suraj and Ranjeet deleted.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Passings of Kumar, Ranjeet in mask & D'costi deleted.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Last line of heroine’s song ‘Aur Kijiye' deleted.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Passings of Kumar H D'costa after snake trd rts.srg (1 Shekhar and Rajesh on motor cycle deleted.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Fight shots between Suraj, Maechal and goondas and tiger deleted.",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Passings of Suraj, Tiger, Maechal and Snake deleted.",
+        "length_m": 10.54
+      }
+    ]
+  },
+  {
+    "film_title": "Red Light (Lisbon Connection)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "4542",
+    "cert_date": "7-7-1979",
+    "endorsement": "A",
+    "original_length_m": 2716.68,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Scene of Enrique's fight with two gangsters considerably reduced.",
+        "length_m": 11.21,
+        "length_retained_m": 8.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Fight between Enrique and gangsters considerably reduced.",
+        "length_m": 25.88,
+        "length_retained_m": 20.5
+      }
+    ]
+  },
+  {
+    "film_title": "Vetagadu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "81112",
+    "cert_date": "6-7-1979",
+    "endorsement": "U",
+    "original_length_m": 4436.95,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dialogues of Raja deleted.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Devathai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "81122",
+    "cert_date": "7-7-1979",
+    "endorsement": "U",
+    "original_length_m": 3977.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Two shots of Kalimuthu thrusting his hand in the backside of Deivanai’s blouse in the bedroom deleted.",
+        "length_m": 0.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Two shots of Kalimuthu thrusting his hand in the backside of Deivanai’s blouse in the bedroom deleted.",
+        "length_m": 0.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Three close-up shots of Kalimuthu’s and Deivanai’s legs rubbing each other deleted.",
+        "length_m": 3.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shot of petromax light being pumped, along with sounds ‘Thallu, Thallu’, in the beginning of song No. 5 deleted.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shot of petromax light being pumped, along with sounds ‘Thallu, Thallu’, in the beginning of song No. 5 deleted.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Close-up shots of Deivanai's breasts being shown when she is rescuing Velayudam out of the well reduced.",
+        "length_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "Imayam",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "81107",
+    "cert_date": "28-6-1979",
+    "endorsement": "U",
+    "original_length_m": 4159.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Visuals of Krishan in song sequence, lifting leg of Stodhu and pressing her thigh deleted.",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "All shots of Sindhu peeping through the key-hole and her reacting, excepting shot of Sindhu after light in bedroom is put out deleted.",
+        "length_m": 13.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Visuals and dialogues of Valgai throwing his legs over Coovoam in bedroom deleted.",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Words of Sindhu to Krishna ‘Appa Namakku Thunikkooda theyavillai’ deleted.",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Words of Coo vam ‘Ava Kanni’ referring to Valgai in disguise deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "All shots of Vaigai stripping after he says ‘I will prove it.’ deleted.",
+        "length_m": 3.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Shots of Sindhu undressing after the words 'Vango please' upto Krishna advancing towards her deleted.",
+        "length_m": 3.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "All shots of Sindhu in state of undressing retaining only shot of Kauveri putting the pallu and taking her to the car deleted.",
+        "length_m": 3.09
+      }
+    ]
+  },
+  {
+    "film_title": "Viiayam Namude Se nanl",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "81108",
+    "cert_date": "28-6-1979",
+    "endorsement": "U",
+    "original_length_m": 3830.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dancer’s movements on the ground and the fat man touching her bare thigh deleted.",
+        "length_m": 4.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dancer's movements on the ground (second time) and a customer seated on the ground touching her bare thigh deleted.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Boy sitting on eggs and breaking them and the egg contents flowing down through his pant deleted.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Landlord (fatman) being yoked to a bullock cart by the villagers and his pulling the cart deleted.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Dragging of Salma's mother reduced to a suggestion (Only two shots to be retained).",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Bandit’s sadistic laughter where Salma’s mother is being whipped deleted.",
+        "length_m": 1.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Salma's mother being whipped by the bandits in the den reduced to a suggestion (Retaining only two shots).",
+        "length_m": 1.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "14 & 15",
+        "description": "Fight between Prakash, Rajan and Salma reduced, deleting all direct hits, kicks on the face, chin, groin etc.",
+        "length_m": 13.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "14 & 15",
+        "description": "Prakash's face dashing against the cactus along with his scream deleted.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Aadu Pambe",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "81110",
+    "cert_date": "29-6-1979",
+    "endorsement": "U",
+    "original_length_m": 3950.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dialogue ‘Noe Ella Tdathayum Kaatu’ deleted.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Dialogue of Nagalingam with 2 small pots in both his hands asking Kaveri to give both the pots deleted. Dialogue of his friend 'Adhu Summivey Koduthidum’ deleted.",
+        "length_m": 5.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Sequences showing attempted rape of Poongodl reduced to the minimum.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Breast jerks of the female disciple of Sangilinnnda at the end of the second verse deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Words and lines in song-4 deleted wherever they occur: ‘Ganga theertham. Adlyar Kavalai Theerkum., Adiyen Deham, Adlyarkal Yogam, ‘Aanandan Bogum’.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Sequence showing the attempted rape of Kaveri reduced.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Anbu Vazhi",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "80925",
+    "cert_date": "30-6-1979",
+    "endorsement": "U",
+    "original_length_m": 3929.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Visuals of Krishan in song sequence, lifting leg of Stodhu and pressing her thigh deleted.",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "All shots of Sindhu peeping through the key-hole and her reacting, excepting shot of Sindhu after light in bedroom is put out deleted.",
+        "length_m": 13.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Visuals and dialogues of Valgai throwing his legs over Coovoam in bedroom deleted.",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Words of Sindhu to Krishna ‘Appa Namakku Thunikkooda theyavillai’ deleted.",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Words of Coo vam ‘Ava Kanni’ referring to Valgai in disguise deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "All shots of Vaigai stripping after he says ‘I will prove it.’ deleted.",
+        "length_m": 3.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Shots of Sindhu undressing after the words 'Vango please' upto Krishna advancing towards her deleted.",
+        "length_m": 3.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "All shots of Sindhu in state of undressing retaining only shot of Kauveri putting the pallu and taking her to the car deleted.",
+        "length_m": 3.09
+      }
+    ]
+  },
+  {
+    "film_title": "Khoon Ki Holi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "81095",
+    "cert_date": "25-6-1979",
+    "endorsement": "U",
+    "original_length_m": 89.92,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Suggestion of kiss between Bindu and Sujit Kumar deleted.",
+        "length_m": 0.87
+      }
+    ]
+  },
+  {
+    "film_title": "Khandaan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "90424",
+    "cert_date": "20-6-1979",
+    "endorsement": "U",
+    "original_length_m": 4015.13,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Title shots deleted.",
+        "length_m": 6.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "'Bhoot' scene trimmed and music piece of song ‘Basti ke Logon Mein Hu Badnam’ deleted.",
+        "length_m": 10.32
+      }
+    ]
+  },
+  {
+    "film_title": "Jamboree Janborec",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "cert_no": "89988",
+    "cert_date": "30-3-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Vetagadu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "81112",
+    "cert_date": "6-7-1979",
+    "endorsement": "U",
+    "original_length_m": 4436.95,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dialogues of Raja deleted.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Thakara",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "3656",
+    "cert_date": "6-7-1979",
+    "endorsement": "A",
+    "original_length_m": 3215.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Words ‘Kunti yetra kolam kantu, kolam etra etra kunti kantu' deleted.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Devathai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "81122",
+    "cert_date": "7-7-1979",
+    "endorsement": "U",
+    "original_length_m": 3977.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Two shots of Kalimuthu thrusting his hand in the backside of Deivanai’s blouse in the bedroom deleted.",
+        "length_m": 0.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Two shots of Kalimuthu thrusting his hand in the backside of Deivanai’s blouse in the bedroom deleted.",
+        "length_m": 0.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Three close-up shots of Kalimuthu’s and Deivanai’s legs rubbing each other deleted.",
+        "length_m": 3.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shot of petromax light being pumped, along with sounds ‘Thallu, Thallu’, in the beginning of song No. 5 deleted.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shot of petromax light being pumped, along with sounds ‘Thallu, Thallu’, in the beginning of song No. 5 deleted.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Close-up shots of Deivanai's breasts being shown when she is rescuing Velayudam out of the well reduced.",
+        "length_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "Karate Kamala",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "81104",
+    "cert_date": "26-6-1979",
+    "endorsement": "U",
+    "original_length_m": 3823.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Close-ups of bust cleavage of Nandini in water deleted.",
+        "length_m": 4.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Words of comedian ‘Vadu anubavinchndu mana kanlumudare’ deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Words ‘Oke Oka macha, Aa macha ekkada unthi’ spoken by the madam deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Words ‘Pandu vennello Pakkalo padukovalalna kanne pilla’ spoken by henchmen of villain deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Words ‘OIIu Ollu’ from text of song No. 3 deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Words ‘Daaniki Deenikl erpatu chcyinchu’ deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Words ‘Mathamekki nilli chavante’ from text of song 4 deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Words of comedian: ‘Letakkane cheyyi thoorchestavu’ deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Words of comedian: ‘Ekkandi’ deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Words ‘Mama, karratho podusthunnadu’ spoken by comedian deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Words ‘anbavinchu thripthiga’ deleted.",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

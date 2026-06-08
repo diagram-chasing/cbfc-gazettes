@@ -1,0 +1,160 @@
+[
+  {
+    "film_title": "Aadha Din Aadlice Raat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M . P . Mallikharjuna Rao , 5 , Sunbeam Peddar Road , Bombay - 26 .",
+    "cert_no": "B /83209",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From the dialogue of Sikander to Razia, delete the last repetition of the words “Aaj doongi, Kal doongi, Na Jaane kab degi\"",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Daku Aur Mahatma",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M /s Radha Mohan Arts. 8 - A V Nagar Society , 10th Road, Juhu , Bombay- 56 .",
+    "cert_no": "B /83328",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the vulgar gestures of the dancers particularly close shots of shaking of breasts by the dancers",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Daku Aur Mahatma (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mrs. Pari AV Mohan Ashirwad, 8 - A Vithal Nagar , 10th Road , Juhu Bombay- 56 .",
+    "cert_no": "B /82963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the vulgar gestures of the dancers particularly close shots of shaking of breasts by the dancers",
+        "length_m": 8.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the reference to “ Anguthi ” and “ Angithi\"",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted voluntarily the views of tri-colour on Sri Lanka",
+        "length_m": 7.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV, XII, XV",
+        "description": "Deleted voluntarily various shots",
+        "length_m": 12.93
+      }
+    ]
+  },
+  {
+    "film_title": "Aval Oru Athiyayam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Shri B . V . Srinivasan , Madras.",
+    "cert_no": "M /10954",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Modify the picturisation in the song following the words “ Ennai thaangudi” where the hero is shown as lying on the heroine, in the dream sequence.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the following words from the song : “ Poovai konjam killamal, . . . to “ Thankani Charum \" (Sound only-replacod “ Poovai kanjam kaatraga Dovan Kaigal . . . . . . Pooviliyal Alakkattum \" )",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Delete the following words from the song \" Ottihkayai. . . . Vil angattume\" (Sound only replaced \" Onnalagai. .., Poondenai VadikkKatume)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Gandharvam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri A . Raghvan , Madras.",
+    "cert_no": "M /10907",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "From the text of song 2 beginning with the words \" Indra Chapam \" , delete from the second stanza , third and fourth lines reading \" Thottaludayien Chippikalilo Muthum Pavizhamum Ninakku Mathram Nce , (Sound only replaced instrumental music only )",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "From the third stanza , third , fourth and fifth lines reading \" Munnil vidarunee - nagnapushpathil nira ykku niraykku somarasam deva Nirakku Nirakku şomarasam , (Sound only- replacod instrumental music )",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce to bare minimum, Menon whipping his daughter and his wife",
+        "length_m": 1.76,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "10 & 11",
+        "description": "Reduce to bare suggestion, attempted rape of Leela by the estate owner",
+        "length_m": 5.2,
+        "length_retained_m": 11.28
+      }
+    ]
+  },
+  {
+    "film_title": "Pattalam Janaki",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Ross Movies , Madras .",
+    "cert_no": "M /10974",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Venu kissing Rekha on her neck",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Rekha lying flat on Venu on the ground",
+        "length_m": 4.88
+      }
+    ]
+  }
+]

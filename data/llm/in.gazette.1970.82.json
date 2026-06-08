@@ -1,0 +1,654 @@
+[
+  {
+    "film_title": "Farishta",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "55299",
+    "cert_date": "30-10-68",
+    "original_length_m": 3890.16,
+    "length_deleted_m": 27.43,
+    "final_length_m": 3862.73,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the drunken behaviour of Ajay in the wedding night sequence, particularly deleting from the point he throws Renu on bed and forcibly pours drink down her throat, and his drunken behaviour, inclusive of the dialogue— “Har bada aadmi sharab peeta hai, koi chup ke aur koi sab ka saamne”.",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Delete Renu repeatedly hitting Jagdish on the head with a stone, retaining only a suggestion of a single blow.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Blow Up'",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "55300",
+    "cert_date": "2-11-68",
+    "original_length_m": 58.21,
+    "length_deleted_m": 11.02,
+    "final_length_m": 47.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete all shots projecting partly nude girls and girls with bare back.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shots of a semi-nude woman and a man in bed as seen by Thomas.",
+        "length_m": 10.0
+      }
+    ]
+  },
+  {
+    "film_title": "The appearance of the normal and diseased larynx",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "55295",
+    "cert_date": "30-10-68",
+    "original_length_m": 165.81,
+    "final_length_m": 164.59,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the caption “Sponsored by Glaxo Lab. Ltd.\"",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Garh Nasimpur",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "53272",
+    "cert_date": "30-10-68",
+    "original_length_m": 3962.0,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 8 (i)",
+        "description": "Delete close physical proximities between Uttara and Debikanta as shown in the picturisation of the song on the boat — Debikanta resting his head on the bosem of Uttara.",
+        "length_m": 4.32,
+        "length_retained_m": 4.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8 (ii)",
+        "description": "Delete Uttara leaning closely on Debikanta and Debikanta pressing his right bosem on Uttara’s left bosom.",
+        "length_m": 3.0,
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Impossible Years",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "55608",
+    "cert_date": "7-11-68",
+    "original_length_m": 79.55,
+    "length_deleted_m": 5.45,
+    "final_length_m": 74.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shots of nude portrait of Linda.",
+        "length_m": 1.6
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce near views of girls in bikini.",
+        "length_m": 2.09,
+        "length_retained_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of Linda and Freddy rolling up and down on the couch kissing, etc.",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of kissing.",
+        "length_m": 0.64
+      }
+    ]
+  },
+  {
+    "film_title": "VAASNA",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "cert_no": "55640",
+    "cert_date": "12-11-68",
+    "original_length_m": 3862.97,
+    "length_deleted_m": 1.16,
+    "final_length_m": 3861.81,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the shot ill which the compounder sitting bclc w the tabic looks at the feet of the girl in frock, Ommit-ting the portion in which he gazes into the skirt of the girl.",
+        "length_m": 1.16
+      }
+    ]
+  },
+  {
+    "film_title": "TERI TALAASH MEIN",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "55645",
+    "cert_date": "13-11-68",
+    "original_length_m": 3884.69,
+    "length_deleted_m": 8.52,
+    "final_length_m": 3881.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the reference to Hotel Natraj, in the context of it being a meeting place of criminal character.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "From the song sequence ‘Aye sanam tere talash me’, delete the shot showing Ramesh opening lips to kiss Rita.",
+        "length_m": 1.52,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "From the song sequence \"Raaz-e-dil hum se kaho”, delete the suggestion of kissing by Ramesh to Nilama leans on his chest, as also in their scene preceding the soDg.",
+        "length_m": 3.0,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete the shot showing barelegs of the girl, following her view in the bath tub.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete facial expression of Johnny as he refers to Rem Bhskta Hanuman (There is no objection to the reference boingretained)",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII (a)",
+        "description": "Reduce to once only the views of the international crook, revealing his disfiguicd face.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII (b)",
+        "description": "Delete the sound of kissing as Ramesh holds Mala in his arms.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Stay Away Joe",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "55713",
+    "cert_date": "20-11-68",
+    "original_length_m": 2802.34,
+    "length_deleted_m": 10.67,
+    "final_length_m": 2791.67,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V(3A)",
+        "description": "Reduce the scene of love-making between Joe and Mamie.",
+        "length_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Stay Away Joe",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "55714",
+    "cert_date": "20-11-68",
+    "original_length_m": 39.92,
+    "length_deleted_m": 2.13,
+    "final_length_m": 37.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Mamie jumping over Joe and kissing him.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Kismat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "55766",
+    "cert_date": "5-12-68",
+    "original_length_m": 3988,
+    "length_deleted_m": 13.7,
+    "final_length_m": 3974.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the close shots of the thighs of Patanga.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the shots where Pratap tickles Patanga with his fingers from neck to the arm.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Reduce the torture of Pratap by repeated pounding on the wheel by a hammer.",
+        "length_m": 3.96,
+        "length_retained_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the following dialogue as spoken by Pratap: 'Mere honth, eenhonthon ki sharab peena Chahatc hain.’",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "The Hell With Heroes",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "55782",
+    "cert_date": "7-12-68",
+    "original_length_m": 62.79,
+    "length_deleted_m": 2.69,
+    "final_length_m": 60.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the scene showing Gabrieli and Buck together in bed.",
+        "length_m": 2.69
+      }
+    ]
+  },
+  {
+    "film_title": "Journey To Shiloh",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "55784",
+    "cert_date": "7-12-68",
+    "original_length_m": 2850.18,
+    "length_deleted_m": 39.09,
+    "final_length_m": 2811.09,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V(A)",
+        "description": "Delete the prominent view of the cabaret dancer in scanty clothes.",
+        "length_m": 6.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI(B)",
+        "description": "Reduce considerably the scene showing Gabrielle and Buck in bed, together.",
+        "length_m": 33.05,
+        "length_retained_m": 13.71
+      }
+    ]
+  },
+  {
+    "film_title": "Har Har Gange",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "55785",
+    "cert_date": "7-12-68",
+    "original_length_m": 3992.88,
+    "length_deleted_m": 4.88,
+    "final_length_m": 3988.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the words ‘Kshama kar deejiye pitaji main zara us dhyan use thi\", as spoken by Nandini in her scene with her father, along with her gesture denoting a child.",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "The Human Duplicators",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "55771",
+    "cert_date": "5-12-68",
+    "original_length_m": 204.82,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man lying with his head on the belly of a woman clad in bikini.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the intimate scene between Liza und Laurent in bed and her talk about having a child.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the intimate scene between the Doctor and Liza’s neighbour when they are in bed together.",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of The Human Duplicators",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "55773",
+    "cert_date": "6-12-68",
+    "original_length_m": 65.83,
+    "length_deleted_m": 4.26,
+    "final_length_m": 61.57,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the words ‘I am not a public utility which you can switch off with a note spoken by Carol",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the statue showing human figures in close physical embrace against a card reading' “Flick that legalises happiness”.",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "BULLITT",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "2343",
+    "cert_date": "17-12-68",
+    "original_length_m": 3113.83,
+    "length_deleted_m": 8.35,
+    "final_length_m": 3090.55,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce the scene showing forced love-making on bed by a marauder with a lady in low cut dress. Delete the shot showing his falling over her bofore the curtain is drawn.",
+        "length_m": 3.6,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce the shot of a man caressing a woman then kissing and hugging her passionately before they go behind the curtain.",
+        "length_m": 2.92,
+        "length_retained_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the rough and passionate handling and kissing of Joanne by Blue on the sand.",
+        "length_m": 1.83,
+        "length_retained_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "Blow Up",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "2338",
+    "cert_date": "5-12-68",
+    "original_length_m": 3022.4,
+    "length_deleted_m": 16.87,
+    "final_length_m": 3005.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII(AA)",
+        "description": "Delete front views showing the bare breast of Jane as she undressess herself in front of Thomas, his caressing her her moving about in the room, etc, (Wherever the breasts are visible)",
+        "length_m": 13.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (AB)",
+        "description": "Delete front views of the two girls in Thomas’ studio wherever their bare bosom is seen",
+        "length_m": 3.87
+      }
+    ]
+  },
+  {
+    "film_title": "Sunghursh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "55049",
+    "cert_date": "19-9-68",
+    "original_length_m": 5137.42,
+    "length_deleted_m": 285.3,
+    "final_length_m": 4852.12,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted Munni’s song 'Chedo na di! baat’",
+        "length_m": 135.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted scene between Munni (in bridal dress) Ganeshi, Nisar and Pathan, commencing with Ganeshi's dialogue — ‘Laila, taubah, iss libass mein turn * and ending with exit of Ganeshi and Pathan.",
+        "length_m": 97.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIX",
+        "description": "Deleted scene starting with Sapera and cobra, showing fight between cobra and mongoose, witnessed by Ganeshi, Mutiny, Lata and Kundan, ending wilh Ganeshi’s dialogue 'Jaanta hoon.",
+        "length_m": 51.82
+      }
+    ]
+  },
+  {
+    "film_title": "Aabroo",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "cert_no": "55215",
+    "cert_date": "10-10-68",
+    "original_length_m": 4783.24,
+    "length_deleted_m": 110.03,
+    "final_length_m": 4673.21,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, IV, V, X, XI, XII, & XIV",
+        "description": "Deleted various shots",
+        "length_m": 110.03
+      }
+    ]
+  },
+  {
+    "film_title": "Vaasna",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "cert_no": "55640",
+    "cert_date": "12-11-68",
+    "original_length_m": 3861.81,
+    "length_deleted_m": 0,
+    "final_length_m": 3887.72,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reels X & XIV",
+        "description": "Added various approved shots",
+        "length_m": 25.91,
+        "length_retained_m": 25.91
+      }
+    ]
+  },
+  {
+    "film_title": "Goadalli C. I. D. 999",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "53684",
+    "cert_date": "18-11-68",
+    "original_length_m": 3962.4,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Delete references to Kashmir and Sheikh Abdullah",
+        "length_m": 36.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Delete Madhu’s reference to Tndia going to Russia",
+        "length_m": 18.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Delete the sequence showing the picking up of nose screw by applying u r ax to stick",
+        "length_m": 12.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Delete Nair’s reference to “Tamil” girls.",
+        "length_m": 0.58,
+        "length_retained_m": 0.56
+      }
+    ]
+  },
+  {
+    "film_title": "Chakkaram",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "53688",
+    "cert_date": "22-11-68",
+    "original_length_m": 3938.0,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel A",
+        "description": "Delete Babu and Mala in intimte terms in the cinema scene and picturisation of the lines 11 & 12 and 15 & 16 in song 2.",
+        "length_m": 6.09,
+        "length_retained_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "Bhayankar Bhadachor",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "55418",
+    "cert_date": "20-12-68",
+    "original_length_m": 4166.6,
+    "length_deleted_m": 33.5,
+    "final_length_m": 4133.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the sequence of the boy touching the bulb",
+        "length_m": 33.5
+      }
+    ]
+  },
+  {
+    "film_title": "Anbalippu",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "55432",
+    "cert_date": "27-12-68",
+    "original_length_m": 4321.05,
+    "length_deleted_m": 4.85,
+    "final_length_m": 4316.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the view of Chandra's emphasised bust.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Raja’s and Meena’s lips coming closer.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete Vanaja's prominent bust views in the dance.",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "Chal Baaz",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "56009",
+    "cert_date": "28-12-68",
+    "original_length_m": 88.7,
+    "length_deleted_m": 3.35,
+    "final_length_m": 85.45,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce the impact of violence in the beginning of the trailer. Omit prominent views of strangling of a man.",
+        "length_m": 3.35,
+        "length_retained_m": 3.66
+      }
+    ]
+  }
+]

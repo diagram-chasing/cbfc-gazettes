@@ -1,0 +1,183 @@
+[
+  {
+    "film_title": "Sinhasan",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Shri D.V. Rao, 201 Kalpita, Sahar Jabbar Patel Road, Andheri West, Bombay-69",
+    "cert_no": "91948",
+    "cert_date": "31-12-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the sentence 'Suralya karoon ghala' from the dialogue.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the expression 'Randsali'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI & XIII",
+        "description": "Delete the abusive words 'Bhosadicha' and 'Bhadavya' wherever they appear.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The In-Laws",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros (F.E.) Inc; 42-M Karyo Marg, Bombay-20",
+    "cert_no": "91949",
+    "cert_date": "02-01-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce shots showing the nude large size photograph of the lady to the barest minimum for continuity.",
+        "length_m": 26.21,
+        "length_retained_m": 2789.53
+      }
+    ]
+  },
+  {
+    "film_title": "Anjaam",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "86732",
+    "cert_date": "13-02-1978",
+    "endorsement": "U",
+    "original_length_m": 3406.75,
+    "length_deleted_m": 267.96,
+    "final_length_m": 3406.75,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete hunting song in the beginning with atmospheric shots.",
+        "length_m": 118.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the complete song beginning with 'Jano Man Chhod kar Apni Sharmo Haya' and ending with 'Aiso Aiso Adayen, Dikhayoongoc Hum', along with scenes before and after the song.",
+        "length_m": 149.96
+      }
+    ]
+  },
+  {
+    "film_title": "Maniyar",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "91454",
+    "cert_date": "10-01-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, VII, X, & XII",
+        "description": "Delete all sequences where the eunuch appears with the comedian and his flunkey.",
+        "length_m": 396.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Add comedian's request to his father-in-law about marrying his daughter.",
+        "length_m": 313.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Add scene of the comedian's marriage to his fiancée.",
+        "length_m": 119.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Add comedian approaching his friend Baharoopia to help him escape from the cell.",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Add scene where comedian, his fiancée, and his friend Baburoopia go to Khandar and perform a play for the soldiers.",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Add scene where comedian and his wife visit a temple for wish fulfillment.",
+        "length_m": 58.2
+      }
+    ]
+  },
+  {
+    "film_title": "Jagi Bhag Hamar",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "cert_no": "91955",
+    "cert_date": "10-01-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Drastically reduce the rape sequence, particularly shots after Moti falls on Sono until her eye falls on her ring.",
+        "length_m": 13.06,
+        "length_retained_m": 7.5
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Death Dimension",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "92721",
+    "cert_date": "10-01-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete entirely the shot in which a hand uncovers the transparent screen revealing Kelly's girl friend with bare bosom screaming (main title appears on this shot).",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot in which a henchman of Pig attacks another man with a lethal ring worn in his finger with a scream.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot(s) in which a man with semi-nude girls around him is seen in a swimming pool.",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot in which Pig's henchman frightens a Felicia with a turtle and her scream.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot in which Kelly bashes a goonda on the tree trunk.",
+        "length_m": 1.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot in which Kelly pushes the henchman and the latter falls down the cliff.",
+        "length_m": 11.61
+      }
+    ]
+  }
+]

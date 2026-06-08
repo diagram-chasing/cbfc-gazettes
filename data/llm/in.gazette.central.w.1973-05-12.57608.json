@@ -1,0 +1,41 @@
+[
+  {
+    "film_title": "Kunku Mazho Bhagyaache",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "B /65070",
+    "original_length_m": 4083.88,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Delete the view of the dancer bending forward from the repetition of the word 'Kaul' and the subsequent visuals on the repetition of the line 'Dete Padar Dava Kau'.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the view of the dancer bending backward, particularly deleting the visuals on the words 'Uthala thaşa'.",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "Creatures The World Forgot",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2672.49,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II-A",
+        "description": "Delete the shot in which the soverlag of the head of a man is shown.",
+        "length_m": 2.74
+      }
+    ]
+  }
+]

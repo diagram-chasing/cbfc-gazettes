@@ -1,0 +1,661 @@
+[
+  {
+    "film_title": "Dada",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "48533",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of two girls in bathing costume edging towards each other near the swimming pool",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Replaced with approved shot",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Teesri Kasam",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "48537",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted sound of Ramayana music in the background when the bhagat sees the foot of the heroine and folds his hands",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III & IV",
+        "description": "Deleted various shots",
+        "length_m": 88.38
+      }
+    ]
+  },
+  {
+    "film_title": "The Moving Target",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "48538",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Harper putting off light along with his suggestive remark addressed to Miranda: 'Don’t you ever relax'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Harper putting off light suggestively with Miranda moving away from the couch",
+        "length_m": 1.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near views of Miranda in bikini wiggling hips",
+        "length_m": 2.55
+      }
+    ]
+  },
+  {
+    "film_title": "Our Man Flint",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "48539",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of outlines of nude girls dancing",
+        "length_m": 5.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a semi-nude girl lying on her stomach",
+        "length_m": 2.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Prolonged embracing and kissing between a girl and Flint before the titles 'Censored Absolutely' appear",
+        "length_m": 2.43,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of three near nude girls walking away from the camera",
+        "length_m": 1.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Gina's dialogue 'My sole purpose in life is to give pleasure to my companions'",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Minimum shots of girls with exposed busts surrounding Flint and one of them leaning over to kiss him",
+        "length_m": 1.67,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "DADA",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "48547",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot showing drunken D’souza feeling the lower portion of a donkey’s body",
+        "length_m": 1.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Words 'damned fool lady'",
+        "length_m": 0.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Picturisation of the song beginning with the words: ‘Do nain haay do naain’ including: (a) shot of a girl in swimming costume with emphasised bust passing by; (b) suggestion of kissing between the hero and the princess when the girl dressed as a boy intervenes; (c) shot of the girl dressed as a boy falling on the princess by the side of the pool; (d) panning shot of the bare legs and thighs of a girl lying in the float; (e) front views of the girl dressed as a boy dancing indecorously; and (f) shot of the princess and the girl dressed as a boy edging sideways by the side of the pool",
+        "length_m": 10.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replaced with approved shots",
+        "length_m": 10.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Drastically reduce the shots of Ramesh gazing through the bathroom ventilator when the valet (a girl dressed as a boy) is changing the bush shirt. Reduce the shots of the girl with her bra in the bathroom, whilst changing",
+        "length_m": 3.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Words ‘Jaise ander kuchh chhupa rakha bai. Bol, kya chhupa rakha hai ?’, when Ramesh pulls at the bush-coat worn by the girl dressed as a valet",
+        "length_m": 1.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Underlined word from the following sentence spoken by the merchant: 'Gharib ko bhi izzat hove chhe, voh hum koaaj malum huva'",
+        "length_m": 0.68
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Replaced with approved words",
+        "length_m": 0.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Considerably reduce shots of fighting with electric wires, deleting all shots of the lighted bulb and the wires being tested; retaining only one shot each for the purpose of continuity",
+        "length_m": 7.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduce the shot of blood-stained face of Hiralal",
+        "length_m": 0.49
+      }
+    ]
+  },
+  {
+    "film_title": "Goldfinger",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "1816",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Prominent views of scantily clad cabaret dancer along with shots of her indecorous bust movements",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Back view of the girl in nude as she gets up from the bath-tub along with shots of her bare waist",
+        "length_m": 3.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of the bare bust and midriff of a girl over which titles are superimposed, as also shot of a reclining nude girl with her thighs raised",
+        "length_m": 23.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Bond’s remark addressed to a girl managing him: '...a little lover down...'",
+        "length_m": 0.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Flash shots of Bond lying in bed with a blonde in which her bare thighs are prominently seen",
+        "length_m": 7.43,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce to a flash shot of the blonde lying dead with the gold paint all over her bare body",
+        "length_m": 1.21,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots of Bond passionately kissing Pussy Gallore in the hay stack",
+        "length_m": 2.43,
+        "length_retained_m": 1.02
+      }
+    ]
+  },
+  {
+    "film_title": "The Conquest of Mycenae",
+    "languages": [
+      "English"
+    ],
+    "format": "Europcope",
+    "cert_no": "48567",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of Moloch clawing a girl and the view of nail marks on the girl's face",
+        "length_m": 3.68,
+        "length_retained_m": 1.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of dead bodies and delete the views of dead men—One with a fixed eye and the other in a cart",
+        "length_m": 9.02,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Fighting scene by deleting vicious blows on the face",
+        "length_m": 1.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the dialogue of Penteo to the queen, the impression that the queen and Hercules were lovers",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Views of dead bodies in Moloch’s Cave",
+        "length_m": 6.98,
+        "length_retained_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Near views of Hercules strangulating his opponent, keeping only the minimum necessary for the sake of continuity",
+        "length_m": 3.8,
+        "length_retained_m": 0.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels VIII, IX, X & XI",
+        "description": "All direct thrusts by spears, swords, knives, etc., from fighting scenes",
+        "length_m": 45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Screams of a soldier before dying",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "All near views of the face of Moloch and Moloch’s screams. Also delete the views of Moloch burning",
+        "length_m": 7.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Shots of Hercules and his friend seen under heavy stones",
+        "length_m": 8.99,
+        "length_retained_m": 1.36
+      }
+    ]
+  },
+  {
+    "film_title": "Glass Bottom Boat",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "48568",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4-B)",
+        "description": "Completely delete the shot of a General (wearing Russian Army uniform) speaking on the telephone",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IX, (5 -A) & X (5-B)",
+        "description": "Indecorous views of Jennifer in the bedroom as she falls on bed. Also delete the dialogue between General Bleecker and Jennifer relating to ‘frontal attack’",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Finger on the Trigger",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "48571",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels VI A IX",
+        "description": "Near views of direct hits of arrows and spears during the fighting between Indians and American Indians",
+        "length_m": 2.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot of an Indian hitting an American with an axe",
+        "length_m": 1.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Shots of dead bodies of Indians lying all over the battlefield",
+        "length_m": 2.28,
+        "length_retained_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "Revolt of the Pretorians",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "48573",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels I & II",
+        "description": "Scene of attempt at mass molestation by the Emperor and his courtiers",
+        "length_m": 4.27,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V, VI, IX & A'",
+        "description": "All direct thrusts by knives, spears or arrows from the fighting scene",
+        "length_m": 14.33
+      }
+    ]
+  },
+  {
+    "film_title": "Spylarks",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "48574",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Indecorous view of the Italian woman agent when she first appears on the screen. (There is no objection to retention of shots when she starts talking to Eric.)",
+        "length_m": 4.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Disrobing of the Italian woman agent",
+        "length_m": 0.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Indecorous view of a woman getting out of the bed before the words ‘It is a scream' appear on the screen",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Eric approaching the Italian woman agent for a kiss",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "View of a woman in blacklace on the words ‘spylarks’. (There is no objection to retention of the shot when the titles cover her bosom)",
+        "length_m": 0.33
+      }
+    ]
+  },
+  {
+    "film_title": "Revolt of the Pretorians",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "48575",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Direct thrusts by knives or arrows",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of kissing (twice)",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Spylarks",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "48576",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Indecorous views of a woman on the credit title",
+        "length_m": 9.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Indecorous view of the Italian woman agent as she starts disrobing herself",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Indecorous views of a woman wearing a dress of blacklace consistent with continuity, (Just enough should be left to establish that the deadly pill was given to the British agent in order to put it in the glass of a ballerina)",
+        "length_m": 20.3
+      }
+    ]
+  },
+  {
+    "film_title": "Pyar Mohabbat",
+    "languages": [
+      "Hindistani",
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "48577",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of scantly clad Arab girls making indecorous belly movements",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Do Dilon Ki Dastan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "cert_no": "48562",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Chhaila’s dialogue addressed to Chaochal pertaining to his having obtained degrees in Ayurveda and Homeopathy",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From the Qawali sequence, deleted shots of the make Qawal tearing his kurta and also shots of Moti holding B(jli in his arm and their amorous gestures towards the end of the scene",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Toonch Mazi Vahim",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "48566",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Dialogue of Shankar relating to Tamasha and Meena's taking part in it",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "The Conquest of Mycenae",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "cert_no": "48573",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I & II",
+        "description": "Scene of attempt at mass molestation by the Emperor and his courtiers",
+        "length_m": 4.27,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V, VI, IX & A'",
+        "description": "All direct thrusts by knives, spears or arrows from the fighting scene",
+        "length_m": 14.33
+      }
+    ]
+  },
+  {
+    "film_title": "Prachanda Bhairavi",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "47945",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the words 'Vadivazhagan — Thazhampoo Madhin Iruk- kira Pombalainga Kaalai ICalyai Pidikkavendiya Kairendum’; Poovanan : — ‘Maanattam Pombalainga Azhagai Parthu Rasikka Vendiya Indha Kaimunga’ (Sound only; replacement approved)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the line “Puttham Pudhisu— Pazhaki paaru’ occurring twice. ( Sound only ; replacement approved)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Song — Delete the word ‘Kalandhal’ in tho verse beginning ‘Oh Monana’. ( Sound only ; replacement approved)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Then Mazhai",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "47946",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Song— Delete the shot of Nirmala’s lips touching Qirfia’s lips ( Replacement approved)",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song — Delete the shot in which Bhaskar’s head touches Nirmala’s breast ( replacement Approved)",
+        "length_m": 4.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song — Remove the shot of Bhaskar overlapping Nirmala ( Replacement approved).",
+        "length_m": 4.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song— Remove the shot of Bhaskar overlapping Nirmala ( Replacement approved).",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song— Remove the shot of Girija leaning over bamboo in which the breast is seen (Replacement approved)",
+        "length_m": 2.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the dialogue of Venu and Vasu",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the dialogues of Venu",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the dialogue of Venu",
+        "length_m": 1.82
+      }
+    ]
+  }
+]

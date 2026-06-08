@@ -1,0 +1,421 @@
+[
+  {
+    "film_title": "Mato Vina Bal",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "25612",
+    "cert_date": "13-10-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue 'Prom hawo jar nayeeche tar tlohyaa mulaawar prem karna' said by Ashok.",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Shots in which Sakkharam is seen sitting on Raju's bed.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "X1",
+        "description": "Shots in which Raju is seen sitting on Sakharam's bed.",
+        "length_m": 54.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Scene in which Kishore hits Kalpana and drives her out of the house.",
+        "length_m": 2.13,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Harishchandra",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25619",
+    "cert_date": "13-10-88",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X1",
+        "description": "Dialogues: 'Tune in chhu liya - Ek matka pani to dalna iske ooper.' and 'Aap mujh par pani kyon dalti hair!?. Indra — 'Tune lae achohut ko chhu liya lui'.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "X1",
+        "description": "Shots where water is thrown on Robit to purify him from the touch of the untouchable.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Sequence beginning with the shot where Todra is shown giving food to the dog, Robit watches the food before the dog, dialogues are exchanged between Indiu and Rohit regarding the same till the shot where Indru's husband throws a bundle to Rouil.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots where Indra mistreats and gives beating to Taramati and Rohit.",
+        "length_m": 25.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "X111",
+        "description": "Shots where Taramati is prevented by Indra from going to her son who is bitten by a snake.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "replacement",
+        "reel": "X111",
+        "description": "Sequence where Taramati is shown carrying dead Rohit in her arms, she sings a song, till the shot where she brings the dead body to Shamphan.",
+        "length_m": 61.26,
+        "length_retained_m": 76.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Close shots of dead Rohit on funeral pyre.",
+        "length_m": 3.96,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Shots where Harishchandra is shown taking up an axe to kill Taramati (The shot where Harishchandra raises the axe and Shankar Appears, is allowed to be retained).",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Sequence: 'Taramati is hit by a stone; she falls in bug pit; Harishchandra jumps after her; they struggle in the pit and shout for Rohit: Hobit is also shown struggling and shouting'.",
+        "length_m": 3.35,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Flash shots where Taramati, Harishchandra and Rohit are shown struggling in the mud.",
+        "length_m": 21.64,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Shots where Taramati, Harishchandra and Rohit are shown grief stricken after they come out of the pit till the beginning of the song beginning with the words 'Ma ry ma'.",
+        "length_m": 13.72,
+        "length_retained_m": 22.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Sequence where Harishchandra is shown yoked to a cart and is dragging the same.",
+        "length_m": 15.24,
+        "length_retained_m": 22.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Sequence where Taramati and Rohit are sold.",
+        "length_m": 36.58,
+        "length_retained_m": 121.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Flash photo where Taramati arranges Rohit's funeral pyre.",
+        "length_m": 4.27,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Flash shots where Harishchandra is shown hysterically weeping and bewailing over the dead body of Rohit till the shot where the keeper of the Shamshan demands his tax.",
+        "length_m": 40.23,
+        "length_retained_m": 53.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Deleting all the close shots of the dead body, the sequence where Taramati is brought to the Shamshan for execution.",
+        "length_m": 12.8,
+        "length_retained_m": 95.4
+      }
+    ]
+  },
+  {
+    "film_title": "Jasoos Bachey",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26636",
+    "cert_date": "16th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Flash shots where spiked walls are shown, stationary or collapsing.",
+        "length_m": 24.69,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Fight between the Jadugar Lutara-Ang and the police; also the fight between the gang and the detective.",
+        "length_m": 632.46,
+        "length_retained_m": 20.73
+      }
+    ]
+  },
+  {
+    "film_title": "The Mark of The Hawk",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "28658",
+    "cert_date": "17th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots of Collier being done to death by an African with a knife.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI, VII J VIII",
+        "description": "Flashback episode relating to Craig's stay in China beginning with Craig's dialogue 'And when I first saw my son, he was already ten years old etc.' in Reel No. VI and ending with the scene of Craig starting through grill burg and clutching them after Laing Tao is bustled away in Reel No. VIII.",
+        "length_m": 319.46
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Mark of The Hawk\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "28656",
+    "cert_date": "17th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of Collier being done to death by an African with a knife.",
+        "length_m": 0.37
+      }
+    ]
+  },
+  {
+    "film_title": "Intent To Kill",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "792",
+    "cert_date": "13th October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: Margaret — 'You re blooping with her'.",
+        "length_m": 0.37
+      }
+    ]
+  },
+  {
+    "film_title": "Tank Force",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_date": "17th October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "After Johnson is knifed, shot showing blood flowing in the gutter.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot in which Carola collapses under gun fire.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII & IX",
+        "description": "All references and shots depicting the Arab Chief and his lieutenants indulging in unprovoked cruelty and torture, including shot of Thatohur groaning in agony.",
+        "length_m": 54.25
+      }
+    ]
+  },
+  {
+    "film_title": "Baazi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25558",
+    "cert_date": "15th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce to the minimum the hitting and beating of a gambler and cut out Punchion.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Cut out the two close-ups of Nromu (the dandel).",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the word 'Barrister'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Cut out the close up of landing in two places in the song 'Gujar'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "5 & 9",
+        "description": "Delete the word barrister wherever it occurs in the film.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots where Madan kicks a gambler on the face during the fight with him.",
+        "length_m": 1.83,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Shots where a man is lashed and tortured by Khanna's gangster Sheroingh.",
+        "length_m": 2.13,
+        "length_retained_m": 2.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Shots where Madan and Rajni are shown in close physical proximity after song No. 4.",
+        "length_m": 3.66,
+        "length_retained_m": 4.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Shots of close physical proximity between Madan and Rajni when they go to see Madan's sister.",
+        "length_m": 5.7,
+        "length_retained_m": 6.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Shots where the thighs of a girl moving the water wheel with her feet are shown exposed.",
+        "length_m": 24.38,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shots at the end of the picture where Madan and Rajni are shown in close embrace.",
+        "length_m": 3.05,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "insertion",
+        "reel": "14",
+        "description": "Scene showing the court-room and the dialogue of 'Judge: 'Agle khooni ke pakde jane par tumhe khoon ke ilzam se burri kiya jata hy. Lekin jua aur paison ke imajurimana lanılen may ok groh ka gathi hono ki vajay se tumho dafo ohar gau dau taji raat-t -Hind toen maha qald ba mushaklat ki HAZRA di jati hy'.",
+        "length_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi 555",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25673",
+    "cert_date": "20th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XLV",
+        "description": "Shots where Ashok is shown with Ashr after his release from prison wherein it is established that he is enjoying the property which he acquired from Sath Dhaniram's wealth which he stole.",
+        "length_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Aakhri Dao",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25677",
+    "cert_date": "23rd October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Dialogue suggestive of procurement or exchange between Pyarelal Gupta and another man in the dance school.",
+        "length_m": 5.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue of vulgar nature addressed by Sikh young man to Raju (hero) when he is driving a taxi.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Shots of the dancing girl being beaten by her lover.",
+        "length_m": 1.49,
+        "length_retained_m": 0.46
+      }
+    ]
+  },
+  {
+    "film_title": "Panchayat",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25693",
+    "cert_date": "24th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shot of Mohan in close physical proximity to Xubila.",
+        "length_m": 0.91
+      }
+    ]
+  }
+]

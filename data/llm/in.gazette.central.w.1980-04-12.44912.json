@@ -1,0 +1,509 @@
+[
+  {
+    "film_title": "Auro Jadro",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Shree Vishwas Chitra, Mohan Studios, Kurla Road, Andheri, Bombay-93",
+    "cert_no": "B/F-164",
+    "cert_date": "10-9-79",
+    "endorsement": "U",
+    "original_length_m": 4481.55,
+    "length_deleted_m": 11.89,
+    "final_length_m": 4196.56,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Vili",
+        "description": "All four lines spoken by Bhima Bhagat starting with 'Maray Leeludi Dharti Khedvi Chho' are deleted as they are double meaning.",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "S. No. Reel",
+        "description": "Scene: Railyat persuading her father Ruda Kaka to permit her to go out.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Scene: Comedian Bhina Bhagat narrating story to villagers.",
+        "length_m": 33.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Scene: Mopa Bhagut Rata Bhagat discussing marriage of Mankbai.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Fight between Reta Kathi & Uda Kathi. A girl slapping a man & a fatman hitting two persons.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Scene: Comedian Shambhu persuading Shanti to go and bring coconuts.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Scene: Shambhu drinking bhang.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Scene: Mankbai cutting woods when her friends come to see her. Her mother in law gets angry.",
+        "length_m": 24.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Laughter of Thakore.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Scene: Ruda Kaka crying when found her daughter Raliyat dead.",
+        "length_m": 24.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Fight between Bhima Bhagat and Kalya.",
+        "length_m": 17.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Ladro digging grave.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Scene: Jadro showing willingness to sacrifice the life of his son to save sister's son.",
+        "length_m": 82.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Scene: Thakore & Kalva plotting against Jadro.",
+        "length_m": 17.98
+      }
+    ]
+  },
+  {
+    "film_title": "Ikraar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "B/F-201",
+    "cert_date": "10-9-79",
+    "endorsement": "U",
+    "original_length_m": 3140.4,
+    "length_deleted_m": 16.4,
+    "final_length_m": 3124.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the following dialogue: 'Dolly is a very sensible girl' and the Hindi dialogue.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the rape scene further, particularly by deleting close-up of Doopa's face during the attempted rape.",
+        "length_m": 10.6,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the word 'bitch'.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the cabaret sequence of the shot showing the first woman dancer holding the knife at the neck point of the male dancer and also shot revealing exposure of her thighs. Also reduce the number of times the dead body of the male dancer is shown during the cabaret. Deleted two shots.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the word 'Bastards'.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the following dialogues: 'Munil ko apne ghamne se kisi na jhimi tarah hata denge.' and 'Aur mane jo kiya uske liye mujhe koi afsos nahi.'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the length of the shot exposing dead body of Deepa with open eyes.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Raakhi Ki Sauga - Hindi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Seth Films, 1-Ashotosh Plot, No. 664, III, T.P.S. Khar, Bombay-52",
+    "cert_no": "B/F-189",
+    "cert_date": "13-9-79",
+    "endorsement": "U",
+    "original_length_m": 3703.43,
+    "length_deleted_m": 72.83,
+    "final_length_m": 3646.87,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "The following prolonged fights should be shortened so as to tone down the general impact of crime and violence: Fight between Georgi and Amjad in Kotha.",
+        "length_m": 5.08,
+        "length_retained_m": 31.39
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Fight between Shankar and goondas in the hotel.",
+        "length_m": 6.0,
+        "length_retained_m": 30.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Fight between Jagga and goondas when he rescue Paro.",
+        "length_m": 3.66,
+        "length_retained_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Fight of Jagga with Bachan and his men.",
+        "length_m": 11.28,
+        "length_retained_m": 37.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Fight of Jagga and Ranjeet with Chiman liland his men.",
+        "length_m": 14.02,
+        "length_retained_m": 81.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the scene of molestation of Munni to the barest minimum.",
+        "length_m": 12.27,
+        "length_retained_m": 9.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the number and lengths of close shots of open eyes of dead Munni to the barest minimum required for continuity.",
+        "length_m": 1.56,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete close views of wriggling of breasts, etc., as also the views of the dancer raising her breasts with her hands and the shots of her lying on the floor and her being pulled by Georgi.",
+        "length_m": 7.47
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete or suitably replace the following dialogue addressed to Jagga by Georgi: 'HUM SAB USKI JAWAANI MEN DUBATE CHALE GAYE KYA CHEEZ THI WO MY GOD MAIN USE APNI ZINDAGIMEN KABHI NAHIN BHULA SAKATA, MOONH ME PAANI AA JATA HAI AB BHI YAAD KAR KE'",
+        "length_m": 6.65
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "In the cabaret dance, delete the first two close shots of Holen where upper portion of her body and bare things are seen prominently.",
+        "length_m": 2.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the conversation between Shankar and Paro, delete the reference by Shankar to his having changed her clothes with hands under bed-shots.",
+        "length_m": 2.69
+      }
+    ]
+  },
+  {
+    "film_title": "Teen Cheharey",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "A-Cert. No. 4532",
+    "cert_date": "24-5-1979",
+    "endorsement": "A",
+    "final_length_m": 3762.95,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Water Tap fight and letter box scene.",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Outdoor fight sequence talkie.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Seeta waits for Ramesh.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Chachi sewing clothes in chawl.",
+        "length_m": 10.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Chachi scenes in chawl.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Raakhi Ki Saugandh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "U - Cert. No. 90484",
+    "cert_date": "13-9-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Close shot of Vinod Mehra and goonda carrying Sarika.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Flash back on Munai's Chita scene with song line of title song in the background after the death of Georgi.",
+        "length_m": 17.37
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Flash back of Munni's Chita scene with song line of title song in the background after the death of Bachan.",
+        "length_m": 20.12
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Scene of goondas leaving Paro in wheel chair on the hill top when Jagga tries to save her. Also shots of catching and escape of Jagga from Policeman's hands.",
+        "length_m": 76.5
+      }
+    ]
+  },
+  {
+    "film_title": "Muqabla",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "A - Cert. No. 4567",
+    "cert_date": "14-9-1979",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Qawali song picturised on Rekha and Rajesh Khanna.",
+        "length_m": 221.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "The ending death scene of Sunil Dutt with C.U. and part of the End shot reduced.",
+        "length_m": 26.21
+      }
+    ]
+  },
+  {
+    "film_title": "Aangan Ki kali",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "U -Cert. No. 89500",
+    "cert_date": "15-5-1979",
+    "endorsement": "U",
+    "final_length_m": 3451.56,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Two sufian, harassing Amol -- Amol rings the doorbell.",
+        "length_m": 85.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Pandit to see his hand to his wanting to have a son.",
+        "length_m": 36.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Song lita Sochoo - Prit Ki jyoti.",
+        "length_m": 27.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Mr. Tiwari explaning Amol about his job.",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Mr. Tiwari telling Amol that translation will have to be on time.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Amol gets firing from his boss for not doing work on time.",
+        "length_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Bhavana crying.",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Raakhi Ki Saugandh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "U - Ccrt. No. 90484",
+    "cert_date": "13-9-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Close shot of Vinod Mehra and goonda carrying Sarika.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Flash back on Munai's Chita scene with song line of title song in the background after the death of Georgi.",
+        "length_m": 17.37
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Flash back of Munni's Chita scene with song line of title song in the background after the death of Bachan.",
+        "length_m": 20.12
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Scene of goondas leaving Paro in wheel chair on the hill top when Jagga tries to save her. Also shots of catching and escape of Jagga from Policeman's hands.",
+        "length_m": 76.5
+      }
+    ]
+  },
+  {
+    "film_title": "Det Cake",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "U -Cert. No. 88538",
+    "cert_date": "19-10-1978",
+    "endorsement": "U",
+    "final_length_m": 15.24,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various Shots",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Gopal Dada",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "U -Cert. No. 90389",
+    "cert_date": "31-5-1979",
+    "endorsement": "U",
+    "final_length_m": 324.0,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Gopal Dada on his way finds a youth of the village dead drunk unable to respond to Gopal Dada's call. Gopal Dada scorns at him and moves away.",
+        "length_m": 19.2
+      }
+    ]
+  },
+  {
+    "film_title": "Arbeiternortrat Mine Worker",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "cert_no": "91663",
+    "cert_date": "27-9-79",
+    "endorsement": "U",
+    "final_length_m": 295.35,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the views of the workers bathing in nude",
+        "length_m": 2.65
+      }
+    ]
+  }
+]

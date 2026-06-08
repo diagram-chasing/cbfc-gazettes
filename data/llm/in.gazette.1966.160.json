@@ -1,0 +1,412 @@
+[
+  {
+    "film_title": "Shahenshah",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "G. P. Productions",
+    "cert_no": "39885",
+    "cert_date": "14-1-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 29",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added a Hindi tablet with the same message as the English tablet.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted hip-shaking by the dancer in the Cafe dance (song No. 2).",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted lines from song No. 4: 'Duniya kc har dukh ka daroo ck suneliri jam' and 'Zulfon ke saaye men nadaan kar bhi le araam'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted close-up of dancing Naseem when she comes near the king.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted shot showing Naseem throwing her arms around the king’s neck.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted Saamir making facial gestures.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted close-up of Naseem in song No. 5.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted close-up of Naseem just before she talks to her mother and embraces her.",
+        "length_m": 1.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted Naseem’s close-up just before she talks to her mother and embraces her.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Added Bakhtiar’s scene with the pigeon in the garden.",
+        "length_m": 67.06
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "Added Shahenshah and Noor fighting the soldiers.",
+        "length_m": 78.03
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Added Bakhtiar in Bagdhad streets.",
+        "length_m": 59.74
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "Added Shahenshah's fight with guards in the garden.",
+        "length_m": 47.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Added shots of fighting.",
+        "length_m": 42.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted shots of the statue with bare bust from Bakhtiar’s scene with Safir in the garden.",
+        "length_m": 56.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "entire picture",
+        "description": "Words Teheran, Iran and syllable 'Bag' from Bagdad were inked off from the entire picture.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Street With No Name",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Film Corp.",
+    "cert_no": "39886",
+    "cert_date": "14-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "Deleted all actual drinking scenes and reduced other drink scenes to the absolute minimum essential for the continuity of the story.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Gulacha Ganapati",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Swati Chitra",
+    "cert_no": "39891",
+    "cert_date": "16-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted close-ups of the emphasised bust of the heroine with shining choli uncovered by dupatta, in song No. 1.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted shot of Narya licking food in the song No. 3.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the words 'Arc Narapashuno tyanitumchya sathiratrandivas apla rakta atvava anitumhi tya raktache pani gata gata pivoon takava he tumhala shobhata kn 7'.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted shots in which a South Indian newspaper man speaks with peculiar, funny intonation.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced shots wherein a South Indian customer at the grocer’s shop makes ridiculous gestures and speaks so as to create laughter at his expense.",
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "all",
+        "description": "Substituted the credit title for the producer from 'Nirmate — Vinayak Rajguru Vasant Khasnis' to 'Nirmata— Vinayak Rajguru'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Ek-Do-Teen",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shorey Films, C/o Govindram Bros. Pvt. Ltd.",
+    "cert_no": "39892",
+    "cert_date": "16-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted profile of bust jerking of Roma during song ‘ek, do, teen’.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted accused Motilal asking questions to the witnesses when he is represented by his lawyer.",
+        "length_m": 40.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted the following sentence ‘parde ke peechee kya hota hai’.",
+        "length_m": 45.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "Deleted bust close-ups of four girls in white satin choli.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "Deleted the close-up of girl in white choli on the bank of river in the theatre scene.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "Deleted the following words ‘idliar battery hameshadownho jati hai’.",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "Deleted the following words from song No. 8 ‘Liye goad me naar parai’.",
+        "length_m": 18.59
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels V &VI",
+        "description": "Deleted all close-ups of Betty's low-cut dress and bust jerking during the dance, and while sitting at table talking to Moti. Replaced with same shots blown above bust.",
+        "length_m": 21.03
+      }
+    ]
+  },
+  {
+    "film_title": "Chacha Chowdbary",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kardar Productions",
+    "cert_no": "39893",
+    "cert_date": "16-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added clearly spoken Hindi commentary giving translation of the English tablet.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted words 'In khubsoorat pairon ko choom loon' twice spoken by Chandiabhushan to Prema.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted shot of Sarangswami eating rice in an uncouth way retaining a portion showing him putting rice into mouth once only.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted Chacha Chowdhary’s words 'Balwant, yeh hai tumhaia kaddulo na'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced shots of Chandrabhushan amorously pressing his fingers on Prema’s shoulder, arms and hand.",
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels II, XII & XIII",
+        "description": "Reduced a fair portion of the sequence of the dangerous lunatics, the shouts and screams as well as braying and barking.",
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IF",
+        "description": "Deleted words 'Madras ke'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted words 'Marwari'.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Houdini",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Paramount International Films Inc.",
+    "cert_no": "39894",
+    "cert_date": "17-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted mid-shot of young women in transparent dress on stage encircling the old man, retaining their preceding long shot.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted kissing scene of Houdini and Bess showing their bare legs together following their vaudeville performer act.",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Ramabrahma Niryanam",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "22908",
+    "cert_date": "16-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "Deleted the close-ups of the dead body.",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Palanati Yuddham",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sree Sarada Productions",
+    "cert_no": "22909",
+    "cert_date": "16-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "all",
+        "description": "The costume of the Koya Pilla is objectionable. The portion from her appearing before the group of villagers up to her being brought to Brahmana Naidu must be cut.",
+        "length_m": 83.52
+      }
+    ]
+  },
+  {
+    "film_title": "Maharathi Kama",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Pidhbhakar Pictures",
+    "cert_no": "39897",
+    "cert_date": "24-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Curtailed somewhat the scene showing Kama’s wife separating with sword, the ‘Kavcha’ from Kama’s body.",
+        "length_m": 5.64
+      }
+    ]
+  },
+  {
+    "film_title": "Rani Nagamma",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sree Sarada Productions",
+    "cert_no": "22910",
+    "cert_date": "20-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted the words ‘Andidu Virshanthira’ in the dancer’s song.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Reduced the scene showing the performance of the sathi.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Removed shots showing the severed head of Narnsingam being shown in the battle field and also the bleeding of the trunk.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "insertion",
+        "reel": "title",
+        "description": "Added mention in the title that it is an old time story.",
+        "length_m": 3.05
+      }
+    ]
+  }
+]

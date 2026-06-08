@@ -1,0 +1,601 @@
+[
+  {
+    "film_title": "Shcherazade",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rank Film Distributors of India Ltd.",
+    "cert_no": "43025",
+    "cert_date": "16-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the female dancers in which their bare thighs are prominently seen.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of near-nude female bathers in the bath.",
+        "length_m": 2.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near-views of the partly bare bust of Sheherazade while dancing and shot in which her bare stomach and waist are seen to be emphasised as she approaches the camera.",
+        "length_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "Cha Cha Cha",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Bhav Deep Films",
+    "cert_no": "43040",
+    "cert_date": "17-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I & IV",
+        "description": "Near-views of the indecorous bust jerking of the girls in the Cha-Cha-Cha dance.",
+        "length_m": 7.75
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels I & IV",
+        "description": "Replacement of deleted shots with approved shots.",
+        "length_m": 6.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Near-views of the girl in a white wet blouse with coloured bra. Also the near-views of the indecent paunch shaking of the fat man near the swimming pool.",
+        "length_m": 7.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replacement of deleted shots with approved shots.",
+        "length_m": 7.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Mohan's gesture in bowing before a figure of an ordinary monkey and saying 'Jai Bajrang Bali'.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Replacement of deleted shot with approved shot.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shot of the picture of Jesus on the wall below which Madan lies after being wounded.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The following sentence said by Gyandas to Dinanath: 'Hindustan ke sivaai aur koi aisa mulk hai jahaan zaat paat ki aad lekar, insaan ko zalil kar diyaa jaata hai'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Replacement of deleted sentence with approved words (Sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The following sentence said by Lalli to Kalpana: 'Hamare desh mein Harijanon ko saath kabhi achcha suluk hua hai?'",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Replacement of deleted sentence with approved words (Sound).",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Siege of The Saxons",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "43042",
+    "cert_date": "17-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shot when the doctor takes out an arrow from Arthur's chest.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IV, VI & X",
+        "description": "All direct thrusts by arrows, spears, knives etc. from the fighting scenes.",
+        "length_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The view of Edmund on ground with horses walking over him.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The view of a soldier when he falls between two horses.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Fight between a Saxon and Robert, particularly deleting the shots when Saxon hits Robert with iron balls.",
+        "length_m": 4.57,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "The near-views of a soldier's face when Robert throttles him with a shield.",
+        "length_m": 6.17,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "The Secret Seven",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "43043",
+    "cert_date": "17-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I (1A)",
+        "description": "The brutal hit on the neck of Axel by a mercenary.",
+        "length_m": 4.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X (5B)",
+        "description": "From the fighting scene: shot of men falling from heights, man on flames, and throttling of a soldier.",
+        "length_m": 9.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II (1B), V (3A) & IX (5A)",
+        "description": "All direct thrusts by spears, arrows, swords and table-legs from the fighting scenes.",
+        "length_m": 19.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II (2A)",
+        "description": "The sequence of dead bodies by deleting views of the hanging bodies.",
+        "length_m": 11.04,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "The Secret Seven",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "43044",
+    "cert_date": "17-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Direct thrusts by spears and arrows from the fighting scenes.",
+        "length_m": 2.66
+      }
+    ]
+  },
+  {
+    "film_title": "Guns of Diablo",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "43045",
+    "cert_date": "17-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "From the dialogue between Rance and Maria, the following: Rance: '...Tell him how you used to sit up every night, crying because it's me instead of him.' Maria: '...But you took me just the same.'",
+        "length_m": 13.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V (A)",
+        "description": "The shot of Linc and Maria living together by deleting the view of the bare legs and the back views.",
+        "length_m": 8.09,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Treasure In India",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "The British and Foreign Bible Society",
+    "cert_no": "43051",
+    "cert_date": "18-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From commentary the following: '. . . He wrote the first grammar of the Bengali language. He wrote the first grammar of the Punjabi; he wrote the first grammar of the Sanskrit language.'",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Africa's Charter of Unity (HARTIYA EDINSTVA AFRIKI)",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Central Documentary Film Studio, Moscow",
+    "cert_no": "43052",
+    "cert_date": "18-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From Commentary the following: '... But all this goes to Western Europe and America. Fifty-two per cent of the gold in American banks was mined in Africa. Why does our wealth supply the entire economic system of the West? ... He told about Birmingham, USA, where the hate-blinded racists, aided by police, attacked a peaceful Negro demonstration. American imperialism the stronghold of the disintegrating colonial systems. Who can believe its friendly feelings for the Africans are sincere when in the United States itself Negroes are victimised just because their skin is black?'",
+        "length_m": 10.36
+      }
+    ]
+  },
+  {
+    "film_title": "Naag Panchami",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "format": "35 mm",
+    "producer": "Swastik Films",
+    "cert_no": "43055",
+    "cert_date": "19-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The sentence 'Humn aisa na katan hai hamaic chubhanc sc tuhaar gudgudi hoi' said by Piarawa to Rampyari.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The sequence of snakes running around.",
+        "length_m": 3.35,
+        "length_retained_m": 9.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Finest Hours",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "43056",
+    "cert_date": "19-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From Churchill's speech, 'Russian imperialism and the Communist creed had become a mortal danger.'",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "The Mysteries of Paris",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Noronha Private Ltd.",
+    "cert_no": "43048",
+    "cert_date": "18-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "The light in the tavern and particularly the light where Rudolph uses chain to hit the crooks.",
+        "length_m": 12.7,
+        "length_retained_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fighting in the mill; particularly deleting shots where the crooks hit Rudolph when he is down on the floor.",
+        "length_m": 1.52,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "The fight in the cellar particularly deleting shots where the crook pulls Rudolph's hair and dashes his head on the wall.",
+        "length_m": 20.42,
+        "length_retained_m": 18.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Young Lovers",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "1543",
+    "cert_date": "16-11-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI (3B)",
+        "description": "The shot of Pam and Eddie calling down together on the beach after their embrace.",
+        "length_m": 4.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "From Pam's dialogue addressed to her mother, 'Did you ever sleep with father before you were married?'",
+        "length_m": 4.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V (3A)",
+        "description": "The passionate kissing and suggestive sounds of gasping by Eddie and Pam in the car.",
+        "length_m": 8.14,
+        "length_retained_m": 10.06
+      }
+    ]
+  },
+  {
+    "film_title": "Young Blood Hawke",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "1544",
+    "cert_date": "20-11-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The following remark of Baby addressed to Hawke and Lax: 'You two men turn the other way while I toast my bottom... Feel my bottom it's all toasty.' Also the shot of Lax smacking her bottom as they go out.",
+        "length_m": 3.09
+      }
+    ]
+  },
+  {
+    "film_title": "The Love Cage",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "1545",
+    "cert_date": "20-11-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4A)",
+        "description": "The close views of Melinda in decollete gown and the shot where Mark is shown looking at her bust.",
+        "length_m": 8.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (B)",
+        "description": "The shot where Melinda lifts her slip in a tantalizing manner in front of Vincent and also her action in pulling her hand across her bosom.",
+        "length_m": 7.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (5A)",
+        "description": "The three indecorous back views of Melinda when she is in Mark's bed.",
+        "length_m": 3.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX (5A)",
+        "description": "Reduce the views of Barbara & Mark in bed particularly deleting the shot where he is leaning over her just before he sits up hugging his knees.",
+        "length_m": 11.3,
+        "length_retained_m": 30.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X (5D)",
+        "description": "Reduce the shot of Vincent hitting Barbara and also delete the shot where they pull each others hair in a savage manner.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I (1A)",
+        "description": "The torturing of Mark by the crooks particularly the shots where the crooks put him in a hot bath tub, hit his face and put his head under the water.",
+        "length_m": 3.75,
+        "length_retained_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Chitralekha",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "A. K. Nadiadwala, Pushpa Pictures",
+    "cert_no": "43069",
+    "cert_date": "21-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The indecorous view of Rambha's bust.",
+        "length_m": 29.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The near views of the nude statues.",
+        "length_m": 10.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replacement of deleted shots with approved shots.",
+        "length_m": 8.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The semi-nude picture.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The word Veshya wherever occurring.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Replacement of deleted word with approved word (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The following sentence from Kumargiri's speech: 'Is ke kharidaar kayee Bijgupt, kayee dhanvaan, kayee kamipurush teri chaukhat par maştak ragdenge. Unkimithi mithi baaton par dhyaun ne do.'",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The sequence where Bijgupta is holding Chitralekha near her breasts.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replacement of deleted shots with approved shots.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The suggestion of a kiss between them.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II & IX",
+        "description": "The indecorous view of Chitralekha's bust.",
+        "length_m": 4.82
+      }
+    ]
+  },
+  {
+    "film_title": "Mahasati Behula",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Adarsh-lok",
+    "cert_no": "43071",
+    "cert_date": "21-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The word Kulta said by the Maharani to Behula. Also reduced the cruelty done by Maharani to Behula.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The sentence 'Ek doosre men samaa jane ki kamna hai'.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The following abusive words said by Maharaja to Maharani: 'Kulta' 'Kalankini' and also 'Brayana ki pyaas na nujha saki'.",
+        "length_m": 5.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The word Voshyagaami said by the fake Shivji to Behula.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The shots of wriggling of snakes.",
+        "length_m": 2.1
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Shots of Gods approaching the Mansa first so as to remove the impression that the Gods are being unreasonably cruel to her.",
+        "length_m": 11.78
+      }
+    ]
+  }
+]

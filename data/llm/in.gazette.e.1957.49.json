@@ -1,0 +1,683 @@
+[
+  {
+    "film_title": "Jal Ambe",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21762",
+    "cert_date": "14-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Dialogue of Shani: 'Maan dayan bak kar boto ko kha sakti hai'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 77",
+        "description": "Dialogues: Queen: 'Kya devta itne nirdal ho sakte hain', Narad: 'Devtaon ke dil nahin hota'",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue of Vidushak: 'Santau to kya mari hui chudha bhi nahin paida hui'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Sequence beginning with Shani prompting Chinta to break her arm; she acts accordingly, digs the earth with her stumps, and is shown moving and acting armless until her broken arms are shown getting attached to her stumps.",
+        "length_m": 13.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots where Shani is shown blinding and killing the fisherwoman's baby held by Chinta on her lap",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Hed IX",
+        "description": "Shani's dialogue to Narad conveying his challenge to Laxmi",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel X",
+        "description": "Sequence beginning with Saudagar making advances towards Chinta, showing evil intention by dialogue and gestures, and Chinta being thrown on the bed until he leaves the room",
+        "length_m": 36.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel XV",
+        "description": "Entire song No. 6, beginning with the line 'Ghunghat nikal ke, surma dal ke, chalti ban jab chal'",
+        "length_m": 100.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red XV111",
+        "description": "Shots where savages show their intention to sacrifice Chinta before Devi, and picturization of song No. 6 (shots of savage menacing Chinta, man with sword menacing Chinta)",
+        "length_m": 13.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red XV111",
+        "description": "Shots where savages show their intention to sacrifice Chinta before Devi, and picturization of song No. 6 (shots of savage menacing Chinta, man with sword menacing Chinta)",
+        "length_m": 29.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red FZ7?",
+        "description": "Considerably shots where Chinta is abused and beaten by the fisherwoman and companions by the stream. Delete shots where Chinta is gro ned by fisherwoman and her companions by the stream. Delete shots where Chinta is maltreated by the fishing folk in the presence of the King in the hut till the shot where Shani sets the hut on fire",
+        "length_m": 28.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red XIV",
+        "description": "Considerably the leprous face of Chinta",
+        "length_m": 13.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red XIV",
+        "description": "Considerably the leprous face of Chinta",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red X/-H9",
+        "description": "Shots of Saudagar's molestation of Chinta",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Sea Wife",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "21763",
+    "cert_date": "14-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "Dialogues: 'It's preachers like you who put the wrong idea into the heads of those savages' and 'You should stay in the jungle where you belong'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogues: 'You get stationed out here for a while, oh you know all about the East. I tell you, you don't understand these beggars. I do'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue: 'A nigger and a knife. Any two together, but not till three'",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Jai Ambe'",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21776",
+    "cert_date": "16-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Saudagar making advances to Chinta",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Afshar",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "21786",
+    "cert_date": "16-10-1967",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the dialogue of Dagdu's neighbour the sentence 'Don pora hoil paryant moo hicha tand pahila navhta'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "All shots of Dagdu and Tara in bedroom in night-scene, before Tara is shown massaging Dagdu's feet. From the neighbour's dialogue, the words 'Arab aata taelach bara' with reference to kambal",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All shots of Bhairoo peeping through on the bedroom scene of Tara and Dagdu, retaining only a flash in the beginning for the sake of continuity",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Neel X11",
+        "description": "The underlined words from Dagdu's dialogue 'Lakshmanane Seeta 'Mig i pnb^y haat haatat ghetla'",
+        "length_m": 1.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Considerably the soup in which the fishwife tries to assault Tara",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably the shots in which Dagdu pulls Tara in and out of the house and forces her to get into the cart in a rough manner",
+        "length_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Mountain Fortress",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21797",
+    "cert_date": "17-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogues: 'Those violent savages. These Indians they have no right to murder people'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The word 'Savages' when used for Red Indians",
+        "length_m": 0.004
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Close shots of men being stabbed or fired at during the fight",
+        "length_m": 10.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel F",
+        "description": "Fights considerably",
+        "length_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "Lee Actualites Francaises, 'Regards Sur le Monde'",
+    "languages": [
+      "French"
+    ],
+    "cert_no": "21798",
+    "cert_date": "17-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The item referring to 'The Tragedy of Molouza'",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Bhakti Dhruv",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21803",
+    "cert_date": "18-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I, IV",
+        "description": "Dialogue whenever occurring between Brahma, Narad and Varunvati or Brahma and Narad which establishes a relationship among the three or between the two which is not warranted by any authentic source (Sound—replaced by approved sounds)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red 17",
+        "description": "Bizarre jerks of the dancer while dancing and laughing song No. 2 beginning with the line 'Pip, pip, pip, pip, pip pupihare bol raha hai pipi......'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The following dialogue: 'Tumhari kukh ka dosh hai'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Komirku of the Junior Rani derogatory to Narad. Similar remarks by other characters wherever occurring in other reels",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IX X",
+        "description": "In the scene where Junior Rani's mother is shown entering the Sarpagarh in search of Uttam, shots where she is shown terrified by snakes; a snake falls on her head; she jumps and shrieks till the end of the scene",
+        "length_m": 35.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV, XV & XI",
+        "description": "The words 'Hath Yog' wherever improperly used",
+        "length_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels IX & X",
+        "description": "Considerably shots of snakes inserted for atmosphere when Bhimvis is flinging on a platform in Sarpagarh",
+        "length_m": 20.99
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Where the Junior Rani's brother is shown indecently accosting and behaving towards an unmarried girl retaining footage necessary for the sake of continuity",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The house when the messenger comes to call the King in the Durbar after 'Aarati Hong'",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Barber scene-subject discussing King's second marriage",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel ZZ",
+        "description": "Scene between Narad and Suniti. Narad emphasizing the necessity for second marriage",
+        "length_m": 25.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Scene between King and Queen after second marriage in front of Temple",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Scene of the King in his chamber before meeting the Queen in the garden",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Scene between King and Queen in the former's chamber before Uttam's birth",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots in the scene wherein the children are playing in the Palace garden",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "A portion from the scene between Narad and Junior Rani in the latter's chamber",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "A portion from the scene in the exterior of Sarpagarh",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XZZ",
+        "description": "A shot of the flame coming out of the heart of God Vishnu",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XIII",
+        "description": "Portion of scene out where the brother of younger Rani is eating and talking to his mother while eating",
+        "length_m": 30.78
+      }
+    ]
+  },
+  {
+    "film_title": "Sher-E-Bagdad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21831",
+    "cert_date": "21-10-1967",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close shots where the princess is shown putting her head on Rashid's shoulder in close physical proximity",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Vazir holding the Princess tightly in his embrace",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of the Vazir holding the Princess tightly in his embrace when she has fainted in his arms. Fight between two women",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue of Abdul Rehman addressed to the women who are shown fighting",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene beginning with the shots where Rashid steps into a temple where a 'moorti' is shown with a diamond in the forehead symbolic of its third eye ending with the shot where Rashid shows the diamond to Jin",
+        "length_m": 73.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following lines in song No. 4, beginning with the line 'Dil mera dhadke, ankh meri jhadke'",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following lines from song No. 5 beginning with the line 'Chori chori kahen mulaqat'",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "The D.I. (Drill Instructor)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21832",
+    "cert_date": "21-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The song 'Better squeeze me real tight'",
+        "length_m": 55.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The dialogue 'May be, in the Russian Navy they got rifles with two trigger housings'",
+        "length_m": 3.26
+      }
+    ]
+  },
+  {
+    "film_title": "Oh! For A Man",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "21838",
+    "cert_date": "22-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Violet saying to Rita 'Only kind you've missed' with reference to her lovers. Rufus saying into phone 'It was dark'. The words 'and willing' from the sentence 'Where all women are beautiful and willing'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Rufus saying 'Your girdle popper, you' and Rock saying 'Oh, She's lying, she's lying'. Rock saying 'No., she didn't mean that .... what kind of mind have you got ?'. Rita saying, 'It was just like electricity' and Violet replying 'I know that wonderful A.C., D.C, feeling'",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Violet saying 'and equipped with just as many extras'. Violet saying, 'The psychiatrist I went to had a couch-but it was built for two'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Rita saying and work your way up my arm”. Rock replying, “Up? How far up ?” and Rita saying “As far as you can go, silly'",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Drastically the passionate kissing of Rita and Rock",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably the scene in which Rita tries to induce and teach Rock to make love to her, particularly deleting Rock kissing Rita's hand up and down upto the shoulder",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Oh! For A Man'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "21839",
+    "cert_date": "22-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Violet saying to Rita, 'It's the only kind you've missed'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Rock kissing Rita's hand up and down upto the shoulder",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Rock kissing Rita",
+        "length_m": 2.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "First shot showing Rita shaking herself whilst dancing",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Roland The Mighty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "21893",
+    "cert_date": "31-10-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Words referring to Saracens as 'those who are about to destroy European civilization'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of a woman pierced by an arrow",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of statue of a deity with more than two arms and a woman dancing before deity",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of a dead man being dragged",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "All shots of call to prayer (including sound) and Saracens kneeling and offering prayer",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "All views of statue of a deity with more than two arms",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Words 'Boilious Morflel' with reference to a woman",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All shots of Saracens drinking",
+        "length_m": 21.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Drastically shots of a woman pierced by the arrow",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Drastically thrusting of a sword by Reginald in the stomach of Angelica's guard and delete shot of the blood stained sword thereafter",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Roland The Mighty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "21899",
+    "cert_date": "1-11-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of a dead man being dragged",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "All shots of call to prayer (including sound) and Saracens kneeling and offering prayer",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "All views of statue of a deity with more than two arms",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Words 'Boilious Morflel' with reference to a woman",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All shots of Saracens drinking",
+        "length_m": 21.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Drastically shots of a woman pierced by the arrow",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Drastically thrusting of a sword by Reginald in the stomach of Angelica's guard and delete shot of the blood stained sword thereafter",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "The Prince And The Showgirl",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "604",
+    "cert_date": "1-11-1957",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The words 'Not Yet' spoken by Elsie Marina. The words 'This is the place where I wake up, I guess, is it not ?' and 'I guess that is my cue' spoken by Elsie Marina",
+        "length_m": 2.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rid V",
+        "description": "Considerably the Scene in which the Regent is making love to Elsie Marina, deleting shots showing the Regent falling on Elsie Marina on the Sofa and embracing her",
+        "length_m": 19.51
+      }
+    ]
+  }
+]

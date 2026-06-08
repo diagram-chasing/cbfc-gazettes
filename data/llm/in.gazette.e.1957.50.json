@@ -1,0 +1,436 @@
+[
+  {
+    "film_title": "Trailer of \"20 Million Miles to Earth\" (Revised)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21916",
+    "cert_date": "6-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot in which the monster catches hold of Maria's wrist and she screams in terror",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot in which the monster breaks open the wall in the zoo and comes out",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shots showing the fight of the monster with the elephant",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots in which the monster rips open a bridge from below and emerges from the surface screaming",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Considerably the screaming sound of the monster throughout the trailer",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Gypsy Alias Khunabadoah Ladki",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21940",
+    "cert_date": "8-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Scene where Pathan kidnaps Shabnam and his men are seen tying her up and carrying her away",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Sequence beginning with the shots where Pathan brings Shabnam to Sitara till the shot where the Pathan leaves on learning that the Police has come",
+        "length_m": 43.8912
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Shabnam is shown tied to a chair; she cuts off the rope and comes out",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots where Shabnam is killed by the Chieftain Sardar when she covers the hero during the fight",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The following line from song No. 1: \"Hil tori tamanna nas naa men\"",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Mirza Sahlban\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21941",
+    "cert_date": "9-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of close physical proximity of Mirza and Sahiban when singing",
+        "length_m": 9.7536
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Three Faces of Eve\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "21942",
+    "cert_date": "9-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Considerably Jane's prolonged and painful crying",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "20 Million Miles To Earth",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "606",
+    "cert_date": "6-11-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the barn sequence, shots in which the monster attacks the farmer second and third time",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots showing the monster falling from the top of the Coliseum",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Story of Esther Costello",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "507",
+    "cert_date": "9-11-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The following words of Esther (Heathor “No No No\" while she was attacked by Mr. Landi (Roffano Brazzi)",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Ah! Dil Hai Nahin",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21088",
+    "cert_date": "27-9-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "A procession of birds, animals and Yakub and Halim has been replaced by the following cartoon in the song 'Chhinn chhinn karti chali uhidiya'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Daur",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21130",
+    "cert_date": "12-8-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Song No. 1 - \"Yeh dowh hai voor jawanon ka\"",
+        "length_m": 240.4848
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Song No. 2 - \"Udo jab jab zulfe tori\"",
+        "length_m": 143.256
+      }
+    ]
+  },
+  {
+    "film_title": "Jalpari",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21388",
+    "cert_date": "5-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Put in a tablet reading that this story is purely imaginary and has no basis in history, mythology or legend",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Girl kissing girl",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Dand Majigal telling Rajkumari that he will also turn her upside down and take jewel. Delete entire sequence of hanging Rajkumari upside down by Mongol including preparation for it",
+        "length_m": 48.1584
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the words \"daku saacho veer hai also veeronki hamaro desh ko zamrat hai \"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the words \"yeh mere kaam ki cheez hai\"",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "During \"maica aaye\" song ditku Rajkumari's bust in progle, close-up and mediumclose and again similar shots",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete close-ups of Jalpari’s bust during boat scene",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete entire song No. 6 (beginning with the words \"Namkeen tumhari surat hai\") delete all close-ups of girls bust, all tickling of girls by two men, and suggestive gestures",
+        "length_m": 107.9016
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete Jalpari offering to massage Mangal's foot",
+        "length_m": 8.8392
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In song No. 7 delete the words \"raat suhani aayi\"; delete Jalpari's sensuous movements of her body nearest to Mangal when singing song beginning with the words \"khushi ko phool liye\"",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete butt-jerking and hip swaying by Chhukoo during dance",
+        "length_m": 8.2304
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete close-ups of Jalpari’s bust in dance without clothes",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete two close-ups of Rajkumari's bust when on bed in profile, heaving of bust, and prolonged shot",
+        "length_m": 31.6992
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete close-up of Rajkumari's bust when talking to father regarding Mangal",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete all generalisation of looting rich and distributing loot to poor",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce Mangal being dragged by horses",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce pulling of arrows from Jalpari’s body to only once and delete accompanying groans",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the words \"budhe Jawan hojaate hain\"",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "II,III A IV",
+        "description": "Delete the following words - \"Is tajoil\", \"haar le loojlye, main aurat ko belzzat nahin karoouga\", \"agar aisa ho bhi to kya harj hai\",\"makaaa kl lalaashPIene par bhi nahln mllegi\"/‘munh phlralo\" and accompanying gestures; delete Mangal’s move to search, Rajkumari",
+        "length_m": 24.384
+      }
+    ]
+  },
+  {
+    "film_title": "Natisherwan-E-Adil",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly coloured",
+    "cert_no": "21964",
+    "cert_date": "12-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "The following lines in song No. 5 : “la doaa kl hatha pa! men, Yeh rat hi gu^ad jati hal\"",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Breast jerks of dancers during song No. 6",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Close and medium shots where Manda and Noahzad are huddled together in a reclining position in the boat when singing song No. 6",
+        "length_m": 23.1648
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Entire scene where Noahzad is holding Mania in his embrace; they face the morning star and dialogues are exchanged suggestive of the fact that they have spent the night together",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Bad shots where Noahzad and Marzia separate their faces with a jerk suggestive of kissing",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Utavala Narad",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "21971",
+    "cert_date": "14-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Narad's dialogue—\"f^hoonyala artha yonyasathl sthobya ^kaohi sath mllavi lagte\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Narad's dialogue—\"Ashtanayakanohya gholkyat\"",
+        "length_m": 0.57912
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Narad's dialogue asking Krishna for one of his wives",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Old man’s dialogue—\"Ya nisha sarva bhutanam\"",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Krishna's dialogue—\"Karmanyevadhlkaraste\"",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Drastically the prayer to God, maintaining only the sentence which may not be derogatory to the dignity of the deity",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "A girl taking the professor to a dancing girl's house and a later reference in dialogue of the dancing girl to the incident",
+        "length_m": 2.5908
+      }
+    ]
+  },
+  {
+    "film_title": "Les Actualites Francaises - Regards Sur le Monde Journal No. 16",
+    "languages": [
+      "French"
+    ],
+    "cert_no": "21975",
+    "cert_date": "15-11-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The specific references in commentary and pictorialisation to syphilis and leprosy amongst inhabitants Black Africa in the item 'MEDECINE DE BROUSSE'",
+        "length_m": 13.716
+      }
+    ]
+  }
+]

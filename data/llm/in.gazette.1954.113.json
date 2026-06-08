@@ -1,0 +1,274 @@
+[
+  {
+    "film_title": "Sher Dil",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Colored",
+    "producer": "Batumi Pictures, Zaveri Building, Parol, Bombay-12.",
+    "cert_no": "10885",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Death scenes of Dhawan and Asha",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Marriage scene of Jeevan and Asha",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Dak Balm.",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jubilee Pictures, West View, Andhori, Bombay.",
+    "cert_no": "10612",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Song \"Zindagi men imyo jab\"",
+        "length_m": 76.2
+      }
+    ]
+  },
+  {
+    "film_title": "Panrakshn",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "National India Theatres, 24, Creek Lane, Calcutta-14.",
+    "cert_no": "9632",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "The word \"Meiri\" in two places",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Prafulla",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Movie Technique Society Ltd., 72, Russa Road, Calcutta-33.",
+    "cert_no": "9633",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "The word \"Mairl\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 12",
+        "description": "Shot of poison vial",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 12",
+        "description": "Scene depicting attempt to poison Jadab",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "The word \"Mairl\"",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Bati",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Jyotirbani, 148, Bowbazar Street, Calcutta-12",
+    "cert_no": "9634",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"You know what Sailors are",
+    "languages": [
+      "English"
+    ],
+    "colour": "Coloured",
+    "producer": "J. Arthur Rank Distributors (India) Ltd., 1, Rumnayan Place, Calcutta.",
+    "cert_no": "9987",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "beginning of the Trailer",
+        "description": "Two shots of dancing girls in red dress",
+        "length_m": 9.7536
+      }
+    ]
+  },
+  {
+    "film_title": "Vilayattu Bommai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sri Sukumar Productions, Royapettah High Road, Madras-4.",
+    "cert_no": "8169",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Rough-handling by policemen when arresting and taking away Bumaewamy",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Conversation and picture of Sudarseni laying that Radhi trusts with her eyes and mind, and dialogue that like the pearl in the oyster-bed which is made into a ring, she must be trained",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "Police Inspector saying \"This is a wonderful case, Alright, we shall go\"",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Mohan telling Radha that he has not yet become an experienced husband lying in a cot",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 287 (Special)",
+    "languages": [
+      "English"
+    ],
+    "producer": "Films Division, Govt. of India, 24, Peddar Road, Bombay-20.",
+    "cert_no": "10714",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Commentary with relevant scenes: \"Full details of upto . . . and civilisation as we know it\", \"There can be little upto to avert calamity\", \"Destruction threatens upto . . . the dire and that threatens\"",
+        "length_m": 33.528
+      }
+    ]
+  },
+  {
+    "film_title": "Lakeoren",
+    "languages": [
+      "Hindustani"
+    ],
+    "producer": "Sushil Pictures, 219, Famous Cine Laboratories & Studios Bldg., Mahalaxmi, Bombay.",
+    "cert_no": "10227",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Death scenes of Dhawan and Asha",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Marriage scene of Jeevan and Asha",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Hunum&njitnma Alias Sivtl Anjuni",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Rani Productions, Modem Studios, Karla Road, Andheri, Bombay.",
+    "cert_no": "10875",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot revealing Lalita's emphasised bust uncovered by attire when pushed back by Pawan",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (A)",
+        "description": "Reference to Anjani's illegitimate conception made by the proclaimer to the accompaniment of drum beat",
+        "length_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Lyli",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shah Pictures, C/o. Mohan Studios, Kurla Road, Andheri, Bombay.",
+    "cert_no": "10883",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "View of highlighted bust of the nurse during her conversation with the Princess",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Half the actual whipping of Khalid",
+        "length_retained_m": 5.7912
+      }
+    ]
+  },
+  {
+    "film_title": "Return To Paradise",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Western India Theatres Ltd., Marshall Building Ballard Estate, Bombay-1.",
+    "cert_no": "305",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Harry kissing Tarla passionately when they part at night",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel ZB",
+        "description": "The wardens being beaten in native rebellion particularly mid-close shots of crowd in jumping with freedom",
+        "length_retained_m": 4.2672
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The second native dance considerably, deleting suggestive movements of nub and hip-swaying",
+        "length_retained_m": 7.9248
+      }
+    ]
+  }
+]

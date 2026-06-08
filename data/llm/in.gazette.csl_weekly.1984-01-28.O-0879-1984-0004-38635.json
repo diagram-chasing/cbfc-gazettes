@@ -1,0 +1,32 @@
+[
+  {
+    "film_title": "Khubsoorat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Rupam Pictures Pvt Ltd, Ranjit Studios, Dadasaheb Phalke Road, Dadar, Bombay-14",
+    "cert_no": "91957",
+    "cert_date": "18-1-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted silent shot of the names R. D. Agarwal and Khubsoorat.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted portion of the song.",
+        "length_m": 37.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Added silent shot of a basket of eggs.",
+        "length_m": 3.66
+      }
+    ]
+  }
+]

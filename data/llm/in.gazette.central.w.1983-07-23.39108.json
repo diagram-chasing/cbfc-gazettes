@@ -1,0 +1,312 @@
+[
+  {
+    "film_title": "Sawaal",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Yash Raj Pictures",
+    "cert_no": "100532",
+    "cert_date": "30-4-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "VI & XII",
+        "description": "Delete indecent movements and low angle indecent shots of dancers (Helen and Kalpana Iyer's dance items) and replace with approved shots.",
+        "length_m": 2.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII & XIV",
+        "description": "Reduce the fight sequence and loud noises during firing, and reduce the view of Mehta's blood-stained hands.",
+        "length_m": 16.54
+      }
+    ]
+  },
+  {
+    "film_title": "Ashanti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Eagle Films",
+    "cert_no": "100533",
+    "cert_date": "1-5-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the sequence of Kumar's attempted electrocution of a man.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the dialogue 'Yeh mardana Bathroom Hai... Zanano Bathroom Mein Leh Jao' (sound only).",
+        "length_m": 0.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete close shots of Tony's bleeding wound.",
+        "length_m": 0.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the torture of Tony where the villain puts his foot on his wound.",
+        "length_m": 3.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the sequence of villains injecting Praveen and her shrieking.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the dialogue 'Aur Jagah Dande Ki Liye Mahin Mili Kiya' (sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII & X",
+        "description": "Delete shots where Shankar drinks directly from the bottle.",
+        "length_m": 2.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII, XIII, XVI, XVII",
+        "description": "Tone down the impact of fights between opposing groups by deleting hard-hitting shots and close-ups of blood, and reduce torture of Zeenat, Tony, and Kumar.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue 'Ek Chokri, Ek Bistar, Zaroor Kuchh Hoya Hoga' (sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete shots of blood on Amrish Puri's lips after the snake bite.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the dialogue 'Woh Mard Hi Kiya Jo Peeta Nahin' (sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete shots of blood after the villain in the car falls into the tank.",
+        "length_m": 0.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the sequence of the prisoner's murder to a suggestion.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete shots of Jeevan caressing Zeenat's thighs.",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete repeated dialogues of Jeevan asking girls to take off clothes.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Galli Te Dilli",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shree Tulsi Productions",
+    "cert_no": "4958",
+    "cert_date": "1-5-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Remove dialogue with gestures: 'AMHALA PANALA CHUNA LAVAYALA SANGA AUNTUMBI' suggesting sex act.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete dialogue: 'KI EKDAM BHUTIT HAATH GHALOO'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete dialogue: 'MUKHYA NASICHA NANTARA SANGATO'.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Yeh Vaada Raha",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Scene where policeman catches Vicky and brings him to Police Station.",
+        "length_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In Hospital, they bring Vicky and scene reduced about the injury of Vicky.",
+        "length_m": 47.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Tina listens to the record and remembers Vicky.",
+        "length_m": 106.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Scene between Shammi Kapoor and Tina reduced where Shammi consoles her and advises to see Vicky.",
+        "length_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "After the bathroom scene, scene between Sarika and Vicky deleted where she says that she wants to know about Vicky and Sunita.",
+        "length_m": 64.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "A long shot of Tina deleted in the end.",
+        "length_m": 22.25
+      }
+    ]
+  },
+  {
+    "film_title": "India - A Tryst With Destiny",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Sequences pertaining to Agriculture.",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Sequence pertaining to Industry.",
+        "length_m": 4.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Sequence pertaining to Space Research & Atomic Energy.",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sanam Teri Kasam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Barkha Movies",
+    "cert_no": "100837",
+    "cert_date": "6-5-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the use of the word Nirodh by the comedian (sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Scene showing Kamal Hasan and Birbal in the hotel room.",
+        "length_m": 5.66
+      }
+    ]
+  },
+  {
+    "film_title": "Sumbandh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s Seth Films International",
+    "cert_no": "4960",
+    "cert_date": "3-5-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In the bedroom sequence of Bhola and his wife, delete the dialogue 'Bibiji Wohi Kar Rahi Hogi Jo Hum Kar Raho'.",
+        "length_m": 14.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "A few inter-cut shots of Asha's cleavage to be deleted.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the shot of Asha putting her breasts on Prakash's thighs when she tries to seduce him.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "From the sequence of cabaret, delete the copulative movements of the dancers and replace with approved shots.",
+        "length_m": 7.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the sequence of seduction of Prakash by Asha, delete her throwing her bra on him, her mounting on him, her action showing opening of the bolt, suggestion of orgasm and the shots after explosion shot.",
+        "length_m": 53.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the attempted rape of Kiran by Shakti.",
+        "length_m": 10.57
+      }
+    ]
+  }
+]

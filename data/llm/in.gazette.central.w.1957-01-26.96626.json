@@ -1,0 +1,292 @@
+[
+  {
+    "film_title": "Burnt Babar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Vishw Bharati Films Private Ltd., 4B, Noaz Bldg., Lemington Road, Bombay 4.",
+    "cert_no": "18494",
+    "cert_date": "8th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Deleted the words 'Mora Yahu Sharir Apka Illo Jayeku'",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1434",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietone News Ltd., U.K.",
+    "cert_no": "18490",
+    "cert_date": "6th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted 'News' from the phrase 'News blockships' from the item report on Port Said",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the entire paragraph beginning from 'Now for another look at Port Said from the air' to the end of the item",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Gaumont British News No. 40/86",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Organisation, U.K.",
+    "cert_no": "18497",
+    "cert_date": "5th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "In the item 'U.N. Troops in Port Said,' deleted the paragraph beginning from 'Meanwhile study these aerial pictures of Port Said' up to the end of the item",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Respoutine'",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Kadiru Production, Paris, France",
+    "cert_no": "18498",
+    "cert_date": "6th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted two shots of passionate love-making and a bath where women are shown actually or suggestively unclothed partially or wholly",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "The Black Tent",
+    "languages": [
+      "English"
+    ],
+    "format": "VistaVision",
+    "producer": "Rank Organisation, U.K. London",
+    "cert_no": "18499",
+    "cert_date": "8th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted the guide's dialogue regarding procuration of girls",
+        "length_m": 22.5552
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deleted close shots of David bleeding at the shoulder",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted shots of the dancer where her thigh is exposed through slit dress",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted the last shot of the dancer where the dancer's skirt goes up and exposes her thigh",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deleted shots where Mabrouka is shown approaching David on the bed in green gown dress through which her body is visible",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Considerably deleted the scene where Mabrouka is shown embracing David on the bed",
+        "length_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'The Black Tent'",
+    "languages": [
+      "English"
+    ],
+    "format": "VistaVision",
+    "producer": "Rank Organisation, London, U.K.",
+    "cert_no": "18600",
+    "cert_date": "8th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of the dancer in which her thigh is revealed through the slit dress",
+        "length_m": 0.36576
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of Mabrouka lying on David in green gown dress",
+        "length_m": 0.24384
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol. 600",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "18604",
+    "cert_date": "8th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item 'Refugees arrive at Camp Killer' deleted the words 'Years of injustice'",
+        "length_m": 0.73152
+      }
+    ]
+  },
+  {
+    "film_title": "The Best Things In Life Are Free",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation, U.S.A.",
+    "cert_no": "18649",
+    "cert_date": "12th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduced to an absolute minimum all shots of close physical contact between the girl and the men in the sequence on the sea beach near the jail",
+        "length_m": 64.3092,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'The Best Things In Life Are Free'",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation, U.S.A.",
+    "cert_no": "18648",
+    "cert_date": "12th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the entire dance sequence during the sequence on the sea beach near the jail",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Cha Cha Cha Boom",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "18650",
+    "cert_date": "14th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted the dialogue of Tablo, 'Any time she needs me I am available'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduced near shots of women whose thighs are revealed while dancing",
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced the group dance particularly deleting shots of amorous movements as well as those of a dancing girl in the foreground with her thighs revealed, a shot of a dancer jumping to cling to the body of her male partner, shots of close physical contact and of improper exposure of female form",
+        "length_retained_m": 19.5072
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted the final shot of the dance",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced the solo dance particularly deleting the shots of the girl going to different males making suggestive movements, amorous movements of male and female dancers opposite each other, a man embracing a dancing girl and the amorous movements of the dancer",
+        "length_retained_m": 31.3944
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduced the Havana dancer picking the hero's ear and kissing him passionately",
+        "length_retained_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduced the duet dance particularly deleting amorous movements of the female dancer",
+        "length_retained_m": 23.4696
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduced considerably the amorous dance of Nita and her partner, particularly deleting near views and the amorous movements of the body",
+        "length_retained_m": 11.5824
+      }
+    ]
+  },
+  {
+    "film_title": "Escape In The Sun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Plumni Production, U.S.A.",
+    "cert_no": "490",
+    "cert_date": "18th December 1956",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted the sequence of the African Dance",
+        "length_m": 79.5552
+      }
+    ]
+  }
+]

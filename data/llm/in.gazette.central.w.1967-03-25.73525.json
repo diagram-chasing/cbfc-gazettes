@@ -1,0 +1,740 @@
+[
+  {
+    "film_title": "Trailer of Dr. Taitois House of Horrors",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "49337",
+    "cert_date": "20-12-1966",
+    "endorsement": "U",
+    "original_length_m": 97.23,
+    "length_deleted_m": 3.49,
+    "final_length_m": 94.75,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "two views of the face of the werewolf",
+        "length_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "a man crouching while he cuts",
+        "length_m": 0.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "a man's face as he is lit by a car",
+        "length_m": 0.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "the strangled price of a man as drugs overcome him",
+        "length_m": 0.63
+      }
+    ]
+  },
+  {
+    "film_title": "Hootenanny Hour",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "49351",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "original_length_m": 1025.0,
+    "length_deleted_m": 2.58,
+    "final_length_m": 1022.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Unit-1",
+        "description": "dialogue about a dress: \"Well, I don't see how he can forget it, since he's seen you without one\"",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Unit-1",
+        "description": "dialogue between A.G. and Ted regarding seduction and conscience",
+        "length_m": 0.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Unit 1 & 2",
+        "description": "indecorous views of A.G."
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Nick Carter On The Rivera",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "49355",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "original_length_m": 93.88,
+    "length_deleted_m": 7.09,
+    "final_length_m": 86.26,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "shot showing Nick falling on the tail in front of a passing train",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "words 'You are a brute - a brute'",
+        "length_m": 2.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "shot of girl suspended on the pot containing boiling oil",
+        "length_m": 3.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "prominent views of hard blows in fighting",
+        "length_m": 1.32
+      }
+    ]
+  },
+  {
+    "film_title": "Nick Carter On The Riviera",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "49356",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "original_length_m": 2614.57,
+    "length_deleted_m": 15.34,
+    "final_length_m": 2599.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "shot of Nick's assistant holding Nick's secretary after stumbling across them while entering the room",
+        "length_m": 0.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "prominent views of hard blows and stomach blows in the fight outside the saloon",
+        "length_m": 3.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "scene of torture of a lady suspended over the pot of boiling oil",
+        "length_m": 4.57,
+        "length_retained_m": 11.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "the last fight and shooting",
+        "length_m": 3.03,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "words 'You are a brute - a brute'",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. Brown Comes Down The Hill",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1881",
+    "cert_date": "19-12-1966",
+    "endorsement": "A",
+    "original_length_m": 987.55,
+    "length_deleted_m": 11.75,
+    "final_length_m": 975.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue of the Bishop addressed to the Harlot: 'Sometimes I wish I would throw off my gaiters and my black clothes and go out where pobody knows me and do all the things I've wanted to do and never dared to do- paint, sing, dance, get tight; may be learn more about your kind of loving.'",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue of the Harlot addressed to the Bishop about being handled and used like a second-hand motor car and sharing her bed with drunks, dotards, and teenagers",
+        "length_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue of Mr. Brown addressed to the black man: 'A few more Stalins, a few more Hitlers, a few more martyrdoms.'",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "slot of the Bishop's head in the lap of the Harlot",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "dialogue of Mr. Brown addressed to the Bishops about hating God and murdering Him",
+        "length_m": 1.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "dialogue of the second Bishop: 'Hitler's insanities, Stalin's brutalities -- all in the name of right'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "dialogue between the second Bishop and the Doctor about where Mr. Brown got the tablets",
+        "length_m": 0.62
+      }
+    ]
+  },
+  {
+    "film_title": "Doctor Zhivago",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1883",
+    "cert_date": "26-12-1966",
+    "endorsement": "A",
+    "original_length_m": 5566.56,
+    "length_deleted_m": 8.46,
+    "final_length_m": 5558.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue of Yevgraf: 'Yes, but do you know what cost? They were children in those days who lived off human flesh. Did you know that?'",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "dialogue of Pasha: 'No The Bolsheviks don't like me. And I don't like them. They don't know right from wrong'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "dialogue of the soldier: 'This Lenin - will he be the new Tsar then?'",
+        "length_m": 0.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "shots showing portrait of Trotsky wherever it occurs",
+        "length_m": 1.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "dialogue of Kostoyed: 'I am the only free man on this train The rest you are cattle.'",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "dialogue of Pasha: 'The personal life is dead in Russia. History has killed it'",
+        "length_m": 2.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "dialogue of Komarovskh: 'They trust no one They've found me useful.'",
+        "length_m": 0.71
+      }
+    ]
+  },
+  {
+    "film_title": "The Appaloosa",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1884",
+    "cert_date": "28-12-1966",
+    "endorsement": "A",
+    "original_length_m": 2763.62,
+    "length_deleted_m": 0.9,
+    "final_length_m": 2762.72,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Rec IX (54)",
+        "description": "close-ups of the scorpion in the Land-wrestle between Mutt and the bandit",
+        "length_m": 0.9,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Love Statue",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1885",
+    "cert_date": "30-12-1966",
+    "endorsement": "A",
+    "original_length_m": 2333.24,
+    "length_deleted_m": 35.92,
+    "final_length_m": 2297.32,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "sequence of Tyler and J. ina in bed, deleting all indecorous views of the couple",
+        "length_m": 2.75,
+        "length_retained_m": 30.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "dance sequence by deleting indecorous dance movements",
+        "length_m": 12.18,
+        "length_retained_m": 6.08
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "passionate kissing of a couple in Machiko's Bath",
+        "length_m": 1.21,
+        "length_retained_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "slots suggestive of lesbian sin",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "indecorous views of the girl after she starts disrobing",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "indecorous view of the girl after she starts unbuttoning her dress",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "indecorous view of a girl as she comes out of the bath",
+        "length_m": 4.26
+      }
+    ]
+  },
+  {
+    "film_title": "Pati Patni",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "49405",
+    "cert_date": "26-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4450.08,
+    "length_deleted_m": 5.75,
+    "final_length_m": 4450.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "shot of Guptaji kissing Lali on her neck",
+        "length_m": 1.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "indecorous views of Lali when she arches back during the song",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "near views of girls shaking their busts and rear view of a girl in white",
+        "length_m": 2.39
+      }
+    ]
+  },
+  {
+    "film_title": "Mitwa",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "cert_no": "49465",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3749.04,
+    "length_deleted_m": 11.89,
+    "final_length_m": 3737.15,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Krull",
+        "description": "scene showing Porg from stran: 18 Dviber nian",
+        "length_m": 4.88,
+        "length_retained_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "shots of winking by a man during the dance",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "scene showing molestation of Jaimuna by the village ruffian and resumption of the scene",
+        "length_m": 6.1,
+        "length_retained_m": 21.34
+      }
+    ]
+  },
+  {
+    "film_title": "Dus Lakh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "49466",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4230.32,
+    "length_deleted_m": 4.87,
+    "final_length_m": 4220.97,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Gokalchand licking Mrs. Little's hand",
+        "length_m": 1.52,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "sentence said by the villain to the hero's father in reference to 'Lul' Zara chuk kos dekho'",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "You Must Be Joking",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "49449",
+    "cert_date": "29-12-1966",
+    "endorsement": "U",
+    "original_length_m": 2776.73,
+    "length_deleted_m": 31.39,
+    "final_length_m": 2745.34,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reul 1 / 1",
+        "description": "sequence of a woman and the American collecting ceramic ducks, deleting all indecorous views of the woman's bosom",
+        "length_m": 27.43,
+        "length_retained_m": 24.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "RetrY",
+        "description": "indecorous views of the legs of a woman, near views of wiggling hips by another woman, and view of Fitzroy sitting between the legs of a woman",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Pinju Inn Publik",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "49450",
+    "cert_date": "24-12-1966",
+    "endorsement": "U",
+    "original_length_m": 1078.22,
+    "length_deleted_m": 19.83,
+    "final_length_m": 1058.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "the words 'Jai Kali Calcutta-wall up to' and '11a Ki Sulle'",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "futuristic wording of the song 'Sitaran Sitaram Ram Ram Ram'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "second hut of Kulu hiding from the Police as they pass by, including the word 'Sakuram' as addressed by him to the Police constables",
+        "length_m": 16.48
+      }
+    ]
+  },
+  {
+    "film_title": "Dulhan Ek Raa Ki",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "49458",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4538.47,
+    "length_deleted_m": 3.35,
+    "final_length_m": 4538.47,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "close shots showing the niggling of hip by the dancer",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Street Singer",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "49468",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3950.5,
+    "length_deleted_m": 17.06,
+    "final_length_m": 3933.44,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "indecorous movements in the 'Jerk'",
+        "length_m": 1.52,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "fight on the road, omitting prominent views of hard blows",
+        "length_m": 0.91,
+        "length_retained_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 111",
+        "description": "actual lifting up of the child and reduced running away of the criminal",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 111",
+        "description": "sentence 'Bursaat ku puble han jokin bujli ku disa kaan kare hain di poliuc pukod lun'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shivlal's indecorous movements while doing twist in bathing chaddi",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "dance, omitting indecorous movements",
+        "length_m": 2.74,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "shots showing prominent views of the girl jumping on the hero's thighs",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "P. W. inchu Dhund",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "49472",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3962.1,
+    "length_deleted_m": 14.62,
+    "final_length_m": 3947.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "words 'Gap bas bhadavy2.'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "words 'Kon Maulatdar yenar na he jaminicha Kabja Karayala baghtto.'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "words 'Arc he kasalan aapilun rajya.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "scenes of Puros showing loud crying by Koudi on the sum of Vaini and Dhondo",
+        "length_m": 12.19,
+        "length_retained_m": 12.1977
+      }
+    ]
+  },
+  {
+    "film_title": "Chala Utha Lagna Kara",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "10171",
+    "cert_date": "11-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3951.13,
+    "length_deleted_m": 75.41,
+    "final_length_m": 3875.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Word: 'Paw hci' from the sentence 'Hasun naka...kaya?'",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Word Mazan in the sentence.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Words 'Anubhaavglyu', 'Ghalun Dakhaoon', 'Anta nako' in the dialogue sequence: 'Pan ya vayant...kya ghyal?'",
+        "length_m": 1.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Word: 'Sakalik uula, futrich yeto'",
+        "length_m": 2.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Worrying Shobhaid removing the skirt and brassiers.",
+        "length_m": 1.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue sequence 'Lagna la suddhap ek vyayam ch aahe'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue sequence: 'Sarkirchya Panchvarshik yojanela...maga harakat nahin'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue sequence: 'Tanch qapalan sarkar...ten atan kalalan'",
+        "length_m": 2.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue sequence: 'An tuinbila,...karata yoil'",
+        "length_m": 7.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Words 'Mala tuzyashi ekanta karayachay'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue sequences: (a) 'Swamiji, kal....pan sanddhich milli nulun'",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "(b) 'Tya sathich tuli mi....shikavanar aahe.'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "(a) 'Mi ithanch, tumchya jayal....zopanar'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "(b) 'Ho I nihanudach mi....mag tar zalan'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "'Shevati ghasarlis na sinazyavar....anakhin konavar ghasarruar'",
+        "length_m": 2.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Dialogue sequence referring to mid-servant and God Hanuman stating 'Shiva thanıb....sukh nahis'",
+        "length_m": 34.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots showing Sadhna junior in the creased pose prominently showing her bosom.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Pointing of fists by Shobhana and Sadhana (junior) to each other in fighting sequence between them.",
+        "length_m": 3.2
+      }
+    ]
+  }
+]

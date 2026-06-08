@@ -1,0 +1,175 @@
+[
+  {
+    "film_title": "Wonderful Life",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "cert_no": "43165",
+    "cert_date": "8-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From the James Bond sequence, the view of the bare legs of Jenny as she approaches Johnnie, their second passionate kiss while they are lying on the shore and the action of Johnnie in moving his hand on Jenny's legs and stomach.",
+        "length_m": 5.58
+      }
+    ]
+  },
+  {
+    "film_title": "To Kill A Man",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "43166",
+    "cert_date": "8-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The view of Lynn when she starts undressing as well as the view of her bare back.",
+        "length_m": 5.89
+      }
+    ]
+  },
+  {
+    "film_title": "Dawn At Socorro (Revised International Version)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "43167",
+    "cert_date": "8-13-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V (31)",
+        "description": "Near view of the gunman's face in death agony when Wade has shot him down.",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "The Years of Study in Germany",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "43168",
+    "cert_date": "8-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The underlined words in the following sentence: 'The original spirit has been driven out, but lives on in the free world of the German universities in the West.'",
+        "length_m": 1.88
+      }
+    ]
+  },
+  {
+    "film_title": "Kissin Cousins",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "43184",
+    "cert_date": "11-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "1. The bust jerking of the Kittyhawk girl in a green bikini top. 2. The view of Kittyhawk girls pulling Josh down. 3. The near views of Azalea and Selena wearing bikinis and trying the make-up on.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Tokyo By Night",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "43185",
+    "cert_date": "11-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "1. Shots showing breast operation. 2. Shots of the semi-nude views of the dancers and pearl divers. 3. Shots of the nudes in the twist number. 4. The title 'not glamorous, but surely an amorous type.'",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Hiroshima Mon Amour",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "cert_no": "1549",
+    "cert_date": "11-12-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "The first shot of the naked bodies in embrace.",
+        "length_m": 11.19
+      },
+      {
+        "kind": "deletion",
+        "description": "The bathing sequence beginning with the shot when he comes into the bathroom while she is bathing.",
+        "length_m": 14.41
+      }
+    ]
+  },
+  {
+    "film_title": "Kissin Cousins",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "1550",
+    "cert_date": "11-12-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (20)",
+        "description": "The indecorous view of a Kittyhawk girl in yellow blouse with polka dots near a tree.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "The indecorous view of the two Kittyhawk girls getting hold of Josh and falling on him, and pressing him down.",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "China Town",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "34900",
+    "cert_date": "8-3-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The song beginning with the words 'Yeh Rang Na Badlega Ulfat Ki Nishani Hai . . . . . ' along with picturisation.",
+        "length_m": 105.77
+      }
+    ]
+  }
+]

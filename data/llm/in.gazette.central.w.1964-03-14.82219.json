@@ -1,0 +1,299 @@
+[
+  {
+    "film_title": "Pasbaan",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "M . Rafl -Aqayyum .",
+    "cert_no": "39915",
+    "cert_date": "18-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion of specific lines from the song 'Chhup Chhup Sanam tujhe meri kasam'.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of a dacoit advancing towards Gazala in a drunken condition with lascivious remarks.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Shot of the auctioneer taking liberties with Gazala while she is being sold.",
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Hassam's remark to Gulbano: 'Auo hamarc gale lag jao, hamari halat kharab ho gai hai.'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "In the song-dance sequence 'O dil tham ke sun betab...', shot of jerking of hips by Gazala and the Kotwal's sensuous reaction.",
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "In the song 'Kal tak to ek tho...', prominent views of Gulbano's emphasised bust and the line: 'Main bhi gol mol hun, banda bhi burik hain.'",
+        "length_retained_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels X, XII",
+        "description": "Near-views of direct spear thrusts in fighting scenes.",
+        "length_m": 1.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "In the song 'Aansuon ki arj aahon ki...', shot of a prisoner lying on nails with hands tied up.",
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots of bust-shaking by Nadira before the song 'Main Baghdad ki jadoogarni' starts.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "From the dialogue of Zarina's father addressed to Daku, the sentence: 'Musalman talwar ke saaye men paida hota hai, aur talwar ke saye men marta hai.'",
+        "length_m": 6.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The close-up of the robber chief drawing the dagger from his stomach after being stabbed by Nadira.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Junglee Raja",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M . K . Films, Krishna Cinema Bldg., Tribhuvan Road , Bombay - 4 .",
+    "cert_no": "39938",
+    "cert_date": "20-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue between Johnny and Saku: 'Idhar bichmen.' and Johnny's lines: 'Aisa nikaluinga ki pata bhi nahin chalegi . . . . kanta to kab ka nikal gaya , dard baqi rah guya .'",
+        "length_m": 9.12
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "The close-up of the gorilla and the silhouette of the tall ghost-like creature.",
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Near-views of skulls and reduction of weird noises in the den of the magi.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "During the song-dance sequence 'Kablak bane rahenge, zulmon ka hum alsbapa...', near-views of Madhu with emphasised bust (all shots blown up).",
+        "length_m": 20.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In the dance sequence, car-front views of indecorous movements of girls in Arab costume.",
+        "length_m": 20.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Near-views of the distorted face and hands of the guru.",
+        "length_m": 3.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of Madhu in a swimming costume lying on the ground after being rescued by Jaj, with part of her under-clothing visible.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "In the song 'Do ek do, do duni chaar...', the lines: 'Dil ko dil se mila ke dekho,' and 'Aankh se aankh lara ke dekho.'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Johnny's remark: 'Hamne Love ka matric pass kiya hai.'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Johnny's remark referring to Saku: 'Kiya chalta hai. . . . . . isi liyon to hum marta hai.'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Visuals of a skull swinging in the magician's cave and of the distorted face and figure of the guru.",
+        "length_retained_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "40 Pounds of Trouble",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Stan Margulus",
+    "cert_no": "39940",
+    "cert_date": "20-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II (1 B)",
+        "description": "Details of gambling in the Casino, particularly of handling of currency notes and roulette table etc.",
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Hercules In The Centre of The Earth",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "F . C . Mehra",
+    "cert_no": "39944",
+    "cert_date": "21-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots, before credit titles, of a girl with blood-stained neck, her screaming, and claws/heads of ghost-like creatures emerging from stone tombs.",
+        "length_m": 53.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of Theseus lying over a girl and kissing her.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "All close shots of the stone monster, Procrustes, when he tries to kill Theseus and his companion.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The shot of Lichog's frightening shadow as he suddenly appears in Delanira's room from the rear.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of claws of ghost-like creatures emerging from stone tombs and a flash of the ghost-like creatures appearing repeatedly to attack Hercules.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of a man being pierced through by mechanically operated spears.",
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots of Theseus falling in boiled lava.",
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of Helena lying with bleeding neck along with her screaming.",
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Ammaye Kanan",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Chitrasagar, No. 18 , G . N . Chetty Road , Madras -17 .",
+    "cert_no": "37905",
+    "cert_date": "18-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Before the scene showing Madhavi and Chandran spending the night together, it should be established that they were validly married.",
+        "length_m": 35.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song 4: Delete the text and picture in full.",
+        "length_m": 75.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "After song 6, delete the shot of Madhavi abandoning the baby at the gate and the camera zooming to the infant.",
+        "length_m": 9.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Madhavi's dialogues indicating that she was not a married woman.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduce the drunken assault on Madhavi by Sukumaran Nair.",
+        "length_m": 11.27
+      }
+    ]
+  },
+  {
+    "film_title": "Tobuttuvulu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sadhana Pictures (P) Ltd., Madras- 18 .",
+    "cert_no": "37893",
+    "cert_date": "07-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "ReelNo. 1",
+        "description": "Addition of emblem and titles.",
+        "length_m": 15.24
+      }
+    ]
+  }
+]

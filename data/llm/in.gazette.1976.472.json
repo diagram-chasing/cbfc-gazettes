@@ -1,0 +1,819 @@
+[
+  {
+    "film_title": "Man Of La Mancha",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Flat-Widescreen (35mm.)",
+    "producer": "20th Century-Fox Corpn. (I) Pvt. Ltd. Metro House, M.G. Road, Bombay-20.",
+    "cert_no": "79685",
+    "cert_date": "27-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the scene of molestation of Aldonza by deleting indecorous shots",
+        "length_m": 16.13,
+        "length_retained_m": 32.92
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Frenzy\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "79686",
+    "cert_date": "27-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of the nude body of a dead girl floating",
+        "length_m": 1.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of nude body of a murdered woman falling from truck on the road and lying on the road",
+        "length_m": 7.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Golden Voyage of Sinbad\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Columbia Films of India, Ltd Metro House, M.G. Road, Bombay-20.",
+    "cert_no": "79687",
+    "cert_date": "27-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete all shots of Natraj (referred to as Kali in the film)",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete reference to “six armed Goddes of Evil”",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete Kali fighting",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the blowing up of Trimurti",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete Kali turning its head",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Breakout\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Colombia Films of India Ltd. Metro- House, M. G. Road, Bombay-20.",
+    "cert_no": "79688",
+    "cert_date": "20-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete a woman saying “I have never been raped”",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Khabardar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm.",
+    "producer": "Shree Sainath International, 3/5, French Bridge, Bombay-7.",
+    "cert_no": "79699",
+    "cert_date": "29-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Delete the shots of Marvari shown as a blackmarketeer. Replaced with approved shots",
+        "length_m": 1.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Remove the shot of the tilting Ashok Pillar, the National Emblem. Replaced with approved shots",
+        "length_m": 4.9
+      }
+    ]
+  },
+  {
+    "film_title": "Prcet Tiyhi Majhi",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Bipin Shah, Kennedy Bridge, Bombay-4.",
+    "cert_no": "79811",
+    "cert_date": "30-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "General",
+        "description": "Delete reference to Mantri and Ministers wherever they occur with reference to Deshmukh. (Sound only)",
+        "length_m": 1.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete Deshmukh’s dialogue “Police khaat majhya Khishant aaha\"",
+        "length_m": 1.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce Ravi and Police DSP lighting the gangsters",
+        "length_m": 20.12,
+        "length_retained_m": 17.68
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Bewee K taya Kee\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm.",
+    "producer": "Jain Enterprise, 3/39 Air Conditioned Market, Tardeo, Bombay-34.",
+    "cert_no": "79812",
+    "cert_date": "30-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to once the whipping of the lady by the villain",
+        "length_m": 1.82,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Zorro",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm.",
+    "producer": "Mukul Enterprises, Raqjit studio, Dadar Main Road, Bombay-14.",
+    "cert_no": "79815",
+    "cert_date": "30-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "During the song sequence, delete the view of Nisha caressing the body of Vikram and also delete the view of Vikram kissing on the cheek",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the fight between Zorro and the soldiers",
+        "length_m": 15.1,
+        "length_retained_m": 30.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the dialogue \"Neeche se nahin, upar se” as spoken by Daroga and Rakha. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the reference to “Minister” in the dialogue of Shamshcr Singh. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the indecent gestures of Zorro in the qawali sequence on the word “doobna”",
+        "length_m": 2.72
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the fight between Zorro Sheru",
+        "length_m": 14.1,
+        "length_retained_m": 22.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce, considerably the fight between Zorro Sheru and the soldiers",
+        "length_m": 19.1,
+        "length_retained_m": 27.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the torture of Maharaja, particularly deleting the view of his being rotated while standing fixed on a round wooden structure",
+        "length_m": 5.89,
+        "length_retained_m": 0.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce the torture of the child particularly by reducing drastically the intercut shots of the child lying on the railway track and the train approaching",
+        "length_m": 3.05,
+        "length_retained_m": 32.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the fight in the village, reduce suitably the fight between Zorro, Sheru and the soldiers",
+        "length_m": 21.4,
+        "length_retained_m": 43.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce drastically the fight between Sheru and Shamsher Singh",
+        "length_m": 16.4,
+        "length_retained_m": 12.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce drastically the shipping of Zorro's mother",
+        "length_m": 9.68,
+        "length_retained_m": 4.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the fight between Shamshcr and Zorro near the water fall",
+        "length_m": 10.8,
+        "length_retained_m": 22.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the words “Solah saal ki umra men turn mere barah baja dogi” as spoken by Zorro to Rckha. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Delete the following dialogues of Shamsher: (a) Ek gulami karnc ke liye aai hai to dusari hukmat karne ke liye paida hoti hai. (b) Lakin aadmi ek aisa janwar hai jo boodha aur kamzhor bone ke bavzoot bukumat ka gaddhi so chipta, rehta hai aur aise raja ko thokar markar nikaal dena clmhiye”. (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Uljhan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Vijayashrec Pictures, 309-Neelam, Worli Sea Face Road, Bombay- 18.",
+    "cert_no": "79816",
+    "cert_date": "31-10-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete indecent dialogue about Karuna ’s suhag mat” between her two friends",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from Brij’s dialogue addressed to Karuna before her molestation \"Suhag raat se pehle ek suha g mat yehan mana lo\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete Brij’s remark addressed to Karuna \"Ab to suhag raat mana kar hi chhodunga\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the scene of molestation Karuna by Brij In the hotel, keeping only a couple of shots of Brij trying to pull Karuna towards him",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the shot in which Anand is seen kissing Karuna",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from Karuna’s dialogue addressed to Anand “Chachi nc kaha tha suhag raat palang par hi manana”",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From Anand’s reply, delete the underlined word “Itni thakavat ke baad ab suhag raat bhi manani padegi.\"",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the shot of kissing between Karuna and Anand",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Recta and Salome",
+        "length_m": 1.37,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the shot of Rosy praying for whisky before the picture of Christ",
+        "length_m": 20.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the impact of shooting down of Rosy, keeping only one shot of Rosy shot at by hoodlums",
+        "length_m": 20.11,
+        "length_retained_m": 0.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "From the dialogue between scientist and Master delete reference to \"Atom\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the impact of violence when Reeta is being kidnapped",
+        "length_m": 5.61,
+        "length_retained_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce dragging of Pyare Singh behind a moving car",
+        "length_m": 6.09,
+        "length_retained_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce strangulation of hoodlima by Prara Singh including the portion the shot when the hoodlums are awallowing cyanide pills. (Completely deleted)",
+        "length_m": 5.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce the impact of verbal threat of violence on Reeta by Master. (Completely deleted)",
+        "length_m": 18.89
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Delete the derogatory dialogue 4< Pyare vatan ko alwida karoonga” said by Mister. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the climax fight by reducing drastically hard hitting shots",
+        "length_m": 45.72,
+        "length_retained_m": 28.95
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Duel",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision (35mm.)",
+    "producer": "Film Finance Corporation Ltd, 91-fWalkeshwar Road, Bombay-6.",
+    "cert_no": "79866",
+    "cert_date": "11-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the violence in the second episode of battle between Sultan’s gang and the soldiers",
+        "length_m": 2.07,
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Faraar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Shankar Mukhcrjcc, Alankar Chitra, Filmistan Studio, S.V. Road, Goregaon (West) Bombay-62.",
+    "cert_no": "79867",
+    "cert_date": "11-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce considerably the scene of attempted molestation of Nita Rani",
+        "length_m": 7.01,
+        "length_retained_m": 15.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Delete the underlined words from the dialogues of Rajcsh : “ kanoon ki makkarl ka faisla hai\" Is kharidl hai adalat kc faisleko”",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "\" Yeh adalt jhuli hai your honour yahan rishwat chalti hai rishwat ”",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "(a) Delete the underlined words from Kobi’s dialogue \"Paise ho to khaoon bhi kharid ne sakta 4 Mahan appne late Mitaranc ka udghatan kiya tha’",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between Rajesh and Tarun Kumar deleting the hard hitting shots and also delete all the shots of Tarun Kumar’s hand being dashed against Shiv-ling",
+        "length_m": 3.96,
+        "length_retained_m": 15.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "From the dialogue of Rajcsh delete the words “Thuookta hoon tumhare kanoon par”",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "From the dialogue of the policemen delete the underlined word “Pulis officer ks makan hai kisi minister ka nahi.”",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Delete from the dialogue of a poor man wanting to go to prison for food only “Papi patnc majboor kiya”",
+        "length_m": 0.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "From the dialogue of Rajesh delete the words “Kanoon sc kisi ko nyay nahi mil sakta\"",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Delete the killing of two policeman by Rajcsh, delete the shot of bullets burstln on the chest of Rajesh. (Replaced with approved shots)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Delete the dialogue of Sapjay addressed to the Inspector General of Police, when he resigns ; “Aise kanoon ka haath pakadkar main nahi chal sakta”",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Dharam Karam”",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "R,K, Films, Trombay Road, Chembur, Bombay-71.",
+    "cert_no": "79868",
+    "cert_date": "12-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete BasantPs dialogue “Moonli me moonh dalnowali” and hero’s reply “Ychan ke log yehi to karate hai, isiliye desh ki abadi badhati ja rahi hai\"",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the impact of violence in the trailer by deleting hard hitting shots",
+        "length_m": 1.82,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the panning shot when Aashoo is shown in scanty clothes",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Naatak",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Filmlands, 301-Neelam Bldg., 10th Worli-Seaface Road Bombay, 18.",
+    "cert_no": "79860",
+    "cert_date": "11-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce drastically the rape scene of Sunita, deleting all the indecent visuals and views of torture",
+        "length_m": 14.02,
+        "length_retained_m": 13.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the light between the goondas and Suresh, deleting the hard blows and other gruesome visuals",
+        "length_m": 15.93,
+        "length_retained_m": 17.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce considerably the fight in hotel between Ashok and Suresh",
+        "length_m": 12.6,
+        "length_retained_m": 12.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight in Ashok’s house between the girls and Ashok",
+        "length_m": 21.4,
+        "length_retained_m": 30.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "In the temple scene delete the impression the Ashok has used “Arati” from getting Uma fainted",
+        "length_m": 0.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "XfV",
+        "description": "Reduce considerably the torture and molestation of Uma by Ashok",
+        "length_m": 15.93,
+        "length_retained_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce drastically the fight between Ashok and Suresh and their groups, deleting, the hard hits, views of excessive blood and other gruesome visuals",
+        "length_m": 45.12,
+        "length_retained_m": 47.0
+      }
+    ]
+  },
+  {
+    "film_title": "Badnaam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Om Prakash Muchhal alias Omee Arora, 3-Doctor Quarters, Bharat Nagar, Grant Road, Bombay-7.",
+    "cert_no": "79861",
+    "cert_date": "11-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II Sc HI",
+        "description": "Reduce drastically the fight between Shamu and others in the drinking den, deleting the hard blows on head, face and stomach, and also other gruesome visuals",
+        "length_m": 21.24,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "(a) Delete the underlined words from the following dialogue of the Muslim character : “Hamate liye peena hurt am hai main apanc haath se nahin pccta’\"",
+        "length_m": 4.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "(b) Delete the reference to \"Cottage Industry\" in the sentence ‘Cottage Industry ko badhava dekar sarkaar ki madad mama chahiyc\" Spoken by man while drinking alcohol.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete (he dialogue “Kya auraton ka zamaana liai” as spoken by a man in the shop. ( Delete sound only)",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "(a) Delete the underlined words from the following dialogue of the Muslim character : “Hamate liye peena hurt am hai main apanc haath se nahin pccta’\"",
+        "length_m": 0.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "(b) Delete the reference to \"Cottage Industry\" in the sentence ‘Cottage Industry ko badhava dekar sarkaar ki madad mama chahiyc\" Spoken by man while drinking alcohol.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the word 1 Nangi’ from the dialogue “Nangi ladki dikhao” (Deleted sound only.)",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce considerably the fight between Shamu and the fat goonda, deleting hard hits and other gruesome visuals",
+        "length_m": 22.86,
+        "length_retained_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XTV",
+        "description": "(a) Delete, the dialgue 4 4 Thor i dor me tumharl ye tar pan door ho jayogi 1 * as spoken by Banshi while trying to rape Meena,",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "XTV",
+        "description": "(b) Reduce considerably the scene of Mecna’s rape by Banshi avoid- ing the indecent visuals",
+        "length_m": 7.31,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XTV",
+        "description": "(c) Reduce the visuals of Banshi dying of dagger wound and delete close shot of blood oozing out from his stomach",
+        "length_m": 10.66,
+        "length_retained_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Breakout",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope (35mm.)",
+    "producer": "Columbia Films of India Ltd. Metro- House, M. G. Road, Bombay-20.",
+    "cert_no": "79862",
+    "cert_date": "11-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "During pretitle sequence, reduce the impact of killing by deleting firing at the helpless man, keeping only a couple of shots for continuity",
+        "length_m": 16.76,
+        "length_retained_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the scene of jail guard pressing the breast of a woman while she is entering the prison",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce drastically the suggestive reaction on Ami’s face when the guard is seen searching her under the skirt",
+        "length_m": 3.96,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete preminent shots of an indecorous sketch of woman drawn on the wall of Jay’s prison cells",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce drastically the beating and kicking of Nick’s accomplice by jail guards when he enters the premise masquarading as a woman. Delete the shot of blood cozing out of his face",
+        "length_m": 3.96,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the shot of a nude woman seen while getting into the bed with her husband",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the woman’s dialogue pertaining to rape addressed to Rick “Rape me and I will help you”",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Faraar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Shankar Mukerjee, Filmistan Studio, Goregaon, Bombay-62.",
+    "cert_no": "79883",
+    "cert_date": "14-11-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce shots of violence in the trailer",
+        "length_m": 2.28,
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Arjun",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm.",
+    "producer": "Universal Dealers and Merchants (P) Ltd., 30, Jawaharlal Nehru Road, CulCutta-16.",
+    "cert_no": "76827",
+    "cert_date": "15.11.75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "No. 3 : Reduce scene of fight between the tempo-driver and Dibya especially omitting twisting of tempo-driver’s arm and the last close up showing his contorted face with screaming",
+        "length_m": 0.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce close ups showing Dibya's wounded face smeared with blood",
+        "length_m": 1.0
+      }
+    ]
+  }
+]

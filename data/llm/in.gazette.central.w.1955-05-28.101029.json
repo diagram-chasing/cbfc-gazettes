@@ -1,0 +1,460 @@
+[
+  {
+    "film_title": "Bart Bahoo",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Varity Productions - India",
+    "cert_no": "3078",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Delete all physical contacts between boy and girl students in the picnic party",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "(a) Delete the intimate physical contact between Raja and Kamla in the best scene",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 2",
+        "description": "(b) Reduce to the minimum (particularly close-ups and mid-shots) all physical contacts between Raja and Kamla",
+        "length_m": 3.66,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Delete the words of the child Munni referring to her own livudi",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Delete all physical contacts between Raja and Kamla in the scenes showing them cycling together to college",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "Make corresponding cuts in flashbacks",
+        "length_m": 6.1
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Make the child insist on the celebration of Diwali",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the shot showing Raja putting arm around Bhabhi",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Delete the gesture of the child when conducting Raja to Kamla on the back",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Delete the mid-shots and close-ups of the two principal girl dancers at the birthday celebration",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 12",
+        "description": "Reduce to a flash Rajkumar burying by his chithra from the branch of tree",
+        "length_m": 1.22,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 13",
+        "description": "Omit all shots connected with the transfusion of child Munni's blood to Rajkumar, Munni on the operation table, Munni's mother threatening the doctor with a knife, and all the shouting in the operation room",
+        "length_m": 304.8
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Shabistan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shabistan Ltd.",
+    "cert_no": "3079",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Omit close-up of bust of husband and wife singing of leading dancer",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "OH Susanna",
+    "producer": "Republic Pictures India Ltd.",
+    "cert_no": "3089",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5 (a)",
+        "description": "Delete the shot of maniquering shoulders of woman in the foreground in the bar",
+        "length_m": 26.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 5 (b)",
+        "description": "Reduce fighting in the bar considerably",
+        "length_m": 2.13,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 5 (c)",
+        "description": "Reduce fighting between Captain Osborne and Trooper in forest",
+        "length_m": 2.44,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 5 (d)",
+        "description": "Reduced length of kiss between Captain and girl inside tent",
+        "length_m": 0.91,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 10",
+        "description": "Reduce the close-up of shooting, attack with axe and arrow in a man book in the famous Indian attack on the garrison",
+        "length_m": 2.44,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer Of \" For Indias Only \"",
+    "languages": [
+      "Hindustani"
+    ],
+    "producer": "Jaimani Dewan",
+    "cert_no": "3090",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the close-up of the bust of the girl in black",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "delete the shot of servant in talking to the narrator with a degin hanging the dress of the girl in scanty above the waist",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Jaimani Dewan",
+    "producer": "Jaimani Dewan",
+    "cert_no": "3090",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the close-up of the bust of the girl in black",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "delete the shot of servant in talking to the narrator with a degin hanging the dress of the girl in scanty above the waist",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Bird Of Paradise",
+    "producer": "20th Century Fox Film Corpn",
+    "cert_no": "3122",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the sentence \"A woman is not good until be humour an as grandmother\"",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Cavalier Noli",
+    "languages": [
+      "French"
+    ],
+    "producer": "Societe Der Filmw8ldos",
+    "cert_no": "3143",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Delete the word, \"smugglers are also people\"",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Delete the word, \"we will share them half and half\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Delete the word, \"Lunds k wife for pot of wine\"",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Kanyadan",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Shree Gopal Chitra",
+    "cert_no": "3199",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the words \"Havar manj Collegona darwaja par jaloo juo to vhhokarlo , unihokarlo delako\"",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete suggestion of doing in Prabha's house after the closing of mirror",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to a flash Jugal and Prabha running on the grass and lying down before they begin singing",
+        "length_m": 2.13,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the bust swaying at the beginning of Prabha's dance in dream song",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Last Outpost",
+    "producer": "Republic Pictures",
+    "cert_no": "3204",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the shot showing an American woman shot by a fire arrow and falling in a haystack",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Delete the scene where the last fight where an American Officer with an Indian Officer sitting down an Indian and also the soldier stabbing an Indian jumping down from the roof on the back of an American soldier, who in turn throws him down and kills him (Indian)",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Amar Bhoopali Alias Kuviſlonali",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Raj Kamal Kalumandir",
+    "cert_no": "3232",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Delete the shot showing Seote id. Pono of lanyuorous abandon whun singing the words \"tori gull mon \" etc. including the shot showing Suhil taking her away on bicycle",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Delete the words Gora Gorogalbharo bbare bazu patalo patale bent \" - pokon by Suhil t . Kaluand tho shot just following which suggests their kimsing",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \" Chinor Putul \"",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Narung Plotures",
+    "cert_no": "3236",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "3rd line of the sung AmiObinar putul Naram , and actions",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Song Manato dola dlya paplya ay guyo To get you delight No pabo wina poyar Socharming night , and actions",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Rainoome jhamajlam pe pitohle slundum Būror pranegoynu xhe morimori , and actions",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Song Hurray Moratohi baji Amra Bailor amra sailor umro gnilor Janu gudhu duty Ar atobo beauty , and actions",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close-up photo of a girl during night",
+        "length_m": 1.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "The girlsailor's dance song",
+        "length_m": 8.53
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "The doll's dance",
+        "length_m": 9.14
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "I love you very much Jhut nehihainatoh You are my delight Na pabo alaa poyar So charming night , and body movements",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletions and additions as in 3rd additions above",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Maldar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Navin Chitra Ltd.",
+    "cert_no": "3197",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the words \"Havar manj Collegona darwaja par jaloo juo to vhhokarlo , unihokarlo delako\"",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete suggestion of doing in Prabha's house after the closing of mirror",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to a flash Jugal and Prabha running on the grass and lying down before they begin singing",
+        "length_m": 2.13,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the bust swaying at the beginning of Prabha's dance in dream song",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \" Stage \"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jeoman Piotures",
+    "cert_no": "3203",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of the girl dancing while any body suit has already been cut out of the original picture",
+        "length_m": 9.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Lady With A Lamp",
+    "producer": "London Films",
+    "cert_no": "3266",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the sentence \"Butuo trao Ghod\" when the Hoon08 and images of Ohidoro Gods are shown",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Rom Janma",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mohan Pictures",
+    "cert_no": "3269",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Delete the shot showing Seote id. Pono of lanyuorous abandon whun singing the words \"mora ang ang labralo \" in hor Arst song , as it militates againyt the dignity of hor unique charactor",
+        "length_m": 0.91
+      }
+    ]
+  }
+]

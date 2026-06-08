@@ -1,0 +1,486 @@
+[
+  {
+    "film_title": "Circus Carnival",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "producer": "The United Pioneer Films (Private) Ltd., Aidm Bldg., Dhobi Talao, Bombay 2.",
+    "cert_no": "20574",
+    "cert_date": "27-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The fake reptile tickling the upper part of the lady performer's body",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Views of Margarita scantily dressed where her physique is indecently exposed",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Views of dancer Margarita when she makes indecent movements or when she appears scantily and indecently clothed",
+        "length_m": 27.43,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The Professor helping Margarita to put on stockings, particularly deleting the low-angle shot of Margarita",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the indecent dance of the beauty dressed dancer and of her companions",
+        "length_m": 117.35,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Circus Carnival\"",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "producer": "The United Pioneer Films (Private) Ltd., Aidm Bldg., Dhobi Talao, Bombay 2.",
+    "cert_no": "20575",
+    "cert_date": "27-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of Margarita scantily dressed where her physique is indecently exposed",
+        "length_m": 21.03
+      }
+    ]
+  },
+  {
+    "film_title": "Miss India",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rawal Films, 31H, Naaz Bldg., Lamington Road, Bombay 4.",
+    "cert_no": "20579",
+    "cert_date": "27-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Shots of dancers in horizontal positions and also the shot where Anil holds a reclining girl passionately in his arms during the dance",
+        "length_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Rumble On The Docks",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Lotus House, 33A, Marine Lines, Bombay 1.",
+    "cert_no": "20589",
+    "cert_date": "28-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The scenes in which two 'stompers' try to criminaly assault Della in the godown, retaining only a flash from the last shot for continuity",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "3 shots in which the small boy is subjected to torture and abuse by the two stompers, retaining only the first and last shot for continuity",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Considerably the acquirement of free light between the rival gangs in the dance hall",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Considerably the scene of free light on dockside",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "P",
+        "description": "To the minimum the street fight between the rival gangs",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Bandido",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2499.34,
+    "length_deleted_m": 7.62,
+    "final_length_m": 2468.92,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following dialogues: 'You won’t be satisfied with this' and 'You are right, but it’s a start'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "description": "The following dialogues: 'You know what they do with runaway slaves, don’t you?' and 'No, but I’m sure you’ll teach me'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "description": "Scene of Wilson and Lisa lying on the beach and making love",
+        "length_m": 3.66,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Bandido\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following dialogues: 'You won’t be satisfied with this' and 'You are right, but it’s a start'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "The following dialogues: 'You know what we do with runaway slaves, don’t you?' and 'No, but I’m sure you will teach me'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "description": "Scene of Wilson and Lisa lying on the beach and making love",
+        "length_m": 1.83,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Tujposhi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Tejnath Zar, Shri Sound Studio, Dadar, Bombay.",
+    "cert_no": "20592",
+    "cert_date": "29-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where the shoulder of the dancer is prominently displayed",
+        "length_m": 3.84
+      }
+    ]
+  },
+  {
+    "film_title": "Janam Janam Ke Phool \"Alia Satl Annapurna\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mukti Films, C/o. Forward Films 3-0, Naaz Bldg., Bombay 4.",
+    "cert_no": "20600",
+    "cert_date": "30-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots where Vishnu sings Shankracharya verse 'Punarapi jannnam'",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots where Annapurna is snatched by Kishin from her husband Righu and is taken away to her uncle",
+        "length_m": 32.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where dancer's torsos are vulgarly displayed in close fitting drawers",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "description": "Dialogues of Krishn and the uncle insulting Righu, Annapurna’s husband, in her presence with reference to his matrimonial relations with her",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot where Annapurna’s uncle makes gestures signifying his assent to Righu’s murder",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "description": "Sequence beginning with the shot where Gudiya jumps out of Righu’s bag, got round the falling figure of Righu and enter the bag again with the dialogues exchanged between Gods during the sequence",
+        "length_m": 42.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots of Draupadi, Seeta and Ahilya and their dialogues",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Vishnu receives letter of Annapurna",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "description": "Vishnu’s dialogue derogatory to Sanyasins and where asks Raghu to give up Sanyas and to return to worldly life",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Raja’s following dialogue: 'Ek palak ki matl ke baad mujho moufc mil jaye'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Strangulation of the soldier",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Vishnu’s dialogue asking Raghu to give up Sanyas and to revert to worldly life (sound)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Man With The Gun",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "20608",
+    "cert_date": "31-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The sequence of the flagrant and cold-blooded close range shooting of the dog by one of Roman’s gunmen",
+        "length_m": 1.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "F",
+        "description": "The scene of saloon girls in briefs and frilled skirts open in the front when they are talking with Nolly Bain omitting close shots of the girls whose thighs are exposed",
+        "length_m": 21.34,
+        "length_retained_m": 17.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The performances on the illuminated stage at Palace tavern by the girls in briefs and frilled skirts open in the front when Glint Tollinger enters in the bar",
+        "length_m": 12.8,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Far East Bastions",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "20624",
+    "cert_date": "4-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following lines from dialogue: 'To the gunners it is a hunting light' and 'The citadel of Free Hind'",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Tanganyika Today",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "20625",
+    "cert_date": "4-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The dialogue, 'The responsibilities of self Government are a bit run tod and as yet Tanganyika is hardly ready to accept them'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The dialogue, 'Welfare must await acceptance and growing understanding progress and change must come slowly'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The dialogue, 'Wherever the African has lived he has loatad soil erosion'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The words, 'And it would appear that they can never start too young'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The dialogue, 'Almost certainly the grand parents of these young men are still primitive'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The dialogue, 'again the Ngoina boasts this tiia -1 fur one of Africa’s string sit d rn.ee i. TliL is the nionlrey dance, its origin and moaning readily understood'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The dialogue, 'It is a land which the European has mdliwed, developing bum l u jl s nf film land and creating a gracious way of livl ig'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The words, 'The trusts skip is in good hands'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The sequence of monkey dance and the dance licipienoH in v/liich \filt am, wlul ' daivuny, make iioIbc Uko that of animals",
+        "length_m": 18.59
+      }
+    ]
+  },
+  {
+    "film_title": "Johnny Come",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "20626",
+    "cert_date": "4-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The shots in which Tallman is writhing under repeated gun-fire from the citizens and also after the gun-fire stops",
+        "length_m": 12.8
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Johnny Come\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "20628",
+    "cert_date": "4-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following words: 'With Hungary’s freedom fighters'",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "description": "The following words: 'Who fought Communist domination in Hungary when the domination was re-imposed they chose to leave'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "The following words: 'To escape persecution of giving up even sense of belonging in their land of origin because they valued human freedom more highly'",
+        "length_m": 1.68
+      }
+    ]
+  },
+  {
+    "film_title": "Battle Hymn",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "Universal Pictures India Private Ltd., Mustafa Bldg., Sir P. M. Road, Bombay.",
+    "cert_no": "20639",
+    "cert_date": "6-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Man— But Red destroyed everything or took them away, (remainedoo koronorau kong san kun ee dali hualkn da kaohokaku Mai -Ut- Chive kukerfc * a natiuryi), Obam An-Doit Man Dj-Yo.) — Korean translation",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Maples — 'Bandit coming on your tail, Colonel.'",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Tattered Dress\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Universal Pictures India Private Ltd., Mustafa Bldg., Sir T. M. Road, Bombay",
+    "cert_no": "20634",
+    "cert_date": "5-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The close shot where Mrs. Keaton is seen in tattered dress exposing parts of her bust and thigh prominently",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "description": "The shots in which Hook and Mrs. Morrow are seen together on the bed in the latter’s bedroom",
+        "length_m": 5.79
+      }
+    ]
+  }
+]

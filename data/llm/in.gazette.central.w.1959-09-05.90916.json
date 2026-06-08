@@ -1,0 +1,845 @@
+[
+  {
+    "film_title": "Sujata",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26556",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Voluntary deletion",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Voluntary deletion",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl IV",
+        "description": "Voluntary deletion",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Voluntary deletion",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl II",
+        "description": "Voluntary deletion",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Voluntary deletion",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Voluntary deletion",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Voluntary deletion",
+        "length_m": 271.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl VIII",
+        "description": "Voluntary deletion",
+        "length_m": 65.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Voluntary deletion",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of I Married A Monster From Outer Space",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27754",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of titles and commentaries: 'Honeymoon horror', 'Could space monitor mate with earthly women', 'Steal bodies of man', 'Passionate dream of perfect romance'",
+        "length_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "The Big Country",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama",
+    "cert_no": "27769",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Views of Leech with bleeding face and Mackay with blood on his shirt",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIX",
+        "description": "Shots of Buck, blood-stained, after he is mortally wounded",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Lassoing and dragging of struggling Hennessy men",
+        "length_m": 5.49,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "The episode of Leech forcing a kiss on Pat and her cries",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Considerably the episode of Buck trying to molest Julie; following the episode delete the close-shot of Rufus being strangled by Buck",
+        "length_m": 20.73
+      }
+    ]
+  },
+  {
+    "film_title": "From Here To Eternity Type - 2",
+    "languages": [
+      "English"
+    ],
+    "format": "Megaroopc",
+    "cert_no": "27789",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of words 'undestine loves' from sub-titles and shots of Karen and Warden in close embrace on sea beach with waves laying over them, including her words 'Nobody ever loved me the way you did'",
+        "length_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Yala Jivan Aso Nuv",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "27790",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From Nath dialogue 'uyauh mahve knoro Mahai ronthar bhaunint' (Sound)",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue 'Tuan Khrushchev hopel' (Sound)",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In song, beginning with the words 'Kan kaphat rungalu...', action of fight between Vithu Yugaucht in open, replaced by approved shots",
+        "length_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From song of meeting in chawl, the words 'Maazyaa mulinkhado baghto kady, patru panthavito kaay?' (Sound deleted)",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I-III",
+        "description": "In song 3, beginning with the words 'Tu mohg men jalrani...', all shots of close physical proximity between Nath and Sugandha on the lines, 'Aulo babruni tuzyaguthi, moo gandha tu phoolcani, uo lurwalto tuzya aathi' towards end of the song, replaced by approved shots",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "description": "The word Mumbai pronounced from the dialogue (Sound)",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "In song 5, beginning with the words 'Aalo naachal ghoiinad jal-ghntıkn...', all shots of amorous movements of bust and hip by Chanchalla on the lines, 'Aglo dhundit phulaayit tarovatikan...phoolrani ploolruni meo phoolrini phoolrani'",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Scene of rush in queue or kerogeno; particularly delete shots of close physical proximity between Nath and girl in front of him",
+        "length_m": 1.52,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Samrat Prithviraj Chauhan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27702",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Addition of a tablet stating the story is based on 'Prithviraj Raso' by Chand Bardai",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The word Hindustani in the remark: 'Imandarike sath apne watan ke saath kalao guddari ke jati hai, woh koi Hindustani so'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Complete picturization of the dance accompanying the song 'Thandi hawa ane lagi, hai, jawani bal khano lagi', including specific lyrics and actions",
+        "length_m": 115.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot of a man coming down from a building holding his dhoti incorrectly, replaced by approved shot",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots of arrow piercing body, man crushed by elephant, man trodden by horse",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The word Maharani with reference to the Court dancer Karnataki",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Bathing scene of Karnataki, omitting prominent views of bare body above water, shots of a paid lying on her belly, and intervention of Kaimas, retaining only his entry and apology",
+        "length_m": 86.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Man-handling of Karnataki by Kaimas, omitting his attempt to embrace her and his remark",
+        "length_m": 4.88,
+        "length_retained_m": 21.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Sequence of blinding of Prithviraj, keeping only suggestion for continuity, deleting sadistic climax and general atmosphere",
+        "length_m": 9.14,
+        "length_retained_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Voluntary deletion",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "Kavi Kalidas",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly coloured",
+    "cert_no": "27704",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1/1",
+        "description": "The words 'Doodh- ki tarah ubalati hui jawani'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl VI",
+        "description": "Thoisting and lowering of Azn by the executioner in the scene where Kalidas offers himself for sacrifice before Goddess KALI",
+        "length_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The kick given by Vidyuttana to her pregnant maid-servant",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "In the dance in the temple court-yard, the shot showing backward bending of the dancer and her rolling on floor, replaced by approved shot",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Rolling down the stairs of Kalidas after his wife pushes him (Completely deleted)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The recital of the first part of 'complat Pin Payodhar' especially when it is accredited to Kalidas as his first poem on inspiration from Pushpavali after the returns from bath (Sound Replaced by approved sound 'Kamal Nal Sani')",
+        "length_m": 14.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The scene of bribing of the spy to a suggestion. Omit elaborate gestures for drowning Pushpavali and promising of more etc. (Completely deleted)",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Voluntary deletion",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Voluntary deletion",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Voluntary deletion",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Voluntary deletion",
+        "length_m": 25.6
+      }
+    ]
+  },
+  {
+    "film_title": "Hazaar Pariyan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27807",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Auctioneer's remarks on youth of Nadira",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue about abusing God and implication that God yields gifts when He is abused",
+        "length_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII-VIII",
+        "description": "To a flash love-scene between Gulruz and Nadira",
+        "length_m": 10.36,
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Up Periscope",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "27809",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Entire love scene of Sally and Kun on beach from the joint where they fall flat on their back, and shots of them embracing, including her words 'Nobody ever loved me the way you did'",
+        "length_m": 33.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "From the scene of aerial attack on the submarine, shots in which some wounded members of the crew are shown to be profusely bleeding",
+        "length_m": 7.62,
+        "length_retained_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Bhakla Prahlad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27815",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From Indra Darbar scene, dialogue 'kaun se taap karnokaa kuyoo adhikar nabın'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of Hiranya Kashyap striking his son, shot of soldiers forcing down an old Brahmin with spears",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot of soldiers kicking at buried things collected for the Lord",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI, XII",
+        "description": "From dialogue, all references to human sacrifice to propitiate the God of Rain",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Scene of people suffering from thirst and being deprived of water, particularly delete shot of the child being deprived of water from a broken bowl",
+        "length_m": 4.27,
+        "length_retained_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of serpents",
+        "length_m": 10.97,
+        "length_retained_m": 12.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Scene after death of Hiranya Kashyap to show Prahlad is grieved at his father's death and is comforted by Lord Vishnu (added)",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Imitation of Life",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27816",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Steve passionately trying to kiss Lora and caressing her neck, and dialogue from Loomis to Lora",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot in which David Elliot kisses Lora passionately",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots of Sarah Jane moving from bed to wardrobe in a semi-nude state",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of Sarah Jane undressing and seen in mere underwear",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From Sarah Jane's dance in Larry's club, shots of her amorous movements and tossing up her legs prominently exposing her thighs",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From Moulin Rouge stage sequence, shots of scantily-clad dancing girls, tossing up their legs exposing thighs, and close view of Sarah Jane revealing her bust prominently",
+        "length_m": 31.39
+      }
+    ]
+  },
+  {
+    "film_title": "Rio Bravo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "887",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "To a flash the beating up of the bold man omitting all blows below the belt, to a flash the shooting of unarmed man at very close range, to a flash shule hitting of the prisoner with the muzzle of the ride by Sheriff, to a flash the dragging of the fallen prisoner by Sheriff and another man",
+        "length_m": 59.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Dragging of the dead man",
+        "length_m": 2.13,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "The scene of Feathers in black tights and after her going behind the partition, deleting her action of beginning to undress and talking to Chance, omitting dialogue about showing too much of herself and Chance telling that the night in tights may be reserved for him alone",
+        "length_m": 54.25,
+        "length_retained_m": 34.44
+      }
+    ]
+  },
+  {
+    "film_title": "Do Ustad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27720",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deletion",
+        "length_m": 8.23
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Addition",
+        "length_m": 11.28
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Addition",
+        "length_m": 8.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVI",
+        "description": "Addition",
+        "length_m": 12.19
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVII",
+        "description": "Addition",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Jungle Ki Duniya",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27953",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In song No. 2, beginning with the words 'Sun lo, sun lo, sun lo', close views of Meena performing amorous movements of the bust, replaced by approved shots",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From love-scene of Shobha and Vijay, shots of close physical proximity, replaced by approved shots",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of Circus Chief trying to enclose Shobha forcibly in his arms",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Scene of Santu whipping Vijay",
+        "length_m": 1.52,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Unforgettable Tour",
+    "languages": [
+      "Czech"
+    ],
+    "colour": "Colour",
+    "cert_no": "27801",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of 'The truthunn Holly' from sub-titles: 'The chief target of the Suez aggression', 'Offer silent protest', 'To succumb this act of Aggression', 'Name theory ICARD01', 'Iula murderoun attack', 'Born in the light against NXTY b8ion'",
+        "length_m": 113.08
+      }
+    ]
+  },
+  {
+    "film_title": "Your Bland and Munie",
+    "languages": [
+      "Czech"
+    ],
+    "colour": "Colour",
+    "cert_no": "27802",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of Morumuonna being executed by French Soldiers including shots of the dead bodies collapsing on the ground",
+        "length_m": 22.86
+      }
+    ]
+  },
+  {
+    "film_title": "Trow of Indhian Incluid",
+    "languages": [
+      "Silent"
+    ],
+    "format": "English subtitles",
+    "cert_no": "27866",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "All shots in which bulle breasts of women are visible",
+        "length_m": 2.9
+      }
+    ]
+  },
+  {
+    "film_title": "Pakshiraj",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27730",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels No. 3 & 7",
+        "description": "Handcoloured portions",
+        "length_m": 229.82
+      }
+    ]
+  },
+  {
+    "film_title": "Our Times Part II",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "11364",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletions",
+        "length_m": 24.99
+      }
+    ]
+  },
+  {
+    "film_title": "Our Times No. 8",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "14167",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletions in English, Hindi, Tamil, Telugu and Bengali versions",
+        "length_m": 49.99
+      }
+    ]
+  },
+  {
+    "film_title": "Goonj Uthi Shehnai",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "17720",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deletion",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion",
+        "length_m": 46.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Penn Kulathin Ponn Vllakku",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "26271",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Picture of Lalitha during dance song No. 2, and thereafter making love to Varadaajan, clad in thin skirt and band across the bust (close-ups), replaced by approved picturisation",
+        "length_m": 94.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl 6",
+        "description": "When Kothandam offers to make a musician of Kala, delete Chinnaiya's statement 'As long as she is not made into a guru inolon'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Picture on the wall, at the start of the panning shot showing Kanan and Lalitha",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "During song No. 6, delete (a) picture of the near kissing gesture of Kothandam and Kala in close-up, (b) text and picture of the lines 'The bee sings Auking for tha Arst kiss', and (c) text and picture of the lines 'Give me the honey from the llpa'",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "In the bed-room, after Kala's dance, delete Kothandim's dialogue (from 'Melay aahavondyathu...upto and including Duritha Kalam)",
+        "length_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Uzhavuklum Thozhilakkum Vandhanai Seivom",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "26256",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Additional length as per application under Rule 34 in Reels 11 and 18",
+        "length_m": 152.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Delete the entire scene in the prostitute's house (Mohan entering, seated, conversation with man, orange and mango brought, money paid, entry of Maragatham and Anuradha and Mohan embracing them both)",
+        "length_m": 56.08
+      }
+    ]
+  },
+  {
+    "film_title": "Manthravathi",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "20239",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 1",
+        "description": "Addition of credit-titles",
+        "length_m": 76.81
+      }
+    ]
+  },
+  {
+    "film_title": "Amar Deep",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "22042",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Addition of hand colouring to 4 dance songs in Reel Nos. 1, 7, 13 and 14",
+        "length_m": 575.46
+      }
+    ]
+  }
+]

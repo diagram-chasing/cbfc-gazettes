@@ -1,0 +1,1096 @@
+[
+  {
+    "film_title": "Trailer of ‘Gun Duel In Durango’",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "20972",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shooting between Dunaton’s men and Bangor’s",
+        "length_m": 2.44,
+        "length_retained_m": 2.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Raid on Express Co., shooting between Sheriff and townsfolk on one side and Dunaton’s men on the other; also random shooting in the open street in the beginning of the scene",
+        "length_m": 3.35,
+        "length_retained_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Horror of Draeula’ (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "colour",
+    "cert_no": "26973",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shriek of frightened woman",
+        "length_m": 1.14
+      }
+    ]
+  },
+  {
+    "film_title": "Safari City",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "26974",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of two African boys taking off their clothes and plunging in water",
+        "length_m": 3.23
+      }
+    ]
+  },
+  {
+    "film_title": "Gun Duel In Durango",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "20076",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Point-blank and direct shooting of a man with 20 $. The number of shots fired is only one. Kicking of duet on the dead man",
+        "length_m": 3.05,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shooting between Duneton's men and Bangers",
+        "length_m": 8.53,
+        "length_retained_m": 9.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "In the raid on the Express Co.’s cash, the random shooting in the open street. The shooting between Dimston’s men and townsfolk and Sheriff",
+        "length_m": 19.51,
+        "length_retained_m": 22.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "RtA VII",
+        "description": "The scene of bank robbery from Dan’s entry upto his exit",
+        "length_m": 12.07,
+        "length_retained_m": 18.59
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘C.I.D. Girl (Hindi)’",
+    "cert_no": "20979",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘7th Voyage of Sinbad’",
+    "languages": [
+      "English"
+    ],
+    "format": "Megascope, Colour",
+    "cert_no": "20980",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close shots of Cyclops",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of skeleton fighting with Sinbad",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of fight between Cyclops and Dragon",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Sinbad kissing the princess",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of skeleton appearing at the magician’s behest",
+        "length_m": 1.46
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of World Without End",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, colour",
+    "cert_no": "26982",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of attack by ‘giant-spider’",
+        "length_m": 0.88
+      }
+    ]
+  },
+  {
+    "film_title": "Nai Raahen",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20775",
+    "cert_date": "20-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII (Revised)",
+        "description": "Net addition",
+        "length_m": 121.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deletion",
+        "length_m": 21.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletion",
+        "length_m": 32.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion",
+        "length_m": 35.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "Deletion",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion",
+        "length_m": 64.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion",
+        "length_m": 6.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion",
+        "length_m": 18.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion",
+        "length_m": 14.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deletion",
+        "length_m": 33.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deletion",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deletion",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XVII",
+        "description": "Deletion",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Chawa-Pawa",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "21583",
+    "cert_date": "23-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "Shot right at the end showing Rajat and Manju in close physical proximity",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Minnal Veeran",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Partly coloured",
+    "cert_no": "26210",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Picture of prisoners removing bars and escaping",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "In the cave after the opening picture shot of Chinniah, Mohini and the old man looking around, delete the rest of the picture and dialogue",
+        "length_m": 31.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "When fishermen pray to the deity, delete the entire picture and dialogue of soldiers trampling on fish, denying their right to fish and the fighting which follows",
+        "length_m": 63.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "When Ramiah advises Vadivelu to be restrained, delete the statement that it was not a single tree but the entire forest which must be destroyed and it should be by stratagem, upto and including the reference to Chanakya and Chandragupta",
+        "length_m": 22.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Wong Mo. 3 — Delete (a) picture of starving dogs and a boy quarrelling on the dirt-heap to eat the refuse; (b) picture and text of the verse beginning 'Kiuelal paithiatthal' and ending 'Vosi Nat'; (c.) text of the verse from 'Ozbnkkathai Sinnamai' and ending with 'Ooril Buthuvadhum pnriallo'; (d) text of the verse from 'Padippu vasanal ulla...' and ending 'Tnnum pokallo'",
+        "length_m": 36.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6 and Reel 6",
+        "description": "All close-up inserts and shots of Mohini dressed in a low-cut jacket, exposing her bust. (10 separate shots)",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Picture of Sundaram kicking Ramiah",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Statement of Vadivelu about the local people and about the outside people being available",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Statement of the Zemindar admiring the beauty of the Hindi boy and Kavori’s reply. (Sound only 9 ft.)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Statement of the Collector that he could not expect mercy from the British Government who wants only taxes upto and including the reply of the dubash before the Zemindar is announced",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When the Collector promises help to Zemindar, delete the picture and dialogue of the dubash explaining that assistance was available from own people to kill their fellow-countrymen",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Palani offering to take the job of treating the soldiers free and Singaram objecting",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Sound of Mohini being flogged by Sundaram, and the length of the reaction shot correspondingly",
+        "length_m": 3.05,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Vadivelu being asked whether he was a Minister and the reply that he did not want that position as then he could not serve from name from all people",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Song No. 7, Delete (a) all the picture of the dancer wherever her legs are visible through the transparent skirt.; (b) the superimposed shot of her offering grapes and wine to Sundaram and (c.) the concluding picture of her swaying and leaning on Sundaram or when the camera track back exposing her thighs.",
+        "length_m": 62.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Minnal Veeran telling Manorama’s brother that the money was not for him, but for the poor people, that it was in the name of justice",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Picture of Minnal Veeran throwing the money to the fisher-folk and their acclamation.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "(a) the statement of Palani and Singi in the call — 'If you got a stick we can have stick dance and (b) had been prisoners themselves in this place'",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Palani asking the jailor to close the barred door with planks and a bolt and give them facilities",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Palani telling the jailor that in their eyes he appeared to be the prisoner",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Song No. 8 — Delete (a) the text and picture of the verse beginning 'Vcepa Kazhikhatho' and ending 'Makkaru Panname va Soi' (The verse addressed to the donkey by the washerman); (b) the picture of Mohini in close against the background music, jerking her bust with arms raised above; (c) at the end of the song, the picture of Mohini in close-up jerking her bust, and all of them dancing round the donkey",
+        "length_m": 24.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7,5",
+        "description": "Delete the entire picture and dialogue from the beginning when Manorama’s brother gives Sundaram drinks. (Portion retained for continuity).",
+        "length_m": 32.61
+      }
+    ]
+  },
+  {
+    "film_title": "Sabz Bagh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "34",
+    "cert_date": "19-2-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Word ‘Bhaugl’ as referred to by Lindyal",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Word ‘Pariyan’ as used by Babubhai while soliciting loan from the Marwari Seth",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Shot of Rupa in the hotel room lying on bed with bust partly exposed",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Shot of the boy in the vicinity of the redlight district overhearing the dialogue between Babubhai and Dr Manohar",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Scene of women as shown sitting in the bazar",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Jazz Dance",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "20993",
+    "cert_date": "24-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot of a man on whose lap a girl is sitting at a table and he is striking his feet and moving his thighs to the tune of a jazz",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Near views of a lady’s transparent frock going up whilst dancing exposing portions of her under-garments and thighs",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close shots of indecent backward movement of the lady",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close shots of a Negro dancer kicking in air",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close shots of a man jumping",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Near views of a lady’s frock going up whilst dancing and exposing her thighs",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "What Lola Wants",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27009",
+    "cert_date": "26-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Close front views of Lola dancing in latticed garment, after she removes her skirt",
+        "length_m": 27.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "In the nightclub dance, the shots where men and women are shown lying on one another",
+        "length_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The seductive dance of Lola particularly deleting near front view where she shakes her hips",
+        "length_m": 12.1,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "The shot of Jack the ripper killing with a knife and the shot, picturising cannibalism",
+        "length_m": 14.33,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of What Lola Wants",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27010",
+    "cert_date": "26-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near front views of Lola where she shakes her hips",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Lola in latticed half-pants",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Adventures of Arsene Lupin’",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27020",
+    "cert_date": "2-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All instances of kissing",
+        "length_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Naked And The Dead",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27028",
+    "cert_date": "3-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Scene of a man lying with a girl in the barn and kissing. The dialogue — ‘Who made it her business never to hide anything.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The dialogue ‘Oh I hardly recognized you with all your clothes on’",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots (in circle) lying and her leg",
+        "length_m": 6.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a man and a girl lying close to each other and kissing, a shot of Jersey Lilli in flimsy dress and a shot of a man with a girl on his lap whom he is making love",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Inside",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "847",
+    "cert_date": "11-3-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red VI",
+        "description": "Shot of Rizzio slapping Trudie",
+        "length_m": 5.33
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Auntie Mame’",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama, Colour",
+    "cert_no": "27077",
+    "cert_date": "13-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Babylon and Mame falling on the couch together.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue — ‘You do have a bust!'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Words of Gooch— ‘I Lived’",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Mastana Ki Khushbu",
+    "languages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "cert_no": "27085",
+    "cert_date": "13-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot immediately following title where a girl is shown wriggling her hips when doing 'Hula Hoop' round the waist",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Is Your Honeymoon Really Necessary’",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27009",
+    "cert_date": "12-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The words “you rouse me” and reduce the prolonged kiss after that",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The maid swooping on the colonel and kissing him",
+        "length_m": 1.34
+      }
+    ]
+  },
+  {
+    "film_title": "Aangan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27002",
+    "cert_date": "20-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red X",
+        "description": "Shots and dialogues which establish wrong interpretation or statement of the Divorce law by the judge",
+        "length_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "Heels XV & XVI",
+        "description": "Considerably shots wherever occurring in which the step-mother maltreats Kamal",
+        "length_m": 26.52,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Chhoti Bahen",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27001",
+    "cert_date": "26-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel F",
+        "description": "Addition",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Addition",
+        "length_m": 88.39
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Addition",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Naked and The Bead",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "847",
+    "cert_date": "11-3-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of Rizzio slapping Trudie",
+        "length_m": 5.33
+      }
+    ]
+  },
+  {
+    "film_title": "Naked and The Bead",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "847",
+    "cert_date": "11-3-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of Rizzio slapping Trudie",
+        "length_m": 5.33
+      }
+    ]
+  },
+  {
+    "film_title": "Jawabdari",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "20822",
+    "cert_date": "4-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The remark by Raika. ‘HAVE POLSON LAGADVUN BANDH KARO’ and all references to poison in the same context",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Minnal Veeran",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "26210",
+    "cert_date": "19-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 5",
+        "description": "Addition",
+        "length_m": 12.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 7",
+        "description": "Addition",
+        "length_m": 78.64
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 13",
+        "description": "Replacement",
+        "length_m": 48.77
+      }
+    ]
+  },
+  {
+    "film_title": "Orey Vazbi",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "20208",
+    "cert_date": "17-2-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 4",
+        "description": "Addition of a dance-song",
+        "length_m": 197.23
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 10",
+        "description": "Addition of some sequences",
+        "length_m": 18.59
+      }
+    ]
+  },
+  {
+    "film_title": "Patharui Mathu Thangam",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "26218",
+    "cert_date": "12-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "In the stage-drama, delete (a) Siva attempting to dance and falling down (b) the comic dialogues by Siva in full, leaving only the bare minimum for continuity, (c) Yuma asking Siva to steady at least one of his 3 eyes, and later describing the dance by Siva as rock and roll.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "When Maragatham tells Manickachalam that nowadays he was not as before, delete his reply",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Dance-song— Delete (a) the lines in the text ‘Voikkirn Idarn Theriama Vaikkirar’— wherever it occurs. (In the repetitious also), (b) the picture of the dancer gesturing against the words “grapes”. (Entire song deleted by applicant)",
+        "length_m": 92.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Reduce to one statement only, the dialogue of Thangam telling her children that she was going to commit suicide with them, and delete the subsequent picturisation.",
+        "length_m": 13.72
+      }
+    ]
+  },
+  {
+    "film_title": "Jalla Theerpu",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "26222",
+    "cert_date": "14-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "In the title-cards, delete the picturisation of the High Court with the tower titled",
+        "length_m": 76.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "In the Court scene, delete the portion where the prosecutor gives a certificate from any eye doctor regarding a witness and the Judge accepts it and rejects that evidence",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Reduce to once only the interruption by the aroused that everything was false (including the Judge’s calling for order)",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the hotel manager telling the rowdy that he had strangled the throat of Subhia Bhagavathar",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the sequence of Chandrasekhar telephoning to the police, including the Inspector assuring him that he would attend to it",
+        "length_m": 83.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Reduce to a suggestion only, the scene where Kothaudam incites Shankar to murder Chokkappa",
+        "length_m": 160.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "When Kothaudam emerges from the telephone booth, delete the portion where the police listen and take him away",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "At the hospital, delete the portion where the nurse hands over a letter and cigarette case to Shankar as having been given by the Inspector",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the entire picture and dialogue of Shankar being taken away by the police to the station, and the Inspector telling him that his presence was not desired and warning him to leave",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "When Lenin reads the letter, delete the first portion of the shot showing the cigarette case and book on the table",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "When Kumarnswami is brought to the dock, delete picture and sound of laughter in Court, the Judge saying that the case was taken up for fresh enquiry. Kumarnswami’s comment and laughter, upto and including the Judge calling him to order",
+        "length_m": 21.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "During the examination of Chokkappa about the 63 days, delete (a) the portion where Chandrasekhar objects and Shankar replies, upto and including the Judge’s sentence about personal attacks, (b) the Judge ordering the arrest of Veena and Chokkappa.",
+        "length_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "Delete the statement of the Judge that he had a doctor’s certificate about Kumarswami’s health and so the enquiry was taking place in the latter’s absence",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "Reduce Shankar’s concluding dialogue substantially , and delete the portion where the Judge says that he is ordering the arrest of Chandrasekhar and Chokkappa",
+        "length_m": 8.23
+      }
+    ]
+  },
+  {
+    "film_title": "Thimkur Haridas",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "11544",
+    "cert_date": "11-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Scene No. 6 — Portion of the song beginning with the words “Manor Kshots\" and ending with “Glntlakabi”",
+        "length_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Sonne No. 28 — The song beginning, from \"Hhpi> Krishna” to \"Hiite Haro”",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "The song “Sajaye tnlnhi nnmohft\"",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Scene No. 60— Dialogue of Mahaprabhu, \"Haridus knehe eeho” to \"Bn ™\"",
+        "length_m": 51.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Sonne No. 66 — Montage shots with the song ‘ ‘ Hare Krishna” to \"Hare Hnre\"",
+        "length_m": 48.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Montage shots beginning with the picture of Jagannath mid onding with the view of the sea",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "(a) Montage shots beginning with the sea view and ending with the shot of Haridus lying on the bed",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Dialogue of Haridan from “Deha auiar” to “Nanijop aaiupunia luieMionti\"",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Shararat (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26717",
+    "cert_date": "15-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Red )",
+        "description": "Substitution of new credit titles on white background",
+        "length_m": 60.96
+      }
+    ]
+  }
+]

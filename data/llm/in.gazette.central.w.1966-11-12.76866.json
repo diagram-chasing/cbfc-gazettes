@@ -1,0 +1,335 @@
+[
+  {
+    "film_title": "Trailer of One Potato Two Potato",
+    "languages": [
+      "English"
+    ],
+    "producer": "Runk Film Distributors of India Ltd., Dhannur Bldg., Sir P. M. Road, Fort, Bombay-1",
+    "cert_no": "48105",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Scene of Joe throwing Julie on the cot and her struggle and their dialogue while both are lying on the cot.",
+        "length_m": 10.1
+      },
+      {
+        "kind": "deletion",
+        "description": "The scene of a little girl beating a woman.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "description": "The scene of screaming of a lady and her beating a man.",
+        "length_m": 1.3,
+        "length_retained_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "Chale Hain Sasural",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Krishna Deep Productions, Ranjit Studios, Main Road, Dadar, Bombay-14",
+    "cert_no": "48107",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The reference to \"Dara Singh\" as made by the house-lady while introducing her husband to Sekhar and Bhagu.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Bhagu's reference to \"Anglo-Indian\" in respect of the apparition.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII & X",
+        "description": "All shots which establish that Sekhar and Bhagu visit the Mental Hospital at Thana and that their scenes with the lunatics are laid inside a mental hospital, including all views of the doctors at the hospital.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "From the song \"Chhoro chhoro deviji,\" the line \"Rohndi na yaar bina\".",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The reference to \"Vijayantimala\" as made by Sekhar's father.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Drastically the pooja ritual as being performed by the Seth deleting the incorrect chanting of the Gayatri and his offering incense before the picture of a woman on the wall.",
+        "length_m": 13.11,
+        "length_retained_m": 24.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To bare minimum the scene showing Sheri's henchman chasing and fighting Sekhar and Bhagu at the Gateway of India.",
+        "length_m": 8.53,
+        "length_retained_m": 76.2071
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Major Dundee",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "48108",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot of the hanging corpses.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "The shot of a woman with bare back in the Major's hiding place.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of actual direct hits with arrows, spears etc., from the fighting scenes.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Tochi Sadhu Qalkhawa",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Mr. R. Amin ; 180 /32, Ayodhya Chitra, Zaveri Bazar, Bombay-2",
+    "cert_no": "48109",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted the underlined words from the following dialogues: \"Meletar anna dhanyacha prashanch sutulu\".",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the underlined words from the following dialogues: He jyas sadhate toch udyogpati.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted the underlined words from the following dialogues: Legacha ka nasena asalach navara avadato baakanna.",
+        "length_m": 0.671
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Deleted the underlined words from the following dialogues: \"When conscience comes\".",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The sign board \"District Magistrate Class I\".",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the following lines: \"Swami Tini Jagacha Aai Vina Bhikari\".",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Love And Murder",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "B. K. Adarsh, C/O Adarshlok, Naaz Bldg., Lamington Road, Bombay-1",
+    "cert_no": "48110",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot of the girl giving a shriek at the sight of the corpse in the bath tub.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of the dancer wriggling her hips against the song line “Ah ha, aa ha\".",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of the human skeleton.",
+        "length_m": 1.33
+      },
+      {
+        "kind": "reduction",
+        "description": "The view of girls with outstretched legs with camera focused in between.",
+        "length_m": 0.43,
+        "length_retained_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Do Not Disturb",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (I) Pvt. Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "48123",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part 5/Reel 10",
+        "description": "Shot of a party guest flipping a key suggestively into the low neckline evening gown of his female partner.",
+        "length_m": 2.69
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Genghis Khan",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "Panavision",
+    "producer": "Columbia Films of India Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "48128",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of Jaumaga assaulting Burtie.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Redlino 7000",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of (I) Ltd., Haguo Bldg., Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "48129",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The underlined words from the following commentary: (a) Where any night girls and over night glory are pushed to the limit.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "description": "The underlined words from the following commentary: (b) When cars, the man and the girls, all go over the red line.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of Gabrielle in pyjama tops only along with the commentary \"Fast Gabrielle... too fast\".",
+        "length_m": 3.5
+      }
+    ]
+  },
+  {
+    "film_title": "Shadi So Pable or Bad (Before & After Marriage)",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "cert_no": "47600",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Various shots.",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Koottukililt",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "S.I. Vilnaduva Pictures (P) Ltd., Greenways Road, Madras-28",
+    "cert_no": "46779",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "In the picturisation of the song beginning with 'No vacancy', delete the shot of Priunent building with the National Flag towards the end.",
+        "length_m": 3.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the Vaidyar asking a woman about her monthly course and his reply.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Song 5 (a) Delete the shot of girls in weichaithes standing in dll with their posterior s towards the camera; (b) Delete the shot of their standing up and dipping with their inadequately clad busts prominently visible; (c) Delete the shot of two girls lying flat at the waterfront with busts lipwards.",
+        "length_m": 6.67
+      }
+    ]
+  },
+  {
+    "film_title": "Three Flats For Lisa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "producer": "Rank Film Distributors of (I) Ltd., Dhundur Bldg., Sir P. M. Road, Bombay-1",
+    "cert_no": "48122",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Front views of Lisa in bikinis after she undresses while exchanging dress with Flora.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Do Not Disturb",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (I) Pvt. Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "48123",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part 5/Reel 10",
+        "description": "Shot of a party guest flipping a key suggestively into the low neckline evening gown of his female partner.",
+        "length_m": 2.69
+      }
+    ]
+  }
+]

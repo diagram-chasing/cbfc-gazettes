@@ -1,0 +1,440 @@
+[
+  {
+    "film_title": "Tarana",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30539",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "scene showing the doctor's failure to carry out the operation and suggestion of the patient's death",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "shots showing man kissing man",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "close-ups and mid-shots of Tarana and Sheila showing their low-necked cholis",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "shots showing Tarana in a reclining pose and intimate physical contacts, showing Moti's and Tarana's faces very close to each other, inside the ruins",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "scene of Tarana with Surdas showing her in a bending position, and in the next scene wherein she is falling in the embrace of Moti at the end of her song",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "shot showing Tarana without orni while examining saries",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "shot of Moti carrying Tarana",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Tarana's embrace with Moti in the lightning scene in the ruins",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "shot of Tarana in low-necked choli when thrown on ground by Surdas",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "words of Assistant Doctor asking Kitty to try her luck and the verse recited by him",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "scene of Assistant Doctor informing Moti of the death of the patient",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "scene of the patient's wife accusing Moti and his being accosted later by her father",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "in the last scene, shots showing Moti bending over Tarana who is in a lying posture",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Way Out West",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30544",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "all actual drinking scenes and reduce other drink scenes to the absolute minimum essential for the continuity of the story",
+        "length_m": 1799.9448
+      }
+    ]
+  },
+  {
+    "film_title": "Narit Rup",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "1455",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "reel No. 14",
+        "description": "portion of the scene where a Policeman is seen pressing Mary with threatening to sign a false statement relating to the death of her husband",
+        "length_m": 102.4128
+      }
+    ]
+  },
+  {
+    "film_title": "Aladin and the Wonderful Lamp",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "1457",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "reel No. 8",
+        "description": "the words 'Sovan Allah'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "reel No. 13",
+        "description": "the word 'Burbak'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "reel No. 10",
+        "description": "shot of two girls dancing in near embrace and giving impression of kissing",
+        "length_m": 1.524
+      },
+      {
+        "kind": "insertion",
+        "reel": "reel No. 10",
+        "description": "Close-up shot of Aladin and Sahajadi giving impression of kissing",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "David and Bathsheba",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "39",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No.4",
+        "description": "passionate intimate postures of David and Bathsheba, lying on the ground in the open field",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "I was A Male War Bride",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "35001",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II-B",
+        "description": "Henri's words 'I have brought you a drink...Drink this' and Catherine taking the drink and saying 'It is good'",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Henri lying and sleeping on Catherine's bed by her side as she is already there fast asleep",
+        "length_m": 25.60512
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "kissing sequence of Henri and Catherine in the haystack to the first kiss only, deleting the two later kisses and the dialogues relating thereto",
+        "length_m": 18.0
+      }
+    ]
+  },
+  {
+    "film_title": "Ustad Pedro",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "scene in which 'Tiger' falls on Rani on the bed when she is caught as a thief",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "scene in which the dancing girl is shown lying down on the ground exposing her thigh in the first dance on the steamer",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "song No. 2 with all the actions",
+        "length_m": 56.9976
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "scene in which Pedro and Rani are in the mud pond (showing only Rani falling in and at the end both coming out)",
+        "length_m": 19.812
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Song No. 1 beginning with words 'Chhamba Itta chhamba', delete the words 'Lootte hen isko nazaro' in the last line",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Song No. 2, delete the following lines: 'Ladka - Hoo Ho miss paro - mukhde pe ghunghat maro', 'Ladki - kya hogaya Dr. Baro kya hogaya Dr. Baro', 'Ladka - dil khogaya dil khogaya miss paro apna banalo galle lagalo'",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the following lines: 'Meri ahon kị thandak ismen pari', 'Mere nakhron ka para garam masalah', 'Mujhe tukar tukar kyun takta hai', 'Kya dil men hai kuch kala kala'",
+        "length_m": 37.1856
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "shots of Pedro falling on Rani (in disguise) in mud-pond and clasping her",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Song No. 4, Delete lines beginning with the words 'Kyon Bahuji dekh ke isko dù ki halat kaim chho' till the end of the song",
+        "length_m": 51.816
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "dance of a girl in Durjansingh's house when his 'attention call' about guests is heard on the loudspeaker",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "shots of lifting of girls by male partners and whirling them round",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "shot of Rani and Pedro embracing each other",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Song No. 5 - Delete last line beginning with the words 'Chhunc na doongi...'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the lines 'Guard ka dil gori tum pe hai aagaya, mujh ko yun daga do ke break men chhupa gaya'",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "shots of embrace between Pedro and Rani in the nuptial night sequence",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Hanste Ansu (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "In the first scene in the Police Station, cut out the long dialogues between Police Inspector and Dinanath and Desai keeping from 'SHAREEF ADMI SAHB, DAS ROJSE...' etc., to establish the continuity of Dinanath and Desai searching Usha and Police Inspector remembering of a girl searching her father",
+        "length_m": 377.3424
+      },
+      {
+        "kind": "deletion",
+        "description": "In the third scene in the Police Station (after Desai rushing to inform that he saw Usha), delete Desai pulling the Inspector by hand and putting the helmet on Dinanath's head and book on his own, Eliminate all scene of Dinanath with Inspector's helmet",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "song No. 2, beginning with the words 'O janewale, thair ja...', along with its picturisation entirely",
+        "length_m": 59.9232
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "From Usha's dialogue addressed to Satish, delete the word 'mero' from her remark 'mere sentaron ka ras tumne kyon piya?' Also delete the word aapke from Satish's reply aapke santaron ka ras....",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "song No. 6 entirely, beginning with the words Ooimain mar gayee along with its picturisation",
+        "length_m": 81.9928
+      }
+    ]
+  },
+  {
+    "film_title": "Five Miles To Midnight",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "39363",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot in which a prostitute entertains Bob",
+        "length_m": 6.858
+      }
+    ]
+  },
+  {
+    "film_title": "Come Fly With Me",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "39376",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 (1A)",
+        "description": "Close-up of drunken passenger's hand over Donna's hip",
+        "length_m": 1.64592
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV (2B)",
+        "description": "From the dialogue between Ray and Katy, the underlined words from her remarks: 'Darling, he does not exist. Not when we are together.'",
+        "length_m": 1.3716
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "Shot of the small boy (tourist guide) smoking and staring at a large-size cinema poster showing a couple kissing. Also shot of his whispering suggestively in Walter's car about showing gay places to him in Paris along with his reference to striptease",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (3A)",
+        "description": "In the carnival scene, shot of a girl in the crowd being kissed passionately by her escort. Also the underlined words from the girl's song '... You can tease, You can squeeze, you can do as you please.'",
+        "length_m": 28.0416
+      }
+    ]
+  },
+  {
+    "film_title": "Kinare-Kinare",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "39377",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of the naked boy in the village mela",
+        "length_m": 8.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "From the court room scene, reference to the Home Minister by Government advocate in conjunction with reopening of the case of Kanwal who had been dodging the police",
+        "length_m": 2.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VI, VII, XII, & XV",
+        "description": "Prominent views of flashing of knives by goondas wherever these occur",
+        "length_m": 9.3
+      }
+    ]
+  },
+  {
+    "film_title": "Mogambo (Revised)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1130",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII (B)",
+        "description": "The close shots of two Africans standing on guard holding spears while trapping a Gorilla",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Kaal Srote",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "37645",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

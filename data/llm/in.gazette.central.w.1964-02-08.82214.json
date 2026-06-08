@@ -1,0 +1,609 @@
+[
+  {
+    "film_title": "Baba Ramdev Peer",
+    "languages": [
+      "Rajasthani"
+    ],
+    "producer": "Humlog Productions, 142, Famous Cine Bldg., Bombay-11",
+    "cert_no": "39750",
+    "cert_date": "4-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shot of bust-jerking by Dalı Bai while dancing.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replaced with approved shot.",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Ramdev",
+    "languages": [
+      "Rajasthani"
+    ],
+    "producer": "Ranglok, Manok Chambers, Lamington Rd., Bombay-4",
+    "cert_no": "39752",
+    "cert_date": "4-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot of the idol of Lord Krishna being hit by Laddu thrown by Ajmal.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Reference to Mecca in the dialogue between the five peers and Ramdev, when the former acknowledge Ramdev's spiritual powers. The words 'Peeron ka Peer'.",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Holiday In Bombay",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Yug Chhaya, 312, Famous Cine Bldg., Haines Road, Bombay-11",
+    "cert_no": "39754",
+    "cert_date": "5-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shots of Gautam accosting a girl in frock passing by and Gautam and Nath on bicycle taking turns around two girls while singing the song 'Yeh haseen Bumbai.'",
+        "length_m": 12.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Replaced with approved shots.",
+        "length_m": 12.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II, III & VE",
+        "description": "Reference to the maid servant as 'Maharashtrian', retaining only the first reference in Reel (1) for the sake of continuity.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rool III",
+        "description": "Visuals of the picture of the deity Hanuman while Gautam and Nath are seen to be seeking His blessing in a comical manner by saying 'Hanumanji, ham brahmachari hi rahengc, jahan tak possible ho sakega.'",
+        "length_m": 1.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "Rool III",
+        "description": "Replaced with approved shot.",
+        "length_m": 1.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In the song-dance sequence 'Chhaliya chhalia pakar ke hath...', prominent views of bust-shaking by the dancer.",
+        "length_m": 3.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Replaced with approved shot.",
+        "length_m": 3.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rcel IX",
+        "description": "To the minimum the nuptial night scenes between Nath and Vijaya and Gautam and Seema, deleting shots of close-physical proximity.",
+        "length_m": 13.0,
+        "length_retained_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Phir Wohi Dil Laya Hoon",
+    "languages": [
+      "Urdu",
+      "Colour"
+    ],
+    "producer": "Tahir Husain Khan, C/o M/s Nasir Husain Films Pvt. Ltd., 6/A Pali Hill Road, Bombay-50",
+    "cert_no": "39755",
+    "cert_date": "5-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From the kidnapping scene, shots of the man lifting the child from the bed.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels III, X & XVI",
+        "description": "From Deefoo's dialogue, all references to his father as rotten.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels III, X & XVI",
+        "description": "The word 'rotten' replaced with approved word.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot of Mona reacting suggestively just before Mohan bends over her face after they come out of the cafe.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Suggestion of a kiss when Mohan bends over Moluna.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replaced with approved shots.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel E",
+        "description": "Near-view of the blood-stained forehead of the doctor after he is fatally injured in a car accident.",
+        "length_m": 0.91,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Close-up of the toilet-room flush before Deefoo emerges from it after arrival at the airport.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From the picnic scene, shots of Deefoo spitting out water.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Close-up of blood-stained cotton pads in a tray when Mohan's injuries are being treated after he is beaten up by the village's men.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Jab Se Tumhen Dekha Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Surinderi Kapoor, Amar Chhaya, 240, Famous Cine Bldg., Mahalaxmi, Bombay-11",
+    "cert_no": "39762",
+    "cert_date": "6-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Near-view of Geeta doing the Twist with legs stretched out while facing the camera.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Replaced with approved Shot.",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Shehar Aur Sapna",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "K. A. Abbas, Naya Sansar, Philomena Lodge, Church Road, Bombay-54",
+    "cert_no": "39766",
+    "cert_date": "6-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Visual and sound of Radha in labour pains.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Samson Alias Samson The Mighty",
+    "languages": [
+      "English",
+      "Colour"
+    ],
+    "format": "Supertotalscope",
+    "producer": "M. B. Bilimoria & Son, 393, Lamington Rd., Bombay-4",
+    "cert_no": "39767",
+    "cert_date": "6-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The showing of legs by the dancer as she turns a somersault.",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Hit in the stomach by the wrestlers.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Direct thrust of knife into the body of the soldier by Warkalla.",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Direct thrust of sword into the body of Romilda.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Turns of wheel and screaming by Cinzia and Torcbindo.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Gladiators 7",
+    "format": "Cinemascope",
+    "producer": "Metro-Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "39769",
+    "cert_date": "7-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III(2A), V(3A) & IX(5A)",
+        "description": "All clearly seen shots of direct thrusts of sword, dagger or arrow, wherever occurring, in the film.",
+        "length_m": 2.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI(3B)",
+        "description": "From the scene of the fight between the gladiator and the bull in the arena, shots of the bull with blood oozing from its body and its ultimately falling down dead.",
+        "length_m": 3.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X (5B)",
+        "description": "From the scene of sacking of fort by the gladiators, shots in which the soldiers fall into fire when hit by arrows.",
+        "length_m": 2.66,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI(6A)",
+        "description": "From the scene of fighting between Yarbo and Darius, shots of whipping of Darius by Yarbo.",
+        "length_m": 6.24,
+        "length_retained_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "Shaheed Bhagatsingh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "K. N. Bansal, Prop. K. N. Productions, R. N. 8, National Sports Club of India, Worli, Bombay-18",
+    "cert_no": "39773",
+    "cert_date": "8-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel From the Credit titles",
+        "description": "The incorrect map of India in the background showing Kashmir as a shaded area, which gives the impression that it is separate from India and not part of the country.",
+        "length_m": 92.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel From the Credit titles",
+        "description": "Replaced with approved titles.",
+        "length_m": 92.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "ReelLA",
+        "description": "A tablet stating that an attempt has been made in the film to present the personality and career of Sardar Bhagat singh as realistically as possible but that for purposes of dramatisation some liberty had to be taken in depicting certain incidents connected with the life of the great patriot.",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Phir Wohi Dil Laya Hoon",
+    "languages": [
+      "Colour",
+      "Urdu"
+    ],
+    "producer": "Tahir Husain Khan, C/o M/s Nasir Husain Films Pvt. Ltd., 6/A Pali Hill Road, Bandra, Bombay-50",
+    "cert_no": "39755",
+    "cert_date": "5-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot of Mohan after coming out from the dancing hall.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Mohan taking food.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Close shot of letter in Colonel's hands.",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Jiban - O -Swapna",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Sri Sankar Pictures, 12A, Netaji Subhas Road, Calcutta-1",
+    "cert_no": "37673",
+    "cert_date": "8-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reell",
+        "description": "Reduce considerably the whipping of Madan by Sadabostam.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the words 'Ei Suyorer Batchhia' shouted by a young man in the crowd.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the strangulation of Chunia by Naga Singh.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 6, 7 & 8",
+        "description": "Reduce the brothel scenes to the minimum necessary for continuity.",
+        "length_m": 13.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete all the shots showing Chunia with a bad sore on her forehead.",
+        "length_m": 6.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the scene showing Mahadeb dragging, beating and throwing down his wife.",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Tobuttuvulu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sadhana Pictures (P) Ltd., 2, Poes Road, III, 2nd Cross Street, Madras-18",
+    "cert_no": "37893",
+    "cert_date": "7-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Tirupathi massaging Nagulu's legs.",
+        "length_m": 8.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6",
+        "description": "Reduce Bhoodevi beating the two girls.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete Tirupathi engaging the boatman to murder the passengers without leaving anyone; the boatman rocking the boat and upsetting it, in full.",
+        "length_m": 11.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 6",
+        "description": "Approved replacement.",
+        "length_m": 9.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete all shots of Rukmini and the girls in swimming costume.",
+        "length_m": 6.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the comedy in the hospital from Dr. Madhu sending Kistayya in a stretcher to a special ward, up to and including his sending out the Pakativoshalu.",
+        "length_m": 118.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 17",
+        "description": "Approved replacement.",
+        "length_m": 39.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "Delete all the shots of Parvathi's Mangala Sutra, Babu looking at them and asking for it, and all the shots of Babu snatching and removing the Mangala Sutra.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 18",
+        "description": "Approved replacement.",
+        "length_m": 11.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "After Shankar gets into the temple and closes the door, delete shots of the crowds breaking down the temple door, including the inserts of Babu frightened.",
+        "length_m": 34.0
+      }
+    ]
+  },
+  {
+    "film_title": "Puratchi Veeran Pulithevan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sivaji Pictures, 109, C. I. T. Nagar, Madras-35",
+    "cert_no": "37901",
+    "cert_date": "8-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "When Pollapandia Katta Bomman and Ettappa agree to pay tax, delete the speech in reply.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Poncandu's sentence that the Puranas speak about the greatness of the sari.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the speech of Perundevi when Villalan comes.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the speech of Pulithevan disguised, that people did not know the difference between the mother and wife.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Song 5 - Delete the reference to Aachary Vaidhikam in the text.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "When people complain to Pulithevan, delete the statement that thousands of Thambis are waiting.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the speech of Pulithevan at the battle-field.",
+        "length_m": 10.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the sentence of Yusuff Khan that his descendants will be extinct from the country.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete Maphooskhan killing Velvizhi.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Thulasimaadam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M. A. V. Pictures, Ratna Studios, Salem-5",
+    "cert_no": "37902",
+    "cert_date": "8-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "Song 3 - Delete (a) the split-screen pictures against the Pallavi; (b) against the last lines of the last verse.",
+        "length_m": 13.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Approved replacement.",
+        "length_m": 13.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "Song 4 - Delete (a) from the text, the last 4 lines, and (b) from the picture, the shot on the background music showing Mary walking away from the camera and then turning and walking forwards.",
+        "length_m": 12.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Approved replacement.",
+        "length_m": 12.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "Reduce Peter's address to Christ and Virgin Mary, to a bare prayer.",
+        "length_m": 18.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete Peter's sentence to Janaki that Christ had created Mary for her.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Song 5 - Before the words begin, delete the side-angle shot of Janki in close-up.",
+        "length_m": 4.0
+      }
+    ]
+  }
+]

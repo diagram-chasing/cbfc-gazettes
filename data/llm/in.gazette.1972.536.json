@@ -1,0 +1,373 @@
+[
+  {
+    "film_title": "Nadaan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "cert_no": "63881",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, VI, VIII & IX",
+        "description": "Deleted various shots",
+        "length_m": 188.36
+      }
+    ]
+  },
+  {
+    "film_title": "Prem Nagar",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "66118",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted the dialogue of Brule to Elainsa “Kadupuninda Pcttesianu - ’",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "When Laiha is showing a glass of blood to Kalyan, deleted the word ‘Tagandi’ from her dialogue. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "Reduced the dripping of blood on the Poor when Kalyan hits Laiha with a soda bottle.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "When Das brings a gul to Koshav Vann?, deleted his describing her as ‘Lambandi’ twice. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted Keshav Varma’s dialogue \"Nuvvu Indiaku Prime Minister guvunda valasinadanivi”, referring to Indiani.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trade Group",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B&W",
+    "cert_no": "66120",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Deleted the item of advertisement of particulars brand of cigar, in which cine actor S. V. Ranga Rao is shown as smoking.",
+        "length_m": 6.69
+      }
+    ]
+  },
+  {
+    "film_title": "Mayakkum Mohini",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B&W",
+    "cert_no": "66121",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Deleted the following lines from song 2 beginning with the words “Sundara. Kadhalai Chollava?”: “Kanada Inbant Ondra Kaniyaka Kanindhadhu Jndru; “Kannl Paruvam Sorgam Endrcy Kaathukindrcn, Kaokal Makizha Pcn- nmai Inban Ootukindren",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Deleted the following lines from song 2 beginning with the words “Sundara. Kadhalai Chollava?”: “Thenaka Sotiadho Asnandham Kanmunnaley\"",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted the following line from song 4 beginning with the words “Jana, Jana, “Aaduthu -Manam Maklzhndhey\"   ,   \"Paavai Udal Kodiyaka Kaalai Manom Kombaka’’",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Thapaswini",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B&W",
+    "cert_no": "66124",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Deleted the shot of Naicndran keeping his head on Srilala's bust in trying to listen to her heart-beat.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted the suggestion of kissing coming after Srilata switching on the table lamp.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted the following line spoken by Maislry “Yaan Avalai Belalkara Sangam Sheidhu Erinju”.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted the following line spoken by Maisuy “Kaiyum Kaalum Paladhum Sodhikkunt — Nee kodukkumo ?”.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Deleted the following exchange of dialogue between Narayani and Motor Sivan Pillai: — Naiayani — ‘-Enikkum Konjam Kcdakanam",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted the shot of Ruv i moving Ins face fmm Srllata’s hip to hei bust in the course ol the song (Replaced sea shots 2 -13)",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted the following line spoken by the defence counsel while referring to the medical report on Dr. Naiendran’s vasectomy “Ippodhum Bcejalhil Uthapadum Sesham Ilia”.",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "Pudhiya Vazhkai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B. & W",
+    "cert_no": "66126",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted the shot of Ramesh looking pointedly at Meena’s bust while speaking the lines ‘Adhanga Pttdhu Mukam, Adlianga Pudhu Mukam’",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "Deleted the words ‘Parabrabmananda Reddi’ spoken by Ramesh (Sound only - replacement appd).",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Reduced the shot showing Ramesh and Meena embracing at the first meeting.",
+        "length_m": 1.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted the line ‘Adhu Oorukalna’ spoken by Aadiyapahnm when Ramesh mentions No. Ill (Sound only-replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted all references to Birla, Rockfeller, Nixon and Bija pur Maharani, wherever it occurs. (Sound only - replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted the door number given at Kamarajar Salai, Annanagar, by Audiyapadham (Replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted the line ‘India America Uravu Baadhikkapadum. spoken by Ramesh.",
+        "length_m": 4.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted the shots of Mallika with her blouse open and displaying a bare back when she requests Shanker to button it up.",
+        "length_m": 4.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted the line 'Unn Leelaiku Aal Vendiyirlikkum Poln Irukku’ spoken by Aadiyapadham.",
+        "length_m": 1.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted the line ‘Vilayadinathale then ava poranda’ spoken by Aadiyapadham (Sound only - replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted the word ‘Enakku Enna Kattiya’ spoken by Audiyapatham, just before he sits on the chair (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted (a) all references to Tata, Bata and Krishnama chari.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted the line ’Periya Aal kir Nee’ spoken by Ramesh to Aadiyapatham after he tells Meena that she is going to get a baby brother (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Reduced the sequence showing Raju trying to rape Mallika (Vijaya) particularly the shots in the choultry where he lies over her.",
+        "length_m": 2.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Deleted the line ‘Aliya Ponnu Ariya Vaikalamnu Love Panni nen’ (Replacement of sound approved).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sharreemlee",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "64115",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the view of the bare breasted Woman appearing in a magazine which the army officer is reading by the side of fire place in the Mess.",
+        "length_m": 0.69
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Deleted the last few frames of the scene showing suggestive kiss when Ajit is in Kamini’s lap in the care.",
+        "length_m": 0.16,
+        "length_retained_m": 0.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted Ajit’s remark addressed to Kamini: “Agar hum donon saath me gaye to paanimen aag lag jayegi (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced to a flash the shots of Kamini in swimming costume coming out of the swimming pool and talking with a goonda in which the major portion of her bare bosoms is prominently seen.",
+        "length_m": 17.04,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "From the Tiger’s dialogue addressed to Kamini, deleted reference to under Secretary.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduced the shots of the male dancer smelling the girl's body right from the leg upwards.",
+        "length_m": 0.77,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduced drastically the shots of the dancer singing the line: “Aav mere paas sochta hai kya,” while jerking her best m and dragging herself upto the legs of the male partner and caressing his legs and making sensuous movements of the body and the wording of the song : “Aaj ki raat kuchch aisa kare na hove savera”.",
+        "length_m": 6.34,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Shree Krishna Arjun Yuddh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "64119",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the underlined words from the sentence ‘Mata kc doodh putra nahin to kya pati peeyega ?’ (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Hulchul",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "cert_no": "63457",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "///, IV, V, VI VII, VIII, IX, XI, XII, XIV and XV",
+        "description": "Deleted various shots",
+        "length_m": 276.19
+      }
+    ]
+  },
+  {
+    "film_title": "The Last Valley",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colotn",
+    "format": "Panavision",
+    "cert_no": "3081",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted the following dialogue: Erica— If popes and bishops can have families why not piiests ?",
+        "length_m": 1.94
+      }
+    ]
+  }
+]

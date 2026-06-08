@@ -1,0 +1,161 @@
+[
+  {
+    "film_title": "Happy Family",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Color",
+    "producer": "Hari S. Dasgupta Productions, Mohan Studios, Andheri, Bombay",
+    "cert_no": "B-9548",
+    "cert_date": "20-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The word 'No one else in the world gathers such a high harvest of rice' was reduced.",
+        "length_m": 1.8288,
+        "length_retained_m": 1.80008
+      }
+    ]
+  },
+  {
+    "film_title": "Honito",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Warner Bros., Plotures Inc., U.S.A.",
+    "cert_no": "B-9148",
+    "cert_date": "20-3-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The kissing of Handa's face by Bilva and the dagger being pulled out of former's body by Vittoro was deleted.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of the dead dog was deleted.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Teen Mulan",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Enghant Productions, 43, Tamrind Lane, Bombay-1",
+    "cert_no": "B-9080",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The scene showing suggestion of rape was deleted.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "The second shot showing Manga holding Madhu lifted in arms was reduced.",
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Qulner",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Shehnoor Film Ltd., Lahore, Pakistan",
+    "cert_no": "B-9388",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The dialogue spoken by Talmitho the murderer was deleted.",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The word 'Harjaai' from song No. 3 was deleted.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "How To Marry A Millionaire",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Film Corp., U.S.A.",
+    "cert_no": "B-9248",
+    "cert_date": "2-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII. IX",
+        "description": "The word 'Jigolo' was deleted from the film.",
+        "length_m": 1.7018
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The scanty dresses appearing in the fashion-show parade were reduced to the minimum.",
+        "length_retained_m": 2.68224
+      }
+    ]
+  },
+  {
+    "film_title": "Champadangar Bou",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Nirmal Dey Production, 46, Suburban School Road, Calcutta",
+    "cert_no": "C-1090",
+    "cert_date": "3-4-04",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Deletion of 17ft.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Deletion of 82ft.",
+        "length_m": 25.0004
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Deletion of 79ft.",
+        "length_m": 24.0792
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Deletion of 82ft.",
+        "length_m": 25.0004
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Deletion of 298.ft.",
+        "length_m": 90.8304
+      }
+    ]
+  }
+]

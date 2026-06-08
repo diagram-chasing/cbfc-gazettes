@@ -1,0 +1,614 @@
+[
+  {
+    "film_title": "Paying Guest (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Ltd., 11-13, Horniman Circle, Botawala Bldg., Fort, Bombay 1",
+    "cert_no": "19738",
+    "cert_date": "12-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From Ramesh's dialogue to the landlord 'Shaukeen hai, zindagi ka lutf le rahe hai' (sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The sequence where Ramesh, while singing song No. 1, asks Shanti to ride on his bicycle and Shanti hesitates at first and eventually agrees to ride with him on the seat bar of the bicycle till they reach home (There is no objection to the wordings of the song).",
+        "length_m": 37.1856
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where Shanti and Ramesh embrace each other when Ramesh is posing to be seriously injured and is lying in the artist's shop (These shots immediately precede song No. 2 with the opening line : 'Maza Aa Gaya').",
+        "length_m": 11.2776
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Words 'Ram Aur Rita mil rahe hain' addressed suggestively by Prakash to Chanchal while Shanti and Ramesh are inside the room (sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots of girls held in horizontal position by their partners as well as shot of girl who is swung upside down by her partner during the New Year dance.",
+        "length_m": 12.8016
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Shot of Ramesh and Shanti riding on the same bicycle towards the end of the film.",
+        "length_m": 24.384
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots where Ramesh as Mirza pinches cheeks of Shanti to one. Delete all shots of the caressing of hand of Shanti etc. by Ramesh as Mirza.",
+        "length_m": 7.0104,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Preetisangam",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Vinayak Yashwant Deoolgaonkar Ajanta Films, 903 Sadashiv Peth, Poona 2",
+    "cert_no": "19766",
+    "cert_date": "15-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "From song No. 1, the passage 'Simkdvui djava^a gaatial'.",
+        "length_m": 0.9144,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The scene in which Sarjerao is manhandled and maimed by a group of Mane's people armed with axes.",
+        "length_m": 6.4008,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Ulka",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "S. B. Productions, 3-A, Hindusthan Road, Calcutta 29",
+    "cert_no": "121",
+    "cert_date": "12-3-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce to the minimum (4 to 6 strokes) necessary for continuity shots showing Arim being beaten which occurred twice.",
+        "length_m": 17.4042,
+        "length_retained_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of indecorous movements of the body of Muphin while dancing at Midnight Hotel.",
+        "length_m": 120.0912
+      }
+    ]
+  },
+  {
+    "film_title": "Ekti Meoh Parlbarer Kahini",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Production Syndicate Private Ltd., 41/3, Station Lane, Calcutta 31",
+    "cert_no": "12831",
+    "cert_date": "13-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The scene Nos. 58 and 59 — the dialogue beginning with Mrinmoyee says to Uma — 'Apekbay take' to Mrinmoyee says 'Khane bhai ekhane' and embraces Uma.",
+        "length_m": 65.8368
+      }
+    ]
+  },
+  {
+    "film_title": "Silidur",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Publicity Deptt., Govt. Of W. Bengal, Calcutta",
+    "cert_no": "12819",
+    "cert_date": "18-2-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The scene Nos. 58 and 59 — the dialogue beginning with Mrinmoyee says to Uma — 'Apekbay take' to Mrinmoyee says 'Khane bhai ekhane' and embraces Uma.",
+        "length_m": 65.8368
+      }
+    ]
+  },
+  {
+    "film_title": "Vocgu Chukka",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Gowthami Pictures, Madras 17",
+    "cert_no": "16386-U",
+    "cert_date": "15-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "When Parakramabahu and Nankanimn are conversing, delete the sentence — 'Why should X stop that hereditary war?'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "When Mahendra is pretending madness, delete (a) Chakrum’s reference to 'Dalapathi' as 'Thalaivithi'; (b) The dialogue — 'Please stop your Ramayana Research' and the reply — 'Now? — I shall not'.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "When Mahendra and Chalirnm push out the soldiers, delete the dialogue — (g) The Ramayana war is taking place; (h) -Are these our monkey forces?—No they are demons—let them be destroyed; (c) Vijay referring to herself as the Sita suffering in the hands of the demons."
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "In song No. 4 — At the end of Vidwan, against the background music, delete the picture of Kumuii bending down twice, exposing bust. (Approved replacement of shot of Parakramabahu).",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "In the stage drama of Viswamitra, when a man in the audience says 'Viswamitra is the father of the child', delete the further statement 'I saw with my own eyes'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "When Marmaveoran enters Vijaya’s bedroom, delete her addressing him as the 'Worthless man' dressed in black dress."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the conversation between Parakrama and Narikaunan, delete the latter’s sentence 'When you get a new fruit, the old fruit soiled by the mouth should be thrown away'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "When Minnaveeran tells Kammi that he had four problems, delete, his reference (twice) to the black cloth he had used as a cover and which was no longer necessary. (No objection to Mugamasi — i.e. mask, or similar substitute)."
+      }
+    ]
+  },
+  {
+    "film_title": "Arasilamkunjaran",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Bagyavathi Pictures, Madras",
+    "cert_no": "10387-U",
+    "cert_date": "15-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Promaveor describing the relationship of himself and the Prince with Chitra. 'Till now we had been suffering like two swords within one sheath'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Chitra telling Chandra 'Nowadays wives are becoming prostitutes, and depriving us of our livelihood'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Chitra's statement to the audience: 'It is our family art to bring joy to darkened minds'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "When Premuveer snatches the letter from Mohini, delete his sentence 'What is there to conceal between us?'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Song No. 7 — Delete the last verse sung by the woman — 'There is toddy here, and I am here. That paradise is only here'."
+      }
+    ]
+  },
+  {
+    "film_title": "Bhowam Junction",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "18635",
+    "cert_date": "11-12-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The dialogue of Colonel Savage 'Gandhi! Now I know why Davay had risked everything to wreck that tram for a few minutes, the destruction of the whole of India had been in his own two hands'.",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Paying Guest (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Ltd., 11-13, Horniman Circle, Botawala Bldg., Fort, Bombay 1",
+    "cert_no": "19738",
+    "cert_date": "12-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "III",
+        "description": "Last Stanza of Song No. 1 with re-pictured lines beginning with the line 'Masha Allah' and ending with the line 'Tumhara naam'.",
+        "length_m": 37.1856
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "A new song beginning with 'Chupke Chupke' and ending with 'Tera Tukjana'."
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Dialogue to Chanchal saying 'Ramesh vahan aave nisha ho javega'."
+      },
+      {
+        "kind": "insertion",
+        "description": "Chocolates to Ramesh."
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVII",
+        "description": "Singing the lines 'Masha Allah jawab tumhara naam'."
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 438",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "producer": "Films Division, Govt. of India, 24, Podder Road, Bombay 20",
+    "cert_no": "19697",
+    "cert_date": "6-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "II",
+        "description": "A footage measuring 140 ft. in all the five versions viz, English, Hindi, Tamil, Telugu and Bengali allowing funeral ceremony of Shri B. U. Khar."
+      }
+    ]
+  },
+  {
+    "film_title": "Hotel Sahara",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., 1, Humayun Place, Calcutta 13",
+    "cert_no": "18818",
+    "cert_date": "15-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Close-up dance shot.",
+        "length_m": 1.4224
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of flying kiss of Yasmin.",
+        "length_m": 0.4064
+      }
+    ]
+  },
+  {
+    "film_title": "Hotel Sahara",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., 1, Humayun Place, Calcutta 13",
+    "cert_no": "18819",
+    "cert_date": "10-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot showing applying saliva to clean Mussoorie’s picture.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Dialogue between Randall and Cheynie 'Must have been a brigade of barbers here, one for every day of the week' and dialogue between Cheynie and Randall — 'Yes, Hair Oil, too.'",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Shot of flying kiss of Yasmin.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "8 & 9",
+        "description": "Close up shots of dancing Yasmin.",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Chhotu Lambu",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Movie Stars, Shree Sound Studios, Dadar, Bombay 14",
+    "cert_no": "19782",
+    "cert_date": "19-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "The following lines from song No. VII, sung by dancing girls at the railway station 'Na pujari hai na toofan hai jahan takrai [motion' 'Hai na driver hai na guard hai na baba hai ticket wala' 'Aur so dekhne walo na jhijhko sale dekho'.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "The Forty First",
+    "languages": [
+      "Russian"
+    ],
+    "format": "Colour",
+    "producer": "Sovexportfilm, 163-163A, Lower Colaba Road, Opp. Colaba P.O., Bombay 5",
+    "cert_no": "19783",
+    "cert_date": "19-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words 'bastard' occurring in Reel II.",
+        "length_m": 0.12192
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'loudo' in Reel II.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'bastard' in Reel II.",
+        "length_m": 0.1524
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'You, dog', 'Dog yourself' in Reel VII.",
+        "length_m": 1.85952
+      },
+      {
+        "kind": "deletion",
+        "description": "The word 'worm' in Reel VII.",
+        "length_m": 0.33528
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Lookdown wench' in Reel VII.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'and a worm' in Reel X.",
+        "length_m": 0.4572
+      }
+    ]
+  },
+  {
+    "film_title": "Interventionist Out of Egypt",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sovexportfilm, 163-163A, Lower Colaba Road, Bombay 3",
+    "cert_no": "10789",
+    "cert_date": "20-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words 'most viciously' occurring after— 'proceeded to danger'.",
+        "length_m": 0.51816
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'treacherous' before 'attack on Egypt'.",
+        "length_m": 0.42672
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Israel's provocative attack had the sanction of' before 'Britain and France'.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Ruthlessly' after the words 'British and French aircraft'.",
+        "length_m": 0.39624
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'of the warmongers'.",
+        "length_m": 1.09728
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'of the colonialist actions' after the words 'Wrathful indignation'.",
+        "length_m": 0.762
+      }
+    ]
+  },
+  {
+    "film_title": "The Rainmaker",
+    "languages": [
+      "English"
+    ],
+    "format": "Vista vision, Colour",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Ballard Estate, Bombay",
+    "cert_no": "19800",
+    "cert_date": "22-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Noah's dialogue where describing his brother Jim's love making with Snookie ways that they were so twisted up that one could not tell where one began and the other ended.",
+        "length_m": 0.036576
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Close shots of the rear of the motor car going in circles, in which Jim and Snookin are shown lying in close physical proximity and are passionately making love.",
+        "length_m": 3.048,
+        "length_retained_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Maglo Boa",
+    "languages": [
+      "English"
+    ],
+    "format": "Coloured",
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., 1, Humayun Place, Calcutta 13",
+    "cert_no": "18821",
+    "cert_date": "10-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Close-up dance shot.",
+        "length_m": 1.4224
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of flying kiss of Yasmin.",
+        "length_m": 0.4064
+      }
+    ]
+  },
+  {
+    "film_title": "Magic Box",
+    "languages": [
+      "English"
+    ],
+    "format": "Coloured",
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., 1, Humayun Place, Calcutta 13",
+    "cert_no": "18822",
+    "cert_date": "21-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot showing applying saliva to clean Mussoorie’s picture.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Dialogue between Randall and Cheynie 'Must have been a brigade of barbers here, one for every day of the week' and dialogue between Cheynie and Randall — 'Yes, Hair Oil, too.'",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Shot of flying kiss of Yasmin.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "8 & 9",
+        "description": "Close up shots of dancing Yasmin.",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Karpin Jyothi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Basant Pictures (Pt.) Ltd., Madras",
+    "cert_no": "16392-U",
+    "cert_date": "23-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Kefchu addressing Ramakrishnon as 'Dalapathi' and 'Notaka Dalapathi'. (Similar terms occurring elsewhere are also to be deleted, and are to be specified in the script).",
+        "length_m": 25.6032
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "When the dance is rehearsed, delete the sentence of the admirers 'Tandainoilur Tradition' and 'Kombakonam Kulukku'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the mother’s sentence 'In another six months, a hero or heroine for the Drama will be born'.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the card player’s sentence : 'What do you think Ramakrishna is? He is real Kamaraj — Modena Kamaraj'.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the mother’s sentence when she prays to the Deity : 'I shall dedicate this girl to you, Swami'.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the references to the II Five-Year Plan and Pandit Nehru, when the boys are told about building a dam.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the sentence of Ramakrishna to Rangabashyam : 'Why do you want that knife? It is sufficient if you sharpen your intelligence'.",
+        "length_m": 5.7912
+      }
+    ]
+  }
+]

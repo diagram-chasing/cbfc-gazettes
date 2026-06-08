@@ -1,0 +1,440 @@
+[
+  {
+    "film_title": "Trailer of the Gorgati",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Anthony Nelson Keys, U.K.",
+    "cert_no": "47519",
+    "cert_date": "25-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots showing the near views of the Gorgon wherever appearing and the scream of the professor",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "The Rare Breed",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "William Alland, U.S.A.",
+    "cert_no": "47535",
+    "cert_date": "25-4-66",
+    "endorsement": "U",
+    "original_length_m": 2713.02,
+    "final_length_m": 2709.43,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV (2B)",
+        "description": "Shot of man falling into the barbed wire",
+        "length_m": 1.0,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V (3.4)",
+        "description": "The view of Simon's dead body",
+        "length_m": 0.33,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X (5 B)",
+        "description": "Fight in the courtyard between Burnett and Bowen",
+        "length_m": 2.08,
+        "length_retained_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "Guru Killi",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Navchitra Film Exchange, Bombay-4",
+    "cert_no": "47531",
+    "cert_date": "26-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "The following dialogue between Yadu and Raghu: 'Tiehya aaeela me thevli hoti.' 'Kuthe thevli hoti — Kuthe ithe?'",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Nile-The Creator",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "California Texas Oil Corpn. Egypt",
+    "cert_no": "47533",
+    "cert_date": "26-4-66",
+    "endorsement": "U",
+    "final_length_m": 277.98,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The shot of the belly dance towards the end of the dance sequence",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Baharcn Phir Bhi Aayengi",
+    "languages": [
+      "Hindustani"
+    ],
+    "format": "35 mm",
+    "producer": "Atma Ram, Modern Studios, 194, Kurla Road, Andheri, Bombay-69",
+    "cert_no": "47589",
+    "cert_date": "30-4-66",
+    "endorsement": "U",
+    "original_length_m": 4377.84,
+    "final_length_m": 4366.55,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "The following remark of the comedian while quoting Christ, and making romantic advances to the telephone girl: 'Love thy neighbour as thyself'",
+        "length_m": 10.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The close-up of a woman’s hand with a man’s hand holding it suggestively, as seen by Sunita. Also the woman’s remark: 'Woh batti', referring to putting the light off. (Sound only)",
+        "length_m": 1.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Reference to 'Bomdda' in the dialogue between the Captain and Jitendra about the bridge having collapsed due to the adulterated cement used in its construction. (Sound)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan Aur Hercules",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Hercules, Jayant Films, Hirji Govindji Compound, New Nagpada, Bombay-8",
+    "cert_no": "47590",
+    "cert_date": "30-4-66",
+    "endorsement": "U",
+    "original_length_m": 3693.26,
+    "final_length_m": 3680.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words 'Bachcha Hun to Tera Hoon, Doodh Pecta Hoon to' and the references to 'liparwala' and 'Neechewala' in the love-scene between Ghangroo and Shabnam",
+        "length_m": 7.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The reference to 'Aurat Ki Mohabbat' as compared with 'Doodh Pecta Saanp'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The reference to 'Tera Baap Pe Lanat Mujh Par Lanat'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "In the fight, the strangling scene and the sound of pains and scream. Sound replaced with music.",
+        "length_m": 1.83,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Revak The Rebel",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "John Lee Mahm Rome, Italy",
+    "cert_no": "47591",
+    "cert_date": "30-4-66",
+    "endorsement": "U",
+    "original_length_m": 2170.58,
+    "final_length_m": 2141.63,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of a slave being forced to drink the golden wine",
+        "length_m": 1.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II, VIII & IX",
+        "description": "All shots of duel thrusts of spears and swords",
+        "length_m": 9.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of a wheel of a cart crushing an old man along with his scream",
+        "length_m": 1.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the scene of revelry, shots of couples in indecorous amorous poses. Also shots of the dancer in white rolling over and lifting her legs in which her bikini-type underclothing is prominently visible",
+        "length_m": 6.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The remark of Revak referring to the Princess, the words ‘soft, firm and lovely to embrace’",
+        "length_m": 7.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of lashing of slaves as they come out of the boat.",
+        "length_m": 2.14,
+        "length_retained_m": 1.8
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Revak The Rebel",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "John Lee Mahin Rome, Italy",
+    "cert_no": "47593",
+    "cert_date": "30-4-66",
+    "endorsement": "U",
+    "original_length_m": 65.84,
+    "final_length_m": 62.94,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of couples in indecorous amorous poses from the scene of revelry",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of a dancer in white rolling over and lifting her legs in which her bikini type underclothing is prominently visible",
+        "length_m": 1.6
+      }
+    ]
+  },
+  {
+    "film_title": "Anatolian Smile",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Warner Bros. Pictures U.S.A.",
+    "cert_no": "1750",
+    "cert_date": "25-4-66",
+    "endorsement": "A",
+    "original_length_m": 4605.83,
+    "final_length_m": 3221.69,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "The recitation of Koran in the background in the shots in which women are seen sobbing",
+        "length_m": 10.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From Osman's dialogue to Stavros the words: 'This woman has given me unspeakable pleasure. Take her into the other room. Penetrate to her soul.'",
+        "length_m": 16.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, III, IV, V, VI, VIII, XI to XIII, XVI & XVII",
+        "description": "various shots",
+        "length_m": 1357.65
+      }
+    ]
+  },
+  {
+    "film_title": "The Amorous Adventures of Moll Flanders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films (I) Ltd., Hague Bldg., Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "1751",
+    "cert_date": "25-4-66",
+    "endorsement": "A",
+    "original_length_m": 3112.0,
+    "final_length_m": 3039.29,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The indecorous views of Moll on the credit titles—both in bed and in water.",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot of pinching of Moll by the elder brother.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot of Moll on bed and her husband crying on the floor.",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of rubbing of toes.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The indecorous shot of Moll’s bosom.",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The sentence said by Lady Blystone: 'Not bad on first night'",
+        "length_m": 2.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The sentence said by Jemmy to Moll: 'You have got something worth looking at under that dirt' and his action of touching her bosom.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the fight in the tavern deleting vicious blows.",
+        "length_m": 5.58,
+        "length_retained_m": 6.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The following lines said by Dutchy: 'You think the question is best put when the pair of you are snug between the sheets? And you draw away from that out of faithfulness to me?'",
+        "length_m": 4.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The indecorous view of Moll's bosom.",
+        "length_m": 6.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The sentence said by Jemmy to Moll: 'I have been so happy to possess you'",
+        "length_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce the shot of Moll and the Count fighting on bed.",
+        "length_m": 1.37,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce considerably the slow and fast action of Moll and the shot of the Banker trying to undress Moll.",
+        "length_m": 6.5,
+        "length_retained_m": 4.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence said by Banker: 'Is there a conspiracy against consummation out there?'",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The suggestive movement of the Nobleman’s lips in carriage with Moll and also reduce considerably their lovemaking.",
+        "length_m": 9.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The modus operandi of lifting a bale of cloth and of stealing a ring and diamonds.",
+        "length_m": 19.0
+      }
+    ]
+  },
+  {
+    "film_title": "Srikakula Andhra Mahavishnu Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Sri Sambhu Films, 22, Boag Road, Madras-17",
+    "cert_no": "46733",
+    "cert_date": "26-4-66",
+    "endorsement": "U",
+    "original_length_m": 4866.44,
+    "final_length_m": 4852.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Mahcndrajit’s dialogue referring to the satisfaction by mere touch of a girl, and the dialogue after ‘Maadi Milhaharam’, where he says ’Moderate In everything etc.’",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "The shot of lifted legs of Vallabadeva and Sujata, the tight embrace and kissing gesture, and Sujata’s question ’Emitidi ?’",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13 & 14",
+        "description": "The scene of Vallabadeva carrying Sujata in his arms",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Vallabadeva’s gesture of kissing Sujata before parting",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

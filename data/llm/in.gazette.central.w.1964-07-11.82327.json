@@ -1,0 +1,743 @@
+[
+  {
+    "film_title": "The Leopard",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "40393",
+    "cert_date": "24-12-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "From the commentary",
+        "description": "Deleted words claiming the land and all that it bore down to the last peasant girl.",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted passionate kissing and embracing between Angelica and Tancredi on the bed, along with his remark 'I want you, but I won't take you now only after we are married'.",
+        "length_m": 9.06
+      }
+    ]
+  },
+  {
+    "film_title": "Girls! Girls! Girls!",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "40400",
+    "cert_date": "28-12-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted close-up of the girl in green bathing suit and dialogue by Mrs. Morgan about charity.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted dialogue between Ross and Laurel about asking to go upstairs and rent.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted dialogue between Ross and Laurel hoping they are married.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted sentence from dialogue between Laurel and Johnson: 'And that's all?'",
+        "length_m": 1.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduced the scene where Johnson forces himself on Laurel in the boat.",
+        "length_m": 1.6,
+        "length_retained_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted dialogue between Ross and Laurel: 'Either you marry me, or live with me in sin' and Laurel's reply.",
+        "length_m": 2.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted middle and close shots of 'hula hula' girls and Thai girls dancing.",
+        "length_m": 9.63
+      }
+    ]
+  },
+  {
+    "film_title": "Phool Bane Angaare",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40408",
+    "cert_date": "28-12-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel",
+        "description": "Replaced shots of bust-jerking by Usha in the beginning of the song-dance sequence 'O Radha puchen teri sakhiyan' with blown-up shots.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel",
+        "description": "Replaced shots of Usha's indecorous bust-movement and emphasized bust in the song 'Chand aahon bharega, phool dil tham longe' with blown-up shots.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted the abusive word 'Churail' used by Mohan with reference to his sister's mother-in-law.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted remark of Usha's mother 'Chali ja beti' permitting her to accompany Capt. Rajesh to see his mother.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replaced sound of whistling by Kamla's classmate with approved sound.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replaced Mohan's reference to a passer-by as 'Ullu ka Pattha' with approved words 'Ullu Kahin ko'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replaced Mohan's remark to Bimla: 'Tum shanti ke saath so jaogi to main kya karunga?' with approved words.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replaced sound impression that Capt. Rajesh was posted to the N.E.F.A. front with approved words 'jabso Gaza no gaye hain'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Replaced stock shot of Pandit Nehru and Chou-En-Lai drinking a toast with blown-up shots.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduced shots of Mohan being severely beaten up by his sister's mother-in-law, particularly deleting close-ups of his horror-struck face.",
+        "length_m": 7.62,
+        "length_retained_m": 16.77
+      }
+    ]
+  },
+  {
+    "film_title": "Spencer's Mountain",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "1425",
+    "cert_date": "23-12-63",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted dialogue about the dictionary beginning with 'look up friction' up to 'friction me for ten seconds. That's all you got this time'.",
+        "length_m": 15.46
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replaced dialogue from 'Boy, do I have a surprise for you' up to 'Oh, I love you' with approved dialogues.",
+        "length_m": 62.79
+      }
+    ]
+  },
+  {
+    "film_title": "Shehar Aur Sapna",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39766",
+    "cert_date": "6-11-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted recoding shots of Bhola and Radha.",
+        "length_m": 7.16
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Added scenes of Bhola and Radha returning to their pipe hutments, entry thereinto, and dream sequence.",
+        "length_m": 39.16
+      }
+    ]
+  },
+  {
+    "film_title": "Kaal Srote",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "37645",
+    "cert_date": "4-10-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel Nos 1, 2, 3, 5, 7, 8, 9, 13 & 14",
+        "description": "Total voluntary deletions.",
+        "length_m": 84.4296
+      }
+    ]
+  },
+  {
+    "film_title": "Puberun",
+    "languages": [
+      "Assamese"
+    ],
+    "cert_no": "24667",
+    "cert_date": "28-8-59",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 1, 2, 3, 4, 5, 6, 7 & 9",
+        "description": "Total voluntary deletions.",
+        "length_m": 132.61848
+      }
+    ]
+  },
+  {
+    "film_title": "Awara Abdulla",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40410",
+    "cert_date": "30-12-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reels III, V VII, IX & XT",
+        "description": "Replaced near-views of bust-jerking by dancers and their indecorous movements and postures with approved shots.",
+        "length_m": 11.72
+      }
+    ]
+  },
+  {
+    "film_title": "A Child Is Waiting",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "40411",
+    "cert_date": "30-12-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted sounds of the child screaming.",
+        "length_m": 3.78
+      }
+    ]
+  },
+  {
+    "film_title": "The Code of Discipline",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "40414",
+    "cert_date": "30-12-63",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tukaram Jawan Zala",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "40423",
+    "cert_date": "31-12-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Replaced shot showing Tukaram dreaming of obsolete British-day army decorations with approved shots.",
+        "length_m": 1.34
+      }
+    ]
+  },
+  {
+    "film_title": "The Mongols",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "1427",
+    "cert_date": "3-1-64",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted shot of the statue of Madonna being dragged in the street by Mongol soldiers.",
+        "length_m": 3.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted near-views and indecorous movements of scantily-clad female dancers during the banquet scene.",
+        "length_m": 9.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted shot of Huluna seen with her thighs exposed and revealing her underclothing when she is thrown on the ground by Ogotai and is whipped.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted shot of Ogotai lifting Huluna suggestively while lying in bed.",
+        "length_m": 1.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted two close shots of men with necks cut by sword.",
+        "length_m": 0.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted shot of a man seen with an arrow through his neck.",
+        "length_m": 0.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduced to minimum shots of a man tied to a rotating wheel bleeding and being flogged.",
+        "length_m": 4.85,
+        "length_retained_m": 4.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduced the torturing and whipping of Amina, and deleted near-views of semi-nude figures of Amina and other women tied to pillars.",
+        "length_m": 8.24,
+        "length_retained_m": 5.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced to flash shots of Ogotai pushing his sword in the body of Stephen's Mongol escort.",
+        "length_m": 2.29,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced to flash shots of Ogotai burning Henry's face with a torch.",
+        "length_m": 0.5,
+        "length_retained_m": 0.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced to flash shots of the burning of his manacled hands over the flames.",
+        "length_m": 3.37,
+        "length_retained_m": 2.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduced shots of women prisoners tied to cruciform stakes around the funeral pyro.",
+        "length_m": 6.35,
+        "length_retained_m": 6.62
+      }
+    ]
+  },
+  {
+    "film_title": "Arab ka Lal",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40436",
+    "cert_date": "4-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted indecorous gestures from the dance, particularly the view of the back and hip swaying.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the line from song No. 2 beginning with 'Jaati hai... raat sharabi' and 'mai ka gulam ho ja'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted the direct thrust of a knife into the stomach of Haidar Mirza by Qasim Baig.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the line from the duet (Song No. 4) beginning with 'Ek titali se... pala' and 'Peechhe laga murgiwala'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted shots showing the sign of the cross from the shields and standards from the battle scene.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Replaced the word 'Gadho ka Bachha' from the speech of murgiwala with approved words 'Ullu Kahin ko'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Replaced the frame showing words Mahmood, Allah, Rasool as well as the picture of Mecca with approved shot.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted musical accompaniment to Namaz.",
+        "length_m": 17.68
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replaced indecorous gestures in the dance on song No. 6 with approved shot.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced the amorous scene between Sarfaraz and Shabana when Sarfaraz is drunk.",
+        "length_m": 7.62,
+        "length_retained_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "The Lonely Stage",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "40475",
+    "cert_date": "14-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted dialogue from David to Jenny: 'You're nothing but a self-centred, grasping, egocentric little bitch.'",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (Part 5)",
+        "description": "Deleted underlined words and sentences from Matt's dialogue to David regarding marriage with Jenny.",
+        "length_m": 4.21
+      }
+    ]
+  },
+  {
+    "film_title": "The Lonely Stage",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "40476",
+    "cert_date": "14-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted dialogue from David to Jenny: 'You're nothing but a self-centred, grasping, egocentric little bitch.'",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Balma Bada Nadan",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "cert_no": "40480",
+    "cert_date": "15-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted opening shots of Chander and Surjee getting up from the bed.",
+        "length_m": 36.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted the word 'haraami' used by Surjee's father while quarrelling with his neighbour.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Replaced close-up of Surjoo's bust when she is lying on the river bank with wet clothes with approved shot.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduced shaking of hips by Surjee during the dance sequence beginning with 'Laaga Laaga laaga karejva main teer'.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Added shots of Ramdheen on way to surrender himself to Police, removing the impression that Ramdheen goes off scot-free.",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Dara Singh \"The Iron Man\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "40482",
+    "cert_date": "15-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Replaced near views of bust-jerking of the female dancer, prominent views of her exposed bust in low cut blouse, and shot of her arching in the song-dance sequence 'Chhoro chhoro mori bainyan' with approved shots.",
+        "length_m": 8.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shot of the thanedar pocketing the gold muhor as a bribe along with his remark: 'Agar rishwat deta hai to ise chhor do'.",
+        "length_m": 0.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replaced near view of the dancer in which her bust is seen emphasized in her blouse of partly transparent material, and shots of her bust-jerking while approaching the camera in the song-dance sequence 'Tera jalwa nazar men basuya' with approved shots.",
+        "length_m": 5.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replaced near view of the female dancer twisting her belly and of her twitching while lying on the ground, and shots of dancers in which their skirts are seen flying high revealing their bare legs in the song-dance sequence 'Rasiya o rasiya re' with approved shots.",
+        "length_m": 3.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted shot of a wrestler being killed after striking the spiked pillar during the fight with Dara.",
+        "length_m": 0.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Replaced shots of bust-jerking by female dancers and reduced shots of Dara whirling round Madhumati in the song-dance sequence 'Gajab ho gaya' with approved shots.",
+        "length_m": 2.51
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replaced Lou Chin's remark 'Hindi Chini Bhal Bhai' with approved words.",
+        "length_m": 1.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced shot of Madhumati held between Dara Singh's legs as he fights the guards.",
+        "length_m": 0.62,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduced to minimum Dara throttling the vulture by the neck.",
+        "length_m": 1.1,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduced to flash shots of Dara throttling one of the wrestlers with a chain and strangling the other under his arm.",
+        "length_m": 1.94,
+        "length_retained_m": 1.85
+      }
+    ]
+  },
+  {
+    "film_title": "Hatari",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "40493",
+    "cert_date": "18-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted dialogue of Louis addressed to Dallas: 'I don't wear pyjamas.'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shots of Dallas running towards the truck where her bare thighs are prominently seen, and shot of Pockets starting at Dallas while she puts her slacks on in the truck.",
+        "length_m": 6.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted dialogues between Pockets and Sean referring to Pockets giving cartons of cigarettes to Warushas to please them and seek their assistance in catching monkeys.",
+        "length_m": 4.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted remark of Kurt addressed to Sean referring to his sharing a girl in Paris with Chip.",
+        "length_m": 1.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deleted shot of Dallas in pyjama tops walking from the dressing table towards the bed where her bare thighs are prominently seen.",
+        "length_m": 1.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced to a flash the kissing sequence between Dallas and Sean, deleting her remarks about kissing and her subsequent demonstration of the slow kiss.",
+        "length_m": 14.07,
+        "length_retained_m": 0.9
+      }
+    ]
+  },
+  {
+    "film_title": "The Yellow Canary",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinema Scope",
+    "cert_no": "40494",
+    "cert_date": "18-1-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted shot of Bake's strangled body hanging by the rope, and the line 'Quite used to seeing him without his pants.'",
+        "length_m": 2.35
+      }
+    ]
+  },
+  {
+    "film_title": "The Yellow Canary",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "1432",
+    "cert_date": "18-1-64",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted Lissa's remark referring to her husband, 'I am quite used to seeing him without his pants.'",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "The Caretakers",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen",
+    "cert_no": "1430",
+    "cert_date": "15-1-64",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (Part 2B)",
+        "description": "Deleted shots showing Lorna's hysterical shrieks and tautness of legs and body during shock treatment, retaining only the strapping of her forehead and putting a rubber chewer in her mouth.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (Part 4A)",
+        "description": "Deleted shots of a bird being throttled by Edna during the midnight party sequence in the hospital.",
+        "length_m": 2.98
+      }
+    ]
+  }
+]

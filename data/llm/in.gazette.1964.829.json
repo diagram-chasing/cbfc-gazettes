@@ -1,0 +1,626 @@
+[
+  {
+    "film_title": "Kiklee",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Shobha Pictures, Annes Chambers, Carnac Road, Bombay-1",
+    "cert_no": "42254",
+    "cert_date": "12-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Underlined words of the song 'Bidi bandh dhuggi dand ho gaye pagal khanc bandh'",
+        "length_m": 88.39
+      }
+    ]
+  },
+  {
+    "film_title": "Door Ki Awaz",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Goel Cine Corporation, 258 Famous Cine Bldg., Malaxmi, Bombay-11",
+    "cert_no": "42255",
+    "cert_date": "12-8-1964",
+    "endorsement": "U",
+    "original_length_m": 4406.65,
+    "final_length_m": 4333.31,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. II",
+        "description": "From Moti's dialogue addressed to the nurse referring to his finances, underlined words 'Zara taiyyar hai'",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "Underlined words from Dhanpatrai's dialogue addressed to his son, Moti: 'Government kc baap ka kya jata hai'",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. V",
+        "description": "Close-ups of the heart supposed to have been taken out of Kailash’s body replaced with approved shot of audience",
+        "length_m": 0.8,
+        "length_retained_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. F",
+        "description": "From the dialogue of Moti (converted as a woman by the magician) addressed to his father, underlined words: 'Men ragon me n aap ka dudh hai , oap ka khun hai.'",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. X",
+        "description": "From Dhanpatrai's dialogue addressed to Moti the words: 'Tiyhe to chuhe ka baccha bhi nahin huwa .' referring to Moti not having a child, replaced with approved words 'Tero yuhan mitti ka bachcha bni nahin hai.'",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XV",
+        "description": "Remark of Champabai addressed to Prakash referring to Bela: 'Yeh kisi ek ki nahin saarc bazaar ki bahu hai' along with picturisation",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. II",
+        "description": "Shot of Kailash threatening to throttle Bela in the train compartments",
+        "length_m": 13.0,
+        "length_retained_m": 36.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XIV",
+        "description": "Scene in which Bela tell Raja that he is not her son and he is seen crying for her",
+        "length_m": 3.09,
+        "length_retained_m": 3.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XF",
+        "description": "Scenes of fire, particularly close views and shots of Raja surrounded by fire crying for his mother",
+        "length_m": 34.14,
+        "length_retained_m": 98.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IV",
+        "description": "Shots showing Jyoti sitting on ground under a tree and looking for Prakash. Prakash searching something on the ground",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XV",
+        "description": "Shots of Champabai addressing Prakash’s mother 'Kahanse aayi ho. Kaun ho turn.' Full shots of Prakash’s mother saying 'Main iski saas hoon, ye meri bahu hai.'",
+        "length_m": 3.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "From the song beginning with the words 'Toot gayaa mere man'",
+        "description": "One antra beginning with the line 'Haayerc uski majboori jo' and ending with 'Duniya mile aur kho jayo' with picturisation",
+        "length_m": 32.31
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. IV",
+        "description": "Shots of Jyoti and Prakash",
+        "length_m": 4.27
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XV",
+        "description": "Shots of Tupalia, Naika, and Bela and audience, including the shot in which Naika asks Bela to sing a song",
+        "length_m": 13.41
+      }
+    ]
+  },
+  {
+    "film_title": "Haqdaar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Ganesh Chitra, 2/G, Naaz Bldg,, Lamington Road, Bombay-4",
+    "cert_no": "42256",
+    "cert_date": "13-8-1964",
+    "endorsement": "U",
+    "original_length_m": 3983.43,
+    "final_length_m": 3959.96,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III to VII, XII to XV",
+        "description": "All shots of direct thrusts of swords, daggers and spears in the fighting scenes",
+        "length_m": 22.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Shots of durjansingh repeatedly thrusting sword in the back of Mansingh",
+        "length_m": 1.13
+      }
+    ]
+  },
+  {
+    "film_title": "Ziddi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Pramod Chakrabarty, C/o Kardar Studios, Parel, Bombay",
+    "cert_no": "42257",
+    "cert_date": "14-8-1964",
+    "endorsement": "U",
+    "original_length_m": 99.67,
+    "final_length_m": 92.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of Asha swinging her legs while being carried over the shoulder by Ashok and of his throwing her down on the bed",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Near front view of Asha in jeans dancing indecorously",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Vaishakh Vanvah",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "H. P. Bilimoria, 393 Lamington Road, Bombay-4",
+    "cert_no": "42261",
+    "cert_date": "14-8-1964",
+    "endorsement": "U",
+    "original_length_m": 4264.0,
+    "final_length_m": 4241.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The sentence spoken by Mohan to Sanjivani 'doghaaina paazava laagte.' The word 'aata' spoken by Mohan after he puts off the light.",
+        "length_m": 4.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The visuals of Niru stroking her stomach on the words 'Gooj Jhankun thevin poti'. Also the word 'Karan' from the song 'jhali bahaal marji'",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "All references establishing that the doctor was prepared to carry out an illegal abortion. The underlined word from the sentence spoken by Anna to Bhau 'Hina sukh dila naahi.'",
+        "length_m": 16.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX and X",
+        "description": "All references to Goa. Also the sentence 'tya kaamaacha, ya kaamaashi kaahi sambandh naahi' said by Shanbhagh to Mohan",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The underlined word spoken by Shanbhag to Mohan 'Eka veil doghina phasavulat'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The underlined word from Bholas speech 'Hey s hindalkic h poar'",
+        "length_m": 1.53
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Don Teen",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Sai Suman Pictures, 23-A, Anandnagar, Bombay-26",
+    "cert_no": "42263",
+    "cert_date": "14-8-1964",
+    "endorsement": "U",
+    "original_length_m": 3734.41,
+    "final_length_m": 3687.49,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All sequences which would make the police force look ridiculous i.e. the police officer arresting people without warrant, police commissioner appointing inspectors in an of hand manner, a police officer screaming, being afraid and acting comically",
+        "length_m": 7.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels I, V, VIII and X",
+        "description": "All references to Goa and also such visuals which show that the story has taken place in Goa e.g. shots of Doana Paula, statue of Albuquerque and shot of fort Aguad, Bam Jesus, etc.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of Baby biting Johnny's finger",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The sentence said by Shree to Suman : 'Me nusta khade taakun pahat hoto'. Also near view of Anita in bathing costume",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "(a) Views of close proximity between Rosie and Boss. (b) Rosie praying to Jesus asking forgiveness for the crime which she has committed and she is about to commit",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The line 'Swartha ha ekacha nyaay jagaacha' from the song beginning with the words 'Naahi yethen kunl Kunacha'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Andhi Aur Toofan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kamran Films (Pvt.) Ltd., Famous Cine Bldg., Mahalaxmi, Bombay-11",
+    "cert_no": "42265",
+    "cert_date": "14-8-1964",
+    "endorsement": "U",
+    "original_length_m": 87.78,
+    "final_length_m": 85.34,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of abduction of Mala by the gundas",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Invasion of Normans",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Warner Bros. First National Pictures Inc., 42, Queen’s Rd., Bombay-1",
+    "cert_no": "42280",
+    "cert_date": "21-8-1964",
+    "endorsement": "U",
+    "original_length_m": 2381.71,
+    "final_length_m": 2369.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, III dt IX",
+        "description": "All direct thrusts by knives, swords, axes, arrows etc. from the fighting scenes",
+        "length_m": 7.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of a man being dragged across the ground",
+        "length_m": 1.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 17",
+        "description": "The view of the staring eyes of the dead man in the chair",
+        "length_m": 1.57,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The view of Vilfred with the knife pierced in his heart and with blood on his lips",
+        "length_m": 1.54,
+        "length_retained_m": 3.23
+      }
+    ]
+  },
+  {
+    "film_title": "Sarfarosh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "United Movew Arts, Ranjit Studios, Dadar, Bombay-14 DD",
+    "cert_no": "42281",
+    "cert_date": "21-8-1964",
+    "endorsement": "U",
+    "original_length_m": 88.0,
+    "final_length_m": 88.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near front views of the female dancer moving her body indecorously on the line— 'Dupatta beiman ho gaya'",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Stage To Thunder Rock",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Road, Bombay- 1",
+    "cert_no": "42283",
+    "cert_date": "22-8-1964",
+    "endorsement": "U",
+    "original_length_m": 2242.0,
+    "final_length_m": 2241.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part I-B (Reel 2)",
+        "description": "The following sentence of Leah addressed to the mayor's friend as she is getting into the stage-coach— 'I am tar too expensive'",
+        "length_m": 0.96
+      }
+    ]
+  },
+  {
+    "film_title": "Divorce Italian Style",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay- 1",
+    "cert_no": "1502",
+    "cert_date": "18-8-1964",
+    "endorsement": "A",
+    "original_length_m": 2941.32,
+    "final_length_m": 2908.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The scene of woman bringing bowl of water to examine Angela",
+        "length_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels II & V",
+        "description": "To the minimum the scenes in which Angela and her husband are lying in bed as also the shots in which she makes passionate overtures towards him",
+        "length_m": 12.49,
+        "length_retained_m": 18.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To minimum the suggestive shots of hero’s sister and her lover in the bushes",
+        "length_m": 3.04,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To minimum shots of Ferdinando passionately kissing Angela in the garden",
+        "length_m": 7.62,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "The shots of Angela in bikinis",
+        "length_m": 7.62,
+        "length_retained_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "Black Zoo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay- 1",
+    "cert_no": "1503",
+    "cert_date": "21-8-1964",
+    "endorsement": "A",
+    "original_length_m": 2505.0,
+    "final_length_m": 2483.3,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels I III, V & VII & IX",
+        "description": "Considerably the mauling of human beings by animals and the screams of the victims",
+        "length_m": 20.0,
+        "length_retained_m": 4.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The view of garrotting by chain from the fight between Michael and Carl",
+        "length_m": 1.7,
+        "length_retained_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "Exercise & Health",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "National Education Information films Ltd., National House, Apollo Bunder, Bombay-1",
+    "cert_no": "24168",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shots showing exercises",
+        "length_m": 48.15
+      }
+    ]
+  },
+  {
+    "film_title": "Sharabi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jagdish Gupta, 119 Main Rd., Dadar, Bombay-14",
+    "cert_no": "40540",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. I, VI, VII, XI to XIV",
+        "description": "Various shots",
+        "length_m": 309.68
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Shots of miners",
+        "length_m": 4.53
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Shots of Keshav and mother and of Kamala",
+        "length_m": 14.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Silent insertions of Kamala replaced with approved shots, and shots of Keshav and Kamala superimposed in the song 'Mvuhe Le Chalo'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "What Every Dancer Knows",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "S. H. Benson (India) Ltd., Steclcrete House, Dinsha Vachha Road, Bombay-1",
+    "cert_no": "40529",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Pack shot replaced with another approved pack shot",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "The Cracksman",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Associated British Picture Corporation",
+    "cert_no": "42199",
+    "cert_date": "1-8-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "The reels of the film have been split into 12 (Twelve) instead of 7 (Seven) reels."
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 826",
+    "languages": [
+      "English"
+    ],
+    "producer": "Films Division, Govt. of India, 24-Peddar Road, Bombay-26",
+    "cert_no": "42233",
+    "cert_date": "5-8-1964",
+    "endorsement": "U",
+    "original_length_m": 294.0,
+    "final_length_m": 281.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "One Item under 'News from Abroad — Nomination of Sen. Gold water as the Republican Candidate for U.S. Presidentship'",
+        "length_m": 13.0
+      }
+    ]
+  },
+  {
+    "film_title": "Natun Tirtha",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Production Syndicate (P) Ltd., 56, Dharamtala Street, Calcutta-13",
+    "cert_no": "39563",
+    "cert_date": "11-8-1964",
+    "endorsement": "U",
+    "original_length_m": 4228.19,
+    "final_length_m": 4226.36,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Bose Ginni saying to the Rickshwala. 'Bidcsh Thcke Bangla Deshe Eichhish Rojgar Karte'",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Deep Neve Nai",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Jalan Productions, 183/1 Shyamlal Man, Dharamtala Street, Calcutta-13",
+    "cert_no": "39509",
+    "cert_date": "15-6-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "The correct length of the film, after debating the objectionable portions, is 4160 metres and not 3956\"9176 metres as declared by the applicant and shown on the obverse of the certificate."
+      }
+    ]
+  },
+  {
+    "film_title": "Vazhi Piranthathu",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Arunachallam Pictures, 4, Arunachallam Road, Madras-24",
+    "cert_no": "37976",
+    "cert_date": "21-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Voluntary deletion",
+        "length_m": 35.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 10",
+        "description": "Addition of one song",
+        "length_m": 195.68
+      }
+    ]
+  }
+]

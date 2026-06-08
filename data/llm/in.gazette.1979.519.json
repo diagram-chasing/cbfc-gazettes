@@ -1,0 +1,1795 @@
+[
+  {
+    "film_title": "Janakee",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Madhu Movies, 97, Worli-seaface, Bombay-25.",
+    "cert_no": "89481",
+    "cert_date": "16-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete dialogues between Dharamppanand and the prostitute with a vulgar suggestion of illegal affair.",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Rajputani",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Fakira Films, 87, Menonwada Road, 1st floor, Opp. Noor Hospital, Bombay-3.",
+    "cert_no": "89484",
+    "cert_date": "17-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the beating of the mentally deranged person by Gangu’s men especially where his blood stained face is shown; delete those shots (in flash-back).",
+        "length_m": 7.33,
+        "length_retained_m": 9.78
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "In the fight where Shera and his men fight with Gangu’s men, reduce the scene of the mentally deranged man biting a man’s leg with blood coming out drastically.",
+        "length_m": 4.88,
+        "length_retained_m": 46.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the fight between Shera and Jaggu.",
+        "length_m": 16.56,
+        "length_retained_m": 139.6
+      }
+    ]
+  },
+  {
+    "film_title": "Mahl Munda",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "D. S. Obhan, 12, Dreamland, Asoares Road, Chembur, Bombay-71.",
+    "cert_no": "89483",
+    "cert_date": "17-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Reduce back views of Alka in the embrace of Vinayak and delete shots of Vinayak untieing threads of Alka’s blouse.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the entire scene of comedian and wife talking of making love till their talk among themselves and with a dwarf boy and girl seen below their cot is over.",
+        "length_m": 85.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the view of comedian’s wife giving birth to a monkey, Kapilkumar, instead of a male child, and all reference to Hanuman in dialogues.",
+        "length_m": 27.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the comedian and his wife bringing their monkey son, Kapilkumar to the temple of Hanuman and their reference to Hanuman.",
+        "length_m": 29.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Delete the entire scene of dwarf boy clad in girl’s dress near temple of Hanuman and the dialogues of the three girl kidnapers, comedian and his wife.",
+        "length_m": 19.51
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Bhadrakali",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Pratima Chitra, 10, Shanti Niwas, Datta Mandir Road, Kandivali (W) Bombay-67.",
+    "cert_no": "89484",
+    "cert_date": "19-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce back views of Alka in the embrace of Vinayak and delete shots of Vinayak untieing threads of Alka’s blouse.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the entire scene of comedian and wife talking of making love till their talk among themselves and with a dwarf boy and girl seen below their cot is over.",
+        "length_m": 85.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the view of comedian’s wife giving birth to a monkey, Kapilkumar, instead of a male child, and all reference to Hanuman in dialogues.",
+        "length_m": 27.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the comedian and his wife bringing their monkey son, Kapilkumar to the temple of Hanuman and their reference to Hanuman.",
+        "length_m": 29.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Delete the entire scene of dwarf boy clad in girl’s dress near temple of Hanuman and the dialogues of the three girl kidnapers, comedian and his wife.",
+        "length_m": 19.51
+      }
+    ]
+  },
+  {
+    "film_title": "Alice Doesn't Live Here Anymore",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros (F.E.) Inc., 42. M.K. Road, Bombay-20.",
+    "cert_no": "4524",
+    "cert_date": "17-4-79",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Corvette Summer",
+    "languages": [
+      "English"
+    ],
+    "format": "Wide-screen",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M-G. Rd., Bombay-20.",
+    "cert_no": "4525",
+    "cert_date": "19-4-79",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Ranjita’s Love",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "United Film Makers, G-20, Everest, Tardeo, Bombay-34.",
+    "cert_no": "20061",
+    "cert_date": "16-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Hands of F",
+    "languages": [
+      "Hindi",
+      "Bengali",
+      "Assamese",
+      "Oriya",
+      "Marathi",
+      "Gujarati",
+      "Gurmukhi",
+      "Tamil",
+      "Telegu",
+      "Kanadu",
+      "Malayalam",
+      "Urdu"
+    ],
+    "producer": "Shri Santi P. Chowdhury, 9/1, Lovelock Place, Calcutta-700019.",
+    "cert_no": "89007",
+    "cert_date": "17-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Orissar Mukhya Ghatanabali",
+    "languages": [
+      "Oriya"
+    ],
+    "producer": "Film Officer, Information & P.R. Deptt. Govt, of Orissa.",
+    "cert_no": "89009",
+    "cert_date": "17-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "A Tree’s A Friend",
+    "languages": [
+      "English"
+    ],
+    "producer": "Films Division, Govt, of India.",
+    "cert_no": "81587",
+    "cert_date": "19-5-1976",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the sequence showing interview with the former Prime Minister of India",
+        "length_m": 24.08
+      }
+    ]
+  },
+  {
+    "film_title": "Offer It With Pride Smoke It With Pleasure",
+    "languages": [
+      "English"
+    ],
+    "producer": "Films Division, Govt, of India.",
+    "cert_no": "88265",
+    "cert_date": "25-9-1978",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted Gift offering shot",
+        "length_m": 6.15
+      }
+    ]
+  },
+  {
+    "film_title": "Age of Marriage",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division, Govt, of India.",
+    "cert_no": "90015",
+    "cert_date": "31-3-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Khut Thang Lamjel",
+    "languages": [
+      "Manipuri"
+    ],
+    "producer": "M/s. TH Haridas Singh, Paowa Bazar, Imphal.",
+    "cert_no": "89006",
+    "cert_date": "17-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ammauyi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "R.W. Movies, Madras.",
+    "cert_no": "80846",
+    "cert_date": "16-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of Malli wearing only bra.",
+        "length_m": 3.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of Malli lifting her skirt during the song in between I & II charanams.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Reduce the shot of Ammukutti rolling restlessly on the cot.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Reduce to one, the shots of Malli’s breast, taken from a suggestive angle.",
+        "length_m": 7.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the shots of the cabaret dancer where her thighs are shown through flimsy dress during the song sequence.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete all the dialogues starting with the words ‘Passenger va’ till the return of Appa Rao to the Torry. All accompanying visuals also to be deleted.",
+        "length_m": 46.94
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the following dialogue: ‘Ee engine chaliagandi-Mana engine vedekknidi’",
+        "length_m": 20.12
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the following dialogue: ‘Nee peru cheppagane double right andi’",
+        "length_m": 20.12
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the following dialogue: ‘Body anagane lady gaapakan vachindi’",
+        "length_m": 20.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Reduce the shots of Chanoru’s reaction while watching the heroine pumping the stove.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the zoom shots of Appa Rao and Ammukutti under the sari.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete close-ups shots of Ammukutti's breasts heaving.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shots of the hero (Pandu) taking mouthfulls of liquor while fighting the goondas.",
+        "length_m": 7.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shots of the heroine (Malli) taken from toe and above towards the head, while standing under the shower.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete shots of Chandru rising up from kneeling position while embracing the heroine.",
+        "length_m": 5.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete shots of Chandru embracing the heroine and the subsequent out-of-focus shots.",
+        "length_m": 13.53
+      }
+    ]
+  },
+  {
+    "film_title": "Albhuthavilakkum Sundrimaram",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Varnasala Cine Enterprises Madras.",
+    "cert_no": "80848",
+    "cert_date": "16-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bharyaye Aavassyamundu",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Archana Films, Trivandrum.",
+    "cert_no": "80849",
+    "cert_date": "17-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In the bed-room scene showing Paramcswara Pillai and Aswathi on bed delete Parameswara Pillai mounting on Aswathi and subsequently lying on her.",
+        "length_m": 1.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce to a suggestion, love-making of Kesavan Kutty and Aswathi on bed in Paremeswara Pillai’s house.",
+        "length_m": 7.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Kesavan Kutty unbuttoning the blouse of Maline exposing her bare back.",
+        "length_m": 6.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Kesavan Kutty unbuttoning the blouse of Maline exposing her bare back.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shot showing a man on the top of the woman being raped.",
+        "length_m": 0.52
+      }
+    ]
+  },
+  {
+    "film_title": "Man ka Aangam",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Hombuja Kalanlketan",
+    "cert_no": "3643A",
+    "cert_date": "24-4-79",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the words of Mahalaxmi ‘Maanam Vullavanne Daani Ammukunnadi (Sound only).",
+        "length_m": 1.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete close-up shot of film magazine showing bust cleavage of a girl.",
+        "length_m": 1.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the shots of Mahalaxmi kicking chukka repeatedly, to two times only, wherever it occurs.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the heroine buttoning up her blouse.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the customer putting his leg over Chukka and pulling her sari up.",
+        "length_m": 6.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Reduce the molestation shots of Chukka by drunken sadist, to a suggestion, removing tearing up of blouse and showing bare back.",
+        "length_m": 6.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the words ‘Teacherukku oru cheriya lubrication venam’ (Sound only — no replacement).",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the sentence ‘Teacherinnu lubricate Chcyyan Nokkanta-Maknlkkuvcndi lubricaton Vannlttundc (Sound only — no replacement).",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the sentence ‘Sarinte lubrication Natakkavu. (Sound only — no replacement).",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Andhamalna Anubhayam",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Premalaya, Madras.",
+    "cert_no": "80850",
+    "cert_date": "18-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Nityavasendam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Muradhari Films, Madras.",
+    "cert_no": "80851",
+    "cert_date": "18-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the word ‘lubrication’ used in the sense of wedding (Sound only — no replacement).",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the sentence ‘Teacherukku oru cheriya lubrication venam’ (Sound only — no replacement).",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the sentence ‘Teacherinnu lubricate Chcyyan Nokkanta-Maknlkkuvcndi lubricaton Vannlttundc (Sound only — no replacement).",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the sentence ‘Sarinte lubrication Natakkavu. (Sound only — no replacement).",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Nepalathil CID 999",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Shri Sivappirakasam, Madras.",
+    "cert_no": "80852",
+    "cert_date": "18-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete bust and hip jerks of dancer during the scene where Prakash and the call girl are seated in the Restaurant.",
+        "length_m": 8.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the bust cleavage of the call girl while seated in the Restaurant.",
+        "length_m": 4.94
+      }
+    ]
+  },
+  {
+    "film_title": "Krishna Leelalu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Rajyam Films, Madras.",
+    "cert_no": "80498",
+    "cert_date": "19-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Araar Deep",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sivaji Productions, Madras.",
+    "cert_no": "80499",
+    "cert_date": "19-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Love In Canada",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Film Finance Corporation, Regent Chambers, Nariman Chambers, Bombay-21.",
+    "cert_no": "89485",
+    "cert_date": "23-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Closed shots of breasts movements of Padma Khanna may be deleted (Replaced with approved shot).",
+        "length_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Fight between Yusuf and Khan's goondas may be reduced, deleting close-ups of hard hitting shots.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Rape of Nooric by Khan may be reduced to a suggestion. Only the first shot of Khan pouncing upon Noorie may be retained. Rest of the shots showing struggle between the two may be deleted.",
+        "length_m": 14.0
+      }
+    ]
+  },
+  {
+    "film_title": "Noorie",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Yash Raj Films, Rajkamal Studios, Parey, Bombay-400012.",
+    "cert_no": "89490",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Closed shots of breasts movements of Padma Khanna may be deleted (Replaced with approved shot).",
+        "length_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Fight between Yusuf and Khan's goondas may be reduced, deleting close-ups of hard hitting shots.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Rape of Nooric by Khan may be reduced to a suggestion. Only the first shot of Khan pouncing upon Noorie may be retained. Rest of the shots showing struggle between the two may be deleted.",
+        "length_m": 14.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jurmana",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Lokenath Chitra mandir, 10, Unique Apartment, OIT Turner Road, Bandra, Bombay-100050.",
+    "cert_no": "89491",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "A nand Mangal",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Sint, Noorjehan Kazi, M/s.Red Rose Pictures 40 perry Bandra Road Bombay-50.",
+    "cert_no": "89492",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "An Old, Old Tale",
+    "languages": [
+      "English"
+    ],
+    "format": "Sovscopc",
+    "producer": "M/s Sovcxport film, Bombay.",
+    "cert_no": "89493",
+    "cert_date": "2-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Poco",
+    "languages": [
+      "English"
+    ],
+    "producer": "M/s. N. E. & [, F. Dwight Brooks, USA, Ltd., National House - Apollo Bunder, Bombay.",
+    "cert_no": "89494",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Vazhkai Ragasyam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Adarsh Arts, Manek Chambers, Lamington Rd., Bombay-400004.",
+    "cert_no": "4527",
+    "cert_date": "2-5-79",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the live shots of genitals while showing the victims of venereal diseases.",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete insertion of a loop where female genitals are prominently seen.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete man lying on cot where his genitals are exposed.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete abortion through vaccum sucker.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the shots showing tubectomy operation.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "From the child birth sequence, delete the shots in which the genitals of the mother are shown in close-ups.",
+        "length_m": 11.12
+      }
+    ]
+  },
+  {
+    "film_title": "Gupt Gyanamu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M/s. Adarsh Arts, Manek Chambers, Lamington Road, Bombay-400004.",
+    "cert_no": "4528",
+    "cert_date": "2-5-79",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the live shots of genitals while showing the victims of venereal deseases.",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete insertion of a loop where female genitals are prominently seen.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete man lying on cot where his genitals are exposed.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete abortion through vaccum sucker.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the shots showing tubectomy operation.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "From the child birth sequence, delete the shots in which the genitals of the mother are shown in close-ups.",
+        "length_m": 11.12
+      }
+    ]
+  },
+  {
+    "film_title": "Banmanush",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A. R. Rajendra, 205 Siddharthas, Skylark Hotel, Bandra, Bombay-50.",
+    "cert_no": "90246",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jivadori",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Ramesh Dani, 7, Chandra Darshan, 43, Bhagwanlal Indrajit Road, Bombay-400006.",
+    "cert_no": "90247",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Parki Thapan",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "M/s. Bharat Films, Dharmendra Road, Rajkot-1.",
+    "cert_no": "90248",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1594",
+    "languages": [
+      "Eng",
+      "Hin",
+      "Tam",
+      "Tel",
+      "Kan",
+      "Mai",
+      "Assa",
+      "Oriya",
+      "Pun",
+      "Bengali",
+      "Urdu"
+    ],
+    "producer": "Films Division, Govt, of India, 24-Peddar Road, Bombay-400026.",
+    "cert_no": "90249",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Smarty the Rabbit",
+    "languages": [
+      "English"
+    ],
+    "producer": "M/s. Sovexportfilm, Bombay.",
+    "cert_no": "90251",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "You Just Wait No 10",
+    "languages": [
+      "English"
+    ],
+    "producer": "M/s. Sovexportfilm, Bombay.",
+    "cert_no": "90252",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Reach The Sky",
+    "languages": [
+      "English"
+    ],
+    "producer": "-Do-",
+    "cert_no": "90253",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "You Just Wait No. 11",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do-",
+    "cert_no": "90254",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Steady (Tak Der-jhat)",
+    "languages": [
+      "English"
+    ],
+    "producer": "-Do-",
+    "cert_no": "90255",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Pipe",
+    "languages": [
+      "English"
+    ],
+    "producer": "-Do-",
+    "cert_no": "90256",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Safety In Your Hands",
+    "languages": [
+      "English"
+    ],
+    "producer": "M. J. Talreja, Rangoon Studio, Janpath. New Delhi-110001.",
+    "cert_no": "90257",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Only Two Wheels",
+    "languages": [
+      "English"
+    ],
+    "producer": "-Do-",
+    "cert_no": "90258",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Uttar Pradesh Samachar-63",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Dhirendra Pande, Film Offcer, Govt, of U. P., Lucknow,",
+    "cert_no": "90259",
+    "cert_date": "1-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "210 MW of Power",
+    "languages": [
+      "English"
+    ],
+    "producer": "Gopal K. Maharosh, United Film Arts, 14 Rock House, Worli, Bombay-400018.",
+    "cert_no": "90260",
+    "cert_date": "2-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Job Racket",
+    "languages": [
+      "English"
+    ],
+    "producer": "M/s. B. D. Garga Productions, D-ll, Commerce Centre, Tardeo Road, Bombay-34.",
+    "cert_no": "90261",
+    "cert_date": "2-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Blue Star Presents",
+    "languages": [
+      "English"
+    ],
+    "producer": "M/s, Genesis Film Production, E-20, Everest, Tardeo, Bombay-400034.",
+    "cert_no": "90262",
+    "cert_date": "2-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Jurmana",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Lokenath Chitra mandir, 10, Unique Apartment, Off Turner Road, Bandra, Bombay-400050.",
+    "cert_no": "90263",
+    "cert_date": "3-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Whiteness Sparkles",
+    "languages": [
+      "Hin",
+      "Tam",
+      "Tel",
+      "Kan",
+      "Mai"
+    ],
+    "producer": "S. S. Obcroi, Art Commercia, Bombay.",
+    "cert_no": "90264",
+    "cert_date": "3-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Deen Aur Imaan",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Sqn. Idr. Mohan T. Gehani, Liberty Movies International, Satyagiri, 115 Dada Saheb Phalke Rd., Bombay-400014.",
+    "cert_no": "90265",
+    "cert_date": "3-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Janta Hawaldar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A. R. Rajendra, 205 Siddharthas, Skylark Hotel, Bandra, Bombay-50.",
+    "cert_no": "89413",
+    "cert_date": "10-1-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XVI",
+        "description": "Added shots of Jantu, Sunayana and the Police Commissioner. The Police Commissioner presents a medal. Jantu dies saying ‘Nobody should be dishonest to his motherland.",
+        "length_m": 101.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Royal Taste",
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "80442",
+    "cert_date": "14-1-1976",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Name You Can Bank Upon",
+    "languages": [
+      "Eng",
+      "Hin",
+      "Pun",
+      "Marathi",
+      "Gujarati",
+      "Tamil",
+      "Bengali"
+    ],
+    "producer": "S. S. Oberoi, Art Commercia, Bombay.",
+    "cert_no": "84386",
+    "cert_date": "27-5-1977",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Megha Pani Dey Pani Dey",
+    "languages": [
+      "Marathi",
+      "Hindi"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "89669",
+    "cert_date": "15-2-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Final Temptation",
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "89920",
+    "cert_date": "15-3-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "All The Energy Fuel",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Malayalam",
+      "Marathi",
+      "Kannada",
+      "Gujarati"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "89942",
+    "cert_date": "21-3-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Atyant Shakti Jalad Vikas",
+    "languages": [
+      "Marathi",
+      "Kannada",
+      "Telugu"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "88630",
+    "cert_date": "10-1-1978",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Nijhum Ratira Sathi",
+    "languages": [
+      "Oriya"
+    ],
+    "producer": "M/s. Mermaid Films, 1, Auckland Place, Calcutta-17.",
+    "cert_no": "89014",
+    "cert_date": "4-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Navakalebara",
+    "languages": [
+      "Oriya"
+    ],
+    "producer": "Shri B. Sahoo, Producer of Films, Information & P.R. Deptt. Govt, of Orissa.",
+    "cert_no": "89015",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Chakabandi Kaana",
+    "languages": [
+      "Oriya"
+    ],
+    "producer": "Do.",
+    "cert_no": "89016",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Seetha - Raamu (Katinada)",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Madhu Art Films Bangalore.",
+    "cert_no": "80872",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Byra carriage the dead body to a suggestion.",
+        "length_m": 4.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the entire song No. 5 beginning with the words ‘Gundu Hackthiyo, Naana ganda Nagthilo-Donda sampige Hoova, Chendu Noodthiyo-till Nodeke Mafia Matella rella kailagodilla-ha-ha-ha’ together with complotc dance sequence performed by the dancer in Muddanna's house.",
+        "length_m": 108.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete shots showing details of surgical operation-opening of skull-blood oozing out-removing the brain.",
+        "length_m": 8.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete shots showing details of surgical operation in Seeta’s brain -opening of skull-blood oozing out-removing the brain transplantation.",
+        "length_m": 3.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce Ramu struggling with dagger in his stomach and the revengeful laugh or of four villains to a suggestion.",
+        "length_m": 5.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce Seeta stabbing the villain with a pick-axe to a suggestion.",
+        "length_m": 1.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Seeta holding high tho knife with blood dripping down of stabbing the villain.",
+        "length_m": 2.11
+      }
+    ]
+  },
+  {
+    "film_title": "Neelathamara",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Charashma Films, Trichur,",
+    "cert_no": "80873",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete prominent viows revealing the lower part of Haridasan’s body while he taking bath (end shot).",
+        "length_m": 2.51
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce facial reactions of Kanjimalu on bed with Haridasan to two shots only (No objection to the last shot of her face without expressions).",
+        "length_m": 10.06
+      }
+    ]
+  },
+  {
+    "film_title": "Paradise Found (Last of the Wild)",
+    "languages": [
+      "English"
+    ],
+    "producer": "Oceanic Film Distributors Madras.",
+    "cert_no": "80874",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pambugalum Pambuparkam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Saraswaty Nilayam Madras.",
+    "cert_no": "80875",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Paradise Found (Last of the wild)",
+    "languages": [
+      "English"
+    ],
+    "producer": "Oceanic Film Distributors, Mardas.",
+    "cert_no": "80876",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "What right has a child",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "80877",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Diler",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "K.K. Jagtlanim Madras.",
+    "cert_no": "80878",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shot of Raja’s face shown as hanging, retaining only the lower part of the body, including in the flash-back.",
+        "length_m": 2.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shot of Raja’s face shown as hanging, retaining only the lower part of the body, including in the flash-back.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Oru Koil Iru Deepangal",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Venkata laksbmi Productions, Madras.",
+    "cert_no": "80879",
+    "cert_date": "30-4-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shot of Raja’s face shown rs hanging retaining only the lower part of the body, including in the flash-back.",
+        "length_m": 2.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shot of Raja’s face shown rs hanging retaining only the lower part of the body, including in the flash-back.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Dongaluku Savaal",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Thiimoorthi Combines, Madras.",
+    "cert_no": "80887",
+    "cert_date": "2-5-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot(s) of the fluttering National flag (with wrong colours) (No replacements).",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the sequence in which No 9 is being punished delete the the shots in which gas is being omitted and the facial reaction of No. 9 (No replacement).",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "A",
+        "description": "From song-dana ■ > f Raju and Rekha, delete the indecent gestures of Rekha on thf ie‘Paduchu)a vetalu nerchina bhal* nerpari (No Objection to text of song).",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the following lines: ‘Lemmunte Lcsthane’, ‘Cheppindi chesthane majale’, ‘Adinchcde Nodi Aadadantc’ (Sound only No, replacement).",
+        "length_m": 11.47
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the following lines: ‘Magadu Mogudu Kadu Andakunte’.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the still shot showing the staring eyes of the dead faco of Last (No replacement).",
+        "length_m": 5.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce the prolonged fight between Babulu & Raja (Retained 24.38 Mts.).",
+        "length_m": 5.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduce the sequence in which Satyam and Sundaram attempt to molest Lata retaining only the following shots: Satyam placing his palm on Lata's shoulder, Sundaram grabbing Lata, Gopi smashing the glass pane and entering the room to rescue Lata, Lata committing suicide and Lata lying dead.",
+        "length_m": 10.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "From the cabaret dance in the hotel (i) Delete the indecorous gestures of the cabaret dancer on the following lines: ‘Naa ponduku evaru thagaru’, ‘Nee lanti monagadu Ravali’. (ii) Delete the close view of the indecorous movements of two pairs of legs of the dancers on either side (No objection to text of song).",
+        "length_m": 5.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce considerably the knif e attempt on Gopi and Rerjatm the nursing homc; from the same sequence delete cl front view in which the knife dangles on the face of Gopi (including dog shots).",
+        "length_m": 10.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the shot in which Sundaram tortures (by teasing) Gopi (tied a pillar) with a pistol.",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce considerably the number of shots in which the metal bats attack Raju.",
+        "length_m": 12.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "15 & 16",
+        "description": "Reduce the fights. Delete one close view of Sundaram lying on the floor.",
+        "length_m": 20.01
+      }
+    ]
+  },
+  {
+    "film_title": "Paucha Bhutalu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Vijayakala Arts, Madras.",
+    "cert_no": "80888",
+    "cert_date": "4-5-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete all shots of Prasad grabbing and hugging Janaki and removing her sari (inside the temple).",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the shots of blood-vomitting of the Native doctor.",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete exposure of Prasad’s intestines by Ranga Rao, as Narasimha Avatar.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Reduce the sound of ghost's laughter to a minimum. (Sound only).",
+        "length_m": 3.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shots of the ghost’s hands trying to reach the face of RangaRao.",
+        "length_m": 3.11
+      }
+    ]
+  },
+  {
+    "film_title": "Ponnu Utukku Pudusu",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "S.P.V. Films, Madras.",
+    "cert_no": "3647",
+    "cert_date": "3-5-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete all shots of the dead cow appearing in the song scene.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete all shots of the goat being slaughtered.",
+        "length_m": 28.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "16",
+        "description": "Delete all the shots in which the severed head of Panchavarnam is seen.",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Ok* Challani Rathri",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Venkata laksbmi Productions, Madras.",
+    "cert_no": "3648",
+    "cert_date": "3-5-79",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete all shots of Murthi lying over Nirmala wherever they occur.",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words of Murthi ‘Boothu lekapothc SringaramEmundhi’ (Picture also deleted Voluntarily).",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words of the fat patient in the doctor’s room ‘Pilla meeda ?’.",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the shots of Nityanandam mounting over Nirmala.",
+        "length_m": 0.26
+      }
+    ]
+  },
+  {
+    "film_title": "Kartbika Oeepam",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Kavita Films, Madras.",
+    "cert_no": "80889",
+    "cert_date": "4-5-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Delete the shot of the hero placing his fact against the breasts of Gita in the song and dance sequence.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Delete the shot of Gita trying to place her leg across the hero’s body and her attempt to mount him.",
+        "length_m": 0.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete shot of Subba Rao falling on Prataparam on the cot.",
+        "length_m": 1.7
+      }
+    ]
+  },
+  {
+    "film_title": "Intinti Ramayanani",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Navata Arts, Madras.",
+    "cert_no": "80890",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Irumbazhigal",
+    "languages": [
+      "Malyalam"
+    ],
+    "producer": "Sri Sai Productions, Madras.",
+    "cert_no": "80904",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Donga-Dona",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sowmy Cine Arts, Vijavada.",
+    "cert_no": "80905",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bhaktha Vijaya",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Jagannath Productions Bangalore.",
+    "cert_no": "80500",
+    "cert_date": "25-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anbalippu",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Kamala Movies Madras.",
+    "cert_no": "80901",
+    "cert_date": "28-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Rahasyam",
+    "languages": [
+      "Malyalam"
+    ],
+    "producer": "Ganesh Productions Madras.",
+    "cert_no": "80902",
+    "cert_date": "28-4-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Doliton Ke Masiha",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ashok Sagar, P.O. Box, 5543, Bombay-400014.",
+    "cert_no": "90006",
+    "cert_date": "31-3-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I & II",
+        "description": "Various shots deleted.",
+        "length_m": 89.7
+      }
+    ]
+  },
+  {
+    "film_title": "Adh Khiley Phool",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ashok Srgi.r, P.O. Box 5543, Bombay-400014.",
+    "cert_no": "90271",
+    "cert_date": "4-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Germany Key To Europe",
+    "languages": [
+      "English"
+    ],
+    "producer": "Consulate General of the F.R.G, Hoochst House, 10th Floor, Nariman Point, Bombay-400021.",
+    "cert_no": "90272",
+    "cert_date": "4-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sankat Maan Sathi",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Ramesh Dani, 7 Chandra Darshan, 43 Bhagwanlal Indrajit Road, Bombay-400006.",
+    "cert_no": "90273",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Hassans— A Buginese Trading Family",
+    "languages": [
+      "English"
+    ],
+    "producer": "The Australian High Commission, Bombay.",
+    "cert_no": "90274",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Marvel, A Jakarta Boy",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "90275",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Taram — A Minangkabau Village",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "90276",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Azhaki All An Acchnese University Student",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "90277",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pak Manggung Ajavanese Aristocrat",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "90278",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sinaga’s Family— A Batak Village",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "90279",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Bupati Of",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "90280",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of The Legacy",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Finance Corpn., Bombay.",
+    "cert_no": "90281",
+    "cert_date": "5-5-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Maza Bal",
+    "languages": [
+      "Marathi",
+      "Hindi"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "88891",
+    "cert_date": "26-12-1978",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Your Family Cavity Fighter",
+    "languages": [
+      "English",
+      "Tamil",
+      "Tolugu",
+      "Kannada",
+      "Oriya",
+      "Malayalam",
+      "Bengali",
+      "Assamese"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "89815",
+    "cert_date": "23-2-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Entrepreneurs Paradise",
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "producer": "M/s. Genesis Film Production, E-20, Everest Tardeo, Bombay-400034.",
+    "cert_no": "89224",
+    "cert_date": "19-1-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted the title of Telugu version of the film ‘Entrepreneur’s Paradise’.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "I Sill",
+        "description": "Shots showing interview with entrepreneurs and officers regarding Industrialisation in Andhra Pradesh . from English & Tolugu versions of the film.",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

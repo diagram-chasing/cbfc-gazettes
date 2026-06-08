@@ -1,0 +1,633 @@
+[
+  {
+    "film_title": "Gharcha Zala Thoda",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "19646",
+    "cert_date": "28th February 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Chimanrao surreptitiously taking money out of Moru's coat pocket, ending with Moru calling out 'Appa'",
+        "length_m": 11.8872
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Chimanrao saying 'Estate milalee kee ther hava theydha jananhhana'",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Paristan alias “ Gulbakavli \"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "19649",
+    "cert_date": "28th February 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "References to 'Masjid' wherever they appear in the dialogues of Ustad, Lahhi and others in the sequences in which Tajul appears disguised as a Muslim Darwesh.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Dialogue of Ustad: 'Masjidse oothkar chala aaya hai'",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "The words 'Kisi Masjidki kamai malum hoti hai'",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "The words 'Aur aap Masjidki rotiyon per gaari zindgi gurar dena'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Captain Kishore",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "19601",
+    "cert_date": "28th February 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot where Dolly is shown lying in the lap of Sonapati",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots where Kiran is lying in the lap of Kishoro and is otherwise caressing him",
+        "length_m": 29.8704
+      },
+      {
+        "kind": "deletion",
+        "description": "Front shots of Kiran in logo fitting Drenchek",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of Kiran and Kishoro embracing",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of Senapati lifting Dolly in his arms",
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Two men dangling by rope round the tower",
+        "length_retained_m": 5.1816
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Fighting considerably",
+        "length_retained_m": 11.2776
+      }
+    ]
+  },
+  {
+    "film_title": "Geisha Girl",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "19688",
+    "cert_date": "1st March 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The superimposed titles which are likely to give a wrong impression that the film contains lot of sexy stuff. ('They are Different. They are Sensational.')",
+        "length_m": 24.6888
+      }
+    ]
+  },
+  {
+    "film_title": "A Proposal",
+    "languages": [
+      "Chinese"
+    ],
+    "cert_no": "10960",
+    "cert_date": "1st March 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The word 'Bandits' when Awei Lin refers to Kuomintang",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words 'By the damned kuomintang bandits'",
+        "length_m": 0.762
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The sentence 'In the course of forty-nine days, you will become a Buddha'",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "China Today No. 11/60",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "19600",
+    "cert_date": "1st March 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the sequence of Lugmon Vevo Temple, the words 'Which were stolen in 1996 by the Americoan Priest'",
+        "length_m": 0.21336
+      }
+    ]
+  },
+  {
+    "film_title": "Mera Salam",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "19388",
+    "cert_date": "21st February 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From Song No. 6, the lines 'Gin gin tara - dil ye pukara - Zalim marakaun soone ye ahu nale ahu nale'",
+        "length_m": 22.2496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Song No. 7 - Complete song beginning with 'Une dil ne pukara ye sitaro tum na so jana (song of Kiswar)'",
+        "length_m": 96.6216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Song No. 10 - Lines about a traveler's plight and a message to be delivered to Madinewale",
+        "length_m": 108.5136
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "In the dream sequence of Kiswar seeing the Angels carrying the bier and Kiswar wailing",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "In the storm scene where Vewah Akhtar Mirza and Kali Charan carrying Salim in Palki are passing, and the Mulla giving the Azan 'Allah Ho Akbar'",
+        "length_m": 50.5968
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "In duva (prayer) Entry of Courtier- Storm insertions - One insertion of Jhangir praying, one insertion of Kigwar praying, one insertion of the general Mob praying",
+        "length_m": 126.7968
+      }
+    ]
+  },
+  {
+    "film_title": "Jahazi Lootera",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "19326",
+    "cert_date": "14th February 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XI",
+        "description": "Fight between Sindbad and Jabir",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Narsi Bhagat",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "18995",
+    "cert_date": "10th January 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "A footage measuring 421 ft. has been taken out from Reel No. 11 and added to Reel No. 12 at the end.",
+        "length_m": 128.3208
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "A scene showing Narsi along with some Sadhus leaves for UNA Gaon to attend his grand daughter's marriage. While on the way one of the wheels of the bullock cart, by which they were travelling, gets broken and they were stranded. At this juncture, Lord Vishnu and Goddess appear, mends the wheel and accompany them",
+        "length_m": 92.6592
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Dance sequence",
+        "length_m": 229.8192
+      }
+    ]
+  },
+  {
+    "film_title": "Naqab Posh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "18655",
+    "cert_date": "14th December 1956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 1",
+        "description": "Song No. 1, beginning with 'Kunti fain va hail gaibab aan ayuani lak jaman and ending with 'Vaifa ait alvi Bivharak han rai tak bil manam... dance of Mayadas'",
+        "length_m": 115.824
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. II",
+        "description": "Dance No. 2 - dance of Chitra beginning with 'Nigahaho samjo dil aane ki baate' and ending with 'Nahin ye sunne sunane ki bate with: Nigaho se dill aane ki baatem'",
+        "length_m": 125
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. II",
+        "description": "Dance No. 3 - Kawali, Maruti and Gope Beginning with 'Akal apni ka na satyanash kar and ending with Gel hojai yedunia gol bain'",
+        "length_m": 190.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. II",
+        "description": "Song No. 8 DUA - beginning with 'Naihain kutch khauf Ra Mahasher hame sahara Muhamadı hal and ending with Kamliwala Mahabube Khuda'",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Tapasi",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "12823",
+    "cert_date": "25-2-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "The shot showing Ramala asking for Rs 500 from Ramen for her brother",
+        "length_m": 17.6784
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "The dialogue and the picturisation in the scene at night when Ramala returns home very late after going out with Bijan wherein Ramala's father asks her if she has been able to do something and says that being a businessman he looks upon everything from the point of view of profit and loss only and persuades her first to try and get Bijan to advance money to help him, her saying how she could ask Bijan to advance money like this when she has known him only for a short time and his remarks that she should in that case get the money from Ramen, Ramala's remarks that should she sacrifice her self respect to get the money and the father's reply that self respect is a mere luxury in their society. (Starting from the dialogue by the father, 'Tachhara durbhabana ekta thakey baiki to Aj rattır ta amay bhabte dao by Ramala) And dialogue compensation Dite Hole etc",
+        "length_m": 55.1712
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "The shot between Saroj and Ramala where Saroj says, 'Kake bhalobaslı, kake bhalobasli na seta immaterial, kar kach thekel palı, setai holo asal'",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "The scene showing Bijan telling Ramala, 'Vabasa, agnshıdarı, sab upalakshya ami jani taka diye kınte habe tomay Kata chai Ek lakh? Du lakh? Tin lakh?'",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels No. 13 and 14",
+        "description": "The whole sequence showing Srimatı offering her eyes to be grafted on to Raman starting from Srimatı telling the doctor that she will offer her eyes for the purpose. All subsequent shots suggesting that her eyes are being removed in the operation theatre and grafted on to Ramon",
+        "length_m": 84.4304
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No.4A",
+        "description": "A shot showing Saroj asking for a loan from Ramen",
+        "length_m": 24.9936
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 9",
+        "description": "A new scene between Saroj and his father - where the father expresses his views about Ramala's marriage which she overhears",
+        "length_m": 38.4048
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 11",
+        "description": "The dialogue between Saroj and Ramala, 'hahe bhalobaslı to setai holo asal'",
+        "length_m": 29.5656
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 11",
+        "description": "A shot between Ramala and Beion where Bejon says 'Amar Daya Tomakey hat peto nite habei'",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reels 13 & 14",
+        "description": "The scenes showing Sreematı offering her eyes to the deity",
+        "length_m": 72.5424
+      }
+    ]
+  },
+  {
+    "film_title": "A Summer Romance",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "19668",
+    "cert_date": "4th March 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Considerably the photo of the lady bag out her clothes till she comes to her undergarment and spreads the blanket and omit the shots of man ogling and curious looking at the lady in the action of taking out her garments and making signs and gestures to one another",
+        "length_m": 13.4112
+      }
+    ]
+  },
+  {
+    "film_title": "The Great Locomotive Chase",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "19720",
+    "cert_date": "8th March 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of logo exposed bare upto thighs before and after the titles",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "reduction",
+        "description": "The fight between Sylvia and Glorie",
+        "length_retained_m": 11.5824
+      }
+    ]
+  },
+  {
+    "film_title": "The Opposite Sex",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "609",
+    "cert_date": "4th March 1957",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shots of logo exposed bare upto thighs, before and after the titles",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Crystal's following dialogue: 'When Slave does not like anything I wear, I take it off'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel The",
+        "description": "The words 'Here Fleell' in the dialogue 'Good judge of Horse Fleell'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 111",
+        "description": "Considerably the scene where Buck kingon Kay in the clov",
+        "length_retained_m": 1.58496
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To a flush fight between Gloria and Sylvia",
+        "length_retained_m": 10.9728
+      }
+    ]
+  },
+  {
+    "film_title": "Integ an",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "11",
+    "cert_date": "7th March 1957",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "From the dialogue between the girl and the Seth 'Aakhir tuin of merih ko nith....khuda wasto ko nafrat'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "From song No. 1, the lines 'Aaj toro publоo men kuinalu hal to anni do' and 'Raat Hujar jaane ha pohle dilli pyas bujhano do'",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "The words 'Garam Anp ki tarah aur nalnu meri taruh' said by Kishor",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "From the Seth's dialogue the word 'hasoun lalipon ko anları kay kuminahi hoti'",
+        "length_m": 1.0668
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The words 'Kitno darwaja khultl hain aur uomo Ho kon kon gi khiwliin jharktı kur' from Kisbori's dialogue",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "From the dialogue of Kishori and Secretary the sentences 'Morhti hoon budhapa ku dehliz par jwanikal tak khakugi' and 'Seth lux budhapa jawanı ki deliliz par bahut jald dam lou daga'",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Ashok's words from 'Vob apnebudhapo Lo' to 'Jaban nahin kbuti'",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The words 'Ak budhı dohlizper' from the sentence 'Muzshe nasib rootgaya firgaya jhana muzshe: Andheri ratne bichdehai karwan muzehe na paoh more tabhai ki dastan muzshe. Jo dune dekhe hai halat tamam keh dena Madinewale Mere salam keh dena (These song lines are in the beginning of the kawali)'",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "(a) from Secretary's dialogue the passage 'Polioe das pinchuh cintak.......khatam ho jaegn'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "(b) from Secretary's dialogue the words 'Agar klei muzdour ki wifo.......vachirha ni pada hujanta'",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Secretary's words 'dokhta hun naay bhiyur men halu TA Daar lan huki'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "(a) The words 'Yoh damun pakalne walonki.......loti hui' uttered by Kishor",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The words 'Sasto demon mo' from the passage 'maln bolulna tai ko saule damou me hool doonga bamajto the oto. Uttured by Madurl'",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Bul Bul",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "1807",
+    "cert_date": "7-1-87",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "Natural Sceneries in all pleasons",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots where Bulbul and her lover are shown touching one another's face or all phases in close physical intimacy",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Replaced by approved shots of HOODAFY",
+        "length_m": 7.0104
+      }
+    ]
+  },
+  {
+    "film_title": "Neelmani (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "19711",
+    "cert_date": "7th March 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "A mid shot of Dharti Mata measuring 18 ft. has been deleted and a long shot of Shri measuring 18 ft. has been added.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel II",
+        "description": "A shot after Shri Krishna gives blows to the demon sent by hans, the demon falls in water",
+        "length_m": 1.524
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Shots of Krishna coming out of water after killing the snake people are very glad and they take out a procession Immediately after that there is huge storm and lightning People are worried. Shri Krishna lifts Govardhan Parbat on his finger and all go under it for shelter",
+        "length_m": 158.496
+      }
+    ]
+  },
+  {
+    "film_title": "Paristan alias “ Gulbakavli \"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "19649",
+    "cert_date": "28th February 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Verse of Ustand before song of Lakhi (Sound only)",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl XI",
+        "description": "Big close shot of Yakut showing breast",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Fight with Bedil (4 Pieces)",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Sword fight with fire",
+        "length_m": 11.2776
+      },
+      {
+        "kind": "deletion",
+        "description": "Four brothers meet Rajul in outdoor shot after transformation from donkeys to human beings",
+        "length_m": 9.144
+      }
+    ]
+  }
+]

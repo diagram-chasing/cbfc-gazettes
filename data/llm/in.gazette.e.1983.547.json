@@ -1,0 +1,38 @@
+[
+  {
+    "film_title": "Chor Machaye Shor",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri V. K. Murthy, 10, Kailash Darshan, Kennedy Bridge, Bombay-7",
+    "cert_no": "Censor Certificate No. 74814",
+    "cert_date": "24-11-1982",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "The song 'Chor Machaye Shor' and its picturisation.",
+        "length_m": 120
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "The song 'Dil Ka Mamla Hai' and its picturisation.",
+        "length_m": 100
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "The song 'Main Hoon Ek Chor' and its picturisation.",
+        "length_m": 100
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "The song 'Main Hoon Ek Chor' (reprise) and its picturisation.",
+        "length_m": 100
+      }
+    ]
+  }
+]

@@ -1,0 +1,239 @@
+[
+  {
+    "film_title": "On The Beat",
+    "languages": [
+      "English"
+    ],
+    "producer": "Rank Organisation Ltd.",
+    "cert_no": "40212",
+    "cert_date": "9-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots from artificial respiration scene where Rosanna's bare bust is seen.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Scene of Giulio trying to go closer to Rosanna and Rosanna moving away, and Giulio's dialogue.",
+        "length_m": 10.0,
+        "length_retained_m": 7.0
+      }
+    ]
+  },
+  {
+    "film_title": "Taras Bulba",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "An Hecht-Curtleigh Production",
+    "cert_no": "40213",
+    "cert_date": "9-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IIJ-B",
+        "description": "Lines from Taras Bulba's song comparing ladies' beds to ladles' beds.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-A",
+        "description": "From Filipenko's dialogue to Andrei, words about Baltic princes' gold and women's hips.",
+        "length_m": 3.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-B",
+        "description": "Scenes of revelry showing a girl's bare leg and thigh, and shots of Bulbas grabbing, spinning, and embracing her.",
+        "length_m": 11.52
+      }
+    ]
+  },
+  {
+    "film_title": "Bimbo The Great",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Joseph E. Levine",
+    "cert_no": "40258",
+    "cert_date": "12-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Frontal shots of Yvonne running towards Monica, showing her bust.",
+        "length_m": 1.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Fight between Bimbo and Kovacs in the circus tent, specifically shots where they thrust hands in each other's faces.",
+        "length_m": 10.28,
+        "length_retained_m": 14.1
+      }
+    ]
+  },
+  {
+    "film_title": "Jab Se Tumhen Dekhia Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Surinder Kapoor",
+    "cert_no": "39676",
+    "cert_date": "23-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Charudutt entering a building.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Song starting with 'Mohamad Shah Rangeeley...', including the lines 'Hum Tose Milne Aaye...'.",
+        "length_m": 54.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot of Mohini sitting on a bed and crying.",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Mohini at the Police Station enquiring about Mohan.",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Shahccd Bhagat Singh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "K. N. Productions",
+    "cert_no": "39773",
+    "cert_date": "8-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "Scene of Azad on his way to Allahabad, a police raid, and Azad being encircled by police."
+      }
+    ]
+  },
+  {
+    "film_title": "Ezhai Pangalan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Rajalaxmi Pictures",
+    "cert_no": "37922",
+    "cert_date": "13-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5 end and Reel 6 beginning",
+        "description": "Scene of Krishnan Kutty refusing tea to 3 persons, up to Rajathi telling him he was being brave.",
+        "length_m": 100.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Song 3 (Dream Song) - mid-close shot of the dancer on background music before the last verse.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels",
+        "description": "A boy taking up a bidi and blowing smoke.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "At the police station, the Inspector informing Raghu about a fine and offering money, up to Raja accepting it.",
+        "length_m": 17.67
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Song 5 (Veettukku Vandha Machan) - Krishnan Kutty and Rajathi bumping each other (on background music after the second verse).",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Raja giving a false statement to the police inspector; the inspector's speech about resigning his post; and the portion of the crowd scene at the police station where Krishnan Kutty is pushed out.",
+        "length_m": 10.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Scene of Krishnan Kutty and Rajathi at the beach, up to Melapalayalhal being taken away by her nephew for dinner.",
+        "length_m": 93.57
+      }
+    ]
+  },
+  {
+    "film_title": "Rebecca",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Excel Productions",
+    "cert_no": "37923",
+    "cert_date": "13-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "During song No. 1, two shots of a bare-breasted woman.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "Assault by Thangachcn on Rebecca, reduced to a bare suggestion."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Thangachcn paying money to two men. Reel 14 - portion where he pays the balance.",
+        "length_m": 4.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Scene of Kariachen paying money to Lazar and asking him to give false evidence.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Shots of the policemen missing the hiding Johney.",
+        "length_m": 24.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Song 11 - all shots of the execution of Thangachen.",
+        "length_m": 3.96
+      }
+    ]
+  }
+]

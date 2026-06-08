@@ -1,0 +1,550 @@
+[
+  {
+    "film_title": "My Man Godfrey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Universal-International Films, U.S.A.",
+    "cert_no": "23000",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a man helping the girl who is wrapped in a bath towel to put on her shoe",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Rodan",
+    "languages": [
+      "Hinglish"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "RKO Radio Pictures Private Ltd., Bombay",
+    "cert_no": "29007",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a man helping the girl who is wrapped in a bath towel to put on her shoe",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Sohni",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "The All India Film Corporation Limited, Bombay",
+    "cert_no": "29022",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From Song No. 1, sound and picture of lines 'Bharpoor badan - mangoon jawan! ... mera dil le lo' and all close shots showing amorous movements of the dancer",
+        "length_m": 27.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "In a film sequence, all shots in which girls are shown kissing in Song No. 2, as also before the song starts",
+        "length_m": 4.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "All close shots in which the bust of the main dancer is revealed prominently in Song No. 2, as well as on the music at the end of the song",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots in which Shabnum tickles Kafoor",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In Song No. 3, all shots in which dancing girls are making amorous movements",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From Amirzadi's dialogue, the passage 'Meri bahoon ka taraf dekho jo tumhon Godh men lene ke liye tarap rahi ha'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot in which Shabnum comes and embraces Shergul",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Entire sequence of Shergul and Shabnum on edge of pond, including the photo in which they fall together and struggle in pond",
+        "length_m": 32.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All shots in which Mahlwal is passionately cuddling Sohini (prior to song No. 1)",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From Amirzadi's dialogue to Mahiwal, words 'Aa Jao do jawaniyan milkar mahobat...'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Hakim, remarks derogatory to womanhood",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Words 'Majo doodh bakpho' addressed by Sohni's father to his wife",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "In the dance at Hakim's court, shot in which the dancer is thrown on the floor by two male dancers, who lash her sadistically with whips",
+        "length_m": 27.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "One shot showing Mahlwal picking up Sohni from the river and carrying her with her wet clothes",
+        "length_m": 24.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Flash shots in which Sohni is dragged mercilessly by her father",
+        "length_m": 25.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Flash shots in which Mahlwal repeatedly hits Katoor with stone",
+        "length_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Flash shots in which Mahiwal is lambed by Hakim's men",
+        "length_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Flash shots in which Shabnum is seen rolling down stairs and also delete shots in which Hakim comes down and kicks her",
+        "length_m": 26.52
+      }
+    ]
+  },
+  {
+    "film_title": "No Down Payment",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corporation (India) Private Ltd.",
+    "cert_no": "28026",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a man and woman holding passionately on the sofa",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The shot of holding and kissing a woman",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "The Magic Fiddle",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Royal Norwegian Consulate General, Netherlands",
+    "cert_no": "29040",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "One shot in which the frock of a lowly girl goes up so high that her buttons are exposed",
+        "length_m": 0.43
+      }
+    ]
+  },
+  {
+    "film_title": "Don't Go Near the Water",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "23041",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The word 'That's the way I like min, Young and tender' spoken by Ripwell",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The euphemism, 'That things were hunking in the Admiral's basin when I teak the noap olum in. Yello. What things' spoken by a sailor",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Tea And Sympathy (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "502",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Laura saying, 'Well your room-mate Al, knows lots of girls. Why don't you ask him to fix you up with a blind-date'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Herb saying, 'I forgot what her name was in my dry' YLHTO saying, 'Ellie, baby come on, you adorable creature. You're driving me mad. I love you I love you'",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The words 'getting girl, you know' from the dialogue of Al",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Al saying, 'You've heard the guys talking about her?' Al saying, 'Hey, you want me to draw a picture?' and again Al saying, 'I know him & doy'",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The words 'And getting girls' from the dialogue of Tom",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Ted clapping Ellie on the back",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Laura saying, 'Look drink this. I've only had a sip. Come on. Well, you can drink from this side'",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Ellie saying, 'Well-- I got 'em all. Now come on, puppy. Give me your paw. You see, you getting the idea? Or do you want to call Mama and ask her what to do hah'",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Herb saying, 'I was just telling your wife -- trying to make her understand the male point of view on this matter, I mean, how being kicked out for this kind of thing, while, not exactly desirable is still not a serious risk of being a man'",
+        "length_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The scene in the mod shop, deleting boys taking liberties with Ellie",
+        "length_m": 4.27,
+        "length_retained_m": 29.26
+      }
+    ]
+  },
+  {
+    "film_title": "Devar Bhaabi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Royal Film Arts",
+    "cert_no": "23068",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Scene No. 6",
+        "description": "All shots and dialogues beginning with the shots where Mohan says to Madan: 'To pakar kyon nahin leta' and Madan replies 'Koshish to kar raha hoon...'",
+        "length_m": 42.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Scene No. 7",
+        "description": "Shots and dialogues beginning with the shots where Mohan says to Madan: 'Chal mere saath' and ending with the shot where Mohan says 'Maine kaha namaste'",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Scene No. 10",
+        "description": "The following dialogue of Mimi: 'Bada ruhinn do pahlvand dikhano ko, Dekhli tambari pahilvani'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Scene No. 11",
+        "description": "Complete sound",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Scene No. 13",
+        "description": "All shots and dialogues beginning with Madan dialogue: 'Bahut khub bichari Sohini Mahlwal etc.' ending with the dialogue 'Mori pyari Sohni moro mamne khadimi'",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Scene No. 14",
+        "description": "The word 'Tumhari' after the words 'Pani barmankar' from the text of the letter",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots and dialogues after the shots where Raj removes the light",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Whistling by Madari when he is shown near Raj's tongue",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The entire sequence where Raj comes to her maternal uncle's house, meets an unknown person who lures him inside and tries to molest her; Mohan appears in the makeup of a dacoit and pounces upon the said dacoit; and then justifies his crime ending with the shot where the victim lifts his attacker",
+        "length_m": 124.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "In this sequence where Hero is tied to the cart, by his wife, shots and dialogues after the shot where he is awakened and resents his being bound",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "All shots and dialogues after the shot where Mohan is shown dead as a result of stabbing himself with a dagger, till the shot where the title 'The End' appears",
+        "length_m": 58.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerable physical proximity between Raj and Girdhari",
+        "length_m": 2.44,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerable shots where Raj and Girdhari embrace",
+        "length_m": 2.74,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerable embracing and shots of physical proximity between Raj and Girdhari, delete shot where Girdhari embraces Raj when she puts her arms on his chest",
+        "length_m": 2.13,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "For Song No. 1 - beginning with the words, 'Yah kajal rat saiajab ranglunno... ending with 'Uda jo mera anmolmain budi sharma!' - the stanza beginning with 'Geride ke phulva kyon tan ke khado hain...' and ending with 'Maja budi kharmai'",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "The Pride And The Passion",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "20th Century Fox Corporation (India) Private Ltd.",
+    "cert_no": "23069",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Juana shaking her breast whilst dancing",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot when Juana flips her skirt whilst dancing and exposing her underwear",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Gruesome detail during fireball attack on French forces",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Rhythm With Rogle",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Private Ltd.",
+    "cert_no": "23242",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "In the song sequence 'Mama En Quoro...', all dialogue shots in which Charlita: bust is revealed prominently",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "The Tarnished Angels",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Universal Pictures India Private Ltd.",
+    "cert_no": "23246",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word 'If you do not marry her. I will' and the shot of throwing the dice in order to decide who will marry the woman who is in a family way",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Monte Carlo Story",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corporation (India) Private Ltd.",
+    "cert_no": "596",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III, IV and VIII",
+        "description": "Part of the tapestry with nude female figures in the hall of the hotel",
+        "length_m": 27.43
+      }
+    ]
+  },
+  {
+    "film_title": "Miracle In Soho",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "697",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Dialogue of Arst girl to Della: 'we caught them with their pants down'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue of Morgan to Julia before he kisses her: 'How about giving my Oom?'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue of Morgan to Tom: 'Look, I don't mind them plain. I like them plain, I like them plain'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerable shots where Morgan passionately kisses Gwladys after the dialogue: 'Well, I wouldn't like...etc.' And again after the dialogue: 'What's he got in his veins!'",
+        "length_m": 3.66,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerable shots where Morgan kisses Julia passionately",
+        "length_m": 2.44,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Rodan",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "King Brothers, Japan",
+    "cert_no": "598",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "How I, and II",
+        "description": "To the minimum required for continuity, all close shots of disfigured, mangled and burnt out bodies, deleting such shots as occur more than once",
+        "length_m": 9.57,
+        "length_retained_m": 0.91
+      }
+    ]
+  }
+]

@@ -1,0 +1,734 @@
+[
+  {
+    "film_title": "Kal Hamara Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "73242",
+    "cert_date": "3-9-73",
+    "endorsement": "B",
+    "original_length_m": 537.95,
+    "length_deleted_m": 2.13,
+    "final_length_m": 535.82,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "indecent view of the back of the Nandi in Shiva Temple",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Shernce",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "73259",
+    "cert_date": "6-9-73",
+    "endorsement": "U",
+    "original_length_m": 3719.48,
+    "final_length_m": 3708.9,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "drastically reduce the fight between Balwanta, Deepa and others, so as to minimise violence and tension",
+        "length_m": 16.76,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "scene of father taking the extreme step of shooting dead his own son",
+        "length_m": 0.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shorts",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Have You Thought About It",
+    "languages": [
+      "V.D.",
+      "English"
+    ],
+    "cert_no": "73267",
+    "cert_date": "3-9-73",
+    "endorsement": "A",
+    "original_length_m": 168.85,
+    "length_deleted_m": 4.25,
+    "final_length_m": 164.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "front views of man's genitals with sores thereon",
+        "length_m": 3.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "bareback view of posteriors of a man with sores thereon",
+        "length_m": 0.58
+      }
+    ]
+  },
+  {
+    "film_title": "Vaginal Hysterectomy With Pelvic floor Repairs",
+    "languages": [
+      "Eng"
+    ],
+    "cert_no": "3192",
+    "cert_date": "6-9-73",
+    "endorsement": "A",
+    "original_length_m": 227,
+    "alterations": []
+  },
+  {
+    "film_title": "Naina",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "73268",
+    "cert_date": "10-9-73",
+    "endorsement": "U",
+    "original_length_m": 3940.76,
+    "length_deleted_m": 77.31,
+    "final_length_m": 3892.09,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Rajani's dialogue 'Chhodo bhi na raatbhar tang kiya' and subsequent dialogue of Rajni's mother addressed to Ravi, and Rajani's remark 'Dekho ye dekho, faat men tumhare dil par bhoot sawar tha'",
+        "length_m": 10.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "all shots of Mahesh writing letter to his mother on a paper placed on the posterior of a girl lying on stomach on a bed",
+        "length_m": 6.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "indecent shots of painting on the wall and Rajani's reaction and sound 'shee...' after hero's query 'Aur pyar ko baad'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "portion of Ravi kissing Naina and Ravi kissing Jyoti when Jyoti is shouting 'Main naina nahin hoon'",
+        "length_m": 5.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "entire sequence of illicit love between Aaya and the driver and their dialogue from 'Aav na... aji nahin' to 'Hamari to har raat paheli hoti hai'",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "dialogues of servant girl Bindiya addressed to Jyoti and Bindiya's dialogue to Buwaji along with her indecorous gestures",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "one of the friends saying 'Kyun pyare bhabhi ne raat ko to ghanti nahlo bajayee'",
+        "length_m": 3.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX (a)",
+        "description": "shots of Ravi kissing the shoulder of Jyoti and her caressing his neck and back",
+        "length_m": 2.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX (b)",
+        "description": "kissing between Ravi and Naina in the boat",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "entire scene between Bindiya and Driver making love, their dialogue with reference to Chhote Babu (Ravi) and Jyoti's nuptial night",
+        "length_m": 5.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "dialogue of Bindiya addressed to Jyoti and Jyoti's reply",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Bindiya's dialogue 'Koi aa jaayega'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Mahesh's dialogue while holding Rajani 'Randi randi hoti hai'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "portion where Ravi is seen forcibly removing his wife's clothes",
+        "length_m": 7.32,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "beating of Mahesh by Ravi",
+        "length_m": 0,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "all the shots of the couple in bed kissing, necking and making love",
+        "length_m": 22.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shots",
+        "length_m": 28.64
+      }
+    ]
+  },
+  {
+    "film_title": "Prem Parbat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "cert_no": "3193",
+    "cert_date": "10-9-73",
+    "endorsement": "A",
+    "original_length_m": 3611.11,
+    "length_deleted_m": 56.06,
+    "final_length_m": 3559.66,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "scene in which Rani and Sheela are shown taking bath in the pond particularly deleting the shots in which Sheela is shown swimming in the nude",
+        "length_m": 3.2,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "love scene between Sheela and her husband particularly deleting the close shots after she lies on the cot and he takes his face over hers before the Camera pang to show the pillow with the inscription 'Welcome'",
+        "length_m": 4.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "shot in which Choudhry rubs his feet on those of Rani on the cot and the shots in which he twists his fingers into those of hers, on the cot",
+        "length_m": 2.59,
+        "length_retained_m": 1.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "dialogue of Sheela addressed to Rani 'Jayade beshram ho ke aaye haid , abki bar to aate hai'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "bathing scene, deleting the shots in which Sheela's exposed and emphasised busts are prominently visible",
+        "length_m": 0,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shots",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "shot in which the camera zooms forward on a Shivling, suggesting the girl's desire to have sex relationship",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "dialogue of Purshottam addressed to the cook 'Hum to musafir hain jahan kahin meethe paani ka chashma nazar aata hal, wahin pyasbujhane ki koshish karte hain.'",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "shots in which Rani's bare back is seen through the rope cot",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "dialogue of Choudhry 'Aaj main yeh bhi pee ke dikhaoonga' referring to Rani",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "shot in which Sheela's husband takes his lips close to hers as imagined by Ranu",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "revolving shots which show the faces of Rani and Purshottam pressed against each other and Kissing",
+        "length_m": 4.57,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "scene of love making as imagined by Rani Delete all the shots in which Rani and Purshottam are shown making love in the nude",
+        "length_m": 19.2,
+        "length_retained_m": 3.02
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Nari Do Roop",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "73269",
+    "cert_date": "15-9-73",
+    "endorsement": "U",
+    "original_length_m": 3754.49,
+    "length_deleted_m": 74.94,
+    "final_length_m": 3681.07,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "view of nude dead body of the murdered lady lying on the cot",
+        "length_m": 2.42,
+        "length_retained_m": 0.161
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "view of blood when she is killed by pistol",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shot",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "dialogue of the murderer referring to the victim: 'Is aurat ka sharir bahut lazis tha.'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "dialogue of Lalita addressed to Vishal: 'Log to doosronki biwiyan uda lete hala'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "word 'sali' spoken by Ali with reference to woman and her charitra",
+        "length_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "love scene between Vishal and Lolita including their close embrace",
+        "length_m": 4.27,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "love scene, in the house allotted to Vishal, between Vishal and Lolita and delete the shots in which Vishal caresses the bare portion of Lolita below the waist",
+        "length_m": 3.35,
+        "length_retained_m": 4.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "fight between Ali and Vishal retaining only a few unobjectionable shots in which are not gruesome, for the purpose of continuity",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "dialogue of the boy servant addressed to the petrol-pump owner 'Badi umar main bachhe paida kyun nahi Hote?'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "shots of Lolita's head shown bleeding, as imagined by Vishal, with a statue in his hand",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "fight between Belani and Vishal, particularly deleting all the gruesome shots",
+        "length_m": 17.98,
+        "length_retained_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "close shots in which Lolita is shown bleeding, after having been stabbed, and also her hand with blood",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Phir Aya Toofan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "73300",
+    "cert_date": "17-9-73",
+    "endorsement": "U",
+    "original_length_m": 3890.47,
+    "length_deleted_m": 95.23,
+    "final_length_m": 3806.82,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "blows and fist fight between Tara and the dacoits, particularly near the bridge",
+        "length_m": 11.58,
+        "length_retained_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "struggle and tearing of blouse of Bela by Sangram in his attempt to rape her",
+        "length_m": 5.64,
+        "length_retained_m": 3.51
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "blouse and fist fight in the godown between Tara and dacoits, so as to avoid tension",
+        "length_m": 16.15,
+        "length_retained_m": 17.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "number of whipping on Munimji by a dacoit",
+        "length_m": 5.79,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "cabaret type dance by Rupa, reduce her quick bust jerking movements in the beginning and her rolling movements towards the end",
+        "length_m": 13.41,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shots",
+        "length_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "number of slashing with leather whip in the fight between Tara and Rutna",
+        "length_m": 5.18,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "blows and fist fight between Ratna and Sangram near the pond",
+        "length_m": 6.7,
+        "length_retained_m": 9.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "wrestling sequence, reduce the close shot of Tara's neck being pressed with ladder",
+        "length_m": 4.57,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "sentence 'Aajkal ki ladkiyan saadi ke pahle maa baa jaati haln' spoken by Popat to a girl",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "climux fight and the close views of neck pressing",
+        "length_m": 24.69,
+        "length_retained_m": 28.65
+      }
+    ]
+  },
+  {
+    "film_title": "Saudagar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "cert_no": "73530",
+    "cert_date": "25-9-73",
+    "endorsement": "U",
+    "original_length_m": 3793.12,
+    "length_deleted_m": 40.7,
+    "final_length_m": 3752.42,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "love scene particularly deleting close shots of Maju's hand crushing the bare back of Moti",
+        "length_m": 5.36,
+        "length_retained_m": 1.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "steady views of Moti and Maju kissing and embracing each other, including the view of Maju's finger playing with Moti's hair, keeping the portion where he turns towards her",
+        "length_m": 2.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "back view of Moti and Phoolbanu in close physical proximity",
+        "length_m": 3.79,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "scene of passionate love-making between Moti and Phoolbanu in bed",
+        "length_m": 21.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "dialogue with reference to Phoolbanu's season lasting throughout 12 months, as said by Moti to her",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "close view of physical proximity of the couple, the suggestive kiss, and delete the view of Moti lying on Phoolbanu and caressing her body",
+        "length_m": 5.03,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "scene of caning of Phoolbanu by Moti",
+        "length_m": 2.52,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Achanak",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "cert_no": "73531",
+    "cert_date": "25-9-73",
+    "endorsement": "U",
+    "original_length_m": 2630.73,
+    "length_deleted_m": 5.62,
+    "final_length_m": 2626.63,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "last two close views showing the operation",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "bursting of bullets on the body of a last soldier when Capt. Ranjit fires at him",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "flash back scene of Col. Bakshi giving instructions to army officers regarding proper strangulation of human beings, before Capt. Ranjit throttles his wife",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shots",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "prominent shot of Capt. Ranjit seen with blood oozing from his chest after he is shot in the chest by police",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Joshila",
+    "languages": [
+      "Hindus tant"
+    ],
+    "colour": "Colour",
+    "cert_no": "73533",
+    "cert_date": "26-9-73",
+    "endorsement": "U",
+    "original_length_m": 4263.42,
+    "length_deleted_m": 46.8,
+    "final_length_m": 4244.36,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "shot of Kundan resting his head on Madhu's bosom",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "shots from the cabaret dance by Manju including her moving backwards while lying on the platform, her bare thighs reflected on the circular glass table, close up of her midriff, and other indecorous movements",
+        "length_m": 31.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "replacement with approved shots",
+        "length_m": 27.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "shots in which Madhu undresses herself as seen by Amar through the glass, as also his subsequent dialogue",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "shots in which Madhu and Amar undress themselves behind the curtains, deleting particularly the shot in which she un-wraps her sari. Delete the dialogue 'Kapade utarna jaanta hoon', 'Apne ya doosronka' and other such indecent dialogues",
+        "length_m": 6.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "shots in which (i) he turns back from semi-nude girl lying with him on the bed and (ii) after attending to the telephone call goes back to her",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Nari Do Roop",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "cert_no": "73539",
+    "cert_date": "26-9-73",
+    "endorsement": "U",
+    "original_length_m": 92.96,
+    "length_deleted_m": 1.52,
+    "final_length_m": 91.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "close shot of kissing between the couple",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "sound of screaming and also the sound effect of hitting with stick",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Valo Namori alias vala Taro Deshma Danko",
+    "languages": [
+      "Guj"
+    ],
+    "colour": "Cul",
+    "cert_no": "73542",
+    "cert_date": "28-9-1973",
+    "endorsement": "U",
+    "original_length_m": 3859.07,
+    "length_deleted_m": 48.92,
+    "final_length_m": 3815.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "words of Faujdar to the following effect and the shot of his looking at the body of the Miyanee: 'Vikhava jevoon to Ghanoon Chhe'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "shots showing Valo throttling & sepoy by pressing his foot on his throat in the fight",
+        "length_m": 2.13,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (a)",
+        "description": "words of Banasari to her lover 'Beeja sheman pungi valvoon chho'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (b)",
+        "description": "picturisation of the dance song beginning with the words 'Bharco mehfilman...', delete the shots in which Mamet has Murli under his hold and lie bends over her whilst lying",
+        "length_m": 4.88,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "loud sound of kissing before Bansari chars her cheek at the spot",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "entire scene of molestation and rape of a woman by mamed keeping merely the beginning where he touches her choli and the scene when Bansuri and Mahav appear on the scene and ask for the lady to be handed over to them. Delete the scenes showing the bare back and legs, delete screams and delete the shot in which mamed in drunken condition exhibits her pulled out choli and says dialogues about God creating beauty and woman hiding the same under choli and his drunken assistant approving of these remarks",
+        "length_m": 32.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,745 @@
+[
+  {
+    "film_title": "Rommel's Treasure",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "B. Bilimoria & Son",
+    "cert_no": "36905",
+    "cert_date": "19th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of embracing and kissing between Sofia and Brunnor",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Five Weeks In A Baloon",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "37010",
+    "cert_date": "21st November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of the sultan and his baron. Shots of keirton hanging in the dungeon and Suran goreaning in tortor",
+        "length_m": 9.22
+      }
+    ]
+  },
+  {
+    "film_title": "Five Weeks In A Baloon",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corp.",
+    "cert_no": "37011",
+    "cert_date": "21st November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From Fergusson's dialogue: \"If we fail, heaven help the natives.\"",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "From Fergusson's dialogue: \". . .atleast to their uncivilized eyes\"",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "1, VI",
+        "description": "Entire sequence in the Sultan's pavillon",
+        "length_m": 210.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Dialogue: \"Allah gives, Allah takes away\" said by Ahmed with reverence to stolen goods",
+        "length_m": 1.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Dialogue: \". . .Well, I am for it. . .you'll make a juicy dish, English roast\" said by Ahmed",
+        "length_m": 2.82
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Underlined word from \"Allah, protect us from our friends\" said by Ahmed",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Entire sequence in the dungeon",
+        "length_m": 66.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "All shots showing people at congregational prayers (while the Azan is going on)",
+        "length_m": 16.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Dialogue: Jacques: \"Have they sold them yet?\" Mukis: \"No, They are to die -as infidels.\" Donald: \"Djel when?\" Makis: \"At sunset -when the muezzin, he calls the evening prayer from the minaret, and all the Faithful, they bow toward Mecca\". Donald: \"How are they to die.\" Makis: \"I do not know\". Ahmed: \"I am afraid I do\"",
+        "length_m": 71.0
+      }
+    ]
+  },
+  {
+    "film_title": "Brushfire",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jack Warner, Jr.",
+    "cert_no": "87012",
+    "cert_date": "21st November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of man being hung by tree upside down and tortured",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Ho Mohabbat Ki alias Ghar Ki Numish",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bibhuti Bhushan Paul",
+    "cert_no": "37013",
+    "cert_date": "21st November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The underlined words from \"B.A. ki pareeksha ko gaath, mohabbat ki pareeksha men bhi paas ho gaye\" said by one college student to another standing in a group of boys and girls",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In song no. 2, \"Tumse kaboon kya....\" from wordings \"Mastiyaan ubal rahi hain\"",
+        "length_m": 44.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In song no. 3, \"Meri ankhiyon men....\" from wordings \"Hasi chupko se sab kuchh churayo jaayegi dhoere chalo\"",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The underlined words from Gangadhar's dialogue to Munimji: \"Main hoon aapka din ka saathi, ab koi raat ka naathi dhoondhiyo\"",
+        "length_m": 1.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Munimji hugging the pillow suggestively and the dream sequence entirely including song no. 4 (visuals as well as wording) beginning with the words \"Chhak, chhak, chhak\"",
+        "length_m": 140.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "References to \"randi ka kotha\" from the dialogue",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From Gangadhar's dialogue to Munimji the words \"(tulab toh do mahine no tankhwah nahimile\"",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In song no. 7, beginning with the words \"Abhi toh tamannave....\", the entire Kothe scene and the whole song",
+        "length_m": 30.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "LI",
+        "description": "In song no. 9, beginning with the words \"Yaad tumhari laayi....\" from the wordings: \"Haaimaine dard khareeda dokar mast jawani\" and \"Mere vash man nahi jawani jang utheo hai peer paraani\"",
+        "length_m": 8.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "LI",
+        "description": "From visuals: Near views of Anarkali in which her bust is shown indecorously through the prison bars",
+        "length_m": 27.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "LI",
+        "description": "In song no. 12, beginning with the words \"Mero ghunghat Kalan ko....\" from visuals of the song, shot of a girl winking",
+        "length_m": 0.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Gangadhar's dialogue to Munimji \"Ajai dekh kar ke baya hoon\" and his indecent gestures and actions",
+        "length_m": 2.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "From Munimji's dialogue to Ganpadhar the words \"Hut teri tebiyat ki. . . . . .aisi ki taisi\"",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Breakfast At Tiffany's",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Martin Jurow and Richard Shepherd",
+    "cert_no": "37018",
+    "cert_date": "24th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of the film agent kissing and embracing a girl when the curtain is pulled aside",
+        "length_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the party scene, shot of a woman lying drunk and in a prostrate condition, supported by man",
+        "length_m": 0.68
+      }
+    ]
+  },
+  {
+    "film_title": "Breakfast At Tiffany's",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Martin Juryw & Richard Shepherd",
+    "cert_no": "1322",
+    "cert_date": "24th November 1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of Holly in men's shirt in which her bare thighs are shown",
+        "length_m": 7.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the party scene, shot of a woman lying drunk in a prostrate condition, supported by men",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of a girl on a man's shoulders in which her bare thighs are visible",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of the film agent pulling back the curtain after he is found embracing when the curtain is pulled aside",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI, VII",
+        "description": "In the cabaret dance, all shots of the girl after who is trying to strip tease",
+        "length_m": 7.47
+      }
+    ]
+  },
+  {
+    "film_title": "Hercules Conquers Atlantis",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Italo-French Corporation",
+    "cert_no": "36404",
+    "cert_date": "16th August 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The fire sequence (reduced)",
+        "length_m": 2.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The scene of street fighting (reduced)",
+        "length_m": 4.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The conversation between Hercules and the Queen and shots of Hercules lifting stone table and other shots of pulling up a ship at bay with an iron chain",
+        "length_m": 96.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The titles \"Worldwide distribution by Omnia Deutsche Film Export, GMBH, Munich\"",
+        "length_m": 3.01
+      },
+      {
+        "kind": "insertion",
+        "reel": "Trailer",
+        "description": "Tidal wave sequence",
+        "length_m": 13.26
+      },
+      {
+        "kind": "insertion",
+        "reel": "Trailer",
+        "description": "Magic sequence",
+        "length_m": 20.19
+      }
+    ]
+  },
+  {
+    "film_title": "Night Bird",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A. R. Zamindar",
+    "cert_no": "32217",
+    "cert_date": "20th April 1961",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "The title \"Night Bird\" has been replaced by the title \"Night Bird alias Khooni Hira\"",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Durga Puja",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Adarshluk",
+    "cert_no": "37020",
+    "cert_date": "24th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the dance sequence, shots of hip-jerking by principal dancer at the beginning and also shots of her arching on the floor",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Rajkumar's remark referring to girl attendants \"Mujhe toh sab himmatwal nazar aate hain\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Malumantri's remark addressed to Rajkumar (referring to girl attendants) \"Yeh sab baasi phool hain, tumhon koi taza phool se milna chahiye\" and Rajkumar's reply \"Woh kunigo khot nen milta ha\"",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "All references and visuals pertaining to cow-glance and its condemnation by Chandan bala, including the song in which some cows are seen to be turned into women (Matab)",
+        "length_m": 55.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Dialogue of Mahamantri \"Bechara Radha Krishna Shankar Parvati bhi jhak maarte hain inke\"",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "From the wording of song beginning with howda \"Hubaliw all, are hol to eahl....\", the fully wing lines \"Lapat jhapat kar tujho anaoun mat kar voi oui\" and \"Jo kuchh Pyar phyar kurna hai, ua) kar le, ubhi kar le\" and \"Obat pat kar to pyar, ure ye uhit put ka bazar hai\"",
+        "length_m": 8.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "To a flash the scene of dragging of men tied by ropes, by Runt Bhanumati's soldiers",
+        "length_m": 1.83,
+        "length_retained_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Lion",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corp.",
+    "cert_no": "37058",
+    "cert_date": "27th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "From Christine's dialogue addressed to Robert with reference to native tribestaon, the words \"Some their own, some they steal. They have no scruples for other people's Property\"",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The word \". . he'll have you I kind of appetite\" said by Balut to Christine suggestively with reference to her daughter",
+        "length_m": 0.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "a) \"His people must have brought him here to die\" said by Tina with reference to old chief, Il-K1112",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "b) The following from dialogue: Robert - \"Why did they bring him here to die?\" Tina - \"If he died in Manyatta, his spirit would stay. They'd have to burn the place and move on. Even the baboons leave their nest behind if they can't keep up with the troop\". Robert - \"Do you accept such cruelty\" Tina - \"It always done this way\"",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "c) The words \"Bogo not give hand. They kill Bogo if he help. . . tell him all his tribe angry with him if he die in compound\" said by Bogo",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The words \"To be eaten by wild dogs before they are quite dead\" said by Christine",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Kiharo spitting on the face of the old Chief",
+        "length_m": 1.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "From the tribal dance all shots of women dancing and seen with their bosoms uncovered",
+        "length_m": 19.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX, X",
+        "description": "From fighting scene between Oriungu and King, shots of King's paw striking at Oriunga as also King holding Oriunga's arm in his mouth",
+        "length_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "To a filmable shots of blood-smeared body of Kihoro",
+        "length_m": 5.6,
+        "length_retained_m": 1.62
+      }
+    ]
+  },
+  {
+    "film_title": "The Old Guard",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jacques Bar",
+    "cert_no": "87054",
+    "cert_date": "27th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From Talon's dialogue, the underlined words from the following: \"Don't ever talk to me about that little bitch again, never again\"",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The following dialogue: Talon \"... I initiated Catherine\". Poulousiere \"... I'm the one who initiated her in Nineteen-twenty. Do you hear that? and more than once too... buo Hugo I was a regular wild bull, My wife didn't go off tout-tooting with station master\". Pejal... I'm the one who initiated Catherine during the Nineteen harvest\"",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "The Old Guard",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jacques But",
+    "cert_no": "37055",
+    "cert_date": "27th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The words \"... I'm the one who initiated Katherine, during her Nineteen-nineteen harvest\" said by Pojat",
+        "length_m": 1.96
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Maiya Toh Piyari Chadhaibo",
+    "languages": [
+      "Hindi",
+      "Bhojpuri"
+    ],
+    "producer": "Bishwanath Prasad Shahabadi",
+    "cert_no": "37056",
+    "cert_date": "27th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the song-dance sequence, near views of indecorous movements of the dancer in the beginning and the shot of a man sitting near Zamindar putting his hand on his heart while watching the dance. Also the following lines: \"Ab to humarea peechho laglo lugava kase hazaar\" \"Hamaro Kauran sub kahu maare kanto ko taoepaar\" \"Aoegan sab Jhanakaela, ek din ghali gandagia bhalas\"",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "P",
+        "description": "The underlined words in the following dialogue of a fat woman while dictating letter for her husband to Sumitra's friend: \"Jada bahot padat hal\"...\"Tum bin jiya tadapat haj\"",
+        "length_m": 8.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Shots of funeral pyre of Sumitra's first husband (reduced)",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Near views of Sumitra's mother while dying (reduced)",
+        "length_m": 4.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The underlined words in the remark of Babu Saheb addressed to Sumitra after her dance \"Lum yehi rahawen, paing dehale hain\"",
+        "length_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Nandadeep",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Chitraganga Fing",
+    "cert_no": "37058",
+    "cert_date": "27th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The following dialogue: “Aamhan gatte bazatantil, lokarikathimadira ganimadiraakshi hech kaay to plaavyache Kshan estast\"",
+        "length_m": 3.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "From the visuals of song-dance sequence beginning with the words: \"Nandalala kashi samajaon tula Gopala\". (i) Shots of patrons offering curteney notes and (ii) shots of Bapu Saheb taking liberties with Menaka",
+        "length_m": 21.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of Sharad enclosing lata in his arms and holding her close to himself, in front of the cold-drink bar",
+        "length_m": 4.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From scene of Raosaheb and his wife in bedroom, suggestive shots towards the end",
+        "length_m": 8.0
+      }
+    ]
+  },
+  {
+    "film_title": "Girls Hostel",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ramesh Dave",
+    "cert_no": "37059",
+    "cert_date": "27th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the song beginning with the words \"Idhar bhi baseena..., udhar bhi haseena\" From wordings, \"Kigne ne dil lopta-k1979 a) dil ohhoana\" and repetitions thereof. From visuals: Shersingh staring indecorously at girls entering the hotel",
+        "length_m": 2.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shersingh daebing against a woman who is dancing with her partner",
+        "length_m": 1.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shersingh squeezed his handkerchief on \"paguona\"",
+        "length_m": 1.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shersingh taking liberties with the palloog of two ladies and with the hair of another",
+        "length_m": 0.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The underlined words from the following dialogues of Shergingh: \"Kya karoon nul ka munh khul gayu....naalaayakh, tooto band rah\" and \"Tum bhi parole non ho, maju bhi perde mon hoon\"... Au jaa aa jaa\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In song beginning with the words \"Main akeli,...bimor bahut\" From wordings: \"Main akeli mero dildar bahut mari ulfat ke hal bimor bahut\" and repetitions thereof. \"Koyi kahe mujh pe rubam kijiye, koyi kahe alae na sitam kijiye\" and \"Jis ko bhi dekha muin ne hung ke zase us ne hiai poochha mere ghar ko pala\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII, XIV",
+        "description": "The Shrieking of Shyam (sound only) when he falls (i) in the dry well and (ii) in the hot swamp (sound)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Premature Burial",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "An Aideric American International Picture",
+    "cert_no": "87280",
+    "cert_date": "20th December 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of the human skeleton",
+        "length_m": 1.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of a woman lying over a man and of their kissing",
+        "length_m": 6.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of the hero killing his father-in-law and his giving electric shock to the dead body",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Cries of a grave-digger",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of the human skeleton falling and it lying by the side of the hero",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Premature Burial",
+    "languages": [
+      "English"
+    ],
+    "producer": "An American International Picture",
+    "cert_no": "1331",
+    "cert_date": "22nd December 1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete all shots of earth being shovelled on to Emily in the coffin",
+        "length_m": 6.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "All shots of Doctor trying to uncover Emily's body and face when she lies buried, and the shot of her face when it is first seen stained with earth",
+        "length_m": 8.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Giants of Thonnaly",
+    "languages": [
+      "English"
+    ],
+    "format": "Totuluoope",
+    "producer": "Alexandra P.C. Production",
+    "cert_no": "87266",
+    "cert_date": "18th December 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shots of hideous face of the one eyed monster",
+        "length_m": 4.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Adrastus trying to molont Crouca",
+        "length_m": 2.05
+      }
+    ]
+  }
+]

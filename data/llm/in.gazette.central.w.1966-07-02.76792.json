@@ -1,0 +1,521 @@
+[
+  {
+    "film_title": "Thakur Jernal Singh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ranjit Studio",
+    "cert_no": "47310",
+    "cert_date": "14-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Indecorous dance movement from the song dance sequence 'Sayan se vada tha'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Underlined words from the sentence 'Itne barhe dakku ki bibi' (Sound), and indecorous dance movements from song dance sequence 'Dil Mila kc Milo'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Indecorous dance movements from the song dance sequence 'Kahe Chhede, Hai Kahu Chhede'",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Scene where Makhan offers money to Rajni Tiwari and she accepts that he has invited her to visit him at night",
+        "length_m": 4.27,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Replacement of credit titles"
+      }
+    ]
+  },
+  {
+    "film_title": "The Early Bird",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "The Rank Organisation Ltd",
+    "cert_no": "47312",
+    "cert_date": "15-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "TV scene showing a scantily-clad woman wriggling her bust and hips, deleting prominent views of the busts or of the hips and of the wriggling movements from front or behind with straight or inverted picturisation",
+        "length_m": 12.0,
+        "length_retained_m": 4.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Prominent views of women with very low cut dresses with their bosoms exposed and busts emphasised, standing on both the sides of the Vet when he is talking on the phone",
+        "length_m": 22.0,
+        "length_retained_m": 10.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Early Bird\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "The Rank Organisation Ltd",
+    "cert_no": "47313",
+    "cert_date": "15-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Fish of the TV scene in which a scantily clad woman wriggles her busts and hips",
+        "length_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "The Family Jewels",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Paramount Films of India Ltd",
+    "cert_no": "47324",
+    "cert_date": "16-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IIA",
+        "description": "The word Russian when the fuse-box is removed from the unexploded torpedo",
+        "length_m": 0.18
+      }
+    ]
+  },
+  {
+    "film_title": "The Man From Bitter Ridge",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Pvt. Ltd",
+    "cert_no": "47337",
+    "cert_date": "17-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of a gunman trying to reach the eyes of Jeff",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of Jackman being dragged by the horse, after he has been shot",
+        "length_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Moment To Moment\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal Pictures India Pvt. Ltd",
+    "cert_no": "47339",
+    "cert_date": "18-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Underlined words from Kay's remark: 'It was some kind of animal hunger...'",
+        "length_m": 1.9
+      },
+      {
+        "kind": "reduction",
+        "description": "Kissing between the hero and the heroine reduced to flash shots",
+        "length_m": 2.56,
+        "length_retained_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Secret Agent F.X. 18\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Chandra Bros.",
+    "cert_no": "47341",
+    "cert_date": "18-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of the girl in the bath tub in which her nude back and bust are visible",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of a girl emerging from the breast of a poster",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of a girl being tortured when a slab is mechanically pressed over her",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of actual stabbing and shooting",
+        "length_m": 1.33
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Sands of Kalahari\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "Paramount Films of India Ltd",
+    "cert_no": "47342",
+    "cert_date": "19-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Dialogue and commentary: 'Do you want me? - I got you.'",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Dialogue and commentary: 'One woman sets afire the passions.'",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Near-view of bare midriff of a woman",
+        "length_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "description": "Near-views of gorillas",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "description": "View of a man and woman in embrace and shivering",
+        "length_m": 0.28
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Pirate of The Black Hawk\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Krishna Films",
+    "cert_no": "47343",
+    "cert_date": "19-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Scene of the illegal Duke making love forcibly to Silema on the first night after marriage",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "description": "Words addressed by the illegal Duke to the women prisoners: 'You will be turned over to the soldiers.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Scene of love-making between illegal Duke's mistress and her lover where she is lowered to the hay and he places his hand on her chest",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "Pirate of The Black Hawk",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Krishna Films",
+    "cert_no": "47344",
+    "cert_date": "19-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "In the revelry scene, the shot when a woman lies on the dining table and the illegal Duke kisses her",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Words addressed by the illegal Duke to the women prisoners: 'You will be turned over to the soldiers.'",
+        "length_m": 3.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Scene of love-making between the illegal Duke's mistress and her lover, deleting the portion when she is lowered on the hay and he falls on her",
+        "length_m": 3.04,
+        "length_retained_m": 1.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Scene of first night after the marriage between the illegal Duke and Silema, deleting the portion after the Duke throws away the wine glass and tries to make love to Silema forcibly",
+        "length_m": 18.84,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Secret Agent F X 18",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Chandra Bros.",
+    "cert_no": "1736",
+    "cert_date": "15-3-1966",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of a gun sticking out of the breast of a poster picture of semi nude female",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of Carla in bath-tub covering her bust with her hands, in which part of her bare breast is visible and back view of her nude figure getting out of the bath-tub",
+        "length_m": 2.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of exposed bust of Arlene and Lila while they are cleaning their pistols",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Reference to 'Iron Curtain' countries wherever it occurs",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Opening sequence showing the preparation of the 'curaro' - a poisonous pin - and the placing of it in a cigarette",
+        "length_m": 9.14,
+        "length_retained_m": 8.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Electric shock treatment of Murphy reduced to a flash",
+        "length_m": 1.83,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shots of Murphy's dead body being placed in a drum and the pouring of chemicals over his head before throwing it in the sea",
+        "length_m": 3.35,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of one of the agents bashing the head of his opponent reduced to a flash",
+        "length_m": 0.75,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Cincinnati Kid",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Metro Goldwyn Mayer India Ltd",
+    "cert_no": "1739",
+    "cert_date": "18-3-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (18)",
+        "description": "Indecorous view of Melba while playing cards and while taking a telephone call",
+        "length_m": 13.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (JA)",
+        "description": "Indecorous view of Melba as she walks seductively towards the Kid and as she telephones",
+        "length_m": 6.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV (2B)",
+        "description": "Reaction of the crowd and of Melba while watching the cock fight",
+        "length_m": 3.73,
+        "length_retained_m": 6.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX (5.4)",
+        "description": "Scene of Melba and the Kid in bed, particularly deleting shot of the Kid keeping his leg over Melba and kissing",
+        "length_m": 2.48,
+        "length_retained_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "Waqt",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "B R. Films",
+    "cert_no": "45281",
+    "cert_date": "28-7-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels IV to XIX",
+        "description": "Various shots",
+        "length_m": 555.35
+      }
+    ]
+  },
+  {
+    "film_title": "Deva Mela",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Suresh Nigam",
+    "cert_no": "45591",
+    "cert_date": "6-9-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Various shots",
+        "length_m": 68.58
+      },
+      {
+        "kind": "insertion",
+        "description": "The word 'Hindu Muslim Sikh Isar Sabhi Dharmo Aur Sampradayon Ko Logo Ko Yaad Dilatı Hai' (Sound only)"
+      }
+    ]
+  },
+  {
+    "film_title": "Archana",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Jai Maruthy Productions",
+    "cert_no": "45089",
+    "cert_date": "18-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Sound of a student cooing while Malathi is passing, and the shot of Rajan pulling the flower from Malathi's hair",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Suggestion of Malathi kissing Gopi's photograph",
+        "length_m": 0.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "In the song, Gopi pinching Malathi's cheek, and the close proximity shots of Gopi and Malathi",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Shots of the child when the father and mother quarrel",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 8 & 10",
+        "description": "Two comedy scenes: (a) relation to a policeman's wife, and (b) Panchayat Officer's complaint as to the treatment of the accused by the police, with the suggestion that third degree methods were used by the police",
+        "length_m": 182.88
+      }
+    ]
+  },
+  {
+    "film_title": "O.S.S. 117 Mission For A Killer",
+    "languages": [
+      "English"
+    ],
+    "format": "Francoscope",
+    "producer": "Patel Enterprises",
+    "cert_no": "17337",
+    "cert_date": "14-3-1966",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Scene of violent fighting in the Docks",
+        "length_m": 3.34,
+        "length_retained_m": 10.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Sudistic and violent fighting in the operation theatre, deleting the prominent parts (hitting)",
+        "length_m": 5.47,
+        "length_retained_m": 18.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The fighting with a bow-pipe in Ellis's apartment",
+        "length_m": 4.86,
+        "length_retained_m": 20.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Scene of violent fighting in the aeroplane",
+        "length_m": 8.51,
+        "length_retained_m": 18.85
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "film_title": "The Sky Above, The Mud Below (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Joseph E . Levine Presentation",
+    "cert_no": "39783",
+    "cert_date": "11-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot of semi-nude male with stick between his legs",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shots of Fertility Rite dancers shaking their body indecorously",
+        "length_m": 2.66
+      }
+    ]
+  },
+  {
+    "film_title": "Sankurarukku Oru Sodhanai",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Films Division , Govt. of India",
+    "cert_no": "39799",
+    "cert_date": "12-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The underlined phrase - Dog-cating pariah"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The sentence spoken by Chandal: 'When I have taken ganja and am intoxicated'"
+      }
+    ]
+  },
+  {
+    "film_title": "Black Magic Alias Kala Jadoo",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Screenarts Productions",
+    "cert_no": "39901",
+    "cert_date": "13-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Direct thrust by sword",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol: 347",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "39903",
+    "cert_date": "14-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Underlined words in the reference in the commentary to “Wall of Shame\" in the sequence showing Chancellor Erhari's visit to West Berlin",
+        "length_m": 0.28
+      }
+    ]
+  },
+  {
+    "film_title": "Boatman And The River",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Bimal Roy Productions",
+    "cert_no": "37793",
+    "cert_date": "8-3-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Monogram and words \"Released through Films Division \""
+      }
+    ]
+  },
+  {
+    "film_title": "Phir Wohi Dil Laya Hoon",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Tahir Husain Khan",
+    "cert_no": "39755",
+    "cert_date": "5-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel",
+        "description": "The shot showing Trade mark photo of Mr. Nasir Husain has been replaced with Monogram of ‘N. H. Films of equal length."
+      }
+    ]
+  },
+  {
+    "film_title": "Annai Illam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Kamala Pictures",
+    "cert_no": "37904",
+    "cert_date": "11-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Kumar setting the driving mirror at Goetha and whistling",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Song 1 - delete the shots (a) Kumar catching Geetha's plait; (b) Kumar catching Geetha's sari",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Kumur's sentence to Paramanandam that the hunt was successful (Sound only)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "The Inspector apologising and releasing Kumar from lock-up"
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Geotha telling Kumar that he can go anywhere, and he should go slowly",
+        "length_m": 2.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Song 2 - Delete (a) all shots of Kumar and Geetha together in close-up and mid close-up, and (b) shot of her running and his falling on her",
+        "length_m": 22.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "All the shots of the preparations for the execution of Paramanandam"
+      }
+    ]
+  },
+  {
+    "film_title": "Parisu",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Gowri Pictures",
+    "cert_no": "37892",
+    "cert_date": "6-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels 1, 5, 11 and 13",
+        "description": "Addition to Reels 1, 5, 11 and 13",
+        "length_m": 155.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 2, 4, 5, 6 & 14",
+        "description": "Voluntary deletions in Reels 2, 4, 5, 6 & 14",
+        "length_m": 94.48
+      }
+    ]
+  }
+]

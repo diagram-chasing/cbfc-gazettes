@@ -1,0 +1,425 @@
+[
+  {
+    "film_title": "Operwala Jane",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Kenny Films, Ranjit Studio, Dadasaheb Phalke Road, Dadar, Bombay-400014",
+    "cert_no": "B/81764",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to minimum necessary the close-up of the blood-stained face of a man",
+        "length_m": 0.61,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the prominent views of exposed breasts of Maya when she is doing back-stroke in the swimming pool",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Drastically reduce the shot of Vijay bleeding profusely from the mouth",
+        "length_m": 12.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the whipping of Ramesh by horses",
+        "length_m": 10.36,
+        "length_retained_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the words 'Sharb me khoon milekar piyo' as spoken by Dinanath to his henchmen (Sound only)",
+        "length_m": 4.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the following portion from the picturisation of the song beginning with the words 'jo bujhe pa kabhi aisi sag...': the view of the dancer rubbing her body on Ramesh",
+        "length_m": 4.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the dancer hitting Ramesh with the burning torch",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the dancer rubbing her bare knee on the chin of Ramesh",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete scratching of Ramesh's face by the dancer with her nail",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete other indecorous postures of the dancer",
+        "length_m": 12.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Drastically reduce the strangling of Ramesh by the chain",
+        "length_m": 8.23,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the whipping of men by Rita and reduce the subsequent stick fight, by deleting gruesome visuals",
+        "length_m": 12.8,
+        "length_retained_m": 51.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce to a suggestion the shot of Vijay trying to strangle Ramesh by means of chain",
+        "length_m": 2.74,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the whipping and stick fight between the gangsters and Reota Vijay",
+        "length_m": 8.23,
+        "length_retained_m": 43.59
+      }
+    ]
+  },
+  {
+    "film_title": "Kali Raat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/81127",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot of mile-stone showing 'Lahore' written in Urdu in the war sequence",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word Rifle from Ramzankaka's dialogue to take out the suggestion of the rifle being in the possession of the soldier",
+        "length_m": 0.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the suggestive shots of kissing between the dancer and Ranjeet in jeep during the song",
+        "length_m": 7.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete Ranjeet's dialogue 'Main bhi usi ghode par savari karna chhahta hoon, jo dullati maare' with reference to Katari",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the dragging of Katari by Ranjeet and his aides",
+        "length_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the word Keera from Thakurni's dialogue with reference to Jawan",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete Thakurni's dialogue 'Thakur ki santan hokar tum ek keera ka mukabila nahin kar sakte'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce suitably the dragging of Jawan by Ranjeet behind the jeep",
+        "length_m": 1.86,
+        "length_retained_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete Sanjeev's dialogue 'Larna mera pesha hai, larda mujhe sikhaya gaya hai'",
+        "length_m": 9.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the scene to a suggestion only where Jawan is so engrossed in the thought of his wife that he starts embracing and kissing the old man sitting opposite to him",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Gipsy Camp Vanishes Into the Blue",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/82340",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the view of bare breasts of a lady",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Choice of Goal",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/83002",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a nude girl taking shower",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Prayas Chit",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/83343",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the cabaret dance, delete the first shot of the dancer jerking her breasts indecorously",
+        "length_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "Agar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/83182",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the entire sequence of a teacher being ridiculed in Anil's house by the child and his mother",
+        "length_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the painting of a couple in amorous posture when the camera is focussed on it intentionally immediately after Anil & Anju lie down on bed",
+        "length_m": 3.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the view of a couple kissing in the garden, and the dialogue 'Lage rahne...lage rahne, Chhorna nahin', spoken by Chaman to the couple",
+        "length_m": 1.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "In the fight sequence, reduce considerably the close shot of strangulation of Vijay's neck with a motor handle by Davar",
+        "length_m": 1.7,
+        "length_retained_m": 1.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce considerably the views of Davar's boot on the neck of Anil and the subsequent strangulation",
+        "length_m": 9.0,
+        "length_retained_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII, XII & XV",
+        "description": "Reduce the other scenes of fighting and violence in the film so as to tone down the emphasis on crime and violence",
+        "length_m": 17.2,
+        "length_retained_m": 72.1
+      }
+    ]
+  },
+  {
+    "film_title": "Sainthadamma Sainthadụ",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B & W",
+    "format": "35 mm",
+    "cert_no": "M/8801/34/989",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the entire love-making between Singari and her lover on bed, retaining one shot for continuity, of Singari and her lover embracing - showing above waist-including Aash-back of same shots as observed by Gowri",
+        "length_m": 25.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce Singari threatening Gowri with live electric wire, restricting it to twice only",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "In the cabaret-dance, delete close and mid-close shots of the dancer's busts, her bust jerks, her shots on the table and the dancer gyrating on the ground",
+        "length_m": 8.34
+      }
+    ]
+  },
+  {
+    "film_title": "Thalappoli",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "format": "35mm",
+    "cert_no": "M/10971",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the reference to M.G.R. by Babu",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shot of two men wearing the same mundu",
+        "length_m": 8.26
+      }
+    ]
+  },
+  {
+    "film_title": "Acharam Ammini Ossaram Onara",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "M-10944",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the following words of the police constable addressed to the woman selling liquor: 'Pennungalude Vayarioto Keezhottu nokkar illa'",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Dil - Aur Pathar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/80958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot of mile-stone showing 'Lahore' written in Urdu in the war sequence",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word Rifle from Ramzankaka's dialogue to take out the suggestion of the rifle being in the possession of the soldier",
+        "length_m": 0.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the suggestive shots of kissing between the dancer and Ranjeet in jeep during the song",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete Ranjeet's dialogue 'Main bhi usi ghode par savari karna chhahta hoon, jo dullati maare' with reference to Katari",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the dragging of Katari by Ranjeet and his aides",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the word Keera from Thakurni's dialogue with reference to Jawan",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete Thakurni's dialogue 'Thakur ki santan hokar tum ek keera ka mukabila nahin kar sakte'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce suitably the dragging of Jawan by Ranjeet behind the jeep",
+        "length_m": 3.8,
+        "length_retained_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete Sanjeev's dialogue 'Larna mera pesha hai, larda mujhe sikhaya gaya hai'",
+        "length_m": 9.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the scene to a suggestion only where Jawan is so engrossed in the thought of his wife that he starts embracing and kissing the old man sitting opposite to him",
+        "length_m": 3.96
+      }
+    ]
+  }
+]

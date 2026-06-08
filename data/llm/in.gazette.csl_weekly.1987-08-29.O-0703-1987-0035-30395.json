@@ -1,0 +1,57 @@
+[
+  {
+    "film_title": "Duja Vlah",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "B/F - 1912",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the dialogue of Mahar Mittal \"Ha ch lo tol soch samajh ke malaano\" - sound only",
+        "length_m": 15.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the dialogue of Sahaji \"Gallaa mardan he to kooch nahimarda\" - sound only"
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete all visuals and dialogues beginning from Deepa saying \"chalo latta sindiya till she says maasinoo sikh len de\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the song sung outside the country liquor shop glorifying drinking, retaining 2 stanzas"
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue of sahaji \"too badi dadi hai ck wari de len do\" - sound only"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the dialogue of deepa ethiya to badi shaa nalgi - sound only"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the dialogue of shaliaji Dye sorry dea halls to issau"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the dialogue of shahaji \"Eh teri gal sach hai Baliram Mard ki jawani\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the dialogue \"Jija sala eko dikaan ton vashaa lote hain\" - sound only"
+      }
+    ]
+  }
+]

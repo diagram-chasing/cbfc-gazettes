@@ -1,0 +1,163 @@
+[
+  {
+    "film_title": "Teaser Trailer of “40 Pounds of Trouble”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Universal Pictures India Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "39714",
+    "cert_date": "28-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Z",
+        "description": "Shot of long and passionate kiss between couple.",
+        "length_m": 0.99
+      }
+    ]
+  },
+  {
+    "film_title": "The Fast Lady",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Noor Bldg., Sir P.M. Road, Bombay-1.",
+    "cert_no": "39734",
+    "cert_date": "30-10-1963",
+    "endorsement": "U",
+    "original_length_m": 2606.0,
+    "final_length_m": 2571.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From Freddy’s soliloquy, the words \"Oh, you sexy beast.\"",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "From Freddy’s dialogue to Murdoch, the underlined portion: \"Just the place for the old passion stakes, eh ?\"",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of bare thighs of Grunhilde when she is jumping into the car with Freddie.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the love-making scene between Freddy and his girl friend, all close shots in which she is seen in Bikini and her bare thighs and midriff are seen.",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the dialogue between Grunhilde to Freddy, the following: \"Perhaps his old chemicals aren’t going zoom, zoom, zoom.\"",
+        "length_m": 5.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The following dialogue as well as visuals between Grunhilde and Freddy “What say we skip convention and risk it in the old all together, eh ? What is the old all together ? Yea’. Also Freddy’s whispering Grunhildo’s ears and her slapping him.\"",
+        "length_m": 8.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shots of love-making between Murdoch and Claire on beach while the car is sliding down the hill.",
+        "length_m": 6.4,
+        "length_retained_m": 1.25
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “The Fast Lady”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Noor Bldg., Sir P.M. Rd., Bombay-1.",
+    "cert_no": "39735",
+    "cert_date": "30-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of the girl in Bikini where her midriff and bare legs are shown.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shot of Freddie’s girl jumping down in the car when her bare thighs are seen.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Shot of kissing by Murdoch and Claire.",
+        "length_m": 0.4,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Akela",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "J. B. Lulla, Prop. Filmdom, Parekh Street, Bombay-4.",
+    "cert_no": "39336",
+    "cert_date": "21-9-1963",
+    "endorsement": "U",
+    "original_length_m": 4013.71,
+    "final_length_m": 3964.99,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Scene showing Kalu being interrogated by police.",
+        "length_m": 36.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "K",
+        "description": "Shot showing a drunken man in Elite Club den.",
+        "length_m": 8.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Scene between Bania and mother.",
+        "length_m": 3.34
+      }
+    ]
+  },
+  {
+    "film_title": "Must For Every Home",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "A. R. Varma, 148, Famous Studios, Bombay-1.",
+    "cert_no": "37080",
+    "cert_date": "28-11-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "end of the reel",
+        "description": "The addition of a shot in Black and White at the end of the reel, with the words \"RELEASED THROUGH RAJ AN FILM DISTRIBUTORS : INDORE*'.",
+        "length_m": 9.14
+      }
+    ]
+  }
+]

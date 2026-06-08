@@ -1,0 +1,452 @@
+[
+  {
+    "film_title": "Mausan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sunandiani Pictures, No. 5, Suabeam, 1st Floor, Peddar Road, Bombay-26",
+    "cert_no": "B/76133",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "Delete the use of word \"Randi\" wherever it is used to cast aspersions on womanhood.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the italic word from the sentence of prostitute girl “Duobki maarne har\" to upar aav.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Replace with approved word."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From Kajali's dialogue addressed to a customer, delete the underlined words from the following: Dus rupiyo me kya saari raat baithega chhaati par? Anma ka ghar samajh rakha hai? Le pakad (chappal) aur joakemaararsimaan kc sar por.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Replace with approved words."
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the italic word from the following remark of Gangubai addressed to prostitute girl \"Dekho kaun se minister kc pass baithi hai\".",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Replace with approved word."
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the italic words from the following dialogue of Kajali addressed to Amar: \" Dost yaar tumhare nayenge to unke saamne beti, beti ka naatak niat karna . Aurat kahoge . rakhail. kahoge , ramdi köhoge . . . . . . . . . . . sab chalega , lekin kisi dost yaar ke saath sone ko kahoge to nahi chalcga .\"",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Replace with approved words."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the word \"Dopchriya\" from Gangurani's remark. \"Ye kaun saala dopchriya aa gaya is waqt ?\".",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Replace with approved word."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the italic words from Gangurani's dialogue addressed to Kajali regarding return of the girl taken by him (ron the brothel. * Tum seedhe scedhe aum chuso aur guthaliyan hamc wapas kar do \".",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Replace with approved words."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XX",
+        "description": "Delete the italic words from the dialogue between Kajali and Chaudhury. Chaudhury: Szale bhadrelne to bhaav badha diye randiyon ko Kajali: Bhasva hoga tu , lerc baao ka nahikhata wo. khabardar jo use gaali di to Chaudhury: Dhele kirandi aur baat karti hai Kajali: Kya Kuha ? Randi hogi teri muam Chaudhury: Alejaa chhinal.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XX",
+        "description": "Replace with approved words."
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "Delete the word \"Baithna\" when it is used to express its actual meaning.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the italic words from Gangurani's dialogue addressed to Kajali: \" . . . . . . . . . . In kothonse juake kabhi kisi ladaki ko basate nahi dekha aaj tak . Kisi mard ko bachcho me itna dam nahi dekha . . . . . . . . . jo aata hai phooli huvi saans Ickar aata hai, jab dum utar jaata haito . . . . . . Lekin pehli baar koi aadmi itna khara diakayi diya \".",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Replace with approved words."
+      }
+    ]
+  },
+  {
+    "film_title": "Mrig Trishna",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Naheta Films, 5/36, Tardeo Airconditioned Market, Bombay-34",
+    "cert_no": "B/76254",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the impression of lip to lip kissing between Sandhya and Mansa.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the italic words from Jamuna's remark \"Randi ke bistar men apni kaamyaabi ki shohrat manao\".",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce violence in the trailer.",
+        "length_m": 2.13,
+        "length_retained_m": 7.23
+      }
+    ]
+  },
+  {
+    "film_title": "Aamaanat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shatrujit Paul, Shatrujit Films, 5-Anand Kunj, Linking Road Bombay-54",
+    "cert_no": "B/76351",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "Delete the word Hindu from the sentence \"Hindu logon kc smashaan men jalaaoona\".",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Mera Jivan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shreeji International, 1/13-Aircondition Market, Tardeo, Bombay-34",
+    "cert_no": "B/76388",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the following dialogue between Radhesyham and Shanti: \"Agar lagva legi to phoolkar Kuppa ho javogi\" \"Lagvana hai to Pandeji se lagvanongi\" \"Usno Kahin galat Jagah laga diaya to\".",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce drastically the operation sequence of Sandhya, by deleting the shot of incision being made and other gruesome details of surgery.",
+        "length_m": 25.3,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Modify suitably the scene relating to Anand getting the degree from the hands of the Dean at the gate of the Jail, in order to establish that he earned his degree only after passing the examination (Added commentary)."
+      }
+    ]
+  },
+  {
+    "film_title": "Kalicharan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "N. N. Sippy, Parthiva Pictures, 4-B, Naaz Bldg., Lamington Road, Bombay-4",
+    "cert_no": "B/76369",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the words \"Police inke jeb mebain\" as spoken by the accomplice of Doendayal.",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the words \"Dimaagh me kranti hogi aur haath me chaku chure honge\" as spoken by D.S.P. to Decndayal.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the word \"Mulk\" from the sentence \"Is mulk me achhe naagarik banna mushkil hai\".",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the view of blood seen on the floor after the rape of Kalicharan's sister, as seen by him.",
+        "length_m": 0.45,
+        "length_retained_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the words \"Garmi lag rahi hai\" as spoken by Sapna inside the godown.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the molestation of Sapna by Deendayal's men and delete the words \"Maal bhl\" in the dialogue \"Godam bhi apna hai aur maal bhi\".",
+        "length_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the fight between Shaka and D.S.P.",
+        "length_m": 12.34,
+        "length_retained_m": 41.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce considerably the fight between Kalicharan and hired killer in the dilapidated church deleting the gruesome visuals.",
+        "length_m": 11.43,
+        "length_retained_m": 17.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Kalicharan and goondas by deleting gruesome visuals.",
+        "length_m": 6.71,
+        "length_retained_m": 31.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "In the cabret dance, delete the indecent jerking of midriff by the dancer in the beginning. (Replaced with Approved shots)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the word \"Sarkar\" in the sentence \"Sarkar hame hamari imaandari ka kya dethi hai\" as spoken by Kalichusan.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the underlined words from the sentence \"Bachhon ki chamadi badi nuram hoti liai, itna maarna ki mare nahi\" from the dialogue of Deendaval, and delete the subsequent ction of Shetty putting the whip around the neck of the child and pulling him down.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce considerably the violence in the godown and reduce the number of killings of godown guards, and reduce the close up of Shaka after his death.",
+        "length_m": 32.84,
+        "length_retained_m": 35.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the general fight, between the two groups.",
+        "length_m": 18.16,
+        "length_retained_m": 22.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "XVIII",
+        "description": "Modify suitably the railway lever scene to show that it was locked. (Modified by replacing approved shot)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "Delete the word \"Lion\" wherever it is prefixed with the name of \"Deendayal\".",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined words from the sentence \"Sarkar ke ghulam is khbilone ke siway kar bhi kya sakta hai\" , \"jisko chahe usko giraftaar kar liya\" , as spoken by Shaka.",
+        "length_m": 2.84
+      }
+    ]
+  },
+  {
+    "film_title": "The Burglars",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-20",
+    "cert_no": "B/76001",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete all shots where the cabaret girls are seen neat nude or in scantily clad dress.",
+        "length_m": 23.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from Wordsworth's dialogue addressed to Henry: \"Oh, no no, jig jag here, you want jig jag you take them to hotel\".",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue; \"you can stick your mother up your arge\".",
+        "length_m": 0.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce to minimum the shots of nude painting.",
+        "length_m": 3.96,
+        "length_retained_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "XX",
+        "description": "Delete the shooting of a robot and stabbing of a fat man with a sword.",
+        "length_m": 4.26
+      }
+    ]
+  },
+  {
+    "film_title": "Billy Two Hats",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "20th Century Fox Corp.(I) Pvt. Ltd., Metro House, M. G. Road, Bombay-20",
+    "cert_no": "B/76288",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete shots where a man hits a hard blow on the stomach of a girl.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete shots of nude couple seen through glass bath tub.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the gruesome hitting of tab and his mistross by Thron.",
+        "length_m": 14.63,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce fight in the church by deleting shots of gruesome killing and stabbing.",
+        "length_m": 18.59,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "General",
+        "description": "Reduce the impact of violence in the trailer.",
+        "length_m": 5.79,
+        "length_retained_m": 5.64
+      }
+    ]
+  },
+  {
+    "film_title": "Harry And Tonto",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "20th Century Fox Corp.(I) Pvt. Ltd., Metro House, M. G. Road, Bombay-20",
+    "cert_no": "B/76374",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from the following dialogue: Jesus: \"...My grandfather is eighty two and he never stops screwing\". Harry: \"...I can be a real pain the ass\".",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot where Ginger is seen topless while putting on a shirt.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot where bare buttock is seen in a running car.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Enter the Dragon",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-20",
+    "cert_no": "B/75919",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deleted various shots.",
+        "length_m": 6.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted various shots.",
+        "length_m": 6.0
+      }
+    ]
+  }
+]

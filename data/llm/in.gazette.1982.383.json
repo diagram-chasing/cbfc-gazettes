@@ -1,0 +1,678 @@
+[
+  {
+    "film_title": "Chhori Gaon Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Raj Kumar, Trivedi, C/o. O. P. Dogra, 5/5, B. M. C. Colony, Khcrwadi Road, Bandra(E) Bomay-51",
+    "cert_no": "97068",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Ill",
+        "description": "The rape sequence of Kishori may be reduced.",
+        "length_m": 17.68,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce the sequence where the girl undresses herself.",
+        "length_m": 5.18,
+        "length_retained_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deleted the use of the word ‘Chamaar’ by Kishori.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Se Badhkar Kaun",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Prathima Films, Room No. 6, Famous Cine, bldg. Mahalaxmi, Bombay-11",
+    "cert_no": "97070",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue between Mithun Chakraborthy and Danny wherein there is reference to bragging about the various thefts they had committed skilfully. These dialogues tend not only to justify but also glorify these criminal acts.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "V & XIV",
+        "description": "Delete the reference derogatory to ‘Bhalya’ community.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the dialogue ‘Insaan ke tukre Karne wala chaku bhi meri paas hai, Kaho kitne tukre aur kiske.?’",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce in length and impact the sequence showing the knife stick in the chest of the DSP to the minimum.",
+        "length_m": 1.22,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the scene of beating and torturing of children by about 15 %.",
+        "length_m": 4.47,
+        "length_retained_m": 13.99
+      }
+    ]
+  },
+  {
+    "film_title": "Zulu Dawn",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Nate Kohn (U. K)",
+    "cert_no": "97071",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "T",
+        "description": "Delete prominent views of bare breasts of female dancers.",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "V & VI",
+        "description": "Delete close ups of the spears piercing into the body of the soldiers.",
+        "length_m": 22.96
+      }
+    ]
+  },
+  {
+    "film_title": "Manachc Kunku",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "Shri Govind Kulkarni C/o. Bharat mata Cinema, Lab baug, Bombay-12",
+    "cert_no": "4848",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III, X, & XII",
+        "description": "Delete the derogatory reference to the Brahmin community from ihe dialogues.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the reference derogatory to ‘Nahar’ caste in the dialogue spoken by Narayan.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Sannata",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Amarlal P.Chhabria Balaji Films. 117- Bombay Market, Tardio Bombay-34",
+    "cert_no": "4848",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the sequence of GirdharHal lying in a pool of blood.",
+        "length_m": 0.73,
+        "length_retained_m": 1.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "In the cabaret requenecs delete indecorous and suggestive movements of dancers.",
+        "length_m": 6.01
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete close ups of the masked man.",
+        "length_m": 1.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce the sequence of Sambhu being electorcuted.",
+        "length_m": 3.72,
+        "length_retained_m": 1.16
+      }
+    ]
+  },
+  {
+    "film_title": "Vakil Babu",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Jawabar Kapur. C-41 Jawahar Kapur. North Bombay Society, Juhu, Bombay-49",
+    "cert_no": "97074",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the sequence depicting attempted strangulation.",
+        "length_m": 2.74,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Dassi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Subhas Vermn, 15-Sheesh Mahal, 5-A, Pali Hill, Bandra Bombay 50",
+    "cert_no": "97075",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the following double meaning dialogue: “Do Bar TO SUR LAGA HI SAKTE HO.” With reference to sex act.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Galileo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "National Film Development Corporation Ltd.",
+    "cert_no": "97081",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the April fools day celebrations delete the shots where a man presses the breasts of a woman.",
+        "length_m": 1.1
+      }
+    ]
+  },
+  {
+    "film_title": "Paanch Qaidi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shri Vikas & Smt. Veena Sharma, C/o Manish Films. A*3, Navin Bharat Co. Op. Society, J V.- P.D. Scheme, 10th Road, Bombay-58",
+    "cert_no": "97079",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I & X",
+        "description": "Reduce dragging of tied teacher by dacoits on their horses.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the reference to ‘nathai utaarna' said by the male dancer disguised as a female dancer. Also the views of Raja removing the nose ring of his companion.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted the word 'BADHE CHUDAR' spoken by Tiwari in the film.",
+        "length_m": 0.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce fight between dacoits and 'Quidi'. Reduce close ups of blood on the body of the mother.",
+        "length_m": 24.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the views of facial reaction of the teacher when he is being burnt.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the views of gyrating movements of the bare belly of the dancer, bare side views of the dancer, and view of dacoit licking his lips in a lewd manner.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From the song beginning with the words 'Hamne suna hai aapne loota...', delete the views of the dancer pulling up the dhoti of Lalaji and the latter keeping his hands on his groin in a very suggestive and vulgar manner.",
+        "length_m": 3.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words 'neechc aur noeche' and repetition thereof when Raja asks a dacoit where Mangal Singh was holding his gun behind him.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce to minimum the views of Mangal Singh whipping Raja and Kaka when they are made to pull a cart carrying their wounded mother. Delete the dialogue between Raja and a dacoit turned ward boy in the hospital regarding the latter marrying a eunuch.",
+        "length_m": 33.66
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Riders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "United Artists Corpn Metro House, M, G, Road, Bombay-20",
+    "cert_no": "4855",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the shot(s) of a woman completely in nude when she stands up and kisses the man. Delete the next shot of a girl in nude in bed.",
+        "length_m": 11.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce drastically the killing of two policemen.",
+        "length_m": 3.37,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the visuals of the young man with dagger pierced on the thigh, particularly deleting the second close shot.",
+        "length_m": 2.77,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of women lying with bare breasts.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce drastically the shooting sequence, particularly deleting the close shots showing blood-smeared face, head, chest etc. of various men.",
+        "length_m": 33.22,
+        "length_retained_m": 32.0
+      }
+    ]
+  },
+  {
+    "film_title": "Mother Nature",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Dr. A. Chowdhury. Nargis Bunglow, J.B. Nagar, Bombay-",
+    "cert_no": "97823",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Lion Killing another animal. Gruesome fight between elephant and tiger. Gruesome view of the leg showing diabetic ulcer.",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "The Hija cking of Savoy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Sovexportifilm. Palloniy Mansion, 1st Floor, 43-Cuffe Parade, Bombay-400 005",
+    "cert_no": "97824",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shots in which Taaya is standing nude near the water falls.",
+        "length_m": 3
+      }
+    ]
+  },
+  {
+    "film_title": "Aal",
+    "languages": [
+      "Marathi"
+    ],
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Comedy scene between hero and heroine before 3 song.",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "Biwi-o-Biwi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots of Randhir Kapoor and Poonam DihiJlon walking in the garden. Crowd sitting. Randhir Kapoor : Zindagi bhar mangala. Song ; Yaar Mile Dildar Mile Poonam Dhiilon : ‘Chandar ab to hamen jaldi museebat aan Khadi Ho.'",
+        "length_m": 151.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Shots of Rajcndra Nath Sanjeev Kumar, both sitting in the car. Rajendra Nath : Sahib sambhaliye, naquli Colonel aa raha hai. Shots showing 5 cars chasing each other and going in between the Poles. Motorcycle Chevorlet and fiat cars exit. Vintage car in the canteen. Randhir Kappoor : t A rc dhongi.’ Randhir Kapoor Ext. Sanjeev Kumar and Yogita Bali in ambassador car. Sanjeev Kumar covering his face as bottles and icecreams boxes etc. arc thrown on the ambassadorjear. Mulchand at the canteen counter one man running, Mulchand covering his face as tray and bottles come on his face. Sanjeev Kumar and Yogita Bali both sitting in ambassador car. Sanjeev Kumar : Veer Singh. Vintage car and Icecream counter.",
+        "length_m": 58.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Ambassador car and Campa Cola trauc (Oil skiding sequence). Shami Kapor : 4 Ya Hoo* Ya Hoo.* Shashi Kafa in Fiat Car.",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "Bondi Balaka",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "producer": "Narayan Chandra Biswas 92/B, Kalighat Road, Calcutta-26",
+    "cert_no": "94630",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sandhan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Mitali Films Pvt. Ltd, 47 Lenin Sarani, Calcutta-13",
+    "cert_no": "94645",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue comparing Gandhiji's Satyagraha movement with ghcrao.",
+        "length_m": 0.35
+      }
+    ]
+  },
+  {
+    "film_title": "Sivabhakta Vijayam",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Annapurna Arts, Nellore",
+    "cert_no": "83000",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce the prolonged visuals of Preetha lying unconscious on the floor as the man looks at her with lust. Reduce the attempted molestation of Preetha to a suggestion, retaining only the initial struggled between Preetha and the man, thereafter her getting pierced with the sharp edged of the lam. (Kuthulivakku). Similarly reduce to a suggestion the visual narration of the molestation substituting Vijay on the place of his brother-in-law.",
+        "length_m": 14.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the close shot of the blood stained fingers of Vijay retreating from the back and blood dripping.",
+        "length_m": 2.47
+      }
+    ]
+  },
+  {
+    "film_title": "Penn Manam Pesugirathu",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Kanniammal Pictures, Madras",
+    "cert_no": "4151",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In the rape scene of village girl by minor, delete all visuals of the rape and struggle after minor’s motor cycle runs over the sari of the village girl. Delete shot of village girl’s face in close up who hanged herself.",
+        "length_m": 7.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete dialogue of Paru’s mother saying ‘Avan seyyama vere yarudi seyyarathu’",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete dialogues of child to Muthanyna ‘Ava rendu perum appa amma vilayattu bhana vilayadara’ and ‘Ava arayile anna seiva’",
+        "length_m": 3.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete shots in the song sequence of Panchavarnam and Kittu in bedroom (shots of Kittu and Panchavarnam pumping their breasts against each other kneeling on bed, shots of Panchavarnam lying on top of Kittu and rocking herself in rythym, Shot of Kittu’s hand passes over the breast of Panchavaranam lying on the ground).",
+        "length_m": 6.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all visuals of Tik 20 poison when Muthamma attempts to consume poison. Delete all visuals in the rape sequence of Muthamma minor after Kitu falls down and hits his head, retaining only one shot of Muthamma and minor spinning suggest Kuttu’s condition and retaining only intercuts of goat eating away a plant.",
+        "length_m": 16.3
+      }
+    ]
+  },
+  {
+    "film_title": "Maharantham",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Shri K. S. Gopalakrishnan, Madras",
+    "cert_no": "83017",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the dialogue of Col. Raghavan to Shankar while making a reference to nurses from Japan ‘Naan kooda randu moonu use panni iruppen’",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the dialogue of Col. Raghavan to Shankar and Kalpana 'Honeymoon poravangalukku dress edukku'. Delete all references in the dialogue of Col. Raghavan to Shankar about mirror room.",
+        "length_m": 3.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the dialogue between Kalpana and Shankar ‘Pagalla paathdhane kannadi palichunnu thelryum.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the name of the poison identified on the bottle ‘Dalf",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Lorry Driver Raajakkannu",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Smt. Pushpa Rajan, Madras",
+    "cert_no": "4155",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce to the maximum extent possible the shot of the nude pictures on the wall of the hut where the camera lingers before Rajakannu enters.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "In the dance sequence, delete hand gesture of Alankaram pointing towards her thighs, indecent movements backward and forward before Rajakannu, Up and down movement as the dancer lies on the floor, Up and down pelvic jerks while on the bench, Dancer’s hip and buttock movements with her back to the camera.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the following lyrics: ‘Mplc koqjam vcippadeuna...’, ‘Sppnd’, ‘Kftiyai potten.’",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the dialogues of Periathambi in the scene under the lorry with Rajakannu. ‘Enna indha fitting seriya irukke’ in Rajakannu’s reply ‘Kazhatapad u d h u ’. ‘Edai eduthalum perisu perisa kekkaro’",
+        "length_m": 8.05
+      }
+    ]
+  },
+  {
+    "film_title": "Kadavulln Theerpu",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B&W",
+    "producer": "Senthil Sevarkodiyon Pictures, Madras",
+    "cert_no": "83009",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete references to punishment meted out by Panchayat to burning alive of lovers. Delete the entire scene of a girl being burnt alive on a pyre and the subsequent comment by Sankarayya. Also delete the same visual in Reel 12 as flash-back.",
+        "length_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the visuals after Kannan gets Into the water and grabs the girl. Subsequent struggle and rape of the girl also to be deleted.",
+        "length_m": 23.16
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "In the scene where Kannan rapes Radha, delete all shots of the scene after Kannan seizes her hand and embraces her in the open. The final symbolic shots may be retained.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "8 & 9",
+        "description": "Delete all visuals and dialogues referring to 'Lehiyam' and its effects and consequences.",
+        "length_m": 77.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In the scene of Kanni leading upto fire walking, delete all dialogues suggesting fire walking as proof of the girl's purity and chastity.",
+        "length_m": 25.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the scene of fire walking by Kanni, delete all visuals of the empty temple sanctum with the idol missing.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete Veerayya's dialogue to Sankarayya to give false evidence: Sundari’s dialogue telling her husband ’Verna nee dhanya nijom iyer’",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Delete the lighting the pyre by Veeraya, delete all shots showing Kannion pyre, delete Kanni's dialogue Tdhu enga kudumba prachanai, delete the shot of campharc burning on its own, delete the words of Sankarayyar ‘Ingey mattum dhan mazai pepjiruku’, Reduce the burning of the pyre to a mere suggestion.",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Mayil",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Priya Chitra, Madras",
+    "cert_no": "83010",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In the scene where the Maistry reports to the contractor, delete the Maistry’s dialogue 'Mele aambalinga kishe pombalainga.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In the scene between the Maistry, and Maistry's lover, delete the dialogue of the girl 'Yaarukkum theriyama unkitte vuzhai-kkiradhu yaarukkn theriyum.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Savaal",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Sujatha Cine Arts, Madras",
+    "cert_no": "83011",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the seen© where Burma Papa addresses a group of boys, delete the visuals and the corresponding dialogue about the contraceptive found in a purse.",
+        "length_m": 12.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "In the scene where Raja and some people talk in the street, delete the words ‘Periya manishi ahalley’ about a 32 year old woman.",
+        "length_m": 0
+      }
+    ]
+  }
+]

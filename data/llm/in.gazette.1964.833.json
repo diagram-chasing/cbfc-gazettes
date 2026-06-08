@@ -1,0 +1,883 @@
+[
+  {
+    "film_title": "What A Way To Go",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "42540",
+    "cert_date": "7-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Louisa in bikinis near the swimming pool",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Louisa clinging to Rod from behind while he is telephoning and kissing him repeatedly on the face and neck",
+        "length_m": 1.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Pinky kissing Louisa while she reclines across his knee on the deck of the ocean liner where her bare thighs are prominently seen",
+        "length_m": 2.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of scantily-clad girls surrounding Rod lying in print and king nightgown along with the commentary: 'complete with orgies'",
+        "length_m": 1.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Louisa lifting up her black skirt and sitting on the piano revealing her bare thighs",
+        "length_m": 2.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Louisa and Rod lying together in champagne glasses",
+        "length_m": 2.35
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan And Captain Kishore",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "42547",
+    "cert_date": "8-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Remove the suggestion that the tribesmen depicted in the film belong to the NEFA Area",
+        "length_m": 0.77
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "In the song-dance sequence: 'O mister Johnny', shots of hip-joking by the dancer in white frock and her indecorous movements at the end of the dance, also shots of suggestive reactions of men watching the dance",
+        "length_m": 12.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue and visuals of vulgar behaviour of men while making fun of an old man talking about girls",
+        "length_m": 12.31
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "In the quwwali sequence: 'Ham hain aashiq tere monchale', vulgar gestures of men, particularly of a man masquerading as a woman and embracing another man",
+        "length_m": 6.34
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "In the ball-room dance sequence in hotel, all near views of the Captain in a uniform similar to that of officers of the Indian Navy",
+        "length_m": 34.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "From the picturisation of the song-dance sequence: 'Bara syana kabhi marmoon', the suggestion of a kiss",
+        "length_m": 2.78
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "In the song-dance sequence: 'Pyasi raat aur yeh tanhai', shots of the dancer lying down and rolling and of her indecorous gestures along with the line: 'Kis ne man me aag lagai'. Also visuals of the male patrons reacting in a vulgar manner and shots of the dancer being patted and blessed by her female companions",
+        "length_m": 17.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels XI to XIV",
+        "description": "In the sequence depicting the Chinese attack on India’s borders, all visuals and sounds of firing, bombarding, anti-aircraft guns, flying aircraft; all shots in which the Chinese troops are seen to be exchanging fire with a handful of Indian civilians armed with only pistols instead of with properly equipped Indian troops; all visuals and dialogues pertaining to Seth Gopaldas collaborating with the Chinese troops in occupation of the Indian territory",
+        "length_m": 25.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels XI to XIV",
+        "description": "References to crossing over to the Indian territory in the dialogue, between William and Kishore",
+        "length_m": 2.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels XI to XIV",
+        "description": "Shot of a moving train of the enemy troops and Shankar throwing a bomb on it",
+        "length_m": 7.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To a flash shots of the comedian (hotel manager) making advances to Julie, deleting his dialogue: 'Russia se Chaand me chale gaye, turn mere dil men ulmo'",
+        "length_m": 2.3
+      }
+    ]
+  },
+  {
+    "film_title": "Idd Ka Chand",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "42568",
+    "cert_date": "10-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reels V, VIII & XV",
+        "description": "The sound of background and instrumental music while prayers (Namaz) are offered and during the picturisation of religious monuments and places of pilgrimage (Kabah in Mecca and Madina)",
+        "length_m": 380.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels VIII & X",
+        "description": "All comical recitations of verses of Koran and prayers by Pheroz",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The reference to 'Ishq-i-Haqiqi' from the dialogue of Pheroz addressed to his wife Jahanara",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII & XIV",
+        "description": "Entirely the sequence showing Sultan Yavar finding the answer to Anjuman Ara's third question about 'Sachcha aqida' (True faith)",
+        "length_m": 159.41
+      }
+    ]
+  },
+  {
+    "film_title": "Secret Agent In Japan",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "42574",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (5/4)",
+        "description": "Shots of bare back of Lily bathing in the bath-tub",
+        "length_m": 12.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (6/4)",
+        "description": "From the dialogue of Meissinger addressed to Sorgo, sound in German as well as sub-title in English: 'They can imitate us, perhaps, but they’ll never be able to load us. Coloured people can only be slaves!'",
+        "length_m": 4.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (6/4)",
+        "description": "From the dialogue of Meissinger addressed to Sorge, the underlined words referring to the Japanese Col. Fujimori: 'He’s gone completely mad- that ridiculous, yellow ape!'",
+        "length_m": 2.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII (6B)",
+        "description": "The following dialogue of Myagi addressed to Friend in Japanese as well as English sub-titles: 'These anti-Communists are all cowards, anyway'.",
+        "length_m": 1.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII (7/4)",
+        "description": "The sound of Lily screaming after she is taken inside by a Gestapo agent",
+        "length_m": 1.92
+      }
+    ]
+  },
+  {
+    "film_title": "Flaming Years",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Widescreen",
+    "cert_no": "42575",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Silhouette of the nude girl behind the curtain",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "A Long Road Ahead",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "42576",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The shot of soldier kissing a girl with a pistol in her hand",
+        "length_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bedtime Story",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42577",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Janet kissing Fred while she is lying over him",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the G.I. kissing a girl on the shop floor",
+        "length_m": 0.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Janet coaxing Fred inside the bedroom and his closing the door after going in",
+        "length_m": 0.53
+      }
+    ]
+  },
+  {
+    "film_title": "Hercules",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "42580",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III & IV",
+        "description": "All near views of Helen walking or lying in the grass in which her thighs are seen to be prominently exposed",
+        "length_m": 6.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "From the song-dance sequence 'Dekhi dekh chal, ek ek pal', shots of Helen in transparent skirt in which her thighs in yellow tights give the impression of being bare and all front views in which the parting of her legs in tights is prominently visible",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The comedian’s remark referring to the girls around him, after being taken captive by the Ranee’s guards, 'Khud hi jab deta hai to chhip, palka daahu. kisi ko to ek bhi nahi, mere paas bahut hain.'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In the song-dance sequence 'Is jawan mi se toba, mast mi me toba', the lines 'Pyar jisko tarpata hai, Pyar usko usi pe aata hai.'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The shot of the red giant’s head being severed by Hercules and suspended on the edge of a sword",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "From the song-dance sequence 'Is Jawan mi se toba, mast mi me toba', the sensuous gestures of the dancer on the opening line and also the shot of her bust moving when she appears in a yellow and red costume",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shot of the direct thrust of the dagger in Rami’s back at the end of the dance",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shot of the direct thrust of the dagger in the stomach of Hercules’ mother",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "All near views of LAVA’s bug face when hit by Hercules with an iron chain",
+        "length_m": 1.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "To a flash shots of Hercules hitting the opponent with a spiked rod repeatedly",
+        "length_m": 2.59
+      }
+    ]
+  },
+  {
+    "film_title": "Film Making On The Riviera (Exploitation Trailer)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "42581",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a girl in scanty dress doing the Twist and near-views of her partly bare thighs",
+        "length_m": 8.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Top angle shot of a girl in bikinis in which her partly bare bust is emphasised",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary, the line: 'By turn, she tempts-teases-tantalizes-torments....'",
+        "length_m": 12.95
+      }
+    ]
+  },
+  {
+    "film_title": "Children Of The Damned",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "42582",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of the distorted eyes of the children",
+        "length_m": 5.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Considerable electrocution of men",
+        "length_m": 0.84
+      }
+    ]
+  },
+  {
+    "film_title": "Wild And Wonderful",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42583",
+    "cert_date": "11-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3(2A)",
+        "description": "Terry's speech imagining a number of girls (Doris, Linda, Lola etc.) as his bed companions, on waking up in the morning.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6(25)",
+        "description": "Reduce shots of Terry with Giselle in his room, embracing and kissing in bed before the lights are turned on by Monsieur Cognac",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8(45)",
+        "description": "Papa Poncho’s remark referring to the wedding night incident between Terry and Giselle 'After all, the marriage was not consummated.'",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8(45)",
+        "description": "The words 'broads' from Terry’s remark: 'I am going back to booze and brongo.'",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8(45)",
+        "description": "From the dialogue between Terry and Pamela, the suggestive words underlined below: Terry: '...but I somehow have faith in animal instincts.' Terry: '...but I think I can make it worth your while, ...Of course, Uh, I thought we would discuss the little ones.' Pamela: 'Silly boy.' Terry: 'You ought to be pretty remarkable.' Pamela: 'Naturally.'",
+        "length_m": 4.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 2(15)",
+        "description": "Shots of the cabaret girl kissing Terry",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Bedtime Story",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1508",
+    "cert_date": "7-9-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 (1A)",
+        "description": "The underlined words from Lawrence's dialogue addressed to Mrs. Sutton: 'Oh, Madame, please - no more I beg you - for your own safety.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 (1A)",
+        "description": "From the narrator’s remark: 'he, too, preyed only upon women', referring to Fred. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(15)",
+        "description": "The underlined words (along with their equivalents in German) in the dialogue between Fred and Anna quoting his grandmother: 'a German girl knows how to satisfy a man in every way.' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(15)",
+        "description": "Fred's dialogue: 'Imagine every way. I guess a man would have to get married to find out if that’s true. That's something I could never do.'",
+        "length_m": 6.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2(15)",
+        "description": "The dialogue of Fanny: 'Oh, I’m so relaxed', addressed to Lawrence. (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3(2/1)",
+        "description": "The word ‘broad’ with reference to the Queen Elizabeth of England from Fred’s story about Sir Walter Raleigh lying down his coat for her to walk on.",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3(2/1)",
+        "description": "From Fred’s dialogue addressed to Lawrence referring to the money received by him from the French woman in the train, 'Did you ever take a woman for twenty bucks?'",
+        "length_m": 0.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7(4/4)",
+        "description": "From the dialogue between Janet and Lawrence, her remark: 'I wish there was something else I could do to show my gratitude.'",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8(45)",
+        "description": "The underlined words from the dialogue of Fred addressed to Janet while she is rubbing suntan lotion on his legs: 'Go on trying. Maybe something will happen.' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9(5/4)",
+        "description": "From the dialogue of Janet addressed to Fred, the underlined words: 'I would not be disappointed, test me.'",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10(55)",
+        "description": "Shot of the G.I. dropping the key of the apartment down the bodice of his girl friend’s dress along with his remark addressed to Fred: 'Now you try to get that key, buddy you are really gonna need a wheelchair.'",
+        "length_m": 4.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10(55)",
+        "description": "Shot of a girl lying in the lap of a G.I. and kissing him.",
+        "length_m": 1.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10(55)",
+        "description": "Fred’s remark addressed to Janet inside the bedroom 'Be good to me' along with the shot of his closing the door behind him.",
+        "length_m": 2.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10(55)",
+        "description": "Lawrence’s remark addressed to Andie: 'In that respect he is a true Frenchman,' with reference to Fred spending the night with Janet.",
+        "length_m": 0.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10(55)",
+        "description": "From the dialogue of Fred addressed to Lawrence referring to Janet, the underlined words: 'There she was. . . Mine for the taking How do you go to bed with a whore?'",
+        "length_m": 0.66
+      }
+    ]
+  },
+  {
+    "film_title": "What A Way To Go",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "1510",
+    "cert_date": "11-9-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI (Part 3)",
+        "description": "The sequence of the French movie showing Louisa and Larry in bed and in a bath tub",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (Part 3)",
+        "description": "The back view of Louisa sitting on the stool with only a necklace to cover her bare back and posterior.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (Part 6)",
+        "description": "All near-views of Louisa’s thighs in the dance sequence on the steamer, after she takes off her small over-skirt",
+        "length_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII (Part 6)",
+        "description": "All near-views of Louisa in the black bikini near swimming pool",
+        "length_m": 1.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII (Part 4)",
+        "description": "The scene of the imaginary orgy in which girls in bikinis are seen to be surrounding Rod and delete back views of girls in scanty bikinis, shot of Rod’s hand sticking out between them and of a blonde leaning over and kissing him",
+        "length_m": 7.31
+      }
+    ]
+  },
+  {
+    "film_title": "Harry Black And The Tiger",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "25166",
+    "cert_date": "2-9-58",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Attila The Hun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42629",
+    "cert_date": "22-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Direct thrusts by swords, knives, spears etc. from the fighting scenes",
+        "length_m": 1.98
+      }
+    ]
+  },
+  {
+    "film_title": "Attila The Hun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42644",
+    "cert_date": "23-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels V, VI & IX",
+        "description": "All direct thrusts by swords, knives, spears, arrows, etc. from the fighting scenes",
+        "length_m": 5.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of the woman being carried in arms with her legs struggling",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The close up of nails in the hands and feet of the crucified priest",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The following dialogue between Onoria and her mother: Onoria - You who were the mistress of Alrico and the wife of his brother. Calla - I only did it to save my life. Onoria - I have learnt it all from you, you who killed your lovers when you tired of them, Galliano, Fabio both died by poison, Teodore that you stole from me.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Calla - It was you who stole him from me. He was the love of my life and you stole him. If I hadn’t had him killed in time you would have persuaded him to kill me.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The indecorous view of Onoria’s bust.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The view of the stake being taken out of a soldier’s back and the view of the blood smeared on it.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The view of the dead sheep with blood oozing round the stone and particularly delete the shot when the dying sheep gives the twitch",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The view of Ezie being dragged by horse after he has fallen",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "The World Applauds",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42646",
+    "cert_date": "23-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (a)",
+        "description": "The following from the commentary: 'These birds do not scatter even from the police-'",
+        "length_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II (a)",
+        "description": "The following words with picturisation: 'The English say- Birds of a feather flock together,' 'They and those suspicious looking lads appear to have much in common', 'Quite a traditional form of begging, although officially begging is prohibited in Britain. War veterans collect charity to the strains of their band. They at least give the appearance of 'Being busy '",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II (a)",
+        "description": "The uncomplimentary references to Prince Albert",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The underlined words from the following: 'Looking at these buildings of concrete, steel and glass, one recalls the English proverb that 'people who live in glass houses should not throw stones''",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The following words together with picturisation: 'These pathetic hawkers are lucky only when the employees of the big commercial corporations, such as Woolworth, go on strike and urge the public to boycott the big stores.'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The following words from the commentary: 'The appearance of the city bears the imprint of poverty.'",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The following words from the commentary: 'The country’s semi-colonial status tells first of all on the life of the working people.'",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The following words from the commentary: 'It is land of oil, which, so far, does not yet belong to the people. Foreign proprietors have imparted the features of a modern American town to the Central part of Caracas'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following passage from the commentary together with picturisation: 'The life of Venezuela’s ordinary people is very different from that of the men who control the country's natural resources.' 'It can hardly be said that all the former presidents of Venezuela had done so much for the country's independence and for the people's welfare as to merit a place in this gallery.' 'We visited the part of the town where the poor people live.' 'There are no water mains here. Water has to be carried from afar. . . .and in a sweltering, tropical country.'",
+        "length_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The underlined words from the following commentary: 'The town was suddenly shaken by explosions. Subversive elements, hirelings of the imperialists, had blown up several powder magazines, However, they are powerless to stop the struggle of Cuba’s courageous people—'",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Robin And The 7 Hoods",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "42671",
+    "cert_date": "26-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of scantily dressed waitresses in which their bare backs and partly exposed busts are prominently visible.",
+        "length_m": 26.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From John’s dialogue addressed to the waitress, ‘...yeah, I like a bank with strong assets, baby' along with the visual of his putting the tip in her scanty costume",
+        "length_m": 3.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From the song 'Now that’s the prettiest sound you will ever hear' sung by Will, the following lines: 'My kind o’ prank Is walkin’ in a bank and goin’ bang, bang'.",
+        "length_m": 4.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The opening shot of scantily dressed chorines in which they are seen with bare backs wiggling their posteriors.",
+        "length_m": 3.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Near view of scantily dressed chorus girls collecting money along with John’s dialogue 'Okay, honey, you do have the busiest can in the place'",
+        "length_m": 17.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of the waitresses in green blouses and scanty skirts revealing their partly bare hips.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The following suggestive dialogue between Marian and John: Marian - It’s the best horse in the race. John - You talk like you wanta to be a jockey. Marian - And you look like a front runner. John - I think it’s post time. Let us make it a nice race, hem? Also shot of the lights being turned off by Marian suggesting that she spent the night with John",
+        "length_m": 14.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The following suggestive dialogue of John addressed to Marian 'Now you take Robbo. He crosses his legs, nothin P'",
+        "length_m": 1.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The suggestive dialogue of Marian addressed to Gisborne 'Oh, but you forgot the rest' referring to the remaining lights and shot of Gisborne turning these off suggesting that he spent the night with her",
+        "length_m": 5.58
+      }
+    ]
+  },
+  {
+    "film_title": "The Victors",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "1521",
+    "cert_date": "22-9-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The underlined sentence said by Maria with reference to Indian soldiers 'Indian They are devil - they make bad eye.'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIX",
+        "description": "The underlined words said by Mrs. Metzger: 'Was alles wir so durch gemacht haben. Bis auf mein Leben's Ende werde ich es nie vergessen. Als sie so kamen und alles gestohlen haben.'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XX",
+        "description": "The words 'Here in the Russian Sector?' said by Helga, Also delete the nude shot of Helga and reduce kissing of Trower and Helga",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "The sequence showing a dog following one of the soldiers and getting shot, by deleting the portion where the soldiers whistle for him so that he may follow.",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Marnie",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1522",
+    "cert_date": "26-9-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IX (54)",
+        "description": "Shot of bare legs of Marnie after Mark pulls her dress.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XV(8A)",
+        "description": "Shot of the intertwined legs of the sailor and Bernice.",
+        "length_m": 0.76
+      }
+    ]
+  }
+]

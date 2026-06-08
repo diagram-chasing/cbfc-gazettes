@@ -1,0 +1,44 @@
+[
+  {
+    "film_title": "Sister",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Gogi Films",
+    "cert_no": "B/F-576",
+    "endorsement": "B",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shots of Vikas kissing Shanta and also suggestion of kissing.",
+        "length_m": 4.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete shots of Vikas rolling over Shanta in the fields.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dialogue of Vikas: 'Why does the pain that will arise in your stomach after marriage?'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the sequence of two persons passing absconding comments and making gestures at Shanta, the nurse.",
+        "length_m": 6.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the entire rape sequence including the shots of Shakkur injecting Shanta.",
+        "length_m": 20.42
+      }
+    ]
+  }
+]

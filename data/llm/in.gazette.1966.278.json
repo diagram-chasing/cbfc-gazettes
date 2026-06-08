@@ -1,0 +1,444 @@
+[
+  {
+    "film_title": "Hum Kahan Ja Rahe Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Limited, Botawala Bldg., 11-13 Horniman Circle, Fort, Bombay-1.",
+    "cert_no": "47448",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels l & XI",
+        "description": "Lines from the song 'O Gandhi ke beto o Nehru ke chclo .... Ki karze men hai baal baal aajkal, uthata hai daste sawal aajkal' (Sound only) and the underlined word from the line 'Yehan aaj bhook aur mengai hai'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue of the servant addressed to Meena: 'Naukar to usi din mar jata hai jis din wo kisi ki naukari karta hai'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels V, VI and VII",
+        "description": "Shots of college professors in which they are made to look ridiculous and/or are seen to be comical, retaining only a few shots for continuity.",
+        "length_m": 33.97,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels V, VI and VII",
+        "description": "Approved shots replacing shots of college professors made to look ridiculous.",
+        "length_m": 18.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Reference to 'Paighambar' in the dialogue between the grandfather and a Muslim employee who is shown to be indulging goonda tactics.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Approved shots replacing an incorrect map of India in the background during the picturisation of the song 'Aao logo tumhen sunaoon'.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Approved words (sound only) replacing underlined words from the lines 'Kistarah banjaayen lakhpati sabse k—yahi mansube, 'Sabko apna ghar bharna hai desh bhale hi dube'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Remarks from the prosecuting lawyer's arguments in court which cast aspersions on the honesty of the people in general and the business community in particular.",
+        "length_m": 16.47
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Hum Kahan Ja Rahe Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Limited, Botawala Bldg, 11/13 Horniman Circle, Fort, Bombay-1.",
+    "cert_no": "47449",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Approved shots replacing opening shots of portraits of Mahatma Gandhi and Pandit Nehru superimposed by titles.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of college students ridiculing a professor and of their making sounds like 'Tur tur'.",
+        "length_m": 4.37
+      }
+    ]
+  },
+  {
+    "film_title": "Dil Diya Dard Liya",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Col.",
+    "producer": "Kay Productions, Govt. Gate Rd., Parel, Bombay-12.",
+    "cert_no": "47452",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels II and IX",
+        "description": "Close shots of the Marwari money-lender in which he is made to look revolting and ridiculous.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Murli's dialogue enumerating the virtues of drinking when Shankar is persuaded by him to take a drink.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Shot of Shankar actually spitting out blood.",
+        "length_m": 11.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Shots of Ramesh whipping Shankar and to a flash close-ups of his blood stained face.",
+        "length_m": 0.82,
+        "length_retained_m": 1.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of Shankar bleeding profusely from head and face, particularly deleting close-ups of blood-stained back of his head.",
+        "length_m": 0.78,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Flash shots of Tai ubui lying in a pool of blood after she is shot by Ramosh.",
+        "length_m": 0.82,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Flash, the close-ups of blood-stained neck of Ramesh.",
+        "length_m": 0.21,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Ship of Fools",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "47453",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing soliciting and the accompanying dialogue between Marwin and a girl.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "From Elizabeth Ashley’s talk to Segal the sentence: 'We’ll find out if we have anything going for us, besides sex'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Shots of passionate kissing between Ashley and Segal.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Greed in the Sun",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Metro Goldwyn Mayer (I) Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "1744",
+    "cert_date": "15-4-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (IB)",
+        "description": "The rough treatment meted out to Ali.",
+        "length_m": 12.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II (IB)",
+        "description": "The view of a young girl undressing near the window.",
+        "length_m": 3.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV(IB)",
+        "description": "The underlined words from the sentence spoken by Rocco in the bar: 'She Is German, tall — sort of a muscleman type'.",
+        "length_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4a)",
+        "description": "The following sentence said by Rocco to Mimi: 'and make love in colored sheets'.",
+        "length_m": 6.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII (1AB)",
+        "description": "The near views of a belly dancer and the indecorous shot of her bosom.",
+        "length_m": 3.78
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V (34)",
+        "description": "The fight scene consistent with continuity and by removing the vicious blows with box etc.",
+        "length_m": 8.12,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Ship of Fools",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Columbia Films of India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "1745",
+    "cert_date": "15-4-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots of soliciting and the accompanying dialogue beginning with the words: 'Oh, comeonbaby. .''upto 'forty dollars'.",
+        "length_m": 8.23
+      }
+    ]
+  },
+  {
+    "film_title": "I.oha Singh",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "cert_no": "46905",
+    "cert_date": "20-1-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels V and XIII",
+        "description": "Various scenes added.",
+        "length_m": 120.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V and XII",
+        "description": "Various scenes deleted.",
+        "length_m": 69.19
+      }
+    ]
+  },
+  {
+    "film_title": "Netaji Subhas Chandra Boso",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "4743J",
+    "cert_date": "7-4-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Song 'Jhankaro Jhankaro'.",
+        "length_m": 142.5
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "Song 'Dushmano savdhan'.",
+        "length_m": 195.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gospel of Safety",
+    "languages": [
+      "English"
+    ],
+    "colour": "Coloured",
+    "format": "16 mm.",
+    "cert_no": "44851",
+    "cert_date": "14-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Additions made to the film.",
+        "length_m": 34.0
+      }
+    ]
+  },
+  {
+    "film_title": "Nirmal Pure Groundnut Oil",
+    "languages": [
+      "English",
+      "Bengali",
+      "Hindi",
+      "Assamese",
+      "Oriya"
+    ],
+    "colour": "coloured",
+    "format": "35 mm.",
+    "producer": "Candida Films, 19A, Theatre Road, Calcutta-16.",
+    "cert_no": "43435",
+    "cert_date": "20-1-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Correction of film length.",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Yaar Nee?",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "P. S. V. Pictures, 1, 1st St., Lake Area, Nungambakkam, Madras-34.",
+    "cert_no": "46713",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Naadodj",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm. (B. & W)",
+    "producer": "Padmim Pictures, Balakrishna Road, Mylapore, Madras-4.",
+    "cert_no": "46714",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pinchuhrudayam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "A. M.P Productions, 11, Gopalakrishna Road, Madras-17.",
+    "cert_no": "46715",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mahashilpi",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "Padma Productions, No. 3 A, 1st Street, Lake Area, Nungambakkam, Madras-34.",
+    "cert_no": "46716",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Srishtilo Srishti",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "Department of Information & Public Relations, Govt. of Andhra Pradesh, Hyderabad (A.P.).",
+    "cert_no": "46717",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Taquhque",
+    "languages": [
+      "Urdu"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "Department of Information & Public Relations, Govt. of Andhra Pradesh, Hyderabad (A.P.).",
+    "cert_no": "46718",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mastery in Gears",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm. (B. & W.)",
+    "producer": "Greaves Cotton A. Co. Ltd., Firstline Beach, Madras-1.",
+    "cert_no": "46719",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Radicon Speed Reducers",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm. (B. & W.)",
+    "producer": "Do",
+    "cert_no": "46720",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Naaga Jyothi",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "S.V.S. Pictures, No. 67, Usman Road, Madras-17.",
+    "cert_no": "46721",
+    "cert_date": "13-4-66",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

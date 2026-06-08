@@ -1,0 +1,951 @@
+[
+  {
+    "film_title": "Freud The Secret Passion",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "41767",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Reference to prostitute in Cecily's dialogue.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Frau Koertner's remark 'He married me to have a harlot in the house.'",
+        "length_m": 6.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue between Carl and Freud: 'I'll bleed you, you filthy swine.' and Freud's reply 'Why do you call your father a swine?'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of brothel and Cecily screaming 'In a brothel. In a brothel.'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Four Days of Naples",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "41768",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2 (11)",
+        "description": "From the public execution of the Italian sailor, the close-up of his terror-stricken face before being shot dead.",
+        "length_m": 1.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 6 (3B) & 9 (54) & 12 (6B)",
+        "description": "Street battle scenes with prolonged machine-gun firing and close-ups of dead bodies.",
+        "length_m": 21.25,
+        "length_retained_m": 30.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6 (3B)",
+        "description": "Shots of machine-gun firing on the boat carrying a group of partisans.",
+        "length_m": 4.41,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shots of the parading of the two dead bodies atop a taxi in the streets of Naples.",
+        "length_m": 17.98,
+        "length_retained_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "The Ugly American",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "41769",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The view of Macwhite pressing Marion's stomach and caressing her breasts.",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "The Charge Is Murder",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "41770",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Laura shaking her bust while dancing before the juke box.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Clinton opening the zip of Laura's dress from behind while driving in the car and caressing her back.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The underlined words from the following sentence, spoken by Ben's mother-in-law in court when she quotes Ben as saying 'Why should I break my back so long as Laura Mac can make me a good living with her body?'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Ya Malak",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "41772",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Reference to Kam in Mahesh's remark to Ramesh 'Kam ajun chalu alio ka'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The hard kick given by Mahesh to Ramesh.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The sound of whistling by Mahesh for attracting the attention of Aisaheb and his trying to catch her saree when handing over the jewellery box.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The sound of whistling of Mahesh to Parvati.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The shot of actual pushing of Parvati by Mahesh before the song.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of Mahesh indecently sitting on Ramesh's lap.",
+        "length_m": 5.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The reference to Neela as included in Maal.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel LX",
+        "description": "Shot of physical contacts when Mahesh is talking to Parvati and the shot of his pulling her hand when she offers the betel leaf. Delete the gesture and sound of kissing when eating the betel leaf.",
+        "length_m": 1.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "In the picturisation of song No. 5 beginning with the word 'Dur vha, Sajana', etc., the shot of Mahesh pulling Parvati's padar around the pillar and delete the shot of their approaching faces behind the padar.",
+        "length_m": 3.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "The scenes of physical contacts between Mahesh and Shella when he feeds her in presence of their fathers.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. X In Bombay",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41773",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of girls in jeans making indecorous movements while doing the Twist.",
+        "length_m": 3
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Shot of girls in jeans making indecorous movements while doing the Twist replaced with approved shot.",
+        "length_m": 3
+      }
+    ]
+  },
+  {
+    "film_title": "Third Time",
+    "languages": [
+      "English"
+    ],
+    "format": "Wide Screen",
+    "cert_no": "41785",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To the minimum shots of Misha and Sasha in bed.",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Apne Huye Paraye",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41786",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "In the song dance sequence beginning with the words 'Bahar banke vo nuskaraaye...', shot of Rekha's emphasised bust as she approaches the camera before start of the song.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "From Makhania's dialogue addressed to Mishri 'Chuin se man ke pet men bhi nahi baitha tha' (Sound) and shot of his caressing Mishri's hand along with his remark 'Teia haath bara naram hai.'",
+        "length_m": 3.2
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "The underlined word from Makhania's Prayer addressed to Hanumanji: 'Brahmachaari ki laaj tumhaare haath hai' (Sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIN",
+        "description": "From Makhania's remark addressed to Phokhat the words 'Jitne baap chaahiye utno batanoonga.' (Sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIN",
+        "description": "From the song dance sequence 'Kahin aansu nikaltee hain' shots of bust shaking by the female dancer.",
+        "length_m": 2.34
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "In the court scene, established that Shankar takes the oath in the witness box before giving his evidence.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "In the song beginning with the words Bahar banke vo muskaraaye, shot of fountain.",
+        "length_m": 0.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of Makhan hawking in the street.",
+        "length_m": 0.72
+      }
+    ]
+  },
+  {
+    "film_title": "Main Jatti Punjab Di",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "41789",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 101",
+        "description": "From the song dance sequence 'Tauba, hai ye malnu ki honda jaai....', shot of bust shaking and hip jerking by the two dancers.",
+        "length_m": 82.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From the picturisation of the song dance sequence 'Banke Jaacha sahriyaa' shot of the heroine being lifted over the hero's shoulder at the end of the dance.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The shot of Preeto banging her head against the door.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduced the scene of Preeto being kidnapped deleting shots of her being gagged.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From Prem's dialogue addressed to his father 'Sharam taipnu gani chaahi di, tu piyo hui ki qassi.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From the song dance sequence 'Gayee Amritsar, rahee jeejaaji de ghar...', the underlined words: Vikhe dhoto langaavali. Ik aagya paşand, jehda na si Ramanand Odhi langad mainu na bhaayo.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Captain Newman M.D.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1488",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6 (3B)",
+        "description": "The underlined word from the reference to 'Juicier broads' in the dialogue of Tomkins addressed to Nurse Francis.",
+        "length_m": 0.15
+      }
+    ]
+  },
+  {
+    "film_title": "Charade",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1480",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4 (2B)",
+        "description": "Shots of Peter rolling the orange under his chin over the bosom of fat woman.",
+        "length_m": 5.03
+      }
+    ]
+  },
+  {
+    "film_title": "Benazir",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "41729",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Song beginning with the words 'Ayo mere dilruba.' replaced with the same song sung by Shahida in Reel No. XIII.",
+        "length_m": 106.68
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Qawali beginning with the words 'Huin Unko Dekhte Hain....'.",
+        "length_m": 167.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Song beginning with the words 'Alwida Jane Wafa'.",
+        "length_m": 124.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Song beginning with the words 'Husa ki Baharen Liye,....'.",
+        "length_m": 106.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Silent shot of Benazir.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Shot of Benazir and maid servant and their dialogues.",
+        "length_m": 33.83
+      }
+    ]
+  },
+  {
+    "film_title": "Pazhasi Raja",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "40128",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Baber's reference to Mysore Sultan as 'Pokiri' and 'Damn Rogue'.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the shots of the actual execution of Kannavathu Nambiar.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Change Wellesly's sentence 'Hang this Iswara' to 'Catch this Iswara' (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Pazhasi Veeran cutting the head of a guard and showing it up lifting it with his hand.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Pazhasi Raja cutting the hand of Pazhasi Veeran and asking him to lift it and carry it and the latter pulling it up and taking.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Reduce the shot of Pazhasi Raja walking through the dead bodies of soldiers and women who fought for him.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "The scene of two men killing each other by cutting heads with their swords and also the shot of their dead bodies on the ground without the heads.",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Voluntary deletion.",
+        "length_m": 24.35
+      }
+    ]
+  },
+  {
+    "film_title": "Hud",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "41800",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Hud embracing Alma from behind and kissing her neck passionately, along with the dialogue: Alma: 'Don't, you ever ask?' Hud: 'The only question I ever ask any woman is what time is your husband coming home.'",
+        "length_m": 6
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Alma's dialogue addressed to Hud 'No thank you. I have done my time with one cold blood bastard.'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Hud's attempted rape of Alma.",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Birju - Ustad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "42001",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel G",
+        "description": "Shots of the waz device (along with Bhagwanji's murti) used for duplicating keys. Also all dialogues of Girdhar pertaining to the murti with reference to the device.",
+        "length_m": 8.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The underlined words from the remark of Birju Ustad: 'Police Kya.... Main Akola Hi Kaafi Hun' (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The following underlined words from the dialogue between Manohar and Patli with reference to 16 year old Shoola hiding behind her: Patli - 'Bhanda phoot jaega.' Manohar - 'Bhanda Kiska?' Patli - 'Jawani ka'. Manohar 'Jawani ka'?",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of Manohar throwing a packet of Polson butter to Minno's companion along with his dialogue 'Lagao apni Minoo ko aur maska,'",
+        "length_m": 5.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The remark of Chotku before he comes out of the dhol 'Main.... Khuda ki tarah salc jagah hoon,'",
+        "length_m": 0.65
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "The shot of flexible magnetic device used by Minoo to remove the key from near Bansi's pillow.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The song sung by Bhajan Shela beginning with the words 'Vasudeva Sutam....'.",
+        "length_m": 22.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Fighting scene.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Fighting scene.",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "The Legend of Aeneas",
+    "languages": [
+      "English"
+    ],
+    "format": "Euroscope",
+    "cert_no": "42069",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot in which one of Aeneas soldiers is being riddled with arrows.",
+        "length_m": 1.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of direct hits and thrusts by arrows, spears and swords from the fighting scenes.",
+        "length_m": 2.96
+      }
+    ]
+  },
+  {
+    "film_title": "The Legend of Aeneas",
+    "languages": [
+      "English"
+    ],
+    "format": "Euroscope",
+    "cert_no": "42070",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, IV & V",
+        "description": "From the fighting scenes, all shots of direct hits by arrows and direct thrusts of spears and swords, particularly those in which oozing of blood is prominently visible.",
+        "length_m": 13.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot in which one of Aeneas soldiers is being riddled with arrows.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shot of Camilla on horseback being hit by an arrow.",
+        "length_m": 1.6,
+        "length_retained_m": 1
+      }
+    ]
+  },
+  {
+    "film_title": "Gold For The Caesars",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42071",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3 (2A)",
+        "description": "From Flakkus's dialogue to Lacer his suggestive reference to his being provided with girl companions 'Spanish Greek or Assyrian' and also the following sentence 'Oh I have it. Just the thing: A persian girl, Gentle as a kitten not sixteen.'",
+        "length_m": 7.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3 (2A)",
+        "description": "Shot of Genove being brought in as Lacer's companion for the night and the reaction of Penelope.",
+        "length_m": 7.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5 (3A)",
+        "description": "The embrace and kiss between Penelope and Lacer deleting the shot of Penelope lying over Lacer.",
+        "length_m": 6.52,
+        "length_retained_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9 (5A)",
+        "description": "The fighting sequence deleting direct hits and close-ups of faces and limbs smeared with blood.",
+        "length_m": 6.78
+      }
+    ]
+  },
+  {
+    "film_title": "The Nutty Professor",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42072",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The entire sequence of the student Worfshefski carrying Professor Kelp to the closet and Stella's helping him to get down.",
+        "length_m": 43.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shot of Lynn kissing first Frank and then Eddie.",
+        "length_m": 3.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The close views of the teeth of Professor Kelp as he undergoes transformation under the influence of the drug. Also the close-up of his hairy hand against the wall.",
+        "length_m": 4.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The underlined word from the speech of Buddy to the inn-keeper 'Innkeeper: Got soxy lights?'",
+        "length_m": 0.35
+      }
+    ]
+  },
+  {
+    "film_title": "Distant Trumpet",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "42073",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III & V",
+        "description": "Shots of kissing between Kitty and Matt prior to their marriage.",
+        "length_m": 7.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The shot of the dress being pulled from the back of a woman from the dance around the cart.",
+        "length_m": 1.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The scene in which a sentry is garrotted.",
+        "length_m": 4.16,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The view of the heads buried in sand, with ants going round the heads.",
+        "length_m": 1.22,
+        "length_retained_m": 1.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Branding of Cranshaw particularly deleting the shot when the hot iron touches his back and his subsequent scream.",
+        "length_m": 1.1,
+        "length_retained_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete the close view of the bodies of Mainwaring and his men in the cart.",
+        "length_m": 1.3
+      }
+    ]
+  },
+  {
+    "film_title": "Khufia Mahal",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "42089",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From the song dance sequence 'Ifai Mujhko Kya Hogayan Hai' (i) near view of Tajvar in which her bust is seen to be emphasised (ii) Close-up of Tajvar's emphasised bust (iii) near view of Tajvar shaking her thighs and hips while lying down (iv) Tajvar making indecorous movements on the lie 'Aisa lagta hai ungraayionso....'.",
+        "length_m": 28.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IV, VI & IX",
+        "description": "From the dialogue of Nazakat addressed to Fitna, 'Aa, galo Lagja' wherever it occurs along with the accompanying visuals.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From Salman's dialogue addressed to Nazakat, the suggestive remark 'Vahut Jald Samajh Jaaogi, Jan-l-man....'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From the duet 'Vayee vayee kurvagn' the line 'Apni Umar Ka Miljaye To Aunkhen Karna Chaar' and repetition thereof.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of strangling of the ape-man by the bearded wrestler.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The remark 'Chatni Ko' from Fitna's dialogue.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Holland Today",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "42095",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot showing the two lovers in embrace seen by two hunters while shooting partridges.",
+        "length_m": 4.22
+      }
+    ]
+  },
+  {
+    "film_title": "The Maniac",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1495",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel l(a)",
+        "description": "Delete shot of Janiello wetting his lips on seeing Annette before the credit titles.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel l(b)",
+        "description": "Reduce the scream of Annette on seeing her father holding the gas jet before burning Janiello's.",
+        "length_m": 0,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the remark of Eve addressed to Geoff 'If you make yourself useful,' along with shots of her throwing the towel at him and his removing his shirt. Also delete shots of their kiss and embrace with Eve's bare back prominently visible.",
+        "length_m": 14.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III (a)",
+        "description": "Reduce to a flash the scene of Eve and Geoff kissing and embracing in bed together deleting shots of her lying over Geoff and his caressing her back with both hands. Also delete her remark 'I feel I have become alive again.'",
+        "length_m": 38.4,
+        "length_retained_m": 5.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (b)",
+        "description": "Delete shot of Eve and Geoff kissing and embracing passionately along with her suggestive remark 'No darling, not tonight'.",
+        "length_m": 4.87
+      }
+    ]
+  },
+  {
+    "film_title": "Hud",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "1496",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III (a)",
+        "description": "The following dialogue between Hud and Alma: Hud: 'You still got that itch?' Alma: 'Off and On.' Hud: 'Well, let me know when it gets to bothering you.'",
+        "length_m": 4.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (b)",
+        "description": "From Hud's dialogue addressed to Alma, 'Whatever it takes to make you trade.'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V (a)",
+        "description": "To the minimum Hud's attempted rape of Alma particularly deleting shots of his forcing her down on the floor.",
+        "length_m": 6.1,
+        "length_retained_m": 3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (b)",
+        "description": "From Hud's dialogue to Lon, delete 'You have been wanting to wallow her from the day she got here.'",
+        "length_m": 1.44
+      }
+    ]
+  },
+  {
+    "film_title": "Cairo",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1497",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 8 (3A)",
+        "description": "Shot showing the modus operandi of the crime beginning with the drilling of the door, putting in the nitrogon and pressing the button to blow a hole through the door.",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8 (4B)",
+        "description": "Indecorous view of Bamba's bust.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 2 (1B) & 9 (5A)",
+        "description": "The belly dancing particularly deleting the close-ups of bending and hip shaking. Also delete shots showing indecent reaction of Pickering to the belly dancing.",
+        "length_m": 24.08,
+        "length_retained_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "In The French Style",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1498",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 2B & 3A",
+        "description": "All shots and dialogue from the time Christiana rings up Guy saying 'Hello, Guy, I'm a bitch' to the end part of the reel. 3A ending with the words of Christina 'I suppose so, lie down' during which sequence Christina and Guy meet, hire a hotel room for an immoral relationship and lie together in the bed.",
+        "length_m": 437.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3B",
+        "description": "From dialogue: Christina: '.......and if from time to time you remember a cold night in winter in a bleak hotel room and a boy who slept trustfully in your arms'.",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "The Silent Planet",
+    "languages": [
+      "German"
+    ],
+    "cert_no": "39549",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "The picturisation of the character in Gandhi Cup bearing a striking resemblance to Shri Jawaharlal Nehru wherever it occurs.",
+        "length_m": 112.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "The picturisation of the character in Gandhi Cup bearing a striking resemblance to Shri Jawaharlal Nehru wherever it occurs.",
+        "length_m": 80.26
+      }
+    ]
+  }
+]

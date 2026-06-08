@@ -1,0 +1,179 @@
+[
+  {
+    "film_title": "Trailer of \"Angaray\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Akash Chitra, Famous Laboratories & Studios Ltd., Mahalaxmi, Bombay-11",
+    "cert_no": "B-10293",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "The dialogue 'Kini donare ka pehlu garam kar rahti hai' is replaced.",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1307",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Bombay",
+    "cert_no": "B-10375",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "News Reel",
+        "description": "The entire item 'News Brief - Berlin riots' is deleted.",
+        "length_m": 13.716
+      }
+    ]
+  },
+  {
+    "film_title": "A Scene of Youth P.E.",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "producer": "Films Division, Govt. of India, 24, Peddar Road, Bombay-26",
+    "cert_no": "B-10818",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From the first dance, the shaking of hips is deleted.",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the first dance, the shaking of hips is deleted.",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The second dance 'Kurrum Khan's Tent' is completely deleted.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot showing Kurrum Khan and Captain King watching the dancing girl is deleted.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Words 'In Meerut garrison... Rioting in Delhi' are deleted.",
+        "length_m": 18.288
+      }
+    ]
+  },
+  {
+    "film_title": "King of The Khyber Rifles",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox (India) Ltd., Metro House, Bombay",
+    "cert_no": "B-9736",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The item 'India 1887 – The Hundredth Year of Birth-Kole' is deleted.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the first dance, the shaking of hips is deleted.",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The second dance 'Kurrum Khan's Tent' is completely deleted.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot showing Kurrum Khan and Captain King watching the dancing girl is deleted.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Words 'In Meerut garrison... Rioting in Delhi' are deleted.",
+        "length_m": 18.288
+      }
+    ]
+  },
+  {
+    "film_title": "The Sipper",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., 33A, Marine Lines, Bombay",
+    "cert_no": "B-8089",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I & IX",
+        "description": "Scenes showing paranoid posing with a rifle fitted with a telescopic sight are deleted.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Chor Bazar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Famous Pictures Co., Famous Pictures Studio, Cadell Road, Dadar, Bombay-28",
+    "cert_no": "B-10082",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Song 'Dar dar ki thokaren...' is deleted.",
+        "length_m": 97.536
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Fight scene is reduced.",
+        "length_m": 22.86,
+        "length_retained_m": 38.7096
+      }
+    ]
+  },
+  {
+    "film_title": "Manoor Parey",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Himalayan Art Producers, 127B, Lower Circular Road, Calcutta-14",
+    "cert_no": "C-1148",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "The song 'Ako jare bashao taro kulko ughat lono... Shudhu-i jano' is deleted.",
+        "length_m": 121.3104
+      }
+    ]
+  }
+]

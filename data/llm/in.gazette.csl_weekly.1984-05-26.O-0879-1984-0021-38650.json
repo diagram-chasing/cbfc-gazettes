@@ -1,0 +1,43 @@
+[
+  {
+    "film_title": "Sister",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Gogi Films, Satyagiri, 115-Dadasaheb Phalke Rd, Dadar, Bombay-14",
+    "cert_no": "B/F-576",
+    "cert_date": "3-12-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shots of Vikas kissing Shanta and also suggestion of kissing.",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots of Vikas rolling over Shanta in the fields.",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete Vikas's dialogue comparing police to dogs.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the sequence of two persons making crude comments and gestures at Shanta, the nurse."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the entire rape sequence including the shots of Shakkur injecting Shanta."
+      }
+    ]
+  }
+]

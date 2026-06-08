@@ -1,0 +1,507 @@
+[
+  {
+    "film_title": "Choron Ka Chor",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M.H. Films",
+    "cert_no": "60707",
+    "cert_date": "5-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the following sentence said by Lakhan: “Begum sahiba ko kaho kapade utar ke alyo”.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined words from the sentence \"Tere liya aisa rnaal ka bandabast kiya hai\", said by Makhan.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the following sentence as said by Lakhan with reference to a lady: “Are, maloom hota hai ready made store hai ych\"",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "In the dance scene, delete the close shot of the statue when Madan goes near to it.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Kali Baiko",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Kama! Kumar, & G. C. Chandwani",
+    "cert_no": "60710",
+    "cert_date": "5-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From Anand’s dialogue addressed Bandu, delete “Rftllich kaay suddha sadvi baghayachi aste”",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kab ? Kyoon ? Aur Kalian",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "producer": "Arjun Hingoruni",
+    "cert_no": "60730",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from the sentence “Yeh gentleman aap ka saat soyega” as said by the Steward to Asha in the ship cabin.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the words “Kar Jena deejiyena” as said by Anand to Asha.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to minimum the kissing through phone between Anand and Asha.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shot of kissing between Asha and Anand.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shot of kissing between Anand and Asha after the song “pyar se dil pharde”.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In the \"hippie dance\", delete the close shot of the girl with red-lined two-piece costume shaking her body indecorously.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of struggle between Lata and Daljit after her sari is removed by him.",
+        "length_m": 0.61,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close shot of the dead man’s face in the box.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "In the picturisation of the song beginning with the words “Yeh ankhen— yeh Hnkhcn jhuki” delete the close and mid-close shots of the dancers shaking their hips and breasts indecorously.",
+        "length_m": 2.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the words “Mera bhaki sab kuch lik hai” as said by Anand in disguise to Rita.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined words from the sentence \"Dhoti ncechc karo, nahin to andor kar doonga \", as said by Havildar Hanuman to the man in dhoti.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words “Saadi sepahaleyeh kaisa ho sakta hai bun ho phi sakta hai”, as said by Havilday Hanuman when Asha tells him on phone that Anand will sleep in her house as she is along.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV L",
+        "description": "Reduce the fight between Anand and Daljit with the chain.",
+        "length_m": 0.9,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the scene of kissing between Anand and Asha at the end of the film.",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Salt And Papper",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "producer": "Milton Ebbins",
+    "cert_no": "60731",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the three shots of the girl in bed.",
+        "length_m": 2
+      }
+    ]
+  },
+  {
+    "film_title": "Bhoopalhx Ranga",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Bhaskar Movies",
+    "cert_no": "65195",
+    "cert_date": "5-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce considerably the scene of Sathyamoorthy molesting and spoiling the chastity of Saroja shown in flash-back, delete the shot of the hands pressing each other on the bed and Saroja being shown in a dispersed blouse along with the impression of detached sari.",
+        "length_m": 21.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Song ‘Rasika’ — Delete the view of dancer’s up and down movements of the front on the song line ‘Vayasu Sogasu’.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the shots of Sobha lying on bed with bust exposure when she is talking to Bhaskar on phone.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete close view in zoom of a painting of a woman in semi-nude condition appearing on the wall.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Pasidi Manasulu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Ushasri Productions",
+    "cert_no": "65197",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "After Madhavi says that her car radiator gets heated often, delete all further references to heat in the dialogue of Madhavi and Sekhar.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "A",
+        "description": "Delete the first shot of Sridhar hanging from a rope and reduce the second shot to only bare suggestion of his having committed suicide.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Song 4— Delete the view of Sekhar’s face resting on the bust of Kamla on the line ‘Aasato choochina manasu'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Sekhar’s dialogue to Kamala “Aai Kavalo neeku telya demiti ?”.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Dathu Puthran",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Udaya Studios",
+    "cert_no": "65199",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogue of Mathui wherein he states twice “Nee nottum’\", as also picturisation wherein he shows his first with a gesture.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "song 2 — Dance by Vanaja —Delete the shot where the dancer shakes her busts twice; also the shot where she lies on floor and moves shaking her busts.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "song 3— Delete the shots where Annakutti shakes her busts, and rotates them towards the middle of the song.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce the shots of Matthachan eating like a glutton.",
+        "length_m": 4.57,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the shot where Matthachan lies on the easy-chair with his legs lifted up.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Koyi Gulam NahT",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "producer": "Emgeeyar Pictures (P) Ltd.",
+    "cert_no": "65200",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Manama Mangalyama",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sivaprecthi Pictures",
+    "cert_no": "65301",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Abhinetri",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "producer": "Subodh Mukerji Productions",
+    "cert_no": "60753",
+    "cert_date": "12-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted the scene beginning from Anjana's entering into the bedroom till he enters the bathroom.",
+        "length_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted the dialogue of the Mother beginning with the words “Yell Khata Ky on nahin” addressed to Artjana and ending with the dialogue of Anjana, “Mathaji Aayi Hai\", addressed to Chaehaji.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Deleted the dialogue of Shekar beginning with the words “Namastc Chaehaji and ending with the dialogue of Chaehaji, “Tikh Hai, Tikh Hai, Jab Fursath Muley Aa Jana” addressed to Anjana, and the full scene thereof.",
+        "length_m": 47.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Deleted the scene beginning from Shekar and Anjana’s embracing each other along with the dialogue of Anjana, “Turn Kitne nistoor ho.. .” and ending with, \" Main jaane nahin doonga”.",
+        "length_m": 29.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Deleted the shots showing hands on the bed decorated with flowers followed with the repetition of song of Anjana, \"Palke na Khulne Dungi \" and ending with the shots of Shekar catching Anjana’s hand, Anjana gently moving the hand and getting up and Shekar opening his eyes and getting up.",
+        "length_m": 78.63
+      }
+    ]
+  },
+  {
+    "film_title": "Emrooz Va Farda",
+    "languages": [
+      "Iranian"
+    ],
+    "producer": "Mr. Shabviz",
+    "cert_no": "60753",
+    "cert_date": "12-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue to the effect “Let me see Whether your heart is beating or not\" as said by the man to the girl, along with the visual of his putting his hand inside the blouse of the girl.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Pavitra Papi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Rajendra Bhatia",
+    "cert_no": "60766",
+    "cert_date": "14-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete up to lip kiss between Tanuja and Ajay Sahni in the dream sequence.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Yaadgar",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "producer": "S. Ram Sharma",
+    "cert_no": "60782",
+    "cert_date": "13-5-70",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Lawyer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Brad Dexter",
+    "cert_no": "2681",
+    "cert_date": "19-5-70",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from the following: \"Would that rule out going to bed with her, engaging in sexual intercourse ?\"",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the following sentences: “Wellwasn’t Jack Harrison treating you for a venereal disease? Trie isn’t a venereal disease”.",
+        "length_m": 2.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the view of Tony putting his hand under the skirt of the lady standing on ladder.",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the view of the girl lying flat with partly bare bosom.",
+        "length_m": 1.32
+      }
+    ]
+  },
+  {
+    "film_title": "The Lawyer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Brad Dexter",
+    "cert_no": "60800",
+    "cert_date": "19-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the view of Tony putting his hand under the skirt of the lady standing on ladder.",
+        "length_m": 0.5
+      }
+    ]
+  },
+  {
+    "film_title": "Ma Ka Aanchal",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Jagdev Bhambri",
+    "cert_no": "60835",
+    "cert_date": "25-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the picturisation of the song beginning with the words “Tore jhoothe wade ka ilbar kiya delete the prominent views of the dancer in short scanty dress and delete her indecent movements. Reduce the shots showing the members of the Mehfil taking physical liberties with the dancing girl. Delete similar shots in the repetition of this picturisation wherever it occurs in similar sequences.",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "In the picturisation of the song beginning with the words “Bhanvar men mori Naiya “ delete the prominent views of the lady in wet dress, whenever the camera is focussed on her bust.",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "NaiDulhan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Amur Singh Kwatra",
+    "cert_no": "60836",
+    "cert_date": "26-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduced the close shot of the lips of the bride and groom in close proximity.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      }
+    ]
+  }
+]

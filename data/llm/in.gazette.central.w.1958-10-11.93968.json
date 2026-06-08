@@ -1,0 +1,741 @@
+[
+  {
+    "film_title": "Pawnee",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "25023",
+    "cert_date": "11-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of Tip lying in agony on river bank with an arrow embedded in his chest",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Sound of animal-like war-cries emanating from Pawnees, while they are trying Paul to a stake",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All shots showing Pawnee women and boys beating and torturing Paul who was helplessly tied to the stake",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (A)",
+        "description": "In battle scene, shots in which a person fallen to the ground is trampled under foot by another person",
+        "length_m": 0.79248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (B)",
+        "description": "Shots in which Paul is throttling Crazy For holding his head pressed down under water to suffocate",
+        "length_m": 4.064
+      }
+    ]
+  },
+  {
+    "film_title": "Mohawk",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "25026",
+    "cert_date": "11-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Onida and Jonathan riding and kissing on the river bank",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The subtitle 'The wicked Indians ARE SAVAGES.'",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Exile",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "26027",
+    "cert_date": "11-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the guillotine coming down with force",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "The Truth About Women",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "25028",
+    "cert_date": "12-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Flash shots of passionate cuddling and kissing in the pouch",
+        "length_m": 12.50952,
+        "length_retained_m": 4.064
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "In the boat",
+        "length_m": 5.1816,
+        "length_retained_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Exile",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "25030",
+    "cert_date": "13-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Roe II",
+        "description": "Shots in which the prince is shown sprawled unconscious on a stool after being slapped hard by the Republican questioners",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "reel": "Roe II",
+        "description": "Shot of guillotine coming down with force and reduced footage of hysterical reaction of the boy prince (hysterical reactions of the boy prince retained)",
+        "length_m": 5.7912,
+        "length_retained_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "And God Created Woman",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "767",
+    "cert_date": "14-8-68",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Juliette jumping over the counter and her thighs being exposed indecently",
+        "length_m": 0.36576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots where Juliette is shown lying in briefs and the rest of her body is shown naked while her husband and mother-in-law are shown near her",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots where Juliette opens the skirt and faces the camera in her underwear while dancing",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Flash shots where Antoine is shown huddled over Juliette on the hood of the car and kisses her passionately",
+        "length_m": 3.2004,
+        "length_retained_m": 0.4064
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Flash shots where Antoine is huddled over Juliette on the trunk of a tree and kisses her passionately. Delete shots where Antoine also pulls Juliette down on the ground and she is huddled on him. Reduce to flash shots where Antoine carries Juliette in his arms.",
+        "length_m": 6.1722,
+        "length_retained_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Scene showing Cartadine talking to Juliette when the latter is behind the screen. Dialogue 'she has got a delicious wiggle'. Shot where Juliette's body repeatedly rubs against Antoine's in the crowded bag",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot showing Juliette kissing Antoine while dancing",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot showing Antoine on top of Juliette against the car",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot showing Rene kicking Michel",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot Juliette showing unbuttoning her dress in the bedroom",
+        "length_m": 1.43256
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Juliette making love to her husband while sitting on his lap. Shot of Antoine looking at Juliette while the latter is lying down on bed. Two shots of Juliette showing her lying down on the bed",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot showing Juliette and Antoine together for a fleeting second as sitting on the same bed",
+        "length_m": 0.36576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Sea beach sequence showing Juliette and Antoine together",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots showing Juliette putting on her skirt before she leaves the house",
+        "length_m": 1.43256
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot showing Juliette dancing when her reflection is shown in the mirror and again she is shown feverishly dancing on the table and floor",
+        "length_m": 5.7912
+      }
+    ]
+  },
+  {
+    "film_title": "Zimbo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Basant Pictures",
+    "cert_no": "24502",
+    "cert_date": "24-6-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Atmospheric shots of jungle and village",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Safaris passing, one collie fainting and falling down Bihari coming near and shouting at him",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Tiger attacks Professor Chakravarti",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Hotel — Exterior and Interior",
+        "length_m": 102.4128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Tribesmen attack Durgadas and party",
+        "length_m": 42.0648
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Elephants stampede and Pagali tells Zimbo not to go with Durgadas and Party",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Dada (the chimpanzee) wounded approaches Zimbo",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "Dada attacks Bihari and throws stones at him",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "Loola, Durgadas and Party are brought before Maharani",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 15",
+        "description": "Maharani orders Durgadas and his party to be jailed",
+        "length_m": 20.4216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 16",
+        "description": "Elephants stampede",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 17",
+        "description": "Zimbo and Bihari fighting Dada and Bihari fighting",
+        "length_m": 34.7472
+      }
+    ]
+  },
+  {
+    "film_title": "Zindagi Ya Toofan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Seraphim Pictures",
+    "cert_no": "24118",
+    "cert_date": "14-4-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Ahammu coming out of the jail till kidnapping of the child",
+        "length_m": 32.9184
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Musical sequence of Nalofer",
+        "length_m": 60.96
+      }
+    ]
+  },
+  {
+    "film_title": "Underwater Warrior",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "25088",
+    "cert_date": "18-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the scene in which David and Anne are walking on beach shots showing David caressing Anne's calf, ankle and thighs",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots showing legs of Anne and David entwined as they lie under a palm tree",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of Anne and David kissing passionately in car (both visuals and sound)",
+        "length_m": 5.4864,
+        "length_retained_m": 4.8768
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots showing David and Anne kissing underwater",
+        "length_m": 2.4384,
+        "length_retained_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Underwater Warrior\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "25069",
+    "cert_date": "18-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shot of Anna and David kissing towards the end of the trailer",
+        "length_m": 0.9144,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Do Phool",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Akhtar Sultana",
+    "cert_no": "26060",
+    "cert_date": "18-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The playing of \"National Anthem\" (Sound)",
+        "length_m": 10.0584
+      }
+    ]
+  },
+  {
+    "film_title": "Rumpus In The Harem",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "25008",
+    "cert_date": "20-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I, II",
+        "description": "The words \"Bin Subhah\" and \"Bin Sobar\" from the name of \"Hassan Bin Subhah\" and \"Hassan Bin Sobar\" wherever they occur.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Kings Go Forth",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "25083",
+    "cert_date": "21-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots where a streetwalker is shown on Britt's lap in a costume",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots where a streetwalker solicits Sam",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots where Britt kisses Monique passionately",
+        "length_m": 9.144,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Enemy From Space",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "25084",
+    "cert_date": "21-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Broadhead's body covered with some corrosive poisoning",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of seething mass of tiny creatures emerging from domes",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Hell Bent For Glory",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros. First National Pictures Inc.",
+    "cert_no": "25082",
+    "cert_date": "21-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably shots where Thad takes Renee in his arms, lifts her up and holds her in prolonged embrace when he comes to her room after his escape",
+        "length_m": 1.8288,
+        "length_retained_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shots showing Thad walking about and kissing Renee in his arms",
+        "length_m": 7.0104,
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Kings Go Forth",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "25083",
+    "cert_date": "21-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots where a streetwalker is shown on Britt's lap in a costume",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots where a streetwalker solicits Sam",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots where Britt kisses Monique passionately",
+        "length_m": 9.144,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Badhna",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "B. R. Films",
+    "cert_no": "26089",
+    "cert_date": "22-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Champa while she is reclining and suggestively pointing to her body when the line 'Agar Tum Ek Kali Mango - To Main Sara (baman De Doon' in Song No. 1 (song beginning with the words 'Kaho joo tum kyu kya....and ending with the word, Yaba na sharmao kaho jeo)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Replaced with approved shot of two persons in the audience smoking",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The following lines from Song No. 3 (Song beginning with the words — \"Aaj kyon bams parda hai - and ending with the words - \"EK muddat ke washna hai ham , phir askyon hama parda hai\" ): HATH KHELE HAIN TERE JULFON SE \" \" ANKH WAKIF HAIN TERE JALVON SE \" \" TOON AGAR MAHERBANHOJAE - HARTAMANA JAVAN HOJAE \" \" KHAIR HAI TERE JINDAGANIKEE - BHIKH DE DE HAMEN JAWANI KEE \"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replaced by approved picturisation and wordlogo as follows: \"PAAS AAKAR BHI TUJHKO DEKHA HAI - DOOR JAKAR BHI TUJH KO DEKHA HAI-- TOO AGAR MEHERBAN HO JAE - YE ZAMIN AASMAN HOJAF - KHAIR HO TERI ZINDAGANIKI - DEBHI DE BHFEKH MEHARBANI KI\"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The word \"Jawan\" from Champa's dialogue \"Jawan Mardon Ke Liye Laye Jato The\". Close shots of the face of Champa's dead mother",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably shots in which Champa's admirers become vociferous and hurry money at her in the mob",
+        "length_m": 3.048,
+        "length_retained_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Considerably the scene in which Champa is assaulted by bad characters and her mother's dead body appears uncovered",
+        "length_m": 6.096,
+        "length_retained_m": 14.6304
+      }
+    ]
+  },
+  {
+    "film_title": "The Harp of Burma",
+    "languages": [
+      "Japanese"
+    ],
+    "producer": "The Embassy of Japan",
+    "cert_no": "25090",
+    "cert_date": "22-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "A very big close-up of the face of a dead Japanese soldier with chin protruding upward and a bone of vulture eating dead soldier",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Gouri Shankar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bhagyawan Chitra",
+    "cert_no": "25091",
+    "cert_date": "22-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The following words uttered by Narada - \"Shankar kankar ho kar sap ko obarnon mon sa yengo aur kabama mangengo\" wherever they occur",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Re-shooting of the above words",
+        "length_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Considerably scene showing Parvati in a demented condition",
+        "length_m": 26.5176,
+        "length_retained_m": 12.192
+      }
+    ]
+  },
+  {
+    "film_title": "Assam",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "producer": "Films Division - Government of India",
+    "cert_no": "25081",
+    "cert_date": "21-8-68",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot where a fisher woman's bosom is exposed while she is catching fish",
+        "length_m": 1.46304
+      }
+    ]
+  },
+  {
+    "film_title": "The Goddess",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "768",
+    "cert_date": "21-8-68",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Considerably passionate kissing and cuddling between Emily Ann and a young man in the car",
+        "length_m": 4.2672,
+        "length_retained_m": 3.2628
+      }
+    ]
+  },
+  {
+    "film_title": "Enemy From Space",
+    "languages": [
+      "English"
+    ],
+    "producer": "Hammer Films Production Ltd.",
+    "cert_no": "760",
+    "cert_date": "21-8-68",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Close shots of Broadhead's face when he descends from the vault covered with some corrosive poisoning",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Flash shots of Broadhead's body covered with some corrosive poisoning falling on the ground before Quatermass",
+        "length_m": 4.2672,
+        "length_retained_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Flash shots of seething mass of tiny creatures coming out of the domes",
+        "length_m": 8.5344,
+        "length_retained_m": 2.1336
+      }
+    ]
+  }
+]

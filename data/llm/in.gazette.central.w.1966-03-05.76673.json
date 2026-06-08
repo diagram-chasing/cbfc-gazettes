@@ -1,0 +1,786 @@
+[
+  {
+    "film_title": "Neel Akash",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Kirol Productius, Rajendra Bhatia , 217 , Famous Cine Bldg., Haines Road , Bombay - 11",
+    "cert_no": "45884",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The underlined suggesting word in the comedian s remarks: \"Anj to main khud dhakkon ka mohtaj hoon.\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Entirely the cabaret dance of the two semi-nude women in the cafe.",
+        "length_m": 48.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The word \"Hari On\" used by Necla s father while holding the liquor glass hidden under the table.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "Establish that Rita s mother is repentant for having followed the vicious advice of Necla s father.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVII",
+        "description": "Remove the impression that Akash takes off in a defective Indian Airlines plane on the important mission of carrying secret documents.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVII",
+        "description": "Remove the impression that the soldiers at the Indian security post were not vigilant enough when Akash approaches them after dodging the Chinese.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "The shot of the blood bottle dropping on the ground while being adjusted by a nurse for transfusion of blood to Akash lying on the operation table.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVIII",
+        "description": "The underlined words in the following remark of Akash s mother addressed to Akush refusing to Necla s giving her blood to save his life: \"...jun kbutie mcn lalke mere bachche ki jaan bachai hai.\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "The fight between the two girl friends of the Comedian.",
+        "length_m": 1.22,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Shots of Akash s arm bleeding profusely after being hit by enemy soldiers; also, the shot of vultures perching menacingly above him.",
+        "length_m": 3.05,
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \" Shankar Sita Ansuya \"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "B . R . Pachisia, 134 , Famous Cine Bldg ., Haines Road , Mahlaxmi, Bombay- 11",
+    "cert_no": "45885",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The word Stanapuan said by Shankar to Ansuya.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "The incident of Shankar leaving Uma and Uma s lying to him.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Shankar Sita Ansuya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Madhur Films, Ranjit Studios, Dadar, Bombay- 14",
+    "cert_no": "45888",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The incident where Uma lies to Shankar and Shankar punishes her by leaving her.",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The following sentence said by Ansuya: \"Yah yagna nahin hai dharma ke saath vishwas ghat hai.\"",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Zorba the Greek",
+    "languages": [
+      "English"
+    ],
+    "producer": "Twentieth Century Fox Film Corporation, Metro House, M.G. Road, Bombay-1",
+    "cert_no": "45897",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The Indecorous view of Lola with Zorba.",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "description": "The sentences said by Zorba from \"Romember this.......up to.......he will not go.\"",
+        "length_m": 7.48
+      },
+      {
+        "kind": "deletion",
+        "description": "The indecorous views of the widow with Basil.",
+        "length_m": 1.65
+      }
+    ]
+  },
+  {
+    "film_title": "Woman of Straw",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "A Michael Relph & Basil Dearden Production",
+    "cert_no": "45899",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots showing Maria and Anthony in bed and the shots showing Anthony s hand on her breast.",
+        "length_m": 9.29
+      },
+      {
+        "kind": "deletion",
+        "description": "The indecorous shot showing Maria s bust in the hotel room.",
+        "length_m": 7.04
+      }
+    ]
+  },
+  {
+    "film_title": "Shreeman Funtoosh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. B. Productions, 8, Sunita Nivas Ghodbunder Road, Santa Cruz, Bombay",
+    "cert_no": "45901",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From Funtoosh s dialogue, reference to Navbharat Times in connection with a story alleged to have been published therein. (No objection to retaining of Bharat Times.)",
+        "length_m": 0.16
+      },
+      {
+        "kind": "deletion",
+        "description": "Sequences in which Funtoosh and Chowranghee are seen to be behaving comically before and during their visit to the Shiva temple for offering prayers. Also reduce drastically the scene of their teasing of Meena and Rita when the latter enter the temple for worship.",
+        "length_m": 8.37
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of Meena and Rita reclining on the couch in an indecorous pose.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "description": "From the picturisation of song — “Wo Jharoke Se.......\" the shot of Funtoosh pushing Meena on to her bed and its repetition in flashback in Reel No. 14.",
+        "length_m": 4.26
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of Rita and Meena relaxing on the bed in an indecorous pose.",
+        "length_m": 3.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of Funtoosh behaving comically while offering prayers to the family deity in the presence of his mother.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Sati Naari",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ram Gopal, Daftri Bungalow, Daftri Road, Malad, (East) Bombay",
+    "cert_no": "45904",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel",
+        "description": "Remove the impression that Kapildev and Mala were harassed for nothing and show that Kapildev was being punished for his sin.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "(a) the sentence \"Bhagwan Bachaye To Chandalon Se\" (b) the underlined words in the following sentence said by Brahmanand \"Yah ek devta hai, usne Brahma Sabha men naachti huyi nartaki Rambha ki Kajaai ko pakda hai aur usko saath ret paat kiya hai.\" (c) the bust jerks of Mala and also of her two friends in the song begioning with the words \"Jayiyo na anna pe.......\"",
+        "length_m": 7.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "The Indecorous views of Mala in the song beginning with the words \"Batao to batuo to kahan ha tum.......\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels IV & V",
+        "description": "The impression that Maina was a Malan.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "(a) The suggestion of a kiss when Kapildev and the Queen are about to embrace.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "(b) The following dialogue said by Shukla to Maina - \"Yadi agya ho to main teri god men baith jaoon.\"",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "(c) The sentence said by Shukla to the barber — \"Kabhi tere baap ne joru dekhi thi.\"",
+        "length_m": 3.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "(d) The underlined words in the following sentence said by Shukla to the barber : \"Kabhi Channaal kc shap se gayya marti hai.......\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "(a) the embracing of the Queen and Kapildev (b) The sentence said by Shanidev in Indra Sabha - \"Andhe ki patni ko charitra hin honemen der nahin lagti. .\"",
+        "length_m": 13.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "The sentence said by the Pandit tu Mala : “Hamari sejke shobha badloni pildegi\" also the wod Kultu addressed to her by him.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel L",
+        "description": "The underlined word , in the following series by Hil Grindes Ralilo Karalik : \"l une mujhpur Dhiron bhole bhule nirush balkon ki buli cludiakir jo paar kiya his ho suhe to us ka pilschutap karja.......\"",
+        "length_m": 3.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "The whipping of Mala by the Pandit drastically. There is no objection to the caution (fore or two close-lips provided no whip is shown touching the body and there is no sound flashes.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bahujan Hitay",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sachida, 20, Bhaveshwar Bldg., Bombay-18",
+    "cert_no": "45905",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Revell",
+        "description": "Reduced to a flash the shot showing the mother beating her daughter.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Zorba The Greek",
+    "languages": [
+      "English"
+    ],
+    "producer": "Twentieth Century Fox Film Corporation, Metro House, M.G. Road, Bombay-1",
+    "cert_no": "1671",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The following dialogue between Zorba and Madne Huitense beginning with \"In the end they woje sorry for me\" and upto \"but they were gone.\"",
+        "length_m": 32.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The following sentence said by Zorba \"God has very big hçait. But theic is one sin he will not forgive, If a woman calls a man to her bed and he will not go.\"",
+        "length_m": 5.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "(a) The following sentence said by Zcrba to Basil : \"Tid it takes so lítila , A Man s hand on their brcast and they give you all they ve 901.\" (b) The action of Zorba placing his hand on the bosom of Mme Horie SP (c) Ich The names of Ali Bey and Mustapha from the dialogue of Mme Hortce (d) The following sentence said by Zorba to Basil : \"He did not go to Church , he went to Mary & Christ was bun, IIc went thut way, Maiy is the widow \"",
+        "length_m": 8.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel LX",
+        "description": "(a) Indecorous front near views of the dancer s fat legs and the indecorous gestures of another dancer (b) The following sentence said by Lola to Zorba : \"I m not giving it away for free . . . . . . . . . . . its my job , \"",
+        "length_m": 8.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The indecorous near view of Lola when Zorba is embracing hci.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The indocorous view of the widow when she is with Bayıl.",
+        "length_m": 25.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "(a) The following sentence said by Zorba 10 Butsil regardig his « trength ; \"You ask Lola \" (b) Reduce considerably the sequence of the widow hcing manhandled , the near View s of villugers faces watching the scene with gloating ixpressions , Manokas sticking the Wickow s face and the ripping open of her dress.",
+        "length_m": 13.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The vulture-liko reaction of the two women , after Mme Hortense is dead and their cackle.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Ships",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Technirama",
+    "producer": "Irving Allen",
+    "cert_no": "1672",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The indecorous ncar viows of Amina.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From the fighting scene , the gruesome shots of fighting -- splitting a man , hacking with swords and Axe.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The near views of girls on balcony as the Vikings enter the palace.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Near views of men being crushed by the Golden Bell as it falls down.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably the scene of orgy particularly deleting shots of the ripping of a dress of a girl and the indocorous view of a girl lying with a man in the kitchen.",
+        "length_m": 20.73,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The indecorous shots of girls in the harem and indecorous views of Amina.",
+        "length_m": 9.14,
+        "length_retained_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XL",
+        "description": "Considerably the sequence showing the Vikings brcaking into the harem and the subsequent scenes of orgy including the shots of women groaning and panting and limping after the orgy is over.",
+        "length_m": 17.98,
+        "length_retained_m": 29.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "The fighting scene by deleting all shots of hacking , splitting and strangling.",
+        "length_m": 8.23,
+        "length_retained_m": 97.54
+      }
+    ]
+  },
+  {
+    "film_title": "The Sandpiper",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Martin Ranshoff",
+    "cert_no": "1673",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "The indecorous views of Laura when she is modelling for Cox.",
+        "length_m": 4.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13 (8)",
+        "description": "The indecisous views of Laura when Hendrick tries first to persuade her and then molest her.",
+        "length_m": 4.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4A) et VII (4B)",
+        "description": "From Laura s talk to Edward the phrase \"and without any sense of guilt\". Also her indecorous views while lying by the side of Edward on the four.",
+        "length_m": 6.97
+      }
+    ]
+  },
+  {
+    "film_title": "Cloven Horizon",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Silent",
+    "producer": "Kantilal Rathod, Akar, 89-Bhulabhai Desai Road, Bombay-26",
+    "cert_no": "44780",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Furious shots.",
+        "length_m": 173.75
+      }
+    ]
+  },
+  {
+    "film_title": "Rhino",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "An Iven Ts Production",
+    "cert_no": "45926",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the commentary the words — \"The Primitive Savages.\"",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots showing the incident of a baby being submitted to a trial by ordeal by the Natives beginning from the shot accompanying the commentary \"Sharing the terrifying ritual of stoneage savages that determined who is the father of a helpless child\" upto the point where the cattle moves along the side of a baby through foreground and background.",
+        "length_m": 2.8
+      }
+    ]
+  },
+  {
+    "film_title": "NoorMahal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ratan Kumar, Ratan Productions, 121/23, Main Road, Dadar, Bombay-14",
+    "cert_no": "45927",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "From the song-dance \"Ram Jaane Ka huce ye pharakan.......\", opening shots of bust jerking by the dancer and close views of the dancers jerking their busts, as also shots of winking by the dancers.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Back view of Huntarwali walking conquettishly and delete her close-ups in which her bust is seen to be emphasised while reclining on the rocks in the pool.",
+        "length_m": 7.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The underlined words from the astrologer s dialogue addressed to Balan -Aurat to kya kisi gadhi ka bhi yog pahin.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From the astrologer s dialogue addressed to Balam the picturisation and the dialogue \"Aurat par haath gaaf karana\" also his gruesome description of the remedy for finding a girl for marriage.",
+        "length_m": 4.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The underlined words from Balam s dialogue addressed to his wife ; \"Dahej nie ek bachchewali qurat chahiye . . . Ek se anck karna hamara kaam hai\"",
+        "length_m": 8.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Virsingh s dialogue addressed to Radha _ \"Tum apne garan garam sanson so mujhe shant karo.\"",
+        "length_m": 22.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Drastically the comedy sequence between Balam and Sajani, particularly deleting his dialogues pertaining to her being childless and dialogue of the child addressed to Balam about his ability to have a five-year-old child.",
+        "length_m": 39.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "The comedy sequence between Balam and his brother-in-law in the disguise of Z WODA, particularly deleting Balam s dialogue - \"Inse to kya Inke baap se bhi shaadi nahi karunga . . . . . . . . . . . . . . . . Arc lumen suheg raat manaane de \"",
+        "length_m": 15.34
+      }
+    ]
+  },
+  {
+    "film_title": "Sant Shiromani",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Natubhai H. Dani, 43, Ramwadi, Bombay-2",
+    "cert_no": "45928",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "The following dialogue said by the Kirtankar : \"Ang to Pak Musalman ne kabul kar yu chhe ki ck Allah beeju jalla.\"",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Four Days In November",
+    "languages": [
+      "English"
+    ],
+    "producer": "A David L. Wolper Production",
+    "cert_no": "43929",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Shots of near-nude cabaret dancer in Jack Ruby s night-club.",
+        "length_m": 2.48
+      }
+    ]
+  },
+  {
+    "film_title": "Fail Safe",
+    "languages": [
+      "English"
+    ],
+    "producer": "Max E. Youngstein",
+    "cert_no": "45930",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From Groteschelo s dialogue addressed to Foster, the underlined remark \"I am not a poet, I m a political scientist who would rather have an American culture survive than a Russian one.\"",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From Groteschelo s dialogue \"The Russian aim is to dominate the world. They think that Communism must succeed eventually, if the Soviet Union is left reasonably intact.\"",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following dialogue between Groteschelo and Bogan: Groteschele: - \"These are Marxist fanatics, not normal people. They do not reason the way you reason, General Black. They are not motivated by human emotions, such as rage and pity. They are calculating machines. They will look at the balance sheet and they will sec they cannot win.” ... And they won t give a damn what Marx said.\"",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The U.S.S.R. Premier s voice (speaking in Russian with the President) and its translation by Buck: \"We do not need your help. We are perfectly capable of defending our country,\" and the President s reply \"As you wish.\"",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The underlined sentence from Buck s translation of U.S.S.R. Premier s Voice : \"I do not know about this junming. I think he does.\"",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Vull",
+        "description": "The underlined sentence from President s telcphonic talk with Soviet Russia s Premier : \"I offered you help. You refused it, I offer it again.\"",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Premier s Russian conversation with the President and its English translation by Buck : \"No human being did wrong. No ono is to be blamed.\" Also Premier s Russian conversation with the President and its translation by Buck : \"All I know is that as long as we have weapons that.......\"",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Arzoo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Ramanand Sagar, Sagar Art Corporation, Kardar Studios, Parel, Bombay-12",
+    "cert_no": "45931",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The word Principal from the remark of Suresh regarding the examination results having been obtained from him in advance.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "In the dance sequence in the girls hostel, shots of indecorous front movements of a girl in green frock doing a Twist.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVI",
+        "description": "Shots in which a dark spot is prominently seen on the woman in Munshi s forehead indicating that he is Namazi - a very religious Muslim. Also his suggestive reply \"Tum jitna dega utna muin le lungit,\" while Mallu disguised as a female asks him about the rent.",
+        "length_m": 10.06
+      }
+    ]
+  },
+  {
+    "film_title": "Saat Samandar Paar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kamal Mehra, Ranjit Studios, Dadar, Bombay",
+    "cert_no": "45956",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Near back views of the female dancer shaking her hips indecorously.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "From the song-dance \"Ik haat ineri nanoge sanum . . . .\" front close view of the female dancer s legs.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "One shot of Kamal Mehral.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shot of strangulation of the Maharaja.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "To the minimum the fight between the two girls both of whom also eager to marry Lally.",
+        "length_m": 8.13
+      }
+    ]
+  },
+  {
+    "film_title": "Faisla",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jugal Kishore, Mohan Studio, Kurla Road, Andheri, Bombay-58",
+    "cert_no": "45958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the picturisation of the song : \"Phooloo ka lang mausaon ki jaan . . . . .\" the indecorous pose of Kamini doing the twist on the steps Also the shot of her bust - shaking.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the picturisation of the song : \"Meie chhaila babu aaya . . . .\" all shots of bust jerking by the dancers and shot of one of the dancers leaning on the floor in which her bust is seen to be emphasised.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "In the cabaret dance, shots of indecorous movements of the dancer in which her bare shoulders and partly bare back are prominently visible.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "From the song \"Meri jaan , ph mesi Jani) pyar s kot tak jawani ko Fachacgi.. . \" the full wing lines (i) \"Meri jaan pyar se lub tak bhala Julku hucho , kbhi to dil lagan gi kahin to dil layao gi\" (ii) \"Yehi woh umar hai, jis njain kisi se milna mushkil hai\" , \"Kai baten zaroori hain magar lub hilana mushkil hai \"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From Fajalu s dialogue addressed to Bihari the underlined words “Kafir kahin ka \"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "(a) From the picturisation of \"Gori tere chalne pe mera dil kurban . . . \" back view of Kamini walking coquettishly (b) Also the line : \"Mujhe dar hay, kahin lut na Jaaye mera iman \"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "(a) From the song-dance sequence \"Zulmi sanwariyan ne hans ke mara . . . . . .\" near-views of the dancer in which her bare shoulders and exposed back are prominently seen (b) Also the line “ Par aaj mushkil hai nazarain bachana\" ",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "The underlined words from the following dialogue of Fajalu in the court pointing to Gandhiji : \"Main Bapu ji ki qusani khaa kç kalata huun\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II, VII & XII",
+        "description": "Various shots.",
+        "length_m": 104.23
+      }
+    ]
+  }
+]

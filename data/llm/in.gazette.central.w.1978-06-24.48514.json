@@ -1,0 +1,842 @@
+[
+  {
+    "film_title": "Better Breeds Better Yields",
+    "languages": [
+      "Hindi",
+      "English",
+      "Marathi",
+      "Gujarati",
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "Malayalam",
+      "Assamese",
+      "Oriya",
+      "Punjabi",
+      "Bengali",
+      "Kashmiri",
+      "Urdu"
+    ],
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "85973",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "all shots of bulls riding over cows in the act of copulation",
+        "length_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "views of artificial insemination",
+        "length_m": 9.0,
+        "length_retained_m": 9.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gayatri Mahima",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "85978",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Title of the film on the face of the certificate may be read as \"Gayatri Mahima\" alias \"Ek Phool Ek Kanta\"",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Pandit Aur Pathan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "85136",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3868.21,
+    "length_deleted_m": 207.27,
+    "final_length_m": 3868.21,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels VII, XV, XVI",
+        "description": "Addition of various shots approved",
+        "length_m": 143.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels XIV, XV, XVI",
+        "description": "Deletion of various shots approved",
+        "length_m": 207.27
+      }
+    ]
+  },
+  {
+    "film_title": "Muttathe Mulla",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Evershine Productions, Madras",
+    "cert_no": "79753",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3865.47,
+    "final_length_m": 3862.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "shots showing the bad padded blouse worn by the tailor comedian's assistant",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Sree Krishna Leela",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "R. M. Subramaniam, Madras",
+    "cert_no": "79755",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3766.83,
+    "final_length_m": 3745.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "shot of Naradar suggesting the killing of all the eight children of Devaki to Kamsan",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "shot of Kamsan offering a drink to Naradar, and the dialogue of the servant extolling the benefits of the drink",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "dialogue of Kuchelar following the words “Appa Amma Vilayattu and his indecent look at his wife",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Pennai Solli Kutramillai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "R. V. Films, Madras",
+    "cert_no": "3362",
+    "endorsement": "A",
+    "rule_applied": "34",
+    "original_length_m": 3751.2,
+    "final_length_m": 3689.95,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Lakshman saying that the lamp in the L.I.C. logs will burn the hands",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Viji's dialogue 'Aadai Illadhu Irindhalthan Ungalukku Pidikkum Endru Ninaichan...'",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "the line spoken by Viswam that Churchill who smoked cigars and established an Empire",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Viswanath's and caressing Viji's buttocks while on Bed",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Madhu spreading out his legs while performing Sirasasan",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Insurance Agent Gadhiyai Parthio",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Viswanath in court that a wife who is ignored by a husband would turn to another man",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Viji going to look at Madhu changing his wet cloths",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "entire sequence of Madhu and Viji in bed in the dream sequences, retaining only the shot of Viji embracing Madhu at the beginning of the sequence",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Anantachari Adhichu pididu panam Vaangitten",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Madhu Naaney Avangalai Service Panni Anupparen",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "categorical statement of Madhu that a wife ignored by a husband would turn to another man",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "words spoken by Madhu Lala Periya Idathu Manithargal",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Aattukkara Alamelu",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Dhandayuthapani films, Madras",
+    "cert_no": "79579",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4139.14,
+    "final_length_m": 4131.82,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "the word “Varumana Thaney spoken by Nallamuthu",
+        "length_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "In the picturisation of the song, delete the low angled straight through Alamelu's legs coming at the end of the Second stanza of the song, concluding with the words Pudhu Kadhai vide kadhai",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Mohiniattam",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Shu MT. Vasudevan Nair, Calicut",
+    "cert_no": "79400",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 523.0,
+    "final_length_m": 495.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Vol.",
+        "description": "voluntary deletion",
+        "length_m": 28.0
+      }
+    ]
+  },
+  {
+    "film_title": "Pandit Aur Pathan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "85136",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4075.48,
+    "length_deleted_m": 207.27,
+    "final_length_m": 3868.21,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels VII, XV, XVI",
+        "description": "Addition of various shots approved",
+        "length_m": 143.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels XIV, XV, XVI",
+        "description": "Deletion of various shots approved",
+        "length_m": 207.27
+      }
+    ]
+  },
+  {
+    "film_title": "The Wilby Conspiracy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "United Artists Corporation",
+    "cert_no": "4086",
+    "endorsement": "A",
+    "rule_applied": "34",
+    "original_length_m": 2891.64,
+    "final_length_m": 2881.19,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "They wired my balls to a storage battery and switched on the current",
+        "length_m": 0.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Mukerjee I am glad you re out of politics - stick to what you Indians know best-cheating the blacks",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Swear on your God - what s his name? It s Vizhnu . . . . . . and Mukerjee could swear by the beard of the Prophet or the nails of the True Cross and it wouldn t mean a thing",
+        "length_m": 4.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "love scene between Keogh and Rina in the bath tub, and delete the view of Rina where her nude breast is visible",
+        "length_m": 0.42
+      }
+    ]
+  },
+  {
+    "film_title": "Ivanente Priyaputhran",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm . B . & W .",
+    "producer": "Priyadarsigi Pictures, Alleppey",
+    "cert_no": "79588",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4090.36,
+    "final_length_m": 4082.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "action of villain pulling the driver's wife by her hair",
+        "length_m": 2.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Viswanathan caning Saraswathi",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "following words by Kavya Gopalan \"Thangam Nio Nithambam Chumbichidunnambaram\"",
+        "length_m": 3.91
+      }
+    ]
+  },
+  {
+    "film_title": "Aadu Puli Aattam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm . B & W .",
+    "producer": "Swarnambika Productions Madrag",
+    "cert_no": "79590",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3975.2,
+    "final_length_m": 3947.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "shots of the dancer moving her bust indecently during the music",
+        "length_m": 4.46
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "shot where the cabaret dancer jerks her bust indecently",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "underlined word by Rajagi \"God damn stupid\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "scene of Murali's wife and her boss together in an embrace, to a suggestion",
+        "length_m": 7.64
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "underlined words by Mary \"Mattavarkaluk kaha Aadi Adikkappatta Kaikal\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "close and medium shots of indecent bust joys by the dancer and the indecent exposure of her entire thigh",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "scene of Rajani molesting Malati, to a suggestion",
+        "length_m": 14.02
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "following words by the old Muslim in the jail : \"Allah Necngathan\"",
+        "length_m": 4.6
+      }
+    ]
+  },
+  {
+    "film_title": "Chillarakottu Chittemina",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Laxshmi Jyothi Films, Secundrabad",
+    "cert_no": "79592",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3971.24,
+    "final_length_m": 3958.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "scene of the toddy tapper's wife and her lover from the time they are on the bed together, to the end of the scene along with the dialogue",
+        "length_m": 12.8
+      }
+    ]
+  },
+  {
+    "film_title": "Ellam Avaley",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm . B . & W .",
+    "producer": "Marina Movies, Madras",
+    "cert_no": "79593",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4004.76,
+    "final_length_m": 3993.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "close shot of the dancer in the hotel room jerking her bust indecently",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "the underlined words from the song : \"Thirumeni Vaadamal, Stru Osai Varamal\"",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Halwan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Family Film Club, Bombay",
+    "cert_no": "85849",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3869.69,
+    "final_length_m": 3783.33,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "sequence about a private club where some erotic scenes have been shown",
+        "length_m": 54.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "political over-tone in this film centres round a number of sequences where there is a reference of one Mrs. Naidu in a Gujarati dress, a passing sentence about the political situation in Bangladesh and number of references to PL 480, a political aid given in war to an imaginary African country. The portions indicating these sequences should be removed from the dialogue script of the film",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "nudity of Michell when he gets up from bed of Mrs. Bell",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Michell sucking of breasts of a women together with views of her bare breasts",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "word \"Harramzada\", as spoken by Sethji addressed to the black-mailer",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "word \"Harramzade\", \"maal\" and other objectionable dialogues, as spoken by goondas with reference to a girl",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "pictures of nude girls in the taxi-driver's house",
+        "length_m": 3.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "strangulation of Sultana",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "flash-back shots of strangulation of girls",
+        "length_m": 17.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "nude picture on the wall when the camera pans from the view of a man bending over the girl in bed",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIX",
+        "description": "suggestive nude view of Naval Officer's finance",
+        "length_m": 6.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "XX",
+        "description": "shots of Roopa taking shower, by deleting the portions where she is seen particularly nude",
+        "length_m": 7.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "XX",
+        "description": "chloroforming of Roopa and delete the portion of strangulation of placing of her body in the bath-tub",
+        "length_m": 6.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Before titles",
+        "description": "intercut shots (twice) of a girl with bare legs wherever it is suggested that she is being molested",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XXI",
+        "description": "underlined words from the following dialogue spoken by Col. Vurma \"Aap ka tala har chabi se khul jatu hai, aap ka tala to khul gaya ab meri chabi.\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "beating up of Haiwan by Col. Varina as also the circus people hitting haiwan",
+        "length_m": 34.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "beating up of Haiwan by Col. Varina as also the circus people hitting haiwan",
+        "length_m": 6.86
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Ambe Maa",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Star Studios, Bombay",
+    "cert_no": "85861",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3383.63,
+    "final_length_m": 3331.16,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "two shots of breast jerking, the shot of unbuttoning of blouse and leg movement in water by Rambha the dancer",
+        "length_m": 3.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "close view of Indra disguised as Gautam caressing bare leg of Ahilya and the suggestive facial expression in the love making scene between Ahilya and Gautam (Indra)",
+        "length_m": 3.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "entire cabaret dance interposed in the classical dance in Indra Darbar",
+        "length_m": 48.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "view of P.M's portrait at the end",
+        "length_m": 14.73
+      }
+    ]
+  },
+  {
+    "film_title": "Wangar",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "T. S. Buweja, Bombay",
+    "cert_no": "85958",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3549.82,
+    "final_length_m": 3494.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shobha's dialogue on the tractor addressed to Baldeo Churadi kyon yareclinin - sunoji tusi ki khaongeki khaonge tusi. Naa daso 17 daso par churadi tun vado aihudi taraun",
+        "length_m": 7.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Baldeo's words addressed to Nimu: \"Saanon pyasa hichhad diogo\"",
+        "length_m": 4.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "comedian bringing gout and milking it",
+        "length_m": 33.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "shots in which feet of Indu and Santosh are seen intertwined in their lying posture",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "dialogues between Baldev and Nimoo on the tractor beginning from farmer's words: \"Achha gal sun....\" to Nimoo's words \"Chal hat baiman\"",
+        "length_m": 10.6
+      }
+    ]
+  },
+  {
+    "film_title": "Karkkalam Mudhal Tharkkalum Vaidi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Jasbree Pictures, Madras",
+    "cert_no": "79738",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 46.94,
+    "final_length_m": 46.94,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "close shots of the cleavage of a woman shown twice",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Ponmeni Palichida",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Jasbree Pictures, Madras",
+    "cert_no": "79739",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 46.94,
+    "final_length_m": 46.94,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "close shots of the cleavage of a woman shown twice",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Santha Oru Devatha",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm . B . & W .",
+    "producer": "Jaidevi Movies, Madras",
+    "cert_no": "79740",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4257.58,
+    "final_length_m": 4249.22,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "shadowgraph of the dancer in the beginning of the dance suggestive of nudity",
+        "length_m": 8.36
+      }
+    ]
+  },
+  {
+    "film_title": "Banasankari",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Gajalakshmi Chitra, Bangalore",
+    "cert_no": "79741",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4446.35,
+    "final_length_m": 4432.63,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1 & 2",
+        "description": "Ramanath's attempt at rape of 5 girls",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "prolonged caressing of Chandra by Ranganath",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Radha's Ayurvedic Soap",
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "format": "35 mm . B . & W .",
+    "producer": "Thirlok Films, Madras",
+    "cert_no": "79742",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 36.0,
+    "final_length_m": 33.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "the word Janathipathi in both the Tamil and Malayalam versions",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "downward panning shot of the body of the woman in the bath, in both Tamil and Malayalam versions",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Galatta Samsara",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Sapthaswara Movie Makes, Bangalore",
+    "cert_no": "79737",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4430.52,
+    "final_length_m": 4430.52,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "shot of the dancer pointing towards her breast on the song Line HOsa Yavama Ido Ide",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "forward jerk of the hip by the dancer on the song line Ba Ba Baro",
+        "length_m": 1.98
+      }
+    ]
+  }
+]

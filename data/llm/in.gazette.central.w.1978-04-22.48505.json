@@ -1,0 +1,520 @@
+[
+  {
+    "film_title": "Kasam Khoon Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Prasan Kapoor, Tirupati Pictures",
+    "cert_no": "85704",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "deletion of one scene between Kishan and Radha",
+        "length_m": 0.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "deletion of words 'Haramkhor', 'Saali' and 'Maal Taiyar Hai' spoken by Prem with reference to Ganga",
+        "length_m": 0.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "deletion of underlined words from dialogue spoken by a girl to Kishan: 'Ganga ya Gomati, aap ko haath dhone se matalab hai'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce suitably the torture scene of Shanti, Radha and others above the boiling water and also of Dwarkadas on the wheel",
+        "length_m": 15.85,
+        "length_retained_m": 37.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce suitably the fight between Kishan And Prem on the boat by deleting hard punches on the stomach",
+        "length_m": 7.26,
+        "length_retained_m": 6.91
+      }
+    ]
+  },
+  {
+    "film_title": "The Moonshine War",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Wide-screen",
+    "producer": "Martin Ransohoff",
+    "cert_no": "80433",
+    "endorsement": "A",
+    "original_length_m": 2730.7,
+    "length_deleted_m": 7.54,
+    "final_length_m": 2723.16,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the first part of Love-scene on the stone, deleting also the words 'Stone is pricking my arse' spoken by the girl",
+        "length_m": 2.9,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the shot of the nude couple running towards the car",
+        "length_m": 1.9,
+        "length_retained_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce close-range shooting and killings",
+        "length_m": 2.74,
+        "length_retained_m": 0.66
+      }
+    ]
+  },
+  {
+    "film_title": "Blazing Saddles",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Michael M Hertzberg",
+    "cert_no": "81203",
+    "endorsement": "A",
+    "original_length_m": 2542.34,
+    "length_deleted_m": 26.49,
+    "final_length_m": 2515.85,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the view of the Governor unzipping his pant while going to his lady Secretary who is waiting for him behind the curtain",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the following lines from the song sung by Lili: 'I've had my fill of love from below and above'. Also delete the visual of a man with hat on his lap, on the song line: 'Is that a ton-gallon hat'",
+        "length_m": 10.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the underlined word from the following sentence spoken by Lili to Bart: 'Ah, why don't you loosen your bullets'",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the views of men passing air with sound while eating",
+        "length_m": 10.75
+      }
+    ]
+  },
+  {
+    "film_title": "Bhalo Raja",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "M.A.C. Films",
+    "cert_no": "79552",
+    "endorsement": "U",
+    "original_length_m": 4254.5,
+    "length_deleted_m": 90.33,
+    "final_length_m": 4164.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete close and mid-close shots showing dancer's bust cleavage",
+        "length_m": 5.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the entire cabaret dance performed in the club by scantily clad dancer (permitted for continuity, one shot of club atmosphere, police round up, and a long shot of cabaret dancer)",
+        "length_m": 42.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all indecorous movements of the tribal dancer in close and mid-close shots, exposure of her semi-nude breasts and bare midriffs, bare back, jerking midriffs and naval portion. Also delete words 'Yavvanam Madinchara' along with picturisation of indecorous movements of the dancer when sung for the first time (when the words are repeated for the second time there is no objection to picturisation - but the words should be deleted)",
+        "length_m": 141.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "In the climax fight, delete gruesome shots of Tiger hitting Raja with metal glove",
+        "length_m": 0.58
+      }
+    ]
+  },
+  {
+    "film_title": "Aa Nimisham",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "producer": "Cherupushpam Films (P) Ltd.",
+    "cert_no": "79557",
+    "endorsement": "U",
+    "original_length_m": 3599.7,
+    "final_length_m": 3608.23,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "N/A",
+        "description": "The applicant should establish that the child who committed the murder has been taken into police custody. Addition approved",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Sahodharara Savaal",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Ajanta Combines",
+    "cert_no": "79559",
+    "endorsement": "U",
+    "original_length_m": 4525.45,
+    "length_deleted_m": 15.24,
+    "final_length_m": 4524.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the picturisation of dance accompanying song beginning with the words 'Ninne raatri gudugu minchu', delete three shots showing nude statues in the beginning of the dance (Replaced hero playing drum shots and audience shot)",
+        "length_m": 0.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the picturisation of dance accompanying song beginning with the words 'Ninne raatri gudugu minchu', delete first appearance of the dancer's full figure in close-ups (Replaced hero playing drum shot)",
+        "length_m": 1.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the picturisation of dance accompanying song beginning with the words 'Ninne raatri gudugu minchu', delete dancer bending backwards (Replaced hero playing drum shot)",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the picturisation of dance accompanying song beginning with the words 'Ninne raatri gudugu minchu', delete close-up of dancer's bare midriffs (Replaced audience shot)",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the picturisation of dance accompanying song beginning with the words 'Ninne raatri gudugu minchu', delete close-up of nude statue in the background (Replaced audience shot)",
+        "length_m": 2.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the picturisation of dance accompanying song beginning with the words 'Ninne raatri gudugu minchu', delete all shots of dancer fully drenched in rain with a man holding her close to him, against the song lines 'Amele billina haage bagda kai oradu chachda magoona haaga etkonda mukada hatra muka tanda ayyo, ayyo, ayyo' (Replaced hero playing guitar)",
+        "length_m": 3.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Sekhar and Lakshmi kissing on each other's forehead (Replaced Lakshmi close-shots)",
+        "length_m": 1.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the suggestive kiss of Sekhar on Lakshmi (Replaced Sekhar jump shots)",
+        "length_m": 1.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Delete Kalu whipping Sekhar after Sekhar is wounded and lying down with bleeding hands",
+        "length_m": 0.95
+      }
+    ]
+  },
+  {
+    "film_title": "Maa Iddan Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Shri K. Ranjit Kumar",
+    "cert_no": "79560",
+    "endorsement": "U",
+    "original_length_m": 4385.0,
+    "length_deleted_m": 33.35,
+    "final_length_m": 4373.43,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the man drunken man in the hotel room giving money to the man who had brought a woman to him (Replaced Viswam close-up)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In the picturisation of the song, delete the entire appearance of the scantily clad cabaret dancer (Replaced by another cabaret dance approved)",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Geeta's gesture of suggestive rubbing of her bust on the words 'Kontc konungivadu' (Replaced Kotigadi close-up)",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete close-up of dancer's bare thighs and busts and also her similar shots in close-up subsequently (Replaced Brahmaji, Vishnumoorthy close-up)",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete dancer on the ground and rotating (Replaced Brahmaji, Maheswar Rao close-up)",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete dancer lifting her skirt in a drunken mood (Replaced Brahmaji, Vishnumoorthy close-ups)",
+        "length_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete close-up of dancer with her busts pressed in between Krishnan's body and other girls (Replaced long-shot of all)",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete close-up of dancer and other girls bending on the floor and the backward and forward movement (Replaced Brahmaji, Vishnumoorthi close-ups)",
+        "length_m": 1.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete close-up of dancer bending backward with front portion of her body facing the camera on the words 'Evarikce andalu' (Replaced Maheswara Rao, Vishnumorthy, Brahmaji close-ups)",
+        "length_m": 1.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the birthday dance accompanying song No. 4, delete shots showing men and women lying all over the floor",
+        "length_m": 4.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Krishnan's words 'Nakunna todella ec nisha okati'",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete Sathyan hitting a rowdy straight on the face and the rowdy hitting back at with an iron bar in the fighting in the printing press (Replaced machine shots)",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "In the fight in the scooter factory, delete the use of gas flame",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Khaidi Kalidas",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Y.L.N. Pictures",
+    "cert_no": "79564",
+    "endorsement": "U",
+    "original_length_m": 4570.56,
+    "length_deleted_m": 20.21,
+    "final_length_m": 4563.16,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the criminal aiming a gun at Raghu through jail window to shoot Raghu inside the cell",
+        "length_m": 2.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Delete the words bloody bastard uttered thrice by I.G. Viswanath (Sound only) (Replaced blaggard)",
+        "length_m": 7.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "In the dance at Blue Diamond club, delete all shots of the dancer revealing upper portion of her bare thighs - front angle - through her slit skirt (Replaced hero close-shot and audience)",
+        "length_m": 7.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the following words of Jagadeesh Chanda Prasad referring to children's body addressed to killer Masthan: 'Pillala sareeram najukkuga untundi hunter lo kotte vinodham Deedhi'. Reduce the whipping of children and the screaming to once only",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Pennpuli",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "producer": "Ross Movies",
+    "cert_no": "79565",
+    "endorsement": "U",
+    "original_length_m": 3497.89,
+    "length_deleted_m": 13.41,
+    "final_length_m": 3484.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete close-up of bust cleavage of a jungle girl",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Girija and her lover rolling on each other",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Manchini Penchall",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B & W",
+    "producer": "Jagajjananco Prodns",
+    "cert_no": "79566",
+    "endorsement": "U",
+    "original_length_m": 3898.06,
+    "length_deleted_m": 8.4,
+    "final_length_m": 3894.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the shot of Ravikumar and Kasturi passionately embracing and caressing each other (Replaced shots of Ravikumar and Kasturi in nuptial chamber)",
+        "length_m": 4.9
+      }
+    ]
+  },
+  {
+    "film_title": "16 Vayathiniley",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Sree Amman Creations",
+    "cert_no": "79567",
+    "endorsement": "U",
+    "original_length_m": 3879.8,
+    "length_deleted_m": 59.24,
+    "final_length_m": 3822.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the hand gesture of Parattayyan against the words 'Edu eppadi' when he is sitting with his friends",
+        "length_m": 0.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the doctor's dialogue 'Pavadaigne neya koodadu' uttered for the third time alongwith visuals showing Mayil lifting her skirt (for the third time)",
+        "length_m": 3.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the doctor's dialogue 'Adukku no kudukka vendiyadu socval' along with visuals of the doctor's lecherous look",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete 'Engago pudikkanumu angange pudichi thookanum'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the doctor seducing Mayil, retaining only: Doctor putting his hand on Mayil's waist first time - Mayil put on the pillow - Mayil tearing away biting the doctor and running away",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the following dialogue of Parattayan: 'Chappaniyai Mayllukku Mamanguraya - adu eppadi' along with visuals of his hand gesture",
+        "length_m": 3.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Drastically reduce the rape of Mayil, attempted by Parattayan, retaining only the following for continuity: Parattayan entering and putting Mayil on cot; Shots seen through the cot and Mayil screaming; struggle seen through overturned cot; Chappani entering - his being pushed down his getting up with blood smeared mouth - lifting a stone and subsequent shots",
+        "length_m": 30.54
+      }
+    ]
+  },
+  {
+    "film_title": "Adi Mapava",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Shri P. Ramachandra",
+    "cert_no": "79568",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the fight between Sundaram and the others by deleting all hard kicks, neck-locks and other cruel hits",
+        "length_m": 7.32,
+        "length_retained_m": 60.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Reduce the shot of Romu being hit by Nagaraju, and his minions, to once only",
+        "length_m": 13.72
+      },
+      {
+        "kind": "reduction",
+        "reel": "18",
+        "description": "Reduce the fight between Sundaram and Nagaraju in the moving car by deleting all gruesome hits, strangle-holds, neck-locks and stamping on the chest with the foot",
+        "length_m": 15.54,
+        "length_retained_m": 55.16
+      }
+    ]
+  }
+]

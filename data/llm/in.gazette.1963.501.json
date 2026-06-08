@@ -1,0 +1,870 @@
+[
+  {
+    "film_title": "Nartakee",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmbharati, Rooptara Studios, Main Rd. Dadar, Bombay-14",
+    "cert_no": "38410",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The entire scene beginning with the rolling of the bottle up to the time the drunkard is thrown out of the house by aunty, which suggests that he has stayed there over night",
+        "length_m": 28.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "The indecorous movements of the dancer in the Song No. 1, beginning with the words “Betaab nigahonse muzc dekhne waulo”",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "The gesture of Aunty on the line : \"Shatna roshan hai\" while referring to Lakshmi",
+        "length_m": 0.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red V",
+        "description": "Indecorous movements of the dancing girl in the Song No. 2, beginning with the words \"Ham tumse mohabbat kar baithc”",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "The shot of Lakshmi's bust in profile when she removes her shawl after coming into Nirmal’s house for the first time and discloses her wet saari",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Indecorous gesture of Azad while asking a girl to dance, Azad pushing the girl towards him by placing his hand on her hair, Azad pressing the girl close to his body",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "The entire sequence of gifts being brought by Banwarilal’s agent for Lakshmi and the sentence of the agent asking Aunty whether she will send Lakshmi to Banwarilal. The dialogue of Rampyari has been replaced by approved dialogue ‘Aur Dekh Bilaspur Ke Seth Banwarilalji Ke Yahan Aaj Mujra Hai Tujhe Wahan Jana Hoga)’ (Sound). The reference to Bimla’s suicide and the reason therefor viz. forcing her to visit customers (Sound). (The sentence “Main Bhi Bimla Ki Tarah Gala Ghont Loongi” has been replaced with the approved sentence “Main Bhi Bimla Ki Taraha Yahan Se Chali Jaungi” (Sound). Lakshmi's dialogue “Tub Char Aadmiyon Se Kahna Mujhe Uthakar Banwarilal Ke Pas Le Jayen” along with picturisation. Aunty’s line “Ham Pyar Ke Liye Paida Nahin Huye”",
+        "length_m": 14.02
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "In Lakshmi’s dialogue \"Ganga Ka Panl Peela Kyon Hai ?” (The word “Peela” substituted with the word “Paak”). The sentence “Isi Liye Ganga Jal Ko Paak Mana Jata Hai\" (Sound). The sentence “Mout Ki Tarah. ..Mout Bhi Thandi Hoti Hai” (completely deleted)",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "The indecorous movements in the dance on the boat accompanying the Song No. 7, beginning with the words \"Insaan Mohabbat Men Kuchh Kaam To Kar Jaye”",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII St XIV",
+        "description": "The word “Veshya” whenever in direct reference to Lakshmi substituted by appropriate words, The phrase “Ya Banc Rahpepar” at two places in Nirmal’s speech. (Sound)."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "The back view of Lakshmi with wet saari sticking to her body as she emerges from water and climbs towards Nirmal",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel iv",
+        "description": "Shouting and indiscipline in class room when Lakshmi runs out of the college",
+        "length_m": 1.22,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "The sentence said by Lakshmi in Reel 6 establishing that the professor likes her ‘art’ instead of ‘liking her’"
+      }
+    ]
+  },
+  {
+    "film_title": "Bargad Ki Aap Beeti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division, Govt. of India, 24-Peddar Road, Bombay-26",
+    "cert_no": "38442",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Near views of the dead body of the mother. Near views of the dead body of the woman floating in the river",
+        "length_m": 9.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To the minimum shots of a woman hanging herself, deleting the shot of her tying the rope around her neck",
+        "length_m": 7.31,
+        "length_retained_m": 7.31
+      }
+    ]
+  },
+  {
+    "film_title": "Dr. No.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 m.m.",
+    "producer": "20th Century-Fox Corp. (I) Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "1389",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I B",
+        "description": "Near-views of bare legs and thighs of the girl playing golf before Bond enters",
+        "length_m": 2.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III B",
+        "description": "Shots of Miss Taro’s exposed thighs before and after she telephones to Bond lying on bed. Also reduce the shots of Miss Taro and Bond kissing and embracing each other passionately, deleting the shot of their falling down on the bed suggestively",
+        "length_m": 10.11,
+        "length_retained_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V A",
+        "description": "Shots of Honey’s exposed breast while coming out of the decontamination bath before putting on her dressing gown",
+        "length_m": 2.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I A",
+        "description": "The shooting of the secretary, deleting near-views of her blood-stained blouse",
+        "length_m": 1.89,
+        "length_retained_m": 0.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV A",
+        "description": "To the minimum near-views of Honey in Bikini type white scanties. Also delete her indecorous posture while getting up when pulled by Bond",
+        "length_m": 20.51,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI B",
+        "description": "To the minimum the long-drawn cut and passionate kiss between Bond and Honey in the Boat",
+        "length_m": 1.67,
+        "length_retained_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Mulzim",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "N. A. Ansari. 12/A, Evergreen Bldg., 3rd Road, Khar, Bombay-52",
+    "cert_no": "38355",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "The dialogues between Sharma, Inspector and Major",
+        "length_m": 17.98
+      }
+    ]
+  },
+  {
+    "film_title": "Royal Mail",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Indo Africa Films Ltd., 5A, Naaz Bldg., Lamlngton Road, Bombay-4",
+    "cert_no": "38408",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Flying sequences",
+        "length_m": 82.6
+      }
+    ]
+  },
+  {
+    "film_title": "Pyar Ki Pyas",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "Cinema Scope",
+    "producer": "Anupam Chitra, Ranjit Studios, Bombay-14",
+    "cert_no": "32335",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Incorrect map of India",
+        "length_m": 93.88
+      }
+    ]
+  },
+  {
+    "film_title": "Nartakee",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmbharati, Rooptara Studios, Main Rd., Dadar, Bombay-14",
+    "cert_no": "38410",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Nirmal enters the classroom from verandah and meets Ratna and entire dialogue between them",
+        "length_m": 28.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Fair and temple scenes and Laxmi and Nirmal's meeting",
+        "length_m": 175.56
+      }
+    ]
+  },
+  {
+    "film_title": "Palatak",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Ganguly Film Productions, C/o Bengal Film Laboratories, 27, Chandi Ghosh Road, Calcutta-40",
+    "cert_no": "35673",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Actual drinking by Golap shown in shadowgraph",
+        "length_m": 12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Golap's dialogue: 'Amar buke hath buliyc dice paro?'",
+        "length_m": 3
+      }
+    ]
+  },
+  {
+    "film_title": "Anuraagam",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Anuroopa Pictures, No. 28, North Boag Road, Madras-17",
+    "cert_no": "35498",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 7 end and Reel 8 beginning",
+        "description": "Delete the class-room scene of students clapping and whistling, Han’s speech and Balraju’s exit",
+        "length_m": 9.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "When Rajamma and Chitti visit the Hostel, delete the students hiding, reactions and peeping"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the advocate advising that some effort may be made if there was a release letter from Janaki, and delete Mukundam taking Janaki’s thumb impression to a document when she is lying unconscious in hospital (Consequential reference in Reel 16 also to be deleted)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15 and 16",
+        "description": "In the Court Scene, delete reference to the jury and all dialogues giving false evidence in the case"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 5, 10 & 13",
+        "description": "Voluntary deletions",
+        "length_m": 98.44
+      }
+    ]
+  },
+  {
+    "film_title": "Ananda Jyothi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Hariharan Films, No. 1, 2nd St, Lake Area, Madras-34",
+    "cert_no": "35500",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Song 2 — Delete the following shots: (a) Near kissing (b) Close-up of Anand and Jyoti together (c) Anand lifting Jyoti turning back",
+        "length_m": 25.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "In Punyakoti’s house, delete (a) reference to son born to a dog and Manorama’s reply (b) Punyakoti referring to the boy looking on and Surya’s reply"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete Punyakoti's statement about Rs 2,000 being spent on flowers for women, with accompanying gesture and the Proprietor’s wife complaining about this"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Punyakoti's sentence about his having put on the Black dress and the Police following him"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "Reduce to a bare minimum, Anand and Jyoti trying to eat, while being handcuffed to each other and Delete the scenes of Punyakoti and Manorama intercut with this scene"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the scene of Anand and Jyoti trying to sleep while handcuffed to each other. (Approved portion retained)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Song 7 — Delete the following shots — (a) Close-up of Anand and Jyoti bending, lifting and swinging (b) Jyoti’s saree blowing off and her turning away (c) Anand pulling Jyoti to his lap and close-up following",
+        "length_m": 12.94
+      }
+    ]
+  },
+  {
+    "film_title": "Songs and Dances",
+    "languages": [
+      "Korean"
+    ],
+    "colour": "Colour",
+    "producer": "Acting Consul General Democratic People’s Republic of Korea, 3, Golf Links, New Delhi",
+    "cert_no": "38557",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The word 30 millions along with accompanying picturisation in the second song",
+        "length_m": 0.19
+      }
+    ]
+  },
+  {
+    "film_title": "King of Carnival",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Taurus Chitra, C/o Jyoti Studio, Kennedy Bridge, Bombay",
+    "cert_no": "38560",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From the Commentary, \"Ab Darasingh Zimbo ki hazamat kar raha hai\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The underlined words from the commentary : \"Raise Manchuriya kc champion ho\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel K",
+        "description": "The close-ups of shots where the wrestlers pick up their opponents by crutch",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The underlined words from the commentary : \"Ye Bengali pehlwan kya pehlwan hain\"",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The close-ups of excessive hand and leg twisting",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The close-ups of the agonising facial expression of Swedish Angel",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Flying Horse",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Viswakala Pictures, 56 Kharshed Mansion, Varsova Rd., Andheri, Bombay-58",
+    "cert_no": "38585",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Shot of Rupa’s angral (arching) while singing the line \"Meethi meethi tarpan\"",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the flash back sequence, the dialogue between the Maharaja and Chhoti Rani suggesting that Bahurani is illegitimate",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of the actual kidnapping of the child by the Maharaja’s men, retaining only a suggestion",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The opening shot of Rupkumar making vulgar gestures before the mirror while holding up a’dupatta’ and later while dancing with his hand on the waist. Also his dialogue along with his vulgar gestures addressed to the palace girl : \"Aankhen bahut bari bari, dil bahut chhota hai’",
+        "length_m": 14.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "The shot of Rupa’s angral (arching) at the beginning of the song dance “Raja, tera karan main ban gayee diwani”. Also near-views of her bust jerking and shots of her lying on the sofa during and towards the end of the song",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The dialogue between Chhoti Rani and Mahamantri suggesting that Rupa would yield to him as the price for his curing Rupa of madness",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Heora’s indecorous movements during the dance “Dil mera dole ”",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The dialogue between Chhoti Rani and Mahamantri referring to their being unfaithful to their respective spouses",
+        "length_m": 6.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "In the Qawali sequence, near-views of Rupa’s indecorous movements when she approaches the Mahamantri, shots of bust jerking by the women singers and near-views of two girls standing in which their busts are prominently emphasised",
+        "length_m": 5.47
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Jessica”",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M. G Road, Bombay-1",
+    "cert_no": "38586",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel l",
+        "description": "The close-up of back-view of Jessica riding on scooter",
+        "length_m": 2.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel l",
+        "description": "From Jessica's dialogue, the following dialogue : “I was not aware my body was that useful. But that you point it out I’ll just see how useful my body can be.”",
+        "length_m": 4.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel l",
+        "description": "From the dialogue between Father Antomo and Jessica, her remark : “No married man has touched me”",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel l",
+        "description": "From the commentary, the following suggestive references to Jessica as 'desirable, delectable, delicious and luscious '",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel l",
+        "description": "Shot of Jessica swimming in which parts of her bare body are prominently seen",
+        "length_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Phaedra\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M.G. Rd., Bombay-1",
+    "cert_no": "38587",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel /",
+        "description": "Shots of love-making between Alexis and Phaedra in which their bare bodies are seen",
+        "length_m": 4.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel /",
+        "description": "Shot of Ercy in scanties after she takes off her gown",
+        "length_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "Glimpses of Indian Cinema",
+    "languages": [
+      "English"
+    ],
+    "producer": "B D. Garga, 55, Mount Pleasant Rd., Bombay-6",
+    "cert_no": "38346",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel /",
+        "description": "Prologue",
+        "length_m": 6.23
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel /",
+        "description": "Monogram of Films Division and words “RELEASED THROUGH FILMS DIVISION”",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Ujjval Bhavisha Ki Aur",
+    "languages": [
+      "Hindi",
+      "Marathi"
+    ],
+    "producer": "Films Officer, Directorate of Publicity, Govt. of Maharashtra",
+    "cert_no": "34586",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 7",
+        "description": "Monogram of Films Division and words “RELEASED THROUGH FILMS DIVISION”",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Soorat Aur Seerat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shobhana Pictures, 10th Road, Chembur, Bombay-71",
+    "cert_no": "36631",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of a map. Army passing in the War scene. Shyam in the class-room. Prayer in the Church",
+        "length_m": 62.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Boys running out from the school. Children playing. Shyam near Panwala shop. Mutton chopping in mutton shop. Demonstration scene, demonstrators slogans for freedom. Shot of gun. Demonstrators running far. Soldier running, hunting. Horses running after the demonstrators. Boy weeping. Shadow of soldiers. Wounded man lying on the ground",
+        "length_m": 110.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shyam in the home tuition room with the boys",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Paro setting clothes in the room",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Paro going far away",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shyam dictating articles to Paro. Paro and Shanta coming with Shyam",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Paro, Shyam and Shanta in kitchen. Paro offers sweets to Shyam"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The song beginning with the words : \"Prom Lagan Man Main Basa Le \"",
+        "length_m": 146.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The song beginning with the words : \"Geet Mera Sulayo Jagaye Tujhe \"",
+        "length_m": 113.39
+      }
+    ]
+  },
+  {
+    "film_title": "Hashi Sudhu Hashi Noy",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Indrani Productions, 58, Lake Place, Calcutta-29",
+    "cert_no": "35679",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Sentence “Apni to janen na kata balyabidhaba kata udbasthu nari aapnar ek kana karuna labher akangkshay diner par din rater par rat gunche” by Miss Sen in course of her conversation with Buddhiman Samanta",
+        "length_m": 4
+      }
+    ]
+  },
+  {
+    "film_title": "Yarukku Sontham",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "The Modern Theatres Ltd., Extension, Salem-7",
+    "cert_no": "37802",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 2",
+        "description": "Delete grown-up Murali and Marakatam embracing each other",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Ramu fitting shoes for a lady, brushing her leg and reacting"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Song 1— In the picturisation, delete the following shots: (a) Mallika snatching the book — pushing and teasing (b) Mallika and Murali catching and circling (twice)",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Delete all dialogues of Manju and Murali about weight-matching, and reduce the see-sawing to Murali failing down only"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "Delete Murali (a) embracing Manju in the park (b) asking Manju how many children she would have and her answer (c) falling on her and embracing her at the end of the scene",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6",
+        "description": "Song 3— Delete the following shots: (() One woman with legs apart jerking her hips, (after II and before III repetition of pallavi). (ii) Line of women swaying hips, (at end of III verse, before pallavi)",
+        "length_m": 4.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8",
+        "description": "Reduce the scene of Kamini mistaking Ramu for her friend, deleting all dialogues about ways of making acquaintance with a lover"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete Gupta embracing Kamini (after Karunakar offers drinks)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Delete Gupta under the swing biting Kamini’s finger",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Marakatam being thrown down by Murali — where her clothes are disarranged"
+      }
+    ]
+  },
+  {
+    "film_title": "West Side Story",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "20th Century-Fox Corp (India) Private Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "1391",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From song beginning with the words: “When you are a Jet .... *' the line “Because every' Puerto Rican Is a lousy chicken.\" sung by Jets",
+        "length_m": 1.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In the club-dance sequence, (i) shot of one of the Jet girls dancing in orange dress being lifted by her partner with her skirt going up revealing her bare thighs (ii) Shot of a dancing couple necking and swinging together indecorously (iii) Near-view of a girl lifting her legs revealing her bare thighs",
+        "length_m": 7.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot of one of the Shark couples looked up in close embrace. From wordings of song beginning with the words : “Puerto Rico, my heart's devotion ” the line \"If you are a white m America",
+        "length_m": 5.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From wording of song beginning with the words 1 \"Goodnight, goodnight, sleep well ’’ the line \"They didn’t wanna have me, but somehow I was had\". Sung by Riff. In the drug store, shot of Riff stroking a girls bottom before she leaves",
+        "length_m": 2.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "From Anita’s dialogue addressed to Maria, the underlined words from the following • Too much feeling And they do get rid of it Boy, after a fight that brother of yours is so healthy I Definitely, black orchi",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots of Anita undressing and preparing herself for the evening",
+        "length_m": 5.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "In the bed-room scene between Maria and Tony, the earlier shots in which she is seen lying over him. In the song beginning with the words \"A boy like that, who’d kill your brother ’’ the lines \"A boy like that wants one thing only\" \"And when he’s done he’ll leave you lonely\"",
+        "length_m": 12.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From the song “Make of Our Elands One Hand ” the line “Anita’s goona get her kicks, tonight \"",
+        "length_m": 3.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV Sc AT",
+        "description": "The fight, deleting near-views of flashing of knives",
+        "length_m": 9.38,
+        "length_retained_m": 10.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIX",
+        "description": "Considerably the scene in which Anita is molested by the Jets ; deleting shots of her skirt being pulled off and her being thrown on the floor and a boy being lifted up for the purpose of making him kiss her forcibly",
+        "length_m": 19.65,
+        "length_retained_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "The Private Lives of Adam and Eve",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Private Ltd., Metro House, M.Q. Road, Bombay-1",
+    "cert_no": "1392",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel JF",
+        "description": "The dialogue “You just give me anything you’d like. You’ll find me very receptive’’ said by Lilith to Adam",
+        "length_m": 2.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Near-views of Eve swimming in water in which her bare breasts are faintly visible",
+        "length_m": 3.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From the scene of Lilith bathing under shower, shots of her clinging to Adam, as also near-views of her bust seen considerably revealed. Shots of Adam lying with his head in Lilith’s lap and drinking the grape-broth as it drips in his mouth from above",
+        "length_m": 53.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Near-views of Adam and Eve sitting together in which her bust is seen considerably revealed. Shots of Adam and Eve kissing and embracing lying together. Shots of Lilith clinging to Adam sitting on bed and springing up and down suggestively and falling together in embrace. Shots of Eve seen with her bust revealed partially. Shots of Eve seen with her bust revealed considerably while looking into a mirror improvised from a sauce pan. Shots of Adam lying on bed with his head in Lilith’s lap saying “It is nice of you to give me all these trade secrets about beds.”",
+        "length_m": 60.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The dialogue \"Oh, oh, yesl A bed for Eve. Well, it’s. It’s simply a matter of interlocking sheaths\", said suggestively by Lilith to Adam",
+        "length_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "To a flash shots of Adam and Eve kissing and embracing while lying together on waterfront",
+        "length_m": 16.52,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "To a flash shots of Adam and Eve caressing, kissing and cuddling in the cave",
+        "length_m": 11.58,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To a flash shots of Eve lying on her stomach in torrential rain and Adam taking her into his arms, deleting shots in which the patting of the bust is prominently seen",
+        "length_m": 16.98,
+        "length_retained_m": 3.04
+      }
+    ]
+  }
+]

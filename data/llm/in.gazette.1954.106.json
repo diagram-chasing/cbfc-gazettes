@@ -1,0 +1,188 @@
+[
+  {
+    "film_title": "Hondo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Warner Bros., Pictures Inc., U.S.A.",
+    "cert_no": "10612",
+    "cert_date": "29-3-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Rioting of Hondo's face by Silva and dagger being pulled out of former's body by Vittoro",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the dead dog",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Teen Mulan",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Rajubahadur Motilal Mansion, 43, Tamrind Lane, Bombay-1.",
+    "cert_no": "10013",
+    "cert_date": "29-3-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XL",
+        "description": "The scene showing suggestion of rape",
+        "length_m": 6.096
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI & XII",
+        "description": "To kill each of the two shots showing Manga holding Madhuri lifted in arms",
+        "length_m": 27.432,
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Gulnar",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Shahnoor Films Ltd., Lahore, Pakistan",
+    "cert_no": "10014",
+    "cert_date": "29-3-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The words 'Kahaal Bhadwa Haraamka' spoken by the old man in the house of the Nawab",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The words 'Uske jeevan ki khushbuyen tumhen makhmor bana den' and 'Tum ek khoobsurat ke patthar dil ko' spoken by Payyar and Amod",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII L",
+        "description": "The skeleton",
+        "length_m": 1.15824
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The author considerably from the scenes in which he appears, keeping him to the minimum for the sake of continuity",
+        "length_m": 9.144,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1294",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietone News Ltd., U.K.",
+    "cert_no": "10624",
+    "cert_date": "31-3-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The African female dancers with bare breasts from the item 'Konya— Agricultural show'",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "How To Marry A Millionaire",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Film Corp., U.S.A.",
+    "cert_no": "10631",
+    "cert_date": "2-4-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII or IX",
+        "description": "The word 'Jigolo' from the film",
+        "length_m": 1.7018
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "To the thin lining of Pola in red, scanty areas appearing in the fashion-show parade, keeping only a flash in long shot",
+        "length_m": 11.5824,
+        "length_retained_m": 2.01168
+      }
+    ]
+  },
+  {
+    "film_title": "Sheeshe Ki Diwar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Manmohan Sabir, 134, Famous Cine Bldg., Bombay-11",
+    "cert_no": "302",
+    "cert_date": "20-3-54",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogue spoken by Hasimi the murderer: 'Chaku ka var karo to gohra, bus ek hi var men kam tamam ho jana chahiye, pichhli dafa yahi chuk mujh ho ho gai. Tha jawan ladka hi, ek pal ke liye mujhe uski jawani par raham aa gaya. Var aoheha pada M.' By the same person 'Mujhe to pahli baar kul chaudah rupaye baran aane mile.'",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The word 'Harjaal' from song No. 3",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Devi he Canyon & Trailer",
+    "languages": [
+      "English"
+    ],
+    "producer": "RKO Radio Pictures Inc., U.S.A.",
+    "cert_no": "",
+    "cert_date": "30-3-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Dialogue between Rai Sahib, Ramesh and Asha, Jeevan and Rajesahib, Asha and Jeevan",
+        "length_m": 19.812
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Song line 'Bagh-e-jahan.... Barbad kiya'",
+        "length_m": 23.1648
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Song line 'Ruki dhadkan pe ga uinar bbar muskara'",
+        "length_m": 9.144
+      }
+    ]
+  }
+]

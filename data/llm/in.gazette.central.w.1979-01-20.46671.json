@@ -1,0 +1,815 @@
+[
+  {
+    "film_title": "Return of The Tall Blond Man",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "cert_no": "B / 78706",
+    "endorsement": "U",
+    "original_length_m": 2556.0,
+    "final_length_m": 2513.5,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "reduce the mock fights to tone down the tension, deleting hard hitting shots, machine gun firings, blood (fake) oozing from the mouth, brick throwing and blood coming from the wound",
+        "length_m": 19.32,
+        "length_retained_m": 22.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "reduce the view of the policeman being kicked in the middle by the Blond Man and his running about holding the middle portion of his body",
+        "length_m": 3.81,
+        "length_retained_m": 0.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "reduce the bed scene showing François and Maurice's wife in bed and also reduce her search for earrings under the bedcover",
+        "length_m": 14.63,
+        "length_retained_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "delete close view of the dress parted at back revealing bare back of the lady",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Gomti Ni Sakhe",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "B /84803",
+    "endorsement": "U",
+    "original_length_m": 4035.0,
+    "final_length_m": 4030.0,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replace Roomal's double meaning dialogues 'Kachi kunwari...pakikunwari...'",
+        "length_m": 5.0,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel Vll",
+        "description": "Replace Roomal's double meaning dialogue when he prepares for yatra 'ubhothaiche naikai...'",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Nari Tun Narayani",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "B /84769",
+    "endorsement": "U",
+    "original_length_m": 4082.79,
+    "final_length_m": 4071.82,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduce the Suhaag raat scene of Arun and Usha, by deleting the prolonged instructions to Arun by Usha pertaining to physical proximity between them while copying the statue of a couple in that pose",
+        "length_m": 10.97,
+        "length_retained_m": 84.74
+      }
+    ]
+  },
+  {
+    "film_title": "Parmatma",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "B /81049",
+    "endorsement": "U",
+    "original_length_m": 3829.53,
+    "final_length_m": 3795.88,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel- V",
+        "description": "Delete Lily's dialogue 'Gupt Gyan Ka Doosra path main sikhati hoon' when she pulls Anand inside the room",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel- XI",
+        "description": "Delete the underlined word from Anthony's dialogue addressed to Hotel receptionist 'Chabhi lugaa lo...'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel- XIV",
+        "description": "Delete the words and visuals pertaining to song lines 'Mein hun aisi sharab, chadh ke na utare janub' and 'Meri bujaha do agan', also remove some other vulgar dance gestures",
+        "length_m": 10.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel- XIV",
+        "description": "Reduce considerably the fight between two women in the drinking den",
+        "length_m": 21.9,
+        "length_retained_m": 19.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Quiet Revolution",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added: Films Division monogram",
+        "length_m": 1.78
+      }
+    ]
+  },
+  {
+    "film_title": "Dost Asava Tar Aga",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 4488.18,
+    "final_length_m": 4475.68,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels XII & XVI",
+        "description": "Deleted various shots",
+        "length_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Praver",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 182.88,
+    "final_length_m": 209.39,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added: Various shots",
+        "length_m": 26.51
+      }
+    ]
+  },
+  {
+    "film_title": "Shankar Dada",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 3927.65,
+    "final_length_m": 3942.43,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Shashi jumps from top on Shetty",
+        "length_m": 7.32
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Fight sequence of Shashi Kapoor, Rupesh Kumar and others",
+        "length_m": 7.46
+      }
+    ]
+  },
+  {
+    "film_title": "Pavitra Bandhan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 239.27,
+    "final_length_m": 231.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted shots from the interview sequence of the would-be bridegrooms in marriage market in the beginning",
+        "length_m": 8.23
+      }
+    ]
+  },
+  {
+    "film_title": "Do Musafir",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 4435.77,
+    "final_length_m": 4269.36,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. VIII, IX, XII, XIII, XIV, XVI & XVII",
+        "description": "Deleted various shots",
+        "length_m": 166.41
+      }
+    ]
+  },
+  {
+    "film_title": "Sunghursh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 4852.12,
+    "final_length_m": 4580.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. II, III, IX, X, XVII, XVIII, XIX & XXI",
+        "description": "Deleted various shots",
+        "length_m": 271.59
+      }
+    ]
+  },
+  {
+    "film_title": "Maro Charithra",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "endorsement": "U",
+    "original_length_m": 4648.51,
+    "final_length_m": 4648.51,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the shot of Swapna's blouseless back seen through the binoculars",
+        "length_m": 3.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete close up of the nude paintings in the book shown to Swapna (Retained last portion of shot where the face of Swapna is prominent and breasts scan only at the bottom of frame without prominence) for continuity",
+        "length_m": 3.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete close up of the scantily clad woman on the calendar",
+        "length_m": 0.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the words of Para 'Nenu Ennigarlaina Ready'",
+        "length_m": 5.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the words Mundhu Venaka Peddha peddha Unte sallanna Matla of Pupa (Sound replaced Mukku Mukam)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduce the scene in the bathroom, retaining only a suggestion of undressing, only the girls head under the shower and her legs upto the knees only seen through the binoculars (Retained only shots of Swapna removing sari and only her face under the shower and upto knees only through binocular)",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the shots of Swapana bathing, in the flush-back (Retained only shots of Swapna's shoulder under shower)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 16",
+        "description": "Delete the shot of a man on top of the girl, raping her. (Replaced long shot of Swapna on the floor)",
+        "length_m": 3.85
+      }
+    ]
+  },
+  {
+    "film_title": "Thiripurasundari",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "endorsement": "U",
+    "original_length_m": 3497.56,
+    "final_length_m": 3497.56,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "Delete the words 'Kunniaticnai vittu vaikalama' in the song (Sound only Replaced Kannipennui Thalli Vaikalumu in 5 places)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete all the visuals in the rape Scene after Raj grabs Sundari's blouse (shots of Sundari alone allowed)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the flash back of the rape scene (Retention of two shots from the original scene allowed)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 14",
+        "description": "Delete the words Aadaikalaivirithu in the song (Sound only replaced Aadavarkal Ninaithu)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Ithu Oru Manushyan",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 3730.76,
+    "final_length_m": 3730.76,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "In the group dance, delete Ammini jumping and exposing her bare thighs and also revealing her undergarment. (Replaced with close-up of Bhadrakali)",
+        "length_m": 0.65
+      }
+    ]
+  },
+  {
+    "film_title": "Mahadeva Cha Nandi",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 3222.65,
+    "final_length_m": 3219.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the dialogue 'Kuthalyahi baichya chalipatur hat pahuchatoya'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the dialogue 'Chava ghenar mba nato' and 'Mazi kayu chava ghetoya'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the double meaning dialogue involving 'Chava' of Rakhama",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Story of a Communist",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 1751.0,
+    "final_length_m": 1747.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the reference to American refusing to sell steel to Russia in the 2nd World War",
+        "length_m": 3.5
+      }
+    ]
+  },
+  {
+    "film_title": "Phandcbaaz",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 4178.5,
+    "final_length_m": 4160.83,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "From the visuals of the song beginning with the words 'Tera dimag aurmera shabab...', delete shots showing Dewan frequently kissing Toni, retaining only one such innocuous shot",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined words spoken by Rajkumar to Rana relating to Toni: 'Tujhe itna itna pyar karunga jo tum thak jaogi'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined words spoken by Dewan: 'Ek raat hamare sath thi to abtak uthi nahi, shaadi ke baad pata nahin kab uthegi'",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Hustle",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "endorsement": "A",
+    "original_length_m": 3190.55,
+    "final_length_m": 3183.93,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II A",
+        "description": "Reference to Tito in the dialogue of Nicole",
+        "length_m": 3.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II B",
+        "description": "Reference to suspected Arab terrorist and Arabs",
+        "length_m": 1.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI A",
+        "description": "From the conversation of Lac 'After all, I'm a parent myself, you know. My daughter and I enjoy.'",
+        "length_m": 2.0,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Pottelu Punnamma",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 4468.06,
+    "final_length_m": 4468.06,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Delete the word Chittigari used by Haribabu (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Delete the words Andhuko ettadu used by Giribabu (Sound Anthuke only retained)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Delete the shot of Vijay pressing his face on Punnam's bust, near the word 'Avi Andichinappudo oppukunthi' in the song (Replaced with long shot of Hero & Heroine)",
+        "length_m": 2.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Delete the word Aa wherever it precedes Daham, and the words Chikati Padani Theerushthanu nee daham in the song. (Replaced with word Naa approved, Teeyani Maatalo Toorustanu Replaced approved)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Delete the words from Kaka pudutundi to Jadavaku and Talani Nerpista neo Aataku in the song. (Replaced with approved words viz. Aasaperu gutundi Glass glassuku andhistu nenunta Noorellaku)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Delete the following visuals from the picturisation of the song: Dancer standing on top of stairs with her thighs held open vulgarly. (Replaced with mid shot of dancer above hips)",
+        "length_m": 0.87
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer jerking her bust while lying on the lap of Vijay. (Replaced with close-up of dancer's face)",
+        "length_m": 1.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer holding the whiskey bottle between her thighs and pouring from it. (Replaced with dancer holding whiskey bottle in hand)",
+        "length_m": 4.2
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer astride Vijay. (Replaced with close up of Vijay)",
+        "length_m": 2.46
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer's skirt lifting up indecently, revealing her upper thighs. (Replaced with close-up of dancer's face)",
+        "length_m": 1.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer exposing her thighs indecently while standing near Vijay. (Replaced with close up of dancer's face)",
+        "length_m": 4.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer's indecent movements in the foreground of the opposite shot when she is wearing slip skirt. (Replaced with mid-shot of dancer)",
+        "length_m": 2.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Dancer and Vijay moving their hips together. (Replaced with close up of dancer face)",
+        "length_m": 2.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Dancer and Vijay moving together while kneeling on the bed. (No replacement)",
+        "length_m": 7.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "The Camera diaphragm gradually closing on them. (No replacement)",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the shot of the dancer exposing her thighs indecently while sitting on the chair",
+        "length_m": 4.09
+      }
+    ]
+  },
+  {
+    "film_title": "Swargasoema",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "endorsement": "U",
+    "original_length_m": 3978.24,
+    "final_length_m": 3978.24,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Delete the following visuals from the picturisation of the song: All shots of Ramesh kissing Jayanthi (Replaced Freeze shot of Ramesh & Jayanthi closeup)",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Her vulgar hip movements towards him, ending with embrace. (Replaced freeze shot of Ramesh and Jayanthi holding hands above heads)",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Ramesh lying on Jayanthi's back. (Replaced freeze shot of Jayanthi sitting on ground and Ramesh holding her)",
+        "length_m": 2.59
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Ramesh and Jayanthi lying back to back and the camera swinging to their movement. (Freeze of Ramesh and Jayanthi sitting apart on ground)",
+        "length_m": 5.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "The close shot of her buttocks and her vulgar embrace of Ramesh. (Freeze shots of Ramesh on bed alone and 2 shots of Ramesh & Jayanthi standing close)",
+        "length_m": 2.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Ramesh caressing Jayanthi's back and kissing it, while lying on the bed. (Replaced Freeze of Jayanthi on bed and Ramesh having arm round her back)",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Mugguru Muggure",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 4469.9,
+    "final_length_m": 4469.9,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "From the text of song No. I beginning with the Word Ethu pye ethu delete the following words: ethu pye ethu (ii) Ethkapothe Unnavethuku Potha (Replaced Ethu pye ethu - 2 times)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "In the dance in the club, delete the following visuals of the dancer: Exposure of bare bust and jerks of the dancer in the beginning of the dance. Indecorous movements of the dancer on the table--intercut thrice. Exposure of bare bust and bust jerks of the dancer towards the end of the dance. Display of bare legs of girls.",
+        "length_m": 4.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "From song 2 beginning with the words Rangoon Roika, delete the following words: Naluppu, Naluppu, Naluppu... (ii) Nalupakuntene (Replaced words Telupukadu Nalupu) Deleted (ii) and (iii) No replacements.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "in the picturisation of the above song, delete the following visuals: shots showing the exposure of bare bust, bust jerks, hip jerks and vulgar vestures and movements of the main dancer (Alam) in the quwali song. Delete also her fists and legs forward thrust. (Replaced with hero & Heroine & Ganguyya's close-shots in 4 places)",
+        "length_m": 9.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce to a suggestion, snakes being lowered Vijay, from a platform. (Retained 2.44 mts)",
+        "length_m": 0.0,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "From song 3 beginning with the words Appachi Kavali ammadu delete (i) Appuchi Kavali (wherever it occurs and accompanying visuals of Vijay with his cupped hands for the first time.) (Replaced Abbayi vachadu 4 times). (Replaced insert of yondis)",
+        "length_m": 1.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Delete the entire text of song 4 - 'Vulu Vulu I layo' along with the accompanying picturisation where a scanty clad girl feeds the villain with scotch whiskey in a feeding bottle and swings him to sleep in a hammock. Replaced with approved song text and repicturised dance",
+        "length_m": 118.26
+      }
+    ]
+  },
+  {
+    "film_title": "Kaidpidithaval",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "endorsement": "U",
+    "original_length_m": 3553.77,
+    "final_length_m": 3557.93,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete close up of bare bosom of a girl while she jumps at the birthday party",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the close up of bare bosom of a girl while drawing water from a well",
+        "length_m": 1.24
+      }
+    ]
+  },
+  {
+    "film_title": "Mera Rakshak",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "endorsement": "U",
+    "original_length_m": 4553.41,
+    "final_length_m": 4553.41,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the following visuals from the picturisation of the song: The shot where the dancer's skirt is completely lifted on top on the stairs. (Replaced by full length shot of dancer walking downstairs)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Her indecent movements when standing behind the sofa in which Vijay is sitting. (Replaced close up of Dancer's face)",
+        "length_m": 4.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Her bust jerks on his lap. (Replaced close up of dancer's face)",
+        "length_m": 1.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Her indecent bust movement near the table. (Replaced mid shot of dancer near table)",
+        "length_m": 5.16
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Her hip movements while pouring drink. (Replaced close up of dancer pouring drink)",
+        "length_m": 1.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Her hip movement while kneeling on the bed in front of Vijay. (Replaced close-up of dancer lying on bed)",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Her writing on the bed near Vijay",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "The diaphragm closing slowly on them",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shot of the dancer exposing her thighs indecently while sitting on the chair",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Kariyani Kattandi Kandant",
+    "languages": [
+      "Tulu"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "original_length_m": 4553.52,
+    "final_length_m": 4553.52,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the words 'Pirundu Daari Edile undu thoonga thinka pandutha an pundu' spoken by Dagga directed at Sitir. (Both sound and picture deleted - no replacement)",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words 'Avulu thoole onji gendalihonda barondu undu' spoken by Duggul directed at Sita. (Both sound and picture deleted - no replacement)",
+        "length_m": 2.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce the molestation of Sita by Diwakar",
+        "length_m": 12.93
+      }
+    ]
+  }
+]

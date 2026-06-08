@@ -1,0 +1,1038 @@
+[
+  {
+    "film_title": "Iran",
+    "languages": [
+      "English"
+    ],
+    "producer": "Ministry of Culture and Fine Arts, Iran",
+    "cert_no": "45524",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete underlined words from the commentary: 'Iran joined CENTO against aggression.'",
+        "length_m": 0.12
+      }
+    ]
+  },
+  {
+    "film_title": "Operation Crossbow",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "45526",
+    "endorsement": "U",
+    "original_length_m": 3227.83,
+    "length_deleted_m": 0.8,
+    "final_length_m": 3227.03,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IX(5A)",
+        "description": "Reduce to the minimum the horrified look on Nora’s face on seeing the pistol aimed at her by Frieda.",
+        "length_m": 0.19,
+        "length_retained_m": 0.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel A//(6B>",
+        "description": "Reduce the shot of Nazi soldier holding a gun with his hand bleeding profusely before he is killed by Curtis.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Black Tulip",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Educational Films of India, Division of Film Library Pvt. Ltd., Kitab Mahal, 190-D. N. Road, Borabay-1 .",
+    "cert_no": "45541",
+    "endorsement": "U",
+    "original_length_m": 3043.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete dialogue between Guillaume and Catherine concerning pleasure, privilege, and time, and Catherine's response about being a mistress and respecting him, and Guillaume's desire and honouring her with favours.",
+        "length_m": 30.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete underlined words from dialogue between Julian and Guillaume concerning obligation, fruits of labour, love, and William being a libertine.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "From Russia With Love",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1591",
+    "endorsement": "A",
+    "original_length_m": 3023.0,
+    "length_deleted_m": 12.57,
+    "final_length_m": 3010.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV- A",
+        "description": "Delete shots of the photograph of Gagarin (Astronaut) seen in the Consulate when Bond arrives to get a visa.",
+        "length_m": 6.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-B",
+        "description": "Delete Russian markings on the door when Bond enters the room where the Lektor machine is kept.",
+        "length_m": 4.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-B",
+        "description": "Delete shot of Russia Consulate name plate.",
+        "length_m": 1.61
+      }
+    ]
+  },
+  {
+    "film_title": "Raaka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "original_length_m": 3947.16,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels II, IV, V, VIII , I(X, XII, XV and XVI",
+        "description": "Delete all shots of female characters in low cut blouse or cholis in which their exposed bust is prominently visible.",
+        "length_m": 42.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "In the song-dance sequence: 'Dil ke bedabiyan...', delete shots of indecorous movements and gestures of Badali and shots of her shaking her bust while lying down. Also shots of her emphasised bust.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From the song dance sequence 'Hai Ghazab Ho Gaya' delete all shots of Kajri in low-neck-line blouse in which her bare bust is seen to be emphasised and all shots of her indecorous movements, bust jerking and hip swinging.",
+        "length_m": 60.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete shots of Kajari’s bust in which the flesh-coloured top half of her choli gives the impression of nudity.",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete shots of Chakori lying down and shaking her bust when Chand wants her to pretend that she is unconscious.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete shots of Kajari and Badali in low-neck-line blouses in which their breasts are seen to be emphasised.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "In the picturisation of quwwali sequence, delete all shots of the female singer in Hn indecorous choli in which bust is seen to be prominently exposed and emphasised. Also shots of vulgar gestures of men.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Delete shots of direct thrusts by Raaka in the stomach of Barchha.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "In the song-dance 'Hum bhi naye tum bhi naye', delete shots of female dancers with low-neck-line blouse, their bust-shaking, couples rolling on the floor, one girl's face on another's bust, and two girls moving in a sitting posture with bare legs visible.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X VI",
+        "description": "Delete all shots of Kajari in a low cut choli while struggling with Fatal in which the parting of her bust is visible.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the scream of a girl after the stabbing of a man by a Sardar.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Reduce shots of Raaka being tortured in the cell.",
+        "length_m": 3.05,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the fight between Raaka and the two wrestlers, deleting the shots of one of them hitting him in the stomach and of Raaka throttling a wrestler to death by a chain.",
+        "length_m": 6.4,
+        "length_retained_m": 8.84
+      }
+    ]
+  },
+  {
+    "film_title": "Fauladi Mukka",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "45568",
+    "endorsement": "U",
+    "original_length_m": 89.91,
+    "final_length_m": 86.26,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From qawwali sequence, delete reference to Ram, Lakshman and Sita.",
+        "length_m": 3.65
+      }
+    ]
+  },
+  {
+    "film_title": "Faraar",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 3997.73,
+    "final_length_m": 3981.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete all shots of the cabaret dancer wearing indecorous costume with a low skirt in which she appears to be semi-nude as also shots of her bust-jerking, hip wiggling and of pushing her posterior backwards.",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Hong Kong",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "36241",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete duet song between Bakshi and Rita beginning with the words 'Chhod chhod chhod sainya jaa.'",
+        "length_m": 57.13
+      }
+    ]
+  },
+  {
+    "film_title": "The Quick Gun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "cert_no": "45597",
+    "endorsement": "U",
+    "original_length_m": 2441.14,
+    "length_deleted_m": 16.92,
+    "final_length_m": 2424.22,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From the scene of fight between Clint and Rick in the warehouse, delete vicious blows and the near view of Clint’s hand covered with blood.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the panning shot of dead bodies on the ground.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the fight in the saloon between Clint, Tom and Rick, particularly deleting the vicious blows.",
+        "length_m": 4.88,
+        "length_retained_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the scene of Spangler and his men manhandling Helen.",
+        "length_m": 5.49,
+        "length_retained_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Wheel of Fire",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45598",
+    "endorsement": "U",
+    "original_length_m": 58.0,
+    "length_deleted_m": 17.83,
+    "final_length_m": 40.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete all shots and titles up to the beginning of the first title 'On the wheel of Fire' from the trailer.",
+        "length_m": 9.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of a man on fire falling from the window and the view of his burnt body and hand.",
+        "length_m": 3.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the close up of the scarred face of Vance.",
+        "length_m": 3.98
+      }
+    ]
+  },
+  {
+    "film_title": "Young Cassidy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45599",
+    "endorsement": "U",
+    "original_length_m": 2765.0,
+    "length_deleted_m": 41.14,
+    "final_length_m": 2723.86,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII (4B)",
+        "description": "Reduce indecorous views of Mrs. Bailynoy and the shot of Mrs. Bailynoy and Johnny lying together.",
+        "length_m": 3.56,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "Delete dialogue of Mrs. Bailynoy: 'I was sleeping in my skin and'.",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "Delete dialogue: Mrs. Bailynoy - It is pathetic when we’re alone together and he you ....... .know Johnny - l know Mrs. Bailynoy - Once when he was — you know Johnny - No Mrs. Bailynoy—\" Well, I Jerked him clean outa tha'bod on to the floor th’bum shook th’ house.\"",
+        "length_m": 7.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II(1B)",
+        "description": "Considerably reduce the fight between the police and the crowd.",
+        "length_m": 13.81,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II(1B)",
+        "description": "Reduce the passionate kissing between Johnny and Daisy and delete shots where her bust is revealed prominently.",
+        "length_m": 13.06,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Young Cassidy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45600",
+    "endorsement": "U",
+    "original_length_m": 98.45,
+    "final_length_m": 96.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of John Cassidy and Daisy kissing.",
+        "length_m": 1.95
+      }
+    ]
+  },
+  {
+    "film_title": "The Rounders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "45601",
+    "endorsement": "U",
+    "original_length_m": 2373.78,
+    "length_deleted_m": 16.99,
+    "final_length_m": 2356.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III (2 A )",
+        "description": "Delete shot of a girl undressing and her bare back.",
+        "length_m": 3.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (5A)",
+        "description": "Delete the scene of Ben and Howdy & Mary and her sister bathing in the nude and resume when Howdy espies the car of the Game Warden.",
+        "length_m": 9.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (5A)",
+        "description": "From the scene of the parade of musicians in the street, delete near views in which Ben and Howdy hold their hats behind Mary and her sister, covering up their posteriors.",
+        "length_m": 3.24
+      }
+    ]
+  },
+  {
+    "film_title": "The Rounders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "45602",
+    "endorsement": "U",
+    "original_length_m": 77.11,
+    "final_length_m": 76.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From scene of parade of musicians on the street, delete near views in which Ben and Howdy hold their hats behind Mary and her sister, covering up their posteriors.",
+        "length_m": 0.53
+      }
+    ]
+  },
+  {
+    "film_title": "Baby The Rain Must Fall",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "45603",
+    "endorsement": "U",
+    "original_length_m": 2122.17,
+    "length_deleted_m": 14.93,
+    "final_length_m": 2707.24,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the fight between Henry and another man outside the bar.",
+        "length_m": 4.57,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the sequence of Henry digging the grave of Miss Kate and stabbing into it as well as his fight with Slim.",
+        "length_m": 10.36,
+        "length_retained_m": 21.34
+      }
+    ]
+  },
+  {
+    "film_title": "Baby The Rain Must Fall",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "45604",
+    "endorsement": "U",
+    "original_length_m": 87.78,
+    "final_length_m": 82.6,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the fighting scenes.",
+        "length_m": 5.18,
+        "length_retained_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Vice And Virtue",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "45610",
+    "endorsement": "U",
+    "original_length_m": 65.22,
+    "length_deleted_m": 6.02,
+    "final_length_m": 59.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of Schomdrof bending over Juliet with picture of the nude girl in the background.",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the dialogue of the Nazi officer 'Take off your clothes' addressed to Justine.",
+        "length_m": 0.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of the Nazi officer ripping off the dress from Justine's shoulders and pushing her on the bed.",
+        "length_m": 1.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of a girl with bare back leaning over after she is pushed back by a Nazi officer along with the title 'Terror'.",
+        "length_m": 1.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of Schorndrof slapping Juliet.",
+        "length_m": 1.14
+      }
+    ]
+  },
+  {
+    "film_title": "The Hanged Man",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45611",
+    "endorsement": "U",
+    "original_length_m": 2429.25,
+    "final_length_m": 2427.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII(AS)",
+        "description": "Delete close-up of girls’ legs in netted tights during the Mardi Gras festival.",
+        "length_m": 1.75
+      }
+    ]
+  },
+  {
+    "film_title": "A New Kind of Love",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "45612",
+    "endorsement": "U",
+    "original_length_m": 96.0,
+    "length_deleted_m": 33.13,
+    "final_length_m": 60.87,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels l- A & IS",
+        "description": "Delete from Steve’s and Announcer’s commentary the underlined remarks about athletics and games, and shots of the blonde lying on Steve on the couch and their passionate embrace and kiss while the suggestive commentary is heard on T.V.",
+        "length_m": 10.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IS",
+        "description": "Delete underlined words from dialogue between Steve and Chalmers: 'Then the girl friend of the Russian Consul' and 'on the nakodback of his mistress.'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rsell-B",
+        "description": "Delete close-up of the posterior of an air-hostess and Steve's reaction.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II-A",
+        "description": "Delete kil shots of strip-tease dance by scantily clothed girls and shots of a striptease girl holding up her umbrella when it starts raining, revealing her near-nudity as the screen goes dark.",
+        "length_m": 31.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-A",
+        "description": "Delete underlined words from dialogue of Steve to Harry: 'Ah, anew one. every week Sometimes four. Sometimes six. You know what that's a sign off.' and 'Pick a different cotton every week'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-A",
+        "description": "Delete near views of nude back of a model turning round before being dressed.",
+        "length_m": 2.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IIS",
+        "description": "Delete shots of a girl coming out of Steve's bedroom suggestively along with Harry’s reaction on seeing her.",
+        "length_m": 5.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II-B",
+        "description": "Delete underlined words from dialogue of Lena to Samantha: 'Made up my mind I was gonna look sexy tonight even if the whole town runs out of sponge rubber,' as also 'Charles Boyer. .Adtai Stevenslon.'",
+        "length_m": 4.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-A",
+        "description": "Delete underlined words from Chevalier’s dialogue 'ladies must be unspoiled, untouched virgin'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV- A",
+        "description": "Delete near views of the posterior of Samantha in a beauty saloon.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV- A",
+        "description": "Delete underlined word from Albert’s dialogue to Steve 'The Crown Prince of Denmark'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-B",
+        "description": "Delete shots of Samantha as a goalie kicking and bumping the football with her posterior also shots of her pushing the football between her legs and of Steve and other players falling over her, along with the suggestive remark: '... there in the meadow everything went black'.",
+        "length_m": 12.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-A",
+        "description": "Delete shots of Steve tearing off Samantha’s clothes while both are riding on bicycles along with her cries 'Help, Help, Help' when her bra is being removed by Steve. Also heading of Steve’s column 'I dreamt I was losing in my maiden-form.'",
+        "length_m": 11.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-B",
+        "description": "Delete all shots of strip-tease dance in the club along with close-ups of the bare things of the dancers. Also shots of Harry grabbing the heads falling down during the strip-tease.",
+        "length_m": 12.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-A",
+        "description": "Delete shots of Steve offering money to Samantha along with her remark 'Afterwards darling, it is so much more chic.'",
+        "length_m": 6.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-B",
+        "description": "Delete shots of Samantha undressing and of Steve testing the divan suggestively.",
+        "length_m": 6.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-B",
+        "description": "Delete all shots of the bridal bed, after Steve carries Samantha in his arms across the goal post door. Also shots of the crowds shouting 'Charge' as Samantha drops down on the bed.",
+        "length_m": 14.33
+      }
+    ]
+  },
+  {
+    "film_title": "A New Kind of Love",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1645",
+    "endorsement": "A",
+    "original_length_m": 3025.44,
+    "length_deleted_m": 142.96,
+    "final_length_m": 2882.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels l- A & IS",
+        "description": "Delete from Steve’s and Announcer’s commentary the underlined remarks about athletics and games, and shots of the blonde lying on Steve on the couch and their passionate embrace and kiss while the suggestive commentary is heard on T.V.",
+        "length_m": 10.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IS",
+        "description": "Delete underlined words from dialogue between Steve and Chalmers: 'Then the girl friend of the Russian Consul' and 'on the nakodback of his mistress.'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rsell-B",
+        "description": "Delete close-up of the posterior of an air-hostess and Steve's reaction.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II-A",
+        "description": "Delete kil shots of strip-tease dance by scantily clothed girls. Shots of a striptease girl holding up her umbrella when it starts raining revealing her near-nudity as the screen goes dark.",
+        "length_m": 31.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-A",
+        "description": "Delete underlined words from dialogue of Steve to Harry: 'Ah, anew one. every week Sometimes four. Sometimes six. You know what that's a sign off.' and 'Pick a different cotton every week'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-A",
+        "description": "Delete near views of nude back of a model turning round before being dressed.",
+        "length_m": 2.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IIS",
+        "description": "Delete shots of a girl coming out of Steve's bedroom suggestively along with Harry’s reaction on seeing her.",
+        "length_m": 5.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II-B",
+        "description": "Delete underlined words from dialogue of Lena to Samantha: 'Made up my mind I was gonna look sexy tonight even if the whole town runs out of sponge rubber,' as also 'Charles Boyer. .Adtai Stevenslon.'",
+        "length_m": 4.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-A",
+        "description": "Delete underlined words from Chevalier’s dialogue 'ladies must be unspoiled, untouched virgin'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV- A",
+        "description": "Delete near views of the posterior of Samantha in a beauty saloon.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV- A",
+        "description": "Delete underlined word from Albert’s dialogue to Steve 'The Crown Prince of Denmark'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-B",
+        "description": "Delete shots of Samantha as a goalie kicking and bumping the football with her posterior also shots of her pushing the football between her legs and of Steve and other players falling over her, along with the suggestive remark: '... there in the meadow everything went black'.",
+        "length_m": 12.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-A",
+        "description": "Delete shots of Steve tearing off Samantha’s clothes while both are riding on bicycles along with her cries 'Help, Help, Help' when her bra is being removed by Steve. Also heading of Steve’s column 'I dreamt I was losing in my maiden-form.'",
+        "length_m": 11.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-B",
+        "description": "Delete all shots of strip-tease dance in the club along with close-ups of the bare things of the dancers. Also shots of Harry grabbing the heads falling down during the strip-tease.",
+        "length_m": 12.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-A",
+        "description": "Delete shots of Steve offering money to Samantha along with her remark 'Afterwards darling, it is so much more chic.'",
+        "length_m": 6.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-B",
+        "description": "Delete shots of Samantha undressing and of Steve testing the divan suggestively.",
+        "length_m": 6.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-B",
+        "description": "Delete all shots of the bridal bed, after Steve carries Samantha in his arms across the goal post door. Also shots of the crowds shouting 'Charge' as Samantha drops down on the bed.",
+        "length_m": 14.33
+      }
+    ]
+  },
+  {
+    "film_title": "Wives And Lovers",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1646",
+    "endorsement": "A",
+    "original_length_m": 2813.91,
+    "length_deleted_m": 71.0,
+    "final_length_m": 2742.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II- A",
+        "description": "Delete shots of Bill lying over Bertie and kissing her passionately.",
+        "length_m": 14.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III-B",
+        "description": "Delete underlined words from dialogue between the housekeeper and Fran: 'That’s what my mister’s always saying Too many women being raped and disrapedand dismembered.'",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV-B",
+        "description": "Delete underlined words from Bertie’s dialogue addressed to Bill: '... . .You’ve oven manage 1 to make mo feel old fashioned or middle class in bed'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-A",
+        "description": "Delete shots of Gar placing Bertie’s leg on his knee, removing her shoe and massaging her foot.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-A",
+        "description": "Delete underlined words from dialogue between Bertie and Gar: 'Please don’t make adverse remarks about my husband when you’re trying to .' 'I am not only trying to I am going to. But I want you to enjoy it .'",
+        "length_m": 4.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-A",
+        "description": "Delete dialogue between Bertie and Gar along with earlier shots of Gar turning off the lamp and falling over her.",
+        "length_m": 21.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-B",
+        "description": "Delete underlined words from dialogue of Gar to Bertie: 'Well, we didn’t. But we’ll have anot her go at It.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI- A",
+        "description": "Delete underlined words from dialogue of Bill addressed to Bertie: '... . .That doesn't mean you have to throw back the covers and wave’em in like a parade.'",
+        "length_m": 0.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI- A",
+        "description": "Delete underlined words from dialogue of Bertie addressed to Bill: ' I could understand It if you were in love, or even in heat '",
+        "length_m": 0.5
+      }
+    ]
+  },
+  {
+    "film_title": "Sweet Sweet Nights",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "1647",
+    "endorsement": "A",
+    "original_length_m": 94.18,
+    "length_deleted_m": 6.03,
+    "final_length_m": 88.15,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of a torso of a girl in polka dot costume.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of a dancer as she turns around and the indecorous dancing of a girl in pink dress.",
+        "length_m": 1.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of a Japanese woman as she undresses herself in front of a monk.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the indecorous bust jerking of a dancer in blue dress.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the close view of a dancer in white costume.",
+        "length_m": 1.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the shot of a bare leg of a dancer.",
+        "length_m": 0.37,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the scene of a woman in a car, particularly deleting the shots when she is caressing her body and taking off her coat.",
+        "length_m": 1.34,
+        "length_retained_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Vcelunama",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "43653",
+    "endorsement": "U",
+    "original_length_m": 3736.34,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "During the dance-song, delete shots of Rita’s legs and thighs exposed; the jerking of breasts; lying down on the floor with her busts prominently exposed; turning her loins while she is revolving her exposed thighs.",
+        "length_m": 9.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the shot of striking the posteriors of Raju and Radha while they both walk back to back.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete Pansodhan’s dialogue to Bangaram 'Kavalisthe Pedda Gun Choopistha', and Pansodhan embracing Bangaram when he is pushed by Sanyasi.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete Raju’s dialogue to 'Radha' Aarahasyamlekunteaadavalikeemudi andam'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Song - Delete the dancer jerking her busts.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the first dance by the Anglo-Indian girl and all the near shots of Rita’s dance, her stretching on her legs, shaking the loins and jerking posteriors.",
+        "length_m": 34.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "In Rita’s dance, delete her shaking the posterior, and her jerking her busts while lying down.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Reduce the sequence relating to Radha’s preparations before the bath and her swooning and being rescued by Raju. In this sequence, delete shots of her undressing and Raju lifting her.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the shot of close proximity of Raju and Radha, cheek to cheek and nose to nose.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Pakkalo Ballem",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "43654",
+    "endorsement": "U",
+    "original_length_m": 4482.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Song 1 - Delete the line of Menaka L KaniisaigalaGumikilistha.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Song 2 - Delete the line in miri or picturisation ‘ Evai o Addamulo Muddaladinale’",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Song 3 - Delete the Pallavi ‘Ramanntc Raanivaadu Magavadena cndingwith Vidichedhi iavaralena’.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song 4 - Delete Close-up of Pratap on Mallika with her bust prominently exposed; Pratap pulling her too close near the pillar; Pratap lifting Mallika; and his close embrace and squeezing of her.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Durjati’s sentence ‘Madam Ekkindi’; also the sentence ‘Muddosthunnave.’",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the close-up of Lokesi lying with her face towards the camera with her bust prominently shown on the sentence ‘Masthuga Maja Cheyyoeliu’.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Song 5 - Delete the line ‘Muddostundav itu soodu'.",
+        "length_m": 2.62
+      }
+    ]
+  },
+  {
+    "film_title": "Naandi",
+    "languages": [
+      "Kannada"
+    ],
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion of 1716.32 Metres from the entire film to make a shorter version.",
+        "length_m": 1716.32
+      }
+    ]
+  }
+]

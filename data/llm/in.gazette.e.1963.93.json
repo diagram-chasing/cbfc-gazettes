@@ -1,0 +1,561 @@
+[
+  {
+    "film_title": "Laagi Nahin Chhootc Ram",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "producer": "Friends Movies, 52, Lalubhai Mansion, Viencent Road, Dadar, Bombay-14.",
+    "cert_no": "39151",
+    "cert_date": "20-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Indecorous views of the dancer when she is sitting down during the dance",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Bust jerking of the dancer",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot when the hero winks at another ikkawaala",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of the heroine when the ‘ikka’ lurches and she is thrust forward from her seat",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of the dancer when her skirt flies very high",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Kabli Khan (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "K. Amarnath Productions, Main Road, Dadar, Bombay-14.",
+    "cert_no": "39152",
+    "cert_date": "20-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the song-dance sequence, shots of bust-jerking by the dancer",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Hasina's suggestive dialogue addressed to Kabli Khan referring to her beauty while trying to attract him",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From Irshad Khan’s dialogue, his derogatory reference to women",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In the song-dance sequence, shot of bust-jerking by the dancer",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In the song-dance sequence, shots of bust-jerking by the dancer",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Reference to Shahbaz Khan as ‘Kafir Musalman’",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "In the song-dance sequence, front-views of the dancer’s legs stretched out indecorously with her skirt flying high and shot of her bust-jerking",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "To a flash the shot of Kabli Khan’s sword piercing through Shahbaz Khan’s body"
+      }
+    ]
+  },
+  {
+    "film_title": "Bluff Master",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Subhash K. Desai, 3D, Naaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "39153",
+    "cert_date": "20-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Shots of spitting of pan by Ashok in disguise",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The sequence of Kumar dragging the hero’s mother down the steps and also her shrieking"
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Scene showing Police Station",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Naag Mohini",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Dimple Films, 31 Mount Mary Road, Bandra, Bombay.",
+    "cert_no": "39154",
+    "cert_date": "20-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From the speech of Vishadhar to Mohini the sentence “Pyasa to appni pyaas bujhayega hi”",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From Song No. 1 the line “Thar thar Icaanpe gora badanvaa, aagaya humko paseena’’",
+        "length_m": 2.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Suggestion of a kiss between Mohini and the Prince of Manipur and also indecorous view of Mohini while she is shown lying down",
+        "length_m": 2.0,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Molestation of Mohini by Vishadhar",
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Torture of Anand by Pandit’s wife, wherever it occurs",
+        "length_retained_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Been Ka Jadoo",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. A. Kapoor, Shree Sound Studios, Gokuldas Pasta Rd., Dadar, Bombay.",
+    "cert_no": "39168",
+    "cert_date": "24-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Close-up of dragon",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of the arms and neck of hero being chopped off by Shambhasur",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Eerie sounds and shrieks in the cavosequence (Sound)"
+      }
+    ]
+  },
+  {
+    "film_title": "Aik Tha Alibaba",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "producer": "Raj Kumar Kohli, Shankar Movies, Cine Studios, Dadar, Bombay-14.",
+    "cert_no": "39175",
+    "cert_date": "27-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "In all dance sequences, shots of bust-jerking and indecorous hip movements and postures of the female dancers, as also near front and side views of the female dancers in which the parting of their thighs in dark tights is prominently seen through transparent skirts",
+        "length_m": 34.75,
+        "length_retained_m": 34.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In the qawwali and dance sequence, all shots of bust-jerking and hips shaking by Marjecna, Nasarecn and other women",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Shouts of “bachav, bachav” and shrieking of men and women during the attack by the dacoits on the caravan",
+        "length_retained_m": 13.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "To the bare minimum the scene of throttling of Nadira by the dacoit chief Dilsher, retaining only a suggestion for the sake of continuity",
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "To a flash the shot of the dagger in Qasim’s back before he dies",
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "It’s Only Money",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paul Jones.",
+    "cert_no": "39178",
+    "cert_date": "28-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The words “I want you to investigate me\" said by a girl to Lester mistaking him for a detective and kissing him",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From Lester’s dialogue, the words \"Son of a gun\"",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "To the minimum the kiss between the girl and Pete Flint, the detective",
+        "length_retained_m": 10.0
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol: 336",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House M.G. Road, Bombay-1.",
+    "cert_no": "39170",
+    "cert_date": "28-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the first news-item \"West Berlin Honours Martyrs at Wall” the following sentences: “ — A year ago, the 18 year old boy was killed by East German Guards while he was trying to escape across the Wall into West Berlin. These dramatic films show the guards carrying his body back into East Berlin_”",
+        "length_m": 6.7
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Zingaro",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chandrakant M. Gor, 145, C. Pragji Niwas, G. B. Road, Erla, Bombay-56.",
+    "cert_no": "39210",
+    "cert_date": "31-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Close-up of bust of Kiran and bust-jerking in the song-dance sequence",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The line “Aag lag! tan men” in the above sequence. (Sound)"
+      }
+    ]
+  },
+  {
+    "film_title": "Flame And The Flesh (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M. G. Rd., Bombay-1.",
+    "cert_no": "1408",
+    "cert_date": "26-8-1963",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Madeline scratching herself while standing in the balcony in her petticoat",
+        "length_m": 2.14
+      }
+    ]
+  },
+  {
+    "film_title": "Pudhachi Pidhi",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Films Officer, Directorate of Publicity, Govt, of Maharashtra.",
+    "cert_no": "37143",
+    "cert_date": "4-12-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Monogram of Films Division and words “RELEASED THROUGH FILMS DIVISION\"",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Aik Tha Alibaba",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "producer": "Raj Kumar Kohli, Shankar Movies Cine Studios, Dadar, Bombay-14.",
+    "cert_no": "39175",
+    "cert_date": "27-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The scene showing Darasingh and Maruti coming out of the cave with money in bags",
+        "length_m": 22.25
+      }
+    ]
+  },
+  {
+    "film_title": "Akeli Mat Jaiyo",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ranjit Films, 117, Dada Saheb Phalke Road, Bombay-14.",
+    "cert_no": "39326",
+    "cert_date": "4-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The remark of one of the hostel inmates addressed to Secma : Tumhen maska lagatihai\" (Sound—Replaced with approved words “Tumhen budhu banana shuru kar deti hat.”)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of bust-jerking by the dancer",
+        "length_m": 2.13,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of her indecorous postures in which the parting of thighs is prominently visible through her transparent skill.—0-91 m. Also the following lines from the song “Mere pyar ki chhaon me so jao\" (Replaced with approved words “Mere pyar ki chhaon me khojao”)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The lines “Bas jaye mcri tanhai\" (Replaced with approved words “Bane saas men shehnai— Sound)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The word “Sala” used by Rajindcr (Sound)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Near-view of statue of female figure in indecorous posture",
+        "length_m": 1.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Reference to “Murghi kc\" in the dialogue of Secretary addressed to Rajindcr (Sound)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of Secretary edging suggestively towards Shobha on the couch",
+        "length_retained_m": 11.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "The embrace between Yuvraj (in disguise as Rajindcr) and Secma",
+        "length_m": 0.91,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “The Stripper\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinema Scope",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "39237",
+    "cert_date": "4-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All shots (in the beginning and end of the trailer) in which the bare thighs and.hips of the Stripper are prominently visible through the balloons covering her body, Also shots of a balloon bursting after a man touches it with a lighted match",
+        "length_m": 16.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of Kenny and Lila falling down on sofa while dancing and passionately kissing each other",
+        "length_m": 3.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From the commentary, the underlined words : “Lila was soft, made to be kicked around”",
+        "length_m": 0.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Passionate kiss between Kenny and Lila",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Mariam’s dialogue referring to girl in the street : “All she expects is a boy’s physical attentions”",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of No. 2 of “Flame And The Flesh\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "39255",
+    "cert_date": "6-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of the heroine in negligee",
+        "length_m": 1.68
+      }
+    ]
+  },
+  {
+    "film_title": "Aaj Aur Kal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Panchdeep Chitra, 97, Worli Sea Face, Bombay-18.",
+    "cert_no": "39105",
+    "cert_date": "3-8-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Scene between Randhir and his parents",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Scene between Nanda and her brothers and sister before the song ‘Miyhe galese lagalo",
+        "length_m": 52.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Horse riding scene of Agha and Tanuja",
+        "length_m": 147.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Scene between Dhumal and Agha after the photographer scene",
+        "length_m": 49.38
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "Quwali song beginning with the words—“BhoUii ki baat hai.”",
+        "length_m": 192.02
+      }
+    ]
+  },
+  {
+    "film_title": "Tc Maze Ghar",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Ravindra S. Bhat. Chitrasharada, C/o Modal Pictures Pvt. Ltd., 2, Trlbhuvan Road, Bombay-4.",
+    "cert_no": "38078",
+    "cert_date": "27-3-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "The song beginning with the words “Ambyavurti Gate Kokil.” as approved",
+        "length_m": 138.0
+      }
+    ]
+  }
+]

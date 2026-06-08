@@ -1,0 +1,994 @@
+[
+  {
+    "film_title": "Dixieland Droopy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "14699",
+    "cert_date": "10-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the flea getting into the back-side of the dog",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Pearl of The South Pacific",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "RKO Radio Pictures Inc., U.S.A.",
+    "cert_no": "14601",
+    "cert_date": "11-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot of Rita getting up after playing the concertina on the boat revealing her thighs",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Rita learning the Beatitudes “Blessed are the meek” etc.",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The closeup of Rita's bulging bust when she is lying on her back",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "All instances of questions from Beatitudes “Blessed are the meek” etc.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot where the slits skirt of Rita's island dress reveals her thighs",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The word \"native\"",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The words 'this is a missionary'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Dramatisation of the fight between Ben and Bully over Rita",
+        "length_m": 10.9728,
+        "length_retained_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Bully beating the drunken islander",
+        "length_m": 1.2192,
+        "length_retained_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Pearl of The South Pacific",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "RKO Radio Pictures Inc., U.S.A.",
+    "cert_no": "14602",
+    "cert_date": "11-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The closeup of Rita's bulging bust when she is lying on her back",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Sabre Jet",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Carl Krueger Production, U.S.A.",
+    "cert_no": "14603",
+    "cert_date": "11-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Reference \"most brutal aggression in history\" in respect of the Communists in the sub-titles",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Hale's remarks \"What kind of security would it have under the Communists?\"",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Words \"Why do I always have to be a Commie\" as spoken twice by Gary",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Words \"I get your point\" uttered by Jane",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Sabre Bada Rupaiya",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Alhadchitra",
+    "cert_no": "14021",
+    "cert_date": "12-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the dance accompanying the song \"Bada Bada Rupaiya Rupaiya\" a shot of dancer where part of the flesh of the bosom is visible",
+        "length_m": 1.55448
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Two shots of the high-kicking of the dancer singing the song \"Bada re bada\" making of the four girls dancing in the 'Navtanki-show-dram'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The sentence \"Uske rakam rakam ke pathte hain\"",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F/F",
+        "description": "From the dance accompanying the song \"Aaj toh holi hai\" a shot where part of the flesh of the bosom of one of the dancer in the foreground",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F/F",
+        "description": "The word \"safed\" from the sentence 'Safed pulk'",
+        "length_m": 0.1524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F/F",
+        "description": "The sentence \"Isse toh achha ho mera roop komal ho\"",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel F/F",
+        "description": "Considerably Laxmi hanging by a rope from the tree, keeping only the minimum necessary for the story",
+        "length_m": 5.4864,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bahu",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Sri Bikram Singh Pahwa",
+    "cert_no": "14622",
+    "cert_date": "10-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of 'Baita' donning where her skirt goes up revealing her bare leg",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "The following sentences: (a) \"Madam abhi time hai, ghasleti\" (Sound replaced with approved words \"Madam abhi time hai, samjleti\"), (b) \"Bhadhi to bhagna hai, hum ek dusre ke ho chuke hain\" (Sound replaced with approved words \"Bhadhi to bhagna hai, hum ek dusre ke ho chuke hain\")",
+        "length_m": 3.41376
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Ten minutes of physical contact with the girl Reeta",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel F",
+        "description": "Reference to a Muslim 'gambler being referred to as \"Maulana\" (Sound replaced with word 'Sultan')",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels F, A/F and EF",
+        "description": "All suggestions through",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Gambling",
+        "length_m": 13.4112,
+        "length_retained_m": 19.2024
+      }
+    ]
+  },
+  {
+    "film_title": "Jagadguru Shankaracharya",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Celestial Pictures Ltd., Bombay",
+    "cert_no": "14623",
+    "cert_date": "12-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Near view of Kamiji, moving a skull by his magic power",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Bust shot of the principal dancer in the dance in the cave",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The scene in which the boy is to be 'satisfied' along with his scientist, including a necessary for continuity. The boy may be shown dead and not lying on his side and dead and not holding the dead object in his hands and not throwing it",
+        "length_m": 14.6304,
+        "length_retained_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI, F/F",
+        "description": "Shots of the dead body of the dark boy",
+        "length_m": 2.1336,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI, F/F",
+        "description": "Close-ups of the dead body of Shankaracharya",
+        "length_m": 2.1336,
+        "length_retained_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Shree Ganesh Vivah",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Chitravani",
+    "cert_no": "13025",
+    "cert_date": "13-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel F/Z",
+        "description": "The close-up of Ganesha's body when he was in elated Shankar to twice only",
+        "length_m": 1.46304,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel F/F",
+        "description": "The shots of gaping wound of Sindoor with blood coming to only",
+        "length_m": 0.9144,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Prime Minister Nehru's Visit to U.S.S.R.",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Soviet Ministry of Culture, U.S.S.R.",
+    "cert_no": "13618",
+    "cert_date": "13-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Street shots of Moscow city showing crowds of people cheering and greeting Prime Minister on his arrival in the city",
+        "length_m": 24.384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister passing in a car cheered by thousands of Moscow citizens",
+        "length_m": 10.668
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister paying homage to Stalin's tomb",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister's visit to the city of Kremlin and also scenes from the Museum of Moscow showing old guns and statues of wild animals in the garden of Museum",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Crowd of people in Kremlin city cheering Prime Minister",
+        "length_m": 36.8832
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister's visit to school where thousands of children excitedly cheering Prime Minister",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister visits University",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Tchaikovsky dance sequence",
+        "length_m": 137.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister's departure to Stalingrad",
+        "length_m": 20.4216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Panoramic shots of Stalingrad",
+        "length_m": 26.2128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Prime Minister passing in a car through different localities for Georgia",
+        "length_m": 87.7872
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots showing different types of flower and statues",
+        "length_m": 28.3464
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Prime Minister passing in a car through different streets of the city of Georgia",
+        "length_m": 36.8832
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Departure from the city of Georgia - crowd of people bidding farewell to Prime Minister",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Prime Minister on the way to Rustavi",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Prime Minister visits Rustavi",
+        "length_m": 84.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Crowd in Rustavi cheers Prime Minister",
+        "length_m": 11.5824
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Prime Minister at a dinner party and later departs from the city of Barnakund",
+        "length_m": 32.9184
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Barnakund",
+        "length_m": 28.956
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Prime Minister visits Kubishoksm",
+        "length_m": 54.5616
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Prime Minister's departure from Kubishoksm",
+        "length_m": 23.7744
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Prime Minister visits Farm",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Prime Minister visits modern factory of Steel product",
+        "length_m": 37.1856
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Crowd of people",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Prime Minister visits yet another factory. Shots showing his left and passing in a car",
+        "length_m": 86.2584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Panoramic shots of the city of Leningrad",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Crowd shots",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "A huge factory in Leningrad",
+        "length_m": 57.6072
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Moscow's citizens cheering",
+        "length_m": 45.108
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Stadium crowd",
+        "length_m": 20.4216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Ballet dance sequence",
+        "length_m": 42.672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Shots of crowd cheering Prime Minister",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Street shots cheering Prime Minister's departure from Moscow",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Crowd of people",
+        "length_m": 54.864
+      }
+    ]
+  },
+  {
+    "film_title": "Prime Minister Nehru's Visit to U.S.S.R.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Soviet Ministry of Culture, U.S.S.R.",
+    "cert_no": "13676",
+    "cert_date": "20-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I/Z",
+        "description": "Street shots of Moscow city and Prime Minister passing in a car with crowd on both the sides cheering him",
+        "length_m": 55.4784
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister paying homage to Stalin's tomb",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister's visits to exhibition of Farm",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister in the midst of crowd",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister's visits to Bolshoi Theatre and Dance number known as Swanlake",
+        "length_m": 76.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Ballet Dance",
+        "length_m": 27.1272
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Panoramic shots of Stalingrad city",
+        "length_m": 20.4216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Prime Minister passing in a car",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV/F",
+        "description": "Crowd in the city of Stalingrad",
+        "length_m": 38.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV/F",
+        "description": "Children greeting Pt. Nehru",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots showing city of Yalta",
+        "length_m": 49.3776
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Prime Minister leaving Yalta in a car",
+        "length_m": 27.9912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Interior of Government house",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots showing statues of wild animals and flowers of different types",
+        "length_m": 41.4528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI/F",
+        "description": "Prime Minister visits Modern Farm machinery",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI/F",
+        "description": "Prime Minister passing in a car in the city of Magnitogorsk",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI/F",
+        "description": "Shots showing the views of Industrial area in Sverdlovsk of Urals",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Prime Minister's visit to children's club",
+        "length_m": 73.152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Crowd of people eagerly awaiting to see Prime Minister",
+        "length_m": 76.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Crowd of People watching and bidding farewell to Prime Minister",
+        "length_m": 67.056
+      }
+    ]
+  },
+  {
+    "film_title": "Drishti",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Parijat Theatres, Howrah",
+    "cert_no": "120",
+    "cert_date": "20-10-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "reel 5",
+        "description": "Two scenes — one showing Malati and Kalyan in their bedroom and the other showing Malati and Giribala in worshipping room where the son of Malati shown crawling and putting fruits etc. meant for offering to the deity into his mouth",
+        "length_m": 118.2624
+      }
+    ]
+  },
+  {
+    "film_title": "Mahiswari",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "M/s Modern Theatres Ltd., Salem",
+    "cert_no": "14003-U",
+    "cert_date": "9-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Delete the picture shot of Mahiswari actually kicking Mahiswari",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "During the conversation between Sankaraiyari, Kanthimathi and Kannusamy, delete the sentence \"Men marry as they want, but if a woman marries one person she has no other support\"",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "When Dharamalingam looks up the bed-room in which Alagappan and Mahiswari are, delete his telling Alagappan through the door, \"Enjoy, enjoy well, enjoy the whole night till the morning\"",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "When the accountant receives stage and a girl (Poovayi) asks for the, delete the suggestion of his giving time for immoral consideration; (a) \"If you sit down\"; (b) Poovayi being asked to go when Muthulakshmi comes; (c) verifying about Jagadevi being blind and deaf, and observing \"excellent\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "When the palanquin men are asked to go faster, delete the observation by one of the men, \"This time the minor will give us plenty of money\"",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When Mayathevar is asked by Maheswari if it is not sinful to be a robber, delete his reply about robbing moneylenders not being sinful when it is distributed to the poor, in fact it would be meritorious",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When Jeyathilakav treats people in the cave, delete the pictures and discharge of over filling him as the family duty of the poor people who will never forsake them but for whom poor people would have died long ago. The prize given to him on behalf of the poor, and Maheswari's observation that it was service of a high order",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 8",
+        "description": "The entire picture and sound of the robbers attacking the treasury money being taken in a caravan of carts with an armed escort, the lassoing of the sergent, the intermittent attacks and fightings in close-up. (No objection to a brief flash for continuity, and the high angle long-shot of the advancing caravan and Maheswari jumping away after the robbery)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "When the Collector demands an explanation, delete the reference to the saving of the treasury money (consequential on 8)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel ZS",
+        "description": "The entire sequence, picture and dialogue, of a Telugu man counting his blocks of silver, Maheswari watching and entering with the robbers, his bullion being passed out in relays to the robbers outside, the bullion being distributed to the poor and their shouting “Jai\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel ZS",
+        "description": "When the collector is receiving complaints from the victims of dacoity, delete the references to the robbery of the silver bullion and to the proceeds of another dacoity having been distributed to the labourers in the farm",
+        "length_m": 25.0064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "When Dharamalingam receives the demand notice from the Collector and discusses it with the accountant, delete the portion of the dialogue regarding living life, whatever the reason for entering it, there is always reason when you come out, to emerge with fame, the bad name would have been removed and good name would be the balance people would admire and accord receptions",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "When Alagappan kicks Alagappan",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "When Alagappan receives Alagappan and asks about Maheswari, delete statement that the Rev. might be a deceit for those who commit atrocities",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "When Alagappan reads the gold jewellery to him as being the property of a woman dwelt, delete the reply that the money belongs to God, it is his plot it be spent for the good life of the poor",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "When Alagappan and Alagappan discuss, delete the statement that she herself joins the family of crime (after she was left an orphan when her mother died) that she was made the queen of the robbers, that she took the wealth of those big men who cheated the poor and give money to the poor",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel S'lZlO",
+        "description": "Considerably the entire sequence of the robbers backing in the treasury money to their robber queen, leaving only the bare minimum necessary for continuity.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Id",
+        "description": "When Jagadevi and the Collector are going in blue boat with the white flag, delete the sentence \"If it is of white people, this like or crushing bugs, to you\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 27",
+        "description": "When Maheswari is asked to play for the King, delete the dialogue \"I am not the deceased person who will be betraying another\"; and the word \"bloody fool\" in reply",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "With the dialogue given by Jagadevi, delete the dialogue \"This only in Tamil Nadu\"; the reply \"This is a hereditary culture\"; \"the friend of the poor\"; \"I regret I was not born a Vadaian\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Id",
+        "description": "When Jagadevi and Mahathikhi are discussing Dharamalingam, delete the dialogues \"What is the punishment for the chandalas who betray one's own people? With them 10 times in a bed of their own, under sugar and them, and let loose small ants. But would this make any impression on the fools with no responsibility? A son would have acquired by now. It would not have come by itself. We have given food four times so far\"",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel W",
+        "description": "When Dharamalingam is dug tried before the robbers, delete: (a) Mahadevan saying \"For the sake of a money-reward, he betrayed to a foreigner\"; (b) Rani's statement \"To forgive the foreigners who come to destroy us by the rootless, the so-called culture of Tamilians\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 19",
+        "description": "When Dharamalingam performs the sarathi to Alagappan and his two wives, the song he sings about Subramulu asking two wives. (Sound only)",
+        "length_m": 12.192
+      }
+    ]
+  },
+  {
+    "film_title": "Kalvanin Kathali",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "M/s Revathi Productions, Madras",
+    "cert_no": "14000-U",
+    "cert_date": "11-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 72",
+        "description": "After the police inspector leaves and Muthuvel is seen to have escaped, delete the statement of Kamalapathi \"What does it matter, someone came and told us he is innocent and we helped him.\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "When the inspector is interrogating Sangu Pillai, delete the latter's statement \"For you and me is there any scarcity or witnesses\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "When the inspector interrogates Rathnam Pillai in the police station, delete his statement \"My disciples will peel the skin off the back and crush the bones in the body\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel JT",
+        "description": "Delete the inspector's references to Chokan as \"Anni Koiavan\"; \"the Coravu\" and Rathnam Pillai's statement \"Do not send me in along with this Koiavan\"",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kalvanin Kathali",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "M/s Revathi Productions, Madras",
+    "cert_no": "14000-U",
+    "cert_date": "11-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Addition of title song",
+        "length_m": 198.12
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 6",
+        "description": "Not exhibited earlier — now shown as addition",
+        "length_m": 189.072
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Addition of sound effects",
+        "length_m": 270.9648
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Addition of sound effects",
+        "length_m": 195.072
+      }
+    ]
+  },
+  {
+    "film_title": "Too Late",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "The Railwaymen's Fine Arts Society, Madras",
+    "cert_no": "U",
+    "cert_date": "12-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Intt-ll",
+        "description": "Udhay Gopal ran over by the bus, the chasing shout showing his severed arm crushed and bleeding",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Natyatara",
+    "languages": [
+      "Malayalom"
+    ],
+    "format": "35 mm",
+    "producer": "M/s Film 'M'",
+    "cert_no": "29/137",
+    "cert_date": "9-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of title song, Sound only",
+        "length_m": 60.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of dance",
+        "length_m": 109.728
+      }
+    ]
+  },
+  {
+    "film_title": "Natyatara",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "M/s Ravi Films, Madras",
+    "cert_no": "14002-U",
+    "cert_date": "9-11-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of title song - Sound only",
+        "length_m": 91.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of one dance with song",
+        "length_m": 73.152
+      }
+    ]
+  }
+]

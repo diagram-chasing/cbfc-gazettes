@@ -1,0 +1,443 @@
+[
+  {
+    "film_title": "Trailer of \"Sharafat Chhod Di Mian \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Films and Films International",
+    "cert_no": "B/79289",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the kiss.",
+        "length_m": 0.34
+      }
+    ]
+  },
+  {
+    "film_title": "Hirfan Mula",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "S. M. Sagai",
+    "cert_no": "B/78542",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the dialogue \"Suath Kaam karinga to bihut majhe aayout\" as spoken by Mahesh to Sheela.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the words \"Paanch hazar lu jua\" along with the guy stuics, as spoken by Sith to Mihish, suggestive of bribe for passing the plan of the factory by the Collectorate.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "During the picturisation of the song \"Dory is hintuoti...\", delete the impression of kiss between Mahesh and Sheela, and also delete the indecent thrustings of hip by Sheela towards Mahesh when he is completely drunk.",
+        "length_m": 2.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the molestation of Anita by John, retaining only a suggestion for continuity.",
+        "length_m": 3.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the fight between John and Mahesh to less than one minute's duration and delete all gruesome shots of fight.",
+        "length_m": 3.36,
+        "length_retained_m": 23.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete the words \"Ullou ki patti\" as spoken by Ajit. (Sound only)",
+        "length_m": 0.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "In the awal sequence, delete the underlined word, along with the gestures, from the dialogue \"Apilng muqabalo ke liyo kisi pehalwan ko bulaiya\" as spoken by Mahest to Shivela. Delete also the indecent hand movement of Babu during the song.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Delete the word \"Souli\" as spoken by Babu.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "During the picturisation of the song \"Main hoon haseen tumne kaha...\", delete the visuals glamourising drinking.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the fight between Paulad Singh and the gangsters in police dress, to less than one minute's duration, by deleting all gruesome shots of fight, and delete the crushing of men with jeep.",
+        "length_m": 46.0,
+        "length_retained_m": 28.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII (a)",
+        "description": "Delete the words \"Moonh se bol raha hoon\" as spoken by Chuiſa on phone.",
+        "length_m": 2.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII (b)",
+        "description": "In the picturisation of the song \"inehGil bhi hum sajaya.......\", delete the visuals glamouring drinking and the shots of Anita with exposed thigh and indecorous movement of hip when the camera zooms close to her hip. Delete also the song lines beginning with the words \"Bottlc Sulalpari\" and ending with with \"Ek dinto subka Dasha hai utarna\".",
+        "length_m": 32.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the shots of Anita drinking and also her words \"Akclc pecne me gam bad jaata hai\".",
+        "length_m": 3.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce drastically the fight between the gangsters and others particularly by deleting hard hitting and gruesome visuals, retaining the duration of the scene to about one minute only.",
+        "length_m": 40.84
+      }
+    ]
+  },
+  {
+    "film_title": "Baba Ramdeo Pir",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Bindu Films",
+    "cert_no": "B/79281",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V & VI",
+        "description": "Delete the word \"Rand\" (at two places), addressed to a Harijan woman.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Yaari Zindabad \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Film Effects",
+    "cert_no": "B/79339",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the scene of violence at the end, by deleting the gruesome visuals.",
+        "length_m": 2.72
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Man of the Erst \"",
+    "languages": [
+      "English"
+    ],
+    "format": "15 min",
+    "producer": "Alborto Grimaldi Production",
+    "cert_no": "B/79172",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce shots of fighting, deleting hard hitting shot.",
+        "length_m": 9.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Heads banged on table and man crushing out of window.",
+        "length_m": 1.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of shooting near about the feet.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Hard punch.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Kavi Sammplan (Part I )",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Rajshri Productions Pvt . Ltd",
+    "cert_no": "B/78929",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the dialogue \"Ram rajya par chcha jaoo main , virodhiyon ko kha jaoo main ; Pradhan Mantri ki kursce par kaki ko ghar de\".",
+        "length_m": 15.29
+      }
+    ]
+  },
+  {
+    "film_title": "Mahachor",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Dachi Film Pvt . Ltd",
+    "cert_no": "B/78818",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the dialogue \"Waqt se pahale chalu ho gaya to tum mere se pahale buddha ho jayega\" as spoken by Ruju to the young boy with reference to love.",
+        "length_m": 9.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the reference to \"Sarkar\" in the dialogue Sarkar agar inki zimendari lo lo .... as spoken by Raju in the police station. Delete also the sentence \"Neechc walon ko pakadte hain - upar walon ko nahin (Sound only) Replaced with approved word Sound only\".",
+        "length_m": 42.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "III & IV",
+        "description": "In the sequence relating to religious riot, tone down the objectionable dialogue.",
+        "length_m": 3.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce drastically the whipping of Rajkumar by Prem, retaining only one flash for continuity.",
+        "length_m": 15.78
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the mishandling of Neetu by Prem.",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the words \"Abc saule\" as spoken by Rani. (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (c)",
+        "description": "Delete the underlined word from the following dialogue of Prem addressed to Rani: \"Tumhe woh pyar aur maja denga\". (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI (a)",
+        "description": "Reduce to a suggestion the killing of two men by Prem.",
+        "length_m": 96.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI (b)",
+        "description": "Delete the words \"Majai khud le gaya\", as spoken by the cleaner of the lorry with reference to the driver taking away Neetu.",
+        "length_m": 45.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI (c)",
+        "description": "Reduce drastically the visuals of the driver trying to molest Neotu in the lorry, by deleting the views where he is seen over her and other indecent visuals.",
+        "length_m": 3.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI (d)",
+        "description": "Reduce to less than 90 ft. in length the fight between Raju and the lorry driver, by deleting all gruesome and hard hitting shots.",
+        "length_m": 17.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the underlined word from the following dialogues of Punjabi couple: \"Teri dikki to baad me kholoonga\". (Sound only).",
+        "length_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII (a)",
+        "description": "Reduce the scene of fire in the village.",
+        "length_m": 21.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII (b)",
+        "description": "Reduce to a suggestion only the shooting of a young boy, by deleting the portion where the bullet hits the boy, and also delete the word Bastard.",
+        "length_m": 5.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the drinking by Thakur and his wife, by deleting the beginning portion.",
+        "length_m": 7.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce drastically the fight between Kunwar and Bhola, by deleting all hard hitting and gruesome shots.",
+        "length_m": 77.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII (a)",
+        "description": "Reduce the sword fight between Thakur and Raju to less than 90 ft. in length.",
+        "length_m": 20.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII (b)",
+        "description": "Reduce to less than 90 ft. in length the fight between Raju and the man in the disguise of Diwanti.",
+        "length_m": 11.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the shot showing the Police Officer hitting his own head As an expression of getting fed up.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the words: \"harramzade\", \"Saala\", \"Saali\", etc, as used by Prem and Rani in an abusive manner, anywhere in the film. (Sound only).",
+        "length_m": 14.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the suggestive dialogue referring to \"negative aur positive nahin multe to current nahin aate\", as spoken by Rani.",
+        "length_m": 0.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce drastically the shots of her scratching Raju and Nectu with her nails.",
+        "length_m": 4.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce the fight sequence, including the gun fight to less than 90 ft. in length, by deleting the shots of hitting with jeep and other hard hitting and gruesome shots.",
+        "length_m": 49.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "The total number of fights/violence sequence in the film should not be more than six, and the length of each such sequence should not exceed 90 ft. in length. LX Tijori room fight deleted.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "XV Rajkumar hitting Raju with a bat deleted.",
+        "length_m": 14.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "XVI Danco — whipping and Rani being shot.",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "IV Sound and suggestion of stone throwing deleted.",
+        "length_m": 4.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "XV Sequence of electricity connection deleted.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Heist\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd",
+    "cert_no": "B/76202",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete all nude shots superimposed on the Dollar.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to the barest minimum all firings - fight while trying to run away with the bag.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Diamonds",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp . ( I ) Pvt. Ltd",
+    "cert_no": "B/76874",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete all shots of nude paintings in Charles bed room.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the shot where Sally's breast is revealed when Archie pulls the blanket on her body.",
+        "length_m": 1.2
+      }
+    ]
+  }
+]

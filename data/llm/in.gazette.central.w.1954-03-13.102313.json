@@ -1,0 +1,554 @@
+[
+  {
+    "film_title": "The Story of Doctor Caryer",
+    "languages": [
+      "English"
+    ],
+    "producer": "Teaching Film, Inc. U.S.A.",
+    "cert_no": "B-8980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of the sequence of fighting between Mark and the pearl-lunar on the island in which Mark strangles her.",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Fighting between Mark and the people of the island when he is escaping in a boat, banging their heads in the water.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "X (a)",
+        "description": "Minimum close shots of Sylva and Mark dying after their fight.",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Mogumbo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B-8776",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "All references to the Maharaja of Banganoro, his playing a dirty trick and somebody trying to take away his palace.",
+        "length_m": 14.3256
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Manwell picking up Kelly's brother.",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Two shots where Kelly's bust in profile is shown with emphasis.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Words 'It is a mean by which a woman is rendered incapable of being unfaithful' and subsequent discussions about native customs.",
+        "length_m": 25.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Flat kicks which Manwell thrusts upon Kelly.",
+        "length_m": 2.4384,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably the scene in which Kelly is lying in the arms of Margwell.",
+        "length_m": 9.144,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Sailor of The King (Trailer)",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B-8678",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word Killer referred to in sub-title.",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "A Nation I. Fifty",
+    "languages": [
+      "English"
+    ],
+    "producer": "RKO Radio Pictures Ltd, Dhan Nu Bldg., Sir P.M. Road, Fort, Bombay.",
+    "cert_no": "B-8776",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "All shots of lovely girls dancing, with split skirts, waggling the hips and lifted and carried on shoulders.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "T.V. of Tomorrow",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B-9001",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the body of a girl in three sections and substitution of lemon for the centre portion.",
+        "length_m": 29.8704
+      }
+    ]
+  },
+  {
+    "film_title": "Manion of Friendship",
+    "languages": [
+      "English"
+    ],
+    "producer": "United States Information Service, Adolphus, 3, Queens Road, Bombay-1.",
+    "cert_no": "B-8810",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion from the commentary: 'And there is occurring between these two countries, the wolf governed country and the Communist country, a competition to whether ways of freedom or pole state methods can better achieve social progress. This competition directly affects the 800,000,000 people of the two countries and in the long run, the outcome will affect all humanity, including ourselves.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word Communist from the sentence 'But still the people and the Government do not want this quarter to expose them to communist aggression.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "'They have not forgotten that they won once aid by the Soviet Union between 1941 and 1948.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word Communism from the sentence 'Here are two countries which have clearly demonstrated their intent to stand stand up against Communism and partial subjugation.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "'Let us hope that the Kremlin will try to bait the trap by which it hopes to capture the dependent people.'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Last of Samain",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Color",
+    "producer": "Union International Films Inc., U.S.A.",
+    "cert_no": "B-8487",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shot in the dance of the would-be queen where the thighs are exposed.",
+        "length_m": 54.864
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The police key being kicked by his girl as he is dying.",
+        "length_m": 4.2672,
+        "length_retained_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The shadow kiss.",
+        "length_m": 5.1816,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Conquest of Cochise",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Columbia Film of India Ltd., Lotus House 384, Worli, Bombay.",
+    "cert_no": "B-6710",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "GONDA choking Cochise with ropes, and other such actions.",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Commotion during attack and fighting, especially close-ups of attacks with axe and daggers.",
+        "length_m": 20.4216,
+        "length_retained_m": 33.8328
+      }
+    ]
+  },
+  {
+    "film_title": "The Fall of Berlin (Revised)",
+    "languages": [
+      "Russian"
+    ],
+    "colour": "Color",
+    "producer": "The Diamond Picture Ltd., Sokarie Bldg., Bombay-4.",
+    "cert_no": "B-3101",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Word 'Goddamood' from sub-titles.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Word 'Viabogotton' from sub-title.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots of Boris.",
+        "length_m": 118.5696
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots of Boris.",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of Boris.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of Boris.",
+        "length_m": 43.2816
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots of Boris.",
+        "length_m": 57.912
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Shots of Boris.",
+        "length_m": 26.5176
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi Driver",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Nav Ketan, Ghod Bunder Road, Bombay.",
+    "cert_no": "B-9080",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "All suggestions that Mastana is being used as a procuror.",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "In the dance song 'Dile mila ko dil', two shots of the dancer with emphasized bosom uncovered by odhni.",
+        "length_m": 29.8704
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "In the dance song 'Juno do', shots showing the dancer's breasts as seen shaking in the course of the dance, movements and close ups showing her with emphasized but bare densest in tight fitting jumpers.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV & VII",
+        "description": "All references in respect of Sylvia's Bazar.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Two close-ups of Mala with emphasized bust uncovered by odhni when the hero says 'Tumhen mujh se dar nahin lagta'.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Mala's close-up of emphasized bust, in the boat duet 'Aya hoga piko'.",
+        "length_m": 11.8872
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Sylvia sticking her body close to the hero.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Wording of the line 'Soonghne men kya hai, yeh jawab thanedar do' in the song 'Maatram ban ko'.",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Small boys smoking.",
+        "length_m": 9.90624
+      },
+      {
+        "kind": "reduction",
+        "reel": "II & III",
+        "description": "Considerably the presence of the boy, Tony, in the Adda, retaining him in the orchestra and in the last scene.",
+        "length_m": 10.668
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Word Sala, retaining it in the humorous scene showing the hero instructing the heroine how to pat a tough male.",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "reduction",
+        "reel": "III & X",
+        "description": "Considerably the gambling sequence, along with details of gambling.",
+        "length_m": 25.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The bank hold-up.",
+        "length_m": 61.57056,
+        "length_retained_m": 40.2336
+      }
+    ]
+  },
+  {
+    "film_title": "Aj-Sondhyay",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Production Syndicate Ltd., 41/3, Station Lane, Dhakuria, Calcutta-31.",
+    "cert_no": "9643",
+    "cert_date": "4-2-54",
+    "endorsement": "U",
+    "rule_applied": "Rule 39",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "4",
+        "description": "A scene in the College Hostel.",
+        "length_m": 28.6512
+      },
+      {
+        "kind": "insertion",
+        "reel": "7",
+        "description": "Certain dialogue in Amita's and Niladri's bedroom scenes.",
+        "length_m": 55.4784
+      },
+      {
+        "kind": "insertion",
+        "reel": "8",
+        "description": "Certain dialogues between Amits and Niladri in the College Hostel.",
+        "length_m": 92.0736
+      },
+      {
+        "kind": "insertion",
+        "reel": "12",
+        "description": "Certain dialogues in the College Hotel and Mohim Babu house between Niladri and her friends and Niladri and Haridedi.",
+        "length_m": 299.9232
+      },
+      {
+        "kind": "insertion",
+        "reel": "13",
+        "description": "A new scene.",
+        "length_m": 155.1456
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "Scene 4A.",
+        "length_m": 105.768
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Night sequence from the shoulder of the Lord Niladri upto the heroine Amita gets up from the bench.",
+        "length_m": 317.016
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Last part of the Bengali song Na Janjio.",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Scene of Kirttan party.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Hindi song 'Taro Udao'.",
+        "length_m": 94.488
+      },
+      {
+        "kind": "insertion",
+        "reel": "8",
+        "description": "A dialogue of the hero.",
+        "length_m": 24.384
+      },
+      {
+        "kind": "insertion",
+        "reel": "10",
+        "description": "Insertion of a shot of Niladri.",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Vaddante Dabbu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M/s. Rohini Pictures, 119 Kodambakkam High Road, Madras-6.",
+    "cert_no": "8170-U",
+    "cert_date": "18-2-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Picture of Rekha seated on the carving of the sacred bull, while playing.",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Picture and sound of Ram saying, 'Eh eh eh' to Shyam, gesturing towards Saroj after her departure.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Picture of Shyam and Saroj drinking coffee from exchanged cups. (Picture of earlier use of cup by Shyam deleted).",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Picture of Sulochana gesturing leaving only her entry with the coffee lift.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "From the dialogue, the term, 'Athai's back portion' when Shyam and Ram are discussing their plans.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the sound only of the fighting when Shyam and Ram are beaten up by the peon.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Delete from the scene showing the doctor, (a) in the dialogue, the words of the academic qualifications of the doctor & (b) the sound and nature relating to lady doctor Parvathi.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Picture of the police officer and men standing to attention and saluting, when Shyam shouts 'gut'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "16",
+        "description": "Delete the picture and sound of the duty nurse at the hospital (sleep) and her lying tipped with a towel by Ram. (Replaced by a dozen word-boy).",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Panam Paduthum Padu'",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Rohini Pictures, 113 Kodambakkam High Rd., Madras-6.",
+    "cert_no": "8171-U",
+    "cert_date": "18-2-54",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Manohara'",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Manohar Pictures, Greenways Road, Madras-28.",
+    "cert_no": "8172-U",
+    "cert_date": "18-2-54",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "film_title": "The Long Goodbye",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "United Artists Corporation.",
+    "cert_no": "4079",
+    "cert_date": "24-8-77",
+    "endorsement": "U",
+    "original_length_m": 3046.79,
+    "length_deleted_m": 56.99,
+    "final_length_m": 2989.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shots showing a dagger pierced through the hands of a man",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the shot of a sword piercing through the throat of a man",
+        "length_m": 1.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Replace the scene of Bajni’s molestation by deleting the indecorous visuals",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the close shot of blood-smeared hand of Nitin when he holds the mirror splinter in his hand",
+        "length_m": 1.82,
+        "length_retained_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Rebel Blade",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Sovexportfilm.",
+    "cert_no": "85572",
+    "cert_date": "1-9-77",
+    "endorsement": "U",
+    "original_length_m": 2646.0,
+    "length_deleted_m": 3.5,
+    "final_length_m": 2642.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shots showing a dagger pierced through the hands of a man",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the shot of a sword piercing through the throat of a man",
+        "length_m": 1.7
+      }
+    ]
+  },
+  {
+    "film_title": "barishta Ya Qatil",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "M/s Parasmani Chitrashala.",
+    "cert_no": "85586",
+    "cert_date": "3-9-77",
+    "endorsement": "U",
+    "original_length_m": 3941.41,
+    "length_deleted_m": 4.32,
+    "final_length_m": 3937.09,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the view of the National Flag touching the ground when a soldier carries it"
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Replace the scene of Bajni’s molestation by deleting the indecorous visuals",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the close shot of blood-smeared hand of Nitin when he holds the mirror splinter in his hand",
+        "length_m": 1.82,
+        "length_retained_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Kisise Kum Nahecn",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "cert_no": "85517",
+    "cert_date": "19-8-1977",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1,11, IV,VI,VIII,X, XI, XII XIll, XIV, XV, XVI XVIII, XIX, & XX",
+        "description": "various shots",
+        "length_m": 244.13
+      }
+    ]
+  },
+  {
+    "film_title": "AAP Ke Jancman Yesudas",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "cert_no": "85342",
+    "cert_date": "15-7-1977",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of shots at the end of the film",
+        "length_m": 4.55
+      }
+    ]
+  },
+  {
+    "film_title": "Amara Deepam",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gopikrishna Movies",
+    "cert_no": "79549",
+    "cert_date": "3-9-77",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shots of Kanchana jerking her bust and hips indecorously during the picturisation of the song",
+        "length_m": 5.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of Kanchana spreading herself on the car during the picturisation of the song",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the shot of Sivaprasad kissing Parvati on the cheek during the picturisation of the song",
+        "length_m": 2.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shots giving prominence to the ill-covered bust and hips of Asha, shots of indecorous bust and hip movements including those where she lifts her skirt, lies on the table and moves on all fours on the floor, jerking her hips and busts",
+        "length_m": 18.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shot showing Asha pulling the bed cover over herself and Sivaprasad and their indecorous movements under the cover",
+        "length_m": 1.72
+      }
+    ]
+  },
+  {
+    "film_title": "Teaser Trailer No. 1 of Jadu Tona",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Guru Enterprising Movies, Madras.",
+    "cert_no": "79540",
+    "cert_date": "29-8-77",
+    "endorsement": "U",
+    "original_length_m": 22.86,
+    "length_deleted_m": 13.72,
+    "final_length_m": 9.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletion to make a shorter version",
+        "length_m": 13.72
+      }
+    ]
+  },
+  {
+    "film_title": "Badhrakali",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Cine Bharathi, Madras.",
+    "cert_no": "79544",
+    "cert_date": "30-8-77",
+    "endorsement": "U",
+    "original_length_m": 3810.35,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the following words spoken by Sankaran to Gayathri in their bedroom",
+        "length_m": 1.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Delete Gayatri kissing Sankaran on the cheek and replace with another shot of embracing",
+        "length_m": 6.64
+      }
+    ]
+  },
+  {
+    "film_title": "Bhuvana Oru Kelvi Ruri",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "M.A.M. Films, Madras.",
+    "cert_no": "3356",
+    "cert_date": "1-9-77",
+    "endorsement": "A",
+    "original_length_m": 3976.0,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the sequence of Nagaraj seducing the girl to a suggestion, especially deleting the shot of his unhooking and removing the blouse and the sound effects of panting and moaning with the accompanying dialogues",
+        "length_m": 8.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace the dialogue by Nagaraj",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce substantially the shot of Nagaraj caressing Bhuvana and their panting with excitement",
+        "length_m": 3.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete shots of picturisation of the song (i) Shot of Bhuvana excited by the caresses of Nagaraj (replaced with palm shots)",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete shots of picturisation of the song (ii) Shot of Nagaraj lying on Bhuvana when she is reclining on the coconut tree (replaced with different shots)",
+        "length_m": 4.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete shots of picturisation of the song (iii) Shot of Nagaraj moving his face on Bhuvana’s body from her leg to shoulder (replaced with different shots)",
+        "length_m": 3.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Reduce the sequence of Nagaraj seducing Bhuvana to a suggestion, especially deleting the shot of his unhooking and removing the blouse and the sound effects of their panting with the dialogue",
+        "length_m": 1.12
+      }
+    ]
+  },
+  {
+    "film_title": "Jagadguru Adi Sankaran",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Jainani Films, Madras",
+    "cert_no": "79337",
+    "cert_date": "27-5-77",
+    "endorsement": "U",
+    "original_length_m": 3680.76,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Scenes depicting the birth of Sankara will be so modified as to establish that when Sankara was born, his father Sivaguru was alive. For this purpose, as agreed, new footage as required will be filmed. This will show that just prior to the confinement of Aryamba, Sivaguru went to the nearby forest for collecting sacrificial firewood, where he gets unwell. In his absence, Aryamba has labour pains, and as shown in the film, divine assistance is bestowed for successful confinement. A new scene will be introduced wherein Aryamba shows the new born baby to Sivaguru. The scenes depicting the death of Sivaguru will be shown after scene 21 in the script.",
+        "length_m": 30.8
+      },
+      {
+        "kind": "deletion",
+        "description": "Scene 9 p. 15 of script. — The monologue of Moorkhan Namboodin beginning from ‘Naslchallo” ....upto “Natakkan Patto” to be deleted. In the next sentence the words “Aa Nasichavaloto ” will be deleted.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "description": "Scene 10 p. 16 of script.— The words uttered by the two ladies passing Aryamba on way to temple will be deleted, including the act of spitting on the ground.",
+        "length_m": 2.26
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Scene 11 p. 11 of script. — In front of temple. The remarks by Moorkhan beginning “Pumachalikku ”upto '‘purathakkom, atratanne” to be deleted. (Replaced “Moorkkathu Namboodirippad Vararayl. Vegam PoykoIlo’M",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Scene 13 p. 19 of script. — Entire scene and dialogue to be deleted, The visuals can be retained If the dialogue is completely modified to accord with the revised birth sequences",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Scene 15 p. 21 of script. In the conversation between Moorkhan and his wife. the remarks by Moorkhan beginning \"Paapam cheithavala” upto “unta- villa\" will be deleted.",
+        "length_m": 6.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "20",
+        "description": "Scene 20 pm. 29 of script . — In the conversation between Moorkhan and Venku Iyer, the remarks of Venku Iyer “Durraargtkalutc Nafakaalam” will be deleted.",
+        "length_m": 3.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "22",
+        "description": "Scene 22 p. 32 of script . — Statement by teacher beginning “Widhavaputranc"
+      }
+    ]
+  }
+]

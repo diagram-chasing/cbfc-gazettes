@@ -1,0 +1,221 @@
+[
+  {
+    "film_title": "Sinhasan",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Shri D.V. Rao, Shri Jabbar Patel",
+    "cert_no": "B/F-344",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the sentence 'Suralya karoon ghala' in the dialogue.",
+        "length_m": 13.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the expression 'Randsali'.",
+        "length_m": 68.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI & XIII",
+        "description": "Delete the abusive words 'Bhosadicha' and 'Bhadavya' wherever they appear.",
+        "length_m": 13
+      }
+    ]
+  },
+  {
+    "film_title": "The In-Laws",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Arthur Hillier and William Sackheim",
+    "cert_no": "B/F-206",
+    "endorsement": "U",
+    "original_length_m": 2815.74,
+    "length_deleted_m": 26.21,
+    "final_length_m": 2789.53,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the shots showing the nude large photograph of the lady to the barest minimum for continuity.",
+        "length_m": 26.21
+      }
+    ]
+  },
+  {
+    "film_title": "Anjaarn",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shri D.V. Rao",
+    "cert_no": "B/82801",
+    "endorsement": "U",
+    "original_length_m": 3674.71,
+    "length_deleted_m": 267.98,
+    "final_length_m": 3406.75,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the hunting song at the beginning with atmospheric shots.",
+        "length_m": 118
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the complete song starting with 'Jane Man Chhod kar Apni Sharmo Haya' and ending with 'Aise Aiso Adayen, Dikhayoongoe Hum', along with the scenes before and after the song.",
+        "length_m": 149.96
+      }
+    ]
+  },
+  {
+    "film_title": "Manuyaro",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Ram Kariat Associates & Shobhana Prem Combines",
+    "cert_no": "B/F-326",
+    "endorsement": "U",
+    "original_length_m": 3935.95,
+    "length_deleted_m": 396.24,
+    "final_length_m": 3877.09,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, VII, X, & XII",
+        "description": "Delete all sequences where the eunuch appears with the comedian and his fiancee.",
+        "length_m": 396.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Add comedian's request to his father-in-law about marrying his daughter.",
+        "length_m": 313.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Add the marriage scene of the comedian and his fiancee.",
+        "length_m": 119
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Add comedian approaching his friend Baharoopia for help in escaping from the cell.",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Add comedian, his fiancee, and friend Bahuroopia going to Khandar and performing a play (Tamasha) for the soldier.",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Add comedian and his wife visiting a temple for wishes to be granted.",
+        "length_m": 58.2
+      }
+    ]
+  },
+  {
+    "film_title": "Jagi Bhag Hamar",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Swar Chitra",
+    "cert_no": "B/F-331",
+    "endorsement": "U",
+    "original_length_m": 3949.01,
+    "length_deleted_m": 13.06,
+    "final_length_m": 3935.95,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the rape sequence drastically, particularly deleting shots after Moti falls on Sone until her ring is seen.",
+        "length_m": 13.06,
+        "length_retained_m": 7.5
+      }
+    ]
+  },
+  {
+    "film_title": "Dhan Daulat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shilpakar",
+    "cert_no": "B/F-345",
+    "endorsement": "U",
+    "original_length_m": 4624.44,
+    "length_deleted_m": 13.9,
+    "final_length_m": 4610.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete derogatory references to the caste 'Sunar' in the dialogue.",
+        "length_m": 13.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce suitably in length and impact the last fight sequence.",
+        "length_m": 13.9,
+        "length_retained_m": 68.4
+      }
+    ]
+  },
+  {
+    "film_title": "Death Dimension",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Harry Hope for Spectacular Film Productions & Nicholas Communication Inc.",
+    "cert_no": "B/90584",
+    "endorsement": "U",
+    "original_length_m": 51.82,
+    "length_deleted_m": 11.64,
+    "final_length_m": 40.18,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot where a hand uncovers a transparent screen revealing Kelly's girlfriend screaming with bare bosom (main title appears on this shot).",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot where a henchman attacks another man with a ring worn on his finger, accompanied by a scream.",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot(s) of a man with semi-nude girls around him in a swimming pool.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot where Kelly bashes a goonda on a tree trunk.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot where Kelly pushes a henchman who falls off a cliff.",
+        "length_m": 1.05
+      }
+    ]
+  }
+]

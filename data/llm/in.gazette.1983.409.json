@@ -1,0 +1,105 @@
+[
+  {
+    "film_title": "Garam Khoon",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Toj Nath Zar",
+    "cert_no": "91993",
+    "cert_date": "29-2-80",
+    "endorsement": "A",
+    "rule_applied": "B/F-391",
+    "original_length_m": 11710.0,
+    "length_deleted_m": 17.38,
+    "final_length_m": 11712.0,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Sequence of Johny with the girl in bed reduced, suggestive shots where Johny opens her bra from the back deleted.",
+        "length_m": 10.67,
+        "length_retained_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Suggestive shots of Helen where she executes bumps by her hips and breasts movements deleted.",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Saboot",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "The Bharat Pictures",
+    "cert_no": "4614",
+    "cert_date": "29-3-80",
+    "endorsement": "A",
+    "rule_applied": "B/F-393",
+    "original_length_m": 3800.94,
+    "length_deleted_m": 11.34,
+    "final_length_m": 3789.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Views of exposure of Rita while she is taking bath in a tub, and raising her legs up deleted.",
+        "length_m": 11.34
+      }
+    ]
+  },
+  {
+    "film_title": "Camouflage",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Film Polskl",
+    "cert_no": "4612",
+    "cert_date": "27-2-80",
+    "endorsement": "U",
+    "rule_applied": "B/F-274",
+    "original_length_m": 2729.37,
+    "length_deleted_m": 5.67,
+    "final_length_m": 2722.9,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Portion of the shot in which the Assistant Professor and English girl are seen in bed where he touches her bare breast and tries to kiss it deleted.",
+        "length_m": 5.67
+      }
+    ]
+  },
+  {
+    "film_title": "Ei To Sansar",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "090718",
+    "cert_date": "25-2-80",
+    "endorsement": "U",
+    "rule_applied": "C/9152",
+    "original_length_m": 3887.72,
+    "length_deleted_m": 15.24,
+    "final_length_m": 3872.48,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Sequence of whipping of Radha by Sekhar reduced.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Sequence of whipping of Sekhar by Radha reduced.",
+        "length_m": 9.14
+      }
+    ]
+  }
+]

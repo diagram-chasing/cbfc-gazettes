@@ -1,0 +1,407 @@
+[
+  {
+    "film_title": "The Looters",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Picture, Universal International India Ltd., Miatato Film, 114, L.N.A. Bldg., Sir P.M. Road, Bombay.",
+    "cert_no": "13702",
+    "cert_date": "26-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Views of girls with emphasized bust showing the arch of the bosom while they are giving first aid to the co-pilot.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scene of the hero and the girl showing looping during a ride near a clock.",
+        "length_m": 5.27304
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "After the hero jumps, the scene of the hero and heroine shown sleeping together.",
+        "length_m": 1.3716
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "The hand-to-hand fighting between the hero and villain.",
+        "length_m": 26.2128,
+        "length_retained_m": 29.8704
+      }
+    ]
+  },
+  {
+    "film_title": "Mart Qalandar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "INC. Filmy, Gobhai Cottage, Versova Road, Andheri), Bombay.",
+    "cert_no": "13708",
+    "cert_date": "26-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Song No. 8, 'Ji, ji, ji, bhar ko pilaankhon ke jaan', the shot of the dancing lady performing a whirling movement on one leg with the other leg bent upward from the knee, with the camera shot taken from between the two legs.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "SI Pintjang",
+    "languages": [
+      "Indonesian"
+    ],
+    "producer": "Perusahaan Film Nagara, Indonesia.",
+    "cert_no": "13706",
+    "cert_date": "28-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of a young boy urinating in a standing position.",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Nag Dosto",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "M. Bharu Films, Tribhuvan Terrace, Lamlington Road, Bombay 4.",
+    "cert_no": "13709",
+    "cert_date": "26-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Entire song 'O Badh. Depe, O Badha Kokao'.",
+        "length_m": 100.584
+      }
+    ]
+  },
+  {
+    "film_title": "Kurdan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Minorva Movietone, Bunder Road, Sewri, Bombay 15.",
+    "cert_no": "13710",
+    "cert_date": "28-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue: Judge: 'Qanoon yoh makin dekhte ko tura no chori kyon kihai? Qanoon yeli dekhta herko....'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Sher Singh: 'Aurton jasnto ho qanoon lobe te hal, jo loko panjenen data halp. jaata hai'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Din Dayal: 'Aur yaiko yoh natija bal te asjaap ka go noon ek sipi ohbalnihun kur reh gaya hai, Jlo mon paani bharo ki nokam koshish ki ja rohi hal, paan! Hlutarah Dahlo rukta, damen bölgto hija raho heln, qonoop jitna aakhthota jon raha lai, gunahon ke hoath bhiutne hi bochte Jos rabo haln, varna kol vajali nalin ke ganoon khoto huo khoon, ohori aur dakaitiko bazar utna higanm rahe Jitna pehle tha'",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Sher Singh: 'Qanoon ki nigahon men har bhool ok jurm hal'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Subhizz: 'Beti kiokhangikibal'",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'To Home of Baghdad'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Mr Favourite Film Exchange, 179, Hindu Colony, Bombay 14.",
+    "cert_no": "13711",
+    "cert_date": "28-7-55",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tehn Sardar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A.J. Doyani, 132, F.A. A.J. Doyani, 132, Famous Bldg., Mahalaxmi, Bombay 11.",
+    "cert_no": "13721",
+    "cert_date": "27-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II + VII",
+        "description": "Prominent views of Maharani and her sister with flesh of the bosom and parting between busts exposed.",
+        "length_m": 32.6112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence: 'Hum donon paah bandook hain, turi bondrok kheli ho gai nur mori goli nuano per lag gni'.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Views of Mora when the mound circular design on her right bust, produced by contrast in color with the main blouse, is prominent.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Whipping of Lal to Lulf its present length in the first lung noqu non.",
+        "length_m": 5.4864,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "There's No Business Like Show Business",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Bombay.",
+    "cert_no": "13744",
+    "cert_date": "29-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Views of ladies in blue, pink, lavender and other dresses dancing to the song 'A Pretty Girl I Like A Melody', with their bare thighs exposed.",
+        "length_m": 32.6112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The sequences after 'Brook Town', the views of the ladies in feather skirt with most of the body visible.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The actin 'Do Paris' number where the girls appear as they have been dressed 'Do Paris'.",
+        "length_m": 63.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The entire 'After you get what you want' number along with the song.",
+        "length_m": 113.9952
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In the repetition of the first song, 'Midnight Choo Choo', views of Katy with slit skirt and portion of thigh, visible. The shot at the middle of the repetition where Katy vomce with a basket to the buttocks and with the word, 'That. A brother' on it.",
+        "length_m": 31.6992
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The entire 'Feat Ware' number along with the song.",
+        "length_m": 296.268
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "In the initial full shots of four young girls clad with their thighs prominently visible.",
+        "length_m": 32.9184
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "A closely view of Katy in full shot where a part of the thigh of her bare buttocks is prominently visible.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'There's No Business Like Show Business'",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Bombay.",
+    "cert_no": "13745",
+    "cert_date": "29-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Views of ladies in blue, pink, lavender and other dresses dancing to the song 'A Pretty girl is like a melody' with their bare thighs exposed.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "description": "'De Paris' number where the girls appear as they have been dressed in 'De Paris'.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "description": "Marilyn Monroe and Vichy singing 'After you got what you want'.",
+        "length_m": 30.1752
+      },
+      {
+        "kind": "deletion",
+        "description": "'Feat Wave' number along with the song.",
+        "length_m": 9.7536
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'There's No Business Like Show Business'",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp., 20th Century Fox Film Corp., U.S.A.",
+    "cert_no": "13745",
+    "cert_date": "29-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The views of ladies in blue, pink, lavender and other dresses dancing to the song 'A Pretty girl is like a melody' with their bare thighs exposed.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "description": "The 'De Paris' number where the girls appear as they have been dressed in De Paris.",
+        "length_m": 2.286
+      },
+      {
+        "kind": "deletion",
+        "description": "The number 'After you got what you want' along with the song.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "description": "The number 'Feat Wave' along with the song.",
+        "length_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "Valley of The Kings",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Bombay.",
+    "cert_no": "13748",
+    "cert_date": "29-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The views of a dancer of the lady in blue coloured chustplug and flying split-skirt with flesh of her bosom and most of the portions of her thighs exposed.",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "The Purple Mask",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Universal Pictures India Ltd., Munluft Bldg., Sir P.M. Road, Bombay.",
+    "cert_no": "13741",
+    "cert_date": "29-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The music of Laurtie in low blouse when she turns round herself with the arch of bosom visible prominently.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "description": "The shots in the dressing room of girls home of them undressing with flesh of bosom visible.",
+        "length_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Arunach",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Productions (c/o Mohan Studio, Andheri, Bombay.",
+    "cert_no": "13021",
+    "cert_date": "13-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Silent show of Pradeep in place of loud show before the song 'Banki adaayen'.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Insert of Moana in place of the insert of the defence counsel in the court scene.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "Script loaden and publicity wherein the fumes refer to accept the responsibility and the letter portadas him to take it up in the interests of the mill workers.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Jalwa",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shorey Films, Co. Ltd., 156, Tardeo Road, Bombay.",
+    "cert_no": "13880",
+    "cert_date": "28-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Wipes, dissolves, fade-in, fade-out throughout the film.",
+        "length_m": 65.8368
+      },
+      {
+        "kind": "deletion",
+        "description": "Original linking pieces in-between sequences throughout the film.",
+        "length_m": 65.8368
+      }
+    ]
+  }
+]

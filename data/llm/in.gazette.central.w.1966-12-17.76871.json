@@ -1,0 +1,3454 @@
+[
+  {
+    "film_title": "Major Dundee",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "48200",
+    "cert_date": "18-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce the sequence showing dead men hanging upside down.",
+        "length_m": 3.96,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce the scene showing corpses in the field after the Red Indians have attacked the camp.",
+        "length_m": 3.35,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce the scenes of hanging corpses.",
+        "length_m": 2.74,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete prominent views of the exposed bosom of the nurse when she is bending.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the nurse's similar views after coming out of the water and when she is talking to Major Dundee.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Drastically reduce the views of a lady with bare back in the Major's hiding place, keeping merely the first flash when Teresa enters.",
+        "length_m": 6.4,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Delete the views of the hanging corpses on the tree.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels XII & XV",
+        "description": "Reduce the fight between Major Dundee's forces and the French and Indians and delete all prominent views of the arrows or spears or swords or bullets actually piercing the human body.",
+        "length_m": 20.42,
+        "length_retained_m": 79.25
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Special Missions in Caracas",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "colour": "Colour",
+    "format": "35 min",
+    "producer": "Vishnu Film Distributors",
+    "cert_no": "48201",
+    "cert_date": "18-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete prominent views of shootings and men being killed.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the prominent view of hard blows.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man being pressed against a moving roller with a steel bar.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the views of a girl in low-cut dress with busts exposed.",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the views of a spiked glove and attempted torture of a girl with the threat of disfiguring her face.",
+        "length_m": 2.43
+      }
+    ]
+  },
+  {
+    "film_title": "Love in Tokyo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Pramod Films",
+    "cert_no": "48204",
+    "cert_date": "18-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "In the T.V. dance, reduce close views of Asha lying down in which her bust is seen to be emphasised.",
+        "length_m": 0.85,
+        "length_retained_m": 8.85
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replace reference to Kubira in the dialogue of Mahesh addressed to Shila's father.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Replace the underlined word from the dialogue of Mahesh addressed to Shila: 'Ek bosa ham ne manga....'.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduce the shot of Ashok attempting to kiss Asha in the Japanese dress.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduce the cabaret dance of Japanese girls in scanty costumes, retaining only the long shots.",
+        "length_m": 4.83,
+        "length_retained_m": 4.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replace the underlined words from Mahesh's dialogue while taking the steam bath: 'Hum jaise garam garam ashiqon ke liye tanduri bathroom....'.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "In the club-dance sequence, reduce shots of couples kissing and necking in the background, and shots of Ashok attempting to kiss Asha along with shots of his suggestively turning over her for a kiss at the end of the scene.",
+        "length_m": 17.31,
+        "length_retained_m": 17.31
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "Add an approved shot conveying the impression that the doctor in the hospital is willing to accept the eyes of a living relative to save Ashok's eyesight.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Amrapali",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "F.C. Mehra, Eagle Films",
+    "cert_no": "48209",
+    "cert_date": "21-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shot of a soldier thrusting a dagger in the chest of an enemy soldier lying on the ground.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "In the group dance 'Nacho nacho gawo....', reduce shots of bust shaking by the girl dancers.",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete far near views of Bhikshus emerging from the porch, in which their gait and gestures are not in consonance with the accepted code of conduct of Bhikshus.",
+        "length_m": 2.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete the underlined word from the following dialogue of the fat comedian addressed to a girl: 'Ek baar phir se takrao, mokesh pa'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "In the picturisation of the song 'Tumhen yaad karte karie....', reduce shots in which the camera is focused on Amrapali's partly bare busts.",
+        "length_m": 3.66,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete suggestion of a kiss between Ajatshatru and Amrapali at the end of the scene in which they come close together.",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete suggestion of kiss between Ajatshatru and Amrapali in the picturisation of the song 'Tarap yeh din raat ki....' in the boat.",
+        "length_m": 2.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete the near back views of Lord Buddha.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Delete the view of Lord Buddha in a reclining posture in which he is shown as lying on the left side.",
+        "length_m": 6.93
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce close views of Ajatshatru's bleeding chest while he is lying in the cottage of Amrapali.",
+        "length_m": 2.74,
+        "length_retained_m": 8.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduce the shot of the mother lying dead (with bleeding chest) with the crying child beside her.",
+        "length_m": 0.91,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Reduce shots of dead bodies lying about after the battle in which Vaishali is destroyed.",
+        "length_m": 6.03,
+        "length_retained_m": 8.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels V & XVI",
+        "description": "Re-record the original Shlokas in Sanskrit and Pali in Pali exclusively."
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Fistful of Dollars",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "48212",
+    "cert_date": "21-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of Joe hitting a girl.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the brutal kick in the stomach of Joe.",
+        "length_m": 1.38
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the gloating faces of the killers as they go on shooting.",
+        "length_m": 2.2
+      }
+    ]
+  },
+  {
+    "film_title": "Diyan Deep",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Director of Publicity, Govt. of Maharash",
+    "cert_no": "48213",
+    "cert_date": "21-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shots showing the teacher being humiliated by the children and being dragged by the devil.",
+        "length_m": 26.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jabar In Kashmir",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Johar Films Pvt. Ltd.",
+    "cert_no": "48214",
+    "cert_date": "21-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete all references to Musa Kha, one of the raiders throughout the film.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word Pakistan with reference to raiders, wherever it occurs.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the reference in the radio commentary to Firangi and Divide and rule policy.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete reference to Pakistan with reference to Kashmir in Zenab's dialogue.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the words 'Ye halwa tu baad me chakhengc' spoken by one of the raiders with reference to Salma.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the underlined words from the following lines of the song beginning with the words: 'Jannat ki hai tasveer yeh tasvcor....', 'Lahore men pahuncha tere sceneko chirta....', 'Yun jeet ke har baar Haji Pir na denge....'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete Ahmed's dialogue addressed to Salma 'Waiso to main bhi Pakistan ka hamdard hun'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the word 'Kafir' with reference to women in the dialogue between the raiders and Aslam.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the underlined words from the following lines of the song beginning with the words: 'Meri naam hai Qomar Jaani, khaoon roti Englistani....', 'Main bebi kaisa Pakistani', 'Paas hamare kya hai yuuro ych Amrica jaane', 'Main ne yaar unkon zamajha, main bhi kaisa Pakistani', 'Goli Amrika ki kaani na aai fiawai jahaj nikale hawai', 'Lene gaye the hum Kashmir, deka na gaye Haji Pir', 'Main ne tuba kar li bhai, main to thehia Pakistani'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sung beginning with words Begunnon ka lahu hai.... the line Hush Hussain ka insaaf kiya jaayega....",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete reference to Pakistan from the dialogue 'Hamen Pakistaniyon ne hi jihaad ka josh dilaya hai....'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete references in Aslan's dialogue referring to the Kashmiri people of Occupied Kashmir as Pakistanis.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Delete shooting of the Crescent of the mosque.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "We Are With You Patriots of Vietnam",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Central Documentary Film Studio, U.S.S.R.",
+    "cert_no": "48215",
+    "cert_date": "22-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the following words and sentences from the commentary: Reel - 1. Things are different in the south.... upto....brothers and sisters in the South. 2. And what the aggressors destroy with poison in the south yields bumper crops here.....fighting for the reunification of their country.....In the struggle.....upto concentration camp, and.....fur final victory in conclusion, Comrade Ngven Van Kin.....upto intervention in South Vietnam! 6. We firmly.....uplo.....will win! 7. We belicvs.....uplo.....know this, tov!.....fur the patriotic struggle of the South Vietnamese People! Reel II-.....Medicine.....upto.....aggression.....and their just cause.....und tell the truth upto.....South Vietnam.....and we lirmly believe.....urto.....just cause. 13. Fighting for the reunification of their country.",
+        "length_m": 40.0
+      }
+    ]
+  },
+  {
+    "film_title": "We Are With You Patriots of Vietnam",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "16 mm",
+    "producer": "Central Documentary Film Studio, U.S.S.R.",
+    "cert_no": "48216",
+    "cert_date": "22-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the following words and sentences from the commentary: Reel l. 1. Par dakshin men baat dusti hai-Walian logon ko qaid kar rakha hai. 2. Zindagi bilkul doosuri hai, Wahan ko log dakshin ke apne bhayion-bahinon ke saath hain.....yahan...., 3. .....Apne desh ke punar-ckikaran ke liye sangharsh kar rahi ha...., 4. Wo videshi dakhalandazi--uplo.....shantipurvak ekikaran ke liye sangharsh kar rahe hain...., 5. Vietnami janata ko nyanpurna sangharsh ka samarthan karne ke vasto...., 6. .....Aur dakshini Vietnami rashtriya mukti morche kc karvayiyon...., 7. Purna vijay prapt karne tak sangharsh kurne ke liyc...., 8. .....Amriki samrajyawadi aur dakshini Vietnam me unki fauji dakhlandazi murdabad! 9. Vietnan ki teen karore janta azad ho, 10. Hanen pura vishwas upto vijayi honge.....Dakshini Vietnam jaldi hi azad hoga.....Amriki samrajyavadi.....Deshbhaktipurna sangharsh ke vyapak samarthan aur....., Reel II – .....Sangharsh men..... .....Atank ke.....Vo dakshini Vietnam ki sachchi paristhiti bhi batati hain.....Hamen pura vishwas hai.....upto vijay milogi.",
+        "length_m": 46.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of The Girls On The Beach",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48217",
+    "cert_date": "22-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the views of the girls in a two piece beach dress walking away from the camera.",
+        "length_m": 2.65
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the prominent views of the girls in country dress performing indecorous movements.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete similar views of girls in scanty dress performing indecorous movements with inter-cuts of men watching.",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a girl in bench costume with a boy staring at her hips.",
+        "length_m": 0.28
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the indecent views of a girl lying on her stomach on a surf board and the shot showing indecent views of a girl lying flat on her back.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot showing a binocular-view of Arlene falling on Stu.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a girl in scanty and transparent dress pushing the Jugos table with her hips.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 928",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48206",
+    "cert_date": "20-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Metro News Vol: 630",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd.",
+    "cert_no": "48207",
+    "cert_date": "20-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Energetically Yours",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Transfilm",
+    "cert_no": "48208",
+    "cert_date": "20-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Carry On Spying",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Rank Films Distributors of India Ltd.",
+    "cert_no": "48286",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the indecorous bust jerks of the dancer.",
+        "length_m": 1.13
+      }
+    ]
+  },
+  {
+    "film_title": "Burning Problem",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Khadi & Village Industries Commission",
+    "cert_no": "48258",
+    "cert_date": "28-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian Heritage",
+    "format": "35 mm",
+    "producer": "Trio Films",
+    "cert_no": "48259",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "For Stronger India",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48260",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "From Lagoon To Sea",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48261",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Not Today",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48262",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "How To Up Sales By Better Sales Supervision",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Merck Sharp & Dohme of (I) Ltd.",
+    "cert_no": "48263",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Supervising And Motivating Salesman",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "American Management Asscn, Inc.",
+    "cert_no": "48264",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Problems of Motivating Salesman",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "American Management Asscn, Inc.",
+    "cert_no": "48265",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Attitude In Supervision",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Canadian Govt. Trade Commnr.",
+    "cert_no": "48266",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Science Report 57-A",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "United States Information Service",
+    "cert_no": "48267",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Science Report 57-B",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "United States Information Service",
+    "cert_no": "48268",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Walter Fowl- A Resource In Danger",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Canadian Govt. Trade Commnr.",
+    "cert_no": "48269",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Labela",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Cine Experts",
+    "cert_no": "48270",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Gumnaam No. 2",
+    "languages": [
+      "Hindi",
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Prithvi Pictures",
+    "cert_no": "48271",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close-up of the knife held by Anand.",
+        "length_m": 1.17
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the close-up of Rakesh with a knife.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the shot of a girl making indecorous leg movements during the club-dance.",
+        "length_m": 0.3,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sound of screams in the background as well as by Asha towards the end.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the prominent view of the nose.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Wedding Ceremony",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Raja K. Katre",
+    "cert_no": "48277",
+    "cert_date": "29-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the water pipe when it is aimed at the bust of a girl in frock.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Madhu's sentence that in the days of mythology there were nylon saris and also delete his comparing Lakhsmi, Parvati and Saraswathi to some film actresses.",
+        "length_m": 47.54
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the hotel keeper's sentence 'Because you are our people, I gave the room for nine rupees'.",
+        "length_m": 4.25
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Rekha's sentence to Srikanth that she was his student and that she would learn love lessons from him.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Srikanth putting his head to the hip of Rekha and caressing her.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete his embracing her at the coconut palm in close proximity view.",
+        "length_m": 3.03
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete her leaning over him on the rock.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Madhu's sentence to Chandra 'Whore have I got stock to'.",
+        "length_m": 13.7
+      },
+      {
+        "kind": "deletion",
+        "description": "In the bathing scene, retain only the portion when Srikanth and Rekha are in water and delete the rest of the scene entirely including their coming out of the water to the brink, and sitting side by side on the platform, until Rekha is seen in sari.",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of Srikanth falling in the lap of Radha and the subsequent close proximity view.",
+        "length_m": 1.01
+      },
+      {
+        "kind": "reduction",
+        "description": "When Rajaram is murdered, reduce the number of close-up shots of his face, retaining only one close-up.",
+        "length_m": 5.79,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce considerably the sequence of Srikanth and Madhu giving clip to police and escaping from their notice.",
+        "length_m": 2.4,
+        "length_retained_m": 2.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the picture of palloo of Kanthasri's sari slipping and Kamini's reaction along with her dialogue 'Thoo, maimele niluvadilla'.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Kamini and Chandra in the green room adjusting each other's brassiers sitting together.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Kamini's dialogue 'threemonths timc is cnough for him to make her a mother'.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "description": "In the dance practice sequence, delete the opening indecorous leg movements of Kanthasri and Madhuri.",
+        "length_m": 5.93
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Madhuri's sentence to Chandra 'You know quite well all about males'.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Madhuri's palloo falling and the artificial bust being exposed.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Madhuri forcibly caressing Chandra before they go outfield.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the close shot of Madhuri with exposed artificial bust till camera goes back.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Srikanth in the bathroom trying to hide the brassiers by hitting them to the ventilator before Rekha enters.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Srikanth with artificial brassier prominently seen.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of Kamini jerking her posterior towards camera.",
+        "length_m": 2.42
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Chandra's hand on the artificial bust of Madhuri when both are sitting on bed.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Singaram saying Nama Chi Vaya.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "In the bathing scene, delete the girls pouring water over their busts wherever it occurs.",
+        "length_m": 26.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line 'Pariz.: :: Pett: kathui.zdai marcipado' from the text.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line 'Paruyan tharum Rullo virundhaven em :zi pilliravili n in pidithu viipen' from the song.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "description": "When Murugan bends over Valli, delete the portion where her bust touches his body.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Singaram saying 'Give him puisen und be done with him'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "description": "Delete Valji kissing Murugan on check on the song line 'Mudivahum'.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Kayamkulam Kochunni",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Shri P.A. Thomas, Thomas Pictures",
+    "cert_no": "46794",
+    "cert_date": "26-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Modify the word Panakkar.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the Muslim prayer.",
+        "length_m": 9.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the words Ye Vaira Kudukkanum Kudumiyuni....",
+        "length_m": 3.614
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Modify the lines - Panakkaran Pariluke Pavanhale Padachu, Pavankal Ennavarai Kaliyakki Chirichu....",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the reference to Shiva and Parvathi.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 14",
+        "description": "Modify the words Ye Rajyathile....",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Veera Sabhadham",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Suresh Pictures",
+    "cert_no": "46795",
+    "cert_date": "28-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Penn Ninythal",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Shree Padmalaya",
+    "cert_no": "46796",
+    "cert_date": "30-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the words of Raja 'Mangamma, Valibathin Mayakkam Rasik kamal Theorathu'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Manickam's words: Unakku Vayathile Vandhidichu.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Lorry Driver",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Maheswari Productions",
+    "cert_no": "46797",
+    "cert_date": "30-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the close shot of the currency notes before the camera goes back.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Jambu kissing the dancer when they are in close proximity.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Kandaswamy holding Mohini's pavadai from below.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the word Tharuvayo from the third line of first verse.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the word Suhamtharuven from the third line of last verse.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete Jambu pouring the drug in the milk glass.",
+        "length_m": 3.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the dancer's skirt going up (twice).",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the bust jerking of the group dancers on B.G.M.",
+        "length_m": 1.11
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line Ooradanguni Neram Parthu Marakkamal Vao Macchan.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Pyar Kiya Jan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Eastmancolour",
+    "format": "35 mm",
+    "producer": "Chithralaya",
+    "cert_no": "46773",
+    "cert_date": "17-6-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "Voluntary deletion of Malati posing for photograph before Nirmala.",
+        "length_m": 3.81
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Biradari",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Ram Kamlani, Gore Productions",
+    "cert_no": "48274",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Joey",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Canadian Govt. Trade Commissioner",
+    "cert_no": "48275",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Custodial Procedures",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Canadian Govt. Trade Commissioner",
+    "cert_no": "48276",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Film Director Knows Best",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "National Advt. service (P) Ltd.",
+    "cert_no": "48278",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Productivity Is Everybody s Concern",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Hunnar Films",
+    "cert_no": "48279",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Wings To France",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Pan American Airways",
+    "cert_no": "48280",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Asphalt Institute",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Esso Standard Eastern Inc.",
+    "cert_no": "48281",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Asphalt Surface Treatment",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Esso Standard Eastern Inc.",
+    "cert_no": "48282",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Elephantastic",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "48283",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Asphalt Institute",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Esso Standard Eastern Inc.",
+    "cert_no": "48284",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Strength In Depth",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Esso Standard Eastern Inc.",
+    "cert_no": "48285",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Inside Daisy Clover",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Warner Bros. First National Pictures Inc.",
+    "cert_no": "48286",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Carry On Cowboy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Rank Films Distributors of India Ltd.",
+    "cert_no": "48287",
+    "cert_date": "1-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the indecorous bust jerks of the dancer.",
+        "length_m": 7.2
+      }
+    ]
+  },
+  {
+    "film_title": "The Prize",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd.",
+    "cert_no": "48288",
+    "cert_date": "3-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce shots of prolonged kissing between Craig and Inger.",
+        "length_m": 11.05,
+        "length_retained_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce to a flash shots of their close embrace, deleting close up of Lisa's feet being lifted up suggestively as they turn about.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete their suggestive dialogue as under: Craig: This calls for all sorts of thighs Lisa: Yes. Craig: We may even have to..... Lisa: Yes.",
+        "length_m": 29.23
+      }
+    ]
+  },
+  {
+    "film_title": "Mujrim Kaun?",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "K. K. Reddy",
+    "cert_no": "48373",
+    "cert_date": "5-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the shot of Mary with emphasised bust when she is lying on the cot.",
+        "length_m": 1.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the wrestling match between two women, deleting the shots where the camera is focussed on the thighs of one girl whose legs are raised and on the chest of another girl who is lying on her back. Reduce the shots of the girl sitting with her feet wide apart on the referee.",
+        "length_m": 17.12,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "OSS 117 Mission For A Killer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "48379",
+    "cert_date": "22-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of choking of a man.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being dragged behind a car.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of whipping.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete vicious blows in stomach and a man being pushed to death after putting a curtain over his face.",
+        "length_m": 7.44
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Secret Agent Tiger Prefers Dynamite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "48379",
+    "cert_date": "22-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being choked to death.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the sequence of women bathing in the pool.",
+        "length_m": 2.44,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of torture and the fight by deleting vicious kicks and blows.",
+        "length_m": 6.05,
+        "length_retained_m": 4.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight by deleting vicious kicks and blows and also the shot of man being knifed and bashed when the curtain is thrown over his face.",
+        "length_m": 17.68,
+        "length_retained_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the shot of a man being dragged behind the car.",
+        "length_m": 1.67,
+        "length_retained_m": 1.26
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of a man being taken to his death over a conveyor belt.",
+        "length_m": 2.59,
+        "length_retained_m": 1.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of scratching of a face of a man with nails.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight in cage.",
+        "length_m": 9.14,
+        "length_retained_m": 8.86
+      }
+    ]
+  },
+  {
+    "film_title": "The Naked Prey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48379",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being backed and the words '.....a safari with unbelievable cruelty'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of semi-nude women clubbing a man.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being tied to a stake with a cobra attacking him.",
+        "length_m": 2.88
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scream of a Negro as a spear hits him.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a White man backing a Negro near a tree.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a lion closing in on a buffalo for a kill.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of semi-nude women on the words '.....who destroy native village to ravish and seize their captives'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word Primitive from This extra ordinary picture was filmed entirely in the primitive areas.",
+        "length_m": 0.22
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'One Spy Too Many'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd.",
+    "cert_no": "48349",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of the girl lying on her belly with her bust seen partially and her body exposed.",
+        "length_m": 10.28
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete a similar shot of another girl with a bedsheet tucked at her bust in a seductive posture.",
+        "length_m": 10.28
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the prominent views of a man dragged below the tractor.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being killed by plunging of a dagger into his chest.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Conquest of Mycenae",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Euroscope",
+    "producer": "Warner Bros. 1st National Pictures Inc.",
+    "cert_no": "48350",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the view of Moloch's face and all direct thrusts by arrows, spears, swords, etc. from the fighting scene.",
+        "length_m": 6.99
+      }
+    ]
+  },
+  {
+    "film_title": "Miss India 1965 Sayonara Girl",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "India Art Films",
+    "cert_no": "48351",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Finger on the Trigger",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48352",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "La Rectoscopie Dans Le Cancer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Centre Anticanccreux De Roins",
+    "cert_no": "48353",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Les Adenomes De La Prostate Etude Endoscopique",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Centre National De Recherche Scientifique",
+    "cert_no": "48354",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Phobie D impulsion",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Roche Sciencefilm",
+    "cert_no": "48355",
+    "cert_date": "10-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Handle With Care",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "The Monotype Corp Ltd.",
+    "cert_no": "48356",
+    "cert_date": "11-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Judith'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48357",
+    "cert_date": "11-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Godrej Story",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "B. D. Garg",
+    "cert_no": "48359",
+    "cert_date": "11-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "After The Eclipse",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "S. Sukhdev, United Film Arts",
+    "cert_no": "48383",
+    "cert_date": "23-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Enchanted One",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Ratan Batra Pvt. Ltd.",
+    "cert_no": "48384",
+    "cert_date": "23-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Film Journal No. 11",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Ama Pvt. Ltd.",
+    "cert_no": "48385",
+    "cert_date": "23-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Prisoner",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Theodore Bowling S. J. Institute for Home Study",
+    "cert_no": "48386",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shot showing the photograph of Khrushchev and the Hydrogen Bomb.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Paint Three of Allistory of Moll Racing The Titans 1930",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Buruh Shell Oil Storage & Distributing Co. of India Ltd.",
+    "cert_no": "48387",
+    "cert_date": "23-4-60",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bad Day At Cat Rock",
+    "languages": [
+      "English"
+    ],
+    "colour": "Cartoon",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd.",
+    "cert_no": "48388",
+    "cert_date": "14-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jerry Gol Round",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd.",
+    "cert_no": "48389",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 933",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48390",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sarvepalli Radhakrishnan, President of India",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48391",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anand",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Nuizeer Dilddiqui",
+    "cert_no": "48392",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Sleeping Beauty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "70 mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "48393",
+    "cert_date": "26-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sarvepalli Radhakrishnan President of India",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48394",
+    "cert_date": "26-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sleeping Beauty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "70 mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "48395",
+    "cert_date": "26-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The American Sportsmen Hunting India Tiger & Sambar Stag",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Maharaja of Bundi",
+    "cert_no": "48397",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jadoo",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "B. Gupta",
+    "cert_no": "48398",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce the shots of the action of pick-pocketing by Alludin.",
+        "length_m": 0.55,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sound of the flying kiss.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "reduction",
+        "description": "In the picturisation of the song No. 2 beginning with the words 'Tum nazr dekho.......', delete the shot of indecorous dancing.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "description": "In the picturisation of the song No. (quwali) beginning with the words Saki ne meri meri pyas.......delete the shot of winking by the quwal.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the exposed bosom of the girl when she is bending in the picturisation of the song No. 6 beginning with the words: Mehphilmen hum teri aaye hain.......",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line Jo karna hai aaj karle husn ijazat deta hai from the above Sung.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight between the Jadugar and the hero, reducing the shots of the thrusting of the sword and pressing with the foot. Reduce the twisting of the legs in the fight.",
+        "length_m": 1.06,
+        "length_retained_m": 0.95
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Ujala",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "F.C. Mehra, Eagle Films",
+    "cert_no": "48399",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Delete the shot of indecorous dancing in.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Biradari",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Ram Kamlani, Gope Productions",
+    "cert_no": "48400",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Replace the underlined word in the song: Sagar ko chum chum he.......in the line tujh ko khuda kahega ki mare ghar men aake pi with approved words.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Secret Agent Tiger Prefers Dynamite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "1801",
+    "cert_date": "22-6-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being choked to death.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the sequence of women bathing in the pool.",
+        "length_m": 2.44,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of torture and the fight by deleting vicious kicks and blows.",
+        "length_m": 6.05,
+        "length_retained_m": 4.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight by deleting vicious kicks and blows and also the shot of man being knifed and bashed when the curtain is thrown over his face.",
+        "length_m": 17.68,
+        "length_retained_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the shot of a man being dragged behind the car.",
+        "length_m": 1.67,
+        "length_retained_m": 1.26
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of a man being taken to his death over a conveyor belt.",
+        "length_m": 2.59,
+        "length_retained_m": 1.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of scratching of a face of a man with nails.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight in cage.",
+        "length_m": 9.14,
+        "length_retained_m": 8.86
+      }
+    ]
+  },
+  {
+    "film_title": "Nevada Smith",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48379",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot showing Jesse Crew's hand lingering on Tabanaka's breast.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sequence showing Maz and Neesa lying on bed with their legs interlocked.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce scene of Bondre being whipped and particularly delete close-views of his face.",
+        "length_m": 2.75,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Naked Prey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48352",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man being backed and the words '.....a safari with unbelievable cruelty'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of semi-nude women clubbing a man.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being tied to a stake with a cobra attacking him.",
+        "length_m": 2.88
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scream of a Negro as a spear hits him.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a White man backing a Negro near a tree.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a lion closing in on a buffalo for a kill.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of semi-nude women on the words '.....who destroy native village to ravish and seize their captives'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word Primitive from This extra ordinary picture was filmed entirely in the primitive areas.",
+        "length_m": 0.22
+      }
+    ]
+  },
+  {
+    "film_title": "The Dog That Bit You",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Theodore Boling S.J. Institute for Home Study",
+    "cert_no": "1804",
+    "cert_date": "24-8-66",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "The Lovers",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Theodore Boling S.J. Institute for Home Study",
+    "cert_no": "1805",
+    "cert_date": "24-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shot showing the photograph of Khrushchev and offect of Hydrogen bomb.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Moving Target",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Warner Bros. First National Pic. Inc.",
+    "cert_no": "1806",
+    "cert_date": "25-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete closeup of Miranda in bikini in which her exposed bust and hips are seen prominently. Also delete shots of Miranda in bikini sitting in Alan's lap in an indecorous posture.",
+        "length_m": 8.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce shot of bust jerking by Fay while dancing in the cafe.",
+        "length_m": 1.35,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete Fay's suggestive dialogue addressed to Harper before collapsing on the coach after getting drunk Don't do anything to me till I have got up - tomorrow.",
+        "length_m": 3.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the remark of Fay's husband addressed to Harper referring to her: You can have her.",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the underlined words from the following dialogue between Miranda and Harper in the car: Stop acting like a bitch in heat.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably reduce the scene of torturing of Betty with burning cigarette ends, particularly the sound of her prolonged shriek and her reactions.",
+        "length_m": 3.4,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Amrapali",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "F.C. Mehra, Eagle Films",
+    "cert_no": "48209",
+    "cert_date": "21-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, V, VI & X",
+        "description": "Deleted various shots.",
+        "length_m": 192.3
+      }
+    ]
+  },
+  {
+    "film_title": "Secret Agent Tiger Prefers Dynamite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "1801",
+    "cert_date": "22-6-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being choked to death.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the sequence of women bathing in the pool.",
+        "length_m": 2.44,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of torture and the fight by deleting vicious kicks and blows.",
+        "length_m": 6.05,
+        "length_retained_m": 4.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight by deleting vicious kicks and blows and also the shot of man being knifed and bashed when the curtain is thrown over his face.",
+        "length_m": 17.68,
+        "length_retained_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the shot of a man being dragged behind the car.",
+        "length_m": 1.67,
+        "length_retained_m": 1.26
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of a man being taken to his death over a conveyor belt.",
+        "length_m": 2.59,
+        "length_retained_m": 1.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of scratching of a face of a man with nails.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight in cage.",
+        "length_m": 9.14,
+        "length_retained_m": 8.86
+      }
+    ]
+  },
+  {
+    "film_title": "The Naked Prey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48352",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot showing Jesse Crew's hand lingering on Tabanaka's breast.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sequence showing Maz and Neesa lying on bed with their legs interlocked.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce scene of Bondre being whipped and particularly delete close-views of his face.",
+        "length_m": 2.75,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Dog That Bit You",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Theodore Boling S.J. Institute for Home Study",
+    "cert_no": "1804",
+    "cert_date": "24-8-66",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "The Lovers",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Theodore Boling S.J. Institute for Home Study",
+    "cert_no": "1805",
+    "cert_date": "24-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shot showing the photograph of Khrushchev and offect of Hydrogen bomb.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Moving Target",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Warner Bros. First National Pic. Inc.",
+    "cert_no": "1806",
+    "cert_date": "25-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete closeup of Miranda in bikini in which her exposed bust and hips are seen prominently. Also delete shots of Miranda in bikini sitting in Alan's lap in an indecorous posture.",
+        "length_m": 8.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce shot of bust jerking by Fay while dancing in the cafe.",
+        "length_m": 1.35,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete Fay's suggestive dialogue addressed to Harper before collapsing on the coach after getting drunk Don't do anything to me till I have got up - tomorrow.",
+        "length_m": 3.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the remark of Fay's husband addressed to Harper referring to her: You can have her.",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the underlined words from the following dialogue between Miranda and Harper in the car: Stop acting like a bitch in heat.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably reduce the scene of torturing of Betty with burning cigarette ends, particularly the sound of her prolonged shriek and her reactions.",
+        "length_m": 3.4,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Code 7 Victim 5'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "48367",
+    "cert_date": "17-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the indecorous view of girl in bikini.",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Blood On the Arrow'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rank Film Distributors of India Ltd.",
+    "cert_no": "48368",
+    "cert_date": "17-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot when a man assaults a woman and throws her on the river bank and bends over her.",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sudden Summer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Rank Film Distributors of India Ltd.",
+    "cert_no": "48370",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the following close shots from the belly dance sequence when the dancer: (1) removes the thin linen covering her top; (2) reverses with head downwards showing prominently her bosom; (3) pushes a person from the audience with her over-exposed hips; (4) gyrates showing prominently her over-exposed hips.",
+        "length_m": 6.7
+      }
+    ]
+  },
+  {
+    "film_title": "Labela",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Young India Entertainers",
+    "cert_no": "48371",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the view of Radha swaying hips while walking away from the camera.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "In Tamasha dance sequence, delete: (a) back view of Radha waving her hips.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "(b) Shot of Kishan holding Radha from behind and prompting her to give a bust jerk.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "description": "(c) and bust jerking by Radha on 'dholak' rythm.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete all shots of Rita making indecorous movements of her bust, hips and bally while dancing before the boss. Also delete shots of her clinging to him making sensuous gestures.",
+        "length_m": 3.7,
+        "length_retained_m": 3.7
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete Rita making sensuous gestures while clinging to boss in.",
+        "length_m": 0.68
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete Rita's suggestive gesture (o her body on the first time 'Sitamgar naam hai jiska, bhall woh memrbaan na ho'.",
+        "length_m": 0.88,
+        "length_retained_m": 2.47
+      },
+      {
+        "kind": "reduction",
+        "description": "In the Twist dance sequence, delete shot of a girl in printed frock making indecorous movements and shots of the girl in white blouse rubbing herself against her male partner along with close views of dancing couples shaking their busts in close proximity. Also delete shot of Bela making indecorous jerking movements while on the table.",
+        "length_m": 3.96,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete shots of bust jerking by Radha while singing.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete shot of couple shaking bust in close proximity.",
+        "length_m": 0.95,
+        "length_retained_m": 0.95
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete shots of indecorous movements and bust jerking by the principal female dancer.",
+        "length_m": 2.35,
+        "length_retained_m": 2.35
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Neund Humari Khawab Tumhare",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Movie Monuments",
+    "cert_no": "48372",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted shot of man adjusting his trousers.",
+        "length_m": 3.81
+      }
+    ]
+  },
+  {
+    "film_title": "Neend Humari Khawab Tumhare",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Movie Monuments",
+    "cert_no": "48375",
+    "cert_date": "19-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shots of bust jerking by one of the dancing girls during the song dance sequence: 'Saagiya ek jaam.......'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI, X, XI",
+        "description": "Deleted all suggestions of and attempts at kissing wherever they occur.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted reference to Kaaba and 'Ya Zul Jallal' from the dialogue of Mirsahih disguised as a fakir.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted the underlined words from the dialogue of Nawab Azamatulla Khan addressed to Anwar: Ji chlata hai us kamini ka sar inunda kar ghar se bahar nikalu.......",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Devar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Delux Films",
+    "cert_no": "48373",
+    "cert_date": "19-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Just Right",
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Image India Pvt. Ltd.",
+    "cert_no": "48374",
+    "cert_date": "19-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Laaiye Tod Nibhaiye'",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35 mm",
+    "producer": "Kishanlal Varma",
+    "cert_no": "48376",
+    "cert_date": "20-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Delete the shot of indecorous dancing in.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Laaiye Tod Nibhaiye",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35 mm",
+    "producer": "Kishanlal Varma",
+    "cert_no": "48377",
+    "cert_date": "20-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the direct use of abusive terms such as 'Kutte', Kamene etc.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted the kissing of Jecto's hair by Kishan when he comes to her dressed as a woman.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the shots showing Pagala kissing Kishan dressed as Chinto on the neck and back etc.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the shot showing the cloth merchant kissing Kishan's father and deleted his remarks about the same.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "description": "Deleted the shots of indecorous dancing in the picturisation of the song beginning with the words 'Haye ni Haye ni hae ni....'.",
+        "length_m": 0.61,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduced the Fight with broken glass bottle.",
+        "length_m": 9.2,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Blood On the Arrow",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rank Films Distributors of India Ltd.",
+    "cert_no": "1799",
+    "cert_date": "17-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce drastically the scene of the Red Indian molesting Nancy on the river bank his throwing her on the ground and his bending over her.",
+        "length_m": 19.2,
+        "length_retained_m": 3.3
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce drastically the raid on the railway station, attack on the guards and the stealing of guns boxes and powder kegs belonging to the U.S. Cavalry, keeping the minimum necessary for continuity.",
+        "length_m": 10.0,
+        "length_retained_m": 9.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sannata",
+    "languages": [
+      "Hindustani"
+    ],
+    "format": "35 mm",
+    "producer": "O. P. Gadhok",
+    "cert_no": "1800",
+    "cert_date": "20-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sesh Tin Din",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Embee Production",
+    "cert_no": "46344",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Kalpana'",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Amalendu Bagchi",
+    "cert_no": "46345",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Worn Infections in Farm Animals",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Dhiren Saha Productions",
+    "cert_no": "46310",
+    "cert_date": "12-7-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mahakavi Kalidas",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Kulpana Kala Mandhir",
+    "cert_no": "47920",
+    "cert_date": "16-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sri Krishna Thulabharamu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Suresh Productions",
+    "cert_no": "47921",
+    "cert_date": "17-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Song 2 - Delete the shot of tight embrace of Krishna and Rukmini when they are together.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song 4 - (a) Delete the joid-shot of the dancer with her front view prominently visible, when she lifts her hands; (b) Delete the dancer's jumping movements with legs apart; (c) Delete the close view of the posterior of the dancer when her thigh and legs are prominently visible when she tilts from legs to head; (d) Delete the picture of the dancer with her legs stretched apart.",
+        "length_m": 1.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the near kissing posture of Krishna and Satyabhama.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Saraswathi Sabatham",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Eastman colour",
+    "format": "35 mm",
+    "producer": "Sri Vijayalakshmi Pictures",
+    "cert_no": "47922",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ma Annaiah",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Sha Films",
+    "cert_no": "47923",
+    "cert_date": "18-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Katti Potu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Manzulaa Cine Syndicate",
+    "cert_no": "47924",
+    "cert_date": "20-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Rendezvous",
+    "format": "35 mm",
+    "producer": "Principal, Film Institute of India",
+    "cert_no": "48378",
+    "cert_date": "22-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Secret Agent Tiger Prefers Dynamite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "48379",
+    "cert_date": "22-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being choked to death.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the sequence of women bathing in the pool.",
+        "length_m": 2.44,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of torture and the fight by deleting vicious kicks and blows.",
+        "length_m": 6.05,
+        "length_retained_m": 4.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight by deleting vicious kicks and blows and also the shot of man being knifed and bashed when the curtain is thrown over his face.",
+        "length_m": 17.68,
+        "length_retained_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the shot of a man being dragged behind the car.",
+        "length_m": 1.67,
+        "length_retained_m": 1.26
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of a man being taken to his death over a conveyor belt.",
+        "length_m": 2.59,
+        "length_retained_m": 1.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of scratching of a face of a man with nails.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight in cage.",
+        "length_m": 9.14,
+        "length_retained_m": 8.86
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Tasveer",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Wadia Movietone",
+    "cert_no": "48380",
+    "cert_date": "23-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Metro News Vol. 635",
+    "format": "35 mm",
+    "producer": "Metro Gollwyn Mayer (I) Ltd.",
+    "cert_no": "48381",
+    "cert_date": "23-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Godrej Story",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "B. D. Garg",
+    "cert_no": "48383",
+    "cert_date": "23-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Prisoner",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Theodore Bowling S. J. Institute for Home Study",
+    "cert_no": "48386",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shot showing the photograph of Khrushchev and the Hydrogen Bomb.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Paint Three of Allistory of Moll Racing The Titans 1930",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Buruh Shell Oil Storage & Distributing Co. of India Ltd.",
+    "cert_no": "48387",
+    "cert_date": "23-4-60",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jerry Gol Round",
+    "languages": [
+      "English"
+    ],
+    "colour": "Cartoon",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd.",
+    "cert_no": "48389",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 933",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48390",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sarvepalli Radhakrishnan, President of India",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48391",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anand",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Nuizeer Dilddiqui",
+    "cert_no": "48392",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Sleeping Beauty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "70 mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "48393",
+    "cert_date": "26-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sarvepalli Radhakrishnan President of India",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "48394",
+    "cert_date": "26-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sleeping Beauty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "70 mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "48395",
+    "cert_date": "26-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The American Sportsmen Hunting India Tiger & Sambar Stag",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Maharaja of Bundi",
+    "cert_no": "48397",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jadoo",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "B. Gupta",
+    "cert_no": "48398",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce the shots of the action of pick-pocketing by Alludin.",
+        "length_m": 0.55,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sound of the flying kiss.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "reduction",
+        "description": "In the picturisation of the song No. 2 beginning with the words 'Tum nazr dekho.......', delete the shot of indecorous dancing.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "description": "In the picturisation of the song No. (quwali) beginning with the words Saki ne meri meri pyas.......delete the shot of winking by the quwal.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the exposed bosom of the girl when she is bending in the picturisation of the song No. 6 beginning with the words: Mehphilmen hum teri aaye hain.......",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line Jo karna hai aaj karle husn ijazat deta hai from the above Sung.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight between the Jadugar and the hero, reducing the shots of the thrusting of the sword and pressing with the foot. Reduce the twisting of the legs in the fight.",
+        "length_m": 1.06,
+        "length_retained_m": 0.95
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Jadoo",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "B. Gupta",
+    "cert_no": "48398",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of winking by the man in the Quawali.",
+        "length_m": 0.44
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sound of Scream.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the trishool oncircling a man's neck and the middle arm sharply moving towards his throat.",
+        "length_m": 1.2
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Ujala",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "F.C. Mehra, Eagle Films",
+    "cert_no": "48399",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Secret Agent Tiger Prefers Dynamite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Noronha Pvt. Ltd.",
+    "cert_no": "1801",
+    "cert_date": "22-6-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being choked to death.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the sequence of women bathing in the pool.",
+        "length_m": 2.44,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of torture and the fight by deleting vicious kicks and blows.",
+        "length_m": 6.05,
+        "length_retained_m": 4.8
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight by deleting vicious kicks and blows and also the shot of man being knifed and bashed when the curtain is thrown over his face.",
+        "length_m": 17.68,
+        "length_retained_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the shot of a man being dragged behind the car.",
+        "length_m": 1.67,
+        "length_retained_m": 1.26
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the scene of a man being taken to his death over a conveyor belt.",
+        "length_m": 2.59,
+        "length_retained_m": 1.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of scratching of a face of a man with nails.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the fight in cage.",
+        "length_m": 9.14,
+        "length_retained_m": 8.86
+      }
+    ]
+  },
+  {
+    "film_title": "Nevada Smith",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48379",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot showing Jesse Crew's hand lingering on Tabanaka's breast.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sequence showing Maz and Neesa lying on bed with their legs interlocked.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce scene of Bondre being whipped and particularly delete close-views of his face.",
+        "length_m": 2.75,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Naked Prey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "48352",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being backed and the words '.....a safari with unbelievable cruelty'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of semi-nude women clubbing a man.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shot of a man being tied to a stake with a cobra attacking him.",
+        "length_m": 2.88
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scream of a Negro as a spear hits him.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a White man backing a Negro near a tree.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a lion closing in on a buffalo for a kill.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of semi-nude women on the words '.....who destroy native village to ravish and seize their captives'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word Primitive from This extra ordinary picture was filmed entirely in the primitive areas.",
+        "length_m": 0.22
+      }
+    ]
+  },
+  {
+    "film_title": "The Dog That Bit You",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Theodore Boling S.J. Institute for Home Study",
+    "cert_no": "1804",
+    "cert_date": "24-8-66",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "The Lovers",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Theodore Boling S.J. Institute for Home Study",
+    "cert_no": "1805",
+    "cert_date": "24-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shot showing the photograph of Khrushchev and offect of Hydrogen bomb.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Moving Target",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Warner Bros. First National Pic. Inc.",
+    "cert_no": "1806",
+    "cert_date": "25-8-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete closeup of Miranda in bikini in which her exposed bust and hips are seen prominently. Also delete shots of Miranda in bikini sitting in Alan's lap in an indecorous posture.",
+        "length_m": 8.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce shot of bust jerking by Fay while dancing in the cafe.",
+        "length_m": 1.35,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete Fay's suggestive dialogue addressed to Harper before collapsing on the coach after getting drunk Don't do anything to me till I have got up - tomorrow.",
+        "length_m": 3.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the remark of Fay's husband addressed to Harper referring to her: You can have her.",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the underlined words from the following dialogue between Miranda and Harper in the car: Stop acting like a bitch in heat.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably reduce the scene of torturing of Betty with burning cigarette ends, particularly the sound of her prolonged shriek and her reactions.",
+        "length_m": 3.4,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Thaye Unakkuga",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Sri Kamalalayam",
+    "cert_no": "47927",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Song 2 - Delete the shot of Swami's chin resting on the bust of Devi, and the subsequent close proximity view.",
+        "length_m": 6.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song 4 - (a) From the club dance, delete all prominent front views and back views of girls in tight jeans seen in the background with their indecorous movements; (b) Delete the shot of a girl in tight jeans getting over the back of a man.",
+        "length_m": 41.44
+      }
+    ]
+  },
+  {
+    "film_title": "Anarkali",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Udaya Studios",
+    "cert_no": "47929",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Song 1 - From the song text, delete the lines Allahu Akbar wherever they occur.",
+        "length_m": 16.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Delete the close front view of the main dancer with her thighs in skin tight dress prominently visible.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "(a) Delete two ladies in bathing dress coming up from water (twice).",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "(b) Delete the actioncer touching the best of a women whom he is selling when he pushes her back.",
+        "length_m": 56.1
+      },
+      {
+        "kind": "deletion",
+        "description": "(c) Delete the indecent views of women dress upoll If the thigh.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete Salim's kissing gesture to Anarkali when she is in his lap.",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the 100 close views of the exposed belly of Anarkali.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete close front views of Akili with exposed belly.",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "Thali Bhugyam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Virilakshmi Pictures",
+    "cert_no": "47930",
+    "cert_date": "24-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Singaram saying Nama Chi Vaya.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "In the bathing scene, delete the girls pouring water over their busts wherever it occurs.",
+        "length_m": 26.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line 'Pariz.: :: Pett: kathui.zdai marcipado' from the text.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the line 'Paruyan tharum Rullo virundhaven em :zi pilliravili n in pidithu viipen' from the song.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "description": "When Murugan bends over Valli, delete the portion where her bust touches his body.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Singaram saying 'Give him puisen und be done with him'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "description": "Delete Valji kissing Murugan on check on the song line 'Mudivahum'.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Katti Potu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Manzulaa Cine Syndicate",
+    "cert_no": "47932",
+    "cert_date": "27-8-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Song 1 - Delete the word Chavi from the song line.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "From Ranga's dialogue, delete the word Thopu.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the sentence 'Chinna pinundi, adi Cheskostumu.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "From Ranga's dialogue, delete the sentence 'Noo Kallu Pattukuntanu'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Kasthuri's dialogue 'Aa kottadam navalla kade'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "From Prachanda's dialogue delete the word 'Umpudikatte and Kala's repetition of same word.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Yarukkaha Azhuthan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Aasiya Jothi Films",
+    "cert_no": "46781",
+    "cert_date": "20-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of blank shot with sound only (commentary of the Director) is approved.",
+        "length_m": 45.72
+      }
+    ]
+  }
+]

@@ -1,0 +1,4012 @@
+[
+  {
+    "film_title": "To The Peaco Fund",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/66230 -38",
+    "endorsement": "U",
+    "original_length_m": 204.0,
+    "length_deleted_m": 3.6,
+    "final_length_m": 200.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "P/2",
+        "description": "Delete commentary about US aggressions in Vietnam and US aggressors spending money to kill women and children.",
+        "length_m": 0.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "P/3",
+        "description": "Delete commentary about the Middle East and Israeli aggression.",
+        "length_m": 0.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "P/5",
+        "description": "Delete commentary about a plane carrying medical supplies for Arab workers of Abu-Zaube who fell victim to Israeli military raid.",
+        "length_m": 0.94
+      }
+    ]
+  },
+  {
+    "film_title": "Welcome to Bengal",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67652",
+    "endorsement": "U",
+    "original_length_m": 304.8,
+    "final_length_m": 303.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the incorrect map of India.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Sorrows of Noki Ram",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67574",
+    "endorsement": "U",
+    "original_length_m": 609.66,
+    "length_deleted_m": 0.19,
+    "final_length_m": 609.47,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'Minister' from the commentary 'Ya Minister Ka Bota'.",
+        "length_m": 0.19
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Munimji",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67624",
+    "endorsement": "U",
+    "original_length_m": 88.39,
+    "length_deleted_m": 0.91,
+    "final_length_m": 87.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of a man with a bleeding face during a fight.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'The Risk'",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen",
+    "cert_no": "D/67512",
+    "endorsement": "U",
+    "original_length_m": 60.0,
+    "length_deleted_m": 0.2,
+    "final_length_m": 59.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'German' from the commentary 'German Fascist'.",
+        "length_m": 0.2
+      }
+    ]
+  },
+  {
+    "film_title": "Comingo",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "B/67367",
+    "endorsement": "U",
+    "original_length_m": 3416.81,
+    "length_deleted_m": 4.42,
+    "final_length_m": 3412.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the view of a person rubbing a lady's chest.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce considerably the love making in bed at the beginning of the reel.",
+        "length_m": 3.66,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined words from the dialogue: 'They are carrying a white flag.' 'They can wipe their asses with it.' (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The French Connection",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67366",
+    "endorsement": "U",
+    "original_length_m": 2823.0,
+    "length_deleted_m": 1.2,
+    "final_length_m": 2821.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the sentence 'Never trust a nigger'. (Only sound removed by inking).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete underlined words from dialogue: 'What is this a fucking hospital here? Huh?', 'Get your hands on your fucking head', 'No mother fucker', '...If they don't know you there, it's your ass', 'Big score, my ass', 'Shove it up your ass'.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the view of the nude lady in Doyle's room.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined word from Doyle's sentence: 'Before I blow your fucking head off'. (Deleted sound by inking).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "L. S. D.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67442",
+    "endorsement": "U",
+    "original_length_m": 2372.2,
+    "length_deleted_m": 7.01,
+    "final_length_m": 2365.19,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce drastically the scene of electrocution of a man.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "description": "Drastically reduce the shot of a man burning to ashes.",
+        "length_m": 4.27,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "description": "Drastically reduce the torture of Miller, particularly deleting all close shots of his face.",
+        "length_m": 1.52,
+        "length_retained_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Raaste Ka Patthar'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67643",
+    "endorsement": "U",
+    "original_length_m": 91.14,
+    "length_deleted_m": 4.57,
+    "final_length_m": 91.14,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce to a flash the close view of a girl keeping her hand on the bleeding abdomen.",
+        "length_m": 0.3,
+        "length_retained_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce the view of unzipping of the blouse of a lady by a man. (Deleted completely).",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of a lady and a man sitting face to face and the man embracing and caressing the exposed back of the lady.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of exposed legs of a lady on the cot.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Parchhaiyan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67209",
+    "endorsement": "U",
+    "original_length_m": 3876.54,
+    "length_deleted_m": 119.24,
+    "final_length_m": 3850.54,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "In the song 'Jata ankhiyan la laiye...', reduce considerably the view of Dilip catching Sudha's leg, who is in a male's garb, and his actions of moving forward with her leg in hand.",
+        "length_m": 1.52,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the view of Dilip rotating with Sudha on his back till he keeps her down.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the view of Dilip taking Sudha in his arms and lifting her up on words 'Jara ankhiyan la laiyo jara khushiya mana laiyo'.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the following words uttered by Sudha's girl companion: 'Main Bhagwan ka naam lokar Ramesh se shuru ho gayeo'.",
+        "length_m": 1.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete reference to 'Hanuman' in Sudha's girl companion's dialogue.",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from the dialogue between Rekha and the comedian Ramesh: 'Tumhe mori tasvir lončki juraat kaise hui?' 'Maine Dabi leo.' 'What?' 'More camora no li hai.'",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Paidaish Dhanda' said by comedian to Dilip from his sentence 'Guru nikalna aur dalna apna paidaishi dhanda hai'.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Maha chaloo' from the sentence 'Mujho yeh maha chaloo malum hoti hai' of the comedian.",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the following words uttered by the comedian while speaking with Dilip in the Car: 'Nikalna aur dalang to hamara purana kaam hai'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "In the swimming pool sequence, delete the pan shot of Sudha lying on bench and camera panning from her exposed leg to head.",
+        "length_m": 2.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "In the swimming pool sequence, reduce the close view of her panting.",
+        "length_m": 1.1,
+        "length_retained_m": 1.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete once the view of close physical proximity between the hero and heroine when their noses touch each other.",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the views of nude photograph on the cover page of a magazine held in hand by Mohan while he is lying on cot.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the view of Rakesh touching Rangi's bust with his face in Dashhara dance.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the view of Rakesh lifting Rangi on his hand.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Drastically reduce the molestation sequence.",
+        "length_m": 6.83,
+        "length_retained_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "From the song 'O garam garam kaya thanda thanda pani...', sung by Rangi in water, delete the gesture of the bust jerking on words 'Oh daiya mori dhadak rahi chhatiya'.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Rakhi Aur Hatkadi'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67748",
+    "endorsement": "U",
+    "original_length_m": 3988.92,
+    "length_deleted_m": 18.59,
+    "final_length_m": 3971.55,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the mujra dance performed by Janaki, delete the portion in which she repeatedly presses her left breast on the floor.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the underlined word from the following dialogue between Raja's friend and Raja when they see the heroine's unchained bicycle: 'Lavandiya ki chain utar gayee'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce considerably the scene of Raja trying to molest Kiran, particularly reducing considerably the portion of their rolling together and reducing to a flash the ripping of the blouse.",
+        "length_m": 8.23,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Drastically reduce the prolonged scene of violent fight between the two groups (Deleted completely).",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Rajkotoi Visasyatra",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "B/48643",
+    "original_length_m": 464.82,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "No. I",
+        "description": "Added various shots.",
+        "length_m": 124.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. I",
+        "description": "Deleted various shots.",
+        "length_m": 110.64
+      },
+      {
+        "kind": "insertion",
+        "reel": "II",
+        "description": "Added various shots.",
+        "length_m": 142.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted various shots.",
+        "length_m": 111.25
+      }
+    ]
+  },
+  {
+    "film_title": "Vikasni Sargam",
+    "languages": [
+      "Gujarati"
+    ],
+    "original_length_m": 581.26,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "No. 1",
+        "description": "Added various shots.",
+        "length_m": 167.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 1",
+        "description": "Deleted various shots.",
+        "length_m": 160.93
+      },
+      {
+        "kind": "insertion",
+        "reel": "II",
+        "description": "Added various shots.",
+        "length_m": 150.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted various shots.",
+        "length_m": 65.23
+      }
+    ]
+  },
+  {
+    "film_title": "Prajanayakudu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7389",
+    "endorsement": "U",
+    "original_length_m": 4358.94,
+    "final_length_m": 4269.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The photographs of Mahatma Gandhi and Pandit Nehru should be deleted from all the scenes in which they appear and more specifically the scene of Pandit Nehru's picture being thrown on the floor and trampled upon by the police-men should be deleted.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "description": "The ghastly details of the patriot being tortured by the police should be deleted.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "In Reel 16, the reference to the Prime Minister from the phone voice is to be deleted. (Sound)",
+        "length_m": 4.56
+      },
+      {
+        "kind": "deletion",
+        "description": "All flags in the picture - whether Communist or Congress - should be deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "description": "The name of the MLA who wants to demolish a Juggi colony to put up a statue of the Chief Minister is given as Gandhi Ramaiah in the film. The first part of the name should be got rid of and he should merely be called Ramaiah.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "Following lines from Song VI: (i) Padithe vahva ane vastadulundali, Adithe Kushee cheyu panujawanu lundali, Pogarajna Ladki to Posichcho Şaki to, Agarottilla raatri karigi potundali, Hameshan shalo Tamasha Khushito Mastu Mastuga Telipovali, Mastu Mastuga Telipovali... (ii) Rammannavu? Aemi Pondali anukunnavu? Peggu meeda poggu veyyali, Loggu thoti leggu kalavali, Ah; Peggu meeda poggy vayyali, Ah; Ah; Leggu thoti leggu kalavali, Cheyyi twist muyve first, Pagaloo raatree no no rest.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "Following lines from Song VII: (i) Yogir paddollarta yerra jonda, manamappu kaşındanec, Marsi posthunnaru... (1) Yegir paddlollanta yorra jenda, Manamuppu kasindance, Murisi pothunnayu. (Deleted, No. replacement).",
+        "length_m": 33.52
+      }
+    ]
+  },
+  {
+    "film_title": "Maayintivelugu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7574",
+    "endorsement": "U",
+    "original_length_m": 4368.38,
+    "length_deleted_m": 37.32,
+    "final_length_m": 4331.06,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce drastically the second shot of the bride hanging from rope after committing suicide.",
+        "length_m": 4.25,
+        "length_retained_m": 3.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce considerably Rudra torturing Kishoro on the stairs to force him to steal.",
+        "length_m": 2.13,
+        "length_retained_m": 3.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the Estate Manager Mohan kicking and whipping the labourer who is armless.",
+        "length_m": 3.34,
+        "length_retained_m": 4.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete Vijaya digging the pit, placing the baby in the pit and throwing earth over it. (The sequence should show Vijaya carrying the baby to the graveyard and later her dialogue about her pathetic situation, sitting at the closed grave).",
+        "length_m": 20.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce kishoro whipping Rudra.",
+        "length_m": 2.13,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce the shot of Mallamma with dagger on her body crawling to the feet of her husband. (No objection to the portion of the shot of Mallamma shown at her husband's feet.)",
+        "length_m": 4.86,
+        "length_retained_m": 6.39
+      }
+    ]
+  },
+  {
+    "film_title": "Thanga Durai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7431",
+    "endorsement": "U",
+    "original_length_m": 4151.07,
+    "length_deleted_m": 123.75,
+    "final_length_m": 4271.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete entirely the song beginning with the words 'Ooran Choru Ulavudu Paru...' along with the picturisation which ridicules the Brahmin community.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "From the song beginning with the words 'Vuada Kannu Velladu...', delete the following lines along with the picturisation: 'Thiruneeru Poosikondu, Shivanperai Sollikondu, Madhu Undu Mangai Kondu, Vazhgindra Manithar Undu; Avan Mele Bhakti Kollum, Adiyaragal Migavum Undu, Adendrum Mandhai Endrum, Avanaithan Solvadhundu'.",
+        "length_m": 14.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "From the scene of the two rains fighting, delete the following dialogue of Durai: 'Hanuman Jayikirathollam Andhakaalam'.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "From the scene near the village tank, delete the following dialogue of Vasu addressed to the other Purohits: 'Idhu Varaikum Ulagathiley Naamthan Ellathukum Mudiyu Kottiyirukkom'.",
+        "length_m": 2.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "From the scene in the temple sequence, delete all the shots relating to actual sacrifice of the goat before the altar, the goat lying in a pool of blood, Durai's address to the Goddess and the burning of the temple. Delete also the song (both words and visuals) beginning with the words 'Manithanum Ingoy Thannai Maranthan' (There is no objection to the shot showing the pujari raising the pick-axe, one or two close-up shots of Durai's reaction to the sacrifice and then cut to the Panchayat scene).",
+        "length_m": 123.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "From the song beginning with words 'Ezhuvagey... Ezhugavoy...', delete the following words 'Vangani Kaatha Singa Thuraiye' (Sound only - Replaced with approved words).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Maalik",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7598",
+    "endorsement": "U",
+    "original_length_m": 3996.84,
+    "length_deleted_m": 2.88,
+    "final_length_m": 3993.93,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the line spoken by Murthy 'Mainey Thumey Kabee Kiraipey Liuy'. (Applicant has voluntarily removed the following dialogue also: 'Narangi saying \" Mujhe tho thoone kareed rakha hai, lekin dhukan ke kiraye tho dhe\".",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the line spoken by Murthy 'Try Kartha Hoon'.",
+        "length_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Sakthi Leelai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7585",
+    "endorsement": "U",
+    "original_length_m": 4709.46,
+    "length_deleted_m": 170.02,
+    "final_length_m": 4694.54,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce by 50% Kaveri's husband lying injured and having fits.",
+        "length_m": 5.78,
+        "length_retained_m": 5.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shot showing skeletons rising from the graves.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the shot showing Vanaguran's men molesting women and Sadhus.",
+        "length_m": 3.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the whipping of Sadhus by Vansuran's men when it is shown directly. (No objection to this action being in the background while the old woman devolves is shown singing).",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the shot of the two spies falling on the bed and caressing the women.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Delete the shot showing Vanaguran's blood dripping from Kanyakumari's hand when she squeezes him to death.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Harya Narya Zindabad",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67569",
+    "endorsement": "U",
+    "original_length_m": 3795.37,
+    "length_deleted_m": 19.34,
+    "final_length_m": 3776.03,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the following words uttered by Sarpanch: 'Sarkari nokrit kaam kola naahi tari pagar kayam'.",
+        "length_m": 1.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the dialogue between Narya and the milkman where Narya tries to get illegal gratification from the milkman for adding water to the milk.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the dialogue between Harya, Narya and the coolie where they drive him out without paying him his dues.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the dialogues when Harya and Narya enter the Tamasha tent without paying fare, when they are in full police uniform.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the following underlined words from Narya's sentence: 'Ratrabhar ya angavaroon tya angavar talmajat hoto nusta'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete reference to 'Kamai' in Police Department in Nana's dialogue.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Milap'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67024",
+    "endorsement": "U",
+    "original_length_m": 107.29,
+    "length_deleted_m": 0.91,
+    "final_length_m": 106.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of a hand opening the blouse of a lady from the back and also delete the underlined word from the following sentence. 'Saperan sharirik milap ke liye taiyar ho gai'. (Deleted sound also).",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "This Bit of That India",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67532",
+    "endorsement": "U",
+    "original_length_m": 594.0,
+    "length_deleted_m": 6.63,
+    "final_length_m": 587.37,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shots of masturbation and ejaculation of sperms by a monkey.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of overtures by a Negro boy to an Indian girl for making love.",
+        "length_m": 2.82
+      }
+    ]
+  },
+  {
+    "film_title": "Gomti Ko Kinare",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/67595",
+    "endorsement": "U",
+    "original_length_m": 3996.84,
+    "length_deleted_m": 10.36,
+    "final_length_m": 3986.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the underlined portion from the following dialogue: Filmkumar: 'Main daal deta hun' Sethji: 'Are Filmkumar kitni badi film star haimemsaab. Main nahi dalunga to aur kaun dalega, inki gadimon petrol. Tum petrolki tanki kholo.' Filmkumar: 'Are are Sethji sara petrol baahar gir raha hai.' Sethji: Mujhe malum hai.... ye overflow hai pyar ka. Filmkumar: 'Sethji ye overflow app ko kisi din mahanga padega.' Sethji: Aisa lagata hai.... Filmkumar chaavi laav.",
+        "length_m": 10.36
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Bharat Ke Shaheed'",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/67761",
+    "endorsement": "U",
+    "original_length_m": 142.04,
+    "length_deleted_m": 0.0,
+    "final_length_m": 142.04,
+    "alterations": []
+  },
+  {
+    "film_title": "Sulabh Sandhani",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "B/67728",
+    "endorsement": "U",
+    "original_length_m": 300.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 300.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Industry in Punjab",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67790",
+    "endorsement": "U",
+    "original_length_m": 304.8,
+    "length_deleted_m": 0.0,
+    "final_length_m": 304.8,
+    "alterations": []
+  },
+  {
+    "film_title": "Punjab Agriculture",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67789",
+    "endorsement": "U",
+    "original_length_m": 246.89,
+    "length_deleted_m": 0.0,
+    "final_length_m": 246.89,
+    "alterations": []
+  },
+  {
+    "film_title": "The Punjab",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67787",
+    "endorsement": "U",
+    "original_length_m": 291.61,
+    "length_deleted_m": 0.0,
+    "final_length_m": 291.61,
+    "alterations": []
+  },
+  {
+    "film_title": "Our India",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67794",
+    "endorsement": "U",
+    "original_length_m": 315.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 315.0,
+    "alterations": []
+  },
+  {
+    "film_title": "The Computer In Print",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67751",
+    "endorsement": "U",
+    "original_length_m": 121.92,
+    "length_deleted_m": 0.0,
+    "final_length_m": 121.92,
+    "alterations": []
+  },
+  {
+    "film_title": "Sensational Avanti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67783",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Khushali-Ka-Pratik",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67684",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Ek Hoe Ilaaj",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/67773",
+    "endorsement": "U",
+    "original_length_m": 91.08,
+    "length_deleted_m": 0.0,
+    "final_length_m": 91.08,
+    "alterations": []
+  },
+  {
+    "film_title": "Asia Fair 72 Delhi",
+    "languages": [
+      "Silent"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67729",
+    "endorsement": "U",
+    "original_length_m": 304.3,
+    "length_deleted_m": 0.0,
+    "final_length_m": 304.3,
+    "alterations": []
+  },
+  {
+    "film_title": "Chandra Loka Ki Rajkumari (Kaguya Hime)",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67779",
+    "endorsement": "U",
+    "original_length_m": 213.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 213.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Behind The Enemy Lines",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen",
+    "cert_no": "B/67754",
+    "endorsement": "U",
+    "original_length_m": 2421.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 2421.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Behind The Enemy Lines'",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen",
+    "cert_no": "B/67832",
+    "endorsement": "U",
+    "original_length_m": 71.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 71.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Munimji",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/66975",
+    "original_length_m": 3748.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No 6",
+        "description": "Deleted various shots.",
+        "length_m": 43.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "No 15",
+        "description": "Deleted various shots.",
+        "length_m": 19.81
+      }
+    ]
+  },
+  {
+    "film_title": "Territorial Army",
+    "languages": [
+      "English partly",
+      "Hindi"
+    ],
+    "cert_no": "B/65377",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Speeding Ahead",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67806",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Yoga Asanas",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67810",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Just in Time",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67807",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Man And The Forest",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67808",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Bridge Across The World",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "C/7517",
+    "endorsement": "U",
+    "original_length_m": 305.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 305.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Marjiana Abdullah",
+    "languages": [
+      "Bengal"
+    ],
+    "cert_no": "C/7542",
+    "endorsement": "U",
+    "original_length_m": 3881.62,
+    "length_deleted_m": 0.0,
+    "final_length_m": 3881.62,
+    "alterations": []
+  },
+  {
+    "film_title": "Vooriki Upakari",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7600",
+    "endorsement": "U",
+    "original_length_m": 4824.67,
+    "length_deleted_m": 12.76,
+    "final_length_m": 4811.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "From the picturisation of song Gobbillo in the mental hospital delete the shot of a fat girl keeping both her hands below her navel portion, facing camera.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce to once Santhamma shooting down Jaggu with a revolver.",
+        "length_m": 1.52,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce the shots of Ramu being tortured in the cell by fumigation.",
+        "length_m": 1.82,
+        "length_retained_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduce by 50 percent Ramu being dragged on ground, tied to a Top.",
+        "length_m": 5.47,
+        "length_retained_m": 5.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduce considerably the sequence of Ramu lashing Jaggu with a belt.",
+        "length_m": 3.04,
+        "length_retained_m": 4.85
+      }
+    ]
+  },
+  {
+    "film_title": "Jeevana Jokali",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7606",
+    "endorsement": "U",
+    "original_length_m": 4401.76,
+    "length_deleted_m": 0.0,
+    "final_length_m": 4401.76,
+    "alterations": []
+  },
+  {
+    "film_title": "Vyapara Kudall",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7612",
+    "endorsement": "U",
+    "original_length_m": 122.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 122.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Sabayılay Chalacha.lappu",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7624",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Samaavesam lo Apas ruti",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7625",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Sabhayıl Apaswaram",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7626",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Marapurani Thalli",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7622",
+    "endorsement": "U",
+    "original_length_m": 4657.95,
+    "length_deleted_m": 64.59,
+    "final_length_m": 4602.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "From the dance picturisation on the song beginning with the words 'Tham Tham chalakı kurroda', delete: (a) the dancer's vigorous breast shakes on humming before the song begins; (b) the dancer's lower front jerks and posterior jerks towards camera on BGM; (c) her breast shakes in mid-shot; (d) the kissing suggestion between the dancer and Sarathi in silhouette picture; (e) the dancer bending on her back with folded legs wide apart facing camera when she is blowing the trumpet; (f) the dancer lying flat on floor and Sarathi bending over her in close proximity and both moving backwards; (g) the dancer lying on her back and swinging her posterior; (h) her indecorous navel shakes facing camera on BGM; (i) the dancer lying on table on her back and Sarathi bending over her and putting his chin between her breasts; (j) the dancer's forward shakes of her lower front on the line 'Chalakı kurroda'.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce Sarathi whipping Madhu and later Madhu whipping Sarathi. Reduce Madhu beating Sarathi.",
+        "length_m": 10.66,
+        "length_retained_m": 25.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the view of the title pages of a magazine, containing pictures of exposed women opposite camera, which Edukon dalu is reading, resting on a cot.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the entire indecent sequence of Koneti Rao and Edukondalu at the latrine. (The sequence may last till both get the urge of nature after developing stomach pains and run towards the latrine).",
+        "length_m": 40.23
+      }
+    ]
+  },
+  {
+    "film_title": "Mapillai Azhaippu (Alek Anand)",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7609",
+    "endorsement": "U",
+    "original_length_m": 3998.36,
+    "length_deleted_m": 43.42,
+    "final_length_m": 3963.14,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1 & 2",
+        "description": "Reduce considerably the sequence in which Bhavani is appearing without upper cloth.",
+        "length_m": 10.27,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the following exchange of dialogue between Bhavani and Magesh 'Unn Uruppadi Eppadi Irukkum'; 'Dhola Dhola Ena Irukkum'.",
+        "length_m": 4.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of Anand falling on Gita at the end of the dream sequence.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "From the picturisation of the song, delete the following shots: (a) The dancer raising one hand above her head and caressing her waist with the other suggestively on the lines 'Suvaiyinil Idhu Oru Vidham' sung when the pallavi is repeated after the stanza ending with the words 'Urayadavu'. (b) Delete the shot of the dancer shaking her bust suggestively at Anand when the pallavi song-line 'Thenltta Kindam' is sung at the end of the song.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce by 50% the sequence showing Anand torturing the strong man while the latter is lying down on the ground.",
+        "length_m": 1.82,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the song-line 'Engey Vonumnaalum Kaiyai Vai' (Sound only - replaced with approved words-sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the exchange of dialogue between Magesh and Papa beginning with the words 'Naan Ellam Solli Koduthachu' up to Papa asking Magosh to see that the waist-line does not result in an increase of 3 inches.",
+        "length_m": 3.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "From the picturisation of the song, delete the shots of Anand rolling Rekha over him and suggestively kissing on the lines 'Putthakam Pol Pooyai Unnai Puratta, Paaliyarai Paadadgalai Pukatta' and the BGM that follows.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the dialogue spoken by Papp's husband after he hears the sound of vomiting, except the lines beginning with the words 'Pappathan... ending with the words 'Ajcern Vaandhiya Irukkum', as revised.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "From the picturisation of the dance, delete the shot of the dancer pointing to her bust on the line 'Kanipol Idhuvum'.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Victoria No. 203",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67441",
+    "endorsement": "U",
+    "original_length_m": 4772.56,
+    "length_deleted_m": 40.88,
+    "final_length_m": 4733.51,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete reference to 'Prince of Wales Museum' when Seth Durgadas enters the Building to see the precious diamonds.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce drastically the shots of Ranjit's accomplice being tortured by pressing his neck with foot. Deleted other similar scenes appearing later. (Only the dialogues 'Kabhi nahin bataunga' together with the visuals may be retained).",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the portion of the scene when Kumar keeps his hand on his girl friend's breasts while both are going in the victoria.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot depicting the killer of Ranjit in an intimate scene with the girl accomplice. (As seen by Rekha through the window).",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Drastically reduce the scene of Rekha undressing herself as being watched by Raja through the window glass.",
+        "length_m": 4.53,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the scene depicting Raja smelling a brasier which he has taken out of the victoria.",
+        "length_m": 0.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the scene between Rekha and Ranjit's killer: (a) Delete the portion of the scene depicting the killer of Ranjit moving a knife on the breast of Rekha. (b) Delete the underlined words from his dialogue: 'Is jism ko khatam karne ye pehle main iska pura pura maza lena chahta hoon'. (c) Drastically reduce the last portion of the scene when Ranjit's killer tries to lift Rekha.",
+        "length_m": 6.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the cabaret dance sequence, delete the shot of the dancer shaking her breasts vigorously while lying on the ground.",
+        "length_m": 3.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the following dialogue between Rekha and Kumar disguised as sadhu: Kumar; 'Pyar koi aur karega baaki main....' Rekha: 'Kya?' Kumar: 'Haan mujhe fifty fifty bhi chaloga.'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce drastically the entire scene of violence when Kumar is hung over a furnace of glowing fire and also reduce drastically the scene of Kumar being tortured.",
+        "length_m": 4.57,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce considerably the second fight on the edge of the glowing fire between Kumar and Seth Durgadas.",
+        "length_m": 7.32,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'America' Paesc Di Dio",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/53968",
+    "endorsement": "U",
+    "original_length_m": 121.92,
+    "length_deleted_m": 7.01,
+    "final_length_m": 114.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Miller's hands caressing the breast of a lady.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of topless girls in dance sequence.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Subse Bada Sukh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67772",
+    "endorsement": "U",
+    "original_length_m": 3383.89,
+    "length_deleted_m": 0.0,
+    "final_length_m": 3383.89,
+    "alterations": []
+  },
+  {
+    "film_title": "Madadgar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67781",
+    "endorsement": "U",
+    "original_length_m": 445.31,
+    "length_deleted_m": 0.0,
+    "final_length_m": 445.31,
+    "alterations": []
+  },
+  {
+    "film_title": "Pratibimb",
+    "languages": [
+      "Music only"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67785",
+    "endorsement": "U",
+    "original_length_m": 141.73,
+    "length_deleted_m": 0.0,
+    "final_length_m": 141.73,
+    "alterations": []
+  },
+  {
+    "film_title": "All The Taste Comes Through",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67774",
+    "endorsement": "U",
+    "original_length_m": 22.86,
+    "length_deleted_m": 0.0,
+    "final_length_m": 22.86,
+    "alterations": []
+  },
+  {
+    "film_title": "Khushi Ka Din",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/67750",
+    "endorsement": "U",
+    "original_length_m": 89.61,
+    "length_deleted_m": 0.0,
+    "final_length_m": 89.61,
+    "alterations": []
+  },
+  {
+    "film_title": "King's College Hospital",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67694",
+    "endorsement": "U",
+    "original_length_m": 243.84,
+    "length_deleted_m": 0.0,
+    "final_length_m": 243.84,
+    "alterations": []
+  },
+  {
+    "film_title": "Nelco Avanti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67784",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Haryana By Husain",
+    "languages": [
+      "Music only"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67800",
+    "endorsement": "U",
+    "original_length_m": 584.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 584.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Chandra Loka Ki Rajkumari (Kaguya Hime)",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67779",
+    "endorsement": "U",
+    "original_length_m": 213.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 213.0,
+    "alterations": []
+  },
+  {
+    "film_title": "The First Teacher",
+    "languages": [
+      "Russian With English Sub-titles"
+    ],
+    "cert_no": "B/65323",
+    "endorsement": "U",
+    "original_length_m": 2779.0,
+    "length_deleted_m": 9.0,
+    "final_length_m": 2770.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the reference to 'Mullah' in the context of an enemy, in the class-room sequence.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the view of the nude girl while bathing in a pool.",
+        "length_m": 8.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bad of Tho Ataman",
+    "languages": [
+      "Russian With English Sub-titles"
+    ],
+    "format": "Widescreen",
+    "cert_no": "B/67744",
+    "endorsement": "U",
+    "original_length_m": 4026.0,
+    "length_deleted_m": 2.0,
+    "final_length_m": 4024.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the following words from the sub-title: 'Will you keep this Buddha as a memento of a strong headed, obstinate but honest man?'.",
+        "length_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bhimson Joshi",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67743",
+    "endorsement": "U",
+    "original_length_m": 304.8,
+    "length_deleted_m": 0.0,
+    "final_length_m": 304.8,
+    "alterations": []
+  },
+  {
+    "film_title": "Amjad Ali Khan",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67745",
+    "endorsement": "U",
+    "original_length_m": 304.8,
+    "length_deleted_m": 0.0,
+    "final_length_m": 304.8,
+    "alterations": []
+  },
+  {
+    "film_title": "Vijay Raghav Rao",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67746",
+    "endorsement": "U",
+    "original_length_m": 304.8,
+    "length_deleted_m": 0.0,
+    "final_length_m": 304.8,
+    "alterations": []
+  },
+  {
+    "film_title": "Pandit Jasraj",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67709",
+    "endorsement": "U",
+    "original_length_m": 304.8,
+    "length_deleted_m": 0.0,
+    "final_length_m": 304.8,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Gora Aur Kala'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67645",
+    "endorsement": "U",
+    "original_length_m": 93.57,
+    "length_deleted_m": 0.0,
+    "final_length_m": 93.57,
+    "alterations": []
+  },
+  {
+    "film_title": "Secret",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "D/67645",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Safodi Ka Raj",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67644",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Payer",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67741",
+    "endorsement": "U",
+    "original_length_m": 182.88,
+    "length_deleted_m": 0.0,
+    "final_length_m": 182.88,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'L. S. D.'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67442",
+    "endorsement": "U",
+    "original_length_m": 99.06,
+    "length_deleted_m": 3.04,
+    "final_length_m": 96.02,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Miller's hands caressing the breast of a lady.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scene of electrocution.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scene of a man burning to ashes.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Grand Al Circus",
+    "languages": [
+      "English",
+      "Marathi",
+      "Gujaratı"
+    ],
+    "colour": "Colour",
+    "cert_no": "D/67730",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "The Energy Story",
+    "languages": [
+      "Hindi",
+      "Kannada",
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67712",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "The Source of Energy",
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/71198",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "A Filter So True",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67703",
+    "endorsement": "U",
+    "original_length_m": 22.86,
+    "length_deleted_m": 0.0,
+    "final_length_m": 22.86,
+    "alterations": []
+  },
+  {
+    "film_title": "National Energy",
+    "languages": [
+      "Hindi",
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67718",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Spoonful of Energy",
+    "languages": [
+      "Hindi",
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67698",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Glaxose-D For Everybody",
+    "languages": [
+      "Hindi",
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67710",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Avanti 3 Band Transister",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67176",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Haryana",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67725",
+    "endorsement": "U",
+    "original_length_m": 588.26,
+    "length_deleted_m": 0.0,
+    "final_length_m": 588.26,
+    "alterations": []
+  },
+  {
+    "film_title": "Darshaniya Haryana",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67735",
+    "endorsement": "U",
+    "original_length_m": 301.14,
+    "length_deleted_m": 0.0,
+    "final_length_m": 301.14,
+    "alterations": []
+  },
+  {
+    "film_title": "Shaandaar Russian (Circus Parade)",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "Widescreen",
+    "cert_no": "B/67676",
+    "endorsement": "U",
+    "original_length_m": 2262.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 2262.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Bahadur Chhele'",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "B/67670",
+    "endorsement": "U",
+    "original_length_m": 71.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 71.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Bahadur Bachcha",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/67677",
+    "endorsement": "U",
+    "original_length_m": 71.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 71.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Bahadur Chhele",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "B/67514",
+    "endorsement": "U",
+    "original_length_m": 2421.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 2421.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Prabhat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67631",
+    "endorsement": "U",
+    "original_length_m": 244.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 244.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Aur Majdoor Malik Bana",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67632",
+    "endorsement": "U",
+    "original_length_m": 240.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 240.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Jyot Se Jyot Jalate Chalo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67633",
+    "endorsement": "U",
+    "original_length_m": 215.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 215.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Do Yaar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67456",
+    "endorsement": "U",
+    "original_length_m": 3640.23,
+    "length_deleted_m": 18.39,
+    "final_length_m": 3628.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete close shots of Jagira taking out bullet from his leg and the blood oozing from the wound, retaining only one shot of wound for continuity.",
+        "length_m": 3.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following words from the dialogue between the husband and wife: 'Mardana kaam ?' 'Pahle khud to seekho mardana kaam, tab doosreko seekhana,'. 'Sui pakadni aati nauhi sur chale hai taka dharne'.",
+        "length_m": 4.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the view of Kundaninal caressing the girl sitting by his side and delete the view of his kissing another girl.",
+        "length_m": 3.25,
+        "length_retained_m": 24.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "During Mujra dance delete the view of Sethji shaking the middle portion of dancer's body and staring at the navel.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the view of a girl kissing Bhattiwala.",
+        "length_m": 0.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the view of Sethji pulling dancer's leg.",
+        "length_m": 2.28,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the rape scene particularly deleting the steady view of Seth's leg coming over the girl's leg.",
+        "length_m": 0.91,
+        "length_retained_m": 0.47
+      }
+    ]
+  },
+  {
+    "film_title": "Rakhi Aur Hathkadi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67670",
+    "endorsement": "U",
+    "original_length_m": 3988.92,
+    "length_deleted_m": 18.59,
+    "final_length_m": 3971.55,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the mujra dance performed by Janaki, delete the portion in which she repeatedly presses her left breast on the floor.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the underlined word from the following dialogue between Raja's friend and Raja when they see the heroine's unchained bicycle: 'Lavandiya ki chain utar gayee'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce considerably the scene of Raja trying to molest Kiran, particularly reducing considerably the portion of their rolling together and reducing to a flash the ripping of the blouse.",
+        "length_m": 8.23,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Drastically reduce the prolonged scene of violent fight between the two groups (Deleted completely).",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Dil Ka Raja'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67707",
+    "endorsement": "U",
+    "original_length_m": 91.44,
+    "length_deleted_m": 0.0,
+    "final_length_m": 91.44,
+    "alterations": []
+  },
+  {
+    "film_title": "Fruits And Vegetables",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67576",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A Little Love",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67736 -738",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Orissar Mukhya Ghat anabali-1972",
+    "languages": [
+      "Oriya"
+    ],
+    "cert_no": "C/7535",
+    "endorsement": "U",
+    "original_length_m": 312.42,
+    "length_deleted_m": 0.0,
+    "final_length_m": 312.42,
+    "alterations": []
+  },
+  {
+    "film_title": "Marjiana Abdullah",
+    "languages": [
+      "Bengal"
+    ],
+    "cert_no": "C/7536 -39",
+    "endorsement": "U",
+    "original_length_m": 3881.62,
+    "length_deleted_m": 0.0,
+    "final_length_m": 3881.62,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Rajmahal Rahasiyam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7603",
+    "endorsement": "U",
+    "original_length_m": 91.44,
+    "length_deleted_m": 0.0,
+    "final_length_m": 91.44,
+    "alterations": []
+  },
+  {
+    "film_title": "Rajmahal Rahasiyam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7604",
+    "endorsement": "U",
+    "original_length_m": 3962.4,
+    "length_deleted_m": 0.0,
+    "final_length_m": 3962.4,
+    "alterations": []
+  },
+  {
+    "film_title": "Trajanayakudu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7389",
+    "endorsement": "U",
+    "original_length_m": 4358.94,
+    "length_deleted_m": 65.31,
+    "final_length_m": 4269.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The photographs of Mahatma Gandhi and Pandit Nehru should be deleted from all the scenes in which they appear and more specifically the scene of Pandit Nehru's picture being thrown on the floor and trampled upon by the police-men should be deleted.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "description": "The ghastly details of the patriot being tortured by the police should be deleted.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "In Reel 16, the reference to the Prime Minister from the phone voice is to be deleted. (Sound)",
+        "length_m": 4.56
+      },
+      {
+        "kind": "deletion",
+        "description": "All flags in the picture - whether Communist or Congress - should be deleted.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "description": "The name of the MLA who wants to demolish a Juggi colony to put up a statue of the Chief Minister is given as Gandhi Ramaiah in the film. The first part of the name should be got rid of and he should merely be called Ramaiah.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "Following lines from Song VI: (i) Padithe vahva ane vastadulundali, Adithe Kushee cheyu panujawanu lundali, Pogarajna Ladki to Posichcho Şaki to, Agarottilla raatri karigi potundali, Hameshan shalo Tamasha Khushito Mastu Mastuga Telipovali, Mastu Mastuga Telipovali... (ii) Rammannavu? Aemi Pondali anukunnavu? Peggu meeda poggu veyyali, Loggu thoti leggu kalavali, Ah; Peggu meeda poggy vayyali, Ah; Ah; Leggu thoti leggu kalavali, Cheyyi twist muyve first, Pagaloo raatree no no rest.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "Following lines from Song VII: (i) Yogir paddollarta yerra jonda, manamappu kaşındanec, Marsi posthunnaru... (1) Yegir paddlollanta yorra jenda, Manamuppu kasindance, Murisi pothunnayu. (Deleted, No. replacement).",
+        "length_m": 33.52
+      }
+    ]
+  },
+  {
+    "film_title": "Shigrra Gunkari",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7597",
+    "endorsement": "U",
+    "original_length_m": 42.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 42.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Return of Johny",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7495",
+    "endorsement": "U",
+    "original_length_m": 94.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 94.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Pragatino Rankar",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "B/66910",
+    "original_length_m": 464.82,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added various shots.",
+        "length_m": 80.77
+      }
+    ]
+  },
+  {
+    "film_title": "Shradhanjali",
+    "languages": [
+      "Hindi",
+      "Partly in English"
+    ],
+    "cert_no": "B/66565",
+    "original_length_m": 348.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted various shots.",
+        "length_m": 29.0
+      }
+    ]
+  },
+  {
+    "film_title": "Delicate -Handle With Care",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67658 -61",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Delicate",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67662",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Everybody's Favourite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67635",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Faith",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67537- A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Craft",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67538 - A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Legacy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67536 - A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Meet Your Match",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67671",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Lucky Matchmaker",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67672 -74",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Boys Will Be Boys",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67692",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "The Dacoits of Badmashpur",
+    "languages": [
+      "English & Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67587 - 10 - A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Paschim Banga Sarkar Sangbad Chitra No. 38",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "C/7533",
+    "endorsement": "U",
+    "original_length_m": 312.42,
+    "length_deleted_m": 0.0,
+    "final_length_m": 312.42,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Natun Dinor Alo",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "C/7532",
+    "endorsement": "U",
+    "original_length_m": 98.45,
+    "length_deleted_m": 0.0,
+    "final_length_m": 98.45,
+    "alterations": []
+  },
+  {
+    "film_title": "A Friend Indood",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "C/7530",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Promise-Bound",
+    "languages": [
+      "Bengal"
+    ],
+    "cert_no": "C/75324",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Jagamot chida Maga",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7596",
+    "endorsement": "U",
+    "original_length_m": 91.44,
+    "length_deleted_m": 0.0,
+    "final_length_m": 91.44,
+    "alterations": []
+  },
+  {
+    "film_title": "Deivam",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "colour",
+    "cert_no": "M/7572",
+    "endorsement": "U",
+    "original_length_m": 3993.49,
+    "length_deleted_m": 0.0,
+    "final_length_m": 3993.49,
+    "alterations": []
+  },
+  {
+    "film_title": "Ananthasayanam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7580",
+    "endorsement": "U",
+    "original_length_m": 4255.0,
+    "length_deleted_m": 50.54,
+    "final_length_m": 4204.46,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Poonnamma pulling up her skirt above her thigh and Madavan Pillai massaging her knee.",
+        "length_m": 19.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "(a) Reduce by 50% the sequence showing Omana with her bra exposed while she is dressing.",
+        "length_m": 3.95,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "(b) Delete the shot of Omana pushing up her sari and scratching her bare thigh.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "(c) Reduce by 50% the shot showing Unni in bed with his hands between his thighs.",
+        "length_m": 1.82,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "(d) Delete the shots of Omana in the bathroom trying to wear a sari with her bust suggestively exposed.",
+        "length_m": 3.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the dialogue of the policeman Balan Pillai saying he has night duty and his action of suggestively pulling Ponnamma towards him to bed.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the exchange of dialogue between Ponnamma and Balan Pillai relating to her being pregnant and Balan Pillai explaining his non-responsibility.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Mother's Love",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67586",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "The Energy Story",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67583",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "The Energy In A lab",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67580",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Tender Love",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67585",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "The Richest Strongest Instant Coffee",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67507",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "The Science Report 131-B",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67477",
+    "endorsement": "U",
+    "original_length_m": 155.75,
+    "length_deleted_m": 0.0,
+    "final_length_m": 155.75,
+    "alterations": []
+  },
+  {
+    "film_title": "The Science Report 131-A",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67476",
+    "endorsement": "U",
+    "original_length_m": 141.73,
+    "length_deleted_m": 0.0,
+    "final_length_m": 141.73,
+    "alterations": []
+  },
+  {
+    "film_title": "Vikusai Yatra",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "B/67579",
+    "endorsement": "U",
+    "original_length_m": 323.09,
+    "length_deleted_m": 0.0,
+    "final_length_m": 323.09,
+    "alterations": []
+  },
+  {
+    "film_title": "The Soviet Army No. 6",
+    "languages": [
+      "English & Hindi"
+    ],
+    "cert_no": "B/62198",
+    "endorsement": "U",
+    "original_length_m": 234.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 234.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Suetit Aur Geuta",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67517",
+    "endorsement": "U",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Joroo KA Ghulam'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67641",
+    "endorsement": "U",
+    "original_length_m": 94.49,
+    "length_deleted_m": 0.0,
+    "final_length_m": 94.49,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Legacy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67536",
+    "endorsement": "U",
+    "original_length_m": 288.33,
+    "length_deleted_m": 0.0,
+    "final_length_m": 288.33,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Craft",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67538",
+    "endorsement": "U",
+    "original_length_m": 287.72,
+    "length_deleted_m": 0.0,
+    "final_length_m": 287.72,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Faith",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67537",
+    "endorsement": "U",
+    "original_length_m": 288.94,
+    "length_deleted_m": 0.0,
+    "final_length_m": 288.94,
+    "alterations": []
+  },
+  {
+    "film_title": "This Bit of That India",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67532",
+    "endorsement": "U",
+    "original_length_m": 594.0,
+    "length_deleted_m": 6.63,
+    "final_length_m": 587.37,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shots of masturbation and ejaculation of sperms by a monkey.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of overtures by a Negro boy to an Indian girl for making love.",
+        "length_m": 2.82
+      }
+    ]
+  },
+  {
+    "film_title": "Elkem",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67597",
+    "endorsement": "U",
+    "original_length_m": 243.34,
+    "length_deleted_m": 0.0,
+    "final_length_m": 243.34,
+    "alterations": []
+  },
+  {
+    "film_title": "Blissful Bounty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67606",
+    "endorsement": "U",
+    "original_length_m": 29.87,
+    "length_deleted_m": 0.0,
+    "final_length_m": 29.87,
+    "alterations": []
+  },
+  {
+    "film_title": "Filmstar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67608",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 0.0,
+    "final_length_m": 30.48,
+    "alterations": []
+  },
+  {
+    "film_title": "Kudrat Ki Nemat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67497",
+    "endorsement": "U",
+    "original_length_m": 29.87,
+    "length_deleted_m": 0.0,
+    "final_length_m": 29.87,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Tu Meri Main Tera'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67506",
+    "endorsement": "U",
+    "original_length_m": 83.52,
+    "length_deleted_m": 0.76,
+    "final_length_m": 82.76,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the bulging of the bust prominently visible of the dancer clad in black.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "The Risk",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67511",
+    "endorsement": "U",
+    "original_length_m": 2497.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 2497.0,
+    "alterations": []
+  },
+  {
+    "film_title": "The Assignment",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67616",
+    "endorsement": "U",
+    "original_length_m": 914.4,
+    "length_deleted_m": 0.0,
+    "final_length_m": 914.4,
+    "alterations": []
+  },
+  {
+    "film_title": "There's Health In Phosfomin",
+    "languages": [
+      "English & Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67558 -59",
+    "endorsement": "U",
+    "original_length_m": 29.87,
+    "length_deleted_m": 0.0,
+    "final_length_m": 29.87,
+    "alterations": []
+  },
+  {
+    "film_title": "Family Tonic",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67560 -64",
+    "endorsement": "U",
+    "original_length_m": 29.87,
+    "length_deleted_m": 0.0,
+    "final_length_m": 29.87,
+    "alterations": []
+  },
+  {
+    "film_title": "Healthy Family",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67565 -68",
+    "endorsement": "U",
+    "original_length_m": 29.87,
+    "length_deleted_m": 0.0,
+    "final_length_m": 29.87,
+    "alterations": []
+  },
+  {
+    "film_title": "Naqli Shaan",
+    "languages": [
+      "Sindhi"
+    ],
+    "cert_no": "B/67578",
+    "endorsement": "U",
+    "original_length_m": 2951.68,
+    "length_deleted_m": 0.0,
+    "final_length_m": 2951.68,
+    "alterations": []
+  },
+  {
+    "film_title": "Jetty At Kalpokkum",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67333",
+    "endorsement": "U",
+    "original_length_m": 350.52,
+    "length_deleted_m": 0.0,
+    "final_length_m": 350.52,
+    "alterations": []
+  },
+  {
+    "film_title": "Gaijatra - Ek Jhalak",
+    "languages": [
+      "Nepalese"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67615",
+    "endorsement": "U",
+    "original_length_m": 276.38,
+    "length_deleted_m": 0.0,
+    "final_length_m": 276.38,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Socta Aur Geeta'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67664",
+    "endorsement": "U",
+    "original_length_m": 131.06,
+    "length_deleted_m": 0.0,
+    "final_length_m": 131.06,
+    "alterations": []
+  },
+  {
+    "film_title": "All For Your Safoty",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67643",
+    "endorsement": "U",
+    "original_length_m": 156.97,
+    "length_deleted_m": 0.0,
+    "final_length_m": 156.97,
+    "alterations": []
+  },
+  {
+    "film_title": "Research And Development of Civil Aviation",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67646",
+    "endorsement": "U",
+    "original_length_m": 171.91,
+    "length_deleted_m": 0.0,
+    "final_length_m": 171.91,
+    "alterations": []
+  },
+  {
+    "film_title": "Weather Service",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67647",
+    "endorsement": "U",
+    "original_length_m": 187.15,
+    "length_deleted_m": 0.0,
+    "final_length_m": 187.15,
+    "alterations": []
+  },
+  {
+    "film_title": "New Horizon",
+    "languages": [
+      "English & Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67656 -57",
+    "endorsement": "U",
+    "original_length_m": 271.27,
+    "length_deleted_m": 0.0,
+    "final_length_m": 271.27,
+    "alterations": []
+  },
+  {
+    "film_title": "Maharashtra News No. 245 October, 1972",
+    "languages": [
+      "Marathi and Hindi"
+    ],
+    "cert_no": "B/67653 -54",
+    "endorsement": "U",
+    "original_length_m": 295.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 295.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1255",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67639",
+    "endorsement": "U",
+    "original_length_m": 206.35,
+    "length_deleted_m": 0.0,
+    "final_length_m": 206.35,
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1255 (Western Edition)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67640",
+    "endorsement": "U",
+    "original_length_m": 273.71,
+    "length_deleted_m": 0.0,
+    "final_length_m": 273.71,
+    "alterations": []
+  },
+  {
+    "film_title": "The Red Square (Shorter Version)",
+    "languages": [
+      "English"
+    ],
+    "format": "Partly in colour",
+    "cert_no": "B/67535",
+    "endorsement": "U",
+    "original_length_m": 3125.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 3125.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'The Red Square'",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67535",
+    "endorsement": "U",
+    "original_length_m": 98.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 98.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Shradhanjali",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/67541",
+    "endorsement": "U",
+    "original_length_m": 275.83,
+    "length_deleted_m": 0.0,
+    "final_length_m": 275.83,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Munimji",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67624",
+    "endorsement": "U",
+    "original_length_m": 88.39,
+    "length_deleted_m": 0.91,
+    "final_length_m": 87.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of a man with bleeding face during the fight.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Kurukshetra",
+    "languages": [
+      "Hindi & English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67619-A",
+    "endorsement": "U",
+    "original_length_m": 366.98,
+    "length_deleted_m": 0.0,
+    "final_length_m": 366.98,
+    "alterations": []
+  },
+  {
+    "film_title": "Notes On The Green Revolution",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67627",
+    "endorsement": "U",
+    "original_length_m": 585.22,
+    "length_deleted_m": 0.0,
+    "final_length_m": 585.22,
+    "alterations": []
+  },
+  {
+    "film_title": "Foundations of Progress",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67626",
+    "endorsement": "U",
+    "original_length_m": 556.56,
+    "length_deleted_m": 0.0,
+    "final_length_m": 556.56,
+    "alterations": []
+  },
+  {
+    "film_title": "Power To The People",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67628",
+    "endorsement": "U",
+    "original_length_m": 327.06,
+    "length_deleted_m": 0.0,
+    "final_length_m": 327.06,
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Rakhi Aur Hatkadi'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67704",
+    "endorsement": "U",
+    "original_length_m": 99.97,
+    "length_deleted_m": 0.0,
+    "final_length_m": 99.97,
+    "alterations": []
+  },
+  {
+    "film_title": "Pragatino Rankar",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "B/66910",
+    "original_length_m": 464.82,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "No. I",
+        "description": "Added various shots.",
+        "length_m": 124.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. I",
+        "description": "Deleted various shots.",
+        "length_m": 110.64
+      },
+      {
+        "kind": "insertion",
+        "reel": "II",
+        "description": "Added various shots.",
+        "length_m": 142.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted various shots.",
+        "length_m": 111.25
+      }
+    ]
+  },
+  {
+    "film_title": "Shradhanjali",
+    "languages": [
+      "Hindi",
+      "Partly in English"
+    ],
+    "cert_no": "B/66565",
+    "original_length_m": 348.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted various shots.",
+        "length_m": 29.0
+      }
+    ]
+  },
+  {
+    "film_title": "Delicate -Handle With Care",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67658 -61",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Delicate",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67662",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Everybody's Favourite",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67635",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Faith",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67537- A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Craft",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67538 - A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "A New Legacy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67536 - A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Meet Your Match",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67671",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Lucky Matchmaker",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67672 -74",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Boys Will Be Boys",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67692",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "The Dacoits of Badmashpur",
+    "languages": [
+      "English & Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67587 - 10 - A",
+    "original_length_m": 0.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Tubemanship For Today and Tomorrow",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "C/7535",
+    "endorsement": "U",
+    "original_length_m": 225.55,
+    "length_deleted_m": 0.0,
+    "final_length_m": 225.55,
+    "alterations": []
+  },
+  {
+    "film_title": "Sakalar Priya",
+    "languages": [
+      "Bengali",
+      "Hindi",
+      "Marathi",
+      "Gajasati"
+    ],
+    "colour": "Colour",
+    "cert_no": "C/7536 -39",
+    "endorsement": "U",
+    "original_length_m": 28.33,
+    "length_deleted_m": 0.0,
+    "final_length_m": 28.33,
+    "alterations": []
+  },
+  {
+    "film_title": "Birla Industrial & Technological Museum",
+    "languages": [
+      "English & Bengali"
+    ],
+    "cert_no": "C/7540 -41",
+    "endorsement": "U",
+    "original_length_m": 246.7,
+    "length_deleted_m": 0.0,
+    "final_length_m": 246.7,
+    "alterations": []
+  },
+  {
+    "film_title": "Silversanda",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/7615",
+    "endorsement": "U",
+    "original_length_m": 36.87,
+    "length_deleted_m": 0.0,
+    "final_length_m": 36.87,
+    "alterations": []
+  },
+  {
+    "film_title": "Dharma Pathni",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7605",
+    "endorsement": "U",
+    "original_length_m": 4037.98,
+    "length_deleted_m": 0.0,
+    "final_length_m": 4037.98,
+    "alterations": []
+  },
+  {
+    "film_title": "Mareyatha Deepavali",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7973",
+    "endorsement": "U",
+    "original_length_m": 4464.4,
+    "length_deleted_m": 2.12,
+    "final_length_m": 4462.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete from Anuradha's dialogue, the words 'Brooke Bond'.",
+        "length_m": 2.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the sentence 'Yoc State Key Minister' spoken by Shanker (Sound only - replaced with approved words).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Puttrakameshtty",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7608",
+    "endorsement": "U",
+    "original_length_m": 4732.17,
+    "length_deleted_m": 121.53,
+    "final_length_m": 4010.64,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Gopalan looking pointedly at Paru's bust when he pretends to fall asleep on her shoulder.",
+        "length_m": 10.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the exchange of dialogue between Kuttappan and Gopalan relating to the certificate for undergoing vasectomy operation, upto and including Gopalan asking the certificate to be loaned to him.",
+        "length_m": 13.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the following line spoken by Mathew 'Namma Policekku Atthanai Veeriyamo'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Philomena's dialogue when she says that the Deputy Director need not come the next day as she is unwell.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the reference to IPS and IAS as degree.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the following line spoken by Kesavan Najr 'Naanum Neeyum Jecvikunna Yee Bhoomiyil Sathyathinayum Dhar mathinayum Endhu Vilayanu Ulladhu'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the words Adhu polcy Avalum' spoken by Mathew.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the exchange of dialogue between Mathew and Philomena beginning from the words 'Avaludey Kazhiyu Avidey Illa' upto Socialism.",
+        "length_m": 4.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the following line spoken by Mathew to Kuttappan 'En dey Bharya Enekku Kittathilla Ariyamallo'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the words 'Aalilley Ividey -Prinney VAA' spoken by Kesavan Nair.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete entirely the exchange of dialogue between Gopalan and Kuttappan about Santhanavalli bearing children.",
+        "length_m": 46.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce by 50% the sequence showing the dead body on the sed Shore.",
+        "length_m": 0.0,
+        "length_retained_m": 46.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "(a) Reduce to a minimum Dakshayini sitting down next to Sita's body brought after postmortem and crying over it, and (b) delete the sequence showing Kesayan Nair struggling with Sita to rape her) (The sequence should stop with Kesayan Nair putting his hand on Sita's shoulder and the sound of her resisting him, the topshot of Kesayan Nair taking Sita into the bed-room and pushing her on the bed, and then cut to the symbolic shot of the fish on the sea-shore.",
+        "length_m": 14.32,
+        "length_retained_m": 14.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the following line spoken by the superior police officer: 'Prathikale Mattri Mattra Naalu Pradhikaley Undakki Charge Kodukkanam'. Madhu 'Sadhyamilla'. Officer: - Ningaley Samharikanulla SakthiAyarku Undu Ennu Manasilakkanam'.",
+        "length_m": 32.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the reference to P.S.C. Chairman.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Lakkshiyem",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7616",
+    "endorsement": "U",
+    "original_length_m": 3824.32,
+    "length_deleted_m": 9.72,
+    "final_length_m": 3824.32,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of the dancer hugging Johny while raising her thigh and Jhony catching hold of the thigh on the song-line 'Kaalil Nrut-tham'.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the line spoken by Paru 'Avarokke Christinaynikala'. (Sound only).",
+        "length_m": 2.43
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "The shot of the Mosque and the Muslims in prayer in the course of the picturisation of the song should be left silent. (Replaced shot of Sasi).",
+        "length_m": 4.25
+      }
+    ]
+  },
+  {
+    "film_title": "Tamilnadu Govt. Regional News Bulletin No. 81",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B. & W.",
+    "cert_no": "M/7629",
+    "endorsement": "U",
+    "original_length_m": 305.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 305.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1257 (Eastern Edition)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67209",
+    "endorsement": "U",
+    "original_length_m": 235.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 235.0,
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1257",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/67209",
+    "endorsement": "U",
+    "original_length_m": 303.58,
+    "length_deleted_m": 0.0,
+    "final_length_m": 303.58,
+    "alterations": []
+  },
+  {
+    "film_title": "Parchhaiyan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67209",
+    "endorsement": "U",
+    "original_length_m": 3876.54,
+    "length_deleted_m": 119.24,
+    "final_length_m": 3850.54,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "In the song 'Jata ankhiyan la laiye...', (a) reduce considerably the view of Dilip catching Sudha's leg, who is in a male's garb, and his actions of moving forward with her leg in hand. (Length retained: 1.22 m.).",
+        "length_m": 1.52,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(b) Delete the view of Dilip rotating with Sudha on his back till he keeps her down.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(c) Delete the view of Dilip taking Sudha in his arms and lifting her up on words 'Jara ankhiyan la laiyo jara khushiya mana laiyo'.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(d) Delete the following words uttered by Sudha's girl companion: 'Main Bhagwan ka naam lokar Ramesh se shuru ho gayeo'.",
+        "length_m": 1.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete reference to 'Hanuman' in Sudha's girl companion's dialogue.",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(f) Delete the underlined words from the dialogue between Rekha and the comedian Ramesh: 'Tumhe mori tasvir lončki juraat kaise hui?' 'Maine Dabi leo.' 'What?' 'More camora no li hai.'",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(a) Delete the words 'Paidaish Dhanda' said by comedian to Dilip from his sentence 'Guru nikalna aur dalna apna paidaishi dhanda hai'.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(b) Delete the words 'Maha chaloo' from the sentence 'Mujho yeh maha chaloo malum hoti hai' of the comedian.",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(c) Delete the following words uttered by the comedian while speaking with Dilip in the Car: 'Nikalna aur dalang to hamara purana kaam hai'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the swimming pool sequence: (a) Delete the pan shot of Sudha lying on bench and camera panning from her exposed leg to head.",
+        "length_m": 2.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "(b) Reduce the close view of her panting.",
+        "length_m": 1.1,
+        "length_retained_m": 1.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete once the view of close physical proximity between the hero and heroine when their noses touch each other.",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the views of nude photograph on the cover page of a magazine held in hand by Mohan while he is lying on cot.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "(a) Delete the view of Rakesh touching Rangi's bust with his face in Dashhara dance. (b) Delete the view of Rakesh lifting Rangi on his hand.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "(a) Delete completely the gestures in song sequence in water 'Garam garam kaya' of Mohan and Rangi. (b) Drastically reduce the molestation sequence.",
+        "length_m": 80.47,
+        "length_retained_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "(c) From the song 'O garam garam kaya thanda thanda pani...', sung by Rangi in water, delete the gesture of the bust jerking on words 'Oh daiya mori dhadak rahi chhatiya'.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Rakhi Aur Hatkadi'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67748",
+    "endorsement": "U",
+    "original_length_m": 3988.92,
+    "length_deleted_m": 18.59,
+    "final_length_m": 3971.55,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the mujra dance performed by Janaki, delete the portion in which she repeatedly presses her left breast on the floor.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the underlined word from the following dialogue between Raja's friend and Raja when they see the heroine's unchained bicycle: 'Lavandiya ki chain utar gayee'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce considerably the scene of Raja trying to molest Kiran, particularly reducing considerably the portion of their rolling together and reducing to a flash the ripping of the blouse.",
+        "length_m": 8.23,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Drastically reduce the prolonged scene of violent fight between the two groups (Deleted completely).",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Munimji'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67753",
+    "endorsement": "U",
+    "original_length_m": 86.87,
+    "length_deleted_m": 1.67,
+    "final_length_m": 85.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of partly exposed bust during the arching action of the cabaret dancer.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of shaking of hips by the cabaret dancer.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'America' Paesc Di Dio",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/53968",
+    "endorsement": "U",
+    "original_length_m": 121.92,
+    "length_deleted_m": 7.01,
+    "final_length_m": 114.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Miller's hands caressing the breast of a lady.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scene of electrocution.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the scene of a man burning to ashes.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'The Risk'",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen",
+    "cert_no": "D/67512",
+    "endorsement": "U",
+    "original_length_m": 60.0,
+    "length_deleted_m": 0.2,
+    "final_length_m": 59.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'German' from the commentary 'German Fascist'.",
+        "length_m": 0.2
+      }
+    ]
+  },
+  {
+    "film_title": "Comingo",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "B/67367",
+    "endorsement": "U",
+    "original_length_m": 3416.81,
+    "length_deleted_m": 4.42,
+    "final_length_m": 3412.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the view of a person rubbing a lady's chest.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce considerably the love making in bed at the beginning of the reel.",
+        "length_m": 3.66,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined words from the dialogue: 'They are carrying a white flag.' 'They can wipe their asses with it.' (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The French Connection",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67366",
+    "endorsement": "U",
+    "original_length_m": 2823.0,
+    "length_deleted_m": 1.2,
+    "final_length_m": 2821.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the sentence 'Never trust a nigger'. (Only sound removed by inking).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete underlined words from dialogue: 'What is this a fucking hospital here? Huh?', 'Get your hands on your fucking head', 'No mother fucker', '...If they don't know you there, it's your ass', 'Big score, my ass', 'Shove it up your ass'.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the view of the nude lady in Doyle's room.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined word from Doyle's sentence: 'Before I blow your fucking head off'. (Deleted sound by inking).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "L. S. D.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67442",
+    "endorsement": "U",
+    "original_length_m": 2372.2,
+    "length_deleted_m": 7.01,
+    "final_length_m": 2365.19,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce drastically the scene of electrocution of a man.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "description": "Drastically reduce the shot of a man burning to ashes.",
+        "length_m": 4.27,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "description": "Drastically reduce the torture of Miller, particularly deleting all close shots of his face.",
+        "length_m": 1.52,
+        "length_retained_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Raaste Ka Patthar'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67643",
+    "endorsement": "U",
+    "original_length_m": 91.14,
+    "length_deleted_m": 4.57,
+    "final_length_m": 91.14,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce to a flash the close view of a girl keeping her hand on the bleeding abdomen.",
+        "length_m": 0.3,
+        "length_retained_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce the view of unzipping of the blouse of a lady by a man. (Deleted completely).",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of a lady and a man sitting face to face and the man embracing and caressing the exposed back of the lady.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of exposed legs of a lady on the cot.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Parchhaiyan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67209",
+    "endorsement": "U",
+    "original_length_m": 3876.54,
+    "length_deleted_m": 119.24,
+    "final_length_m": 3850.54,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "In the song 'Jata ankhiyan la laiye...', (a) reduce considerably the view of Dilip catching Sudha's leg, who is in a male's garb, and his actions of moving forward with her leg in hand. (Length retained: 1.22 m.).",
+        "length_m": 1.52,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(b) Delete the view of Dilip rotating with Sudha on his back till he keeps her down.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(c) Delete the view of Dilip taking Sudha in his arms and lifting her up on words 'Jara ankhiyan la laiyo jara khushiya mana laiyo'.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(d) Delete the following words uttered by Sudha's girl companion: 'Main Bhagwan ka naam lokar Ramesh se shuru ho gayeo'.",
+        "length_m": 1.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete reference to 'Hanuman' in Sudha's girl companion's dialogue.",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "(f) Delete the underlined words from the dialogue between Rekha and the comedian Ramesh: 'Tumhe mori tasvir lončki juraat kaise hui?' 'Maine Dabi leo.' 'What?' 'More camora no li hai.'",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(a) Delete the words 'Paidaish Dhanda' said by comedian to Dilip from his sentence 'Guru nikalna aur dalna apna paidaishi dhanda hai'.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(b) Delete the words 'Maha chaloo' from the sentence 'Mujho yeh maha chaloo malum hoti hai' of the comedian.",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "(c) Delete the following words uttered by the comedian while speaking with Dilip in the Car: 'Nikalna aur dalang to hamara purana kaam hai'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the swimming pool sequence: (a) Delete the pan shot of Sudha lying on bench and camera panning from her exposed leg to head.",
+        "length_m": 2.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "(b) Reduce the close view of her panting.",
+        "length_m": 1.1,
+        "length_retained_m": 1.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete once the view of close physical proximity between the hero and heroine when their noses touch each other.",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the views of nude photograph on the cover page of a magazine held in hand by Mohan while he is lying on cot.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "(a) Delete the view of Rakesh touching Rangi's bust with his face in Dashhara dance. (b) Delete the view of Rakesh lifting Rangi on his hand.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "(a) Delete completely the gestures in song sequence in water 'Garam garam kaya' of Mohan and Rangi. (b) Drastically reduce the molestation sequence.",
+        "length_m": 80.47,
+        "length_retained_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "(c) From the song 'O garam garam kaya thanda thanda pani...', sung by Rangi in water, delete the gesture of the bust jerking on words 'Oh daiya mori dhadak rahi chhatiya'.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Rakhi Aur Hatkadi'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67748",
+    "endorsement": "U",
+    "original_length_m": 3988.92,
+    "length_deleted_m": 18.59,
+    "final_length_m": 3971.55,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the mujra dance performed by Janaki, delete the portion in which she repeatedly presses her left breast on the floor.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the underlined word from the following dialogue between Raja's friend and Raja when they see the heroine's unchained bicycle: 'Lavandiya ki chain utar gayee'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce considerably the scene of Raja trying to molest Kiran, particularly reducing considerably the portion of their rolling together and reducing to a flash the ripping of the blouse.",
+        "length_m": 8.23,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Drastically reduce the prolonged scene of violent fight between the two groups (Deleted completely).",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Munimji'",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/67753",
+    "endorsement": "U",
+    "original_length_m": 86.87,
+    "length_deleted_m": 1.67,
+    "final_length_m": 85.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of partly exposed bust during the arching action of the cabaret dancer.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the close view of shaking of hips by the cabaret dancer.",
+        "length_m": 1.22
+      }
+    ]
+  }
+]

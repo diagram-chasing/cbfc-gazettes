@@ -1,0 +1,425 @@
+[
+  {
+    "film_title": "Rocket Tarzan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "People Pictures, 216, Naaz Cinema, Lamington Road, Bombay-4",
+    "cert_no": "39602",
+    "cert_date": "7-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Passing shot of Bamboo Barrago",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From song beginning with the words \"Unko Humse Badi Shikayat Hai...\", the close-up of Mala's bust in profile",
+        "length_m": 34.14
+      }
+    ]
+  },
+  {
+    "film_title": "Warner Product Trailer",
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Warner Bros. Pictures Inc., Eros Cinema",
+    "cert_no": "39608",
+    "cert_date": "8-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of a girl in bed being passionately embraced and kissed by her lover",
+        "length_m": 2.75
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Gypsy\"",
+    "format": "35 mm",
+    "producer": "Warner Bros. Pictures Inc., Eros Cinema Bldg., 42, Queen's Road, Bombay-1",
+    "cert_no": "39609",
+    "cert_date": "8-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All shots of scantily dressed dancers and of Gypsy doing the striptease",
+        "length_m": 15.3
+      }
+    ]
+  },
+  {
+    "film_title": "Faulad",
+    "colour": "Partly in Colour",
+    "format": "35 mm",
+    "producer": "Broadway Pictures, Zavery Bldg., 136, Chamarbaug Road, Parel, Bombay-12",
+    "cert_no": "39610",
+    "cert_date": "8-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Ramprasad's reference to one of the maid-servants as Susari",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V, VI",
+        "description": "From the free-style wrestling match, all near-views of violent scuffles such as twisting of legs, repeated blows and jumping on the stomach, etc.",
+        "length_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V, VI",
+        "description": "Close-up of the foreign wrestler holding his bleeding chest before collapsing",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "In the dance sequence on board the ship, shot of the dancer's skirt going up very high",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Shots of Mantri's guard and the Maharaja being pierced right through the chest",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of snatching of children by the soldiers from their mothers and the shot of soldiers killing a baby with his sword",
+        "length_m": 4.88,
+        "length_retained_m": 1.3
+      }
+    ]
+  },
+  {
+    "film_title": "Faulad",
+    "format": "35 mm",
+    "producer": "Broadway Pictures, Zavery Bldg., 136, Chamarbaug Road, Parel, Bombay-12",
+    "cert_no": "39610",
+    "cert_date": "8-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Passing shots of Rajkumari and Amar in charriot",
+        "length_m": 8.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Scene showing Alberto and Mantri going to jail exterior",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Scene showing Amar and Mangloo carrying the boat on their heads",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Scene showing Mantri taking Rajkumari to the jail exterior and passing shot of charriot",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Mere Mehboob",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rahul Theatres (India), 309-B, Famous Cine Bldg., Haines Road, Bombay-11",
+    "cert_no": "39288",
+    "cert_date": "16-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel Nos. I, IX and XVIII",
+        "description": "Dialogues and scenes",
+        "length_m": 54.76
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel Nos. I, V, IX, X, XVI and XVIII",
+        "description": "Approved credit titles, scenes and dialogues",
+        "length_m": 277.83
+      }
+    ]
+  },
+  {
+    "film_title": "Mere Mehboob",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rahul Theatres (India), 309-B, Famous Cine Bldg., Haines Road, Bombay-11",
+    "cert_no": "39288",
+    "cert_date": "16-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Scene of Kanyalal, Ghael, Pachi etc.",
+        "length_m": 36.27
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Maiya Tohe Piyari Chadhaibo",
+    "languages": [
+      "Hindi-Bhojpuri"
+    ],
+    "format": "35 mm",
+    "producer": "Bishwanath Prasad Shahabadi, C/o Nirmal Pictures, Hemkund No. 1, 14th Road Bombay-50",
+    "cert_no": "37056",
+    "cert_date": "27-11-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Words from credit titles, thanking Shri Tiwari for his cooperation",
+        "length_m": 4.5
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Photograph of the late Dr. Rajendra Prasad and words dedicating the film to him",
+        "length_m": 4.5
+      }
+    ]
+  },
+  {
+    "film_title": "PT 109",
+    "format": "35 mm",
+    "producer": "Warner Bros. First National Pictures, Inc., 42-Queen's Road, Bombay-1",
+    "cert_no": "39044",
+    "cert_date": "20-7-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Scenes and dialogues",
+        "length_m": 181.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Scenes and dialogues",
+        "length_m": 98.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Scenes and dialogues",
+        "length_m": 115.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Scenes and dialogues",
+        "length_m": 77.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Scenes and dialogues",
+        "length_m": 60.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Scenes and dialogues",
+        "length_m": 87.51
+      }
+    ]
+  },
+  {
+    "film_title": "A Luxury You Can Afford",
+    "format": "35 mm",
+    "producer": "Pic Publicity of India, 148, Famous Cine Bldg., Bombay-11",
+    "cert_no": "39337",
+    "cert_date": "21-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shots of toys — a hoola-hoop girl, trumpet boy and a small radio etc.",
+        "length_m": 9.62
+      }
+    ]
+  },
+  {
+    "film_title": "Air Lift To Ladakh",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Ama Private Ltd., Canada Bldg., Hornby Road, Bombay-1",
+    "cert_no": "39342",
+    "cert_date": "24-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Title in English U.S.I.S. PRESENTS",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Showdown",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Universal Pictures India Private Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "39637",
+    "cert_date": "14-10-1963",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "It Happened At The World's Fair",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.G. Rd., Bombay-1",
+    "cert_no": "39638",
+    "cert_date": "15-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel E",
+        "description": "Shots of passionate kissing between Mike and Dorothy",
+        "length_m": 0.45,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Bachpan",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "New Panch Ratan Pictures, Roop Kalu, 16th Road, Khar, Bombay-52",
+    "cert_no": "39648",
+    "cert_date": "16-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Dialogues between Sunil and Raju",
+        "length_m": 32.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Anwar Mirza cheating his old aunt of Rs. 10 while counting the currency notes given by her",
+        "length_m": 20.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From Sunil's dialogue, the following remarks which emphasise the distinction between rich and poor: \"Aur gharib hamcsha sc girta aaya hai.\" \"Bura to baro log hi mante hain.\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Scene between David and Sunil exposing Dhuo Radio showcards",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Scene between Menka and Sheela",
+        "length_m": 30.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Scene between Anwar and Sunil",
+        "length_m": 31.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Scene between Maneka and Shoola",
+        "length_m": 34.14
+      }
+    ]
+  },
+  {
+    "film_title": "Ghar Basake Dekho",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Ratnadeep Pictures, Kurla Rd., Andheri 69AS",
+    "cert_no": "39650",
+    "cert_date": "19-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The shot of the Pandit thrusting his face close to Mohana's while taunting her for having got married without consulting him about her horoscope",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The shot of a kiss between two girls (one of whom disguises herself as a man) (during the music party at Mohana's house",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From Jackson's dialogue addressed to Ganga just before the song \"Ye ras teri baton ku chocolate\" his reference to becoming her Bhangi",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Gladiators 7",
+    "format": "35 mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "39656",
+    "cert_date": "19-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of soldiers falling into fire when hit by arrows",
+        "length_m": 0.38,
+        "length_retained_m": 0.3
+      }
+    ]
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "film_title": "Tail'u To Zakuro",
+    "languages": [
+      "Japanese"
+    ],
+    "colour": "colour",
+    "producer": "Toho Co. Ltd. (Japan.)",
+    "cert_no": "A-2521",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the back view of Kazuo in the nude as camera pans up from legs upward during his shower bath in the company of the girls.",
+        "length_m": 2.02
+      }
+    ]
+  },
+  {
+    "film_title": "Rahgir",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "cert_no": "U-56562",
+    "original_length_m": 4179.78,
+    "length_deleted_m": 226.94,
+    "final_length_m": 3994.39,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 10",
+        "description": "Added a scene of flock flying in the sky and Basant seeing those birds rushes to the window and wishes if he could be as free as those birds. (After the scene where Zamindar asks Basant to attend Kutchuri from the next morning)"
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted voluntarily from reels 1 to 16"
+      }
+    ]
+  },
+  {
+    "film_title": "Veera Vallisbhan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B & W",
+    "cert_no": "U-57280",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Pulikesi’s statement ‘Aaranr.ngu Arssiyrl Trend h: 1 Aabathu’ (Sound only replacement of sound approved)."
+      }
+    ]
+  },
+  {
+    "film_title": "Pennai Vazha Vidungal",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B & W",
+    "cert_no": "U-57281",
+    "original_length_m": 4570.0,
+    "length_deleted_m": 30.0,
+    "final_length_m": 4540.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete specific reference to Arunagiri Nadhar and Thirumangai Azhwar in disparating context as having taken to evil ways by committing mistakes and repented."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "In the picturisation of the song ‘Madhu Iranga Iranga’, delete shot showing Anand embracing the dancer and his hand moving below the waist upwards"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "In the group dance led by Santhi, delete sequence showing a group of girls lying on their backs in a row, banding their knees and shaking their knees"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Where Natarajan and his fiancee appear as old man and old woman, delete shot where Nataraj covers the end of the saree over the right breast of the girl and the dialogue ‘why sex appeal (Kavarchi) while she is supposed to be old’."
+      }
+    ]
+  },
+  {
+    "film_title": "Magane Nee Vazhga",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "B&W",
+    "cert_no": "U-57282",
+    "original_length_m": 4213.51,
+    "length_deleted_m": 8.21,
+    "final_length_m": 4205.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete (a, shot where Manickam and Sita are lying on the ground in close proximity in a kissing posture (a) Shot of his lips/mouth pressing against her busts (/.>) shot where they stand face to face in close proximity — up to waist"
+      }
+    ]
+  },
+  {
+    "film_title": "Two Violent Men",
+    "format": "Totalscope",
+    "original_length_m": 2595.67,
+    "length_deleted_m": 25.74,
+    "final_length_m": 2569.93,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IX & X",
+        "description": "Reduce the prolonged fight towards the end of the film."
+      }
+    ]
+  },
+  {
+    "film_title": "Death of A Gunfighter",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "U-57883",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shots showing the sevak with girls at the sea beach."
+      }
+    ]
+  },
+  {
+    "film_title": "Bank Robbery",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "U-57880",
+    "original_length_m": 91.44,
+    "length_deleted_m": 3.96,
+    "final_length_m": 87.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shots showing the sevak with girls at the sea beach."
+      }
+    ]
+  },
+  {
+    "film_title": "Guess What",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "cert_no": "U-55789",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the shots showing a Sardarjee in a workshop and the various toys being oiled."
+      },
+      {
+        "kind": "insertion",
+        "description": "Addition of pack shots approved."
+      }
+    ]
+  },
+  {
+    "film_title": "A Man Called Gannon",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "original_length_m": 2295.75,
+    "length_deleted_m": 38.7,
+    "final_length_m": 2257.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the shot in which a man kisses a breast of an old woman Louisa."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the shots in which Gannon and Beth as also Jess and Beth are making passionate love to each other &V as also the views of bare breast and body of Beth."
+      }
+    ]
+  },
+  {
+    "film_title": "Chanda Aur Bijli",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "cert_no": "U-58007",
+    "original_length_m": 3981.0,
+    "length_deleted_m": 23.16,
+    "final_length_m": 3973.68,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel Vi",
+        "description": "Reduce the bathroom scene, deleting the shots wherein Bijli’s ‘Pavada’ is shown falling down around her feet. Reduce the views of Bhagatram peeping through the door, deleting his leerings and vulgar reactions and the view of Bijli in suggestive pose."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel Vi",
+        "description": "Replaced with approved shots."
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "In the picturisation of the song beginning with the words ‘Chanda Aur Bijli’, delete the shots showing indecorous movements of the dancer in the slit silver skirt and her prominent views in suggestive pose, also the last shot in which Jerry slide his hand along the bare portion of the leg & hip of the dancer."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Replaced with approved shots."
+      }
+    ]
+  },
+  {
+    "film_title": "Secret Ceremony",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "cert_no": "A-2601",
+    "original_length_m": 3046.78,
+    "length_deleted_m": 2.36,
+    "final_length_m": 3044.42,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IVB",
+        "description": "Reduce the prolonged kiss between Albert and Cinci at the beginning, immediately after Ire slips the ring on her finger."
+      }
+    ]
+  },
+  {
+    "film_title": "Once You Kiss A Stranger",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "cert_no": "U-58043",
+    "original_length_m": 102.1,
+    "length_deleted_m": 12.09,
+    "final_length_m": 90.09,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot showing Jerry and Diana in bed together & its T.V. Picture."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot showing Diana throttling her old aunt's neck on the bed."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot showing Diana bitting Mike with the putter."
+      }
+    ]
+  },
+  {
+    "film_title": "At Five Past Five",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "U-58044",
+    "original_length_m": 1799.23,
+    "length_deleted_m": 1.0,
+    "final_length_m": 1798.23,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From the commentary delete the incorrect reference to the National Flag and the Independence Day. (Replaced with approved words Sound only.)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the underlined words ascribed to Gandhiji about his differences with Shri Subhash Chandia Bose in the following sentence: — “Unfortunately, Mr. Bose was a devotee of violence - ”"
+      }
+    ]
+  },
+  {
+    "film_title": "85, Nayak-Ni-Pol, Porbandar",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali",
+      "Marathi",
+      "Gujarati",
+      "Kannada",
+      "Malayalam",
+      "Kashmiri",
+      "Assamese",
+      "Punjabi",
+      "Oriya",
+      "Urdu"
+    ],
+    "cert_no": "U-57017",
+    "original_length_m": 388.0,
+    "length_deleted_m": 58.83,
+    "final_length_m": 329.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the following from the commentary: “Time took away the Mahatma from Porbandar, and world became his home. India want through changes, so did Porbandar”. “Tradition and modernity, temples and factories. A town passing through different worlds but the image of the Mahatma central to its life”."
+      }
+    ]
+  },
+  {
+    "film_title": "Lahu Pukarega",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "U-53117",
+    "original_length_m": 3718.56,
+    "length_deleted_m": 94.61,
+    "final_length_m": 3623.95,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Reduced the shots showing the fight between Rajan and the fighter."
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduced the shots showing the fight between Rajan and the fighter."
+      }
+    ]
+  }
+]

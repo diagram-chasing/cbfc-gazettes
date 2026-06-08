@@ -1,0 +1,109 @@
+[
+  {
+    "film_title": "Trailer of “Rommel's Treasure”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "M. B. Bilimoria & Son",
+    "cert_no": "38900",
+    "cert_date": "19th November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of embracing and kissing between Sofia and Brunner on sea coast",
+        "length_m": 1.32
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Five Weeks In A Baloon”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd.",
+    "cert_no": "37010",
+    "cert_date": "21st November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of the Sultan and his harem. Shots of skeleton hanging in the dungeon and Susan screaming in terror",
+        "length_m": 9.22
+      }
+    ]
+  },
+  {
+    "film_title": "Five Weeks In A Balloon",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd.",
+    "cert_no": "37011",
+    "cert_date": "21st November 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "From Fergueson's dialogue: “If we fail, heaven help the natives.\"",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. V",
+        "description": "From Fergueson's dialogue: \". . .atleast to their uncivilized eyes\"",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. V, VI",
+        "description": "Entirely the sequence in the Sultan's pavilion",
+        "length_m": 210.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VI",
+        "description": "From dialogue: (a) “Allah gives, Allah takes away” said by Ahmed with reverence to stolen goods",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VI",
+        "description": "From dialogue: (b) \". . .well, I am for it . . .you’ll make a juicy dish. English roast\" said by Ahmed",
+        "length_m": 2.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VIII",
+        "description": "From dialogue: (c) Underlined word from “Allah, protect us from our friends” said by Ahmed",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IX",
+        "description": "The entire scene in the dungeon",
+        "length_m": 66.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All shots showing people at congregational prayers (while the Azan is going on)",
+        "length_m": 16.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following dialogue: Jaeguest “Have they .sold them yet?"
+      }
+    ]
+  }
+]

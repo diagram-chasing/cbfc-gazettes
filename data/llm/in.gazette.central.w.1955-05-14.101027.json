@@ -1,0 +1,423 @@
+[
+  {
+    "film_title": "\"Mr. and Mr. 58\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Guru Dutt Films Ltd., 147, Famous Cine Bldg., Mahalaxmi, Bombay 11.",
+    "cert_no": "13077",
+    "cert_date": "12-4-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Johnny telling the lady that he was her son and that if he made water in her lap, she would think it to be just water.",
+        "length_m": 2.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words 'In two or four places' in the reference to the trousers of Pritam having been torn.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The words 'Ji' and 'Don't be silly' spoken in a suggestive way after Noota tells her that she wants a man for some private work.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Suggestive reference by Johnny asking Ramesh to send him 'postcards' from Paris.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The flash of the view of the first swimming girl jumping out of the swimming pool.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Johnny when referring to Pritam having been behind the door with two women saying 'Yay kamal kili' (Sound). A front close-up shot of the woman with the basket when she is holding the basket on the head, with emphasis on her bosom.",
+        "length_m": 23.47,
+        "length_retained_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The words 'Main dhakke lagunya' spoken by Pritam to Anita.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Reference to young rich girls having no need of marriage in their youth.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Bhabhi saying that she could have four children within four years.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Two views of the girl who makes gestures in the swimming pool; one where the slopes of her bosom are visible, another where the shape of the nipple is also visible.",
+        "length_m": 23.47,
+        "length_retained_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The entire scene of Pritam's visit to Anita's house.",
+        "length_m": 29.57
+      }
+    ]
+  },
+  {
+    "film_title": "\"Steel City - Anghen In Construction\"",
+    "languages": [
+      "Chinese"
+    ],
+    "producer": "Cultural Newsreel and Documentary Film Studio.",
+    "cert_no": "13078",
+    "cert_date": "13-4-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The words 'The victorious' and 'Resist American aggression and aid Korea struggle'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The words 'In token of appreciation of their all-out support for the great struggle of resisting American aggression and aiding Korea' and 'Tell every volunteer out determination to support the struggle of resisting American aggression and riding Korea'.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The words 'And to strengthen the camp of peace headed by the Soviet Union'.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "\"Nero And Messalina\"",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "producer": "Luciano Doria",
+    "cert_no": "13095",
+    "cert_date": "16-4-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Nero kissing a woman on the couch.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of the Borobats with bare thighs exposed.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Kissing of Nero and Messalina.",
+        "length_m": 0.91,
+        "length_retained_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "\"Nero And Messalina\"",
+    "languages": [
+      "Italian",
+      "English"
+    ],
+    "producer": "Luciano Doria",
+    "cert_no": "385",
+    "cert_date": "16-4-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Nero kissing his mother.",
+        "length_m": 2.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following sub-titled lines: 'You charm disappears, when you scold me', 'Only the woman remains', 'This, upon the breast that nursed me and now makes', 'I told you that you are no longer my mother', 'Just a dream'.",
+        "length_m": 2.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Lines: 'As if she were any other woman', 'And conquer her with patience or even a kiss, if possible', 'Let me admire you before you go', 'Your face is beautiful, Agrippa', 'Your throat, morbid and soft, your eyes haughty'.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In the banquet scene, the views of Nero caressing and kissing a woman on the couch twice. In the same scene the dragging of a woman by foot when her thigh is exposed. Also shots of the Borobata with bare thighs exposed.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To a flash the two kissing scenes between Nero and Messalina when they meet for the first time.",
+        "length_m": 6.1,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To a flash the two kissing and carousing scenes between Aulo and Messalina.",
+        "length_m": 6.4,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To a flash throttling of Poppea by Agrippina with a pillow.",
+        "length_m": 8.53,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Mr. & Mrs. 58\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Guru Dutt Films Ltd., 147 Famous Cine Bldg., Mahalaxmi, Bombay 11.",
+    "cert_no": "13077",
+    "cert_date": "12-4-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII & XIV",
+        "description": "Song 'Pritam san milo' in the background.",
+        "length_m": 23.47
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Two shots of Anita looking at piano.",
+        "length_m": 23.47
+      }
+    ]
+  },
+  {
+    "film_title": "\"Grihalakshmi\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Rohini Pictures, Madras.",
+    "cert_no": "12940-U",
+    "cert_date": "11-4-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "In the dancing girls house, when a person in woman's dress brings coffee, delete Kailasam addressing him as a man and observing 'Go away. The boy is bending his body'.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete Manikyam's reference to Kailasam as uncle (Mama).",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "When the 'sait' is asked to hide under the bed, delete Kailasam's statement 'If one comes to a place like this, one must be prepared for everything'.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "When Kailasam explains to the 'sait' the meaning of the word 'durviniyokam' (improper expenditure), delete the 'sait's reply 'it is like my paying you'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete Kailasam's reference to Manikyam 'This body is for helping others (Paropakerartham idham sariram)'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 15 & 16",
+        "description": "In the court scene, delete the picture of the lady advocate and the public prosecutor walking about the court while addressing the jury. (There is no objection to brief shots where these are unavoidable for purposes of continuity).",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 16 & 18",
+        "description": "Delete the close-up pictures of the judge sitting on the bench wearing both a bow-tie and the bands. (There is no objection to long and mid-shots of the judge in this dress, nor to the picture of Radha talking to him as a mad woman on the road when he is going in his car).",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 26",
+        "description": "Where Radha and Veerappa are speaking, delete Veerappa's statement, 'What can the judge do when he has only ears and not eyes?'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 2",
+        "description": "Approved replacements for deleted scene.",
+        "length_m": 7.32,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels 15, 16 & 18",
+        "description": "Approved replacements for deleted scene.",
+        "length_m": 39.93,
+        "length_retained_m": 39.93
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 16",
+        "description": "Approved replacements for deleted scene.",
+        "length_m": 11.28,
+        "length_retained_m": 11.28
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ulagam Palavithan\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. National Productions, Madras.",
+    "cert_no": "12941-0",
+    "cert_date": "11-4-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Pachai asking Giri 'Was this lady your father's concubine?' (Vappattia).",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "When Ramalingam enters during the conversation between Sadasivan and Chellam, delete his statement 'It has just begun even to happen'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete (a) Pachai telling Neela 'Do not count me among the crows' (Kaka pasangal) and (b) The statement after Kazhuku enters on the scene, about the behaviour of the rationalistic party fellows (Pahutharivuvadhi).",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When Panehavarnam says that he wants to become the father-in-law of Giri, delete the latter's conversation 'Mamava?'. You speak coarsely. (Oh! you refer to that mama. My idea was different and now I understand'.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "When Chellam is relating her story to Giri and Pachai enters, delete the dialogue 'If uncomfortable questions are asked? - it is not such a learned person (Arivali)'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "When Kazhuku and Giri are discussing Chellam's absence, delete Kazhuku's statement 'If a woman is going alone men will compete to come forward and go with her'.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "When Madurai says that several people have sent letters to Indira in order to approach Kumarappa, delete Kazhuku saying 'They go by the cross-cut'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "After Valli brings the water jug for Kazhuku, delete her refusing fruits as she does not want to fill her stomach with all sorts of things, Kazhuku showing magazine pictures of women in bathing costume and referring to them as Western culture, inviting her attention to their body and saying that he has no work at that moment (76 ft) and after song No. 7, delete the rest of the sequence to the end of that reel, showing Valli, Kazhuku pinching her, her rebuff, his dialogue, catching her hand, the silhouette shot at the window showing her being molested, the picture of the bungalow verandah showing Valli dishevelled in the morning (89 ft).",
+        "length_m": 47.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "Reduce the fight between Kumarappa and Giri. The close-up shots of strangling are to be deleted.",
+        "length_m": 8.53,
+        "length_retained_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Reduce the dialogue about 'peculiar manner' and 'If a man and woman live separately it is...'.",
+        "length_m": 10.06,
+        "length_retained_m": 10.06
+      }
+    ]
+  },
+  {
+    "film_title": "\"Rojulu Marayi\"",
+    "languages": [
+      "Telegu"
+    ],
+    "producer": "The Sarathi Films Ltd., Madras.",
+    "cert_no": "12929-U",
+    "cert_date": "19-3-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Voluntary deletion made in song.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Approved addition of a dedication.",
+        "length_m": 22.86
+      }
+    ]
+  },
+  {
+    "film_title": "\"Grihalakshmi\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Rohini Pictures, Madras.",
+    "cert_no": "12940-U",
+    "cert_date": "11-4-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 3",
+        "description": "Approved addition of Usha Rani's dance.",
+        "length_m": 130.76
+      }
+    ]
+  }
+]

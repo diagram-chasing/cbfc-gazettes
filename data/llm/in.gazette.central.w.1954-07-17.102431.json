@@ -1,0 +1,424 @@
+[
+  {
+    "film_title": "Gan Fury",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Columbia Pictures Corpn., U.S.A.",
+    "cert_no": "11077",
+    "cert_date": "21-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI (2nd pair)",
+        "description": "Scene of Clayton's henchman being dragged behind a horse",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Degustation at Blackie's tied to a post",
+        "length_m": 24.7
+      }
+    ]
+  },
+  {
+    "film_title": "Stranger Won A",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Columbia Pictures Corpn., U.S.A.",
+    "cert_no": "11078",
+    "cert_date": "21-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "All sounds of Jake being beaten up and hit upon by gangsters",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Degustation at Blackie's tied to a post",
+        "length_m": 24.7
+      }
+    ]
+  },
+  {
+    "film_title": "Vijaypurh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gyan Prakash and Narendra Pathak, Pushpam Building, Opera House, Bombay",
+    "cert_no": "11104",
+    "cert_date": "21-6-04",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Two close-ups of Vijay Kumari with emphasised bust when she is talking to Ajit in the Canadian",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "A Dan spitting out teeth in the palm of another man",
+        "length_m": 2.43
+      }
+    ]
+  },
+  {
+    "film_title": "Chor Bazar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "All India Pictures, C/o Famous Pictures Studio, Cadell Road, Bombay-26",
+    "cert_no": "11122",
+    "cert_date": "22-6-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Yusuf rubbing the item of a pumpkin",
+        "length_m": 5.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the dance accompanying the song 'Yo duniya homele', the principal dancer making enticing gestures close to the chief of guards",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Words 'Barlah hono 40 pohlo bi nandhi ve gayl'; 'Anann ka, ammodon ka, narangiyon ko'; 'Afghanl danda', 'In do thail yon Lokya karogi Bogum. Tum bhi a HmTom bhiapni ek thaili do do'; 'Malo te obor to zyado parand karti hoon' replaced with approved words 'Gtar benan. AU', 'Matwalon ke, dllwalca ko, diwenon ko', 'Toofani danda'; 'Itnithajliyan kys karogi Bogom. Tum bhi up ek tbal do do'; 'Main Bhimoo ko zyada Pasand karti hoon'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Words 'Mero qerib AAO'; 'Chhuo to resham'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The ghota of Chiku with emphasised bust when she way. 'Tumne malho muaf kar diya'",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shimoo appointing tot von pointing thiovou as guards of the tresury; lo Yusuf stealing necklace from Shimoo",
+        "length_m": 20.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Boat shaking and hip swinging of the dancer in the first dance, deleting shots where her petticoat goes up above the knees",
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Considerably the stealing of wealth from the treasury by the thlovou, particularly the modus operandi",
+        "length_retained_m": 31.7
+      }
+    ]
+  },
+  {
+    "film_title": "Unwanted Women",
+    "languages": [
+      "English"
+    ],
+    "producer": "Navona Italy",
+    "cert_no": "11120",
+    "cert_date": "22-0-04",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots of a girl in brassiere and short pants whilst boarding for a dance along with other girls",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The sentence to the Foot 'who sleeps with the first man who come.'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably the love scene between Frances and Clulahin in the barn specially those photo where she ta up on a sofa in scanty dress and talks to him and later when she realines and tempts him to make love to her saying 'but all this is for later when wo ar at home'",
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Shots of girls in very thin dress whilst dancing in the camp performing the play Also shots of girls whilst dancing in. ofrolo and showing clips v hudo kicking high",
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. A.V.M. Productions, Madras-26",
+    "cert_no": "8218-U",
+    "cert_date": "21-6-04",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 1",
+        "description": "Delete the words, 'Mama nom bal tumahra Naingikh , lokin yo tum Surdas . . .' to '. . . Taiso ja roho ho valgo hi anna'",
+        "length_m": 13.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "No. 3",
+        "description": "In the song, 'Man mor machevo shor', delete the close-up of beauty of Rani when she 14 bon liaz bozok warts (replacing 4 ft. of close-up of breast by head close-up of equal length approved)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 5",
+        "description": "(a) the police inspector loudly pronouncing '420' and '# 411' (5 ft.), and (b) Kuthoro's reference to Police Inspector having dropped the cake (20 ft.)",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 7",
+        "description": "Kishore: massaging gestures when Kamini is injured the foot except his first suggestion to Raja to massage the injured portion. Omit the words, 'Chot garn hot, mangago karva lijiye, Baad mon babot faida hoka'",
+        "length_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 12",
+        "description": "Considerably the Harikatha scene to remove its grotesque effect and delete the lines from 'Yeh murd na Jamaja kol' and the repetition of the whole chorus, 'Naeri nama hai narak ka yeb mard Du Annapokoi, jo na sile dev mon 420 jonvan bhar Yoh lci'",
+        "length_m": 48.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 12",
+        "description": "delete the words, 'Chansrin ke kapur'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 13",
+        "description": "(a) the close-up showing the hollow between the busts of the dancer in the song, 'Indle duniya ki diwar'. (b) the words, 'Choudhari ke gharmen chamarlo bohoo bankar Hyogi'",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 10",
+        "description": "Reduce the size of the words, 'Hathi dant' and 'Kamis' as referred to Nainmukha Mar a",
+        "length_m": 17.68
+      }
+    ]
+  },
+  {
+    "film_title": "Rajoo Peda",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "B.A. Subba Rao Production, No. 3, Nimmo Road, Madras",
+    "cert_no": "8919-U",
+    "cert_date": "23-6-51",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 13",
+        "description": "Delete the close-up shots of the dancer jerking and moving her bust, during song No. 7",
+        "length_m": 2.43
+      },
+      {
+        "kind": "replacement",
+        "reel": "No. 13",
+        "description": "Replace two bits of close-up shots of the dancer jerking and moving her bust with two face close-ups",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 17",
+        "description": "Delete the close-up of Poli putting his fingers into the mouth of a soldier for tearing the face apart",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 18",
+        "description": "Delete Poli putting his flogeny into the nostrils of a soldier for pulling them apart",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 18",
+        "description": "Delete the picture of Poli strangling the soldier to death",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 19",
+        "description": "Delete the close-up shot of Pull strangling Vikram",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Trullukkoppin",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Noola Productions, Trivandrum",
+    "cert_no": "8228-U",
+    "cert_date": "24-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 1",
+        "description": "Delete the close-up shots of Radha's bust, during Song No. 1",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 2",
+        "description": "Delete the picture of Babu's gesture, when he leaves Vikram and Sarada (end of the reel)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 10",
+        "description": "Delete Maari saying 'Sri Rama supported Sita's chastity'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 11",
+        "description": "Delete the close-up shot of Janu's bust in profile, during her conversation with the dance master",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 11",
+        "description": "Delete the picture and words when Babu pats Janu after the umbrella is taken by her husband (end of the reel)",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Ponkathir",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "M/H. Neela Productions, Trivandrum",
+    "cert_no": "8732-U",
+    "cert_date": "26-10-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 1",
+        "description": "Delete the shot containing the traffic policeman and the other policeman who is pushing the car without brakes to help Pappan",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 1",
+        "description": "Delete the close-up of Radha bust in prominent when she is dropped in Mundu and tightfitting choli before she is brought to the house of the Millowner after her father's death",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 2",
+        "description": "(a) the close-up of Radha's busts in prominence when glein dressed in Mundu and tight-atting choli before she is brought to the house of the Mill-owner after her father's death (b) In the drawing room, by pressing of both the cheeks of Sarala by Vikrama from behind",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 3",
+        "description": "In the car, delete the hugging of Sarala by Vikrama after she (Irano nearer to him",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 6",
+        "description": "(a) the straight and profile close-up of Janu .. bukth in prominence (b) the actual appearance of the curreyog note in the pick-pocketing scene by Pappan from Vikram’s coat pocket",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 7",
+        "description": "Delete the words, 'Akrama' and 'Kolapathakam' in the dialogues of the marriage commission agent with Madhu",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 12",
+        "description": "Delete the word, 'Jollohalthu' from Rari dialogue with Sunku when the latter brings tiffin to the Mill's office",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 6",
+        "description": "Janu and Sanku Janu in profile in the composite shot",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 11",
+        "description": "Janu and dance master Janu in profile in the vom poeto shot",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "No. 14",
+        "description": "Ullacem gong - Ravi putting his arms around the waist of Sarala towards the end replaced by a shot of Garden",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Adhikari",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "M/H. Neela Productions, Trivandrum",
+    "cert_no": "8221-U",
+    "cert_date": "24-6-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 7",
+        "description": "Delete Martandam, while rolling sardines, saying that as Broward, the girl herself may be given",
+        "length_m": 0.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 8",
+        "description": "Delete the sounds made by Martandan and Manmathan, after they discover their wives and leave with them",
+        "length_m": 2.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 16",
+        "description": "Delete the picture and dialogue of Manmathan and Marthandeo being invited by their wives for love-making",
+        "length_m": 1.04
+      }
+    ]
+  }
+]

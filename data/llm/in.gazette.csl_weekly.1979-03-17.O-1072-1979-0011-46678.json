@@ -1,0 +1,655 @@
+[
+  {
+    "film_title": "Dulhan Wahi Jo Piya Man Bhaaye",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinema scope",
+    "cert_no": "85578",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. Vi",
+        "description": "Song No. 2 complete (Prem K. Pawan)",
+        "length_m": 126.49
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XIII",
+        "description": "Song No. 6 complete (Shyam O Shyama)",
+        "length_m": 132.28
+      }
+    ]
+  },
+  {
+    "film_title": "Kaala Aadmi",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "cert_no": "86799",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XV",
+        "description": "Deleted various shots",
+        "length_m": 165.2
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XY",
+        "description": "Added various shots",
+        "length_m": 134.41
+      }
+    ]
+  },
+  {
+    "film_title": "Sabib Bahadu",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "84287",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XV",
+        "description": "Approved additions",
+        "length_m": 15.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XVI",
+        "description": "Approved additions",
+        "length_m": 230.73
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XVII",
+        "description": "Approved additions",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Main Tulsi Tere Aangan Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "85679",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Reduce the scene of Thakur and Tulsi kissing in the garden to a suggestion",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue between Kamal and college Principal regarding the banana",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of Kamal in the classroom while taking out the banana from his pocket and keeping it on the table",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Chandal Chaukadi",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "cert_no": "84916",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Padar Odhayachaani makyachya kansisijakmi s olaysen",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Sambhandha Dasala tariajodayacha, with suggestive movement of the finger",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Ghusana tevada tula bara thaya ahe",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Khoki -bharla kiga changathat. (Deleted sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sooc Ka Dil Lohe Ke Haath",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "84913",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the words '. . . ,Abbatti bujhane se kya phayda ?'",
+        "length_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VE",
+        "description": "Reduce the fight between Shankar and Mathur with knives",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "In the dialogue between Tuntum and Rampyari delete the words to the effect '. . . . . Apne mard ko godi men lekar bistar par phenk dena'",
+        "length_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Reduce the fighting scene between Mathur s gang and Shankar",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "Mota Gharai Vahu",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "cert_no": "85516",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the words '. . . . Taari Jaataigaadi maiu' when Manohar is pushing the car",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Stree Purush",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "75137",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the picture of Guru Nanak at the beginning of the film",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete all shots showing Khajura sculptures on which the titles are superimposed",
+        "length_m": 49.16
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "From the Suhag Raat scene in bed delete the suggestion of passionate rubbing of lips between Rikhi and Poonam. From the same scene also delete the heavy breathing sound created by couple",
+        "length_m": 8.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce considerably the shots showing the hero lamenting over his inability to have sex with his wife",
+        "length_m": 41.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the impression that the quack doctor is a vald",
+        "length_m": 0.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the impression that the second quack doctor is a Hakim",
+        "length_m": 0.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete all the pictures of Penis and Vagina",
+        "length_m": 14.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce love scene between Rikhi and Poonam in bed",
+        "length_m": 11.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete entirely (dialogue and Visuals ) the scene in which Rikhi gives Mrs Ram hypnotic treatment",
+        "length_m": 40.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From the sequence shown by means of a fim by a nurse to Mrs Ram delete the shots of vagina",
+        "length_m": 43.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the passionate love scene between Mr. & Mrs Ram in bed (both dialogue & Visuals )",
+        "length_m": 30.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From the scene in which Rikhi lectures to bis audience delete all live shots of penis or vagina and also reduce to the minimum necessary all diagrams showing genitals , Also dcletc thc stots in which Doctor s hand (wearing two rings on the fingers ) pressed penic and vagina",
+        "length_m": 5.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the visuals of V D . affected human Organs, Loth n ale ond female",
+        "length_m": 31.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce visuals of diseased genitals of riclitate ard man",
+        "length_m": 6.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "X & XI",
+        "description": "Delete entirely the question answer session of Rikhi with marsicd individuals . both visuals and dialogica",
+        "length_m": 451.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "From the sequence in which the prostituto turned social worker explains birth controlmethods Reduce all shots of the in eiticn of Joop and reduce drastically allshots showing a ho1110n and delete vasectomy operation",
+        "length_m": 82.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete shots showing defective children along with con mentazy",
+        "length_m": 30.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the shots (visuals & dialogue) in which patients are being massaged with oil as a means to make them more virile for purposes of sexua ) intercourse",
+        "length_m": 5.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the shots in which the hirelings diag Poonam on the floor who is in labour Dalns",
+        "length_m": 5.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce drastically the whole scquence relating to the blith of a child",
+        "length_m": 43.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the shots showing the bosom when a child sucks",
+        "length_m": 6.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete all the shots of knife being held at the throat of pregnant woman",
+        "length_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "Delete the shots showing grown up man and or woman in the nude wherever they occur in the film",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the following dialogue between Ríkhi and Poonom (in ted )",
+        "length_m": 3.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the following dialogue",
+        "length_m": 33.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the following dialogues",
+        "length_m": 19.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following dialoguo",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following dialogues",
+        "length_m": 34.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following dialogues",
+        "length_m": 102.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following dialogues",
+        "length_m": 33.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the following dialogues",
+        "length_m": 19.29
+      }
+    ]
+  },
+  {
+    "film_title": "Papi Tarey Anek",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "cert_no": "81743",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel Nos. I & XIV",
+        "description": "Added various shots",
+        "length_m": 26.23
+      }
+    ]
+  },
+  {
+    "film_title": "President Hafęcz Al-Assad Visits Irda",
+    "languages": [
+      "Frglich"
+    ],
+    "colour": "Colol1",
+    "cert_no": "87549",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Deleted the posture of Syrian President",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Atithee",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "87763",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. IV",
+        "description": "Added various shots",
+        "length_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Sonya Sarakha Bahumol",
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "Telugo"
+    ],
+    "colour": "Coerr",
+    "cert_no": "86866",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Approved alteration of the superimposed title viz., 'Tar Mag Najikchya Adhikrut Vikretya chi Madat Gheun Aajach Bahuguni Kirloskar Enginc Ghya'"
+      }
+    ]
+  },
+  {
+    "film_title": "Save On Tax",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "86736",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 55.0
+      }
+    ]
+  },
+  {
+    "film_title": "Total Protection",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "87106",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Alterations made in the commentary of the film have been approved"
+      }
+    ]
+  },
+  {
+    "film_title": "Amar Desh Amar Degbre Manush",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "cert_no": "84724",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anjinenjan",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "Cinema scope",
+    "cert_no": "80280",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VII",
+        "description": "Sathyam dashing his face against Gunga s bust, against the lyrics Enakku Koduthal",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. VII",
+        "description": "Sathyam resting his chin against Ganga s bust when he is holding and bending her against the last stanzd of the Song",
+        "length_m": 1.69
+      }
+    ]
+  },
+  {
+    "film_title": "Balapicekshanam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "cert_no": "80281",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tiger Rani",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B & W",
+    "cert_no": "80282",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Adimakachavadam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "cert_no": "80283",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel No. III",
+        "description": "Jose as Adam standing face to face and holding Chandi ika and lowcing his face downwards from her busts to her naval",
+        "length_m": 1.78
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. III",
+        "description": "Jose as Adam lying on Chandrika on the ground",
+        "length_m": 9.51
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. III",
+        "description": "Jose caressing the bare thigh of Chandrika whilst reclining on the ground and the irrcciprocal gestures",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. III",
+        "description": "Jose lying over Chandrika in the boat",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. III",
+        "description": "Interwined lege of Joge and Chandrika whilst lying together in boat and Josc removing Chandrika s footwear with his toe",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XII",
+        "description": "Delete Vasu unbuttoning his wife s blouse and the entire subsequent sequence showing their love exposing their bare bodies",
+        "length_m": 29.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XII",
+        "description": "Delete repetition of similar shots mentioned above in two subsequent inter cuts , once while they standing and subsequently in bed",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Onapudava",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "cert_no": "80284",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. X",
+        "description": "Delete the following dialogue between Nagasaju and Lawyer Relating to punishment for murder",
+        "length_m": 10.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. X",
+        "description": "Delete the words 'kaanoonu kaasiddayasa kalyalu' spoken by Rajesh",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XII",
+        "description": "Delete the words of Shivu addressed to Noorjaban - - Beddi magalo corayara arogyavannu ella halamaduya pinage arogya kettuhoyitha",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XVI",
+        "description": "Reduce Rao Bahadur vomitting blood to a suggestion",
+        "length_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "Sayalige Saval",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "B & W",
+    "cert_no": "80286",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 1",
+        "description": "Reduce to mere suggestion the attempt at rape of Umesh s mother",
+        "length_m": 27.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XI",
+        "description": "Delete Umesh urinating and wetting his pant and ground out of fear of Mohini",
+        "length_m": 1.19
+      }
+    ]
+  }
+]

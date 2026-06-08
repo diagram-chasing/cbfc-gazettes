@@ -1,0 +1,310 @@
+[
+  {
+    "film_title": "Trailer of The Blade of Vengeance or The Magic Sword",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "39978",
+    "cert_date": "2-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "shot of female singer with her bust partially revealed",
+        "length_m": 8.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "shot of the dancer wiggling her hips",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "shot of a man with a dagger in his back",
+        "length_m": 2.84
+      }
+    ]
+  },
+  {
+    "film_title": "Bhootnath",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Cine India International Ltd., 5th floor, Commissariat Bldg., D. Naoroji Road, Bombay-1.",
+    "cert_no": "39988",
+    "cert_date": "4-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Rajkumar in the disguise of Gurudev taking liberties with Rajkumari",
+        "length_m": 1.58
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "In the song-dance sequence 'Koimane ya na mane haqeekat hai yohi...', near-views of emphasized busts, suggestive gestures and indecorous bust movements of the two female dancers",
+        "length_m": 25.41,
+        "length_retained_m": 25.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The sequence of a girl reclining on Murli's legs in a seductive pose and being turned into a skeleton",
+        "length_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "In the song-dance sequence Mohabbat ki nazar yoon to barimasoom hoti hain..., near-views of emphasized bust, suggestive gestures, bust shaking and near front views of indecorous movements of the female dancer in Arab costume",
+        "length_m": 28.04,
+        "length_retained_m": 28.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels III, V & VI",
+        "description": "To the minimum visuals of skeletons and skulls, deleting all close-ups and near-views",
+        "length_m": 23.6,
+        "length_retained_m": 35.07
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Shikari",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "F.C. Mehra, 220, Famous Cine Bldg., Mahalaxmi, Bombay-11.",
+    "cert_no": "39989",
+    "cert_date": "5-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of gorilla trampling a man under his foot",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "A Berlin Guest Book",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Consulate General of the Federal Republic of Germany, Dugal House, 5th Floor, Road No. 3, Bombay",
+    "cert_no": "39993",
+    "cert_date": "5-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary: 'This too is a present day reality, the wall built by the communist rule of the East Berlin to split the city. A gruesome sight, this iron curtain of two East blocks. Here the iron curtain is made of russiamatic, but no less impenetrable.'",
+        "length_m": 4.19
+      }
+    ]
+  },
+  {
+    "film_title": "Thoratanchi Kamala",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Surel Chitra, C/o Basant Film Distributors, 2 C/D, Naaz Bldg., Lamington Rd., Bombay-4.",
+    "cert_no": "39717",
+    "cert_date": "29-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Sambhuji fighting with tiger."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Re-picturised Song No. 4 beginning with the words 'Mazhy-Othant Rangeci Guanı', in replacement of original picturisation.",
+        "length_m": 125.88
+      }
+    ]
+  },
+  {
+    "film_title": "Holiday In Bombay",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Yug Chhaya, 312, Famous Cine Bldg., Hains Rd., Mahalaxmi, Bombay-11.",
+    "cert_no": "39754",
+    "cert_date": "5-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Song beginning with the words 'Pyar Ki Chandani Dil Ki Dusliman Bani...'",
+        "length_m": 101.19
+      }
+    ]
+  },
+  {
+    "film_title": "Vtol System",
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Air India",
+    "cert_no": "39926",
+    "cert_date": "19-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Credit titles containing name of 'Curtiss-Wright'",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Shikari",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "F.C. Mehra, 220, Famous Cine Bldg., Mahalaxmi, Bombay-11.",
+    "cert_no": "40203",
+    "cert_date": "6-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The underlined word from the remark of Chandu: 'Bombay ke hotelon men aise bi kaam karate hain', while he is seen to be cleaning utensils after spitting into them. (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Jagdish addressing Chandu as Swine (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From fighting scenes, near-views of direct arrow, spear and knife thrusts.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels II & XIV",
+        "description": "Near-views of Otango, particularly close-ups of his face",
+        "length_m": 4.88,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "To a flash the shot of the arrow stuck in the body of a man being taken out by Ajit.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "From the scene of village destroyed by Otango, the sounds of groaning and screaming, particularly of the children. (Sound)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "To a flash the shot of a man groaning while being experimented upon by Dr. Cyclops.",
+        "length_m": 1.22,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "To the minimum near-views of blue-coloured monster advancing towards Rita.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To the minimum near-views of the dragon in Dr. Cyclops den.",
+        "length_m": 0.91,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "To a flash shots of Jagdish pointing scissors threateningly at Ajit.",
+        "length_m": 2.13,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of On The Beat",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Rd., Bombay-1.",
+    "cert_no": "40209",
+    "cert_date": "7-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From Giulio's dialogue 'Put Your Arms Around Me And Enjoy Yourself.'",
+        "length_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "Bombay Flight 417",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Filmistan (Private) Ltd., 11/13, Horniman Circle, Fort-1.",
+    "cert_no": "40211",
+    "cert_date": "7-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Insert a tablet indicating that the story of the film is fictitious and does not represent the prevailing Customs, traditions and conditions in the country and that it relates to pre-independence period.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Reference to Jagannath from the Rath Yatra. (Inked off)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Close shots of Indica's scanty dress and exposed bosom, deleting shots of Bill kissing her.",
+        "length_m": 4.41,
+        "length_retained_m": 4.57
+      }
+    ]
+  }
+]

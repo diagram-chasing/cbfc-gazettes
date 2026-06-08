@@ -1,0 +1,440 @@
+[
+  {
+    "film_title": "Hong Kong Hot Harbour",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Noronha Private Ltd., Liberty Building, Marine Lines, Bombay-1",
+    "cert_no": "44854",
+    "cert_date": "15-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of tightening of a silk cord round Joan's neck along with the dialogue pertaining to the modus operandi of strangulation by tying a silk-cord around the victim's neck in a particular manner.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All shots of the scantily clad dancer wiggling her hips.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The sound of the scream of the inspector's assistant when he is electrocuted.",
+        "length_m": 3.65,
+        "length_retained_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "Hercules Against The Barbarians",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Noronha Private Ltd., Liberty Building, Marine Lines, Bombay-1",
+    "cert_no": "44869",
+    "cert_date": "17-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shots of Kubilai torturing the prisoner with a burning torch; also the scene of stabbing of a Mongol woman by Kubilai.",
+        "length_m": 4.06,
+        "length_retained_m": 2.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Shots showing the burning of Arias by the villagers.",
+        "length_m": 1.42,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The fight between Hercules and Khan's wrestler; specifically deleting shots when the sickle-like spear is held against the wrestler's throat by Hercules.",
+        "length_m": 19.81,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Shots in which Kubilai's hand and neck are caught up in the spear-like fence, particularly deleting the close shots in which blood is seen oozing from his body.",
+        "length_m": 3.05,
+        "length_retained_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The close up of direct thrust of arrow on the Negro's chest by Kubilai's soldier; also direct thrust by arrows, spears, etc. in the battle.",
+        "length_m": 2.63
+      }
+    ]
+  },
+  {
+    "film_title": "The Lion of Thebes",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "International Enterprises, 190, Princess St., 2nd floor, Bombay-2",
+    "cert_no": "44870",
+    "cert_date": "17-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From the fighting scenes, all shots of direct thrusts by swords, spears, arrows, etc.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels IX & X",
+        "description": "From the scene of crushing of Helon, shots showing the coming down of the wheel and the fear in Helon's eyes.",
+        "length_m": 0.91,
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "The Lion of Thebes",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "International Enterprises, 190, Princess St., 2nd floor, Bombay-2",
+    "cert_no": "44871",
+    "cert_date": "17-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Direct thrusts by arrows, spears, etc. from the fighting scenes and an arrow getting into the back of Nais.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Shenandoon",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Universal Pictures India Pvt. Ltd., Metro House, M.G. Rd., Bombay-1",
+    "cert_no": "44902",
+    "cert_date": "21-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III (2A)",
+        "description": "The view of the soldier's neck, stained with blood.",
+        "length_m": 0.33,
+        "length_retained_m": 0.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X (5B)",
+        "description": "The shot of a soldier thrusting sword into another's body.",
+        "length_m": 1.18
+      }
+    ]
+  },
+  {
+    "film_title": "Breathe Through Your Nose",
+    "languages": [
+      "English",
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "National Advertising Service Pvt. Ltd., 4-Khor shed Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "44903",
+    "cert_date": "22-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The flash shot of India which is inclusive of Nepal and which is not correct.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Father Camo Too",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-nur Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "44905",
+    "cert_date": "23-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Roddy Chipfield's remark addressed to Nell Gywne holding a basket of oranges, obliquely referring to her exposed breasts: 'Don't let them drop out'.",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Close shot of the spider landing on the exposed bosom of Nell Gwynne.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots of courting couples lying in the grass and suggestively getting up when the fire engine approaches, falling off the bed when the quilt is ripped off.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Shots of courting couples lying in the grass and suggestively getting up when the fire engine approaches, deleting near views of the couples in indecent poses.",
+        "length_m": 2.3,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Father Camo Too",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-nur Bldg., Sir P.M. Road, Bombay-1",
+    "cert_no": "44906",
+    "cert_date": "23-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the spider landing on the exposed bosom of 'Nell Gywne'.",
+        "length_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Who's Been Sleeping In My Bed",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Sprott Road, Hague Bldg., Bombay-1",
+    "cert_no": "1618",
+    "cert_date": "21-6-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Near views of Toby in scanty bikini in which her near nude figure is prominently visible through her transparent negligee.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII and VIII",
+        "description": "From the scene of Jason lying drugged on the psychiatrist's couch, the following dialogue referring to the Japanese girl massaging him: 'Oh, a little more left... don't fall off... Oh, your toes feel wonderful... a little more to the left... is that your husband at the door? Ah, what's the difference? Let him wait, Let him wait.' Also the following dialogue referring to the psychiatrist's wife: 'I know if I were in a room along with her... I know I couldn't resist her... It just wasn't an invitation to dance... It was an invitation to a wild relationship.'",
+        "length_m": 18.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of Melissa mimicking Toby's dancing in which her bare thighs and hips are prominently visible through the side slit of her skirt, while she takes a turn. Also shots of her bare thighs when she gets up from the floor and crosses over to Jason's body.",
+        "length_m": 6.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of Toby dancing indecorously in scanty costume, deleting prominent views of her bare stomach and her exposed posterior above the waist.",
+        "length_m": 7.77,
+        "length_retained_m": 7.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shots of Toby in red dress dancing indecorously and jerking her body, deleting shots in which her bare thighs are prominently visible through the side slits in her dress.",
+        "length_m": 10.29,
+        "length_retained_m": 10.5
+      }
+    ]
+  },
+  {
+    "film_title": "Who's Been Sleeping In My Bed",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Sprott Road, Hague Bldg., Bombay-1",
+    "cert_no": "1621",
+    "cert_date": "24-6-1965",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Toby in scanty costume in which her bare stomach is seen to be prominently exposed.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Melissa lifting her leg in which her partly bare thigh and hip are visible.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following dialogue between Jason & Stella: Jason: 'I'm not sticking to one girl. My life's going to be one whole big happy smorgasbord.' Stella: 'Yes, well, if you ever need a piece of herring, you know where to find me.'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following reference to Jason from the commentary: '...as he's bedevilled by the sexiest smorgasbord in years, popping in and out of every room of his house at all hours.'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary the following reference to Melissa: 'The French mademoiselle with a lot to sell in the Common Market.'",
+        "length_m": 2.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary: 'And now everybody is asking the King-Size question, Who? Who?' along with the visual of the bed in the background.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "To a flash the shots of Toni and Carter embracing and kissing, deleting the latter's dialogue.",
+        "length_m": 1.52,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "To a flash the kiss between Toni and Carter, deleting the commentary: 'And how she gave it to him!'",
+        "length_m": 0.83,
+        "length_retained_m": 0.15
+      }
+    ]
+  },
+  {
+    "film_title": "Years of Lightning - Day of Drums",
+    "languages": [
+      "Hindi",
+      "Bengali",
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "United States Information Service, 16, Queen's Road, Bombay-1",
+    "cert_no": "44915",
+    "cert_date": "25-6-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "'...There was a foreign dictated government in Cuba.'",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The underlined words from the following sentences: 'But as these celebrations faded into history, a new chapter was theirg writlin in the countiils (flertain Europe.'",
+        "length_m": 1.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "'In Korea, the communist Government of the North invaded the South.'",
+        "length_m": 0.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "'The police action continued for years until a truce was signed Elu2rteirg the Scuh ile ilgiliair! government as it has before the invasion.'",
+        "length_m": 15.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "'...since more needed protection against a new Soviet threat... a threat that would strip away ali Western rights to aid West Berlin.'",
+        "length_m": 2.89
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Saal Pahle",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "S.B. Films, Ranjit Studios, Dadar, Bombay-14",
+    "cert_no": "44616",
+    "cert_date": "11-5-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Portion of the song.",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Portion of the song beginning with the words 'Tum Aa Saka to...'",
+        "length_m": 64.01
+      }
+    ]
+  },
+  {
+    "film_title": "Dard Door",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "H.H. Jagwani, Advertising Films, Jyoti Studio's Compound, Kennedy Bridge, Bombay-7",
+    "cert_no": "42555",
+    "cert_date": "10-9-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "One shot of the doctor along with dialogue.",
+        "length_m": 6.4
+      }
+    ]
+  }
+]

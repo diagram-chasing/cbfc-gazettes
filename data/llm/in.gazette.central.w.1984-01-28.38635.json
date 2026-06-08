@@ -1,0 +1,1796 @@
+[
+  {
+    "film_title": "Dampati",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "S.N. Rao, Prop. Shraddna Films, 545/27 Old Mahanagar, Lucknow, Uttar Pradesh",
+    "cert_no": "91956",
+    "cert_date": "14-1-80",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Khubsoorat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Rupam pictures Pvt Ltd, Ranjit Studios, Dadasaheb Phalke Road, Dadar, Bombay-14",
+    "cert_no": "91957",
+    "cert_date": "18-1-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted silent shot of the names R. D. Agarwal and Khubsoorat.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted portion of the song.",
+        "length_m": 37.19
+      },
+      {
+        "kind": "insertion",
+        "description": "Added silent shot of a basket of eggs.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Chilly Willy Swiss Miss - Fit",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "92267",
+    "cert_date": "24-11-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of Sound and Dialogue approved.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Chilly Willy the Big Snooze",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Castle Films",
+    "cert_no": "92268",
+    "cert_date": "24-11-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of Sound and Dialogue approved.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Chilly Willy Room and Wrath",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Castel Films",
+    "cert_no": "92269",
+    "cert_date": "24-11-1979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of Sound and Dialogue approved.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Karmveer",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Vigneswara K.V.N. Raju, Movies, No. 1, Thanikachalam Chetty Road, T. Nagar, Madras-17",
+    "cert_no": "91963",
+    "cert_date": "23-1-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reduce the shot showing the cut hand of Guru lying on the ground, bleeding profusely.",
+        "length_m": 0.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the following dialogue when king's men announce that they are taking away some girls to satisfy the lust of their princes: Maa Bahen Ho Ya Beti Ho, Kali Ho Gorj Ho.",
+        "length_m": 16.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Roduce the scene of molestation of ladies.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of a man with dagger on his stomach.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue Doodh pite hui man ko saath.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reduco the fight between the slaves.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reduce the whipping of slaves.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce the whipping scene of old man and his son.",
+        "length_m": 1.1
+      }
+    ]
+  },
+  {
+    "film_title": "Jambou",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Indhrani Films, Madras",
+    "cert_no": "81483",
+    "cert_date": "14-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the reaction shot of Anjali on observing the coloured passenger in the airport lounge.",
+        "length_m": 12
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the lose shot of the breast jerks of the girl in Bharatbanatyam dance.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the dancer lifting up her leg revealing her thighs.",
+        "length_m": 2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the low-angle shot of the dancer where the undergarments are seen.",
+        "length_m": 1
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced colse-shot of heroine s face",
+        "length_m": 3,
+        "length_retained_m": 3
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced colse-shot of heroine s face",
+        "length_m": 2,
+        "length_retained_m": 2
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced colse-shot of heroine s face",
+        "length_m": 1,
+        "length_retained_m": 1
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce the rape scone to a suggestion , by deleting the shot of Paranthaman throwing his log over the heroine and pulling her saree revealing her cleavage of her breast.",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of the heroine sucking the hero s finger.",
+        "length_m": 19
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sequence of the hero trying to suck the blood on the heroine s thigh.",
+        "length_m": 40
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the heroino s breast as seen through her wet dress.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the heroine lying on her back in the water , fer breasts exposed through the wet dress.",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the profile shots of the heroine s breasts.",
+        "length_m": 39
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of her exposed thigh with her head to the capiera.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the heroine exposing her thighs with her panties shown as the tiger attacks.",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the heroine s breasts as soon in her wet dress.",
+        "length_m": 39
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of the hero and heroine making love in the water -as in her imagination.",
+        "length_m": 22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the profile shots of the heroine s breasts.",
+        "length_m": 2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the flash shots of her exposed cleavage.",
+        "length_m": 1
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete all shots of the photograph of erectic sculptures.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the hero and heroine hugging each other and the saree falling on the book",
+        "length_m": 1
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced mountain background",
+        "length_m": 2,
+        "length_retained_m": 2
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced mountain background",
+        "length_m": 1,
+        "length_retained_m": 1
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced mountain background",
+        "length_m": 3,
+        "length_retained_m": 3
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced mountain background",
+        "length_m": 1,
+        "length_retained_m": 1
+      },
+      {
+        "kind": "deletion",
+        "description": "Dolete all visuals of the song sequencos except the long shots.",
+        "length_m": 185
+      },
+      {
+        "kind": "deletion",
+        "description": "Dolete all shots of the cabaret dancer, cicept the long shots.",
+        "length_m": 20
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the heroine while fighting with the tribal girl , in which the heroino s breast are exposed through a thin top.",
+        "length_m": 5
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the tribal tasting the blood of Paramasivam .",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Paramasivam s nock bcing pierced.",
+        "length_m": 39
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the opening shot of the heroino lying on her back , exposing her breasts and thighs.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the top anglo shot of the dancer.",
+        "length_m": 21
+      },
+      {
+        "kind": "deletion",
+        "description": "Breast jerks of the dancer.",
+        "length_m": 5
+      },
+      {
+        "kind": "deletion",
+        "description": "Hip thrusts of the dancer.",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "Tribal dancer lifting up her legs revealing her underwear.",
+        "length_m": 10
+      },
+      {
+        "kind": "deletion",
+        "description": "Heroine placing her legs on the tribal dancer s thighs.",
+        "length_m": 72
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the hero and tribal girl standing facing each other and lifting up their knees.",
+        "length_m": 9
+      },
+      {
+        "kind": "replacement",
+        "description": "Replacod for (a ) (b ) & ( c ) mounting background",
+        "length_m": 12,
+        "length_retained_m": 12
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the hero running his face over her torso.",
+        "length_m": 59
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the hero whooking her brassier.",
+        "length_m": 10
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the closing shot of their lying on top of each other.",
+        "length_m": 22
+      },
+      {
+        "kind": "deletion",
+        "description": "In the subsequent sequence to the above song sequence delete all shots of the hero and heroine making love , except the shot of their approaching the bed of flowers.",
+        "length_m": 5
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shots of the girls baling out water from the boat in which their breast cleavage is prominent.",
+        "length_m": 113
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the Princess baling out water.",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete all shots of the cabaret dancer on board the ship.",
+        "length_m": 4
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the Pirato Chicl standing with his arms around two girls with their breast cleavage exposed.",
+        "length_m": 2
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shots of the heroine flying through the air while fighting in which her thighs are exposed.",
+        "length_m": 4
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the heroine lying on her back and pushing the pirate away from her exposing her thighs.",
+        "length_m": 2
+      }
+    ]
+  },
+  {
+    "film_title": "Devudichiga Koduku",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Thrimoorthi Productions, Madras",
+    "cert_no": "81484",
+    "cert_date": "14-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Reduco the shot of Gopi being dragged by Sokar behind the horse.",
+        "length_m": 19
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Initial shots of hip And breast jerks of the dancer.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced shot of Nagu",
+        "length_m": 3.05,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Belly and hand gestures of the dancer near the statuc.",
+        "length_m": 11.08
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced shot of Nagu",
+        "length_m": 11.08,
+        "length_retained_m": 11.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Broast jerks against the words Emi Kavuli in dificront places.",
+        "length_m": 5.13
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced shot of Nagur",
+        "length_m": 5.13,
+        "length_retained_m": 5.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delęto the hand gesture of Raji against the word Vesava (In the song sequence ).",
+        "length_m": 4
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced sky panning shot",
+        "length_m": 4.09,
+        "length_retained_m": 4.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete tho broast jerks of Raji against the word Munchavu in the song sequence .",
+        "length_m": 5
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced sky panning shot",
+        "length_m": 5,
+        "length_retained_m": 5
+      }
+    ]
+  },
+  {
+    "film_title": "Muthuchippikal",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "producer": "Vasantha Chitra Films, Alleppey",
+    "cert_no": "81485",
+    "cert_date": "16-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Reduce the struggle of Devu with Raghu to once only , and deloto shots of Raghu mounted on Devu inside the hut.",
+        "length_m": 35.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Reduce the struggle of Devu with Raghu to once only , and deloto shots of Raghu mounted on Devu inside the hut.",
+        "length_m": 36.13
+      }
+    ]
+  },
+  {
+    "film_title": "Edayathil Oor Edam",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Sree Hariram Movies, Madras",
+    "cert_no": "3729",
+    "cert_date": "16-1-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete frontal jerks of cabaret dancer exposing full thighs. (before freeze shots are shown ).",
+        "length_m": 9.04
+      },
+      {
+        "kind": "deletion",
+        "description": "Deloto shots of the couple rubbing their legs against each other on bridal night.",
+        "length_m": 9.08
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce prolonged embrace of couple 10 a suggestion.",
+        "length_m": 5.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce facial expression of girl on bed , to a suggestion.",
+        "length_m": 5.01
+      },
+      {
+        "kind": "deletion",
+        "description": "Deloto symbolic shots of clocks indicating various positions of clock hands.",
+        "length_m": 1.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Reduco dancor before mirror, dressing, to a suggestion.",
+        "length_m": 6.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete all pelvic thrusts of cabaret dancer,",
+        "length_m": 3.03
+      },
+      {
+        "kind": "deletion",
+        "description": "Dalets all 11ovements of dancerin bedroom from the shot of her ficing the candora aftor removing dressing gown. (No objection to shots of dancor abovo waist lino) Also delete the rest of the shots of dancer, retaining only the shots of the dancer romoving tho Judg s spoktacles , turban and angavastram , and starting to lean over him . Tholast two close - ups of the facos of the judgo and dancer may be retained . (Replaced with approved shots 94 -07 Mts . of dancor abovo waistline )",
+        "length_m": 40.03
+      },
+      {
+        "kind": "deletion",
+        "description": "Delote tho full figure shots of dancor shown in positive and negative .",
+        "length_m": 4.02
+      }
+    ]
+  },
+  {
+    "film_title": "Karmveer",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Vigneswara K.V.N. Raju, Movies, No. 1, Thanikachalam Chetty Road, T. Nagar, Madras-17",
+    "cert_no": "91963",
+    "cert_date": "23-1-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reduce the shot showing the cut hand of Guru lying on the ground, bleeding profusely.",
+        "length_m": 0.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the following dialogue when king's men announce that they are taking away some girls to satisfy the lust of their princes: Maa Bahen Ho Ya Beti Ho, Kali Ho Gorj Ho.",
+        "length_m": 16.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Roduce the scene of molestation of ladies.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of a man with dagger on his stomach.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue Doodh pite hui man ko saath.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reduco the fight between the slavos.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reduce the whipping of slaves.",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce the whipping scene of old man and his son.",
+        "length_m": 1.1
+      }
+    ]
+  },
+  {
+    "film_title": "Do Aur Do Paanch",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Devar Films, 13, Dr. Nair Road, Madras-17",
+    "cert_no": "91968",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Reduce shots of Car ropcatedly chasing Bittu.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce shots of hanging and torture of Harcsh to the mini mum nocessary for continuity.",
+        "length_m": 2.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Reduce fight between Ram and Uncle s henchmen after they had taken away Bittu from the car.",
+        "length_m": 4.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Reduce fight between Ram and Laxman.",
+        "length_m": 5.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Reduce to minimum necessary for continuity the fightbetween Ram and Laxman over Bittu , deleting his being snatched and tossed among themselves and the pulling of the child with legs and hands by Ram and Laxman . The flash back views of this scene may also be roduced to minimum .",
+        "length_m": 23.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV & XVII",
+        "description": "Reduce to the minimum the scene of children oating poisonous food and getting fainted and falling down before and during the song .",
+        "length_m": 20.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Reduce to a suggestion the views of Bittu hanging over the burning cauldres.",
+        "length_m": 5.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Delete hard hitting shots in the fight of villain and his people with Ram and Laxman.",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "Dilwale Dulhaniya Le Jayenge",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Titoo Enterprises Kishore Sairgal, Om Kishoro Salrgal, Surya Vihar, 181, Sion (W) Bombay- 22",
+    "cert_no": "91969",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Delete the underlined word : Chachi : Tumbari bibi nc to kasam kha rakhi hi ki tum chahe kitna bhi zor laga lo main bota nahin paida karne vali. (Replaced with the words Tym chahe kinna bhi shor máchalo main beta nahin paide karno wali. - Sound only )",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "Delete the words of a sister addressed to Bilo : ‘Bus ek do purze galat jagah par fit ho gaya varna tumhare mein aur ladkemein koi farak nahin (Replaced with approved words Bus yeh tera thobda gulat jagah par fit ho gaya varna tumhare jnein aur ladke mein koi farak nabin . Sound only )",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "Detete Birju s words Main randi baaz hour. (Replaced with approved words main dhokhebaaz hoon . - Sound only )",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "Delete the underlined words of Ashok to Chani : Jo teen kapde pahankar tu doli mein baithegi na – wal bhi Tere gism se utarkar faink doonga -suhag raat ko (Replaced with meaningless murmur sound - approved ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Reduce to bare minimum necessary for continuty the shot of close physical proximity and kissing on the wedding night of Sardar and Bilo juxtaposed with war scenes and facial roAC tion of Bllo and his removal of clothes . (Length retained : 20 . 16 m .)",
+        "length_m": 11.4
+      },
+      {
+        "kind": "deletion",
+        "description": "Also deleto his underlincd words Main to topkhane ka incharge hoon aur apnc bataliyan ke maathe pur daag nahin Jagane doonga . 'Acha hamla kiyamek bhi vaar mera gaya ho said by his wiſe Sardar hamacha (yaar hota hai (Replaced with approved words Achha kamal kiya hai, Fauji so rahe hain aur dushman sar par khada hai. - Sound only )",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Gangadham",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Nirmal Pictures Hem Kund No. 1, 14th Road Bandra, Bombay-50",
+    "cert_no": "91971",
+    "cert_date": "2-2-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Bon the floor ined.",
+        "length_m": 2.75
+      }
+    ]
+  },
+  {
+    "film_title": "Shodh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sitakant Misra, Kalinga Film International Mehtab Road, Cuttack-3 Orissa",
+    "cert_no": "4602",
+    "cert_date": "29-1-1980",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Death Dimension",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Film Finance Corpn. Ltd",
+    "cert_no": "4603",
+    "cert_date": "1-2-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the surgical oporation conducted by Dr, Mason delete all gruesome visuals where the titles are not affected.",
+        "length_m": 21.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the sequences in which a white man is attacked by a henchman (black ) , delete the two shots (1 ) in which the black mangives a punch in the abdomen of the white man and (2 ) in which the black man slits open the neck of the white man with the ring in the fingor and the victim falling down.",
+        "length_m": 7.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the fight betweca two henchmen and of PIG and Lt. Kelly , delete hard -hitting shots , punches in the abdomen and below the bolt.",
+        "length_m": 3.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the sequence in the forest, reduce the fight between Lt, Kelly and four henchmen of PIG deleting Kelly s kicks und punches below the belt.",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "JI",
+        "description": "From the sequence in which Lt. Kelley picks up a girl from the parade, delete the shot after the girl removes her red gurment revealing her bare bosom.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the swimming pool sequenco where Lt. Kelly is observing a man with four girls , delete the shot (s ) in which the bare bosom of two girls are seen.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the sequence in which four henchmen of PIG fight with Lt, Kelly and his companion in the den of PIG , reduce the sequence by deleting gruesome punches and kicks.",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "reel": "ID",
+        "description": "After Lt. Kelly and his companion have disembarked from the boat , reduce the sequence in which two men try to attack them at gun point by deleting gruesome and brutal punches and kicks and the shots in which Lt. Kelly turns the face of a bench man and striking against the trco and the man falling down on whose body M . Kelly places his foot.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "MI",
+        "description": "From the sequence in which Lt, Kelly s girlfriend goes to the bath -room und later gris killed , remove the following shots : ( a ) where she removes hor night garment revcaling her bare body completely : (b ) the shot in which the bare body was seen ibrough the transparent screen : ( c ) the shot in which tbe complete body of the girl was scen through the transparent screen and on the right there is a sketch of human facc and : ( d ) after tho hand with the finger -ring removes the transparent sctoci , delete the entire shot in which the girl screams with the nude body. There is no objection to screaming being retained in order to connect with the shots of the morgue where the dead body taken .",
+        "length_m": 6.6
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the following dialogue spoken by PIG to his house-kecrer : “Which remindsme your news girls have such tiny tits \".",
+        "length_m": 1.8
+      }
+    ]
+  },
+  {
+    "film_title": "Aakhri Insaaf",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "A.K. Internatinal",
+    "cert_no": "4604",
+    "cert_date": "2-2-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete reference to ‘Nepal Government in the clogue inclicut ing that it is a pory in the crime.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Hajmola",
+    "languages": [
+      "English"
+    ],
+    "producer": "Maja Mediuins 6 /27, Tardeo Air Conditioned Market Bombay- 34",
+    "cert_no": "92922",
+    "cert_date": "28-1-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "Badalta - Bharat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "N. C. Misbra M/s Deepak Filos, H/79 Krishi Nagar, Adhar lal, Jabalpur( M. P. )",
+    "cert_no": "92923",
+    "cert_date": "28-1-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "Trl. of Kunwari Sari No Kesariyo Kanth",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "B Anand, On Gems, 15-Dhanji Street, 5th Floor, Bombay 5",
+    "cert_no": "92924",
+    "cert_date": "29-1-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "Trl of Khubsoorat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Rupam Pictures Pvt. Ltd., Ranjit Studios, Dadasahob Phadke Road, Dadar, Bombay-14",
+    "cert_no": "92925",
+    "cert_date": "29-1-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "I.N.R. No 1633 (National)",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi",
+      "Gujarati",
+      "Tamil",
+      "Selgu",
+      "Kannad",
+      "Malayalam",
+      "Assa",
+      "Ori",
+      "Pun",
+      "Ben",
+      "Sin",
+      "Urdu"
+    ],
+    "producer": "Films Division, Govt. of India, Bombay",
+    "cert_no": "92926",
+    "cert_date": "29-1-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "The Global Weather Experiment- AWholc Earth View",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "International Con munication Agency. Graham Chedd, National Indo mat for the Arts",
+    "cert_no": "92928",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Protection of the Eyos Regulation",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids, 1 - F / 31, Lajpat Nagar, New Delhi-24",
+    "cert_no": "92929",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Condor Coni- puter Controlled Cutting Machine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids, 1F / 31, Lajpat Nagar, New Delhi",
+    "cert_no": "92930",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "What s In The Air",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids.",
+    "cert_no": "92931",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "A Survey of Auto - matic Welding",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids.",
+    "cert_no": "92932",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Chah Sc Raha",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "P. Das, C / . R . K . Murthy Jasshree Road , Bangur Nagar , Bomby -80",
+    "cert_no": "92933",
+    "cert_date": "30-1-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "The Abrasive Wheels \"Regulation",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids , 1 - F / 31, Lajpat Nagar , Delhi-24",
+    "cert_no": "92934",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The S . A . V . E . R . Approach",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids , 1 - F / 31, Lajpat Nagar, New Delhi-24",
+    "cert_no": "92935",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Agonarc Welding Process : Part- 2 The Working of Aluminiun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids, 1F / 31, Lajpat Nagar, New Delhi-110024",
+    "cert_no": "92936",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Semi Automatic Welding?",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Educational Aids.",
+    "cert_no": "92937",
+    "cert_date": "30-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Degre -Degre",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/s Devar Films, 13-Dr. Nair Road, Madras-17",
+    "cert_no": "93386",
+    "cert_date": "2-2-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "Trl of Shiv Shakti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Harimanok Movies International, 104-Hari Market, 1st Floor, Khar, Bombay-52",
+    "cert_no": "93366",
+    "cert_date": "2-2-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "Yanoko",
+    "languages": [
+      "Hindi",
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Dwarkadas Israni, Hari Minck Movies Intenation ), 104-Hari Market, Khar, Bombay-52",
+    "cert_no": "91540",
+    "cert_date": "3-9-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "New Zen",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Television Films of India P. Q. Box No. 6819 Santacru z East, Bombay-55",
+    "cert_no": "91689",
+    "cert_date": "3-10-1979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mainajan",
+    "languages": [
+      "Assamese"
+    ],
+    "producer": "Shri Monoj Sen, 5, Dr. Satyananda Roy Road, Calcutta-29",
+    "cert_no": "090712",
+    "cert_date": "4-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ten Minutes In Mizoram",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Bourne & Shepherd, 141, S. N. Banerjee Road, Calcutta-13",
+    "cert_no": "090713",
+    "cert_date": "4-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Informal Political Institution",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81497",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Complex Mappings",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81498",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Solar Cells",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81499",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "X-Ray Diffraction",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81500",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Construction Splitting Fields",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81601",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Formation of the Oceanic Crust",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81602",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Regional Geography to Regional Analysis",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81603",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Student Project",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81604",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Political Systems and Political Culture",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81605",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Cyprus : A Geophysical Case Study Part 11 A New Significance",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81606",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Reliability & Erru",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81607",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Futuro Urban Life",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81608",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Formal Structure of Govt.",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81609",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Earth Asa Magnet",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81610",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Earth s Surface Structure",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81611",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Experimental Design",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81612",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Siguificance and the Normal Distribution",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81613",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Usign Libraries : The University Library",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81614",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Philips Curve",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81615",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Psychology of Human Nature",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81616",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Nature of Geophysics",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81617",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Concepet of Full Employment",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81618",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Role of the Budget",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81619",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pebbles and Diamonds",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81620",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Income Distribution",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81621",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Balanced Budget",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81622",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Informal Political Institution",
+    "languages": [
+      "English"
+    ],
+    "producer": "Open Education Corporation, Madras",
+    "cert_no": "81623",
+    "cert_date": "29-1-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Vande Muutaram",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B & W",
+    "producer": "Priyudurshini Ciclotus, Hyderabad",
+    "cert_no": "3734",
+    "cert_date": "29-1-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the syuboli shut ut the vesse ) sunkiug in warcr",
+        "length_m": 12.05
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaccu sun shot panning",
+        "length_m": 12.05,
+        "length_retained_m": 12.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "and pot insido the water.",
+        "length_m": 2.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot ofMunickam and Bharathi lying on the mat, when the farmer is seen l ubbing his leg over the leg of Bharathi. Also the shot of Bharathi kcoping her hand on Manickam s hip .",
+        "length_m": 29.13
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced with ceiling shot",
+        "length_m": 5.14,
+        "length_retained_m": 5.14
+      },
+      {
+        "kind": "replacement",
+        "description": "and crowd shot",
+        "length_m": 2.06,
+        "length_retained_m": 2.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dialogue ofManickim “Battalu lekunde bagntanu \" (Picture delcicd voluntarily ).",
+        "length_m": 6.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete all the shots ofJanickam ant Bharathi lying together on the floor (Replacu Manikyam and Bharathi full figures, except fucc douc viuit of locus 23 .00 ).",
+        "length_m": 23
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Dharathi cxposing her cleavago in wet clo thes whilo bathing (Peplaced Bhoiathi s solo shots , except facc done out of 10613209, 2 .14 , :08 and 1 . 14 ).",
+        "length_m": 2.09
+      },
+      {
+        "kind": "replacement",
+        "description": "Replaced Bhoiathi s solo shots",
+        "length_m": 2.14,
+        "length_retained_m": 2.14
+      },
+      {
+        "kind": "replacement",
+        "description": "except facc done out of",
+        "length_m": 2.08,
+        "length_retained_m": 2.08
+      },
+      {
+        "kind": "replacement",
+        "description": "and 1 . 14",
+        "length_m": 1.14,
+        "length_retained_m": 1.14
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue ofManickam iu the mid -wife Pustinchindi Nuvya Neno (Replaced sound with car brakes ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue of Pochanalu Atand (McoMecdekki choosrantuy) (Replaced Car horn sound ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the words of Pochemma to Marickam “ Maya Narmala nni choopinchi kana hada kunda udayistva .",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue of Manickam and Pochamma from Ninnu chudlagenenackwu vollelindito Emichvo pista vu . (cut length show , in cut 14 toatalling 22 . 10 Irmis ).",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue of Manicka to Pachi Ma ri Denní koraka Mantau . (Picture also D leicd ).",
+        "length_m": 17.04
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the words of Puchammu and Manickam \" Pa ina Padukunta va ? Kinda padukuntava ? Jppudu Pa . na Padukunnanu kuda ? (The total length of 73 .11 relates to cut41B , 15, 11 & 10 )",
+        "length_m": 73.11
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the words of Puchama Um Varinchu . Fropi Bandaru Laddu Thintą va tu Ekkstlunde votukkle . Em Kottinchukovali. (This includes length of cut No . 13 & 41 - C )",
+        "length_m": 71.02
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue of Manickam : \" Nuvvu Peida Vankaya lu Themman vu G . .\" ( This includes longth of cut 13 also ).",
+        "length_m": 17.04
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the words of Pocbama From \" Eihu Gadda Pri Nundi\" to Vastunt) (Replacod train sound and whistles).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialougo betwean Manickam an .7. Prchamma \" Chommi Chekka & Adukundzima to Esto Taduda . mm Baunladi, (Sound Only _ replaced train sound ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue between Seetha And Ramkumar from Cheea al choyyodu to Manidda ram ala undama (Picturc silent - no replacoment).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue of the woman to her husband : (a ) Mudanlı Ritri kuutia piuhukala oyiri poyavu . (Picture also deleted ).",
+        "length_m": 3
+      },
+      {
+        "kind": "deletion",
+        "description": "( b ) Ika Ratra nuka Pagalanaka Ninnu Nenu . (by Mapi ckım tu Biurathi) (picture also deleted ).",
+        "length_m": 6
+      },
+      {
+        "kind": "deletion",
+        "description": "( c ) Manickam and Bharathi's dialogue : \" Bharya Bhartalu Parduhuni Emi Clielaru - Chot Pu - - Suudile Dharani Ekkistunnanu . (Picture also deleted for (a ) & (b ) for (c ) bird sounds added ).",
+        "length_m": 14
+      },
+      {
+        "kind": "deletion",
+        "description": "Bhanalakshmi and her husband's dialogue deleted . - ( a ) \" Nenu Neo Aka li Inecrustani Pada . Vadde-Ast le Nuvvu Buruvu Narnishi- Pala . (Picture also deleted ).",
+        "length_m": 7.07
+      },
+      {
+        "kind": "deletion",
+        "description": "b. Pochamma's dialogue deleted : \"Oka Sari Snanan chosi mundukir - - nco mugudu munduku vadu cha chinatlu lonnguthadu . (Replaced with train sound ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "a. Pochamma's dialogue in happiness - \" Mee meedekki choosrantuy \" (Replaced Car horn sound ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "b. Delete the dialogue of Pochamma and Manickam \" Maya Narmala nni choopinchi kana hada kunda udayistva .",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "description": "c. Delete the dialogue between Pochimma and Manickam from Ninnu chudlagenenackwu vollelindito Emichvo pista vu . (cut length show , in cut 14 toatalling 22 . 10 Irmis ).",
+        "length_m": 7
+      },
+      {
+        "kind": "deletion",
+        "description": "a. Delete the dialogue of Manickam to Pachi Ma ri Denní koraka Mantau . (Picture also D leicd ).",
+        "length_m": 4
+      },
+      {
+        "kind": "deletion",
+        "description": "b. Delete the words of Puchammu and Manickam \" Pa ina Padukunta va ? Kinda padukuntava ? Jppudu Pa . na Padukunnanu kuda ? (The total length of 73 .11 relates to cut41B , 15, 11 & 10 ).",
+        "length_m": 73.11
+      },
+      {
+        "kind": "deletion",
+        "description": "c. Delete the words of Puchama Um Varinchu . Fropi Bandaru Laddu Thintą va tu Ekkstlunde votukkle . Em Kottinchukovali. (This includes length of cut No . 13 & 41 - C )",
+        "length_m": 71.02
+      },
+      {
+        "kind": "deletion",
+        "description": "a. Delete the dialogue of Manickam : \" Nuvvu Peida Vankaya lu Themman vu G . .\" (This includes longth of cut 13 also ).",
+        "length_m": 17.04
+      },
+      {
+        "kind": "deletion",
+        "description": "b. Delete the words of Pocbama From \" Eihu Gadda Pri Nundi\" to Vastunt) (Replacod train sound and whistles).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "a. Delete the dialogue between Manickam an .7. Prchamma \" Chommi Chekka & Adukundzima to Esto Taduda . mm Baunladi, (Sound Only _ replaced train sound ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "c. Delete the dialogue between Seetha And Ramkumar from Cheea al choyyodu to Manidda ram ala undama (Picturc silent - no replacoment).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the old man sipping up his pants. ( cut length included in 46C totalling 5 ft).",
+        "length_m": 5
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the dialogue of Ramkumar tu Sectra Kagi Kasiga Undi (Repiaced sound wt water sound: ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce the shot of a man pouring liquour into a glass placed on the breasts of the girl (2 bits ).",
+        "length_m": 5.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce the shot of the girl with an ince block on lier belly .",
+        "length_m": 13.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the man moving forward and buckward before the girl .",
+        "length_m": 14.14
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the man squcezing the shoulders of the girl.",
+        "length_m": 21.03
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shots relating to the second rape of Geetha by Saga s father.",
+        "length_m": 19.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the low-angle silot of theman and Bliaratiri as they hold cach otljer (cut leagth included incut No. 36tutal in4 . 03 ) (Replaced with freeze shot approveit).",
+        "length_m": 4.03
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of Bharathi pulling ibe dhoti of the man , (Replaced with chill s laughing 1 :12 ).",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "description": "Reduce the sexual exploitation of Bharathi by to inan (cyclist) retaining only the minimum visual contont necessary to Cuta blish thit tho latter h . y mado Bharathi proynunt (this is included lo igth cut 34 ) (Replaced with the shuts 4 .03 fur cut 34 & 36 ).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the all the shuts of the sexual exploitation of Gootha by various mea , retaining trom vnly in muntatge frin . ( The freeze shots in montano form of the rupe of Goeiha hy Sugar s father , to be deleted ).",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Namma Kayale Idaye",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Director of Information & Publicity, Bangalore",
+    "cert_no": "81645",
+    "cert_date": "8-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tamilnadu Govt. Newsrool Bulletin 213",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Director of Information & Public Relations, Madras",
+    "cert_no": "81646",
+    "cert_date": "8-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Doiveega Rahangal",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Achi Cine Arts, Madras",
+    "cert_no": "3736",
+    "cert_date": "8-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Hanuman Pathala Vijayam",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Basant Pictures, Bombay",
+    "cert_no": "81647",
+    "cert_date": "9-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mahalakshmi",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Shri Kumaraswamy Films, Madras",
+    "cert_no": "81648",
+    "cert_date": "9-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Enga Mahima",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Jaishree Pictures, Madras",
+    "cert_no": "81525",
+    "cert_date": "9-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Annapoorna",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Sri Panduranga Productions, Madras",
+    "cert_no": "81526",
+    "cert_date": "9-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mannippu",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Mohan Productions, Madras",
+    "cert_no": "81527",
+    "cert_date": "9-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Yamalokapu Good achari",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sri Udayabhaskar Pictures, Madras",
+    "cert_no": "81528",
+    "cert_date": "9-2-1980",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

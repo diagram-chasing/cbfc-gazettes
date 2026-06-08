@@ -1,0 +1,87 @@
+[
+  {
+    "film_title": "Trailer of \"Bindiya\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Vinod Films, Bombay",
+    "cert_no": "B-12001",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of the word \"Sixty-three\" from the first item \"U.S. Airmen Free\"",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Salute To The Theatre",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "B-12504",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "A",
+        "description": "A shot of undressing on the bed, a woman being naked and a man amorously looking over her body",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "A",
+        "description": "Some views of Doris Day singing in a negligee where the flesh of her bosom is prominently visible",
+        "length_m": 27.432
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 712",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietone News Ltd., U.K.",
+    "cert_no": "B-12721",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the item \"Terror the words 'Rejoicing Arab advice not to go to Iraq, Lehad cancelled his visit to Egypt'\"",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Gaumont British News No. 24/28",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Organisation Ltd., U.K.",
+    "cert_no": "B-12710",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the item \"American Airmen\", the following words \"Shot down during the Korean war, the airmen were reportedly found guilty of so-called act of provocation and ordered to be deported. A welcome change-of-heart that raises hope for the speedy return of U.S. Prisoners still held in China\"",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Berdar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gyan Mukerji Productions, Bombay",
+    "cert_no": "B-12386",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Entire song \"Pyar ki yeh telakhiyan\"",
+        "length_m": 96.3216
+      }
+    ]
+  }
+]

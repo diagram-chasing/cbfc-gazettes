@@ -1,0 +1,326 @@
+[
+  {
+    "film_title": "Marvel Man",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "42967",
+    "cert_date": "2-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Near-view of a girl dancer shaking her bust in the song-dance sequence",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Professor and others being lowered over flames by Maharaja's soldiers",
+        "length_m": 11.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Distorted recitation of marriage shlokas by the pundit",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From the picturisation of qawali, shot of Vasanti leaning over harmonium where her bust is emphasized",
+        "length_m": 5.94
+      }
+    ]
+  },
+  {
+    "film_title": "Dr. Strangelove",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "42970",
+    "cert_date": "2-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All shots of the girl in bikinis",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: 'I first became aware of it, Mandrake, during the physical act of love'",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Yalach Mhantat Prom",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "42972",
+    "cert_date": "2-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Suggestion of a kiss between Nishikant and Shobha",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From Song 1, the indecorous gesture when the singer sings the line 'Anmol nazraana ha ghyaa' the second time",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From song No. 5, the jerking of bust by the dancer and an indecorous gesture on the words 'Sonachaphya pari mazo ang' the second time",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From Sudhakar's speech to Neelima regarding advance booking, the words 'Jaaga nakki'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From Nishikant's speech to Shobha asking her not to fall on the feet of her debtor, the word 'Marvaad yachya'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Robin And The Seven Hoods",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision, Colour",
+    "cert_no": "42984",
+    "cert_date": "3-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Front and back views of scantily-clad waitresses in the billiard room",
+        "length_m": 10.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of scantily-clad female dancers",
+        "length_m": 5.66
+      }
+    ]
+  },
+  {
+    "film_title": "Blood Fractions In Clinical Medicine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "42643",
+    "cert_date": "23-9-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The caption 'The Merck Sharp & Dohme Postgraduate Program'",
+        "length_m": 3.38
+      }
+    ]
+  },
+  {
+    "film_title": "Kernicterus And Its Prophylaxis",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "1515",
+    "cert_date": "18-9-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The name and monogram of Sandoz",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Vertebral Artery Syndrome",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "1516",
+    "cert_date": "18-9-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The name and monogram of Sandoz",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Migraine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "1518",
+    "cert_date": "18-9-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The name and monogram of Sandoz",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Poona - Our Pride",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "38500",
+    "cert_date": "5-6-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Various shots and parts of the commentary",
+        "length_m": 233.0
+      }
+    ]
+  },
+  {
+    "film_title": "Amma Yengcy ?",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "40200",
+    "cert_date": "2-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "Girl walking in jeans",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Dance - shot of a woman being passed through the legs of a man",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Close-up in which a kiss is suggested, just before the shot of the two rabbits",
+        "length_retained_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Shot of the collision of heads in the bedroom scene of Ranjithan and Ravi",
+        "length_retained_m": 1.44
+      }
+    ]
+  },
+  {
+    "film_title": "Manchi Manishi",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "41803",
+    "cert_date": "7-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Sentence 'Cha Vedliava Udyogani'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Song 1 - picturisation of the modus operandi of pickpocketing and stealing jewels",
+        "length_retained_m": 4.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Susikissing her image in the mirror",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song 4 - kissing gesture of Venu and Suri, and Venu bending over Susi in close proximity",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Sequence of Junior Venkataswami controlling traffic on the road, with police uniform",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Sentence of Narasamma saying that the police will initiate some nuisance case if one talked to them",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Close shot of pickpocketing, leaving only a suggestion",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Dialogue of Venu that stealing was the only way left to the poor, and the following sentences justifying theft and banditry",
+        "length_m": 10.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Speech of the chief of gangsters extolling theft and banditry, retaining the first sentences",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Reference to Communist",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

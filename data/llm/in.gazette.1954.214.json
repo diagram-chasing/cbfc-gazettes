@@ -1,0 +1,198 @@
+[
+  {
+    "film_title": "Tara, Son of Cochise",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Ltd.",
+    "cert_no": "U 11012",
+    "cert_date": "10-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Close shot showing an arrow getting stuck into the woman’s chest and another close shot showing her lying dead with the arrow, retaining her long shot",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "Shot showing the soldier thrusting knife into body of the falling Indian",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "Shot of Cone's frock on the shrub suggesting her apparent nudity during the bathing scene",
+        "length_m": 3.93
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red III",
+        "description": "The fighting at Fort Apache, particularly eliminating the Soldier with three arrows sticking into his body",
+        "length_m": 2.77,
+        "length_retained_m": 4.3
+      }
+    ]
+  },
+  {
+    "film_title": "Red Garter",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "U 11018",
+    "cert_date": "11-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red II & FI",
+        "description": "The word \"Chinoeo\" from the dialogue of Calaveras and the word \"Crush\" from the song \"Va quero, be ooreful here\"",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "The red garter dance. From the scene in which Calaveras Kate is changing clothes her putting underclothes on the partition. All showing of underclothes in the sequence. The judge saying \"why do you servo ladies?\" and pictunsation of insufficiently clad girls on the counter",
+        "length_m": 132.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Scene showing some chorus girls dancing on the stage and Calaveras singing the song \"The West is big and gaudy\"",
+        "length_m": 24.69
+      }
+    ]
+  },
+  {
+    "film_title": "Zenzavat",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Dada Puranjpe, Harihar Films",
+    "cert_no": "U 11010",
+    "cert_date": "12-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dayal giving an ornament to the dancing girl Champa",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VIII",
+        "description": "From the sequence of dance and song in Champa's house, vulgar and lustful gestures as well as expressions of the spectators. Dayal passionately rubbing pillows. Word \"Madanachi\" in the song \"Runuzun ehang payi\"",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Words \"K-untauknana\" and \"Vyabmoharini\"",
+        "length_m": 13.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red III",
+        "description": "The shots in which big-bosomed female figures carved in glass are shown, deleting specially the close view",
+        "length_m": 7.32,
+        "length_retained_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Gandhiji's statue, keeping it, if needed only in a long shot in the background",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Hoar Jeet",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Film Graft",
+    "cert_no": "U 10321",
+    "cert_date": "11-6-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Scene showing Raja discussing with Noli m about her marriage and scene of Raja and Doctor talking about Nalini and Prince",
+        "length_m": 9.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Scene of Raj, Doctor and Prince at breakfast",
+        "length_m": 24.38
+      },
+      {
+        "kind": "insertion",
+        "reel": "Red",
+        "description": "Scene of Doctor asking Balraj to leave and return in guise of Prince",
+        "length_m": 31.4
+      }
+    ]
+  },
+  {
+    "film_title": "Pomposh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Color",
+    "producer": "Films of India",
+    "cert_no": "U 8724",
+    "cert_date": "25-0-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "The song \"Jaunat hal Kashmir hamara \"",
+        "length_m": 86.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red III",
+        "description": "Girls’ dance",
+        "length_m": 78.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "Garden sequence and duet",
+        "length_m": 85.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VII",
+        "description": "Dance in the marriage sequence",
+        "length_m": 44.81
+      }
+    ]
+  },
+  {
+    "film_title": "Biab Tno DjvlI",
+    "languages": [
+      "Bugllah"
+    ],
+    "producer": "J Arthur Rank Film Distributors (India) Ltd.",
+    "cert_no": "U 9655",
+    "cert_date": "10-0-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "N ). 10",
+        "description": "Reduce to the minimum the full length shot of the nude girl when the Arab Oil er starts talking about Rita Hayworth",
+        "length_m": 18.29,
+        "length_retained_m": 12.5
+      }
+    ]
+  }
+]

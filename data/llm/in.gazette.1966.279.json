@@ -1,0 +1,454 @@
+[
+  {
+    "film_title": "Around the World Under The Sea",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "An Ivan Tors Production",
+    "cert_no": "47477",
+    "cert_date": "18-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deleted the shot of Maggie taking the upper portion of her two-piece swimming costume and the shot of her bare neck",
+        "length_m": 11.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduced the shot showing the upper portion floating down in the water as seen by Hank",
+        "length_m": 0.61,
+        "length_retained_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Berlin Appointment",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Krishna Films, 5K, Naaz Bldg, , Bombay-4",
+    "cert_no": "47482",
+    "cert_date": "18-4-66",
+    "endorsement": "U",
+    "rule_applied": "With triangle.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the lady in black dress with her thighs exposed and her bosom emphasised",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of indecorous dance movement of the girl in the red dress",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of actual plunging of the dagger by the Wax statue of Napoleon in the onlooker’s body at close range",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The scream",
+        "length_m": 0.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The fight in the earlier part of the trailer",
+        "length_m": 0.9,
+        "length_retained_m": 0.9
+      }
+    ]
+  },
+  {
+    "film_title": "Do Badan",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "S. Q. Huda Bihari, J. B. Productions, 308, Famous Cine Bldg, Mahalaxmi, Bombay-11",
+    "cert_no": "47484",
+    "cert_date": "18-4-66",
+    "endorsement": "U",
+    "rule_applied": "With triangle.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Visuals of a Kashmiri girl sitting on a tree greeting Mamaji",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Shots of Mamaji’s son flirting with a Kashmiri girl. Replaced with approved world thereby removing the impression that she is a Kashmiri girl",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Remarks of Vikas comparing Asha’s charms with ‘Mandir’, ‘Masjid’, toertb yatra’ etc.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "V and VII",
+        "description": "Shots of Vikas pressing his lips on Asha’s hair",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "VK",
+        "description": "Remove the impression that Ashwani goes unpunished for his crime of attempting to murder the hero. Added",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Mohabbat Zindagi Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Cine Experts, 163- Roop Chhaya, Famous Cine Bldg. Mahalaxmi, Bombay-11",
+    "cert_no": "47495",
+    "cert_date": "19-4-66",
+    "endorsement": "U",
+    "rule_applied": "With triangle mark.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The suggestion of a kiss in the bridal night sequence",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The comedian’s remarks addressed to his friend 'Bada chikna ho riya hai'",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan Aur Jadui Chirag alias Tarzan and the Wonderful Lamp",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Unique Pictures, 133, Famous Cine Bldg., Mahalaxmi, Bombay-11",
+    "cert_no": "47496",
+    "cert_date": "20-4-66",
+    "endorsement": "U",
+    "rule_applied": "With endorsement.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, III, IV, VI, VII, VIII, XII, And XIV",
+        "description": "Various shots",
+        "length_m": 137.18
+      }
+    ]
+  },
+  {
+    "film_title": "Maya",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "47508",
+    "cert_date": "21-4-66",
+    "endorsement": "U",
+    "rule_applied": "With endorsement.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "K(3 A)",
+        "description": "The following sentence said by Raji addressed to his dead father 'Thy soul still dwells in mine'",
+        "length_m": 1.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "K(3 A)",
+        "description": "The dialogue between Raji and Terry regarding the meaning of the word 'Maya' beginning with the words 'It means no matter what might happen' up to 'I have been telling you'",
+        "length_m": 2.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI(3ff)",
+        "description": "The shot of an Indian kneeling before Primo",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII (4 R)",
+        "description": "The sequence where One-Fye forces his daughter to smoke",
+        "length_m": 4.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "X(.5B )",
+        "description": "Shot of a tiger gnawing Maya’s flesh",
+        "length_m": 0.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "X(.5B )",
+        "description": "Reduced the shot of One Eye falling from the cliff",
+        "length_m": 0.33,
+        "length_retained_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Mohabbat Zindagi Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Roop Chhaya, K. C. Gulati, 226, Famous Cine Bldg., Haines Rd., Mahalaxmi, Bombay-11",
+    "cert_no": "47495",
+    "cert_date": "19-4-66",
+    "endorsement": "U",
+    "rule_applied": "With triangle mark.",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "From the song 'Ye purnooi chchra' the underlined words from the following lines: 'Na dekha ho jisnc khuda ko kabhi', 'Tumhi sc hai jannat tumlii se khuda.' Replaced with approved words",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Shots of Mangloo praying before Hanumanji’s idol and seeking His blessings to gctrld of Lajo who had got child from him. Replaced with approved shot",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "In the song-dance 'Mehfil men Oil walon ki' shot of boys with girls lying on their backs. Replaced with approved shot",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "From the pictunsation of the song; 'Najanckya hamaredil ko' suggestion of a kiss as Amur holds Noeta’s face m his hands and bends his face over hers. Replaced with approved shot",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The maid-servant’s dialogue addressed to Neeta while massaging her: 'Dard to karben hi karbe, ye mard nigondo ki juat bat i bikat haP'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "The bridal night bed-room sequence, particularly deleting shots of Amar with his bare body passionately embracing Neeta, along with suggestion of his kissing her.",
+        "length_m": 6.1,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "VI",
+        "description": "That the villain, Pritam is punished for his crime. Added",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Mohabbat Zindagi Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Roop Chhaya, K. C. Gulati, 226, Famous Cine Bldg., Haines Rd., Mahalaxmi, Bombay-11",
+    "cert_no": "1746",
+    "cert_date": "18-4-66",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The sound of kiss.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The shot of improperly clad Mangloo coming over the camera",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Kadamattathachan",
+    "languages": [
+      "Maiayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Tharian Pictures, 2, Krishnan Nair St., Madras-17",
+    "cert_no": "46723",
+    "cert_date": "18-4-66",
+    "endorsement": "U",
+    "rule_applied": "With triangle mark.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Upadesi’s references to Pulikaranam when he requests Bawa not to send his son to graze the cows",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "All references to the powers of The Cross by the Hindus, Father-in Law of Velu and Vein himself",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Remove the word ‘Ouseph’ occurring twice in Chemmachen’s room, while Sanku speaks",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the sequence where Mariam makes disparaging references to Sanyasis",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the statement of Kadamattathachan that if his boats are put up on tree tops, they should be brought down by Pathivratha Antharjanams of the Namboodri family; and the Namboodiri saying 'Please do not insult us.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the word 'Bhagawati' referred to by Kadamattathachan when he transforms Yakshi",
+        "length_m": 0.91
+      },
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Addition of a Tablet",
+        "length_m": 4.56
+      }
+    ]
+  },
+  {
+    "film_title": "Thayinmcl Aanai",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Madras Cine Laboratory, 141, Gaudiya Math Road, Madras-14",
+    "cert_no": "46730",
+    "cert_date": "23-4-66",
+    "endorsement": "U",
+    "rule_applied": "With triangle mark.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Song 1 - From the song text, delete the lines 'Thotta Idathilc Pasayaipola Ottikittaradi— Kanakka Ottikittaradi — Kattukaaval Ellaam Thaandi Puhunduvittaru — Kaipadatha Rojapoovai Parichuvittaru'; (b) Delete the shot of two girls hitting Anand with their hips",
+        "length_m": 40.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Song 2— Delete Parthiban’s kissing gesture to Meena; (b) Delete Parthiban putting his chin on the forehead of Meena who is lying and the subsequent close-proximity view. Delete Meena and Parthiban in close-proximity in a kissing posture on the line 'Nenjai Fdai Podum'",
+        "length_m": 79.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In the bed-room scene, delete the kissing overtures of Parthiban to Meena",
+        "length_m": 0.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Song 3 — Delete Mohini lying on her back with her pointed busts prominently visible (twice)",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the whipping sequence",
+        "length_m": 2.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the shot of Ratnamala lying on bed in passionate posture with her bust emphasised",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Pakal Kinavu",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Kannamma Films, 35, Krishnabai Street, Madras-17",
+    "cert_no": "46707",
+    "cert_date": "4-4-66",
+    "endorsement": "U",
+    "rule_applied": "Endorsed on 19-4-66",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Voluntary deletion of 10.96 Metres from Reel No. 15",
+        "length_m": 10.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "15",
+        "description": "addition of 10.96 Metres in the same Reel",
+        "length_m": 10.96
+      }
+    ]
+  },
+  {
+    "film_title": "Rowdi",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Tirumurugan Pictures, First Trust Link St., Mandavelipakkam, Madras-28",
+    "cert_no": "46708",
+    "cert_date": "6-4-66",
+    "endorsement": "U",
+    "rule_applied": "Endorsed on 21-4-66.",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "4 & 5",
+        "description": "A total length of 108.20 Metres fighting sequence in Reels 4 & 5 approved.",
+        "length_m": 108.2
+      }
+    ]
+  }
+]

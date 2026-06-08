@@ -1,0 +1,946 @@
+[
+  {
+    "film_title": "Trailer of 'Lonely Hearts'",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "29431",
+    "cert_date": "7th March 1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shrike’s question: ‘What’s the sentence for adultory’",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Words spoken by Fay to Adam: ‘For 7 years it’s been a marriage in name only — I can’t leave him, but I’m young’",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Words ‘You wanted action, and so did I’",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue between Shrike and Florence: ‘Why do wives cheat on their husbands?’ ‘They cheat because they are tramps’",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Title ‘To reveal the passions lie sleeping in all of us’",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Scene of caressing between Adam and Justy on the swing and Adam’s words: ‘And because you’re warm and soft’",
+        "length_m": 2.93,
+        "length_retained_m": 2.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Scene of Fay going to Pat with the knife and her words ‘He’s young and strong and I like him. What are you going to do’",
+        "length_m": 0.37,
+        "length_retained_m": 0.27
+      }
+    ]
+  },
+  {
+    "film_title": "Be Begegnung Mit Deutschland (Encounter With Germany)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "29400",
+    "cert_date": "7-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted footage",
+        "length_m": 4.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted footage",
+        "length_m": 1.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted footage",
+        "length_m": 0.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted footage",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted footage",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Bombal Ka Babu",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20401",
+    "cert_date": "8-3-00",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of Babu touching the cheek of a girl in a restaurant, while passing",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "In song No. 1, shots suggestive of procuration",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Bhagat’s dialogue to Babu: ‘Main Jaantaa boon, aag ke aaitme makhan ki kya haalat hotl hai’",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Scene of Maya being photographed by Babu, shots of their embrace",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Babu’s dream-sequence: the words ‘Aurat anr mard ko beech me ek hi rishta hotaa hai’ as also shots of their embracing and suggestion of a kiss between Babu and Maya",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Babu’s dialogue to Bhagat: ‘Mo iusaan ek bar khoon kar sakta hai, vo dusree baar bhi kar sakta hai’",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVI",
+        "description": "Shots of police officer divulging official secrets with regard to witnesses, to the accused, Babu (Sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Details of plan of intended bank robbery being explained by Bali to his gang",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Shots of Bhagat and his men heating up Babu",
+        "length_m": 1.83,
+        "length_retained_m": 10.36
+      }
+    ]
+  },
+  {
+    "film_title": "Mehlon Ke Khwab",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20402",
+    "cert_date": "9-3-00",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "In song No. 6, the words, ‘Button vaala’",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Complete song beginning with the words ‘Lo buz gai bijli pyar ki huwa khatam phasana dilwala’",
+        "length_m": 91.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Song beginning with the words ‘Kamla, Rajiya ya MIrs Mary, yn ho Preetam Kaur’",
+        "length_m": 19.51
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "Song beginning with the words ‘Lo Jee buz gai bijli pyar ki huwa khatam phasana dilwala’",
+        "length_m": 164.57
+      }
+    ]
+  },
+  {
+    "film_title": "This Land Australia",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "20484",
+    "cert_date": "9th March 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of native women in Guinea as well as in Australia without clothing on the upper part of their bodies and showing bare breasts",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "The Hound of The Baskervilles",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "20487",
+    "cert_date": "10th March 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shrieks of the girl shown being stabbed by Sir Hugo, of the man thrown out of the window and of the girl caught in a sweep and the view of the blood-stained dagger",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "The Rookie",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "29488",
+    "cert_date": "10th March 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "View of Lili leaning over table, thereby revealing bare parts of her bust, against Hulda’s words ‘Lili you’re certainly showing us what young starlets are made of’",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The entire scene of Lili lying in seductive posture, being grabbed and kissed by Noonan, reflection of which is seen by Pete in the mirror",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In the ship sequence, all views of kissing couples in embrace, being interrupted each time Noonan jumps over them while racing up and down",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the scene of Lili draped in a towel passing by Pete and Noonan who looks after her and later as she steps over a palm trunk and proceeds towards water",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The entire scene of Noonan in the loft, taking Lili in his arms and kissing",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "In the scene of Lili with Jerry the prolonged view of her emphasised bust as she stands up and looks on while Jerry says ‘Oh are you kidding ? etc.’",
+        "length_m": 2.59,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The scene of Lili and Pete kissing, deleting their cuddling and kissing from the point Jerry leaves them",
+        "length_m": 4.57,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘The Rookie’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "29489",
+    "cert_date": "10th March 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The view of Lili clad in a mere towel dropping it suggestively as the two men look on",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Kala Bazar (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "29293",
+    "cert_date": "11th February 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted footage",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted footage",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted footage",
+        "length_m": 34.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted footage",
+        "length_m": 54.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deleted footage",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deleted footage",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deleted footage",
+        "length_m": 33.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deleted footage",
+        "length_m": 9.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Deleted footage",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Deleted footage",
+        "length_m": 20.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Deleted footage",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Deleted footage",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Deleted footage",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Deleted footage",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Deleted footage",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Deleted footage",
+        "length_m": 295.05
+      }
+    ]
+  },
+  {
+    "film_title": "Roadster",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "24602",
+    "cert_date": "23-3-69",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Aur Barleh Ke Dino Men Hind Ke Water-Proof Jute Bht Istmal Karen",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Rahasra Siraeheda Apoorva Chintamani",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "28518",
+    "cert_date": "7-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Red No. 2",
+        "description": "Delete the text and picture of the entire song No. 2 (Danchu Danchu Bandana Itayadu)",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. S",
+        "description": "Delete Kali pouring water on Katlmam by a hole in the water pot",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. 11",
+        "description": "Dt Ute the Magician’s sentence to Manjaram that what he wanted from her was the love which Parvat hi gav e t o Paramusiva who danced In the Bmosana, and he was Farameswara",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 20",
+        "description": "Delete the picture of Pratap carrying Kamalakshi in his arm and whirling her round",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Jagannataham",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "28621",
+    "cert_date": "11-3-00",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red 2",
+        "description": "Song No. 6 — Delete picture of dancer being (a) lifted (before stanza 1) and (b) lifted and whirled (before last stanza)",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Redh",
+        "description": "Song No. 10 — Delete Dancer's gesture against the words (a) ‘Pina Pavodharma mathana’ — twice; A (b) ‘Ratisukha Saro’— once.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 10",
+        "description": "Song No. 11 — Delete Dancer’s picture with bust in mid close-up, exposed, (a) at end of stanza II, against string music Bgm. Bending forward (b) at end r, l stanza III. ugainst string music Bgm. Bending turning round-",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete picture and dialogue of Onkuram pleading with villagers and their deciding to boycott Mallikarjuna’s mother’s funeral",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Operation Petticoat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "29501",
+    "cert_date": "14-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From commentary, the words — ‘Fire nurses who just had to be squeezed in’",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following dialogue: Barbara — ‘. . . a girl just doesn’t get into any man’s pyjamas.’ Nick — ‘If the man’s not in them, what’s the harm?’",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Phir Subha Hogi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20502",
+    "cert_date": "14-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of a man being killed by throttling",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of the female dancer lying on the floor with her dress dishevelled",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Guest House",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20503",
+    "cert_date": "14-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the dance of Skoda Var, shots of amorous movements of the bust",
+        "length_m": 1.46
+      }
+    ]
+  },
+  {
+    "film_title": "The Story On Page One",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "29504",
+    "cert_date": "14-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Mike cuddling his wife in the kitchen",
+        "length_m": 3.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The underlined words from dialogue — ‘I don’t hold with married women to go out and traffic’",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "The Wonderful Country",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "29552",
+    "cert_date": "22-3-00",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots of the cabaret dancer raising her dress and revealing her posterior",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Use of broken bottle as a lethal weapon",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From ‘Fiesta-scene’ shots of skeleton faces",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shots of Brady’s wounded horse struggling in pain",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Considerably scene of the doctor fixing the fractured leg",
+        "length_m": 7.32,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "To a flash the scene of a man being dragged behind a horse",
+        "length_m": 2.13,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Never So Few",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "20553",
+    "cert_date": "22-3-00",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Carla in bath-tub",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Carla dropping away the wrapper to expose her bust",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The underlined words from: They want to live in order to go back to bright lights and the women",
+        "length_m": 0.46
+      }
+    ]
+  },
+  {
+    "film_title": "Pillow Talk",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "39555",
+    "cert_date": "23-3-60",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Jan Sitting on bed with her legs and thighs exposed",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Kissing between Allen and Jan with her in his lap",
+        "length_m": 2.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All shots showing Allen and Jan (simultaneously) in bath. From commentary the words—‘“lie most sparkling sexcapade”",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The underlined word from the dialogue: ‘Don't take your bedroom problems out on me’",
+        "length_m": 0.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the song ‘Held Me Tight’...the lines—‘Hold Me tight, and kiss me right, I’m yours tonight, my darling, possess me’",
+        "length_m": 4.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "To a flash, the kiss between Allen and Jan in the night-club",
+        "length_m": 0.61,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Scarfaoe Mob",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "905",
+    "cert_date": "23-3-60",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Reference to Prohibition as ‘stupid law’ by an old worker of the brewery",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The words ‘she is a dish’ as spoken by Franky in respect of Mrs. Ritchie (Brandy)",
+        "length_m": 0.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The merciless beating of a man by Frank Nitti",
+        "length_m": 2.93,
+        "length_retained_m": 0.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Drastically the dance item by Mrs. Ritchie in strip-tease costume, deleting the shots wherein she makes gyrating hip movements, both front and back views, as also the two side views of her bare legs while in the strip-tease gown and her subsequent performance without the gown",
+        "length_m": 1.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The view of bleeding face of the dead body of Ritchie",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Drastically the gunfire in the brewery and the view of dead bodies particularly deleting the panoramic view of the aftermath in which the dead bodies are focused.",
+        "length_m": 5.79,
+        "length_retained_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Baraat",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "29020",
+    "cert_date": "1st April 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "(a) Gauri falling on Shamoo —",
+        "length_m": 0.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "(b) Embrace between Shanker and Ranee —",
+        "length_m": 1.58
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Shamoo touching Gauri’s leg",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "In song No. 4, beginning with the words ‘Aji ab khanaia liuwi jaao’ in decorous posture of Gauri reclining on hay in the cart",
+        "length_m": 6.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Shanker brushing his shoulder against that of Rani and their embrace",
+        "length_m": 0.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Scene of Bausati catching hold of the wrist of a girl and taking liberties with her leg while polishing her shoe",
+        "length_m": 2.37
+      }
+    ]
+  },
+  {
+    "film_title": "The Face Of the Cat",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "29577",
+    "cert_date": "20th March 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From scene in the train, shots of flora exposing her thighs in the act of hiding the transmitter",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Cora picking up and putting on her panties before opening the door to Bernard",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Cora sitting on bed and exposing her thighs while putting on stockings",
+        "length_m": 3.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The passionate love-scene between Bernard and Cora lying in bed",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From the act of the German Officer searching the person of Cora, shots of his hands feeling her bust and hips",
+        "length_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "Meghe Dhaka Tara",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "24701",
+    "cert_date": "22-3-00",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 13",
+        "description": "Addition of dialogue: Nita — llada, Aiui Je Banchte Oheyechhilam. Sankar — K huki. Nit sc — Dad*, Tumi Ekbar Balo Ami Banclibo. Sankar— -Nurse. Nita— Ami Banclibo — Ami Banclibo",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Rani Honnammu",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "28526",
+    "cert_date": "22nd March 1960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete all picture and dialogue suggestion that Kali desired the blood of a young child, Honni’s child being brought, the dance with the elocution knife, before the rescue by the king",
+        "length_m": 24.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the dialogue suggestion that Honni was to be used for the purpose of noblemen",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 16",
+        "description": "Delete the picture of the milk spurting from Honni on Rajeswara",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Kuravanji",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "28512",
+    "cert_date": "20th February 1960",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 2, 3, 11, 15 and 19",
+        "description": "Voluntary deletion of a total length of 500 ft.",
+        "length_m": 152.4
+      }
+    ]
+  }
+]

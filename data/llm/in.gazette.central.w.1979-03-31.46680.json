@@ -1,0 +1,267 @@
+[
+  {
+    "film_title": "The Greatest",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-20.",
+    "cert_no": "B/86041",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shot of semi-nudedancer on bar counter",
+        "length_m": 2.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of Tony making love with one of his fans in the rear of the car",
+        "length_m": 14.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the close-up of condoms in the hand of a girl when she is showing them to Tony",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Saturday Night Fever",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd. Hague House, Sprott Road Bombay-38.",
+    "cert_no": "B/86371",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce the scene of Amir being tied to and being dragged by a running horse",
+        "length_m": 4.37,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce drastically the sequence showing torture of Kaheele Sardar Baba by Kotwal",
+        "length_m": 8.84,
+        "length_retained_m": 15.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shots showing Chamkie being manhandled and thrown from one person to other after he is caught",
+        "length_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the fight sequence between the King's and Shakti's men",
+        "length_m": 13.41,
+        "length_retained_m": 36.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce drastically the sequence showing Ajay Ka Run and Shakti and Hintera fighting on it",
+        "length_m": 15.24,
+        "length_retained_m": 20.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the torture of Shakti by King men",
+        "length_m": 2.13,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the whipping of last man",
+        "length_m": 0.91,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce suitably the fight between Amar and Shakti",
+        "length_m": 7.32,
+        "length_retained_m": 24.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce suitably the torture of Leela when she is asking for the water",
+        "length_m": 1.52,
+        "length_retained_m": 29.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce suitably the fight sequences",
+        "length_m": 20.75,
+        "length_retained_m": 162.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "General",
+        "description": "Reduce the overall impact of violence",
+        "length_m": 82.9
+      }
+    ]
+  },
+  {
+    "film_title": "Amar Shakti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "A K Movies, 1-E, Naaz, Lamington Road, Bombay-4.",
+    "cert_no": "B/86055",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce the scene of Amir being tied to and being dragged by a running horse",
+        "length_m": 4.37,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce drastically the sequence showing torture of Kaheele Sardar Baba by Kotwal",
+        "length_m": 8.84,
+        "length_retained_m": 15.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shots showing Chamkie being manhandled and thrown from one person to other after he is caught",
+        "length_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the fight sequence between the King's and Shakti's men",
+        "length_m": 13.41,
+        "length_retained_m": 36.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce drastically the sequence showing Ajay Ka Run and Shakti and Hintera fighting on it",
+        "length_m": 15.24,
+        "length_retained_m": 20.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the torture of Shakti by King men",
+        "length_m": 2.13,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the whipping of last man",
+        "length_m": 0.91,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce suitably the fight between Amar and Shakti",
+        "length_m": 7.32,
+        "length_retained_m": 24.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce suitably the torture of Leela when she is asking for the water",
+        "length_m": 1.52,
+        "length_retained_m": 29.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce suitably the fight sequences",
+        "length_m": 20.75,
+        "length_retained_m": 162.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "General",
+        "description": "Reduce the overall impact of violence",
+        "length_m": 82.9
+      }
+    ]
+  },
+  {
+    "film_title": "Akali Sangharsh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Shah Films International, 36, Netaji Subash Marg, Darya Ganj, New Delhi-2.",
+    "cert_no": "B/86590",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word “Bhagwan\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "The words Bachcha Bachcha have been replaced with approved words Purza Purza",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Scarlet Buccaneer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35 mm",
+    "producer": "Universal Pictures India Ltd, Hague House, Sprott Road, Bombay-38.",
+    "cert_no": "B/86174",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to a flash the underwater shot of Jane from her back swimming in nude",
+        "length_m": 10.38,
+        "length_retained_m": 0.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the scene of a Negro pirate with two girls sitting on his thighs and making vulgar action, when Jane goes to seek the help of Lynch",
+        "length_m": 6.03,
+        "length_retained_m": 6.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of an old pirate with girl in his lap in a suggestive posture, as seen by Jane",
+        "length_m": 16.89
+      }
+    ]
+  }
+]

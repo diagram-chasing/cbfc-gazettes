@@ -1,0 +1,295 @@
+[
+  {
+    "film_title": "\"Badnam Basti\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/85578",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogue 'Driver hotc he hai paidaishi badmash, chor, uchchake'",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "\"Art’s Nest\"",
+    "languages": [
+      "Hungarian"
+    ],
+    "colour": "Col.",
+    "cert_no": "B/86633",
+    "alterations": []
+  },
+  {
+    "film_title": "\"Aanakkalar i\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "M/11589",
+    "original_length_m": 3887.23,
+    "length_deleted_m": 100.48,
+    "final_length_m": 3797.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the close-shots of the dancer showing her cleavage while bowing before Bhargavan the manager of the estate, and his feeling the thigh of the dancer.",
+        "length_m": 2.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the words of the nephew of Nanu saying 'Ammavan varunnu mumbu Oru Ding Ding'",
+        "length_m": 34.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shots of Bhagyam sitting on the sofa and exhibiting her bare thigh",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the violent light to the bare minimum, and delete the shot of Salim being dragged on the road after tying him to the jeep",
+        "length_m": 17.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete the shot of Salim passionately kissing Saraswathi during the song sequence",
+        "length_m": 4.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Delete the shot of Salim kissing Saraswathi",
+        "length_m": 5.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the close-up shots of the nude photograph on the wall, and reduce the violence to the bare minimum.",
+        "length_m": 13.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the sentence dialogue beginning with the words 'NingaIkanu Jaadhi spirit, between Sankaran and Mohammed'",
+        "length_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the violent fight to about half of the present length",
+        "length_retained_m": 14.55
+      }
+    ]
+  },
+  {
+    "film_title": "\"Bale Huduga\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/11629",
+    "original_length_m": 4092.41,
+    "length_deleted_m": 23.04,
+    "final_length_m": 4069.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot of Ravi being lifted by the booted feet of the goonda and kicked with the other foot",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the words of Gila 'Berale Istu Sihiyagidre Innee'",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the following in the picturisation of the song under the bullock cart: Indecorous movements of Ravi and Gita in wet clothes and jerking of her breast; Rolling and falling of Ravi over Geetha; Shot of Gila sitting on the floor exposing her drenched thighs",
+        "length_m": 3.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the cabaret sequence, delete indecorous frontal movements of the dancer in the beginning; Shot of the dancer lifting and placing her bare leg on the table, exposing her thigh; Close-up of shots of cleavage exposure; Indecorous movements of the dancer while sitting on the ground; Lifting of the dancer by Ravi and her movements while remaining in his hands",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the following words of the lyric in the song No. 4 'Seru baa, nodu baa, Naath na NannalliL Anubhava Ninnalli Sukbavide Nodillfl Bidu Bidu'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Rickshaw Raji\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "M/11496",
+    "original_length_m": 4181.48,
+    "length_deleted_m": 281.67,
+    "final_length_m": 4128.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete Lingam's dialogue 'Naku thondaragane undi'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete contractor's dialogue 'Notu chooscvaruku prati aadadi kaadanc anthudi'",
+        "length_m": 7.16
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Delete the gesture of Rangudu showing his thumb up at the words 'Iruvaiyclu'",
+        "length_m": 0.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Lingam holding the water hose inside elevation.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the entire dance performed before Jagan and Rangan along with the lyrics of song No. 2 beginning with the words Patta page*",
+        "length_m": 114.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the following visuals from the picturisation of the song: Shot of indecorous movements of the posterior of a girl; shot of two girls hitting their posteriors together",
+        "length_m": 5.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the sequence of Ranghdn raping Raji to a suggestion, retaining only the shot of his pushing her down and the shot of her biting his ear.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete Jagan's dialogue 'Challani Sarukku gontuloki mottani saruku parupuloke'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Delete the entire dance performed before Jag^n and his friends' along with the lyrics of song No. 5 beginning with the words 'Kothapalli kobbai mukkus*",
+        "length_m": 125.27
+      }
+    ]
+  },
+  {
+    "film_title": "\"Madalasa\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "cert_no": "M-11588",
+    "original_length_m": 3827.37,
+    "length_deleted_m": 135.6,
+    "final_length_m": 3696.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dating the song delete the top-angle shot ot Junu with exposed breasts",
+        "length_m": 4.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the impact of the fighting sequence by reducing the length of the sequence and by deleting close-shots of fighting hard hitting punches",
+        "length_m": 21.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "From the song and Ja Kv sequence as imagined by Vasu delete the following visuals: The camera zooming oacwaid and urvwud as he girl shakes her breasts; Vasu moving his face over the body of the gal as he moves her body up and down indecorously when her thighs are exposed; Movement of the girl on the floor; The shot of the dancer moving her breasts indecorously with Vasu behind her",
+        "length_m": 22.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the brutal punches and hits in the fight in the arrack shop",
+        "length_m": 11.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From the *song and hght sequences ot Mercy and others delete close shots whcie her breasts and thighs are indecently exposed",
+        "length_m": 17.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following shots from the picturisation of the song (dream sequence): The shot of the dancer in green dress bending backward; The shot of Chandru burying his face on the bosom of Janu",
+        "length_m": 4.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce to a mere suggestion the scene of love making between Dnu and Chandru in the cars-shed outside the car",
+        "length_m": 7.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete entirely the scenes in which Janu and Chandru open the car and make love inside the car",
+        "length_m": 22.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the love making scene between Janu and Chandru under the shower",
+        "length_m": 15.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce to a mere suggestion the shot of Chandru crushing the head of Janu with a stone Delete the subsequent portion of the scene where Janu is seen with blood splattered face",
+        "length_m": 1.02
+      }
+    ]
+  },
+  {
+    "film_title": "\"A V M Cattle and Poultry Feed\"",
+    "languages": [
+      "Tamil",
+      "Malayalam"
+    ],
+    "colour": "Co",
+    "cert_no": "79520-U",
+    "original_length_m": 158.5,
+    "length_deleted_m": 39.63,
+    "final_length_m": 118.87,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Voluntary deletions",
+        "length_m": 39.63
+      }
+    ]
+  }
+]

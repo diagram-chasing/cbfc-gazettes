@@ -1,0 +1,159 @@
+[
+  {
+    "film_title": "Sands Of The Kalahari",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Cy Endfield and Stanley Baker",
+    "cert_no": "U-Cert. No. 47385",
+    "cert_date": "28th March, 1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of the bare mid rift of a woman",
+        "length_m": 4.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of a woman taking bath",
+        "length_m": 2.66,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The sequence of scorpions climbing on the hand of Bain, particularly by deleting the near-views of the scorpions and the close-ups of Bain's face registering fear",
+        "length_m": 2.9,
+        "length_retained_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The love scene between O’Brien and the woman, particularly by deleting the dialogue about his getting her, as also deleting the earlier shots of O’Brien pawing all over her",
+        "length_m": 21.58,
+        "length_retained_m": 5.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The sequence of killing of a stag, particularly by deleting shots of knifing",
+        "length_m": 3.05,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The sequence of O'Brien going into the cave of baboons and his smoking them out with fire brands, particularly by deleting the near-views of the faces of the baboons and their reaction",
+        "length_m": 2.44,
+        "length_retained_m": 4.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "The sequence of the fight of baboons with O’Brien, particularly by deleting the near-views of O’Brien’s and baboon’s faces and his bloodstained chest",
+        "length_m": 17.37,
+        "length_retained_m": 5.0
+      }
+    ]
+  },
+  {
+    "film_title": "Blindfold",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "U-Ccrt No 47391",
+    "cert_date": "29-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All shots of Vicky and the other chorus girls in transparent tight costumes",
+        "length_m": 2.15
+      }
+    ]
+  },
+  {
+    "film_title": "Kalapi",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "U-Cert No 47393",
+    "cert_date": "30-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The shot in which Shobhana after lying on her back, turns and Kalapi bends over her face",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Dhananjay",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "U-Cert. No. 47405",
+    "cert_date": "31-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red VI",
+        "description": "From song beginning with the words 'Ah...hum ek hansi bin pe larkfr n night hen' the line 'b; ayan he <_r tumare p/ar ki kimat'",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "RecIIX",
+        "description": "From the song dance sequence beginning with the words 'Atj lagihai tLarl mcdi. . . /' (ht indteotn s \\!cv of the female dancer on the words 'Pcenc men aji s-hai manna kya'",
+        "length_m": 2.74,
+        "length_retained_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Ladki Sayadn Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "47309",
+    "cert_date": "14-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III IK VI XUR XIV and XV",
+        "description": "Various shots",
+        "length_m": 151.79
+      }
+    ]
+  },
+  {
+    "film_title": "Ram Dhakha",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "U-43470",
+    "cert_date": "29-3-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reell",
+        "description": "the shot sh^wn; i g i -> 1 _m ^f the birebgs of B dmisikha (heroine) in tho bathroom scono",
+        "length_m": 5.48
+      }
+    ]
+  }
+]

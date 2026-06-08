@@ -1,0 +1,636 @@
+[
+  {
+    "film_title": "In Dreamland (Swapna Ka Sanmar)",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "20387",
+    "cert_date": "22nd September 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot of the lean man jumping on the back of a very fat lady, clinging to her and being carried away.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Aap Ki Seva Men",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26390",
+    "cert_date": "22nd September 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably the sequence showing the robbery at the point of a razor.",
+        "length_m": 8.23,
+        "length_retained_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "A Certain Smile",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "28391",
+    "cert_date": "22nd September 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Dominique Vallon in thin white negligee suggestive of nudity while going to the bathroom in Francois's house.",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "DVUL",
+        "description": "Shots of Dominique Vallon caressing Francois's face with her lips in the hotel in the Riviera.",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Dunkirk",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25414",
+    "cert_date": "28th September 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The second shot of the soldier wounded in the face by bomb splinters, and reduce the sound of his groans.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Considerably the sound of the soldier's groans when he is brought into the dressing station.",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Youth",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "784",
+    "cert_date": "25th September 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The words spoken by Maureen: 'Give me a job and a steady supply of boy friends'.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably the fight between Simpson and Dave Wyman.",
+        "length_m": 14.63,
+        "length_retained_m": 11.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Considerably juggler insulting Dinah Brown.",
+        "length_m": 2.13,
+        "length_retained_m": 0.49
+      }
+    ]
+  },
+  {
+    "film_title": "Maracaibo",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "cert_no": "26447",
+    "cert_date": "1st October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "To a flash shots where Laura and Vic kiss one another passionately.",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "The Gypsy And The Gentleman",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "25467",
+    "cert_date": "3rd October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing Belle with her legs and thighs exposed prominently and Deverill caressing them.",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of Deverill and Belle kissing and hugging passionately.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "The Gypsy And The Gentleman",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "786",
+    "cert_date": "3rd October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots in which Jods and Belle tumble down together, he over her, and embrace and kiss passionately.",
+        "length_m": 45.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The word 'slut' from Belle's dialogue.",
+        "length_m": 0.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "To a flash scene of Belle and Jess hugging and kissing, towards the end of the reel.",
+        "length_m": 6.58,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Considerably love scene between Doverill and Belle in bedroom; particularly shots in which Belle's thighs and legs are seen exposed.",
+        "length_m": 38.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "To a flash scene in which Deverill hugs and kisses Belle passionately.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Livia, The Wanton Countess",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "787",
+    "cert_date": "3rd October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "To the minimum required for continuity shots of love-making between Livia and Franz in Franz's hired room.",
+        "length_m": 21.34,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "To the minimum required for continuity shots of love-making between Franz and Livia in her husband's villa.",
+        "length_m": 30.78,
+        "length_retained_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Maracaibo",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "cert_no": "788",
+    "cert_date": "3rd October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "To a flash the last shots of the scene where a cabaret dancer faces the audience scantily clad.",
+        "length_m": 9.75,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably the scene where Laura and Vic are shown love making early in the morning while passing through a deserted street.",
+        "length_m": 5.49,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Shots where Vic kisses Laura passionately in Maracaibo.",
+        "length_m": 6.1,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "A Matter of Time",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Shot No. 3",
+        "description": "Bottle of ENO, glass of water and spoon, ENO being prepared.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Shot No. 8",
+        "description": "Close shot of ENO.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "A Sparkling Remedy",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Shot No. 3",
+        "description": "Close up of man drinking ENO.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Savera",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Shots of car passing - Close shot of Ashok Kumar (Kundan) - Shot of Ashok Kumar (Kundan) and Kammo (dancer) in conversation.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Shots of Boat passing in rain at night.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Marjorie Morningstar",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "786",
+    "cert_date": "1st October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of a girl biting a man's hand while rehearsing.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "The following words from Marsha's dialogue 'He is not used to such struggling' - 'Listen, you take a poll of your graduating class ten years from now and just see how many of them clinched the deal without giving away a few free samples'.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red II",
+        "description": "Considerably shots of love-making of Marjorie and Sandy outside the front door of Arnold Morgenstern's flat.",
+        "length_m": 2.44,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots of kissing between Noel and Marjorie in dressing room.",
+        "length_m": 4.27,
+        "length_retained_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably shots of kissing between Noel and Marjorie under an umbrella.",
+        "length_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 1.22,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 2.44,
+        "length_retained_m": 1.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 5.18,
+        "length_retained_m": 24.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of kissing between Noel and Marjorie.",
+        "length_m": 3.35,
+        "length_retained_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Too Much Too Soon",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "789",
+    "cert_date": "7th October 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots of the cabaret dancer dancing with bare legs and thighs and making indecent hip movements.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The remark 'come on, take it off' addressed to Diana wherever occurring also shots of spectators trying to tear off Diana's dress.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably shots of Howard and Diana kissing passionately.",
+        "length_m": 3.35,
+        "length_retained_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "The Key",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "25491",
+    "cert_date": "9th October 1958",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dangerous Youth",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25493",
+    "cert_date": "10th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots in which Dinah is seen scantily dressed with her thigh and leg prominently exposed.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Mahishasur Badh",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "21484",
+    "cert_date": "30th September 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shot of a deformed face.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "'Oi Betora' (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Mahishasur - 'Ei Prashade vritya hoye tomako amlamar charan shebar adhikar ditom kintu tumitaro jogya nao'. 'Bhiru Kapurusk'.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Bhomre - 'Keno, jake biye korechish, tako niye thakna'. Bhindi - 'She to dj panchash baghat Achhi- ar kakhano she chale?'.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Bhindi - 'Amador blyo diyo tabe oder mukt/'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Bhindi - 'Tomader barito jato moye ache niye ego ekhaneaura biye karbo.'",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Mahishasur - 'Eimuhurto jadi tomay amar ei driro bahu-bandhano abadhya kari tahale Jagate kono sakti acho tomay raksha karo?'.",
+        "length_m": 38.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Boono - Mahishasur whipping Jayantika.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shachi - 'Na - Na- -tumiamar kache emona'. Mahishasur - 'Aj oman nivrite poye tomake amio omni ohhero dobona sundarl'.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Torture scene.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Second torture scene.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "4",
+        "description": "A close shot of an agur lifting a weapon on his shoulder.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Indrani",
+    "languages": [
+      "Bengali"
+    ],
+    "cert_no": "21464",
+    "cert_date": "30th September 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Addition of a song beginning with 'Durer tumiaaj katoher tumihalo' and ending with 'Banghite shur tolo'.",
+        "length_m": 53.04
+      }
+    ]
+  },
+  {
+    "film_title": "Inti Guttu",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "22466",
+    "cert_date": "10th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce to a bare minimum, picture and sound of Tirumalrao dragging and pushing Mahalakshmamma.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the scene of Tiramalrao performing Nischiyathartham.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the head-constable's dialogue when pushing the car, that she was heavier than the car. (sound only).",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the scene in the police-station where the driver Subblah is brought and charged for overspeeding.",
+        "length_m": 17.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce to the minimum necessary for the story, the robbery in the Zamindar's house Prabhakar himself with the aid of the gang.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Bhadrachalam referring to himself as Marwadi bidda, wherever it occurs. (sound only).",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "In the police station, delete the head-constable telling the inspector Gopal who is drinking tea, that he should make love to Sobha and pretend.",
+        "length_m": 25.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "After Sobha asks the Zamindar what she can do for him, delete the rest of the entire scene, leaving only the bare suggestion that the Zamindar intended to get her married to Prabhakar.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "replacement",
+        "reel": "18",
+        "description": "In Rita's dance before the robber gang, song No. 13, delete her solo rock & roll (a) before the song begins, (b) at the end of the first verse and before the second verse begins, and (c) at the end of the last verse, the picture where Godari lifts her gown.",
+        "length_m": 14.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "In the police-station, delete the slogan 'Jampaluka Pampa' uttered twice by the head-constable.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "Delete in the marriage scene, all pictures showing Prabhakor and Sobha together, including the separate inserts of his tying the Tali.",
+        "length_m": 2.13
+      }
+    ]
+  }
+]

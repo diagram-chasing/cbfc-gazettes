@@ -1,0 +1,1001 @@
+[
+  {
+    "film_title": "Intaquam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "DewanA.D.Nayyar, 38 Pali Hill, Bandra, Bombay.",
+    "cert_no": "56325",
+    "cert_date": "11-2-69",
+    "endorsement": "U",
+    "original_length_m": 4249.83,
+    "length_deleted_m": 3.05,
+    "final_length_m": 4246.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the word ‘private’ from the dialogue of Seth Murlidhar.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the sentence 'Har maal quality ka rakhta hai' spoken by Seth Murlidhar.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the dialogue 'Maal parkhe bagair hum sauda nahin karte aaj raat muihe sardi aao mujhsc muffler ki tarah lipat jaao' spoken by Seth Murlidhar addressed to Rita.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the word ‘maal’ with reference to Rebecca as spoken by Seth Murlidhar.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the golden cage sequence, delete the violent action of the guerilla.",
+        "length_m": 0.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the underlined words from the dialogue of Hiralal: 'Geeta main Shri Krishna ne kaha hai ki dushman ke saath dhoka fareb sub kuchh jaiz hai'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the dialogue of Pyarelal addressed to Rebecca: 'Ghodakbali hai aur ghodi bhi khali hai'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the dialogue of Pyarelal addressed to Rebecca: 'Aapko ck Waqt main do ghode par chadne ka aadat hai?'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Rise And Fall Of The Third Reich",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Wolper Productions, Inc. (U. S. A,).",
+    "cert_no": "56326",
+    "cert_date": "12-2-69",
+    "endorsement": "U",
+    "original_length_m": 2958.08,
+    "length_deleted_m": 1.7,
+    "final_length_m": 2954.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I (1 A)",
+        "description": "Delete the sentence 'This is the long night in which a nation of sixty-seven million persons made long descent into hell.'",
+        "length_m": 3.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 (Id)",
+        "description": "Delete the underlined words from the sentence 'Anti-semitism has always existed in Viennese society'.",
+        "length_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "Haunted House Cleaning",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 rom.",
+    "producer": "Terrytoons Inc. (U. S. A.).",
+    "cert_no": "56330",
+    "cert_date": "12-2-69",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a woman in purdah walking behind corpse.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Gandhi",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm.",
+    "producer": "20th Century Production. (U.S. A.).",
+    "cert_no": "56331",
+    "cert_date": "12-2-69",
+    "original_length_m": 301.75,
+    "length_deleted_m": 1.83,
+    "final_length_m": 299.92,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a woman in purdah walking behind corpse.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Danger: Diabolik",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Dins De Laurcntiis. (London).",
+    "cert_no": "56353",
+    "cert_date": "13-2-69",
+    "endorsement": "U",
+    "original_length_m": 64.01,
+    "length_deleted_m": 0.84,
+    "final_length_m": 63.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shot in which the partly revealed bosom of Eva is prominently visible when Ditibohl places the Emeralds on her breast.",
+        "length_m": 0.84
+      }
+    ]
+  },
+  {
+    "film_title": "The Strange Affair",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Howard Harrizon, (London).",
+    "cert_no": "56354",
+    "cert_date": "13-2-69",
+    "endorsement": "U",
+    "original_length_m": 73.15,
+    "length_deleted_m": 11.8,
+    "final_length_m": 64.35,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shot where Susan shows the word “Fred” painted on her breast.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scene of love-making in the motor car between peter and Susan, deleting all shots of their passionate kissing and embracing and jumping Over him.",
+        "length_m": 6.96,
+        "length_retained_m": 5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III & IV",
+        "description": "Reduce considerably the scene of Peter and Susan taking bath together and subsequently making love and their numerous shots in the bed especially those which show their fully bare thighs and other parts of the body — in close-ups, retaining only a few shots of their romance for the sake of continuity.",
+        "length_m": 18.52,
+        "length_retained_m": 20.5
+      }
+    ]
+  },
+  {
+    "film_title": "Development of the Immune Capacity In The Newborn",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "cert_no": "U-55751",
+    "cert_date": "2-2-69",
+    "endorsement": "U",
+    "final_length_m": 284.68,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the monogram of pfizer.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Bronchial Caracinoma",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "cert_no": "U-55988",
+    "cert_date": "23-12-1968",
+    "endorsement": "U",
+    "final_length_m": 286.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the monogram of Pfizer.",
+        "length_m": 6.25
+      }
+    ]
+  },
+  {
+    "film_title": "The Proud Years",
+    "languages": [
+      "Eng."
+    ],
+    "cert_no": "U-J5932",
+    "cert_date": "11-12-1968",
+    "endorsement": "U",
+    "final_length_m": 329.64,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the monogram of Pfizer.",
+        "length_m": 0.98
+      }
+    ]
+  },
+  {
+    "film_title": "Atrial Septal Secundum Defect",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "cert_no": "A-2370",
+    "cert_date": "3-2-1969",
+    "endorsement": "A",
+    "final_length_m": 443.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the monogram of Pfizer.",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "Danger Diabolik",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Dino De Laurentlis (Italy).",
+    "cert_no": "2375",
+    "cert_date": "13-2-69",
+    "endorsement": "A",
+    "original_length_m": 268,
+    "length_deleted_m": 7.85,
+    "final_length_m": 2674.15,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the close shot in which partly revealed bosom of Eva is prominently visible when Diabolik places the emeralds on her breast counting 1, 2 & 3.",
+        "length_m": 7.85
+      }
+    ]
+  },
+  {
+    "film_title": "The Strange Affair",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Howard Harrison (London)",
+    "cert_no": "2376",
+    "cert_date": "13-2-69",
+    "endorsement": "A",
+    "original_length_m": 2890,
+    "length_deleted_m": 27,
+    "final_length_m": 2863,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shot where Susan shows the word “Fred” painted on her breast.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scene of love-making in the motor car between peter and Susan, deleting all shots of their passionate kissing and embracing and jumping Over him.",
+        "length_m": 6.96,
+        "length_retained_m": 5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III & IV",
+        "description": "Reduce considerably the scene of Peter and Susan taking bath together and subsequently making love and their numerous shots in the bed especially those which show their fully bare thighs and other parts of the body — in close-ups, retaining only a few shots of their romance for the sake of continuity.",
+        "length_m": 18.52,
+        "length_retained_m": 20.5
+      }
+    ]
+  },
+  {
+    "film_title": "Papakosam",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "cert_no": "52091",
+    "cert_date": "5-3-68",
+    "endorsement": "U",
+    "final_length_m": 4326.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Voluntary deletion of the Muslim prayer from the film.",
+        "length_m": 42.67
+      }
+    ]
+  },
+  {
+    "film_title": "Wapas",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Jyotsna Sen, Bombay- 54.",
+    "cert_no": "56391",
+    "cert_date": "18-2-69",
+    "endorsement": "U",
+    "original_length_m": 4441.91,
+    "length_deleted_m": 32.94,
+    "final_length_m": 4408.97,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Modify depiction of the Police Officer suitably, removing all shots wherein he behaves as a clown e. g. his getting frightened at the sight of the bull etc. in order to maintain dignity of the police services.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the Police Officer’s remarks to the effect that it would be necessary to call up the Military to deal with the animals at the place from where he had barely escaped with life.",
+        "length_m": 2.75
+      }
+    ]
+  },
+  {
+    "film_title": "Road To Sikkim",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Kanti R. Dave- Bandra.",
+    "cert_no": "56410",
+    "cert_date": "20-2-69",
+    "endorsement": "U",
+    "original_length_m": 3966.36,
+    "length_deleted_m": 6.7,
+    "final_length_m": 3966.06,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Add a tablet to the effect that the characters and incidents depicted in the film are fictitious and have no bearing in real life.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the dialogue 'Tumhari sab jarooriyat puri karoonga' when the Cine agent tries to embrace Asha.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the dialogue 'Woh to tusi paida nahin kar sake' addressed by the wife to the husband with reference to production of children.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "In the picturization of song No. 6, beginning with the words '.Aji Yeh Dil Dhadka, Shola Bhadka ', delete the prominent shot of the dancer with her navel exposed when she performs indecorous hip movements.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "The Brotherhood",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Kirk Douglas (USA).",
+    "cert_no": "2378",
+    "cert_date": "20-2-69",
+    "endorsement": "A",
+    "original_length_m": 2632.36,
+    "length_deleted_m": 9.56,
+    "final_length_m": 2623,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scene of love-making between Frank and his wife, deleting the shot of pressing of the breast.",
+        "length_m": 2.9,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce the views of Beretolo in an agonising condition with blood oozing on his face when he is strmrolino after being “hog-tied”.",
+        "length_m": 6.66,
+        "length_retained_m": 3.65
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Day’s Dying",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Harry Fines, (England)",
+    "cert_no": "2382",
+    "cert_date": "1-3-69",
+    "endorsement": "A",
+    "original_length_m": 2239.67,
+    "length_deleted_m": 1.36,
+    "final_length_m": 2238.31,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce to a flash the view of a German soldier's ghastly and fully bruised face full of blood.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce the view of a German soldier spurting blood after he is shot.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Microbial Susceptibility",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "cert_no": "U-55926",
+    "cert_date": "11-12-68",
+    "endorsement": "U",
+    "final_length_m": 173.74,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the monogram of Pfizer.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Still Going Places I",
+    "languages": [
+      "Eng."
+    ],
+    "cert_no": "U-55788",
+    "cert_date": "7-12-1968",
+    "endorsement": "U",
+    "final_length_m": 462.23,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the monogram of Pfizer.",
+        "length_m": 3.81
+      }
+    ]
+  },
+  {
+    "film_title": "Bommalu Cheppina Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Suresh Movies, Madras.",
+    "cert_no": "55502",
+    "cert_date": "24-2-69",
+    "endorsement": "U",
+    "original_length_m": 4463.5,
+    "length_deleted_m": 1.5,
+    "final_length_m": 4462.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the dialogue of the sepoy saying 'Pai saruku and krindi sarukw.'",
+        "length_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "Mahua",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Bibhuti Mitra, Bombay-50.",
+    "cert_no": "56456",
+    "cert_date": "1-3-69",
+    "endorsement": "U",
+    "original_length_m": 3529.89,
+    "length_deleted_m": 5.18,
+    "final_length_m": 3526.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the underlined words as spoken by Raj Kumar to Mahua while indicating his desire to sleep in the temple premises 'Ham, Mahua, Tumharo saath,'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the words 'Raat bhar me toofan shaant ho jayega' as spoken by Raj Kumar to Mahua during their scene in the room.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce drastically whipping of Palash and the accompanying views of blood on his body.",
+        "length_m": 3.35,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the underlined words as spoken to Taant by Kapali: 'Mujhe tere tan ki jarurat hai'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the underlined words as spoken to Taant by Kapali: 'Tun haan kch aur chal andar'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the underlined words as spoken to Taant by Kapali: 'Aag bhujho panch saal ki aaj'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "From the dance song sequence 'Yeh chhan chham chhani chhamak chhana..', deleted the indecorous hip movements of the dancer as she sings the song line 'Main hoon dasi pyar ki pyasi.'",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Texas Addios",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Overseas Film Corporation Pvt. Ltd. Sukhsagar Huges Rd. Bombay-7",
+    "cert_no": "2380",
+    "cert_date": "25-2-69",
+    "endorsement": "A",
+    "original_length_m": 2665,
+    "length_deleted_m": 69.64,
+    "final_length_m": 2595.36,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scene of Miguel getting (he victims shot one by one to the accompaniment of sound of opening of the cork of his wine bottle retaining only the view of one of the victims being shot dead.",
+        "length_m": 13.87,
+        "length_retained_m": 33.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce drastically the tight between Burt and the man in the bar, particularly the gruesome beating as being given to the latter, also deleting the last kick given to the latter by Burt.",
+        "length_m": 3.35,
+        "length_retained_m": 28.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the scene showing Cisco's man mercilessly beating up the revolutionary.",
+        "length_m": 3.96,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the sound of cries of the victims during suggestion of hot irons being applied on them.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the view of the bleeding face of the old man after he has been struck down by Cisoo ana being repeatedly shot down by the latter at close range.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduce to bare minimum Buri being beaten up by Cisoo’s side after the latter has directed that Burt be sent away to the border.",
+        "length_m": 4.27,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduce drastically the fight between Jim and Cisco’s aide in the lock-up.",
+        "length_m": 14.63,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "From the scene of Burt with Cisco and Jim, reduce the fight between Jim and Cisco’s aide, particularly deleting the latter being riddled with bullets by Burt.",
+        "length_m": 19.51,
+        "length_retained_m": 60.96
+      }
+    ]
+  },
+  {
+    "film_title": "Hate For Hate",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Italo Zingarclli (Italy)",
+    "cert_no": "2381",
+    "cert_date": "27-2-69",
+    "endorsement": "A",
+    "original_length_m": 2568.55,
+    "length_deleted_m": 34.11,
+    "final_length_m": 2534.44,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I 1(1 A)",
+        "description": "Reduce the fight in the prison between , Miguel, Cooper and other prisoners, particularly hits in the abdomen.",
+        "length_m": 1.27,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV(2B)",
+        "description": "Reduce the gun-shooting outside the prison after Cooper’s escape, also deleting shot of one of the warders lying dead in the street.",
+        "length_m": 3.59,
+        "length_retained_m": 3.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI(5B)",
+        "description": "Reduce, to bare minimum flogging of the man under Moxon’s orders, particularly his agonising Broans.",
+        "length_m": 5.13,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII(A A)",
+        "description": "Delete Miguel being hit in the abdomen repeatedly by Moxon.",
+        "length_m": 3.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 177/(4/1.",
+        "description": "Delete the words 'It is hard to know when he is telling the truth', as spoken by Moxon with reference to Miguel describing him as Mexican.",
+        "length_m": 1.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX(5A)",
+        "description": "Reduce the gun-shooting between Miguel and men of Moxon.",
+        "length_m": 12.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X(5B)",
+        "description": "Reduce to bare minimum the concluding gun-fighting sequence.",
+        "length_m": 5.79,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Day’s Dying",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Harry Fine (England)",
+    "cert_no": "2382",
+    "cert_date": "1-3-69",
+    "endorsement": "A",
+    "original_length_m": 2239.67,
+    "length_deleted_m": 1.36,
+    "final_length_m": 2238.31,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce to a flash the view of a German soldier's ghastly and fully bruised face full of blood.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce the view of a German soldier spurting blood after he is shot.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Sansaar Lila",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35nim",
+    "producer": "Pran Jariwala, Bombay-71.",
+    "cert_no": "56433",
+    "cert_date": "24-2-69",
+    "endorsement": "U",
+    "original_length_m": 3995.32,
+    "length_deleted_m": 7.01,
+    "final_length_m": 3988.31,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the gestures of Kauji embracing the tree and putting his things around the trunk when saying the following words : “Sundari-ni sod malati ho to etc.”",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the words 'Jane to tambu tanio' after the words referring to the 'choli' and “ghaghra”.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the action of the comedian while using the words “Double-barrel gun”.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the following words of the comedian : “Untouched by human hands and delivery pan safely karish ’",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete the words “Tun neeche” as addressed by Pyari’s father to the maid after he says 'hun pan oopar'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Brotherhood",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kirk Douglas (USA).",
+    "cert_no": "56409",
+    "cert_date": "20-2-69",
+    "endorsement": "U",
+    "original_length_m": 66.14,
+    "length_deleted_m": 1.43,
+    "final_length_m": 64.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man being hit in the car.",
+        "length_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot showing shooting of a man.",
+        "length_m": 0.18
+      }
+    ]
+  },
+  {
+    "film_title": "The Brotherhood",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Kirk Douglas (USA).",
+    "cert_no": "2379",
+    "cert_date": "20-2-69",
+    "endorsement": "A",
+    "original_length_m": 2632.36,
+    "length_deleted_m": 9.56,
+    "final_length_m": 2623,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scene of love-making between Frank and his wife, deleting the shot of pressing of the breast.",
+        "length_m": 2.9,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce the views of Beretolo in an agonising condition with blood oozing on his face when he is strmrolino after being “hog-tied”.",
+        "length_m": 6.66,
+        "length_retained_m": 3.65
+      }
+    ]
+  },
+  {
+    "film_title": "You Only Live Twice",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Harry Saltzman & Albert R. Broccoli, (USA).",
+    "cert_no": "56431",
+    "cert_date": "22-2-69",
+    "endorsement": "U",
+    "original_length_m": 88.69,
+    "length_deleted_m": 3.52,
+    "final_length_m": 85.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of love-making between the agent and a Chinese girl on the bed.",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the close-up of a kiss between James Bond and a Japanese girl.",
+        "length_m": 1.16
+      }
+    ]
+  },
+  {
+    "film_title": "You Only Live Twice",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Harry Saltzman & Albert R. Broccoli, (USA).",
+    "cert_no": "2379",
+    "cert_date": "22-2-69",
+    "endorsement": "A",
+    "original_length_m": 2568.55,
+    "length_deleted_m": 34.11,
+    "final_length_m": 2534.44,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I 1(1 A)",
+        "description": "Reduce the fight in the prison between , Miguel, Cooper and other prisoners, particularly hits in the abdomen.",
+        "length_m": 1.27,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV(2B)",
+        "description": "Reduce the gun-shooting outside the prison after Cooper’s escape, also deleting shot of one of the warders lying dead in the street.",
+        "length_m": 3.59,
+        "length_retained_m": 3.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI(5B)",
+        "description": "Reduce, to bare minimum flogging of the man under Moxon’s orders, particularly his agonising Broans.",
+        "length_m": 5.13,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII(A A)",
+        "description": "Delete Miguel being hit in the abdomen repeatedly by Moxon.",
+        "length_m": 3.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 177/(4/1.",
+        "description": "Delete the words 'It is hard to know when he is telling the truth', as spoken by Moxon with reference to Miguel describing him as Mexican.",
+        "length_m": 1.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX(5A)",
+        "description": "Reduce the gun-shooting between Miguel and men of Moxon.",
+        "length_m": 12.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X(5B)",
+        "description": "Reduce to bare minimum the concluding gun-fighting sequence.",
+        "length_m": 5.79,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Kathanayakudu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Gopalukrishna Prod uctions, Madras.",
+    "cert_no": "55500",
+    "cert_date": "22-2-69",
+    "endorsement": "U",
+    "original_length_m": 5140.09,
+    "length_deleted_m": 6.09,
+    "final_length_m": 5034,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the near shots of the bust shaking and the shot of the man holding the hips of a dancer.",
+        "length_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "Sapnon Ka SaudHgar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Eastman-colour",
+    "format": "35mm",
+    "producer": "Screen Gems (Madras), Madras.",
+    "cert_no": "53586",
+    "cert_date": "9-9-68",
+    "endorsement": "U",
+    "final_length_m": 4087.25,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Voluntary deletion of the song ‘Voh Zindagi’.",
+        "length_m": 155.75
+      }
+    ]
+  },
+  {
+    "film_title": "Enge Kadavul",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "N.K.P. Movies, Madras.",
+    "cert_no": "41899",
+    "cert_date": "27-2-65",
+    "endorsement": "U",
+    "final_length_m": 3726.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletions from Reels Nos. 4 and 14.",
+        "length_m": 121.61
+      }
+    ]
+  }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "film_title": "Corbka Piyara YanO Rola Wagh or Black Tigor",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shree Jaydert Rola Wagh or Black Tigor",
+    "cert_no": "676",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rool 18",
+        "description": "Delete the part showing only Madhuri the heroine hanging from rope.",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Gorm Kumbhar",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Chbaya Filmy",
+    "cert_no": "678",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rool 4",
+        "description": "In the scene where Gora Kumbhar is shown pounding potter's clay with his feet, omit part of the scene showing Gora Kumbhar's son being crushed to death.",
+        "length_m": 7.9248
+      }
+    ]
+  },
+  {
+    "film_title": "Flying Man",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Roshan Piotures India",
+    "cert_no": "679",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "part No. 4",
+        "description": "Delete the sentence: (In Jail) Nahi to Dovdaal banano hoga.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "part No. 6",
+        "description": "Delete the sentence: (In Mandir) Same as abovo.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "part No. 7",
+        "description": "Delete: (In Chambor) Dovadai.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "part No. 8",
+        "description": "Delete the sentence: (In Jungle) Ko Mere Admi Tumhe Uthalo Janeki Koshish Karongo.",
+        "length_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "Hind ka Lul",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Wadia Morlotone",
+    "cert_no": "683",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Nadiya-Ko-Par",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmigtan Ltd.",
+    "cert_no": "690",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Rool No. 9",
+        "description": "Reduce considerably the whipping of Damri by the Zamindar, avoid all close-ups and don't show too many strokes actually falling on Damri.",
+        "length_m": 6.096,
+        "length_retained_m": 3747.456
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rool No. 9",
+        "description": "Cut the last two lines of song no. 5 reading 'Tore Charanom Men' and 'Mor Jawadi Balihar'.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Pugreo",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "All India Pictures",
+    "cert_no": "692",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rool No. 8",
+        "description": "Delete the sentence to the effect 'Double Bod Wallo Ke Liya Yolie Nokari Nohl Milti Hai'.",
+        "length_m": 4.572
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Bhavani",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Irbbakar Pictures",
+    "cert_no": "694",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Endorsement",
+        "description": "Omit the shot showing Maratha Hardnm offering Hindu girls to Muslim rulers.",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Nai Baat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chowdry Productione",
+    "cert_no": "697",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rool No. 13",
+        "description": "Cut out the following lines from the song beginning with the words 'Kisko Suncur Man Ki Kahani' sung by the professional dancing girl, as it is excessively vulgar: 'Looti aur Lutai Jawagl'.",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Gentleman Daku (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Movlotonn",
+    "cert_no": "698",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Rajkumari",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Do.",
+    "cert_no": "699",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sinhagad",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Prabhat Film Co., Ltd.",
+    "cert_no": "600",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Angoothi (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Janakn Ploturen",
+    "cert_no": "602",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mozo Bul (Revised)",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Profulla Plotures",
+    "cert_no": "603",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Gorakhnath",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Arun Pioturur",
+    "cert_no": "603",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dil",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Fazli Brothers",
+    "cert_no": "604",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Viawadeop Bapu (Light of the World Bapu)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ciro Fllun Exchange",
+    "cert_no": "605",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Meri Duniya (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "National Artisti",
+    "cert_no": "606",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Joogt Sikho",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Prabhakar Picturos",
+    "cert_no": "607",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Swarna Bhoomi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Do.",
+    "cert_no": "608",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Punar Mib (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "The Diamond Piotutos Ltd.",
+    "cert_no": "609",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Samrat Askok",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bombay Cinetong Ltd.",
+    "cert_no": "610",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bagant",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bombay Ta ]kles, Ltd.",
+    "cert_no": "611",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Chand Zara",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Asiatic Pictures",
+    "cert_no": "612",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Vande Mataram (Rotlod)",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Navi Zankar Productional",
+    "cert_no": "613",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Serkarl Pahune",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Navayog Chitrapat Ltd., Poone",
+    "cert_no": "614",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Shanti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Firdaus Art Plotyret",
+    "cert_no": "616",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Nirall Dunya or Trust Your Wifo",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Tarun Pleturos",
+    "cert_no": "617",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ek Raat (Roviged)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shalimar Pioturtu",
+    "cert_no": "617",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sant Dnyangehwar",
+    "languages": [
+      "Hindi",
+      "Marathi"
+    ],
+    "producer": "Prabhat Film Co. Ltd.",
+    "cert_no": "618",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Gopal Krishna",
+    "languages": [
+      "Hindi",
+      "Marathi"
+    ],
+    "producer": "Famous Picturen, Ltd.",
+    "cert_no": "619",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Prem Barueet",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shalimer Picturco",
+    "cert_no": "620",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Omitin pong 8",
+        "description": "Omit the two linom beginning with the words 'Apne la Arad Vatan Mon'.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Nishani",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shorey Pioturen, Lahore",
+    "cert_no": "621",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rool No. 2",
+        "description": "Delete the boon of Indra's roon where the song and the picture of Kriela occurs together (beginning from the point when the close-up of the picture appears upto the point where Indra turns from the picture and moves towards her husband).",
+        "length_m": 16.4592
+      }
+    ]
+  },
+  {
+    "film_title": "Tadbir",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Juyunt",
+    "cert_no": "622",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Freedom To Learn",
+    "languages": [
+      "English"
+    ],
+    "producer": "U. S. I. S.",
+    "cert_no": "623",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Now Magazine No. 1",
+    "languages": [
+      "English"
+    ],
+    "producer": "U. S. I. S.",
+    "cert_no": "624",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Now # Magazino No. 2",
+    "languages": [
+      "English"
+    ],
+    "producer": "U. S. I. S.",
+    "cert_no": "625",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Now ! Magazino No. 6",
+    "languages": [
+      "English"
+    ],
+    "producer": "U. S. I. S.",
+    "cert_no": "626",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Learn to Swim",
+    "languages": [
+      "English"
+    ],
+    "producer": "U. S. I. S.",
+    "cert_no": "627",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "One Man Harvesting",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "U. S. I. S.",
+    "cert_no": "628",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Moti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Navyug Chitrapet",
+    "cert_no": "629",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Achhot Kenya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bombay Talklo, Ltd.",
+    "cert_no": "632",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anben Alles Do or Die",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bharat Productions",
+    "cert_no": "633",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sachs Sapna",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sanjoowan Art Produo.",
+    "cert_no": "634",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Alster (Roviged)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "National Studios",
+    "cert_no": "638",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jai Ranchhod",
+    "languages": [
+      "Gujrati"
+    ],
+    "producer": "Mester Pioturen",
+    "cert_no": "635",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Voroadar",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Shroe Saurashtra Pro.",
+    "cert_no": "636",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "East of Jaya",
+    "languages": [
+      "English"
+    ],
+    "producer": "Unlvorsal Piotures Cor.",
+    "cert_no": "696",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Prankonsteln",
+    "languages": [
+      "English"
+    ],
+    "producer": "Unlvorsal Picturon",
+    "cert_no": "316",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Commandou Strike At Dawn\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., ( INC, U. S. A.)",
+    "cert_no": "62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"The Bandit of Shorwood Forest\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., ( INC, U. S. A.)",
+    "cert_no": "93",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailorof “ Guda \"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., ( INC, U. S. A.)",
+    "cert_no": "98",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jhara Phool",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Anjali liotum",
+    "cert_no": "1187",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bhup Maktl",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Krishin Moviotone",
+    "cert_no": "1169",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bhakta Kablr",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Unity Productions",
+    "cert_no": "1169",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\" Dongbaadhu \"",
+    "languages": [
+      "Telogu"
+    ],
+    "producer": "M /H . The Roopavan Plotures Limitod",
+    "cert_no": "1063",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "“ Yogi Vemana \"",
+    "languages": [
+      "Tolugu"
+    ],
+    "producer": "M /s . Tho Vayhani Pictures Limited",
+    "cert_no": "1064",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The hero hands over the neoklaon tr Rinoe (the dapoing girl) after she comes ohanging her wot clothes and they hog together and there is a grortion of a kina.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "description": "When Ranco motunne on After the temple dance she is looking into a mrtor with portioris of her bronsta rotoaling. Thoro are also throe other occafiona immediately following when she jo showing her half covered brengts while talking to her mother.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "description": "The portions of the dino log firm where she hings tho following song , — \" Maripinchi, volspulu kurupinchi, rathplary thelincbi, kosgalipohakoncera , na Karuvu daera penyianthura \".",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "description": "There are obsotto suggertions in the following words ueed in the dialogues and they may also be out : \" Eh yaehthuvu ekkada pottolo \" etc."
+      }
+    ]
+  },
+  {
+    "film_title": "\" Krishna Bakthi \"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M /s. Krohna Ploturea",
+    "cert_no": "1066",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Where the mother teacher tho depolug girls as to how she should behuve toward : ber lover (the kipg).",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "description": "The scene where the “ Vcvukarar \" and his wifo lle in bod together with the end of bis cloth tied to the cod of her force.",
+        "length_m": 22.5552
+      },
+      {
+        "kind": "deletion",
+        "description": "The Hoene in which the Guru tries to forco the dancing girl to yiold to him tho portion from which tte daping gjilghuts tho window upto thr time tho dancing glil is soon lying on the ground.",
+        "length_m": 19.5072
+      },
+      {
+        "kind": "deletion",
+        "description": "The song whore the beggar gir) appare outsido Guruji o house with an immodest jacket.",
+        "length_m": 37.4904
+      },
+      {
+        "kind": "deletion",
+        "description": "The sentence which has been uttorod twice over (i.e ., on two different Occasions ) by one of the characteza toalborg with \" Dungudumanjo ..\"."
+      },
+      {
+        "kind": "deletion",
+        "description": "The portion teluting to the leoture of the Guru , whoro bo says something like this : “ Valmiki, u hon ho was a hunter was pot able to pronounc \" Rama \" ard to be Wła ogked to pronounoo \" Mora \" and continually pronounoing the word made bim pronounce \" Roma \" opd througb thot ho attained good robition . Liko that, continually pronouncing \" Dasi \" (danclng girl) will make you pronounce \" Sila \"."
+      },
+      {
+        "kind": "deletion",
+        "description": "The first soono,where the MAIA and tho danong girl and the mother moot."
+      }
+    ]
+  },
+  {
+    "film_title": "\" Milagsi \" - Comio",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M /s Krishna Piotu",
+    "cert_no": "1066",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sati Anubuya",
+    "languages": [
+      "Tolugu"
+    ],
+    "producer": "Mu East India Film Co., Calcutta",
+    "cert_no": "1067",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Druva",
+    "languages": [
+      "Telug"
+    ],
+    "producer": "Do.",
+    "cert_no": "1068",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sadjoovinior Kuchu Dovayani",
+    "languages": [
+      "Tolugu"
+    ],
+    "producer": "Ma, Redba Filmy Co., Calcutta and Mr. B. V. Ramanandam",
+    "cert_no": "1069",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The portion in whloh the ladies who go for a bath expose their lega from the thighs."
+      }
+    ]
+  },
+  {
+    "film_title": "Alli Vijayam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Ms. Sundaram Eound Studios Ltd.",
+    "cert_no": "1076",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mohini Bhasmasura",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M . Aodbro Talkies",
+    "cert_no": "1071",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Halaji",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "MA Hamous Tilms, Bombay & Nellore",
+    "cert_no": "1072",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The clopo-ups of the dead body."
+      }
+    ]
+  },
+  {
+    "film_title": "Malati Madlugam",
+    "languages": [
+      "Tolugu"
+    ],
+    "producer": "M . Motropolitan Pioturoa , Caloutta",
+    "cert_no": "1073",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tarlachandra",
+    "languages": [
+      "Kantiada"
+    ],
+    "producer": "M . Sumnonathi Cine Luboratory , Ltd.",
+    "cert_no": "1074",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Is it also my fate to go into the Cheri and undergo prayaohithom."
+      }
+    ]
+  },
+  {
+    "film_title": "Palnati Yuddham",
+    "languages": [
+      "Tolugu"
+    ],
+    "producer": "M /s Sroo Sarada Productiong",
+    "cert_no": "1075",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The costume of the Koya Pilla is objoctionablo . The portion from her eplering before the group of villagony upto her being brought to Bralimane Naidu bo out.",
+        "length_m": 83.5152
+      }
+    ]
+  }
+]

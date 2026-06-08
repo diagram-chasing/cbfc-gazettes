@@ -1,0 +1,992 @@
+[
+  {
+    "film_title": "Trailer of “The Tunnel of Love”",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer",
+    "cert_no": "2673",
+    "cert_date": "1959-01-19",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "A man and a woman lying on a sofa and making love.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Reference to getting a baby through the device of a married man going to another woman.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Bull, Book And Candle”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "26749",
+    "cert_date": "1959-01-21",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word “Sex” from the title.",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “In Love And War”",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "26750",
+    "cert_date": "1959-01-22",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots where wine is poured on Sue's face by a man.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue about a man going to another woman and cooperation.",
+        "length_m": 4.572
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Legend of ‘The Lost’",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama",
+    "producer": "Henry Hathaway",
+    "cert_no": "26752",
+    "cert_date": "1959-01-22",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots showing skeletons strewn around on land in a dead city.",
+        "length_m": 4.01328
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Home Before Dark\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "26753",
+    "cert_date": "1959-01-23",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Jake kissing Charlotte in bed and her words “I thought it was Arnold”.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Commentary: “A girl who is young, pretty, but who has a desperate need for a man”.",
+        "length_m": 8.5344
+      }
+    ]
+  },
+  {
+    "film_title": "Alias Hunterwali",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "New Angel Films, C/o Shri P.G. Sharma",
+    "cert_no": "26754",
+    "cert_date": "1959-01-23",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue: “Aural ko pirns kaise baitbate ho”.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "song No. 3",
+        "description": "Lines from song: “Ghalli nudi ka meethba pani” and “Mona piye vo kare nachini”, and “Ah to luta ulfat ke khazane”.",
+        "length_m": 14.0208
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Song No. 5: Idiot shots of physical proximity between Asha and Kishore, and the line “Ainu ura leo jawani ke do din”.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Fighting considerably.",
+        "length_m": 20.9984,
+        "length_retained_m": 41.7576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fighting considerably.",
+        "length_m": 15.5448,
+        "length_retained_m": 31.0896
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Fighting considerably.",
+        "length_m": 9.7536,
+        "length_retained_m": 19.5072
+      }
+    ]
+  },
+  {
+    "film_title": "Naqsh-e-Chaar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "R.S. Tara, Kwality Pictures",
+    "cert_no": "26759",
+    "cert_date": "1959-01-23",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots where Riddhri's breasts are exposed when she gets up to give medicine to Mohan.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "In song No. 1, the word “Jawani” from the line “Oh nardino ki hli yuwani, dejakoii apni nahani” is replaced with the approved word “Kahani”.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "In song No. 6, shots where hips of girls are shown moving in a vulgar fashion.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "In song No. 6, shots where a girl is lifted in arms and is held by a male partner on his lap.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "In song No. 6, shots where a girl is swung round by a man.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Anari",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "L.B. Lachman, L.B. Films",
+    "cert_no": "20153",
+    "cert_date": "1959-01-05",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Voluntary deletions.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Voluntary deletions.",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Voluntary deletions.",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Voluntary deletions.",
+        "length_m": 99.9744
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Ki Jhankar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Films Division — Government of India",
+    "cert_no": "21120",
+    "cert_date": "1957-08-12",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletions.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (b)",
+        "description": "Deletions.",
+        "length_m": 71.3232
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deletions.",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletions.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletions.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletions.",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletions.",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Additions.",
+        "length_m": 72.2376
+      }
+    ]
+  },
+  {
+    "film_title": "Nirala",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M. & T. Films Ltd.",
+    "cert_no": "20806",
+    "cert_date": "1959-01-10",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Eliminate from the fourth song all shots of women as being referred to within the purview of 'Aji Chalna Zara Sambhal Ke Kahin Aanchal Na Phalke' and 'Main Bhi Kanwara Tu Bhi Kawari'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the bust view of Poonam in the fifth song under the line - 'Pahle To Ham Karto The Milmil He Baaten'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete Deedi’s words: 'Bhainsiyon Jaisi Shakal Hai'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot allowing Dev Anand carrying Poonam in his arms to the bed.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Namoona",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M. & T. Films Ltd.",
+    "cert_no": "20807",
+    "cert_date": "1959-01-20",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Song No. 1",
+        "description": "Cut out lines from Song No. 1: 'Bheer Diwanon Ki dekh ke haae, Ghori Arbi Ki Arhegi Tange So Tange Bhir Jaonge, Motor Pe Motor Charhu Aegi' and delete vulgar gestures and exaggerated hip movements of the dancer.",
+        "length_m": 39.0144
+      }
+    ]
+  },
+  {
+    "film_title": "Nishana",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M. & T. Films Ltd.",
+    "cert_no": "20808",
+    "cert_date": "1959-01-20",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Put out the two close-ups of Ramayya’s bust in the wall-painting scene.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Cut out the dialogue between Mohan and Radha “Doctor Ka Kya Kaam Hai” “Jabtak Beemar Kapde Na Pahanti Le Chupke Wallin Baith Rahe”.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the reflection on a poor man’s wife as contained in Radha’s words to Kailash “(Bharti Ki Tom— Sabki Sarbaj”.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the following remarks by villagers against Radha: 'Main Hota To Naak Kat Ke Nikalta', 'Aur Agar Tu Naak Na Katata— To Main Apne Ghar Men Rakh Leti', 'Are Ramu— Mauqa Achha Hai— Bahuji Ko Samjhin Ke'— 'Are Ghas Se Poochhega Kaun? — Na, Na Chhez Khareeda — To Achhi Khareedo'.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bedard",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sadabahar Production",
+    "cert_no": "26809",
+    "cert_date": "1959-01-21",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Bed No. 5",
+        "description": "Leela speaking to Chhailmanlal - “Shaili Se Pchalo Kya Nahi Him Jo Shadi Ke Badme Hoga”.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Bed No. 7",
+        "description": "Character of Shyam using Kamla’s money to have a good time with Leela should be changed by making Shyam declare before he leaves the house that on suitable opportunity he would return the money.",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the lines: “Man hun rahoon diwanon ke, heeron men mujko tolo, liked jawani ki raaton kaukupko uhuokn khoh” from song No. 1, sung by 'Jaid'.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “The Unforgiven Years”",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Universal International Films Inc.",
+    "cert_no": "26764",
+    "cert_date": "1959-01-27",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word ‘unashamed’.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a boy and girl standing and lying down and kissing.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Charnon-Ki-Dasi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Krishnan, c/o Chandra Prakash Pictures",
+    "cert_no": "26766",
+    "cert_date": "1959-01-27",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Voluntary deletion.",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "In Love And War",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "A Terry Wald Production",
+    "cert_no": "835",
+    "cert_date": "1959-01-31",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots where a girl dances with her inamorato.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots where a girl is shown kissing continuously a boy.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Silhouette of a nude when she is changing her clothes.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue by Allan to Sue: “The bones of other explorers”.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot where a girl is sitting on a young man’s lap on a chair with drink in her hand.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Expression used by Frankie: “Shot the moon”.",
+        "length_m": 1.46304
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue between Frankie and Lorraine about the Royal Suite.",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Frankie's dialogue to Lorraine: “When do we hit the beach, baby?”.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Frankie's dialogue: “When do we hit the beach”?.",
+        "length_m": 0.73152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Lorraine's dialogue to Frankie: “One crack about the moon, and you’re off to the races”.",
+        "length_m": 0.97536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Frankie's dialogue to Lorraine: “With five thousand on-the-make guys trying to jump over”.",
+        "length_m": 1.31064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Frankie's dialogue: “When do we hit the b”.",
+        "length_m": 1.6764
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Lorraine's dialogue: “I come with all the standard equipment”.",
+        "length_m": 1.1584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Frankie's dialogue to Lorraine: “You could fix everything ...... like that”.",
+        "length_m": 1.31064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue: Frankie — “You got no respect for me”. Lorraine — “Am I going to co-operate are you going to cooperate”.",
+        "length_m": 1.6764
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Lorraine — “He finally hit the beach (Retained out like a light” for continuity)”. Allan’s dialogue — “What a time to pass out”.",
+        "length_m": 1.016
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shots where wine is poured from a siphon on Sue by her lover.",
+        "length_m": 5.1816,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Griha Lakshmi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Raman B. Desai",
+    "cert_no": "26789",
+    "cert_date": "1959-02-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In song No. 2 beginning with the words, ‘Patle Patle’ the following words ‘Ohakhnen vale beshumar’.",
+        "length_m": 25.3008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots of the dancer bending down and thereby focusing attention prominently on breasts.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots where money is thrown to the dancer.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Close-up of the ‘Swastika’.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Considerably the scene where a Tantrik is shown exercising evil spirit from Sukhubai.",
+        "length_m": 46.6344,
+        "length_retained_m": 59.436
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Considerably shots where Vishnu is shown tied to a stake and in the midst of faggots.",
+        "length_m": 3.048,
+        "length_retained_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "The Sheriff of Fractured Jaw",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation",
+    "cert_no": "26947",
+    "cert_date": "1959-02-12",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The reference to Red Indians as ‘Savages’ wherever it occurs.",
+        "length_m": 1.46304
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The reference to drinking of blood from the heart of a buffalo at the adoption ceremony amongst Red Indians.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "When Tibbs is shown three fat Red Indian women from amongst whom, he had to select a wife as adopted son of Red Indian chief, the remark of another Red Indian “They will keep you warm in winter” and Tibb’s question “What about the summer”.",
+        "length_m": 2.286
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The prominent views of Kate and other girls in the dance in transparent nylons.",
+        "length_m": 32.3088,
+        "length_retained_m": 21.336
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of the Sheriff of Fractured Jaw",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation",
+    "cert_no": "26948",
+    "cert_date": "1959-02-12",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Reference to Red Indians as ‘savages’.",
+        "length_m": 0.51816
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The prominent views of Kate and other girls in the dance in transparent nylons.",
+        "length_m": 2.62128,
+        "length_retained_m": 2.31648
+      }
+    ]
+  },
+  {
+    "film_title": "Houseboat",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "Paramount Pictures Corpn,",
+    "cert_no": "26934",
+    "cert_date": "1959-02-09",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Two shots of couples making love in the boats.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The sentence ‘I have not yet given my first performance for a man — any man’ spoken by Cinzia.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Angelo’s dialogue about his habitual profligacy.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "The shot of Tom and Charmian in amorous proximity.",
+        "length_m": 1.6764,
+        "length_retained_m": 1.6764
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Houseboat",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "Paramount Pictures Corpn.",
+    "cert_no": "20930",
+    "cert_date": "1959-02-09",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a man and a girl lying in the boat in an amorous embrace.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "And God Created Woman",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Production I.E.N.A.",
+    "cert_no": "707",
+    "cert_date": "1958-08-14",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot showing Juliette unbuttoning her dress and also on the point of unbuttoning the second button.",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Bell Book And Candle",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Columbia Pictures Corporation Inc.",
+    "cert_no": "20749",
+    "cert_date": "1959-01-21",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Shot of Kim Novak moving forward with a Bell in her hand.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Shot of Kim Novak moving forward with a Book in her hand.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing the hero making love to heroine on the sofa.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Seeta Swayamwar",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Shri Vijay Pictures",
+    "cert_no": "28811",
+    "cert_date": "1959-02-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No). 6 or 9",
+        "description": "Delete all sequences where Raven is showing whipping and kicking Rishis.",
+        "length_m": 12.192
+      }
+    ]
+  },
+  {
+    "film_title": "Baap Bete",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "AVM Productions",
+    "cert_no": "22698",
+    "cert_date": "1959-01-15",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. 1, 5, 6, 8, 11 to 13 and 19",
+        "description": "Voluntary deletions.",
+        "length_m": 366.0672
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reels Nos. 2, 3, 5 to 7, 10 and 15 16 18 ft 19",
+        "description": "Addition.",
+        "length_m": 415.4688
+      }
+    ]
+  },
+  {
+    "film_title": "Gouri Shankar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "MVS Pictures",
+    "cert_no": "22698",
+    "cert_date": "1959-01-15",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "a separate reel",
+        "description": "Addition of Telugu commentary.",
+        "length_m": 213.36
+      }
+    ]
+  },
+  {
+    "film_title": "Annayin Anai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Paragon Pictures",
+    "cert_no": "22817",
+    "cert_date": "1958-08-24",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "Voluntary deletions.",
+        "length_m": 182.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "Voluntary deletions.",
+        "length_m": 182.88
+      }
+    ]
+  },
+  {
+    "film_title": "Nan Solium Raghasiyam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Kasturi Films",
+    "cert_no": "22693",
+    "cert_date": "1959-01-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 12",
+        "description": "Addition of a song, with deletion of the picture of the hero lifting the heroine, whirling her round and placing her down.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 19",
+        "description": "Addition of a song and ending sequence.",
+        "length_m": 40.2336
+      }
+    ]
+  },
+  {
+    "film_title": "Raja Malaya Simhan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Vikram Productions",
+    "cert_no": "22694",
+    "cert_date": "1959-01-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 9",
+        "description": "Addition of a dance-song in colour.",
+        "length_m": 97.536
+      }
+    ]
+  },
+  {
+    "film_title": "Raja Malaya Simha",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Vikram Productions",
+    "cert_no": "22690",
+    "cert_date": "1959-01-10",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 9",
+        "description": "Addition of a dance-song in colour.",
+        "length_m": 97.536
+      }
+    ]
+  },
+  {
+    "film_title": "Lilly",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Ruchtee Pictures",
+    "cert_no": "22881",
+    "cert_date": "1958-12-05",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 17",
+        "description": "Voluntary deletion.",
+        "length_m": 246.888
+      },
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Addition.",
+        "length_m": 213.36
+      }
+    ]
+  },
+  {
+    "film_title": "Baap Bete",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "AVM Productions",
+    "cert_no": "22698",
+    "cert_date": "1959-01-15",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "song No. 2 in Reel No. 7",
+        "description": "Voluntary deletion of five lines from “Prect ki Bagia to Ki Man Mora Jhoom Raha Matwara”.",
+        "length_m": 24.384
+      }
+    ]
+  }
+]

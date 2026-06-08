@@ -1,0 +1,1718 @@
+[
+  {
+    "film_title": "Ilaaj",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Film Finance Corp. EMI London. Ltd., Regent Chambers, Nariman Point, Bombay.",
+    "cert_no": "86505",
+    "cert_date": "12-1-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel U",
+        "description": "first visual of mill chimney with the letters \"Apollo Mills\" on it",
+        "length_m": 1.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "background music in \"Namaa 2 \" sequence (Sound only)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Vishwanath",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Pawan Kumar, Ramayana, Teerace, Juhu, Bombay-54.",
+    "cert_no": "86509",
+    "cert_date": "13-1-78",
+    "endorsement": "U",
+    "original_length_m": 4590.9,
+    "length_deleted_m": 35.22,
+    "final_length_m": 4590.9,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "title card saying that all characters and incidents in the film are fictitious and have no bearing to any living personalities",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "close views of rape scene as also the view of Khokba sadistically watching the rape. Khokha’s watching may be retained to one for continuity",
+        "length_m": 5.35,
+        "length_retained_m": 12.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Impact of fight between Vishwanath and Khokha after the printing machine starts",
+        "length_m": 10.97,
+        "length_retained_m": 3.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV & XVI",
+        "description": "close views of Vishwanath hitting gangsters deleting blood smeared faces and impact of violence in general",
+        "length_m": 18.9,
+        "length_retained_m": 84.5
+      }
+    ]
+  },
+  {
+    "film_title": "Donhi Gharcha Pahuna",
+    "languages": [
+      "Marathi"
+    ],
+    "original_length_m": 3961.08,
+    "final_length_m": 3652.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels IX, X & XII",
+        "description": "various shots",
+        "length_m": 308.69
+      }
+    ]
+  },
+  {
+    "film_title": "The Hidden Treasure",
+    "languages": [
+      "English",
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "original_length_m": 568.43,
+    "final_length_m": 482.43,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I & II",
+        "description": "various shots",
+        "length_m": 86
+      }
+    ]
+  },
+  {
+    "film_title": "Apnapan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 3953.65,
+    "final_length_m": 3938.45,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "Correction of film length",
+        "length_m": 15.2
+      }
+    ]
+  },
+  {
+    "film_title": "Mumta",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "the word 'Har(Jao' (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "dialogues (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VII",
+        "description": "dialogues (Sound only)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Khuahal Parivar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "face of the certificate",
+        "description": "Addition of shots showing offering gifts",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Bhaoocho Lagna",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid for Assamese version of the film, in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "No. 1 Taste and Flavour",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid also for Tamil, Kannada, and Malayalam versions of the film, in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Naldu Bava",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shri M. S. Reddy, Madras.",
+    "cert_no": "79889",
+    "cert_date": "9-1-78",
+    "endorsement": "U",
+    "original_length_m": 3874.31,
+    "final_length_m": 3870.96,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Dancer opening out her bare legs and stretching on carpet. (Replaced close-shot of hero and heroine)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Dancer shaking bust and hips while having leg on chair, and head near stairs (Replaced hero and heroine close shot)",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "shots of dancer on the floor, opening legs and shaking after ABCD. (Replaced close-shot or Mohan Babu and orchestra)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Dancer removing cloth from the lower front portion of her body on words “Enjoy, Enjoy’’. (Replaced long shot of auditorium)",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Dancer arching her body on chair and shaking busts. (Replaced close-shot of Mohan Babu and long shot Of auditorium)",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Dancer caressing thighs and upward movement of hand and shaking, bonding and removing cloth from the lower front portion of her body on BOM, just before switching off light. (Replaced server serving table to table)",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "attempted torture of the boy, to lessen the impact of horror",
+        "length_m": 0,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Aval Thantha Uravu",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "M.N.S. Enterprises, Madras",
+    "cert_no": "79889",
+    "cert_date": "10-1-78",
+    "endorsement": "B",
+    "original_length_m": 3652.42,
+    "final_length_m": 3641.02,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "the words “En vayathlle garbam endru nioattban” spoken by Suruli",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "all shots of Asha and Murali- comparison of waves etc. retaining only Asha leaning on Murali’s chest after taking tablet given by him, till she is brought home by her friends",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "the statement of PubHc Prosecutor Manohar that she is promoted as City Civil Court Magistrate",
+        "length_m": 0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 14",
+        "description": "Establish clearly that Gopal has been properly ‘punished for the heinous crimes committed by him",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Parasuraman",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Raagam Pictures. Madras.",
+    "cert_no": "79894",
+    "cert_date": "10-1-78",
+    "endorsement": "U",
+    "original_length_m": 3956.91,
+    "final_length_m": 3951.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Indecent bust jerks of the dancer during the picturisation of the song. (No replacement)",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Melukohipu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shri Bhaaskara Chitra, Madras.",
+    "cert_no": "79895",
+    "cert_date": "10-1-78",
+    "endorsement": "U",
+    "original_length_m": 4071.5,
+    "final_length_m": 3960.26,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "close-ups of bust jerks of dancer (Halam) shown twice. (each jerk containing two shots (Replaced Chalam close-up and Tabala playing)",
+        "length_m": 1.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Dayanidhi’s statement saying that there was no necessity for maternity homes in the past, but now we can produce as many children as we want",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Dayanidhi’s words ‘Raghupathi Raghav’ whenever the utters them Immediately after committing a Crime. (Reel 5, 1.22 Mts. Reel 8, 0.61 Mts., Reel 9.0.61 Mts., Reel 12, 0.91 Mts, and Reel 14, 1.52 Mts.)",
+        "length_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "entire cabaret dance performed in the club by the scantily clad cabaret dancer, retaining the barest minimum necessary for continuity in long shot only",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "entire episode showing Sanjay Rao who, bearing striking resemblance to Saniay Gandhi, including all reference m dialogues and picturtsation showing a girl being supplied to him, his having come from Delhi, his sanctioning two lakhs for the association, his promise to speak to mother at Delhi and get the necessary sanction etc.",
+        "length_m": 64.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Ramu being whipped by Chitti, retaining only three whips",
+        "length_m": 0,
+        "length_retained_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Vazhthungal",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Pollur C.M. Kasirajan, Madras.",
+    "cert_no": "79896",
+    "cert_date": "11-1-78",
+    "endorsement": "D",
+    "original_length_m": 3847.18,
+    "final_length_m": 3844.38,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "duration of the shot of Vijay lying on Prema behind the bust. (Retained 1.22)",
+        "length_m": 0,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 12",
+        "description": "entire words of song 'Pudhu Muham Tharurom” — and all close and medium shots of the dancer where the movements are indecent. (Replaced long and mid-long shots approved 33.50 Mts) Replaced song-text approved)",
+        "length_m": 35.08,
+        "length_retained_m": 33.5
+      }
+    ]
+  },
+  {
+    "film_title": "Halli Haidhi",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gajendia Productions, Mysore.",
+    "cert_no": "79897",
+    "cert_date": "11-1-78",
+    "endorsement": "U",
+    "original_length_m": 4487.68,
+    "final_length_m": 4485.44,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 8",
+        "description": "attempt at rape of Lakshmi by Ravi in the hotel room, restricting it to three Inserts only, and in the last insert particularly reduce last shot showing Ravi mounted on Lakshmi, retaining only a bares suggestion for continuity, (Replaced shot of dancer)",
+        "length_m": 3.44,
+        "length_retained_m": 3.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "close-up of Sheela’s bust with a mole, while reclining on a sofa. (Replaced Sheela’s long shot)",
+        "length_m": 5.9
+      }
+    ]
+  },
+  {
+    "film_title": "Nizhal Nijamakirath",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "S/Shri P.R. Govindarajap & B. Doraisamy, Hyderabad",
+    "cert_no": "79898",
+    "cert_date": "13-1-78",
+    "endorsement": "U",
+    "original_length_m": 3996.54,
+    "final_length_m": 3981.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "words of Ponamma “Padukkaikku oru aamblllal, panathukku oru aambillai, paarthukka oru aambillai”",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "double-meaning dialogues of Appavoo in the tea-shop when he is teasing Kasi.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Vazha Ninaithal Vaahalam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Sri Ksirekcli Mev Madras.",
+    "cert_no": "75889",
+    "cert_date": "13-1-78",
+    "endorsement": "U",
+    "original_length_m": 3579.36,
+    "final_length_m": 3578.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "word ‘Chandala’ uttered by Vistnarri’s Mrnujcr to the peon.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kudumbam Namukkusreekovil",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Shri T.E. Vasudevan, Madras.",
+    "cert_no": "79900",
+    "cert_date": "13-1-78",
+    "endorsement": "U",
+    "original_length_m": 3904.29,
+    "final_length_m": 3902.22,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "dialogue of Sukumaran : — “Panam Kodutthal adhikarathinde kai neendu neendu varum”",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Satrang Chinestrip-35",
+    "format": "35mm",
+    "producer": "Shri Satisb Kumr, Madras.",
+    "cert_no": "5-1-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is also valid for exhibition of the film with Hindi titles",
+        "length_m": 0.01
+      }
+    ]
+  },
+  {
+    "film_title": "Seven Nights in Japan",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Film Finance Corpn. Ltd., Bombay",
+    "cert_no": "86517",
+    "cert_date": "16-1-78",
+    "endorsement": "U",
+    "original_length_m": 2862.07,
+    "final_length_m": 2834.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "nude shots of Prince George and Sumi before they go to bed",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "nude shots of Prince George and Sumi while they are bathing",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "shots in which Sumi exposes her breasts",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Aakhri Daku",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shanti Sagar, Art Makers, 194, Natraj Studios, An- dhcri-Kurla Road, Bombay-69.",
+    "cert_no": "86544",
+    "cert_date": "19-1-78",
+    "endorsement": "U",
+    "original_length_m": 3876.93,
+    "final_length_m": 3836.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "dialogue ‘Munmbaikatablabajatahoon’ as spoken by a man to the Police Officer (Replaced with approved words). Sound only",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII & IX",
+        "description": "fight between Ranjit and Mangal with spears, in order to reduce the impact of violence. (Length Retained : 45.42 m)",
+        "length_m": 8.2,
+        "length_retained_m": 45.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "fight between Bhola and Thakur on hilltop, deleting hard hitting and gruesome shots. (Length retained : 29.87 m.)",
+        "length_m": 12.5,
+        "length_retained_m": 29.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "comical behaviour of three police constables in the Police outpost. (Length retained : 66.44m)",
+        "length_m": 9.8,
+        "length_retained_m": 66.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "beating up of Bhola by the dacoits. (Length retained : 22.86 m.)",
+        "length_m": 9.7,
+        "length_retained_m": 22.86
+      }
+    ]
+  },
+  {
+    "film_title": "Gharaonda",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Climb Films, 22, Arun Chambers, Tardeo, Bombay-34.",
+    "cert_no": "86545",
+    "cert_date": "19-1-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid also for Tamil, Kannada, and Malayalam versions of the film, in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Nasbandi (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Johar Films Pvt. Ltd., 3-G, Naaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "86561",
+    "cert_date": "21-1-78",
+    "endorsement": "U",
+    "original_length_m": 3981,
+    "final_length_m": 3977.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "lip to lip kiss between Shii Johar and a nurse inside the tent",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Ganesh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "original_length_m": 3999.89,
+    "final_length_m": 3996.54,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "Correction of film length",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "For Adults Only",
+    "format": "35 mm",
+    "original_length_m": 0,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "Addition of English commentary and the replacement of pack shot have been approved.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Labhdayak Funji",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid also for Bengali version of the film in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kabhi Kabhie",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid also for Tamd, Telugu, Kannada, Marathi, Gujarati, Bengali and English version of the film in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Logon Ki Pasand",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is also valid for Marathi, Gujarati, Bengali and Oriya versions of the film in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Bournvita",
+    "languages": [
+      "Eng."
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This Certificate is also valid for Telugu, Hindi, Bengali and Tamil versions of the film in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Colgate Tooth Powder",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 29.87,
+    "final_length_m": 22.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted various shots",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Sahi Tooth powder",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 29.87,
+    "final_length_m": 22.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted various shots",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Jait Re Jait",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 3400.66,
+    "final_length_m": 3339.7,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel Nog. V, XI, XIV",
+        "description": "Deleted various shots",
+        "length_m": 60.96
+      }
+    ]
+  },
+  {
+    "film_title": "Protect Your Teeth And Gums",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 29.87,
+    "final_length_m": 22.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted various shots",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Badiya Mahin Tooth powder",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 29.87,
+    "final_length_m": 22.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted various shots",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Ranger Saheb",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "M/s. Eskay Films 6, Gobinda Chandra Dhar Lane, Calcutta-1",
+    "cert_no": "84608",
+    "cert_date": "30-1-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid for Assamese version of the film, in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Anjaam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Ashok C. Bijalani, Sabloak-Mansion, 16th Road, Khar, Bombay-52.",
+    "cert_no": "86752",
+    "cert_date": "13-2-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid for Hindi, Marathi, Gujarati, Tamil, Telugu, Kannada, Malayalam, Assamese, Oriya, Punjabi, Bengali, Urdu, Sindhi versions.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Story of A Communist",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Central Documentary Film Studios.",
+    "cert_no": "86796",
+    "cert_date": "22-2-78",
+    "endorsement": "U",
+    "original_length_m": 1751,
+    "final_length_m": 1747.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "reference to Amcreial ferusing to sell steel to Russia in the 2nd World War.",
+        "length_m": 3.5
+      }
+    ]
+  },
+  {
+    "film_title": "Kaala Aadmi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "format": "35mm",
+    "producer": "G. S. Poddar & K.M. Poddar, 38-C North Bombay Society, Juhu, Bombay-54.",
+    "cert_no": "86799",
+    "cert_date": "23-2-78",
+    "endorsement": "U",
+    "original_length_m": 3858.45,
+    "final_length_m": 3826.15,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Ill",
+        "description": "fight between Birju and others in the restaurant by deleting gruesome and hard hitting visuals. (Length retained : 19m.)",
+        "length_m": 5.79,
+        "length_retained_m": 19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Ill",
+        "description": "sentence to the effect “Jism aur ruh ki pyas bujha lo\" in the dialogues between the dancing girl and Birju.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "shot in which driver takes out wine bottle from the back.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "close shot of the dancer's thigh on the gambling table.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "shot of exposed thighs of dancer sitting in the foreground.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Dhyanu Bhagat",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Dara Productions, 308, Daravilla, Jnhd, Bombay-54.",
+    "cert_no": "86772",
+    "cert_date": "16-2-78",
+    "endorsement": "U",
+    "original_length_m": 3940.09,
+    "final_length_m": 3901.67,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "mockery by Akthar’s men in the temple",
+        "length_m": 38.42
+      }
+    ]
+  },
+  {
+    "film_title": "Aces High",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Film Finance Corpn Ltd., Regent Chambers, Nariman Point, Bombay-21.",
+    "cert_no": "4302",
+    "cert_date": "16-2-78",
+    "endorsement": "A",
+    "original_length_m": 2939.45,
+    "final_length_m": 2912.05,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "prominent views of exposed/semi-exposed busts of belly in the hotel sequence. (Length retained : 30.84 m.)",
+        "length_m": 33.21,
+        "length_retained_m": 30.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "visuals of flaming body of the gang leader after he is shot at by Greham. (Length retained : 3.05 m.)",
+        "length_m": 6.1,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Sweeny",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "4304",
+    "cert_date": "16-2-78",
+    "endorsement": "A",
+    "original_length_m": 2651.46,
+    "final_length_m": 2635.44,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "shots of the mule dead body of the girl to the barest minimum required for continuity of story",
+        "length_m": 8.02,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "close shots busting of bullets through the bodies and the blood-smeared face of a man ; and reduce the gruesome killings",
+        "length_m": 4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "close shots of exposed breasts of Bianca in bed",
+        "length_m": 4
+      }
+    ]
+  },
+  {
+    "film_title": "Operation 100",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "original_length_m": 302,
+    "final_length_m": 225,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted various shots",
+        "length_m": 77
+      }
+    ]
+  },
+  {
+    "film_title": "Madan Ki Yaaden",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 563,
+    "final_length_m": 486,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted various shots",
+        "length_m": 77
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Ki Saugand",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 4690.87,
+    "final_length_m": 4676.85,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "fight between Jeeva and Jaswant Singh in the Surya Mahal arena",
+        "length_m": 3.96,
+        "length_retained_m": 30
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "firing when Jaswant Singh is fleeing in his aeroplane",
+        "length_m": 2.44,
+        "length_retained_m": 5.49
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "title card approved",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce considerably the stick fight when Jeeva and Kalu are being beaten after they fall on the ground. (Length retained : 24.92 m.)",
+        "length_m": 8.53,
+        "length_retained_m": 24.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the scene where Jaswant Singh beats his own men after they come back defeated. (Length retained : 2.13 m.)",
+        "length_m": 1.22,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Baap Chhe Bete",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 143.26,
+    "final_length_m": 143.2,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "Deleted scene showing Mchmood talking to Lalita Pawarin Marathi, Darasingh in Punjabi and Sarala in Gujarati : Added scenes showing Mchmood talking on phone to three film personalities in Tamil and Kannada",
+        "length_m": 33.53,
+        "length_retained_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Labhadayak Punji",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is also valid for Kannada version of the film in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Haldia Refinery",
+    "languages": [
+      "Eng. & Ben."
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "The Category of the film on the face of the certificate may be read as Documentary instead of Educational.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Indus Valley to Indira Gandhi Part Two",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel!",
+        "description": "Title of the film on the face of the certificate may be read as “Where Centuries Coexist — Part two” alias ‘Indus Valley to Indira Gandhi Part two”.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Poonikatho Punarnirmanam",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 4287.13,
+    "final_length_m": 295.66,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Deleted the sequences regarding devostation in some villages in the coastal Andhra Pradesh.",
+        "length_m": 131.06
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Sahi Tooth Powder",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is also valid for Oriya version of the film in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Nayee Raah",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 197.6,
+    "final_length_m": 60,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "Correction of film length",
+        "length_m": 137.6
+      }
+    ]
+  },
+  {
+    "film_title": "Dui Purush",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Shri Sunil Ram, IB, N. N. Ghosh Lane, Calcutta-40.",
+    "cert_no": "84618",
+    "cert_date": "15-2-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "face of the certificate",
+        "description": "This certificate is valid for Assamese version of the film, in colour.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kannavari Ulu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Apiali Pictures, Madras.",
+    "cert_no": "79943",
+    "cert_date": "20-2-78",
+    "endorsement": "U",
+    "original_length_m": 4264.46,
+    "final_length_m": 4264.46,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "close-up of dancer’s bust jerks and bust cleavage. All close and mid-close shots of dancer’s bare thighs throughout the dance.",
+        "length_m": 7.58
+      }
+    ]
+  },
+  {
+    "film_title": "Allari Bullodu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shri A. Gopalkrishna, Madras.",
+    "cert_no": "79945",
+    "cert_date": "20-2-78",
+    "endorsement": "U",
+    "original_length_m": 4520.79,
+    "final_length_m": 4520.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 4 & 5",
+        "description": "dialogue by Ganapati “Andham Kanapduthcy Adhi Lestunney Untundi\". (Sound only— no replacement)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Avalude Ravukal",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Murali Movies, Madras.",
+    "cert_no": "3371",
+    "cert_date": "17-2-78",
+    "endorsement": "A",
+    "original_length_m": 4153.89,
+    "final_length_m": 4134.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "close up of bare legs of Raji showing upto upper Portion of the thigh in the bathroom",
+        "length_m": 4.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "entire dialogue of Babu and Jayan referring to a girl brought by Jayan, and his suggestion to Babu that he can share her with him, till Jayan asks Babu for a loan of Rs. 25/-",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "rape of Raji by four men on the beach, retaining only the first shot of Raji being pulled down by a man and the last shot where Chand an pulls her skirt down and rescues her.",
+        "length_m": 19.75
+      },
+      {
+        "kind": "replacement",
+        "reel": "Modification — Reel 16",
+        "description": "Modify the end of the story in such a manner that the establishment of the willingness of Raji to go back to her old profession of prostitution for the sake of money is removed from the film. (Addition of re-taken shots 63.09 mts. approved)",
+        "length_m": 50.66,
+        "length_retained_m": 63.09
+      }
+    ]
+  },
+  {
+    "film_title": "Thyagam",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "original_length_m": 4509.82,
+    "final_length_m": 4465.32,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "sequence of Raja suggesting to other burglars the cutting of the telephone wire and connecting it to his telephone and the action on the suggestion",
+        "length_m": 18.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 2",
+        "description": "scene of two burglars molesting the girl. (Retained 5.18)",
+        "length_m": 0,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "torture of the gang member and the. shot showing Kali’s pleasure at the torture",
+        "length_m": 8.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "gesture of Aliapichai after Manorama mentions about Haj pilgrimage for expiating his sins",
+        "length_m": 1.63
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "entire song ‘Adichan’, (Replaced approved text of song)",
+        "length_m": 0,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "dancer jerking her bust indecently under the umbrella. (Replaced deer shot 1.46) dancer jerking her bust indecently near the pillar. (Replaced flower shot 2.05 & 0.80) dancer touching her bust with Mahendra’s hand on the word ‘Thatti Thatti Ketka’",
+        "length_m": 4.31,
+        "length_retained_m": 4.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "sequence of Kali molesting Laila to the bare minimum, especially deleting the shots where he tears her blouse and where they struggle on the cot (Retained 10.67)",
+        "length_m": 40.84,
+        "length_retained_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "close shot of the indecont bust jek by the dancer during the picturisation of the song. (Replaced close shot of Manorama 0.36)",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "entire cabaret sequence in the den. (Part of shot where dancer comes in and last shot (long composite shot retained for continuity)",
+        "length_m": 40.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "words of Kumar ‘Idu kattil, idu unn udambu. . . .Pavadai jakattai kazhattu by Kumar, and the gesture of Kumar and Laila during these dialogues",
+        "length_m": 20.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Kumar beginning to recite Quoran in a flippant way",
+        "length_m": 1.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "words of Kumar ‘Chi-Idu Enn Kulla’",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "words of Anitha ‘Adhu Murattu Vnidhyam’",
+        "length_m": 0.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "shot of Kali killing Arumugam to a suggestion (Retained 1.52)",
+        "length_m": 4.47,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "sequence of Kavori’s torture to just one shot of her being lowered into the well",
+        "length_m": 11.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "impact of the fight between Raja and Kali by deleting all brutal hits & kicks. (Retained 46.94)",
+        "length_m": 11.87,
+        "length_retained_m": 46.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "shot of Raja killing Kali",
+        "length_m": 8.2
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 14",
+        "description": "Modify the end of the story in such a manner that the establishment of the willingness of Raji to go back to her old profession of prostitution for the sake of money is removed from the film. (Modified by commentay)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kiladi Kittu",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shama Sunder Sales Corporation, Mysore.",
+    "cert_no": "79949",
+    "cert_date": "23-2-78",
+    "endorsement": "U",
+    "original_length_m": 4272.43,
+    "final_length_m": 3988.36,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Achanna and Buchanna standing before three girls in the shop, pointing at them, one by one, and mentioning the sizes of their bras, as 26, 36 and 46 — repetition of similar shots with dialogues till one of the girls pushes Achanna's head inside the rack containing cardboard boxes. Achanna’s words, ‘Size nodu avaru navuthane 1 together with visuals showing expression by hand of Achanna. Achanna’s words ‘Maduve Aaga male enu maduthi’, together with visuals showing movement of legs. ‘Ee jodi — ee body — nammfldhu’.",
+        "length_m": 126.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "close-up of bare bosom of dancer in the beginning of the song against the words ‘Ee cheluvu'. close-up of bare bosom of dancer against Ihc words ‘Guttagi Enilla. Rattagi Illella', close-up of dancer's bust jerks with dischevelled hair on BGM-occurring thrice. close-up of bare bosom of dancer and her bust jerks against the words ‘Kangala Holapu’.",
+        "length_m": 9.2
+      }
+    ]
+  },
+  {
+    "film_title": "Ullathil Kuzhanthayadi",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Shri K.S. Sabarinathan, Madras.",
+    "cert_no": "79950",
+    "cert_date": "23-2-78",
+    "endorsement": "U",
+    "original_length_m": 3999.32,
+    "final_length_m": 3984.75,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "actual mixing of whisky with meat by Jambu to dope the dog.",
+        "length_m": 2.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Jambu unbuttoning the blouse of Hema while she is playing with doll, to bare flash, (i.e. retain only the first shot for continuity).",
+        "length_m": 0,
+        "length_retained_m": 11.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "action of Miniamma scratching her palm with forefinger while singing the song words ‘Chunnambu’.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "entire song-text reading ‘Mammuttiyai Tholilcy Vachu, ending with ‘Kaatlai Nalla Uzhudhuvidunga Machane PottaVedhai Poors Mokakkattum' sung by Miniamma in the bed-room, on the nuptial night with Madurai. (Picturisalion in the bed-room on nuptial night is deleted), (124.97 Mf.) (Replaced new picturisation 124.97).",
+        "length_m": 0,
+        "length_retained_m": 124.97
+      }
+    ]
+  },
+  {
+    "film_title": "Vellu Vili",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Chandamani Films, Madras.",
+    "cert_no": "79951",
+    "cert_date": "23-2-78",
+    "endorsement": "U",
+    "original_length_m": 4388.61,
+    "final_length_m": 4075.35,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "attempted rape of Lakshmi by Sreedharan retaining only one shot of their struggle in the begining — delete the subsequent two shots and retain the last portion where Sreedharan hears the voice of his accomplice from outside and goes out.",
+        "length_m": 5.42,
+        "length_retained_m": 2.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "Soman tied behind the jeep being dragged.",
+        "length_m": 4.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "Soman rolling and twisting the Manager on the ground.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Story of A Communist",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Central Documentary Film Studios.",
+    "cert_no": "86796",
+    "cert_date": "22-2-78",
+    "endorsement": "U",
+    "original_length_m": 1751,
+    "final_length_m": 1747.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "reference to Amcreial ferusing to sell steel to Russia in the 2nd World War.",
+        "length_m": 3.5
+      }
+    ]
+  },
+  {
+    "film_title": "Aakhri Daku",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Mr. Shanti Art Makers, 194, Kurla Rd, Andhcri (E), B’bay-69.",
+    "cert_no": "86800",
+    "cert_date": "23-2-78",
+    "endorsement": "U",
+    "original_length_m": 0,
+    "final_length_m": 0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Delete close-ups of front and back views of the Monster. Also delete the views of the frightening skeleton",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "face of the certificate",
+        "description": "Delete sound of fearful screams of the characters",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Bite The Bullet",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd., Metro House, M.G.Road, B’bay-20.",
+    "cert_no": "86784",
+    "cert_date": "18-2-78",
+    "endorsement": "U",
+    "original_length_m": 3666.44,
+    "final_length_m": 3661.87,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "shot of man kissing on the bosom of the woman",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Sawaan Ke Geet",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "R. Bhattacharya, 8-B, Morning Star, Sitladevi Temple Rd, Bombay-16.",
+    "cert_no": "4301",
+    "cert_date": "16-2-78",
+    "endorsement": "A",
+    "original_length_m": 3595.72,
+    "final_length_m": 3566.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "view of Chanda holding the lathi in a suggestive manner when it is extended to him by the policeman",
+        "length_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "shot of a dog attacking Kishan, by deleting the gruesome visuals. (Length retained : 9.20 m.)",
+        "length_m": 3.74,
+        "length_retained_m": 9.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "shot of Chanda taking out apples from his breasts and the reference to the effect that they are warm",
+        "length_m": 3.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "beating up of Kishan by Seth Bhagwandas’s men, by deleting the hard hitting shots. (Length retained : 26.00)",
+        "length_m": 4,
+        "length_retained_m": 26
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "shot of Chanda trying to milk a bull",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "considerably the fight between Kishan and Bhagwandas's men, particularly deleting the visual of putting the garden Scissor on Kishan’s neck and other gruesome and hard hitting shots. (Length retained : 12.00)",
+        "length_m": 9.7,
+        "length_retained_m": 12
+      }
+    ]
+  },
+  {
+    "film_title": "Journey Into Fear",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "4303",
+    "cert_date": "16-2-78",
+    "endorsement": "A",
+    "original_length_m": 2726.13,
+    "final_length_m": 2686.82,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "prominent views of exposed/semi-exposed busts of belly in the hotel sequence. (Length retained : 30.84 m.)",
+        "length_m": 33.21,
+        "length_retained_m": 30.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "considerably the visuals of flaming body of the gang leader after he is shot at by Greham. (Length retained : 3.05 m.)",
+        "length_m": 6.1,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Bandie",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "F. C. Mehra, Eagle Films, 220, Famous Cine Bldg, Mahalaxmi, B’bay-11.",
+    "cert_no": "86785",
+    "cert_date": "20-2-78",
+    "endorsement": "U",
+    "original_length_m": 3966.83,
+    "final_length_m": 3964.63,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce suitably the close views of blood and the visuals showing the sword pierced through Zallm Singh, in order to remove the gruesome impact of killings.",
+        "length_m": 2.2
+      }
+    ]
+  }
+]

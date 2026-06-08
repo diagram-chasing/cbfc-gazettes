@@ -1,0 +1,181 @@
+[
+  {
+    "film_title": "Wonderful Life",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "An Ivy Production",
+    "cert_no": "43165",
+    "cert_date": "8-12-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3107.44,
+    "length_deleted_m": 5.58,
+    "final_length_m": 3101.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From the James Bond sequence, the view of the bare legs of Jenny as she approaches Johnnie, their second passionate kiss while they are lying on the shore and the action of Johnnie in moving his hand on Jenny's legs and stomach.",
+        "length_m": 5.58
+      }
+    ]
+  },
+  {
+    "film_title": "To Kill A Man",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "cert_no": "43166",
+    "cert_date": "8-12-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 52.73,
+    "length_deleted_m": 5.89,
+    "final_length_m": 46.84,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The view of Lynn when she starts undressing as well as the view of her bare back.",
+        "length_m": 5.89
+      }
+    ]
+  },
+  {
+    "film_title": "Dawn At Socorro (Revised International Version)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "34167",
+    "cert_date": "8-12-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 2283.56,
+    "length_deleted_m": 1.06,
+    "final_length_m": 2282.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel F(3 A)",
+        "description": "Near view of the gunman's face in death agony when Wade has shot him down.",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "The Years of Study in Germany",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "43168",
+    "cert_date": "8-12-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 411.0,
+    "length_deleted_m": 1.88,
+    "final_length_m": 409.12,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The underlined words in the following sentence: 'The original spirit has been driven out, but lives on in the free world of the German universities in the West.'",
+        "length_m": 1.88
+      }
+    ]
+  },
+  {
+    "film_title": "Kissin' Cousins",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sam Katzman",
+    "cert_no": "1550",
+    "cert_date": "11-12-1964",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "original_length_m": 2679.19,
+    "length_deleted_m": 5.1,
+    "final_length_m": 2674.09,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2 R)",
+        "description": "The indecorous view of a Kittyhawk girl in yellow blouse with polka dots near a tree.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (AB)",
+        "description": "The indecorous view of the two Kittyhawk girls getting hold of Josh and falling on him, and pressing him down.",
+        "length_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "China Town",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Shakti Samanta",
+    "cert_no": "34900",
+    "cert_date": "8-3-1962",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3983.13,
+    "length_deleted_m": 105.77,
+    "final_length_m": 3877.36,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The song beginning with the words 'Yeh Rang Na Badlega Ulfat Ki Nishani Hai' along with picturisation.",
+        "length_m": 105.77
+      }
+    ]
+  },
+  {
+    "film_title": "Server Sundaram",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "original_length_m": 4603,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletions from Reel Nos. 1, 1L 12 and 16.",
+        "length_m": 164
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 16",
+        "description": "Addition of a dance-song.",
+        "length_m": 146
+      }
+    ]
+  },
+  {
+    "film_title": "Rajkumar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "original_length_m": 4792.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletion from Reel Nos. 2, 3 and 17.",
+        "length_m": 115.24
+      }
+    ]
+  }
+]

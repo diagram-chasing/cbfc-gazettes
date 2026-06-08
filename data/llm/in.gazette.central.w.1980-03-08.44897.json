@@ -1,0 +1,635 @@
+[
+  {
+    "film_title": "Lalvadi Phoolvadi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Filmnagar, 301-Neelam Bldg., Worli Seaface Road, Worli, Bombay-18",
+    "cert_no": "90445",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added a statement at the beginning of the film to the effect that the film is based on a folklore of Saurashtra and all characters are imaginary.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shots showing the amputated hands of Vadi lying on the floor.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Atmaram",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sohanlal Kanwar, 301-Neelam Bldg., Worli Seaface, Worli, Bombay-18",
+    "cert_no": "90447",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduced drastically the fight in the railway compartment between Ranjit Singh and Sher Singh, deleting the scene of strangulation completely, leaving only whatever is absolutely necessary to establish the murder of Ranjit Singh by Sher Singh.",
+        "length_m": 20.8,
+        "length_retained_m": 16.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted close-ups of statue in erotic poses in Kajuraho.",
+        "length_m": 3.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted dialogue: 'Ranjit ki vidya ko bichado apani charpal par. Bina khuli sarab ki bottle hai.'",
+        "length_m": 4.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduced drastically the attempted rape of Ranjit's wife by Sher Singh, leaving only a suggestion.",
+        "length_m": 10.1,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduced fight sequence.",
+        "length_m": 4.7,
+        "length_retained_m": 9.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Deleted vulgar shots in the dance of Prema Narayan.",
+        "length_m": 46.8
+      }
+    ]
+  },
+  {
+    "film_title": "Duniya Meri Jeb Mein",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Ira Films, 230-Famous Cine Bldg., Hains Road, Mahalaxmi, Bombay-11",
+    "cert_no": "90448",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XI, XIII, XIV & XVII",
+        "description": "Reduced considerably the fight sequences, including the sequence in Reel No. XVII where gangsters are trying to kill Karan by their cars.",
+        "length_m": 38.45,
+        "length_retained_m": 24.4
+      }
+    ]
+  },
+  {
+    "film_title": "Moliada",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.G. Road, Bombay",
+    "cert_no": "4546",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the scene of love-making between Frankie and Melinda, deleted two close shots of the sex act where legs of Melinda are seen together with the last three shots of a man peeping through the door and reacting to the act inside.",
+        "length_m": 3.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the scene where the girl is seen licking Tank's body with the tongue, deleted the portions where Tank is not talking on the phone.",
+        "length_m": 6.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "During the final scene between Frankie and Mitch, deleted the shots in which Frankie kicks Mitch on the groin and deleted subsequent shots in which he is shown writhing in pain.",
+        "length_m": 10.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the scene where Frankie and Terry are kissing passionately at the end, deleted the portions where open mouth tongue to tongue kissing is seen.",
+        "length_m": 8.58
+      }
+    ]
+  },
+  {
+    "film_title": "Wood Carvings of Orissa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "89640",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Added a monogram of Films Division.",
+        "length_m": 3.73
+      }
+    ]
+  },
+  {
+    "film_title": "A Loving Tradition",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "88259",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reell",
+        "description": "Added a monogram.",
+        "length_m": 3.02
+      }
+    ]
+  },
+  {
+    "film_title": "Love In Canada",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "89485",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. IX",
+        "description": "Diffused version of the shot of lip to lip kissing during the English song.",
+        "length_m": 1.6
+      }
+    ]
+  },
+  {
+    "film_title": "Sangbad Magazine No. 116",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Information & Cultural Affairs Deptt., Govt. of West Bengal",
+    "cert_no": "89058",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Deleted the scene where a person lying on the ground is being kicked by Police on his face and hands and beaten on his feet.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Deleted the scene where a person is hung by his legs by the Police, deleted shots showing oozing of blood from his mouth.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In the scene where a stick swings in front of partly burnt face of a sitting person, deleted shots showing oozing of blood from his mouth.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jaruri Abasthar Doohswapna",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "M/s. Ganachitra, 87, Lenin Sarani, Calcutta-700013",
+    "cert_no": "89068",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Deleted the scene where a person lying on the ground is being kicked by Police on his face and hands and beaten on his feet.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Deleted the scene where a person is hung by his legs by the Police, deleted shots showing oozing of blood from his mouth.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In the scene where a stick swings in front of partly burnt face of a sitting person, deleted shots showing oozing of blood from his mouth.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Panchakalayani",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "U.M.M. Productions, Madras",
+    "cert_no": "81137",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the shot of the exposed thighs of the heroine as she leaps towards the rapist.",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the shot of the girl's breasts seen through her wet blouse.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the shot of the exposed hips of the heroine seen through the wet sari.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the shot of the exposed hips of the heroine seen through the wet sari as Kalyani nuzzles her.",
+        "length_m": 2.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "In the song sequence, deleted the shot of the hero placing his head on the heroine's breast and then rubbing his face alongside her body, replaced with comedian close-up and sea shore.",
+        "length_m": 2.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Deleted the shot of the hero and the heroine rolling over each other in the water, replaced with close-up of comedian and sea shore.",
+        "length_m": 2.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Deleted the silhouette shot of the hero and the heroine kissing.",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "14 & 15",
+        "description": "Deleted all the shots of the performer's cheeks, head, tongue, eye etc. being pierced with needles and other implements. Reduced the shot of the religious function, retaining only the minimum necessary for continuity.",
+        "length_m": 8.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Reduced the scene of the hut burning with the three villains trapped inside.",
+        "length_m": 3.48
+      }
+    ]
+  },
+  {
+    "film_title": "Maavoollo Mahasivudu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Geeta Cine Enterprises, Madras",
+    "cert_no": "81143",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduced the molestation of Kamala by Gopal to a suggestion, retaining only the first shot of Kamala's struggle and the last shot where she cries for Ravi.",
+        "length_m": 125.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deleted the entire text of song No. 3 beginning with 'Ped depuram aminai' together with complete dance picturisation accompanying the above song.",
+        "length_m": 133.43
+      }
+    ]
+  },
+  {
+    "film_title": "Simhasanam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Bhayani Rajeswari Arts, Madras",
+    "cert_no": "81140",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Deleted the close-up shots of the lady dancer when the camera lingers on a low-angle to reveal the deep inside of the thighs, replaced with close-up of Sayithri.",
+        "length_m": 3.59
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Deleted the visual showing Madhavi caressing the pounding stick immediately after the dream sequence where Madhavi and Gopalan are shown making love in the bedroom, replaced with shot of Madhavi weaving coconut leaves.",
+        "length_m": 6.97
+      }
+    ]
+  },
+  {
+    "film_title": "Kamala",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "N.V. Ramaswamy, Bangalore",
+    "cert_no": "81138",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted Kamala's words addressed to Ramu 'Banni kelga mugi sona'.",
+        "length_m": 4.36
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "In the bathroom scene, deleted frontal shots of Kamala under shower, covering her bare breasts with her hands (2 shots), replaced with close-up of Kamala's face.",
+        "length_m": 1.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the boy putting his leg across (girl) Kamala's body while lying next to her on the pavement.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Deleted camera zooming on Kamala's breasts (side-angle shots) while she is lying on the ground, replaced with long-shot of Kamala.",
+        "length_m": 3.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Deleted Kamala and Chandru rolling on each other in the garden (duet song sequence), replaced with cloud shot.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deleted Kamala upbuttoning her blouse before Raghu in the lodge and also her subsequent shots in 'bra only' exposing bare bosom with Raghu in the background.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deleted rape of Kamala by goondas including the struggle, retaining only a suggestion showing the first shot of Kamala being thrown onto bed in the beginning and the last shot showing Kamala losing her consciousness.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "In the bathroom scene, deleted frontal shot of Kamala under shower covering her bare breasts with her hands, replaced with close-up of Kamala's face.",
+        "length_m": 2.61
+      }
+    ]
+  },
+  {
+    "film_title": "Yakshi Paru",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Evershine Productions, Madras",
+    "cert_no": "81150",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deleted police constable sitting on another constable's stomach and rolling a stick over his stomach.",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted close-up of Chellappan's face with emphasis on deformity of his right eye wherever it occurs.",
+        "length_m": 5.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Reduced to a suggestion Shekar attempting to rape Parvathi's daughter in front of Parvathi.",
+        "length_m": 13.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "In the dance, deleted the following movements of the female dancer: close-up exposing bare thighs (low angle shot revealing undergarments), male dancer seen between legs of female dancer, close-up of bust cleavage of female dancer wherever it occurs. Replaced with long-shot of tree.",
+        "length_m": 8.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Reduced Thampi hitting Gopalan with lampstand to a suggestion.",
+        "length_m": 5.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Deleted close-up of Appu hanging, retaining only one long shot for continuity.",
+        "length_m": 20.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Reduced the fight in and outside the burning hut.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Reduced Paru hitting Thampi with a lampstand to a suggestion only.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Reduced flash-back of Thampi hitting Gopalan with a lampstand to a suggestion only.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Deleted close-up of Paru's blood-smeared face.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Deleted close-up of Thampi's blood-smeared face.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Rahiya Ratri",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Partly colour",
+    "format": "35mm",
+    "producer": "Junaranjin Pictures, Bangalore",
+    "cert_no": "3663",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted the entire bathroom scene showing girls clad in scanty and revealing clothes.",
+        "length_m": 17.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Deleted all prominent bust exposures of a girl on top of the wardrobe.",
+        "length_m": 13.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted close-ups of bust cleavage of Rama wherever it occurs.",
+        "length_m": 21.0
+      }
+    ]
+  },
+  {
+    "film_title": "Ennadı Meenaksbi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sri Dhanalakshmi Creations, Madras",
+    "cert_no": "3664",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the shot of Raja waking up in bed with four girls.",
+        "length_m": 19.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted the shot of the girl chewing the savoury.",
+        "length_m": 15.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted the shots showing the girl raising her leg, revealing her thighs when she gets up from the sofa.",
+        "length_m": 50.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Deleted Meenakshi and Raja rolling over each other in the dream sequence, replaced with boat and sunrise.",
+        "length_m": 4.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the words 'Audayil ennadi aadudu Meenakshi' wherever it occurs in the text of song No. 1 (first line), replaced with approved words.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted all dialogues and visuals of gangsters with Meenakshi up to the beginning of the song in the gangsters' trolly.",
+        "length_m": 181.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted the words 'Scrazhai poor Rendu scvvanan non Cadru itaatuu udalile', replaced with approved words from the text of Song No. sung against the picturisation of the above dance.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Threat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Film Finance Corporation",
+    "cert_no": "91289",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the views of bare breasts of woman.",
+        "length_m": 0.81
+      }
+    ]
+  },
+  {
+    "film_title": "The Tough Ones",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Amar Kakkad, Audio Visual Aids",
+    "cert_no": "91288",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Deleted views of bottom of a woman seen through wet shirt, replaced with approved shot.",
+        "length_m": 1.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Deleted buttoning up of front portion of the jean with zip by a person, replaced with approved shot.",
+        "length_m": 0.8
+      }
+    ]
+  }
+]

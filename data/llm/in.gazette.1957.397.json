@@ -1,0 +1,612 @@
+[
+  {
+    "film_title": "Desert Fantasy",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Movietone Inc., U.S.A.",
+    "cert_no": "20609",
+    "cert_date": "11-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: \"Under an oath to Allah they swear\"",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: \"in which one pledges a religion, oath to win every trade and another believes a handful of good life is worth a wine-cask full of money\"",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: \"They believe hurry is good only for chasing flies\"",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Jeevan Sathi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Dhanwant S. Shah",
+    "cert_no": "20691",
+    "cert_date": "13-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "All references to Pt. Jawaharilal Nehru in image No. 2",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue between the mother and the child whereby it is brought home to the child by the mother that the father has built the wall in the hall as he was no longer well-inclined towards them",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue between the child and the Ayah wherein the child expresses his grief on his father's antipathy and the ayah stresses factum of the wall in this respect",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Harish's dialogue where he shows his anxiety to avoid Pohoo taking cognizance of the shooting",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Janam Janam Ke Phere",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mukti Films",
+    "cert_no": "20692",
+    "cert_date": "14-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot where a snake is thrown at a man",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of the three deities",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a cobra emitting fire",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Boy On A Dolphin",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation, U.S.A.",
+    "cert_no": "20533",
+    "cert_date": "21-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of thigh exposure when Phaedra is seen lying down on a couch",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of Phaedra when in wet clothes which are very transparent",
+        "length_m": 10.36,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The kissing of Phaedra and James Didier at the end of the reel",
+        "length_m": 1.22,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Boy On A Dolphin",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation, U.S.A.",
+    "cert_no": "20534",
+    "cert_date": "21-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shot of Phaedra when in wet clothes which are very transparent",
+        "length_m": 0.37,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Jeevan Sathi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Dhanwant S. Shah",
+    "cert_no": "20691",
+    "cert_date": "13-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "The word \"Bahadurlal\" five times in song No. 1"
+      }
+    ]
+  },
+  {
+    "film_title": "Aladdin And The Wonderful Lamp",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Basant Pictures",
+    "cert_no": "20483",
+    "cert_date": "11-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Dubbing's whipping of Sultan and Aladdin",
+        "length_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Other faces of djinn in a row in close-ups",
+        "length_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Belly jerking and hipswaying of female dancer when dancing alone in the Durbar dance (Nearest to the camera)",
+        "length_m": 8.84
+      }
+    ]
+  },
+  {
+    "film_title": "Silver King",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Dhanpat Rai",
+    "cert_no": "20697",
+    "cert_date": "17-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Following lines from song No. 3 \"Pyase paani poo le\": \"Aisi hawa, aina nagina Tujhko mijega kanon?\", \"Aanujh men khhokar dhundhle dono jahan\", \"Mino ko kurta ja hile vasile\"",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shot where Tiger's mouth is stretched by Silver King",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The following lines from Song No. 4: \"Anau na pun mere joovan ka Bath gori\", \"Aana nu pas more, rohano ab dur piya, uski sft7ii nai ye jo, tumne kuaur kiva. An hoba maujiu Itiya, maJne kuaur klya Tumno Lynn ghayal nioro dilko hujur Liya\"",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where a man is dragged when tied to a horse",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Musafir",
+    "languages": [
+      "Hindi"
+    ],
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The portion of the shot at the end where Rajore asks the tea boy \"who plays the violin if?\"",
+        "length_m": 5.49
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Story number two is taken to the place of story number three and story number three is taken to the place of story number two. The reels are affected as follows: Reel No. 11 changed to Reel No. GL, Reel No. 12 changed to Reel No. 7, Reel No. 13 changed to Reel No. 8, Reel No. 14 changed to Reel No. 9, Reel No. 15 changed to Reel No. 10, Reel No. 16 changed to Reel No. 11."
+      }
+    ]
+  },
+  {
+    "film_title": "Bandi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sree Pictures",
+    "cert_no": "20696",
+    "cert_date": "17-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VII",
+        "description": "Close shot of Mala inside the car putting a pillow under the head of Shankar. Mala’s father is also in the scene"
+      }
+    ]
+  },
+  {
+    "film_title": "Bhola Shankar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Famous Pictures",
+    "cert_no": "20400",
+    "cert_date": "17-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Cut out all shots in the Bhang Scene, showing the crushing of Bhang and drinking",
+        "length_m": 21.95
+      }
+    ]
+  },
+  {
+    "film_title": "Ramsbottom Rides Again",
+    "languages": [
+      "English"
+    ],
+    "producer": "Lion International films Ltd., U.K.",
+    "cert_no": "20740",
+    "cert_date": "24-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The following dialogues of the male servant to Charlie: \"Let can be done in five minutes\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "\"I am boiling\"",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "International Police",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Paramount Pictures Corporation, U.S.A.",
+    "cert_no": "20712",
+    "cert_date": "25-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The close shot of the waiter's face with tortured expression",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shots in which the legs and thighs of the female dancers are exposed prominently",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shots in which street walkers are shown soliciting",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Jalti Nishani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Emsheth Productions",
+    "cert_no": "20747",
+    "cert_date": "20-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Shot where a man approaches Naznin with red hot irons in his hand to singe her eyes",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Shots of Strangulation twice",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "All shots where Sitara is shown tied to the stake",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "All shots where wooden blocks and splinters around stake are being set on fire and leap up from them except the last shot for continuity where the Vodi orders the fire to be lit and logs are shown burning",
+        "length_m": 22.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "All shots where the burning of Vazir is established",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "International Police",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "523",
+    "cert_date": "25-6-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Before the main title, the close shot of McNally strangling a girl",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the scene in which Salto tries to criminally assault (ima, shots in which they fall together on to the floor and she is struggling",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the night club scene, all shots in which the legs and thighs of the female dancers are exposed prominently",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI do VII",
+        "description": "The last shot in reel 6 and the first shot in reel 7, in which street walkers are shown soliciting",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In the night club, the opening close shots of the dancing girl (in black dress) in which her bust is exposed prominently",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The first three shots showing the welding operations of the refrigerator and removal of contraband packages from it",
+        "length_m": 22.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Scene in which Strogis is man-handling the night club waitress in her apartment particularly deleting close shots of the waitress’s face with tortured expression",
+        "length_m": 6.4,
+        "length_retained_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Guns of Fort Petticoat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "525",
+    "cert_date": "28-6-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The shot in which Kettle’s body is seen being hung by the rope after he is shot by the Mexican",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "To a flash the shot in which Mary is hit in the back by arrow and she is seen collapsing to the ground",
+        "length_m": 1.83,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Jalti Nishani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Emsheth Productions",
+    "cert_no": "20747",
+    "cert_date": "26-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "In song No. 8 \"Jalnc laga pyar...\""
+      }
+    ]
+  },
+  {
+    "film_title": "Silver King",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Dhanpat Rai",
+    "cert_no": "20697",
+    "cert_date": "17-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Sound track measuring: \"Marke Na Jitia, dilko kabhina gum dona ae Rajoda\"",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "\"Gaa mast ho kar khwahon men khokor itizko hai jina yaha\"",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "\"Milne ke kart* ja rang Rangilo\"",
+        "length_m": 16.46
+      }
+    ]
+  },
+  {
+    "film_title": "Jungle Stampede",
+    "languages": [
+      "English"
+    ],
+    "producer": "Republic Pictures, U.S.A.",
+    "cert_no": "20813",
+    "cert_date": "24-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the scene in the pygmy village, entirely the dance performed by the pygmy women and men and shots in which the pygmy women are shown with uncovered busts",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the same sequence from the commentary the references such as \"Pygmy village\", \"stinking\" and the \"Hands of the pygmy being unsanitary\"",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The entire sequence of Masai wedding, including the preparations for it, till the entry of bride and bridegroom in the bridal suite",
+        "length_m": 79.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "In the scene in which an African member of the hunting party is seen running and falling down when pursued by a wild elephant, to a dash the close views of his agonised face and screams after his falling",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "In the scene in which the African assistant is attacked by the black leopard to a flash the close views and violent screamings of the African",
+        "length_m": 0.91,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Nilachaley Mahaprabhu",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Uday Chitra Pratisthan",
+    "cert_no": "12870",
+    "cert_date": "26-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No 10",
+        "description": "The following conversation between Chaitanya and Devadasi: Mahaprabhu - \"Ke tumi nan 9\"",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No 10",
+        "description": "Mahaprabhu - \"Samanya to tumi\" to \"4pm Tnpta? Tabe by Devadasi\"",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No 10",
+        "description": "Mahaprabhu - 'Ami tomar' to 'toman janya'",
+        "length_m": 25.3
+      }
+    ]
+  },
+  {
+    "film_title": "Raastar Chheley",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Ranjan Pictures Private Ltd.",
+    "cert_no": "12865",
+    "cert_date": "26-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 6",
+        "description": "Reduce to the minimum necessary for continuity the shots showing Raja striking Lallu repeatedly with a stone until he is killed",
+        "length_m": 2.74,
+        "length_retained_m": 2.74
+      }
+    ]
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "film_title": "The Racers",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Film Corporation, U.S.A.",
+    "cert_no": "13550",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "View of Nicole with exposed bosom and between the busts, and reflections in the mirror, when she is in the dressing room.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "View of Nicole with exposed bosom and between the busts in the dressing room when she is in a light blue dress, and in the scene of cuddling, caressing, and kissing Nicole and Gino.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Inserts of a lady in a dark sky-blue dress with exposed bosom and between the busts at the dining table.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Pirates of Tripoli",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "13561",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of Karfui and Rhea with exposed flesh of their worn and parting between the busts; similar views of the girl in the bath of ladies described as slaves.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reference to 'taking upstairs' and Gadriau saying he would take anybody upstairs for a mild.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the murder of the palace guards, the actual contact of the dagger point with the sepoy's body when Hammid shook it at the guard's chest.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Reference to 'finding a target in the dark'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Reference to 'bundling in the bed' by Hadrian, her getting into Karjan's blanket and later telling her if she was warm.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "The bout of the double pointed dagger, omitting the shot of blood on the face of one of the lieutenants.",
+        "length_m": 0.029,
+        "length_retained_m": 0.021
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The death of Rhea by Malek's spy, omitting the actual plunge of the dagger below the belt.",
+        "length_m": 0.0012,
+        "length_retained_m": 0.00036
+      }
+    ]
+  },
+  {
+    "film_title": "Kuldaiyat",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Dinkar Chitra, 208B, Tardeo Road, Bombay 7.",
+    "cert_no": "13552",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words 'Pay kadhala vijareotoon'.",
+        "length_m": 0.0015
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The words 'Keaar lthe ahe tovar sadhoon ghe 11' and 'Naykm mahnje potgi glieoon rahanari bayko navhe'.",
+        "length_m": 0.0024
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The gesture of the dancer (Kesar) turning her thumb towards the middle of her chest, when she sings the line 'Naj&i< n&gulclachagend mara thud'.",
+        "length_m": 0.0009
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "The lifting and kidnapping of Kesar by Kaloo to a flash, omitting his holding her in his arms with his face turned downwards towards the audience.",
+        "length_m": 0.0015
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The wailing and weeping of the mother, daughter and son over the dead body of Appaji, reducing it to only a view of the blood-stained face of the deceased.",
+        "length_m": 0.0048,
+        "length_retained_m": 0.0033
+      }
+    ]
+  },
+  {
+    "film_title": "Cannibal Attack",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "13555",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II, IV, V, VI to VII",
+        "description": "All shots of Luora with emphasis whilst facing the camera or in profile, and all her shots with flush of her bosom and parting between the busts exposed.",
+        "length_m": 0.2128
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "The thrusting of the dagger into the sides and body of the leopard, the underwater fight between the man and the crocodile, and some of the twistings and turnings of the man and the crocodile above and below the surface of water.",
+        "length_m": 0.0072,
+        "length_retained_m": 0.0062
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The fight on boats and rafts and in water; also, the fight between Jungle Jim and Rovak.",
+        "length_m": 0.0155,
+        "length_retained_m": 0.015
+      }
+    ]
+  },
+  {
+    "film_title": "Treasure Trailer of 'Beau Brummell'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "13554",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near views of female characters where the flesh, or parting of the hollow, or the bulges of the bosom are prominently visible.",
+        "length_m": 0.0045
+      }
+    ]
+  },
+  {
+    "film_title": "Nav-Ratri",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bhagyodaya Pictures, 7, Kamani House, Pedder Road, Bombay 26.",
+    "cert_no": "13558",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The sentences 'Tumhare vanvan raska pyiwia ok bhramar' and 'Nari ka nikhara hua mop purunh ko nlrlajja bannta hai'.",
+        "length_m": 0.0024
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Reference to '(Via] bjfcna' in the sentence 'Jls taruh aaj atp Tiunankhoiiko snmno iskl laaj loot rahe ham iai tarah agar apki ankhonke samne koi mori lafti lootne lage to aap kyu karengo V'.",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Reference to 'Jawani' in the sentence 'Jawani kbaknnn nnlui hai'.",
+        "length_m": 0.0003
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Reference to 'Laaj lootna' in the sentence 'M iln up n ankhun ko munns ek wtree ki laaj kabhi lootuo nahin doongi'.",
+        "length_m": 0.0006
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Reference to 'Mad-ntast yauvan ka pyasa' in the sentence 'Mahish nundarstriyon ko pran ka bhookha nahin, unke madmaal yauvan ka pypftu hm'.",
+        "length_m": 0.0009
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The words 'Htriyoil so bhog vilas karta raho'.",
+        "length_m": 0.0012
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Views of Suryanani's hands smeared with blood after she falls on her husband who is struck down by Mahishasur.",
+        "length_m": 0.0012
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "The words 'Toro satitva ka gala ghont dota' and 'Tere Hutitvn pm rneiit var ahhi hogu'.",
+        "length_m": 0.0033
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Reference to 'Laaj lootua' in the sentence 'Voh kayar n&h n In 1 Jo apm patm ki laaj lutno ke? huad bhi zinda rohna pasand kare'.",
+        "length_m": 0.00075
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Views of Suryanani with her uncovered corpse of her husband stretched in her arms and approaching the camera.",
+        "length_m": 0.0171
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably the maltreatment of Lord Indra and the polling by people, omitting altogether the kicks by Mahishasur's men and the shots of whipping to two or three only.",
+        "length_m": 0.027,
+        "length_retained_m": 0.0021
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "The process of blinding Siratiyu's father, omitting the shots of his head with blinded eyes and protruding injured eyelids.",
+        "length_m": 0.009
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "The shots of spikes being thrust into a man in the background.",
+        "length_m": 0.0063,
+        "length_retained_m": 0.0063
+      }
+    ]
+  },
+  {
+    "film_title": "Shahi Mehman",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Naez Films, Sri Sound Studios, Dadar, Bombay.",
+    "cert_no": "13560",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In song No. 2, 'Raat aai hai...', prominent views of the dancer with emphasized bust shot covered by dupatta on her garments which are prominently outlined, especially in profile in some of her movements.",
+        "length_m": 0.033
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the song 'Aaye aanum mere', the hip-swaying and waist-waving movements of the dancer and all her prominent views with emphasized busts pointedly outlined especially in profile and without the dupatta properly covering her undergarment in the inserts.",
+        "length_m": 0.0609
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The inserts of the emperor biting an apple or eating grapes which reminded starkly his above-mentioned ways in profile and pointedly outlined.",
+        "length_m": 0.0015
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words 'Khubaurat laundlypn ke daman lv'.",
+        "length_m": 0.0015
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Abdulla saying to 'Maulana' (Keeper of royal guest house) 'Inch ex itrun* uek km in kiyu bat* followed by immediate insert of bevy of palace girls at whom Abdulla is looking.",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII, V, VI, VIII",
+        "description": "All prominent views of Laila with shining embroidery on her blouse at the nipple of her breasts visible through her transparent saree (in company with Hasina, Abdullah and Janbaaz).",
+        "length_m": 0.0867
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In the dance accompanying song 'Rukhsana parda to hata', all prominent views of the lady dancer with her busts prominently outlined through the thin transparent covering on her blouse.",
+        "length_m": 0.0132
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The words 'Bachnhe ho taklif hotl hai' spoken by Aka to Sherdil when the latter is on his belly during the fight with Janbaaz.",
+        "length_m": 0.0021
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The words 'Rehlu ki zeenat banane men fakhar mohooott nahin karti' spoken by Alamgir with Hasina.",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII & IX",
+        "description": "All prominent views of Rukhsana in shining satin choli with one bust pointedly outlined especially in profile and whenever she turns without her saree possibly covering her blouse. Her similar views in sequences with Hasina and especially when she speaks dialogue in close-up and later on in sequences with Alamgir when he takes her leave as well as her views with flesh of her bosom visible when she is pulling the rope which is cut by Alamgir.",
+        "length_m": 0.1464
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The shot of fallen man being speared.",
+        "length_m": 0.00054
+      },
+      {
+        "kind": "deletion",
+        "reel": "V, VII & VIII",
+        "description": "The words 'Muhabbat ki sej pe sula doe jive', 'Mard kab buddha hota half; Haeeenon pe jawani loot* doon, jawani to kya tindagani loota doon', 'Afchir ye apnl khidmat ke liye to rakhi gayi hain', and 'L K*pa<ie ut-a&r kar' and the word 'Jism' in the sentence 'Jab aubah sham kapade ntaar kar kafllomeu kasrnt kart* tha tab darjno ladkiyan is fauladl jlsnkn dekhti lehti thoen'.",
+        "length_m": 0.0108
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably shots of Alamgir in a drunken state amidst group of girls, cuddling with two girls on either side and touching the chins of two girls together with views of emphasized busts of the girl on his left, with her saree not properly covering her blouse at the breasts which are prominently outlined.",
+        "length_m": 0.0336,
+        "length_retained_m": 0.03048
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII & IX",
+        "description": "Alamgir cuddling Rukhsana.",
+        "length_m": 0.0018,
+        "length_retained_m": 0.0042
+      }
+    ]
+  },
+  {
+    "film_title": "La Respectueuse",
+    "languages": [
+      "French"
+    ],
+    "producer": "Films Mamean, Paris, France.",
+    "cert_no": "347",
+    "cert_date": "4-7-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The words 'These negroes, You will get used to them'.",
+        "length_m": 0.0023
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "A drunken man patting Lizzie on the buttocks.",
+        "length_m": 0.00039
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV & V",
+        "description": "A man (the owner of the car) in Lizzie's apartment kicking her for the diet, second, third time when she is lying in bed; in the same sequence the suggestive shutting of windows, pulling down of blinds and Lizzie's and the customer's undressing.",
+        "length_m": 0.028
+      },
+      {
+        "kind": "deletion",
+        "reel": "V & VI",
+        "description": "Lizzie opening the button and caressing the chest of a man, kissing him, her customer saying 'Too much light'. Lizzie lying in the bed and a man leaning upon her and kissing and caressing her; the man and Lizzie shown sleeping together in the morning.",
+        "length_m": 0.04115
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI & VII",
+        "description": "Lizzie saying 'Next morning I always like to clean up, wash and take a bath'. 'You kissed me everywhere my breasts — are they worth this?' 'You did not have to sleep with me also', the dialogue, 'Are you satisfied? for what? Oh that'.",
+        "length_m": 0.0105
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "The dance where Lizzie and Teddy are dancing cheek to cheek and body to body.",
+        "length_m": 0.0032,
+        "length_retained_m": 0.0066
+      }
+    ]
+  },
+  {
+    "film_title": "Liklion Mon Ek",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chandulal Rovji Shah, Kusum Niwas, Shivaji Park, Bombay 28.",
+    "cert_no": "13332",
+    "cert_date": "27-5-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Sync between Atma and his mother wherein he informs her of his proposed visit to Boluhav at request of the Seth.",
+        "length_m": 0.0366
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Scene between Atma and Chiranjilal concerning money matters.",
+        "length_m": 0.03048
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Scene of Kamini with Atma wherein she orders for fruits etc.",
+        "length_m": 0.039
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Scene of Kamini with Atma wherein she induces him to sit with her.",
+        "length_m": 0.0396
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Scene showing Atma repaying money to Munim.",
+        "length_m": 0.0064
+      }
+    ]
+  },
+  {
+    "film_title": "Munimji",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Filmistan Ltd., 11/13, Botawala Bldg., Post Box No. 247, Bombay 1.",
+    "cert_no": "13548",
+    "cert_date": "1-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Part of the pronunciation of song 'Nam khoj r o khoyo' (Corresponding sound portion of the song has been shifted to the next silent scene of Alagar and Rupa).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Stanza 'Ab siath na guzrongo ham' of song 'Jcewau ko satar m mi'.",
+        "length_m": 0.156
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "Ratan and Rupa clapping.",
+        "length_m": 0.0061
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Two songs in succession, 'Sajan bin neend na aaye' and 'Zindagl lmi zmda'.",
+        "length_m": 0.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Stanza of Captain Inspector, Rupa and others planning arrest of Kalighora and parting scene of Amur and Rupa.",
+        "length_m": 0.0326
+      }
+    ]
+  },
+  {
+    "film_title": "Ha. Ha. Hi. Hi. Hoo. Hoo.",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Raja Nene",
+    "cert_no": "13281",
+    "cert_date": "23-6-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Chaupatlal asking Brijesh to leave his office.",
+        "length_m": 0.032
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Radha reading letter in mother's presence.",
+        "length_m": 0.03048
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Okaupatlal's speech preceding the song 'Dil uda'.",
+        "length_m": 0.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Okaupatlal's speech preceding the song 'O main hoon postman'.",
+        "length_m": 0.036
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Kamala hearing sketch at the time of marriage of Kumar.",
+        "length_m": 0.067
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Chaupatlal's speech after the marriage of Kumar.",
+        "length_m": 0.0457
+      }
+    ]
+  },
+  {
+    "film_title": "Oherapakura Chedovu",
+    "languages": [
+      "Telegu"
+    ],
+    "producer": "M/s. Bhaskar Productions, Madras.",
+    "cert_no": "12007-U",
+    "cert_date": "4-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6 (a)",
+        "description": "Picture of Menaka at the Bar, before her dance, and the picture and dialogue after the dance when Dayanidhi takes her away.",
+        "length_m": 0.0387
+      },
+      {
+        "kind": "deletion",
+        "reel": "6 (b)",
+        "description": "In the dance-song: the word 'nmna' (our) whenever it is heard, with reference to vyaparani, and the last verse in entirety, including the picture of Manuka hiccuping in a drunken manner (the words meaning: If you want to be something in society, practice drinking... if you want to have friends, collect friends on the pretext of playing cards).",
+        "length_m": 0.0387
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "When Anand comes to Menaka's house, delete Menaka's mother saying 'Women these days, like flowers, if handled, wither away'.",
+        "length_m": 0.0061
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Entire sequence of Menaka, Dayanidhi and Arnold playing cards, including the dialogue referring to queens having been exchanged to king of hearts, his (Anand's) getting perplexed if you pressed him hard, if you (Menaka) get excited, we too got excited.",
+        "length_m": 0.0909
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Entire sequence, picture and dialogue, of the picnic, from the panning shot of the drinks spread on the ground, Dayanidhi and Anand drinking and behaving in a drunken manner, Mohan and Dayanidhi fighting with Anand's drunken conversation as inserts, Dayanidhi vomiting. Anand and Dayanidhi teetering in a drunken manner up to and including their embracing and rolling on the ground saying 'This is swargam'.",
+        "length_m": 0.4845
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "After Menaka returns, Dayanidhi's statement 'From the days of Sri Natha, it has been usual for art-lovers to perform kanukabhishekam for artists (Kalavanthula)'.",
+        "length_m": 0.0003
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "In the song of Rita and Pithambaram dancing, delete the lines of Sita 'Mother is not in town — there is no dearth of money', and Pithambaram 'Therefore let us enjoy ourselves in such fashion that the world is astonished'.",
+        "length_m": 0.0125
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "When Pithambaram and Sita go to Digambar, delete Pithambaram saying 'Let not these nude arts be for day-dreaming only' (Digambara kala).",
+        "length_m": 0.0015
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the picture and dialogue of Anand and Menaka seated embracing each other, before Menaka's mother enters in Punjabi dress.",
+        "length_m": 0.0244
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the picture of Anand slapping his mother Santha. (There is no objection to references thereto in the dialogue including the last reference by Santha herself to the other cheek).",
+        "length_m": 0.0003
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "When Anand is speaking to Menaka about his having slapped his mother, delete Menaka's statement 'Women should get that amount of moisture from time to time — otherwise they will not be under control'.",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "After Santha is knocked down by the car, delete the picture of the car backing away and driving past.",
+        "length_m": 0.0033
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "After Menaka's mother goes away with the jewels, delete the picture and dialogue of Anand and Menaka close to each other and whispering.",
+        "length_m": 0.00081
+      },
+      {
+        "kind": "reduction",
+        "reel": "19",
+        "description": "Delete the picture and sound of Menaka being strangled by Dayanidhi. (There is no objection to a brief flash where she points to the table where the money and jewels are kept).",
+        "length_m": 0.0009,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "20",
+        "description": "Reduce the fight between the two watchmen guarding Pithambar; reduce the fighting between Pithambar and Digambar; and reduce the fight between Mohan and Dayanidhi.",
+        "length_m": 0.0091,
+        "length_retained_m": 0.0
+      }
+    ]
+  }
+]

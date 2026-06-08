@@ -1,0 +1,853 @@
+[
+  {
+    "film_title": "Chalti Ka Naam Gaadi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Anoup Sharma, K . S . Films, Raman Studios , Dadar , Bombay 14",
+    "cert_no": "28982",
+    "cert_date": "8th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Renu's bosom is exposed when she gets up startled by Manu's intervention",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Sequence where a Magistrate is brought in by Raja for certifying forcible marriage of Renu to Prakash; the Magistrate appears in the scene and starts certification proceedings when Renu is weeping bitterly and not replying to his questions and the whole atmosphere of the place is that of a den of gangsters; the Magistrate takes no notice of this and proceeds to certify",
+        "length_m": 23.4696
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Considerable shots where Renu's father is tortured by Raja's gangsters",
+        "length_m": 3.6576,
+        "length_retained_m": 1.43256
+      }
+    ]
+  },
+  {
+    "film_title": "The Gun RunnerA",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "20984",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Shots of gun shooting",
+        "length_m": 3.9624,
+        "length_retained_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Ghar Grabasti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Limited, 11-13, Horniman Circle, Botawala Building, Bombay 1.",
+    "cert_no": "25986",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In song No. 4, beginning with the words \"Haar Haar\", the lines: \"Ab mila hath ge hath bane kuchh baat\", \"Tum lage gale de gale\", \"Abraat guzar gaya adhim mamla bedah hal\", \"Mers di hat ok anner\" \"Hazaron khare yahan beemar\"",
+        "length_m": 17.0688
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In song No. 5, beginning with the words : \"Mat Kariyo\", shots where a male dancer lies on the ground and a female dancer crouches over him",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In song No. 5, beginning with the words : \"Mat Kariyo\", shots where a female dancer arches a male dancer's arm",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 6, beginning with the words \"Nayan Kateele\", the line: \"Sia bhar Ramohandra ki jal\" wherever occurring",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 6, beginning with the words \"Nayan Kateele\", shots where the dancers give vulgar jerks to their torsos and gesticulate in a vulgar manner",
+        "length_m": 18.288
+      }
+    ]
+  },
+  {
+    "film_title": "The Vikings",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "26988",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "101",
+        "description": "Dialogue \"You'll split her wide open\"",
+        "length_m": 0.0042672
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Einar is pouring liquor in the mouth of a girl who is lying on the table and then kissing her",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where a man is trampled upon and his face is crushed",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue exchanged between Einar and Ragnar regarding the way in which Ragnar made love to Einar's mother",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The following dialogue - Einar \"Do you think with this face I would want the kind of woman who would let me touch her. I want her to fight me tooth and nail the first time when I take her and the last\"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots where the English slave pierces a person with a sword several times and takes it out with blood on it",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerable shot where Einar's face is clawed by the falcon and he is shown bleeding",
+        "length_m": 3.3528,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "President Eisenhower's Press Conference Part 67",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25991",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From commentary, \"Unless this subversion and indirect aggression\" and \"of the Soviet Union\" and \"are stopped. Ift.\"",
+        "length_m": 0.51816
+      },
+      {
+        "kind": "deletion",
+        "description": "From commentary, \"that finally even the Soviets begin to learn\" and \"what we believe to be right\" and \"that it is not to their benefit\"",
+        "length_m": 0.79248
+      }
+    ]
+  },
+  {
+    "film_title": "Chalti Ka Naam Gaadi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Anoup Sharma, K . S . Films, Raman Studios , Dadar , Bombay 14",
+    "cert_no": "28982",
+    "cert_date": "8th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Renu's bosom is exposed when she gets up startled by Manu's intervention",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Sequence where a Magistrate is brought in by Raja for certifying forcible marriage of Renu to Prakash; the Magistrate appears in the scene and starts certification proceedings when Renu is weeping bitterly and not replying to his questions and the whole atmosphere of the place is that of a den of gangsters; the Magistrate takes no notice of this and proceeds to certify",
+        "length_m": 23.4696
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Considerable shots where Renu's father is tortured by Raja's gangsters",
+        "length_m": 3.6576,
+        "length_retained_m": 1.43256
+      }
+    ]
+  },
+  {
+    "film_title": "The Gun Runnors",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "20984",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Shots of gun shooting",
+        "length_m": 3.9624,
+        "length_retained_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Ghar Grabasti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Limited, 11-13, Horniman Circle, Botawala Building, Bombay 1.",
+    "cert_no": "25986",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In song No. 4, beginning with the words \"Haar Haar\", the lines: \"Ab mila hath ge hath bane kuchh baat\", \"Tum lage gale de gale\", \"Abraat guzar gaya adhim mamla bedah hal\", \"Mers di hat ok anner\" \"Hazaron khare yahan beemar\"",
+        "length_m": 17.0688
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In song No. 5, beginning with the words : \"Mat Kariyo\", shots where a male dancer lies on the ground and a female dancer crouches over him",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In song No. 5, beginning with the words : \"Mat Kariyo\", shots where a female dancer arches a male dancer's arm",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 6, beginning with the words \"Nayan Kateele\", the line: \"Sia bhar Ramohandra ki jal\" wherever occurring",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 6, beginning with the words \"Nayan Kateele\", shots where the dancers give vulgar jerks to their torsos and gesticulate in a vulgar manner",
+        "length_m": 18.288
+      }
+    ]
+  },
+  {
+    "film_title": "The Vikings",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "26988",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "101",
+        "description": "Dialogue \"You'll split her wide open\"",
+        "length_m": 0.0042672
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Einar is pouring liquor in the mouth of a girl who is lying on the table and then kissing her",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where a man is trampled upon and his face is crushed",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue exchanged between Einar and Ragnar regarding the way in which Ragnar made love to Einar's mother",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The following dialogue - Einar \"Do you think with this face I would want the kind of woman who would let me touch her. I want her to fight me tooth and nail the first time when I take her and the last\"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots where the English slave pierces a person with a sword several times and takes it out with blood on it",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerable shot where Einar's face is clawed by the falcon and he is shown bleeding",
+        "length_m": 3.3528,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "President Eisenhower's Press Conference Part 67",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25991",
+    "cert_date": "10th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From commentary, \"Unless this subversion and indirect aggression\" and \"of the Soviet Union\" and \"are stopped. Ift.\"",
+        "length_m": 0.51816
+      },
+      {
+        "kind": "deletion",
+        "description": "From commentary, \"that finally even the Soviets begin to learn\" and \"what we believe to be right\" and \"that it is not to their benefit\"",
+        "length_m": 0.79248
+      }
+    ]
+  },
+  {
+    "film_title": "The Lone Ranger And The Lost City of Gold",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "26002",
+    "cert_date": "11th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Close shots of direct blows on Tonto when he was held",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shot of Brady uttering agonised cry and collapsing to the ground, when hit by the arrow",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Lone Ranger And The Lost City of Gold",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "20003",
+    "cert_date": "11th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Brady uttering an agonised cry and collapsing to the ground, when hit by the arrow",
+        "length_m": 1.46304
+      }
+    ]
+  },
+  {
+    "film_title": "Hot Spell",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "Paramount Films of India Ltd., Hague Building, Sprott Road, Ballard Estate, Bombay 1.",
+    "cert_no": "26007",
+    "cert_date": "19th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Considerably the shots of the young boy and girl kissing and cuddling",
+        "length_m": 5.1816,
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "description": "The close-up of the girl trying to make love to the driving man",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Westbound",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "Warner Bros. First National Pictures Inc., 42-Queen's Road, Bombay 1.",
+    "cert_no": "26042",
+    "cert_date": "17th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot of Hayes pushing the dead body with his foot",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shot of Hayes touching the dead body with his foot",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "To a flash shots of stage-coach rattling down the cliff",
+        "length_m": 3.9624,
+        "length_retained_m": 0.54864
+      }
+    ]
+  },
+  {
+    "film_title": "Ride A Crooked Trail",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "Universal Pictures India Private Ltd., Mustafa Building, Sir P. M. Road, Bombay 1.",
+    "cert_no": "26043",
+    "cert_date": "17th December 1958",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Kala Pani",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Nav Ketan, Ghodbunder Road, Santacruz West, Bombay 23.",
+    "cert_no": "2004",
+    "cert_date": "17th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The following dialogue: \"Aurat ko dekh kar phisal jaate ho\" and \"Dost agar phisal gaya to sambhal lena\"",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The words \"Sarkari Oda\" when spoken by the reporter in the following dialogue: \"Aur gunehgar ko Sarkari Oda\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The word \"Sarkari\" or \"Prosecutor\" whenever used with reference to Jaswantrai",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "The Judge's observations after Jaswantrai has confessed his crime",
+        "length_m": 17.0688
+      }
+    ]
+  },
+  {
+    "film_title": "Noah's Ark",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "Warner Bros. First National Pictures Inc., 42-Queen's Road, Bombay 1.",
+    "cert_no": "26045",
+    "cert_date": "18th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words \"See the ritual of human sacrifice\"",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Fury At Showdown",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "2006",
+    "cert_date": "19th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Considerable the scene where Brock and Sutton fight at the bar and then in the street",
+        "length_m": 11.2776,
+        "length_retained_m": 12.192
+      }
+    ]
+  },
+  {
+    "film_title": "Fury At Showdown",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "0087",
+    "cert_date": "19th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots whom Brock in drugged under the Stage-Coach",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots where Brock fights with Sutton at the Bar and in the street",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "The Thing That Couldn t Die",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Private Ltd., Mustafa Building, Sir P. M. Road, Bombay 1.",
+    "cert_no": "26037",
+    "cert_date": "17th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shriek of Jessica on seeing Boyd's body in ditch",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of aunt Flavia shrieking in horror on seeing headless body rising from the coffin",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "The Thing That Couldn t Die",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Private Ltd., Mustafa Building, Sir P. M. Road, Bombay 1.",
+    "cert_no": "810",
+    "cert_date": "17th December 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shot of Mike wiping blood from knife after killing Boyd",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shot of axe striking to sever head from body of Gideon Drew",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "III, IV, V, VI A VII",
+        "description": "Shots of the evil head wherever it appears, by deleting dilation of the eyes",
+        "length_m": 19.5072,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerable dragging of Boyd's dead body by Mike",
+        "length_m": 2.1336,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "To a far shots of aunt Flavia shrieking in horror when she sees the headless body rising from the coffin",
+        "length_m": 0.51816
+      }
+    ]
+  },
+  {
+    "film_title": "Paths of Glory",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "817",
+    "cert_date": "17th December 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Direct hits of Arnaud on the priest in the prison cell",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "All shots showing the condemned prisoners on the posts of execution including the footage in which they are seen to collapse on being shot",
+        "length_m": 68.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The shot (both visuals and sound) in which Private Meyer points to the figure of the German girl with an indecent gesture and says, \"ercent that she has a little Natural talent, here and there\"",
+        "length_m": 37.4904
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots in which Private Meyer indecently touches the German girl with his hand on her chest and abdomen",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "18",
+        "description": "Considerably shots of Ferol hysterically crying as he is led to the spot of execution",
+        "length_m": 21.0312,
+        "length_retained_m": 8.5344
+      }
+    ]
+  },
+  {
+    "film_title": "Dulhan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Pushpa Pictures, 1 E, Naaz Building, Lamington Road, Bombay 4.",
+    "cert_no": "20103",
+    "cert_date": "20th November 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "P II",
+        "description": "Shots where the spectators enjoy Tomy, the dog's attack on Leela and encourage the dog to continue the attack",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots and dialogues which establish that Anokhoylal brought fake policemen in Mohan's house",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots and dialogues which establish that Mohan struck his father",
+        "length_m": 54.2544
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "The words \"Sain Baba\"",
+        "length_m": 24.0792
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "To one, shots where dead Sadhana is shown lifted up by her father delete all close shots of Sadhana's dead face and feet on funeral pyre and reduce considerably shots of the funeral pyre whether lit or otherwise",
+        "length_m": 39.0144
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Voluntary deletion",
+        "length_m": 14.3256
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Voluntary deletion",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Voluntary deletion",
+        "length_m": 36.576
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Voluntary deletion",
+        "length_m": 11.2776
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Voluntary deletion",
+        "length_m": 35.9664
+      },
+      {
+        "kind": "insertion",
+        "reel": "II",
+        "description": "Approved addition",
+        "length_m": 60.3504
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Approved addition",
+        "length_m": 45.108
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Approved addition",
+        "length_m": 57.0024
+      }
+    ]
+  },
+  {
+    "film_title": "Yanda Kartavya Ahe",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Amala Chitra, Khandke Building, N. C. Kelkar Road, Dadar, Bombay 28.",
+    "cert_no": "26116",
+    "cert_date": "27th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From \"Gooraj muhoortaa var maavsheechiyas maandeevar doku theoon praan sodlas\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 3, beginning with \"Girdhara Pudhe\", (A) the word \"Rati\" from line No. (Replaced by approved word \"Nava\")",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 3, beginning with \"Girdhara Pudhe\", (B) the line \"Raayaachaa pahudena palangi\" (Replaced by approved line \"Raayaachaa pahudena padasi)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In song No. 8, beginning with \"Ude Jwaanichoo.\" (A) the line \"Chale maatas padar uda gahiri nazar khan khane rupayaa kaldar ho\" (Replaced by approved line : \"Zhan Jhino nupur dhangdar ho)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In song No. 8, beginning with \"Ude Jwaanichoo.\" (B) the line \"tyaat ramala anaga\" (Replaced by approved line \"Tayaat sajala sorange\")",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Horror of Dracula",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "Universal Pictures India Private Ltd., Mustafa Building, Sir P. M. Road, Bombay 1.",
+    "cert_no": "810",
+    "cert_date": "28th December 1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Close shot of Lucy showing her canine tooth",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Dracula's attack on vampire woman and Jonathan",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "reduction",
+        "reel": "D",
+        "description": "Sound of music bang on close-up of Dracula at window of Lucy's bed room",
+        "length_m": 0.4572
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Horrified sounds and visuals of Gerda",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "The Tunnel of Love",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay 1.",
+    "cert_no": "822",
+    "cert_date": "24th December 1958",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Sohni Mahiwal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chowdhary Brothers, 4-A, Naam Building, Lamington Road, Bombay 4.",
+    "cert_no": "28727",
+    "cert_date": "28th October 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "PII",
+        "description": "Voluntary deletion",
+        "length_m": 49.0728
+      }
+    ]
+  }
+]

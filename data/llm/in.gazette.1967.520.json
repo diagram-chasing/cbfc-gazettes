@@ -1,0 +1,416 @@
+[
+  {
+    "film_title": "Son of Cleopatra",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Metro Goldwyn Mayer, Italy",
+    "cert_no": "49701",
+    "cert_date": "30-1-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III (2 A)",
+        "description": "Delete the view of hot liquid falling on Uro's foot and his subsequent scream.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII (4/4)",
+        "description": "Reduce the view of El Kabir at the altar being lashed by horsemen, to twice only.",
+        "length_m": 7.49,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4/4)",
+        "description": "Delete the shrieks of the women tied to the posts as the chariots with protruding blades passing by them.",
+        "length_m": 2.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII (43 )",
+        "description": "Reduce to a flash the bloody face of the gladiator done to death by El Kabir at the tournament.",
+        "length_m": 0.25,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X(53)",
+        "description": "Reduce the view of Furio being smothered to death by El Kabir by pressing his face into sand.",
+        "length_m": 1.67,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘That Man In Singapore",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "Techniscope",
+    "producer": "Seven Film S. P. A. Rome, Italy",
+    "cert_no": "49704",
+    "cert_date": "31-1-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce the scenes showing fighting omitting hard blows in prominent views.",
+        "length_m": 2.44,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce scenes of shooting omitting ghastly scenes showing wounded men falling after being shot.",
+        "length_m": 6.1,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man with dagger in his back and drenched in blood and writing with blood.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Operation Goldman",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "Techniscope",
+    "producer": "Seven Film S. P. A. , Itlay",
+    "cert_no": "2001",
+    "cert_date": "3-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce drastically all views of the girls in bikini dress at the swimming pool lying in different postures, as also Harry crossing over their bodies.",
+        "length_m": 10.88,
+        "length_retained_m": 4.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete Harry's reference to sale of wheat by U. S. A. to U. S. S. R.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete all front views of the girl in a suggestive jacket revealing cleavage of her bust during her scene with Payricia, retain in minimum for the sake of continuity.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduce to a flash the view of the man under hybernation being killed in the presence of his daughter by Rethe.",
+        "length_m": 3.66,
+        "length_retained_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the view of a man falling into fire below, along with his shriek.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete all shots of the men in hybernation appearing half-dead or dead, as also skeletons of human beings, all being destroyed in fire.",
+        "length_m": 8.74
+      }
+    ]
+  },
+  {
+    "film_title": "Amra",
+    "languages": [
+      "Hindustani"
+    ],
+    "cert_no": "49333",
+    "cert_date": "19-12-1966",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted various shots.",
+        "length_m": 159.0
+      }
+    ]
+  },
+  {
+    "film_title": "Dus Lakh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "cert_no": "49466",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deleted the following words as spoken by Mrs. Little: ‘Oh Hum Marjayega WhiBky ke begalr ham Kaisa zinda rahega. Oh, God.’",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "The Parts That Build the Auto",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "49357",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels I & II",
+        "description": "Added various shots.",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Lakhyer Pathe",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm.",
+    "producer": "West Bengal Pradesh Congress Committee, Calcutta-20",
+    "cert_no": "46435",
+    "cert_date": "30-1-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Durbhagyabasbata Bharatbarsho ekhano ganatantra ebang sangbidhane biswashi birodhi paksha sristi hayni.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Ei challish bachharor itihasc aage jakhan swadhinata saugram hachbila takhan tara kranvagata chesta karta ki karo Ingrajder sthayi kara jay. Unish aha beyallisher Communist Partyr Je itihas kalankajanak itihas. Anek dukhkhe nirapeksha nirbhik sangbadhik sradhdheya Ramananda Chattopadhyay Prabasite Likhechhilcn ‘Chandikc Chand tukre par deshke bcchnewale.’ Communist Party Ingrej sarkarer sange sarta karechilo je Congresscr Bharat Chharho Andoloncr blrudhdhacharan karbe ebang Ingrej tar samartlian karbe.",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Rakta plchchil pathe Bharatbarse ki kare kare arajakata srisM kara jay, se bar bar ora chesta kareche.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The words ‘Keu janena’ from the sentence ‘Ki nitir janya, ki adarsher janya, keu janeita’.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Tini kakhano Congresse chhilen na— with reference to Humayan Kabir.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The words ‘Mantri habar janya’ from the sentence ‘Sarkari chakri chherhe Congresse asen Mantri hnhar janya’.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Unishshn satara-unishsha teish abadhi o abyahata gutite America theke Russia osahajyamyechho Lenin Mahodayerjibitakale.",
+        "length_m": 4.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "R. Sekhane Roman Catholicder Protestantder mato adhikar nei Etatuku jayga Ulster Hander madhye jekhankar lokera Protestant, seijanya Ireland Parliament jekbane Roman Catholic lok beshi bale tara saraudra dingiyo Englander Parliaruenter sange jukta hayccbhe.",
+        "length_m": 9.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Je Bampanthira ekhane joulus barkaren, tara Chine gelt tadcro arshola khcte hay, tader idur khete nay ebang hasimukhe khcte hay.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Tate challish laksha lok pran day. Ar unishsha ekatrishc je durbhiksha hay tate aro trish laksha lok pran day, arthat biplaber choudda bachharer madhye sattar laksha lok pran dey.",
+        "length_m": 5.48
+      }
+    ]
+  },
+  {
+    "film_title": "Badhu Baran",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm.",
+    "producer": "D.S. Production, Calcutta-9",
+    "cert_no": "46436",
+    "cert_date": "31-1-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 10 & 11",
+        "description": "Delete the reference to giving money by Hari Babu to Kamala and by Girin to Sarat as well as two lines of the song beginning with ‘Paisa diye pirit’ in the background.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Twice the strangulation of Probhas and Girin by Ganesh.",
+        "length_m": 1.3716
+      }
+    ]
+  },
+  {
+    "film_title": "Kedar Raja",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm.",
+    "producer": "Jindal Films, Calcutta-53",
+    "cert_no": "46437",
+    "cert_date": "2-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 10 & 11",
+        "description": "Delete the reference to giving money by Hari Babu to Kamala and by Girin to Sarat as well as two lines of the song beginning with ‘Paisa diye pirit’ in the background.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Twice the strangulation of Probhas and Girin by Ganesh.",
+        "length_m": 1.3716
+      }
+    ]
+  },
+  {
+    "film_title": "Sabash Thambi",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm. (B. & W.)",
+    "producer": "Balan Pictures, Madras-10",
+    "cert_no": "48839",
+    "cert_date": "3-2-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From the song text, delete the Line ‘Tekkira idathil theythal’.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "In the picturisation of car song, delete Santhi sitting with Lilly with bent leg.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the Radio dialogue ‘Kannathilonneonnu’.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the word ‘twenty inches’ from the dialogue of one of the girls in the interview scene.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 3",
+        "description": "In the dialogue of Kannan, add the word ‘Sila’ before the words ‘Panakkararukku idu vilayattapochu’.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "In the dialogue of Jagadeesh, replace the word ‘Kuduppadu’ by ‘Taduppadu’.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Reduce the sequence of the ladies fighting.",
+        "length_m": 5.47
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "In the dialogue of James Bond, replace the word ‘Unnavratliam irup- pen’ by the word ‘Summa irukka maatten’.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Song 3 — Delete Santhi in tight pants spreading her legs, (twice).",
+        "length_m": 0.94
+      }
+    ]
+  },
+  {
+    "film_title": "A City in History",
+    "languages": [
+      "English"
+    ],
+    "colour": "Eastman-colour",
+    "format": "35 mm.",
+    "producer": "Image India Films P. Ltd., Bombay",
+    "cert_no": "46782",
+    "cert_date": "4-7-66",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletion of 245.39 Metres from the original length, namely, 837 meters and one reel from the total three reels are approved.",
+        "length_m": 245.39
+      }
+    ]
+  },
+  {
+    "film_title": "Jananayaga So-cialisa Vara Vizha",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm. B. li. W.",
+    "producer": "Shri S.D. Sundaram, Madras-14",
+    "cert_no": "40170",
+    "cert_date": "28-8-64",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Total voluntary deletion of 83 Metres from Reels Nos. 1 & 2 approved.",
+        "length_m": 83.0
+      }
+    ]
+  }
+]

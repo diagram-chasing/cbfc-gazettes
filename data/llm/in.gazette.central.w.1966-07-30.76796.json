@@ -1,0 +1,355 @@
+[
+  {
+    "film_title": "Hum Kahan Ja Rahe Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "47448",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels 1 & XI",
+        "description": "Lines from the song 'O Gandhi ko beto o Nehru ke chclo... Ki karze men hai baal baal aajkal, uthata hai dasto sawal aajkal' (Sound only) and the underlined word from the line 'Yehan aat bhook aur mengai hai'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue of the servant addressed to Meena: 'Naukar to usi din mar jata hai jis din wo kişi ki naukari karta bai'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels V, VI and VII",
+        "description": "Shots of college professors made to look ridiculous or comical, retaining only a few shots for continuity.",
+        "length_m": 33.97,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels V, VI and VII",
+        "description": "Replacement of shots of college professors made to look ridiculous or comical with approved shots.",
+        "length_m": 18.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Reference to 'Paighambar' in the dialogue between the grandfather and a Muslim employee who is shown to be indulging goonda tactics.",
+        "length_m": 1.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Removal of the incorrect map of India in the background during the picturisation of the song 'Aao logo tumhen sunaoon...' and replacement with approved shots.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Deletion of underlined words from the lines 'Kistarah banjaayen lakhpati sabse ke - yahi mansubo, Şabko apna ghar bharna hai desh bhalo bi dube' (Sound) and replacement with approved words (sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Remarks from the prosecuting lawyer's arguments in court that cast aspersions on the honesty of people in general and the business community in particular.",
+        "length_m": 16.47
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Hum Kahan Ja Rahe Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "47449",
+    "cert_date": "11-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Opening shots of portraits of Mahatma Gandhi and Pandit Nehru superimposed by titles replaced with approved shots.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of college students ridiculing a professor and making sounds like 'Tur... tur...'.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Dil Diya Dard Liya",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Col.",
+    "cert_no": "47452",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels II and IX",
+        "description": "Close shots of the Marwari money-lender in which he is made to look revolting and ridiculous.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Murli's dialogue enumerating the virtues of drinking when Shankar is persuaded by him to take a drink.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Shot of Shankar actually spitting out blood.",
+        "length_m": 11.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Shots of Ramesh whipping Shankar and flash close-ups of his blood-stained face.",
+        "length_m": 0.82,
+        "length_retained_m": 1.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of Shankar bleeding profusely from head and face, deleting close-ups of blood-stained back of his head.",
+        "length_m": 0.78,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Flash shots of Taabai lying in a pool of blood after she is shot by Ramesh (inked off).",
+        "length_m": 0.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Flash close-ups of the blood-stained neck of Ramesh.",
+        "length_m": 0.21,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Ship of Fools",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "47453",
+    "cert_date": "12-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing soliciting and the accompanying dialogue between Marwin and a girl.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Elizabeth Ashley's talk to Segal, the sentence: 'Wo ll find out if we have anything going for us, besides sex'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Shots of passionate kissing between Ashley and Segal.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Now Parade No. 10",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "47465",
+    "cert_date": "15-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Various portions of the commentary considered likely to contravene the spirit of the Tashkent Agreement, including references to Pakistan and its rulers.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "Shots of Indian army men sitting at tea replaced with approved shots.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of the Amorous Adventures of Moll Flanders",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "47467",
+    "cert_date": "15-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Indecorous view of Moll Flanders lying on bed and shot of her winking.",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Passionate kiss and dialogue between the elder brother and Moll regarding what would happen if Moll doesn't.",
+        "length_m": 7.7
+      },
+      {
+        "kind": "deletion",
+        "description": "From commentary the words '. . . . . . . . . . . . One bridal night with an understandably impetuous groom' and shots of the banker hastily removing his clothing.",
+        "length_m": 1.95
+      },
+      {
+        "kind": "deletion",
+        "description": "From commentary the phrase 'through hardly her first adventure' in reference to Jemmy.",
+        "length_m": 0.84
+      },
+      {
+        "kind": "deletion",
+        "description": "View of the banker looking expectantly from the pillow and commentary '. . . . . . . . . . . the charged expectancy of George Sanders, the wealthy banker who taught Moll the value of her hidden assets'.",
+        "length_m": 3.82
+      },
+      {
+        "kind": "deletion",
+        "description": "From commentary the words '. . . . the wench with an eye strictly for the carriage trade' and the picking of the jewelled stickpin by Moll.",
+        "length_m": 1.68
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of Moll lifting a bolt of lace.",
+        "length_m": 1.23
+      }
+    ]
+  },
+  {
+    "film_title": "Loha Singh",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "cert_no": "46905",
+    "cert_date": "20-1-1966",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels V and XIII",
+        "description": "Various scenes added.",
+        "length_m": 120.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V and XII",
+        "description": "Various scenes deleted.",
+        "length_m": 69.19
+      }
+    ]
+  },
+  {
+    "film_title": "Netaji Subhas Chandra Bose",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "47433",
+    "cert_date": "7-4-1966",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Song 'Jhankaro Jhankaro'.",
+        "length_m": 142.5
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Song 'Dushmano savdhan'.",
+        "length_m": 195.0
+      }
+    ]
+  },
+  {
+    "film_title": "Greed in the Sun",
+    "languages": [
+      "English"
+    ],
+    "format": "Franscope",
+    "cert_no": "1744",
+    "cert_date": "15-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (1B)",
+        "description": "The rough treatment meted out to Ali.",
+        "length_m": 12.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II (1B)",
+        "description": "The view of a young girl undressing near the window.",
+        "length_m": 3.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "The underlined words from the sentence spoken by Rocco in the bar: 'She is German, tall - sort of a muscleman type'.",
+        "length_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4a)",
+        "description": "The following sentence said by Rocco to Mimi: '. . . and make love in colored sheets'.",
+        "length_m": 6.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII (TAP)",
+        "description": "The near views of a belly dancer and the indecorous shot of her bosom.",
+        "length_m": 3.78
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V (3A)",
+        "description": "The fight scene consistent with continuity and by removing the vicious blows with boxers.",
+        "length_m": 8.12,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Ship of Fools",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "4160",
+    "cert_date": "15-4-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots of soliciting and the accompanying dialogue beginning with the words: 'Oh, come on baby...' upto 'forty dollars'.",
+        "length_m": 8.23
+      }
+    ]
+  }
+]

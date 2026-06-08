@@ -1,0 +1,287 @@
+[
+  {
+    "film_title": "Years of Lightning— Day of Drums",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Herschensohn Productions",
+    "cert_no": "43194",
+    "cert_date": "15-12-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The statement 'There was a foreign dictated government in Cuba.'",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence 'But as those celebrations faded into history, a new chapter was being written in the countries of Eastern Europe.'",
+        "length_m": 1.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence 'In Korea, the communist government of the North invaded the South.'",
+        "length_m": 2.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence 'The police action continued for years until a truce was signed guaranteeing the South its own elected government as it has before the invasion.'",
+        "length_m": 15.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence 'But when the war was won, he betrayed his revolution, . . .the elections were not held and Cuba had a new dictator.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence 'once more, needed protection against a new Soviet threat a threat that would strip away all Western rights to aid West Berlin.'",
+        "length_m": 12.89
+      }
+    ]
+  },
+  {
+    "film_title": "The Evil of Frankenstein",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Hammer Film Production",
+    "cert_no": "1557",
+    "cert_date": "19-12-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "Near views of the bare breast of the Burgomaster's wife, and the action of the man standing by her side.",
+        "length_m": 0.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII (4B)",
+        "description": "Shots of the monster hitting the Burgomaster; specifically shots of the monster banging the Burgomaster’s head against the wall after the victim is dead.",
+        "length_m": 4.72,
+        "length_retained_m": 1.8
+      }
+    ]
+  },
+  {
+    "film_title": "Haqeeqat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chetan Anand",
+    "cert_no": "42683",
+    "cert_date": "30-9-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4900.6,
+    "final_length_m": 4942.05,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "Shots of Jawans and an additional death scene.",
+        "length_m": 41.45
+      }
+    ]
+  },
+  {
+    "film_title": "Aao Pyar Karen",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmalaya Pvt. Ltd.",
+    "cert_no": "43092",
+    "cert_date": "24-11-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4727.5,
+    "final_length_m": 4498.25,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Breakfast scene.",
+        "length_m": 70.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "Scene of Prince and Secretary discussing bull-fight.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Shot of Rakcsh and Shalini in garden.",
+        "length_m": 19.2
+      }
+    ]
+  },
+  {
+    "film_title": "Aao Pyar Karen",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmalaya Pvt. Ltd.",
+    "cert_no": "43092",
+    "cert_date": "24-11-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 35",
+    "final_length_m": 4244.35,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Scene of prince and Shalini.",
+        "length_m": 196.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Shots of Shalini walking in street.",
+        "length_m": 57.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bharjaee",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Kailash Bhandari",
+    "cert_no": "43202",
+    "cert_date": "17-12-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The word 'Govt,' from Channo's dialogue to Amah: 'Govt, trial makhm.il karna hai ?'",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Photographs of President Ayub Khan of Pakistan during the picturisation of the song 'Kadam badaa beliya hath bata le beliya'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The words 'C.I.D. da putar' used by Channo and Jecto with reference to Jhngroo.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Distorted recitations of Sanskrit slokas during the wedding ceremony replaced with instrumental music.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Thayin Madiyil",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Annai Films",
+    "cert_no": "41849",
+    "cert_date": "15-12-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Gundumani’s sentence ‘Inda Kudirat Varuma?’",
+        "length_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Shot of Jiva lying on the spring cot and swinging.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Reference to ‘Brahma PindanT’",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Kissing gesture near the post, while Jiva and Raja pass through the boulevard.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "The sentence ‘Vayala Pcsadhe, Kannalc Pesu’ and the gesture by the male parent.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Song 6 - Kissing gesture of Jiva and Raja.",
+        "length_m": 4.86
+      }
+    ]
+  },
+  {
+    "film_title": "Server Sundaram",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "A.V.M. Productions",
+    "cert_no": "41842",
+    "cert_date": "4-12-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 4535.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. 10, 11 and 14",
+        "description": "Voluntary deletion of scenes.",
+        "length_m": 68.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sumangali",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Ashok Movies",
+    "cert_no": "41837",
+    "cert_date": "1-12-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 4725.92,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of scenes.",
+        "length_m": 229.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Voluntary deletion of scenes.",
+        "length_m": 13.11
+      }
+    ]
+  }
+]

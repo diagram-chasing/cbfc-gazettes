@@ -1,0 +1,1110 @@
+[
+  {
+    "film_title": "Khanjar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Guru Dutta Films Combine, 194, Kurla Road, Andheri, Bombay-400069",
+    "cert_no": "B/F-305",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I (1)",
+        "description": "Portion where Jagat is suggestively moving a sword forward and backward",
+        "length_m": 5.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "I (1)",
+        "description": "Razvanti's dialogue: \"Tum men talwaar jalsi tozi kahaan ?\" and Jagat's reply: \"Aro tumko aapan ko chanas hi kldhar diya ?\"",
+        "length_m": 14.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Dialogue between Jagat and Razvanti: Jagat: \"Ye to shaadi ke baad hi malum paregan ke tum baanjh ho ya majn ? Haay haay khoob pahechana - haay haay khoob pahechana,\" Rasvanti: Are heshasam in ke saath bodyguard ban kar jaa rahe ho to mardoo jaise jaawo.",
+        "length_m": 25.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Medium close shot in which Shekhar (Zomby boy)'s head is seen falling on the table, including accompanying sound and zooming back",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Word \"Pavana aath\" spoken twice by Jagat",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Obscene sequence involving Dr. Bruin and Jagat (addressed as women) and Rasvanti and Kamini, including expression \"Paavanna aath\"",
+        "length_m": 12.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Sequence involving Jagat and gangsters who are converted into animals, containing vulgar dialogues and gestures",
+        "length_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Close shots of the dagger being lowered on the child",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the shot where Swami is seen rolling after getting the dagger pierced in his body, portion where dagger and blood are seen prominently",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Word \"shangen\" used twice by Jagat in the last sequence",
+        "length_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "Agitya Bilowar",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "colour",
+    "producer": "Hachiket Patwardhan 55/14 Erandwene, Poona-411004",
+    "cert_no": "B/F-334",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of Bhujangrao putting notes in the blouse of Munjo",
+        "length_m": 1.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Beating of Sarjco in the police station by the Inspector",
+        "length_m": 4.9,
+        "length_retained_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Word \"Bastard\" spoken by the Inspector at the Police station",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Shivshakti",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "Shivshakti Productions, 3/44 Juhu Sameer, Hsg. Soc., Eighty Tenaments, D. N. Nagar, Andheri (W), Bombay-58",
+    "cert_no": "B/F-330",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Views of Bhujangrao putting notes in the blouse of Munjo",
+        "length_m": 1.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Beating of Sarjco in the police station by the Inspector",
+        "length_m": 4.9,
+        "length_retained_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Word \"Bastard\" spoken by the Inspector at the Police station",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kali Ghata",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shivalik Pictures, B-35, Sarvottam Society, Irla Bridge, Andheri (W), Bombay-58",
+    "cert_no": "B/F-324",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Close up shots of cabaret dancer where her thighs are exposed very prominently",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Song lines beginning with the words \"Jane Walon Ka Gam To Hota Hal.\"",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Passage",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "B/F-217",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "All shots of the bare breasts of the lady taking bath",
+        "length_m": 3.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Rape of the girl by the Nazi captain may be reduced to a suggestion",
+        "length_m": 19.66,
+        "length_retained_m": 6.61
+      }
+    ]
+  },
+  {
+    "film_title": "The Incredible Meljtiog mon",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "B/F-197",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Shot of the floating head of the man should be reduced to the bare minimum",
+        "length_m": 9.14,
+        "length_retained_m": 7.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "All shots of the lady with bare breasts",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Close up shot of the headless mutilated body",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots of the electrocution of the Sheriff with his body in flame should be reduced drastically",
+        "length_m": 7.7,
+        "length_retained_m": 2.4
+      }
+    ]
+  },
+  {
+    "film_title": "Duniya Kare Salaam",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "Yashokotan Chitra C/o Shri Gajanan Sarpotdar, Sangal 29, Navrajasthan Society, Senapati Bapat Marg, Pune-16",
+    "cert_no": "B/F-336",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Abusive words uttered by characters acting as Gods",
+        "length_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Killing of his accomplice by the dacoit",
+        "length_m": 3.6,
+        "length_retained_m": 2.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Rape sequence",
+        "length_m": 1.3,
+        "length_retained_m": 4.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue: \"Baichya babatita Ratalacha Ghadata Samada...\"",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Dialogue with reference to the lady: Chiktun basalmunglyavani...",
+        "length_m": 3.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Scene of dacoit killing his accomplice, and shots of the dead man",
+        "length_m": 1.6,
+        "length_retained_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Sentence: Bahinçe Bahinee bhogayala mjlalla...",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Dialogue: Tondala kama tari ahe, amhale panashi vaya kaya aho?",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Chambal Ki Kasam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M. P. D. Productions, 176-78 Samuel Street, Bombay-9",
+    "cert_no": "B/F-170",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Scene of killing of mother and father, separation of mother and son, and throwing of the child in the well when he is crying",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Double meaning dialogue between Ranjit and the girl involving Thaiyar Rabna, Main to hamesha thaiyar rahati hoon. Bin babul barsane par thaiyar. Sookha ped dekha bhi to nahin jaata.",
+        "length_m": 6.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Double meaning dialogue involving hatyar",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Vulgar and indecent movements of dancer and Ranjit, and shots showing their close proximity and lying down together on cot etc.",
+        "length_m": 12.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Visuals suggestive of sexual act, showing the burning sigdi and clothes of Taanubai and Badak Singh lying on the floor at the end of the song",
+        "length_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI, XII & XVIII",
+        "description": "Impact of violence by substantial reduction of all fight scenes and scenes depicting violence, especially by complete elimination of killings, hard hitting shots, shots of shooting, shots of dead lying etc. and also reducing the death of Badan Singh and Tannu",
+        "length_m": 0.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Scenes of Radhu kathha dying as Shatry recollects it",
+        "length_m": 0.4,
+        "length_retained_m": 2.2
+      }
+    ]
+  },
+  {
+    "film_title": "Ratnadoop",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "The Far Production Co.",
+    "cert_no": "B/P-327",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Shots showing the hero sitting in a car till the end at the Railway Station",
+        "length_m": 86.87
+      },
+      {
+        "kind": "insertion",
+        "reel": "XV",
+        "description": "Shots showing the Heroine dead in the room and then a graveyard shot where the baby is buried and the end",
+        "length_m": 97.54
+      }
+    ]
+  },
+  {
+    "film_title": "Earth I am",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/92613-25",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "The new title of the film may be read as Earth I am Alias Out of the Clay",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Havo A Date With Apco Handloom House",
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Island Films, Madras",
+    "cert_no": "B/86244-46",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots containing the Scheme of Lucky Date Draw-where the shots showing a hand picking out 13 number and Cash Momos containing that date getting the full refund for the purchases made on that date and the relevant sound track",
+        "length_m": 11.68
+      }
+    ]
+  },
+  {
+    "film_title": "Ahsaas",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "B. Ashok Agarwal, K. S. Enterprises.",
+    "cert_no": "A/4575",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "The word \"Hand\" has",
+        "length_m": 4.57
+      },
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "The characters of this film are fictitious. The word Mochi in the film is used in context of business or profession and has nothing to do with any cast or community",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Olangthagoc Wangmadasoo",
+    "languages": [
+      "Manipuri"
+    ],
+    "producer": "Shri Bimal Dey, 9/1A, Pallt Street, Calcutta-700019",
+    "cert_no": "C/9801",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ekdin Pratidin",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "producer": "Mripal Son Productions, 4B, Motilal Nehru Road, Calcutta-700029",
+    "cert_no": "C/9800",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mathura Vijay",
+    "languages": [
+      "Oriya"
+    ],
+    "colour": "Colour",
+    "producer": "M/s. Chhayavani Pratisthan, Oriya Bazar, Cuttack-1, Orissa",
+    "cert_no": "C/9811",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Orissar Mukhya Ghatanabæli-122",
+    "languages": [
+      "Oriya"
+    ],
+    "producer": "Shri R. M. Dutta, Films Officer, Information & P. R. Deptt., Govt. of Orissa",
+    "cert_no": "C/9828",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Paka Phasalera Kadacha",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Shri M. K. Gupta, Production Officer, Information & Cultural Affairs Deptt. Govt. of West Bengal",
+    "cert_no": "C/9827",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Rangdhali",
+    "languages": [
+      "Assamese"
+    ],
+    "producer": "Rajondra Chalchitra P. Ltd., Gauhati-2, Assam",
+    "cert_no": "C-9802",
+    "endorsement": "U -with cuts",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Visuals of the fat man caressing his huge exposed belly",
+        "length_m": 0.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Dialogue of Padma in drunken revelry scene saying the requier come pretty girls to sleep with",
+        "length_m": 0.53
+      }
+    ]
+  },
+  {
+    "film_title": "Priyatama",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "producer": "M/S. Prokash Productions, 58/82A, Prince Anwar Shah Road, Calcutta-700045",
+    "cert_no": "C-9798",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bhagya Chakra",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "The Alpana Movies, 43, Lenin Sarani, Calcutta-700013",
+    "cert_no": "C-9794",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Samsera Bandham",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Ajanta Cine Arts, Hyderabad",
+    "cert_no": "M / 12533",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shot of Prasad's gesture while standing near the calendar",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots of Prasad's movements on the bed, occurring twice",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Visuals of Kosava holding Uma by her waist while in water, against the lyrics from Neeta tadisi to Le natiunto (two lines in the last charanam)",
+        "length_m": 11.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Shot of Kosava moving his face over the body of Uma from her waist, upto her face while she is lying down",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Sequence of Kesava and Uma rolling on each other on ground, during the song sequence",
+        "length_m": 6.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Dancer sitting on the platform and stretching her legs facing the camera",
+        "length_m": 5.01
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Hand gestures",
+        "length_m": 2.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Hand movements in front of her thighs near the table",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Name of the college Akkeneni Nageswara Rao College, Gudivada",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Maralu Sarpani",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "K. R. Pictures Combines, Bangalore",
+    "cert_no": "M -12636",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Dialogue of Nagupal to the girl, Sayankala barthini ella redimadu",
+        "length_m": 5.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Dancer sitting on the platform and stretching her legs facing the camera",
+        "length_m": 5.01
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Hand gestures",
+        "length_m": 2.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Hand movements in front of her thighs near the table",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "From the text of song beginning with the words \"Nee Nirade naanillave delete the following lines: from Harayadha vyamcha upto Ee Thapa nee thalara re.\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the visual accompanying the above song, delete: In the beginning of dance, delete shots showing upper part of the dancer's breast.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Hand gesture with crossed fingers",
+        "length_m": 4.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Dancer twining and tapping her legs against Harsha",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Navanitha on bed revealing upper part of her breast",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Shot of Navanitha lying on bed in full length in front of camera towards the end of the dance",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Shot of Navanitha unzipping her skirt",
+        "length_m": 6.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shots showing skeletons in the grave to minimum",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Flash-back shots showing Chinari Gowda molesting Navanitha retaining only shots of Chinari Gowda approaching her and taking her by surprise",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Fire sequence to a minimum necessary, for continuity",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Manavuri Maruti",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Sri Uday Art Pictures, Madras",
+    "cert_no": "81445",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Bushadam lying flat on the girl on bed, in the rape attempt",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Bushanam attempting to lift the skirt of the girl in the attempted rape sequence",
+        "length_m": 3.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In dance performed in the den, delete: Man feeling the dancer from her thighs upwards to her bosom",
+        "length_m": 5.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Man feeling the dancer from her thighs upwards to her bosom",
+        "length_m": 5.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Man pulling the dancer backwards from her waist band",
+        "length_m": 4.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Man pulling the dancer backwards from her waist band",
+        "length_m": 4.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Man's standing behind dancer, pulling her back and lifting her leg up",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Man's standing behind dancer, pulling her back and lifting her leg up",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Man kneeling before dancer, putting his hands on her thighs and dancer's shaking her thighs",
+        "length_m": 4.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Man kneeling before dancer, putting his hands on her thighs and dancer's shaking her thighs",
+        "length_m": 4.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Dragging of Ranganna by horses, to one fourth of its present legagth",
+        "length_m": 9.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Dialogue of Panchayat president: Adlia maina. gaddi",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Andhala Rasi",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Binny International Nellore",
+    "cert_no": "M / 12313",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Intercut shots of the model in bath tub in which her cleavage is revealed prominently",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Intercut shots of the model in bath tub in which her cleavage is revealed prominently",
+        "length_m": 9.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots of the model getting up and standing in front of the camera",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Profile shot of the nude",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Shots of Ranga and the woman making love on the bed, retaining only a suggestion of the first shot which is the only in which the woman's thighs are properly covered by her skirt",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Shots of the nude photographs",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Cabaret dance",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Dialogues comparing the prohibition policies of Andhra Pradesh and Tamilnadu. Dialogue of the drunkard Anni dorakathayl",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shot of the man removing his skirt in the hotel room prior to approaching the prostitute in the bed-room",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Ranga's dialogue as said to the call girl *Anto Ropcat",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Ranga's dialogue as said to the call girl *Anto Ropcat",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Call girl's reply Just once moro",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Call girl's reply Just once moro",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Ranga's Dialogue as said to the call girl (Okato Banam Okato Guri",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Ranga's Dialogue as said to the call girl (Okato Banam Okato Guri",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Ranga's dialogue as said to his friends going to enter the bedroom where the call girl is waiting SARE velli Eduvvo",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Ranga's dialogue as said to his friends going to enter the bedroom where the call girl is waiting SARE velli Eduvvo",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Ranga's dialogue as said to his friends playing cards Atu college palhakellito kotta Pitt. lu emaina taguluthayeme",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Ranga's dialogue as said to his friends playing cards Atu college palhakellito kotta Pitt. lu emaina taguluthayeme",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Ranga's friend's dialogue Tagalu Kunna cho",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Ranga's friend's dialogue Tagalu Kunna cho",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Geetha's dialogue to Ranga - Delete Nuvvu Denılee Ready kacu . Ninnu nenu ready chesukovalasına khar - manaadi",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Geetha's dialogue to Ranga - Delete Nuvvu Denılee Ready kacu . Ninnu nenu ready chesukovalasına khar - manaadi",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Seetha's dialogue iurambabu - -- Nenu okha danne kannanna Rendu chetulu kalisten ?",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Seetha's dialogue iurambabu - -- Nenu okha danne kannanna Rendu chetulu kalisten ?",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Tamilian Andhralo anni Visha yalu dorukutayi and the subsequent dialogue Alhulu dihadı Anar Ravali",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Dialogue of the consi..ble as said to Heru and the heroine Pdt Srikrishnudulati koduku puttavatchu",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Veedani Bandhalu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Krishnaraya Pictures, Hyderabad",
+    "cert_no": "M -11833",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "From the text of song beginning with the words Atha koduku delete the following lines: From ‘Nallani Raga diraa io Nekkuvaga ezduladi , (3 lines) From (Pothenu koodis aru . to Vuthaga undalenu (2 lines ) From Inkokkasarı, to ( Pora ( lline)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Repetition of Pallavi with picturisation",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Hrudaya Doepa",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Anurag Enterprises, Bangalore",
+    "cert_no": "M / 12683",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of side hero kissing the heroine",
+        "length_m": 4.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot of a man placing his hand on the breast of a girl and trying to unbutton her blouse in the bus",
+        "length_m": 2.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visuals of the exposed thighs of the heroine as she wades through the water towards the hero",
+        "length_m": 5.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visuals of the exposed thighs of the heroine as she wades through the water towards the hero",
+        "length_m": 2.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visuals of the exposed thighs of the heroine as she wades through the water towards the hero",
+        "length_m": 3.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visuals of the exposed thighs of the heroine as she wades through the water towards the hero",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Love-making between Deepa and Ramesh in the bed-room by retaining the shot of heroine sitting on the cot and cutting to the shot of the hero and heroine under the blanket",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Dialogue of the hero and heroine: Needu Melugore Malikuke Nanu Kelegade Malugutheno",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Obese comedian shaking the chest inside the bus and the son placing his head on it",
+        "length_m": 9.04
+      }
+    ]
+  },
+  {
+    "film_title": "Bombai Mail",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Alarmelu Manga Productions Madras",
+    "cert_no": "M / 12473",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "All close-ups of breast jerks of the dancer",
+        "length_m": 10.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shots of dancer jerking her breasts while leaning on the table",
+        "length_m": 4.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Tight close-up of the breast followed by the zoom-back",
+        "length_m": 2.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "The low-angle shots of dancer",
+        "length_m": 26.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shot of dancer's cleavage as she is lying on the table",
+        "length_m": 21.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "The opening top-angle shot of dancer lying on the floor",
+        "length_m": 5.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shots of dancer shaking her midriff",
+        "length_m": 13.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shot of dancer placing her leg on the chair",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shots of dancer slapping her torse and bottom",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Lyric from the song beginning with the words Talam pottu Parkkum Munnoy, Thappa Righta Terinjukko",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Elephant crushing Kapalj, to just the initial shot of the leg being placed on his chest and then cut to the long-shot of the dead-man. The intermittent shots of the elephant's legs on the man's chest, the blood spurting from his mouth and the close up following should be deleted",
+        "length_m": 37.71
+      }
+    ]
+  }
+]

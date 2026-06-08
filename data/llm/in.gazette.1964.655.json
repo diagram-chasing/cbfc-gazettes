@@ -1,0 +1,300 @@
+[
+  {
+    "film_title": "Trailer of Captain Sindbad",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "A King Brothers Productions",
+    "cert_no": "39961",
+    "cert_date": "27-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Close-ups of the dancing girls in scanty dress.",
+        "length_m": 1.74
+      }
+    ]
+  },
+  {
+    "film_title": "Goa Yesterday And Today",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Vision",
+    "cert_no": "39964",
+    "cert_date": "29-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Picturisation of Bells and Crosses, Temples and Mosques.",
+        "length_m": 24.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "References to religious persecution, conversion to Catholic faith, Catholics supporting Portuguese, Goa as centre of religious persecution etc. (Sound)",
+        "length_m": 24.39
+      }
+    ]
+  },
+  {
+    "film_title": "Kala Jadoo Alias Black Magic",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A. Rahim & A.J. Dossani",
+    "cert_no": "39968",
+    "cert_date": "29-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels /, VIII A XI",
+        "description": "Direct thrusts by sword into the bodies of human beings.",
+        "length_m": 8.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Indecorous rolling on the ground by the heroine in the dance sequence.",
+        "length_m": 3.36
+      }
+    ]
+  },
+  {
+    "film_title": "Akela",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "J. B. Lulla",
+    "cert_no": "39336",
+    "cert_date": "21-9-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Mother refusing to accept ration from Baniya.",
+        "length_m": 53.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Scene of Rajan with his mother.",
+        "length_m": 71.63
+      }
+    ]
+  },
+  {
+    "film_title": "West Side Story",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century-Fox Corp., (India) Private Ltd.",
+    "cert_no": "1391",
+    "cert_date": "14-6-63",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII ( Part 4,4)",
+        "description": "Song \"Tonight, Tonight\" sung by Tony and Maria on the balcony.",
+        "length_m": 104.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII (Part 1 A )",
+        "description": "Song \"Make of our Hands one Hand” sung by Tony and Mari after their imaginary marriage in the Dress shop.",
+        "length_m": 42.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI (Part 85)",
+        "description": "Song \"There’s place for us, somewhere\" sung by Tony and Maria after he has been wounded and he comes to her room.",
+        "length_m": 49.68
+      }
+    ]
+  },
+  {
+    "film_title": "Kala Jadoo Alias Black Magic",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A. J. Dossani",
+    "cert_no": "39968",
+    "cert_date": "29-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Balam Coming to Diwan",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shersing ordering arrest of Rajkumari.",
+        "length_m": 38.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Sheila asking Diwan to help Rajkumari.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel /JT",
+        "description": "Balam soliloquising outside the cave.",
+        "length_m": 63.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Pangoraj asking to throw away bones",
+        "length_m": 22.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Guards massaging Shersing.",
+        "length_m": 130.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Soldiers arresting Diwanji.",
+        "length_m": 11.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shersing speaking in Darbar.",
+        "length_m": 37.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Maharaja lecturing in Darbar.",
+        "length_m": 33.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Soldiers giving chase.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Buggie passing.",
+        "length_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "Phir Wohi Dil Laya Hoon",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "producer": "Nasir Husain Films Private Ltd.",
+    "cert_no": "39755",
+    "cert_date": "5-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scene of Rajendra Nath biting telephone apparatus.",
+        "length_m": 34.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Scene of Rajendra Nath doing exercise.",
+        "length_m": 20.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The scene of dance competition.",
+        "length_m": 70.1
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X//",
+        "description": "Song beginning with the words \"Abko Dil Wale \" and scene of Professor and Mona and Mohan.",
+        "length_m": 176.48
+      }
+    ]
+  },
+  {
+    "film_title": "Mooga Manasulu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "C. Sundaram",
+    "cert_no": "37920",
+    "cert_date": "30-11-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete the question whether there was starting trouble? (Sound only)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the old man’s sentence that Gowri gave up her virginity to Raju. (Sound only)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the dialogues of Gopi and Gowri about ‘giving’ . . . .",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Raju asking Appigadu about Gowri — from l Aite mari’ up to and including ‘Paadalu daggira’",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete dialogues of Kantamma and Raju indicating he had a wife already",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "At the hay stack, delete Appigadu bringing Raju and asking for and taking money",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete Raju hiring rowdies for money and instructing them . . . .",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the assault of Raju on Gowri",
+        "length_m": 4.26
+      }
+    ]
+  }
+]

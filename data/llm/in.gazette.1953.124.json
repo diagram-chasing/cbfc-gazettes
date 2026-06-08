@@ -1,0 +1,175 @@
+[
+  {
+    "film_title": "Haridarahan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kala Kendra, Shrikant Studios, Chombur, Bombay.",
+    "cert_no": "9110",
+    "cert_date": "14-9-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shot of Mahantri kicking the Puja utensils",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Surang",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rajkamal Kala Mandir Ltd., Shantahree, Govt. Gate Road, Bombay-12.",
+    "cert_no": "9139",
+    "cert_date": "17-9-63",
+    "endorsement": "U",
+    "original_length_m": 3772.1536,
+    "length_deleted_m": 31.0896,
+    "final_length_m": 3772.1536,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "One close-up shot of Munshi with dialogue about compensation to the deceased and taking the 'Be. C/o' for expenses in connection with the burning of the dead body of Lalua",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "All shots of dogs barking at the boy and girl when they are picking up bread from the dog's plate and shots of dogs chasing the children until they fall from the cliff and are killed",
+        "length_m": 16.764
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "All shots after Pagli Devi asks Dayaram to keep away from her, except showing Payam catching hold of her arm",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Papi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Ranjit Movietone Co., Main Road, Dadar, Bombay.",
+    "cert_no": "8026",
+    "cert_date": "17-9-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Dialogue between a man and Raju from 'Charan toraf...' up to '...badi taqat bana sakte hain'",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogues between the child and Raju from 'Manushya janma, tou bal' up to 'main bachcha nahin teri atma hoon'",
+        "length_m": 20.1168
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Raju's words: 'suniyo—' up to '—uddhar kar sakta hai'",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Raju's words: 'Nakhraji—' up to '—sarkar, ke samne'",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Raju's words: 'Chhote mere hunar' up to '—kaam kam aayenge'",
+        "length_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Thokar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jubilee Pictures Ltd, Marita Villa, 7, Bungalows, Andheri, Bombay.",
+    "cert_date": "18-9-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Song 'Ayegham-e-dil Korun w'",
+        "length_m": 83.82
+      }
+    ]
+  },
+  {
+    "film_title": "Gunah",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kidar Sharma, Ambition Pictures, Techart Studios Ltd., Dadar, Bombay.",
+    "cert_date": "18-9-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I A",
+        "description": "Scenes of Tiddi's quarrel with the potter, Pandit going on the camel and remarks of Posei and Patch Chand including some portion of the mother's plea for sending the boy to school",
+        "length_m": 314.2464
+      }
+    ]
+  },
+  {
+    "film_title": "Bhai Ratal Prabesh",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "The Radha Films Ltd., 72, Russa Road South, Tollygunj, Calcutta-33.",
+    "cert_no": "8411",
+    "cert_date": "18-9-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Omit Sanakan’s gesture of joining palms when he scandalizes Rita",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Shorten the arguments between Shambuk and Sri Ttamachandra and omit the actual execution",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Asal Magan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Messrs. Associated Producers, 11-Gopalakrishna Road, Madras-17.",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the classroom scene, delete teacher's words, 'Ennappa nee koodi mounaviratham irukkaya? Unakkum thani Mahanan venuma?'",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Remove the dialogue which says 'Enna Iruppa Ivathan avar avahaittimennu oliolrathuku uken, avasarapadaraye'",
+        "length_m": 5.4864
+      }
+    ]
+  }
+]

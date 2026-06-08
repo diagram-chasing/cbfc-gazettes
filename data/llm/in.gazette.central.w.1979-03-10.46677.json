@@ -1,0 +1,174 @@
+[
+  {
+    "film_title": "Azaad",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Pramod Chakravorty, Pramod Films, Natraj Studios, 199, Kurla Road, Andheri, Bombay",
+    "cert_no": "87534",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Replace the title 'Kaliyugu Seetha' with 'Kaliyuga Street'.",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII, XIII, XIV, XV, & XVI",
+        "description": "Drastically reduce all sequences showing torture-murder of Ajit Singh with various characters trapped inside.",
+        "length_m": 97.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Reduce the hitting of Thakursaheb by Ajit to a mere suggestion.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the lines from song No. 1: 'Abha nokkavonto nalo edo giba giba martathi and Eo challagalılo kooda chimagillipccu'.",
+        "length_m": 2.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the words 'Na aakaliki inkokattyvu' spoken by the tea-shop man to Sita.",
+        "length_m": 4.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete Ramu kissing Sita.",
+        "length_m": 4.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete Ramu mounted on Sita on the sand.",
+        "length_m": 1.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Substantially reduce the chasing of the girl."
+      }
+    ]
+  },
+  {
+    "film_title": "Pati Panni Aur Woh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "B R Films, Anand Villa, 15th Road, Santucruz, Bombay",
+    "cert_no": "87540",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Katherine kissing Putnam over the face.",
+        "length_m": 2.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace the shot of Katherine kissing Babu on the lips with a shot of suggestion of Kiss from behind Babu's head.",
+        "length_m": 1.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete shots from the picturization of the song where Babu is rolling on the girls.",
+        "length_m": 2.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete where Babu is standing astride two girls with all of them moving their hips.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Replace the shot of Babu kissing Katherine on the lips with an extreme close-up of the lips coming closer, cutting to a long shot of Babu and Katherine from behind his head, suggesting a kiss.",
+        "length_m": 1.74
+      }
+    ]
+  },
+  {
+    "film_title": "Vayasu Pilichindi",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sri Chitra, Madras",
+    "cert_no": "80244",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete shots of the hotel manager trying to remove Raja's underwear (up to where the hotel manager extends his hand can be retained).",
+        "length_m": 2.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace the shot of Raja and Padma rolling on each other.",
+        "length_m": 3.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Delete the words of the song from stanza 2 till the end (Charanam) and the picturization of the village dance."
+      }
+    ]
+  },
+  {
+    "film_title": "Nagam En Divam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "M S Cine Enterprises, Madras",
+    "cert_no": "80248",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete shots of the tribal girl moving and pressing her toe near Murali's face.",
+        "length_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the indecent movement of the tribal girl and Murali lying on the beach by the side of each other.",
+        "length_m": 1.54
+      }
+    ]
+  },
+  {
+    "film_title": "Naach Uthe Sangar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "III, VII, XIII, XV",
+        "description": "Approved addition of various shots.",
+        "length_m": 112.48
+      }
+    ]
+  }
+]

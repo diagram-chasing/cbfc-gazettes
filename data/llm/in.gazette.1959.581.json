@@ -1,0 +1,683 @@
+[
+  {
+    "film_title": "Milan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gulshan Lai Bahl, N.C. Films, Modern Studios, Kurla Road, Andheri, Bombay.",
+    "cert_no": "20127",
+    "cert_date": "30th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Fill",
+        "description": "Shots where Raju is dragged by Munshi",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Raju is beat on by Munshi with a stick",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably shots where Raju is beaten up by Munshi",
+        "length_m": 6.0,
+        "length_retained_m": 6.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Considerably Raju crying at the foot of the 'moorti' for his mother’s recovery, deleting shots where Raju strikes his head at the foot of the idol",
+        "length_m": 5.49,
+        "length_retained_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Princess Saabu",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R. B. Irani, Novelty Art, 244, Pallium Cine Building, Mahalaxmi, Bombay 11.",
+    "cert_no": "26130",
+    "cert_date": "30th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shot of Sirdar's body being pierced with a sword which is sticking in it",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIF",
+        "description": "Considerably lighting with weapons wherever it occurs",
+        "length_m": 9.14,
+        "length_retained_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Chalta Purza",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Atul Chitra Productions, C/o. Vimal Kumar & Co, Private Ltd., A-38, Tarabaug Estate, Bombay 4.",
+    "cert_no": "20131",
+    "cert_date": "30th December 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Vazir is pressed under a nailed stone slab",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "song No. 1",
+        "description": "The words: 'Bahon ka haar lai' wherever occurring, and the lines 'Sola seengar lai', 'Aa dil po var karle', 'Ankhen do char karlo'",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "song No. 2",
+        "description": "The line 'Meri Juwani tore bina bharti hai thhandi anhon'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "To a flash shots where the Prince drags the Raj Kumari from the horse and holds her in his arm",
+        "length_m": 3.35,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Wrong Number",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Om Prakash Seth, Solar Art Productions, Parel Tank Road, Parel, Bombay 12.",
+    "cert_no": "20145",
+    "cert_date": "2-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots where Chandu is shown with his legs up while sitting on sofa with Murli",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "song No. 2",
+        "description": "The lines 'Mujhe apna banaja thodi dor ke liye' and 'Lagi dil kl bujha ja thodi der ke liye'",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots where Chandu puts his blood in his sister’s ‘Maang’ (parting of the hair). Chandu’s dialogue to his sister and Ramosh attributing the motive of his criminal career to his desire for celebrating the marriage of his sister and expressing sentiments which elicit sympathy of the audience for him",
+        "length_m": 17.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "fight considerably",
+        "length_m": 18.0,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Considerably shots where Chandu slaps his sister",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "God’s Little Acre",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sidney Harmon",
+    "cert_no": "20146",
+    "cert_date": "2-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of a women’s bosom being prominently shown and her breasts partially exposed",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of a women in semi nudity in a bath tub with a man nearby",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of a man fondling and sqnezing woman’s thighs while clasping her",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of a man kissing a woman passionately while nhe is ooming down tho stairs",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Minister",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jahangir Productions, 224, Famous Cine Building, Mahalaxmi, Bombay 11.",
+    "cert_no": "20148",
+    "cert_date": "2-1-60",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots where Rekha is lifted up in arms by a man and is whirled round during the dance",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Remarks of the Judge exerting pressure on Rekha to give evidence against her husband",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Shots and dialogues where the Minister requests permission to interfere, is allowed to do so, and is shown to exert pressure on his daughter-in-law to tender evidence against her husband",
+        "length_m": 46.94
+      }
+    ]
+  },
+  {
+    "film_title": "My Gun Is Quick",
+    "languages": [
+      "English"
+    ],
+    "producer": "Parklane Pictures Inc.",
+    "cert_no": "20149",
+    "cert_date": "3-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of Nancy and Mike kissing and embracing on couch",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot of Maria Zipping her costume down",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shot of Maria removing her skirt and tossing it",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shot of girl dancer removing her clothes as she dances",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Fighting with guns",
+        "length_m": 1.22,
+        "length_retained_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "King Creole",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "Paramount Pictures Corporation.",
+    "cert_no": "823",
+    "cert_date": "30-12-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "F7",
+        "description": "The ‘banana’ dance",
+        "length_m": 57.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Danny almost lying on Ronnie and making love to her",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "The fighting between Maxie and Danny particularly removing the repeated blows on Maxie when held against the wall. Reduce the shot when Maxie’s hand is banged against a desk drawer. In fight between Danny and Shark, remove two elbow blows on the latter’s head",
+        "length_m": 6.71,
+        "length_retained_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Anari",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "L. B. Lachman, L. B. Films, Central Studios, Tardeo, Bombay 7.",
+    "cert_no": "26153",
+    "cert_date": "5-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Montage shot of Arti in witness box when she appears again after she has given evidence incriminating herself",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Rajkuman's comment on oath administered to him in the court",
+        "length_m": 9.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Decks Ran Red",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer",
+    "cert_no": "827",
+    "cert_date": "7-1-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Close views of Mahia appearing in a low-cut dress revealing her bust, particularly shots in which she serves soup to Rumil and their dialogue",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "To a flash the scene in which Martin is trying to molest Mahia",
+        "length_m": 3.3,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Appearance of Mahia in dishabille",
+        "length_m": 2.74,
+        "length_retained_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Legend of The Lost",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama, Colour",
+    "producer": "Henry Hathaway",
+    "cert_no": "828",
+    "cert_date": "7-1-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The shot in which Dukas resumes his place at the head of the procession and signals it to move forward again",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "All shots in which semi-nude girls are seen dancing indecorously in cafe",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shot in which Dita’s skirt is seen going up exposing her thighs, in her scuffle with Joe",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "From Dita’s dialogue the passage — ‘Same hands crawling all over me like bugs’",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The shot in which Joe moves his fingers mischievously over Dita’s bust exposed slightly by torn blouse",
+        "length_m": 0.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "All shots in which Paul is seen spitting on his father’s grave, kicking savagely at it and throwing a bottle contemptuously at the grave",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably the fight between Joe and Paul, particularly deleting the shots in which Joe throws Dita overhead and later kicks her on the posterior",
+        "length_m": 6.1,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably the shots showing skeletons strewn around on sand in dead city",
+        "length_m": 20.42,
+        "length_retained_m": 27.13
+      }
+    ]
+  },
+  {
+    "film_title": "Seven Thunders",
+    "languages": [
+      "English"
+    ],
+    "producer": "The Rank Organisation Ltd.",
+    "cert_no": "829",
+    "cert_date": "9-1-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The underlined words from Lise’s dialogue to Dave, ‘Now they are all old men or young boys, I’m glad you came’",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "The word ‘bitch’ from Erich’s dialogue",
+        "length_m": 0.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "To a flash shots of Linschlag banging Dave’s head down on the roof",
+        "length_m": 1.52,
+        "length_retained_m": 0.82
+      }
+    ]
+  },
+  {
+    "film_title": "Onionhead",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "830",
+    "cert_date": "9-1-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shot of A1 touching Stella’s shoulder and attempting to lift up her blouse",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably shots of A1 and Stella dancing very close, cheek to cheek and amorously behaving with each other",
+        "length_m": 26.82,
+        "length_retained_m": 11.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Viola of A1 repeatedly kissing Stella near the door",
+        "length_m": 6.1,
+        "length_retained_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Madhumati",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimol Roy Productions, Mohan Studios, Andheri, Bombay.",
+    "cert_no": "25313",
+    "cert_date": "10-9-58",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 3437.34,
+    "alterations": []
+  },
+  {
+    "film_title": "Anari",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "L.B. Lachman, L.B. Films, Central Studios, Tardeo, Bombay 7.",
+    "cert_no": "26153",
+    "cert_date": "5-1-59",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 4505.0,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Replacement",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Off sound",
+        "length_m": 1.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Added",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted",
+        "length_m": 27.13
+      }
+    ]
+  },
+  {
+    "film_title": "Raja Malaya Simhan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Vikram Productions, 41, G.N. Chetty Road, Madras 17.",
+    "cert_no": "22694",
+    "cert_date": "7-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Before and during song No. 2, delete all picture of Sundari in mid-close shots and close-ups. (No objection to long shots)",
+        "length_m": 33.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the picture of Manorama dead with bleeding face. (No objection to a flash establishing death)",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all the near shots of the monster spider, including tracking shots. (No objection to long shots)",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the picture of Madhavan as a Chinaman trying to eat spaghetti with chopsticks and lamenting his choice of disguise",
+        "length_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Delete Madhavan’s statement to Malathi that the moustache and beard were obstacles for his desire at that time",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Thangapadhumai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Jupiter Pictures Private Ltd., Greenways Road, Madras 28.",
+    "cert_no": "22683",
+    "cert_date": "10-12-58",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 5820.0,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1,3,9,10,10,18,22",
+        "description": "Addition of a total of 699 ft.",
+        "length_m": 213.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "3,14,21,22",
+        "description": "Voluntary deletion of 350 ft.",
+        "length_m": 106.68
+      }
+    ]
+  },
+  {
+    "film_title": "Mamiyar Machiya Marumagal",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "AVM Productions, Arcot Road, Madras 20.",
+    "cert_no": "22685",
+    "cert_date": "10-12-58",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 4829.3,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1,15",
+        "description": "Addition of 5 ft. in Reel No. 1 and 174ft. in Reel No. 15",
+        "length_m": 54.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Voluntary deletion of song No. 2",
+        "length_m": 100.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "15 to 10",
+        "description": "Change of a scene 105 ft.",
+        "length_m": 32.0
+      }
+    ]
+  },
+  {
+    "film_title": "Shararal (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rushni Films, 309-B, Famous Cine Building, Mahalaxmi, Bombay 11.",
+    "cert_no": "26717",
+    "cert_date": "15th January 1959",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "final_length_m": 4294.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Nl V",
+        "description": "Dialogue between ‘Chacha and Chachi’",
+        "length_m": 7.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "By one-third idiots where funeral pyre of Chandan is shown",
+        "length_m": 29.87,
+        "length_retained_m": 19.75
+      }
+    ]
+  },
+  {
+    "film_title": "Mardi Gras",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "Jerry Wald Productions Inc.",
+    "cert_no": "26719",
+    "cert_date": "16-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From scene of Michelle dressing (after Press conference), near views in which her bust, thighs and underwear are revealed prominently",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Striptease act of Torchy as also amorous movements of her lust while she is receding from camera",
+        "length_m": 34.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of Edie in which her thighs and underwear are seen exposed prominently when her skirt swirls up in dance movement",
+        "length_m": 6.91
+      }
+    ]
+  }
+]

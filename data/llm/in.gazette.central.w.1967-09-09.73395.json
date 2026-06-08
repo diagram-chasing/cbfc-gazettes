@@ -1,0 +1,940 @@
+[
+  {
+    "film_title": "Gunfight In Abilene",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Universal Pictures Pvt. Ltd., Metro House, Bombay-1.",
+    "cert_no": "49739",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I(1A)",
+        "description": "Reduced to a flash the hauling off of the old farmer",
+        "length_m": 2.03,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V(3A)",
+        "description": "Reduced whipping of Decker by Slade",
+        "length_m": 4.26,
+        "length_retained_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Muscle Beach Party",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Kaykay Film Distributors, Bombay.",
+    "cert_no": "49740",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the prominent views of girls in indecent costumes exposing their busts",
+        "length_m": 1.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the indecerous movements of dancers",
+        "length_m": 0.69
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of To Bed or Not To Bed",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Kaykay Film Distributors, Bombay.",
+    "cert_no": "49742",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot showing the closing of light by foot when the Italian tries to make love with young woman",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of the woman in train with emphasised busts seen in profile",
+        "length_m": 2.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of the Italian passionately kissing doctor's wife",
+        "length_m": 0.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of the girl falling on the Italian and kissing him passionately in the car",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "Raat Andheri Thi",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Sargam Chitra, Evergreen Bldg., Naaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "49744",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "From the picturisation of the scene Raton kisiyahi hai... after the start of a man circling a girl around a tree with his arms and a man pushing a girl with his posterior",
+        "length_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the shot showing Tourain whistling at a lady in the hotel",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "In the picturisation of song No. 2 'I love you' where the shot of the hero and the heroine turning their faces whilst sitting at the table to give the impression of kissing",
+        "length_m": 1.52,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the shot of the driver's blood-stained face after he warns the hero whilst dying",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "From the picturisation of the song 'Jaane chaman is javo...' delete shots of the girl with flesh of her bosom exposed and shot of her lying flat in the boat, also delete the shot when Asha stretches herself emphasising her bust as also shots of their last approaching faces",
+        "length_m": 19.2,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the shot of winking by Totaram. Delete the shot of a girl lying flat on the cart during the song 'Bale bale kudiya...'",
+        "length_m": 13.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "From the picturisation of the song 'Moshi moshi, kaise ho je...' delete the shots of the dancer in shot coat jumping and throwing her legs exposing her thighs. Delete her shot in bathing dress with bust emphasised, and delete the shot of the girl lying flat on the grass",
+        "length_m": 5.18,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "From the picturisation of the song 'Ek ladki zindagi pyasi hai...' delete shots of indecorous movements of the dancer and shots of the dancer in white dress with emphasised bust and her throwing the chest forward",
+        "length_m": 19.81,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "In the fight between the hero and the villain's henchmen, reduce shots in which the hero's lead is being placed between the two approaching parts on faith",
+        "length_m": 1.83,
+        "length_retained_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels XIV & XV",
+        "description": "Reduce the fight and shooting",
+        "length_m": 5.79,
+        "length_retained_m": 43.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel Y1",
+        "description": "Reduce prominent view of persons with horrified face when they are trapped between two steel doors",
+        "length_m": 14.02
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Return From the Ashes",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corpo. (I) Pvt. Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "49745",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the kissing of Fabi and her step father",
+        "length_m": 3.19
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Penelope",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer (I) Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "49747",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce drastically the molestation of Penelope in the Laboratory, keeping the portion upto the beginning of pulling and tearing of her dress and the final portion when she is shown running away",
+        "length_m": 6.13,
+        "length_retained_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "In the dance hall when men and women fall on one another in a heap, delete the shot of a woman with her skirts raised and legs exposed when she falls down",
+        "length_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "The Young Warriors",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Universal Pictures (I) Pvt. Ltd., Metro House, M.G. Rd., Bombay-1,",
+    "cert_no": "49753",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII(4B)",
+        "description": "Reduced close shot showing Firchild being enveloped in blood when wounded",
+        "length_m": 1.9,
+        "length_retained_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII(4B)",
+        "description": "Reduced shot showing direct thrust of bayonet in the chest of Firchild by the German",
+        "length_m": 3.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX(5A)",
+        "description": "Reduced close shot showing Sergeant Cooley being enveloped in blood when wounded",
+        "length_m": 7.95,
+        "length_retained_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Kaleidos cope",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Bldg., Churchgate, Bombay-1.",
+    "cert_no": "49763",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Barney snapping padlock with pincers.",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Angel sitting on cow's back and Barney pouring beer into her glass",
+        "length_m": 1.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Angel lying on the bed in nude with little covering on the hips",
+        "length_m": 1.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Johnny enveloped in flames after being shot by the flame gun",
+        "length_m": 1.43
+      }
+    ]
+  },
+  {
+    "film_title": "Muscle Beach Party",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Kay Kay Film Distributors, Bhaba Bldg., Princess Street, Bombay-2.",
+    "cert_no": "49782",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete prominent views of girls in indecent dress exposing their busts",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the words of Julie & It's sexy (P. No. 11)",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete indecorous movements in dance",
+        "length_m": 2.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete indecorous movements of chest by dancer",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete indecorous shots in profile and from front of busts of men and their indecorous movements",
+        "length_m": 2.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels III, VI & VII",
+        "description": "Delete indecorous movements of the blonde girl dancer, Candy",
+        "length_m": 7.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete the following words: Deo Deo: ...or because he is the only man on the beach. Julio: Because he looked hungry. His last meal obviously didn't satisfy him. Deo Deo: 'I'm sure you could cater supper for any entire army. (b) Julio: Ob, no, one man at a time... I like to be a devoted chef! Deo Deo: But right now you're serving a lot of free meals. Sort of a one man broad line",
+        "length_m": 9.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete the following words: (P. No. 12) Love now... pay later plans.",
+        "length_m": 0.93
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the free for all fight, omitting shots of breaking glass bottles at the feet and reduce shots of stomach blows by girl and reduce hard blows improminent views",
+        "length_m": 3.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X7",
+        "description": "Delete prominent views of girls in indecent dress exposing their bosom",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of This Property Is Condemned",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Road, Bombay-1.",
+    "cert_no": "49780",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of Alva's back whilst in bed and after in suggestive wrap and delete the words of Hazel 'You did not even have the sense to lock the door... you and that rat.'",
+        "length_m": 3.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the reference: 'what those old fools are gonna do when they get sweet on a good looking girl like you.'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of Owen and Alva close embrace after they stumble over the chair",
+        "length_m": 2.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the prominent views of Alva in low-neckline dress",
+        "length_m": 1.8,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the prominent views of blows in the beating up of Owen",
+        "length_m": 1.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the views of Alva in low-neck dress on the main title keeping only a flash",
+        "length_m": 0.6,
+        "length_retained_m": 0.5
+      }
+    ]
+  },
+  {
+    "film_title": "Radiant Beauty",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "G.S. Chawla, India Art Films, Bombay.",
+    "cert_no": "50103",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete close shots showing the thighs of the girls who have worn swimming costumes",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "OSS 117 III Terror In Tokyo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Overseas Film Corpn. Pvt. Ltd., Sukh Sagar, Hughes Road, Bombay-7.",
+    "cert_no": "50110",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of women in bikini displaying their figures",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete Tetsuko bending over and kissing Hubert who is lying on the floor",
+        "length_m": 1.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot showing girls undressing Hubert",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to the bare minimum the fight between the Japanese wrestler and Hubert",
+        "length_m": 2.13,
+        "length_retained_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Under White Sails",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "CS",
+    "producer": "20th Century Fox Corp. (I) Pvt. Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "50111",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the close shots showing the bikini clad lady sleeping on the deck of the ship",
+        "length_m": 2.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the close shots showing the bikini clad lady sleeping on the sand",
+        "length_m": 2.35
+      }
+    ]
+  },
+  {
+    "film_title": "The Trap",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Rank Film Distributors of India Ltd., Dhannur Bldg., Sir P.M. Road, Bombay-1.",
+    "cert_no": "50112",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the shot showing wolves fighting amongst themselves and later attacking the trapper",
+        "length_m": 1.85,
+        "length_retained_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the following words: Reed: 'What use is woman when she is not a woman' 'Eh..,when she doesn't keep a man's bed warm at night' 'She doesn't laugh with him at night and make children. tell me that!'",
+        "length_m": 4.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce considerably the shot showing attack of wolves on the trapper La Bete",
+        "length_m": 3.0,
+        "length_retained_m": 2.45
+      }
+    ]
+  },
+  {
+    "film_title": "Samay Varte Savadhan (Rev.)",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35 mm",
+    "producer": "People Pictures, 2/G Dhanpatrai, Nuaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "50113",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Reduce shot showing close physical proximity between Rajesh and Urmila during the song. Delete the shots showing their faces very near each other's towards the end of the song.",
+        "length_m": 1.51,
+        "length_retained_m": 1.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "In the dialogue between Mafatlul and his wife, delete the reference to the Ananthashrama",
+        "length_m": 1.74,
+        "length_retained_m": 0.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete suggestive dialogues of Rajesh in the first night scene about his wanting children",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce to the bare minimum the interference of the Nisha in the Court proceedings",
+        "length_m": 11.89,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "In Id Mani's dialogues, delete reference to there being no doubt about children being their own. Also delete dialogues about the plant waterdict illu muuzi its alorçading out of the family planning poster by mam1 and 121111. Reduce the shot of the Posict.",
+        "length_m": 18.9,
+        "length_retained_m": 5.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Delete the scene in Mana's lcune stakastive of monthly period and delete the shots showing children beating on Mama's balsi",
+        "length_m": 35.05,
+        "length_retained_m": 32.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the song Ame Anadumudi delete the words from Samajwadi, Congresswadi, Shahiwadi upto M Vitamwadı.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the reference by Dalmal in Mumu n children having stones in the collection botes",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the words of Dalmat to Lucy, about the meeting of Ek Jawani with Beeji Jawani and the result",
+        "length_m": 6.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII & II",
+        "description": "Modify the scenes in such a way is to show time lapse between the death of Rajesh and Kailash. dialogue of suggestive JDUTOU and Urmila's going to Sadhu for medicine with Kailash.",
+        "length_m": 1.52,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete shots showing Sadhus drinking Sharab and his reference of Gunga Jal to sharab and Chela's reply Nayc phugge ka mau hai.",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete Mura's crida interpretation of the pressing of the door bell by his dialogue Darvajo kholavavade bull to dabava voj Padenc",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel LY",
+        "description": "Before the dream Junce yurts, delete the uyscytive shots showing Unila lying together with Kailash. In the picturisation of the song Badula matho Bedalų..., delete shots of indecorous dancing of the Paniharis Omii Kailash's words Bichara gamadiao chho tu undhu samajya...",
+        "length_m": 19.81,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "In the speech of Kailash in the court, change the reference of child marriage to that of betrothal in child hooxt as shown in the film.",
+        "length_m": 4.88,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "From the dialogues of Nisha, delete the words Patipanano adhikur bhogavata tame kyaice shiksbu? Hum Patnipana 110 adhikar bhogavinej raheesh.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the reference to Shardha ceremony in the sequence relating to feeding of a Brahmana by mama",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "From the picturisation of song Kem karine paloon bolo, d nicrurication of wong Kem karine Daloon bolo, delete shots of Nisha bending backwards and the prominent views of her lying on the teapoy. Also delete the shot of her indecorous movements of the posterior op music.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "In the picturisation of the Raas delete the opening shot where the faces of the dancers are very close to each other's",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Delete the shouting by the persons in the Court after the Judge dismisses Kailash's petition for divorce",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "The Trap",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "The Rank Film Distributors of India Ltd., Dhannur Bldg., Sir P.M. Road, Bombay-1.",
+    "cert_no": "2002",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted the underlined words from the commentary spoken by Trader to Captain - 'The whole lot were trussed up and burning like roust pigs.' 'Chillretis its well'",
+        "length_m": 2.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 17",
+        "description": "Reduced drowning of the half breed",
+        "length_m": 2.75,
+        "length_retained_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "This Property Is Condemned",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35 mm",
+    "producer": "Paramount Film of India Ltd., Hague Bldg., Sprott Rd., Bombay-1.",
+    "cert_no": "2006",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, IV & V",
+        "description": "Delete the prominent views of Alvi in low neckline dress with her boson exposed",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the prominent view of hard blows in the scene showing beating up of Owen by railroad men",
+        "length_m": 4.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete prominent view of Owen with blood trickling on his face",
+        "length_m": 1.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the passionate love scene between Owen and Alva and delete shots when her bare back and thighs are exposed. Reduce Alva's views in wrap when her mother comes to the room in the morning and reduce her running of out in the wrap",
+        "length_m": 5.65,
+        "length_retained_m": 4.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the love scene between Owen and Alva, deleting her views in suggestive dresses",
+        "length_m": 3.9,
+        "length_retained_m": 3.5
+      }
+    ]
+  },
+  {
+    "film_title": "OSS 117 - Terror In Tokyo",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "CS",
+    "producer": "Overseas Film Corpn. Pvt. Ltd., Sukh Sagar, Hughes Road, Bombay-7.",
+    "cert_no": "2008",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The shot showing the man removing fake labels from the ambulance van",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Drastically the scene of the girls in bikinis displaying their figures to the audience at the hotel, retaining only the long shots",
+        "length_m": 5.49,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "To a fish the view of the man hanging from the telephone wire outside the window",
+        "length_m": 1.83,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To the bare minimum the hand to hand fight between Hubert and Wilson in the motor launch",
+        "length_m": 2.44,
+        "length_retained_m": 6.5
+      }
+    ]
+  },
+  {
+    "film_title": "Anubhavam Pudumai",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Thirumagal Combines, Madras.",
+    "cert_no": "48844",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 2",
+        "description": "Reduce the sequence of Vanitha on the lap of Ramesh in car",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Song 1 - Delete Vanitha lying with busts prominently seen on the line Kinnathu Kaithal. Delete the shot of her on Ramesh in a bent position on the line Kekkavum Koodadu",
+        "length_m": 6.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Song 2 - Delete Ramesh blowing kiss on the word 'Muttham'",
+        "length_m": 1.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the kissing overture of Ramesh to Vanitha; also reduce the reactions of their lips in close-lips. Delete Murthi's words meaning 'What is the regard for Lord Buddha, Jesus Christ and others'",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song 3 - Delete the kissing posture of Vanitha and Ramesh in a still pose",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Song4 Delete Jayanthi facing camera with bust exposure. Delete the bust exposure when she is lying on the sofa on the line Manjan arindadu konjamo. (Does the bed know a little)",
+        "length_m": 3.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete Sivaswami swords 'The man with Krishna bhaktican also exist in the temple'. Delete Sivaswami actually cutting telephone wire in the street",
+        "length_m": 1.21
+      }
+    ]
+  },
+  {
+    "film_title": "Nirdeshi",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Gowthami Pictures, Madras.",
+    "cert_no": "48849",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel Sungl",
+        "description": "Delete the shot of Minju, with bust exposure when she is in a bent position on the line Roju Roju Moju Chesko. Delete her view in mid-shot with bust exposure when she is with Sundaram.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel (",
+        "description": "Song 2 - Delete the dancers kilt going up revealing indecent views of her thighs while circling (3 times). Delete her raising her head from the lap of Sundaram. Delete the prominent views of her bust contours seen when she is nearer camera.",
+        "length_m": 4.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete Simbu's dialogue Guk gula laduthulou cheyi",
+        "length_m": 7.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Simbu's dialogue Okka Pattu Patlu....",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "From the boxing match scene, delete Simbu caressing Manjula's Click in close-up when she is in a bent position. Delete his laying his hands round her waist and wriggling. Delete Simbu pointing to his cheek for a kiss, to Manjula.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete Sundaram Kissing Kanala on the forehead. Reduce to a bare minimum necessary for suggestion, Nagial pouring poison forcibly in the mouth of Kamati.",
+        "length_m": 6.99
+      }
+    ]
+  },
+  {
+    "film_title": "Bama Vijayam",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm",
+    "producer": "Manohar Pictures (Madras), Vandritsi. (Madras).",
+    "cert_no": "48850",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song 2 - Delete Bana bust exposure in mid-shot on the line 'Thalukku Thalukku'.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the bust exposure view of Bana lying on the bed with phone, in turning movement",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Rukmini's dialogue Maanam Mattum Rendu Laksham (rukkum.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the words Bangalore Mail from Krishnan's dialogue. (Sound only; replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the shot of Bami with bust exposure before she covers it with frock (when the thief enters). Delete the sentence Raanuva Puratchiktu Rahasiya Chandhi,",
+        "length_m": 4.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "From Krishnan's dialogue, delete the word 'Bible'. (Sound only; replacement approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "From Krishnan's dialogue, reduce the words Hindi Pandit occurring several times, retaining only once or twice. (Sound only; replacements approved).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the shots of Rukmini in transparent skirt where the undergarment is prominently seen. Song Delete the shot of Rukmini in tight pants with fingers on her sides, pointing to the front view. Delete her bust view at the pillar. Delete the bust exposure view of her when the doctor enters.",
+        "length_m": 7.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the bust exposure of Rukmini at the window when she is looking at Parvathi and Sita.",
+        "length_m": 0.6
+      }
+    ]
+  }
+]

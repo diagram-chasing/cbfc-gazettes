@@ -1,0 +1,569 @@
+[
+  {
+    "film_title": "मेरे साथ चल",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm Cinemascope",
+    "producer": "Chanderlal Navlani",
+    "cert_no": "18766",
+    "cert_date": "02-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Visuals of rape deleted.",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "The Naked Gun 2 1/2 : The Smell Of Fear",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "16769",
+    "cert_date": "09-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Entire sequence of symbolic love making and kissing, and all other insinuations deleted.",
+        "length_m": 7.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Visuals of Meinlelmer's birth marks on his naked hips being exposed by Police Officer reduced by 50%.",
+        "length_m": 4.57,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Shiv Shankar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm Cinemascope",
+    "producer": "Rajesh Khana, Rajesh Khanna Prods.",
+    "cert_no": "16770",
+    "cert_date": "20-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Burning of furniture in college compound reduced to a flash.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Visuals of Shanker putting leg on Indu deleted.",
+        "length_m": 2.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Shots of Minister, Driver, and Caretaker deleted.",
+        "length_m": 2.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Visuals of Shankar jumping with wriggling movements over the girls on the lawn in the song sequence deleted.",
+        "length_m": 4.31
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Word 'Istemal' in the song sequence replaced with a suitable word.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Visuals of Shankar hissing the girl reduced by 50%.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Visuals of boy rolling on the girl after the song is over 'Tuin Kis darwaje se ayo ho' deleted.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Initial visuals in the scenes where the girl is sitting with Manu Bhandari on the bed upto the point the camera starts moving back along with the dialogues deleted.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Molestation of Priya by the gangsters reduced to a flash.",
+        "length_m": 0.76,
+        "length_retained_m": 0.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Blood oozing out of persons as a result of firing reduced by 30%.",
+        "length_m": 0.91,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Blood oozing out of the circuit house caretaker and the driver when the Minister shoots at them at point blank range reduced by 40%.",
+        "length_m": 0.91,
+        "length_retained_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Zindagi Ek Juaa",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm Cinemascope",
+    "producer": "Prakash Mehra, Prakash Mehra Pictures Pvt Ltd.",
+    "cert_no": "993",
+    "cert_date": "29-04-1992",
+    "endorsement": "UA",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Visuals of firing, blasting and fire on the street reduced by 50%.",
+        "length_m": 0.94,
+        "length_retained_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Close-up of Kalia after he fails in to death deleted.",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Visuals starting from Juhi starts inhaling the drug till leaves the room deleted.",
+        "length_m": 1.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Juhi's smoking cigarette reduced.",
+        "length_m": 1.04,
+        "length_retained_m": 1.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Visuals of killing of Lal, particularly pushing drugs on his mouth by Harry reduced by 60%.",
+        "length_m": 0.94,
+        "length_retained_m": 0.49
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. Bond",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm Cinemascope",
+    "producer": "Keshu Ramsay, Maharaja Surajmal",
+    "cert_no": "2055",
+    "cert_date": "16-04-1992",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Added 'Fights between Dragon and Mr. Bond'.",
+        "length_m": 9.71
+      }
+    ]
+  },
+  {
+    "film_title": "Pati Patni Aur Woh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M.S. Sharma",
+    "cert_no": "16681",
+    "cert_date": "16-12-1991",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Various shots of visuals and sound starting from shot No. 2 'Mld shot B.M. trolly to L. and ending with shot no. 10 with MLS wife deleted.",
+        "length_m": 9.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shot No. 14 of visuals and sound of M.S. Wife deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Various shots of visuals and sound starting from shot no. 39 from MLS lala & husband to shot No. 83 ending with LS. wife deleted.",
+        "length_m": 51.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Various shots of visuals and sound starting from shot no. 85 with M.S. Manager and ending with M.S. Husband with shot no. 86 deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Various shots of visuals and sound starting with shot no. 89 from M.S. bulls and ending with shot no. 98 with low flowers husband Jumps Down deleted.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deleted shot no. 100 of MCU husband.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Various shots of visuals and sound starting with shot no. 102 of M.S. Wife and ending with shot no. 104 of L.S. to M.S. no. 6 deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Various shots of visuals and sound starting with shot no. 108 of MCU wife and ending with shot no. 110 of M.S. Husband deleted.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted shot no. 111 of low nosel of pump.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Various shots of visuals and sound starting with shot no. 113 of M.S. Husband and ending with shot no. 114 of M.S. Masterji group deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted shot no. 119 of M.S. Husband (both visuals and sound).",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted shot no. 121 of MS Husband pan wife (visuals and sound).",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted shot of optical shot and pack shot. (visual and sound).",
+        "length_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "Anandam",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Balaka Ghosh",
+    "cert_no": "5712",
+    "cert_date": "16-04-1992",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indrajit",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Biswadeep Dey",
+    "cert_no": "5716",
+    "cert_date": "20-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "All visuals from the end of dance sequence upto the point where the two thieves are touching policeman's feet deleted.",
+        "length_m": 7.99
+      }
+    ]
+  },
+  {
+    "film_title": "Dayasagar",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Shri T.S. Vijay Chander",
+    "cert_no": "90201",
+    "cert_date": "31-03-1992",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dayasagar",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Anbalaya Films",
+    "cert_no": "90196",
+    "cert_date": "06-04-1992",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Shivashankari ka Anuchitra",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Thenandal Pictures",
+    "cert_no": "90206",
+    "cert_date": "21-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Dialogue of Rajasekar deleted.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Dialogue of Sekhar deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Dialogue of Sekhar deleted.",
+        "length_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "Twingle",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Gayathri Cinema Enterprises",
+    "cert_no": "90198",
+    "cert_date": "21-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visuals of the dancer's breast cleavage reduced to a flash.",
+        "length_m": 0.91,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Ponnukettha Purushan",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Mars International",
+    "cert_no": "90208",
+    "cert_date": "22-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Dialogue 'Paavadaithu yerangitha ennalum seiya mudiyathu' deleted.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Dialogue 'Amma paayanga' deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Dialogue 'Aattimattikattidamaattom' deleted.",
+        "length_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "Mukha Mudra",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Techno Vision",
+    "cert_no": "90200",
+    "cert_date": "08-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visual of Malathy running in black bra with white wet dress when her breast jump deleted.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Visual of Raja hitting the head of a goonda against the tree reduced to a flash.",
+        "length_m": 0.93,
+        "length_retained_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Visual of Chembaruthi dropping towel and showing navel portion in the bathroom deleted.",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Visual of Chembaruthi showing Jetti in the last circle when she circles deleted.",
+        "length_m": 0.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Visual of one of the boys spitting reduced to a flash.",
+        "length_m": 0.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Visual of gangster spitting blood while his head is being hit reduced to a flash.",
+        "length_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Oor Mariyathai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm Cinemascope",
+    "producer": "M/s. Supergood Films",
+    "cert_no": "90203",
+    "cert_date": "08-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Dialogue 'Ambbedkar' uttered by the Minor (Goundamani) deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visuals pertaining to condoms, dialogue 'Sethudaa indaiku Muthamma' deleted.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Dialogue 'Samaan illamala' uttered by Minor to the watchman deleted.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Dialogue 'Manithan' uttered by the watchman deleted.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Visuals of Rathinam corresponding to 'Vethilayai killikayaa' in the song sequence deleted.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Visuals of Veerappan's two swords piercing deleted.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Producer permitted to retain only one set of visuals (tragic or normal end), normal end visuals deleted.",
+        "length_m": 2.41
+      }
+    ]
+  },
+  {
+    "film_title": "Poonamalle",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "M/s. Supergood Films",
+    "cert_no": "90200",
+    "cert_date": "08-04-1992",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Visual of Malathy running in black bra with white wet dress when her breast jump deleted.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Visual of Raja hitting the head of a goonda against the tree reduced to a flash.",
+        "length_m": 0.93,
+        "length_retained_m": 0.31
+      }
+    ]
+  }
+]

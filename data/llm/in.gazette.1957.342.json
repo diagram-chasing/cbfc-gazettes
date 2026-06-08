@@ -1,0 +1,720 @@
+[
+  {
+    "film_title": "Naughty Mermaids",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B-17748",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. /",
+        "description": "shots of girls with exposed bosoms and cleavage while swimming upwards",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "A similar shot",
+        "description": "similar shot at the end of the film",
+        "length_m": 3.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "the word 'Luscious' in the commentary",
+        "length_m": 0.37
+      }
+    ]
+  },
+  {
+    "film_title": "Under The Southern Cross",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B-18010",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red Nos. I do TT",
+        "description": "Views of nude aborigines",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. /V",
+        "description": "Views of nude aborigines",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. V",
+        "description": "Views of nude aborigines",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VII",
+        "description": "Views of nude aborigines",
+        "length_m": 0.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. VII",
+        "description": "Views of nude aborigines",
+        "length_m": 1.04
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Under The Southern Cross\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B-16011",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Views of nude aborigines",
+        "length_m": 0.37
+      }
+    ]
+  },
+  {
+    "film_title": "Between Heaven And Hell",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B-17810",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. /i",
+        "description": "Shots of Sam and his wife in bathing costumes, lying and cuddling on the couch near the swimming pool",
+        "length_m": 29.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. X",
+        "description": "long shrill scream",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Between Heaven And Hell\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B-17811",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Sam and his wife in bathing costumes when lying kissing and cuddling on the couch near the swimming pool",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "The Power And The Prize",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "B-17577",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. VIII",
+        "description": "From the sentence, 'A woman is called a prostitute and a communist', the word 'Prostitute'",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. 7 X",
+        "description": "From the sentence 'There is nothing subversive about her, she is not a communist', the phrase 'There is nothing subversive about her'",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Guys And Dolls",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B-15627",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red VI",
+        "description": "The entire sequence of the dance of the girls in the costume of cats in black netting suggestive of nudity with numerous shots of indecent body movements",
+        "length_m": 118.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Redvr r Reel XI and X II",
+        "description": "The second and third kiss shots of Adelaide in the same dress with Nathan",
+        "length_m": 43.89,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red XV",
+        "description": "The entire butterfly dance",
+        "length_m": 25.0,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red XV",
+        "description": "Shots of Sky and Sarah when they are in the open after they come out of the restaurant",
+        "length_m": 2.44,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red XV",
+        "description": "moment girls throw of* their dresses, revealing black lace under-garments and making indecent and suggestive movements",
+        "length_m": 52.73,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer No. 4B of “Guys And Dolls\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B-16028",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The entire dance of girls in the costumes of cats in black netting suggestive of nudity with numerous shots of indecent body movements",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "African Queen",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B-L7007",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. 7",
+        "description": "Africans walking in native dress and feathers",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. 7",
+        "description": "Shots of a gathering of Africans meeting Captain Allnutt",
+        "length_m": 31.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. 7",
+        "description": "Shots of Africans in native costume sitting under a tree",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. //",
+        "description": "The shot of Africans being captured and brought under armed escort",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "You Can't Run Away From It",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B-17821",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. VII",
+        "description": "The word 'Limb' from the phrase, 'Limb is mightier than the thumb'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "The words, 'Show them, the thigh and lift the petticoat high' from the song on the road",
+        "description": "The words, 'Show them, the thigh and lift the petticoat high' from the song on the road",
+        "length_m": 1.07
+      }
+    ]
+  },
+  {
+    "film_title": "Bodal Aus Bijlee",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-17846",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. IV",
+        "description": "Indecent gestures and vulgar jokes of the crew",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. VII",
+        "description": "Badal's dialogue pertaining to necktie indecently suggestive of sex",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XIV",
+        "description": "Shots where Chuni and Bijlee are shown fighting",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bed No. TT",
+        "description": "Fighting wherever occurring",
+        "length_m": 6.1,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. VI",
+        "description": "Fighting in the warehouse",
+        "length_m": 4.57,
+        "length_retained_m": 2.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. II",
+        "description": "Fighting Ship",
+        "length_m": 8.05,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. XIII",
+        "description": "Fighting Ship",
+        "length_m": 11.58,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. XIV",
+        "description": "Fighting Climax",
+        "length_m": 3.05,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. XV",
+        "description": "Fighting Climax",
+        "length_m": 0.61,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. F",
+        "description": "Considerably the dance sequence where a girl is victimized and is made to dance before Bijlee’s crew",
+        "length_m": 28.35,
+        "length_retained_m": 40.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. VII",
+        "description": "To a flash the sequence where Badal falls on Chuni and her boy friend making love",
+        "length_m": 11.28,
+        "length_retained_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. XIII and XIV",
+        "description": "To a flash the entire sequence where a little boy is terrorised by the blind man and keeping only the beginning shot in the dungeon and the last shot where the blind man goes over the cliff into the sea",
+        "length_m": 14.94,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. XIV",
+        "description": "To a flash the sequence where a child along with other faces firing squad",
+        "length_m": 3.35,
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Dwarkadheesh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-17815",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Bid No, V",
+        "description": "The shots of Kalindi in bathing costume suggestive of nudity while singing song No. IV",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bid No, VI",
+        "description": "The shots where Kalindi is captured and is made to bow before Bhaumasoor. Deletes Bhaumasoor's dialogue ordering that all virgin girls of swargalok be sent to the chief's harem",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bid No. VI",
+        "description": "Bhaumasoor's dialogue to Kalindi 'Mujhe shakti se leua parega'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bid No. VI",
+        "description": "The shots where Bhaumasoor abuses his mother, slaps her and throws her down",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bid No. VIII",
+        "description": "Full alone shots of serpents",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bid No. IX",
+        "description": "The sequence where Bhaumasoor comes to the dungeon and cuts off his mother's tongue",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bid No. XI",
+        "description": "The funeral procession and funeral pyre of Bhaumasoor’s mother",
+        "length_m": 41.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "4B",
+        "description": "All shots derogatory to Narada",
+        "length_m": 0.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "Ral No. VIII",
+        "description": "To a mere flash the sequence where Kalindi is shown in the dungeon of snakes—deleting also shots where serpents are shown crawling over Kalindi's body",
+        "length_m": 5.49,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bed No. XI",
+        "description": "To a mere flash the sequence where Bhaumasoor kills his mother",
+        "length_m": 2.13,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bid No. XIV",
+        "description": "Fighting",
+        "length_m": 24.69,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bed No. XV",
+        "description": "Shots of decapitated head of Bhaumasoor",
+        "length_m": 0.76,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. X///",
+        "description": "The sequence where Brahmins are shown and Bhaumasoor insults them and orders that they be burnt alive, keeping only the song",
+        "length_m": 13.41,
+        "length_retained_m": 108.53
+      }
+    ]
+  },
+  {
+    "film_title": "Baghdad Ka Jadoo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "cert_no": "B-17700",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Bed No. II",
+        "description": "The shots of Kasim and Yasmin rolling up and falling over each other during the course of the fight",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. II",
+        "description": "The shot where Yasmin holds heads of two boys and strikes them against each other",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. IX",
+        "description": "All shots wherever occurring where thefts are committed by Yasmin, excepting the two shots elimination of which affects the continuity",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XI",
+        "description": "All references to 'La Illah Ullah' wherever occurring",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XI",
+        "description": "From Yasmin's dialogue, the words, 'Islam' and 'La Illah Ullah'",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XI",
+        "description": "The following dialogue spoken in reply to Yasmin 'Jinn Ko Jala Doongi'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XIII",
+        "description": "Direct hits in the stomach on the 'uran khatola'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XIII",
+        "description": "Shots where Khalifa extols the bravery of the 'Luteran' and her band and calls them saviours of Baghdad",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed No. XIII",
+        "description": "All dialogues glorifying thefts",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Mtls Nos. III 7 V, PI* VII i IX, X y XII XIII",
+        "description": "The word 'Luteran' wherever used regarding Yasmin",
+        "length_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. II",
+        "description": "Considerably shots where children are shown fighting",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Gaumont British News No. 62/66",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-17934",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Until Colonel Nasser decided to seize it — and later, to close it to all shipping",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "They quickly advanced down the Canal to undertake police action in the interests of all Nations and to bring peace to the Middle East",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Hates (Red) symbols were destroyed",
+        "length_m": 0.73
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Spin. A Dark Web\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "B-17564",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shots of Della sliding down the couch and the man leaning over her and then kissing her and both lying on the couch",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The words of Bella 'Cal him down' and the action of Rico axing the rope tied to a railing and going round the pulley at the end of which the victim (Rico's henchman) is hanging",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the henchman thrusting a gun in the back of Jim when he arrives at Betty's house from the Jetty",
+        "length_m": 0.42
+      }
+    ]
+  },
+  {
+    "film_title": "Rook, Kook, Rock",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-17710",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Ruts Nos. VIII f- X",
+        "description": "Flash high of dancers, in dance sequence in which their thighs and underwears are revealed",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. VIII",
+        "description": "At the end of the song 'A Tui La' the shot of singing lady when she is winking",
+        "length_m": 0.73
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Rook, Rock, Ruck\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-17842",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shots of dancers, in dance sequences in which their thighs and underwears are revealed",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Anokha Jungle",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-17833",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. VIII",
+        "description": "The picturbation of the dancing girl taking her blouse and then drawing them away, when she sings the line, 'Pilo vah Damions' and of nearly exposed when she repeats these words",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. VIII",
+        "description": "Mantri’s remarks to Jeeta, 'Bhatakta hua raid it Rahi bill pahtmeh yajeata hai, gala men am mehel men bhi'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red No. X",
+        "description": "The remark 'Chain kapade utaro' during the fight between Pralcanh’s party and the tribal",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. IV",
+        "description": "The dagger fight between Pralcanh and Wuku champion",
+        "length_m": 2.44,
+        "length_retained_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reetu Non. VI and VII",
+        "description": "Fights between man and human mongoose and wild lizard, and man and leopard, omitting the shots of directed plundering of the leopard in the last scene",
+        "length_m": 6.1,
+        "length_retained_m": 15.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. X",
+        "description": "Wuku Chief pats his foot on the client of Bakabu",
+        "length_m": 2.44,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XI",
+        "description": "The scenes of Geeta, to open or twice only in such other scenes when she is pursued by wild beasts. Reduce the fight between Wakn and Bakabu chiefs omit completely the shots in which the woman places her foot on the chest of helpless, Reduce the fight",
+        "length_m": 3.05,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. XII",
+        "description": "The last fight between Mihirbhan and Mantri’s men on one side and Pralcanh’s party and Bakabu and Wakn Chiefs and their men on the other, amidst the saidistic and Hinkler shouting and laughter of the Wakn chief during the fight, leaving only two or three well-separated shots not in very near",
+        "length_m": 9.14,
+        "length_retained_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Anokha Jungle\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-17834",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The very close views of Mahashakti in bathing costume without any upper covering properly covering the upper portion of her body",
+        "length_m": 3.35
+      }
+    ]
+  }
+]

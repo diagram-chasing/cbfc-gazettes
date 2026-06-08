@@ -1,0 +1,523 @@
+[
+  {
+    "film_title": "Gun Fury",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "3D",
+    "producer": "Columbia Films of India Ltd., 33A, Marine Lines, Bombay.",
+    "cert_no": "11076",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rail VI",
+        "description": "Slayton's henchman being dragged behind horse",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "(2nd pair)",
+        "description": "All sounds of Jak being beaten up and hit by gangsters",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "fits! F",
+        "description": "Degas shooting at Blackit tied to a post",
+        "length_m": 18.8976
+      }
+    ]
+  },
+  {
+    "film_title": "Vijaygarh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gyan Parkash and Vishal Films, Bombay",
+    "cert_no": "307",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rul VI",
+        "description": "Two close-ups of Vijay Kumari with emphasised bust when she is talking to Ajit in the Camnaraj",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rml VII",
+        "description": "A man spitting out teeth in the palm of another man",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Obor Bazar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "All India Pictures, C/o. Famous Pictures Studio, Cadell Road, Bombay— 28.",
+    "cert_no": "307",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rell.t",
+        "description": "Textile rubbing the stem of a pumpkin",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "replacement",
+        "reel": "Roti j",
+        "description": "In the dance accompanying the song 'Ye dunlya ka male' the principal dancer making enticing gestures close to the chief of guards",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV IX X",
+        "description": "Words 'Barlsh hone P°bi® aA ndhi aa gayi', 'Anaron ka, amroodon ka, narangiyon ka', 'Afghani danda', 'In do thail'yon kvii kftroffl Beizum. Turn bhL apni ek thaili de do', 'Main us obor ko zyoda pwand karti hoon'",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "replacement",
+        "description": "Words 'Gtar banana *■ Main Shimoo ko zyada pasand karti noon '",
+        "length_m": 3.87072
+      },
+      {
+        "kind": "deletion",
+        "reel": "ReA IV and IX",
+        "description": "Words 'Mere qanb aao ; Chhuo to reshfcin'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bui VIII",
+        "description": "Shimoo lying faU™ b “ m th .° to P?* br ° ke ? *“t ben !**-",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "jtol ix",
+        "description": "The shots of Crnku with emphasised bust when she says 'Tumne mujho muaf kftr diva'",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "Ri^XIY",
+        "description": "Shimoo appointing thioven aa guards of the treasury and Yusuf stealing necklace from Shimoo",
+        "length_m": 19.812
+      },
+      {
+        "kind": "reduction",
+        "reel": "Ri^XIY",
+        "description": "Bust shaking and hip swinging of the dancer in the first dance, deleting shots where her petticoat goes up above the knees",
+        "length_retained_m": 1.70688
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red X i",
+        "description": "Considerably the stealing of wealth from the treasury by the thieves, particularly the modus operandi",
+        "length_retained_m": 46.9392
+      }
+    ]
+  },
+  {
+    "film_title": "Obor Bazar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. All India Pictures, C/o Famous Pictures Studio, Cadell Road, Bombay 28.",
+    "cert_no": "307",
+    "endorsement": "A",
+    "rule_applied": "Rule 29",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel X/F",
+        "description": "Scene of Yusuf smoking 'Hcka' as girls come along and sit with him while the song 'Yeh dunlya ka mele' is being repeated",
+        "length_m": 19.2024
+      }
+    ]
+  },
+  {
+    "film_title": "Maraner Farcy",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Himalayan Art Producers, 127B, Lower Circular Road, Calcutta-14.",
+    "cert_no": "9668",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Unnecessary drinking scenes",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Unnecessary drinking scenes",
+        "length_m": 36.576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Scenes of brutality and violence",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Scenes of brutality and violence",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "Scenes of brutality and violence",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Scenes of brutality and violence",
+        "length_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. A V M. Productions, Madras-26.",
+    "cert_no": "8218-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "The words 'Mama nam hal tumahnv Nairvmkh, Jokin \\o turn SurduH ...' to '... Taiso Jn raho ho valso hi aana'",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 5",
+        "description": "In the song, 'Man mormaohave shor', delete the close-up of bantu of Ram when she is bon backwards (replacement of 4 ft. of close-up of breast by head close-up of equal length approved)",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "The police Inspector loudly pronouncing '420' and Kanhore’s reference to Police toupee for having dropped the case",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Kishore's massaging gestures when Kamini is injured, except his first suggestion to Raja to massage the injured portion. Omit the words 'Ohot gann hal, maage karva lijiye, Iiaad men bahot faida hoga'",
+        "length_m": 11.5824
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. 7",
+        "description": "Considerably the Hurikatlia scene so as to remove its grotesque effect and delete the lines from 'Teh mard net samajekoi' and the repetition of the whole choupal, 'Naari nama llai rorak ka yeh mard na aanwigo koi, jo na. ri ke dev men Mae joovhii hhar voh ui'. The scenes to be shown in such a way that as soon as the words, 'Naari nama hai narak ka' are uttered for the first time, complete walk-out will be staged by the listener. Also delete the words 'Chwnarin ke aasur'",
+        "length_m": 56.6928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 12",
+        "description": "The close-ups showing the hollow between the busts of the dancer in the song 'Tndkw duniva ki diwar' (The close-ups of the whole dance as originally shot have been cut and surrendered to the Regional Office of the Board; the dance as re-shot has been approved). Also delete the words 'Choudhari ke gharmen ohamarlh baboo bankar ayegi'",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 7",
+        "description": "Reduce the use of the words, 'Hath! dant' and 'Kama' as referred to Nainsukhi Mama",
+        "length_m": 19.812
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. A. V. M. Productions, Madras-26.",
+    "cert_no": "8132-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 16",
+        "description": "Song by Kamini beginning with the words 'Ankh Roke Likhde Ank Roke' and ending with 'Kivr Na Sakegi Duniya la ddka Ab Nishan*'",
+        "length_m": 89.6064
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. A. V. M. Productions, Madras-26.",
+    "cert_no": "8132-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Table Tennis scene - Kamini and Rani playing table tennis (Picture and sound removed)",
+        "length_m": 18.8976
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Mirror breaking scene - Sonder’s image in the mirror and his mental conflict (Picture and sound removed)",
+        "length_m": 37.7952
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. A. V. M. Productions, Madras-26.",
+    "cert_no": "8132-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Rid A o. 13",
+        "description": "Colouring done for beginning leader",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "insertion",
+        "reel": "Rid A o. 13",
+        "description": "Colouring done for dance",
+        "length_m": 116.7384
+      },
+      {
+        "kind": "insertion",
+        "reel": "Rid A o. 13",
+        "description": "Colouring done at the end (for audience applause)",
+        "length_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. A. V. M. Productions, Madras-26.",
+    "cert_no": "8132-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel A o. 0",
+        "description": "A total length of 682 ft. in this reel has been coloured",
+        "length_m": 207.8736
+      }
+    ]
+  },
+  {
+    "film_title": "PENN",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. A. V. M. Productions, Madras-26.",
+    "cert_no": "8218-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Picture and sound of the song beginning with 'Aoham Nanam' and ending with 'Punven Nftney' removed voluntarily",
+        "length_m": 23.1648
+      }
+    ]
+  },
+  {
+    "film_title": "Rajoo-Peda",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M/s. B.A Subba Rao, No. 3, Njmmo Road, Madras.",
+    "cert_no": "8219-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel No. IB",
+        "description": "Delete the close-up shots of the dancer jerking and moving her bust, during song No. 7 (two bits 3 ft. plus 6 ft.) - replaced by two face close-ups",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 17",
+        "description": "Delete the close-up of Poll putting his fingers into the mouth of a soldier for tearing the face apart",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "Delete Poll putting his fingers into the nostrils of a soldier for pulling them apart",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "Delete the picture of Poll strangling the soldiers to death",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. Id",
+        "description": "Delete the close-up shots of Poll strangling Vikram (two bits. 10 ft. plus 9 ft.)",
+        "length_m": 5.7912
+      }
+    ]
+  },
+  {
+    "film_title": "Irullukkuppin",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Noola Productions, Trivandrum.",
+    "cert_no": "8222-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. L",
+        "description": "Delete the close-up shots of Radha’s bust, during song No. 1",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Roel No. 2",
+        "description": "Delete the picture of Babu’s gesture, when he leaves Vikram and Sarada (end of the reel)",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Delete Maori saying 'Sri Rama Buspooted Site's chastity'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Delete the close-up shots of Janu's bust in profile, during her conversation with the dance master",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Delete the picture and words when Babu pats Janu after the umbrella is taken by her husband (end of the reel)",
+        "length_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "Ponkathir",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "M/s. Noola Productions, Trivandrum.",
+    "cert_no": "8128-V",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Delete the shot containing the traffic policeman and the other policeman who is pushing the car without brakes to help Papuan. Delete the close-ups of Radha's busts in prominence when she is dressed in Mundu and tight-fitting choli before she is brought to the house of the Millowner after her father’s death",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Delete the close-ups of Radha's busts in prominence when she is drowned in Mundu and tight-fitting choli before she is brought to the house of the Mill-owner after her father’s death. In the drawing room, delete the pressing of both the cheeks of Sarala by Vikram from behind",
+        "length_m": 3.2004
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "In the car, delete the hugging of Sarala by Vikram after she draws him nearer to him",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "Delete the straight and profile close-ups of Janu's busts in prominence. Delete the actual appearance of the currency note in the pick-pocketing scene by Pappan from Vikram’s coat pocket",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Delete the words, 'Akrama' and 'Kolaipathakam' in the dialogues of the marriage commission agent with Madhu",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 12",
+        "description": "Delete the word, 'Jolichaithu' from Ravi’s dialogues with Sunku when the latter brings tiffin to the Mill’s office",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 0",
+        "description": "Janu and Sanku - Janu in profile in the composite shot",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Janu and dance master - Janu in profile in the composite shot",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. 14",
+        "description": "Ullasam Song - Ravi putting his arms around the waist of Sarla towards the end replaced by a shot of Garden",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Adhikari",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "M/s. Noola Productions, Trivandrum.",
+    "cert_no": "8221-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Delete Mortandam, while Rolling trees, saying that as a reward, the girl herself may be given",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the sounds made by Martandan and Manmathan, after they discover their wives and leave with them (Sound only)",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Delete the picture and dialogue of Manthanan and Marthandan being invited by their wives for love-making",
+        "length_m": 9.7536
+      }
+    ]
+  }
+]

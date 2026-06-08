@@ -1,0 +1,164 @@
+[
+  {
+    "film_title": "Sands Of The Kalahari",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Endfold and Starley Baker",
+    "cert_no": "47385",
+    "cert_date": "28-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of the bare midriff of a woman",
+        "length_m": 4.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of a woman taking bath",
+        "length_m": 2.66,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Sequence of scorpions climbing on the hand of Bain, particularly deleting the near-views of the scorpions and the close-ups of Bain's face registering fear",
+        "length_m": 2.9,
+        "length_retained_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The love scene between O'Brien and the woman, particularly deleting the dialogue about his getting her, as also deleting the earlier shots of O'Brien pawing all over her",
+        "length_m": 21.58,
+        "length_retained_m": 5.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The sequence of killing of a stag particularly by deleting shots of knifing",
+        "length_m": 3.05,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The sequence of O'Brien going into the cave of baboons and his smoking them out with fire brands, particularly deleting the near-views of the faces of the baboons and their reaction",
+        "length_m": 2.44,
+        "length_retained_m": 4.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The sequence of the fight of baboons with O'Brien particularly by deleting the near-views of O'Brien's and baboon's faces and his blood-stained chest",
+        "length_m": 17.37,
+        "length_retained_m": 5.0
+      }
+    ]
+  },
+  {
+    "film_title": "Blindfold",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Marvin Schwartz",
+    "cert_no": "47391",
+    "cert_date": "29-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "All shots of Vicky and the other chorus girls in transparent tight costumes",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Kalapi",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Ghanshyam Shah and N.C. Patel",
+    "cert_no": "47393",
+    "cert_date": "30-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The most shot in which Shobhana after lying on her back, turns and Kalapi bends over her face",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Dhananjay",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Prabhakar D. Nikalder & Bal Tendulker",
+    "cert_no": "47405",
+    "cert_date": "31-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From song beginning with the words 'Ah... Jum ek hansi hu n pe lackhen nighahen' the line 'basan licin tumare pyar ki kimat'",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "From the song dance sequence beginning with the words 'Aijlagi hay shart11128l...' The rdsCOICIA VILA of the female dancer on the words 'Pcencmen ajishaifanna kya'",
+        "length_m": 2.74,
+        "length_retained_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Ladki Savadiri Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "V. Shantaram Productions P. Ltd.",
+    "cert_no": "47309",
+    "cert_date": "14-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, IV, VI, XIII, XIV and XV",
+        "description": "Various shots",
+        "length_m": 151.79
+      }
+    ]
+  },
+  {
+    "film_title": "Rani Dhakki",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Taru Mukherjee",
+    "cert_no": "43470",
+    "cert_date": "29-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shots 17w1731golportin of the biraligs of Buinisikhu (heroine) in the bathroom scene",
+        "length_m": 5.48
+      }
+    ]
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "film_title": "Inkaar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Uttam Chitra, Ranjit Studios, Dadar, Bombay-14",
+    "cert_no": "86071",
+    "cert_date": "9-11-1977",
+    "endorsement": "U",
+    "original_length_m": 3738.07,
+    "length_deleted_m": 32.96,
+    "final_length_m": 3705.11,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce the fight between Raj Singh and others in the drinking den by deleting hard hits particularly on the stomach.",
+        "length_m": 10.05,
+        "length_retained_m": 27.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the fight between Amar and Raj Singh in the water tank and factory.",
+        "length_m": 10.05,
+        "length_retained_m": 30.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Drastically reduce the killing of dog by Raj Singh by deleting gruesome looking close-ups of the dying dogs.",
+        "length_m": 7.3,
+        "length_retained_m": 6.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Considerably reduce the killing of Police Officer under the box in the water.",
+        "length_m": 6.7,
+        "length_retained_m": 9.76
+      }
+    ]
+  },
+  {
+    "film_title": "Annan Oru Koil",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sivaji Productions, Madras",
+    "cert_no": "79774",
+    "cert_date": "7-11-77",
+    "endorsement": "U",
+    "original_length_m": 3796.43,
+    "final_length_m": 3778.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the close shot of Ramesh kissing Janaki on the neck, on the song line 'Ammamma Emamma' following line 'Thalai Adiyil Kai vaithu Urangu'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace close shot of Ramesh kissing Janaki on the neck with close shot of Ramesh and Janaki's back side of head.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the shot of Ramesh resting his face on Janaki's breast on the song lines, 'Paalodu paathirathai Eduthu, Panjamrutham Kalandhu koduthu'.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace shot of Ramesh resting his face on Janaki's breast with shot Ramesh putting his head on Janaki's shoulder.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the two shots of Ramesh kissing Janaki near her mouth on the songs line 'Thenunda Senkanivai Rendu Sringara Ragamenathirandu'.",
+        "length_m": 8.38
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace two shots of Ramesh kissing Janaki near her mouth with shot Ramesh putting his head on Janaki's neck.",
+        "length_m": 8.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the tearing of the blouse of a woman by the man in the rape sequence showing the theatre."
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Reduce the struggle between Baskaran and Lakshman after they leave the sofa, in the mole station sequence."
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the lines spoken by Shankar 'Vazhakkan pol Mudhal Dee. Appuram Naan'."
+      }
+    ]
+  },
+  {
+    "film_title": "Gadusu Pillodu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri M. Ramakrishna Reddy, Madras",
+    "cert_no": "79776",
+    "cert_date": "8-11-77",
+    "endorsement": "U",
+    "original_length_m": 4368.98,
+    "final_length_m": 4313.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the following exchange of dialogues between Vaikunthan and Papa Rao: 'Prabhuthvam Maari Poyega'."
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replace 'Prabhuthvam Maari Poyega' with 'Padimandikim Telesi Poyintharavatha Donga certificate demand poyindi Kottha prabuthvan Ochchindhika - sign natures Deney practice chesthanu'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the following line spoken by Vuikuntam by looking gleefully at Gajalakshmi: 'Ee illu naadhcy kindha paina vadukotsu'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete all references to Indian spoken by Sundaramurthi in reference to the Car."
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace references to Indian spoken by Sundaramurthi with 'Le Chinna Fiat Aa patha Fiat'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "In the picturisation of the song delete Ravi putting Lata's posterior rhythmically while lifting her on his shoulder."
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace Ravi putting Lata's posterior rhythmically while lifting her on his shoulder with cloud shots."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Ravi's feeling Lata's posterior with his hand and suddenly lifting and pressing her to him."
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace Ravi feeling Lata's posterior with his hand and suddenly lifting and pressing her to him with shots of rowdies."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete Sundaramurthi's suggestive gesture with the wooden ladle when he, in women's disguise, talks of drinking milk at night."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Sundaramurthi's action in inserting the ladle into the mouth of Vaikunthan pulling it out and indicating measurement."
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Delete the sequence showing the Gunda threatening the train driver and asking him not to stop at the next station."
+      },
+      {
+        "kind": "reduction",
+        "reel": "18",
+        "description": "Reduce the father and son beating up Papa Rao at the end."
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Delete all logo of a well-known Bank wherever it occurs in the film, RooNos. 3, 6, 8 and 12."
+      }
+    ]
+  },
+  {
+    "film_title": "Amekatha",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sri T. L. Kranthikumar, Madras",
+    "cert_no": "79777",
+    "cert_date": "8-11-77",
+    "endorsement": "U",
+    "original_length_m": 3933.13,
+    "final_length_m": 3933.13,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Ravi's words 'Munda' (occurring twice)."
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Replace Ravi's words 'Munda' with 'Kukka'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete reference to Andhra. Patrika."
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Replace reference to Andhra. Patrika with 'Akasamu'."
+      }
+    ]
+  },
+  {
+    "film_title": "Samudram",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri K. Sukumaran, Madras",
+    "cert_no": "79779",
+    "cert_date": "8-11-77",
+    "endorsement": "U",
+    "original_length_m": 4194.07,
+    "final_length_m": 4175.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Urine dripping from Sekar Eas's pants while he is caught by robber."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "In the bedroom scene, delete shots showing intertwining of legs, caressing leg, girl putting her leg on the boy, boy caressing the bare back, waist downwards."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete close-shots of Sreelata's bust near the fountain while sitting on the lyrics Kalyana rastriyil."
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace close-shots of Sreelata's bust near the fountain with a foreground shot."
+      }
+    ]
+  },
+  {
+    "film_title": "Rathimanmathan",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Manoj Movie Makers, Madras",
+    "cert_no": "79791",
+    "cert_date": "15-11-77",
+    "endorsement": "U",
+    "original_length_m": 3937.71,
+    "final_length_m": 3937.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete close-up of Malati's buste scene through the statue in the garden."
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replace close-up of Malati's buste scene with Malati dancing."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the dream dance: Delete suggestive kissing of Shalini by Sukumaran."
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Replace suggestive kissing of Shalini by Sukumaran with slow-motion of hero and heroine."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the dream dance: Delete Sukumaran moving his face upwards on Shalini's busts, neck and on face twice."
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Replace Sukumaran moving his face upwards on Shalini's busts, neck and on face twice with approved shot of hero and heroine."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the dream dance: Delete Shalini and Sukumaran rolling on each other on the ground."
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Replace Shalini and Sukumaran rolling on each other on the ground with approved shot of hero and heroine."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete all bust jorks of dancer Malati in tight fitting clothes."
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Replace bust jorks of dancer Malati with close-shot of Jayap."
+      }
+    ]
+  },
+  {
+    "film_title": "Guruvayur Kesavan",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri M. O. Joseph, Madras",
+    "cert_no": "79793",
+    "cert_date": "16-11-77",
+    "endorsement": "U",
+    "original_length_m": 3740.2,
+    "final_length_m": 3740.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete zoom shots showing female nude fresco on the temple wall."
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replace zoom shots showing female nude fresco on the temple wall with the upper portion of the painting of girls."
+      }
+    ]
+  },
+  {
+    "film_title": "Aashiq Hoon Baharon Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "KK Talawar & Raj Bhatija",
+    "cert_no": "86107",
+    "cert_date": "18-11-77",
+    "endorsement": "U",
+    "original_length_m": 3832.6,
+    "final_length_m": 3807.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the shots of two men passionately looking at the western girl when she is trying to remove her bra and panty."
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Drastically reduce the shot of Veera after she takes out her blouse.",
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the low angle close shots of the man bending over Veera while trying to molest her.",
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the torture of Ashok on the electric chair."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the portion where Ashok and Vicky hit each other with barbed-wire and blood flowing from cheeks.",
+        "length_retained_m": 13.0
+      }
+    ]
+  },
+  {
+    "film_title": "Aathmeeyudu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Vijaya Madhavee Pictures, Madras",
+    "cert_no": "79806",
+    "cert_date": "19-11-77",
+    "endorsement": "U",
+    "original_length_m": 4238.26,
+    "final_length_m": 4233.82,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the reference to National Anthem by Narasimhan (Sound only)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In dance picturisation of song starting with 'Soomaninchi ochiyavu', delete following actions of the dancer: (i) holding her breast with both hands and jerking occurring four times."
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace holding her breast with both hands and jerking with Mallol dancing."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Close and mid-close-shots of cleavage of breasts and bust jerk, wherever they occur during the dance as well as after the dance."
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace close and mid-close-shots of cleavage of breasts and bust jerk with close-shot of Vijay, Narasimhan, Giri and Vijay."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Narasimhan's words 'Padavi dabbu sampadinchalanto hatyalu cheyyall'."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Rangadu jumping from the dock in the court and pulling out Giri from witness box and hitting him."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete kissing sound after Girl's wife puts off the light in their bedroom (Sound only)."
+      },
+      {
+        "kind": "replacement",
+        "reel": "16",
+        "description": "Modification: Establish by visuals that the doctor is punished for the offence of knowingly drugging Dharma Rao to slowly kill him for the financial benefit to the doctor from Narasimhan. (Added of doctor being led handcuffed by S.I. and constables)."
+      }
+    ]
+  }
+]

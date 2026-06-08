@@ -1,0 +1,873 @@
+[
+  {
+    "film_title": "\"Hootenanny Hoot\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Ama Private Limited, Canada Bldg., Dr. D. N. Rd., Bombay-1",
+    "cert_no": "49351",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "original_length_m": 1025.0,
+    "length_deleted_m": 2.54,
+    "final_length_m": 1022.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Unit-1",
+        "description": "Delete underlined words from dialogue of Claudia addressed to A.G. regarding her dress: 'Well, I don’t see how he can forget it, since he’s seen you without one'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Unit-1",
+        "description": "Delete underlined words from dialogue between A.G. and Ted: 'Well, now— that would be interesting, just my conscience to worry about.' and A.G.'s reply 'Well, now— why— if I promised you that you wouldn’t hate yourself in the morning'",
+        "length_m": 0.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Unit-1",
+        "description": "Delete indecorous views of A.G.",
+        "length_m": 1.57
+      }
+    ]
+  },
+  {
+    "film_title": "\"Nick Carter On The Riviera\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Omshiv Corporation, Kartar Bhuvan, Colaba, Bombay-5",
+    "cert_no": "49336",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "original_length_m": 2614.57,
+    "length_deleted_m": 15.24,
+    "final_length_m": 2599.33,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot of Nick's assistant holding Nick’s secretary after she stumbles across him whilst entering the room",
+        "length_m": 0.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "In the fight outside the Saloon, reduce the prominent views of the hard blows and low stomach blows",
+        "length_m": 3.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the scene of torture of a lady suspended over the pot of boiling oil",
+        "length_retained_m": 1.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Reduce the last fight and shooting",
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete the words 'You are a brute — a brute'",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "\"Mr. Brown Comes Down The Hill\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Moral Re-Armament, Haroon House, 294-Bazargate St., Bombay-1",
+    "cert_no": "1881",
+    "cert_date": "19-12-1966",
+    "endorsement": "A",
+    "original_length_m": 987.55,
+    "length_deleted_m": 11.75,
+    "final_length_m": 975.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete underlined words from dialogue of the Bishop addressed to the Harlot: 'Sometimes I wish I would throw off my gaiters and my black clothes and go out where nobody knows me and do all the things I’ve wanted to do and never dared to do— paint, sing, dance, get tight; maybe learn more about your kind of loving.'",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete underlined words from dialogue of the Harlot addressed to the Bishop: 'Do you suppose a girl enjoys being handled and used like a second-hand motor car on hire, the gears being grated by unskilled hands, and everybody trying to get the most out of it for the least maintenance. Do you suppose I enjoy sharing my bed with drunks and dotards and teenagers out for a thrill, and other men who imagine themselves as thrilling as teenagers? Most people who make love to me are thinking about someone else as they do it. anyway'",
+        "length_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the following words from the dialogue of Mr. Brown addressed to the black man: 'A few more Stalins, a few more Hitlers, a few more martyrdoms.'",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot of the Bishop’s head in the lap of the Harlot.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the following dialogue of Mr. Brown addressed to the Bishops: 'They’ve been taught to hate God. They’ve no knowledge of Him except by stealth and instinct. They’ve murdered Him, or done their best to do it'",
+        "length_m": 1.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the underlined words from the dialogue of the second Bishop: 'Hitler’s insanities, Stalin’s brutalities — all in the name of right'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the dialogue between the second Bishop and the Doctor while discussing the news of Mr. Brown’s death, over the phone, delete the following: 'Doctor— I wonder where he got the tablets.' 'Second Bishop— I wonder.'",
+        "length_m": 0.62
+      }
+    ]
+  },
+  {
+    "film_title": "\"Doctor Zhivago\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "1883",
+    "cert_date": "26-12-1966",
+    "endorsement": "A",
+    "original_length_m": 5566.56,
+    "length_deleted_m": 8.46,
+    "final_length_m": 5558.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I-A",
+        "description": "From the following dialogue of Yevgraf, delete the underlined words: 'Yes, but do you know what cost? They were children in those days who lived off human flesh. Did you know that?'",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II-A",
+        "description": "From the following dialogue of Pasha, delete the underlined words: 'No The Bolsheviks don’t like me. And I don’t like them. They don’t know right from wrong' (Sound only.)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V-A",
+        "description": "Delete the underlined words from the following dialogue of the soldier: 'This Lenin — will he be the new Tsar then?'",
+        "length_m": 0.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI-B",
+        "description": "Delete the shots showing portrait of Trotsky wherever it occurs",
+        "length_m": 1.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII-AB",
+        "description": "Delete the underlined word from the dialogue of Kostoyed: 'I am the only free man on this train The rest you are cattle.'",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII-A",
+        "description": "Delete the following dialogue of Pasha: 'The personal life is dead in Russia. History has killed it'",
+        "length_m": 2.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X-B",
+        "description": "Delete the underlined words from the dialogue of Komarovskh: 'They trust no one They’ve found me useful.'",
+        "length_m": 0.71
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Appaloosa\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Universal Pictures India Pvt. Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "1884",
+    "cert_date": "28-12-1966",
+    "endorsement": "A",
+    "original_length_m": 2763.62,
+    "final_length_m": 2762.72,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IX (OA)",
+        "description": "Reduced close-ups of the scorpion in the hand-wrestle between Matt and the bandit.",
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "\"Love Statue\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Oceanic Film Distributors, 176-Royapettah High Road, Madras-14",
+    "cert_no": "1885",
+    "cert_date": "30-12-1966",
+    "endorsement": "A",
+    "original_length_m": 2333.24,
+    "length_deleted_m": 35.92,
+    "final_length_m": 2297.32,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Reduce the sequence of Tyler and Lisa in bed by deleting indecorous views of the couple.",
+        "length_retained_m": 30.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the dance sequence by deleting indecorous dance movements.",
+        "length_retained_m": 6.08
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the passionate kissing of a couple in Machiko’s flat.",
+        "length_retained_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete all shots suggestive of lesbianism.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete the indecorous views of the girl after she starts disrobing.",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the indecorous view of the girl after she starts unbuttoning her dress.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the indecorous view of a girl as she comes out of the bath.",
+        "length_m": 4.26
+      }
+    ]
+  },
+  {
+    "film_title": "\"Nick Carter On The Riviera\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Omshiv Corporation, Kartar Bhuvan, Colaba, Bombay-5",
+    "cert_no": "49355",
+    "cert_date": "21-12-1966",
+    "endorsement": "U",
+    "original_length_m": 93.88,
+    "length_deleted_m": 6.61,
+    "final_length_m": 87.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the shot showing Nick falling on the railing in front of the passenger train.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the words 'You are a brute — a brute'",
+        "length_m": 2.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the shot of girl suspended on the pit containing boiling oil.",
+        "length_m": 3.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the prominent views of hard blows in the fight.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "\"Marriage Italian Style\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Vamla International Pictures",
+    "cert_no": "49395",
+    "cert_date": "24-12-1966",
+    "endorsement": "U",
+    "original_length_m": 68.11,
+    "length_deleted_m": 6.7,
+    "final_length_m": 58.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the bedroom scene between the hero and the heroine after she starts unzipping her dress.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete shot of a near-nude girl in the bed along with the commentary: 'filled with zest of living.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete shot of Sophia Loren in bed with Marcello.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"Apaches’ Last Battle\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "49415",
+    "cert_date": "26-12-1966",
+    "endorsement": "U",
+    "original_length_m": 66.88,
+    "length_deleted_m": 4.72,
+    "final_length_m": 60.81,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the shots of stones falling down on men and their screams.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the indecorous views of the Indian girl in bathing sequence.",
+        "length_m": 3.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"Apaches’ Last Battle\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "49416",
+    "cert_date": "26-12-1966",
+    "endorsement": "U",
+    "original_length_m": 2624.23,
+    "length_deleted_m": 6.88,
+    "final_length_m": 2617.45,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I-B",
+        "description": "Reduce the sequence of the stones falling down on men by deleting the screams and men being hit.",
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI-B",
+        "description": "Reduce the sequence of the Indian girl in bathing sequence by deleting the indecorous views of the Indian girl.",
+        "length_retained_m": 2.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII-A",
+        "description": "Delete the direct thrusts of arrows.",
+        "length_m": 1.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"You Must Be Joking\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "49449",
+    "cert_date": "29-12-1966",
+    "endorsement": "U",
+    "original_length_m": 2716.13,
+    "length_deleted_m": 11.43,
+    "final_length_m": 2745.34,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce drastically the sequence of a woman and the American by deleting all the indecorous views of the woman’s bosom — from whom the American collects the ceramic ducks. (It is suggested that only the last portion when the husband throws things around including the ducks and the American nets them may be kept)",
+        "length_retained_m": 24.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the indecorous views of the legs of a woman, the near views of wiggling of hips by another woman, and the view of Fitzroy sitting between the legs of a woman.",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "\"Pinjie Is, Paani\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shobha Chitra, 22-Swastik Chambers, Carnal Road, Bombay-1",
+    "cert_no": "49450",
+    "cert_date": "29-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4078.22,
+    "length_deleted_m": 49.83,
+    "final_length_m": 4058.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the words 'Jai Kali Kalkattawali' up to 'Humra Saath'",
+        "length_m": 0.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the wording of the song 'Sitaram Sitaram Ram Ram Ram' (Sound only)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Second shot of Kalu hiding from the Police as they pass by, including the word 'Sakaram' as addressed by him to the Police constables.",
+        "length_m": 16.48
+      }
+    ]
+  },
+  {
+    "film_title": "\"Dulhan Ek Raal Ki\"",
+    "languages": [
+      "Hindustani"
+    ],
+    "producer": "M. Bhavani Singh, 28-Gulmarg, Nepeansea Rd., Bombay-26",
+    "cert_no": "49458",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4538.47,
+    "length_deleted_m": 3.35,
+    "final_length_m": 4538.47,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted close shots showing the wiggling of hip by the dancer.",
+        "length_m": 2.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replaced deleted close shots showing the wiggling of hip by the dancer with approved shots.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "\"Mitwa\"",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "producer": "Swarntra Party, Sasson Bldg., M. G. Road, Bombay-1",
+    "cert_no": "49465",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3749.04,
+    "length_deleted_m": 11.89,
+    "final_length_m": 3737.15,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "AV-7",
+        "description": "Reduce the scene showing Fergil Protm striding against another man.",
+        "length_retained_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the shots of winking by a man during the dance.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced the scene showing molestation of Jamuna by the Village headman and reduced the size in sound.",
+        "length_retained_m": 21.34
+      }
+    ]
+  },
+  {
+    "film_title": "\"Dus Lakh\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gorl One Corporal",
+    "cert_no": "49466",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4230.32,
+    "length_deleted_m": 4.87,
+    "final_length_m": 4226.97,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce 'Gokalchand' licking of Miss Lilly's hand.",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted one sentence said by the villain to the hero's father in reference to a girl 'Zara chills kardekho '",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "\"Street Singer\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bav Deep Films, Vallabhbhai Patel Road, Andheri(West) Bombay-58",
+    "cert_no": "49468",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3950.5,
+    "length_deleted_m": 17.06,
+    "final_length_m": 3933.44,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduced indecorous movements in the 'Jerk' dance.",
+        "length_retained_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Reduced the fight on the road omitting the prominent views of the hard blows.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the actual lifting up of the child and reduced the running away of the criminal.",
+        "length_retained_m": 8.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the sentence 'Baisaat ke pahle hajam bin bhijh ke aisa kaam karte hain toh police pakad len'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the scene showing Shivlal doing twist in bathing chaddi, deleted his indecorous movements.",
+        "length_m": 3.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "In the dance, deleted the shots showing prominent views of two girls jumping on the thighs of the hero. Also reduced the dance omitting the indecorous movements.",
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "\"Pawankanthcha Dhondi\"",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "V. S. Thakur, Mahalaxmi Chitra, Shanker Sheth Mansion, Tardeo Rd., Bombay-7",
+    "cert_no": "49472",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3962.1,
+    "length_deleted_m": 14.62,
+    "final_length_m": 3947.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the following underlined words in the dialogue: 'Gap has bhadra.'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted the following underlined words in the dialogue: '(a) Kon Maulatdar yenar aa he jaminicha Kabja Karayala baghtto.'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted the following underlined words in the dialogue: '(b) Are he kasala aapalim rajya.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Reduced the scenes of pathos showing the loud crying by Kondi in the durbar of Vamini and Dhondi.",
+        "length_retained_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "\"Chain Utha Lagna Kaia\"",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Lok Manoranjan, 2-E Naaz Bldg., Lamington Rd., Bombay-4",
+    "cert_no": "49473",
+    "cert_date": "31-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3951.13,
+    "length_deleted_m": 75.41,
+    "final_length_m": 3875.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted word 'Pawshci' from the sentence 'Hasun nafca Kaya'?",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted word 'Maran' in the sentence.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted words 'Anublava ghya', 'Ghalun Dakhaoon,' 'Anta nako' in the dialogue sequence: 'Pan ya vayani ghyal ?'",
+        "length_m": 3.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted words : 'Sakali kasala, ratich yeto'.",
+        "length_m": 2.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shots showing Shobhana removing the skirt and brassiers.",
+        "length_m": 1.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted dialogue sequence 'Lagna ha siddhan ek vyayamach aahe'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted dialogue sequence 'Swamiji, kal pan sanddhich milti nahim'.",
+        "length_m": 3.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted dialogue sequence 'Ho nihanunachi mi mag tarzalan'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted 'Shevati ghasarit nu mazyavar . . . anakhin konavar ghasarnat'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted dialogue sequence referring to maid-servant and God Hanuman stating 'Shiva thainb sukhi nahis'.",
+        "length_m": 34.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted shots showing Sadhana jumping on the reversed portion showing prominently her bosoms.",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted the pointing of fists by Shobhana and Sadhana (Junior) to each other in fighting sequence between them.",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "\"Sahadharmim\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri P. A. Thomas, Thomsas Pictures, Madras",
+    "cert_no": "48810",
+    "cert_date": "30-12-1966",
+    "endorsement": "U",
+    "original_length_m": 3952.34,
+    "length_deleted_m": 47.81,
+    "final_length_m": 3943.53,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete all views of Malathi in tight pants wherever there is formation and front contours are prominently seen.",
+        "length_m": 39.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the view of her posterior when circling.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "Delete the line 'Madhureyil to Kolhiyile'.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the view of a nude statue in the park when Malathi is speaking.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the back view of statue when Malathi says 'Ta, Ta'.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "\"Gopaludu Bhoopaludu\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Gowri Art Films, Madras",
+    "cert_no": "48812",
+    "cert_date": "30-12-1966",
+    "endorsement": "U",
+    "original_length_m": 4913.48,
+    "length_deleted_m": 21.93,
+    "final_length_m": 4906.17,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 2",
+        "description": "Song 2— Delete Raja kissing Rajani on the line ‘Neeku thagina jantani’.",
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Raja’s kissing overture to Rajani when she pulls his hair.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Delete Gopi blowing a kiss at Padma standing on the wall before leaving the place.",
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "Delete the shot of 4 girls with low neckline in water before the camera goes back.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "Delete the view of a statue with one nipple of bust prominently seen.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Song 3",
+        "description": "Delete the view of Padma in turning movement in water when a part of her bust is exposed on the low neckline.",
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Song 4",
+        "description": "Delete Gopi kissing Padma on the line ‘Manusii karingama’.",
+        "length_retained_m": 1.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete Raja kissing Rajani on the line ‘Neckem Bahumana the chanu choodu’.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Song 6",
+        "description": "Delete Raja bending over the mouth of Rajani in a kissing gesture.",
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 6",
+        "description": "Delete his kissing overture to her before the line ‘Asale emo minsiinikkorika’.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 6",
+        "description": "Delete the shot of her with low neckline bust facing camera on the line ‘Aapai nalo gadusu vennilalo.’",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Song 6",
+        "description": "Delete the shot of her with low neckline bust exposure facing camera on the line ‘Edhulo choopulti dinchaku’.",
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete Gopi lifting Padma near the bed.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Song 5",
+        "description": "Delete the shot of Gopi’s hand just above the bust of Padma on the line ‘Entha bagunnadhi’.",
+        "length_retained_m": 1.52
+      }
+    ]
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "film_title": "Apna Bana Lo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Amber Films, Mayur Tilak Road, Santacruz, Bombay-54",
+    "cert_no": "B/F-1127",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "prominent exposure of thighs in the dancing sequence",
+        "length_m": 2.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "approved shots",
+        "length_m": 2.03
+      }
+    ]
+  },
+  {
+    "film_title": "Dholi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Mehdi Movies, 4-G Naaz Bldg., Lamington Rd., Bombay-4",
+    "cert_no": "B/F-1123",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "dialogue by Radha purporting to justify servility of women",
+        "length_m": 7.16
+      }
+    ]
+  },
+  {
+    "film_title": "Oorukku Oru Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Gomathi Shankar Films, Madras",
+    "cert_no": "M/15663",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Kalyani hugging Siva with former on bed and latter on floor",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "dialogue of Pannyar to clerk: (a) Garbamanavaa irrukka; (b) rombavuni kasakade",
+        "length_m": 7.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Siva nosing Parvathi against the chest upwards corresponding to lyric 'Ilanga-kaatru thaalttum neram'",
+        "length_m": 8.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "word Amukku in the dialogue of Ekambaram and also wherever it occurs in the dialogues of Pannyar",
+        "length_m": 6.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "word Vappatti in Subbiah's dialogue",
+        "length_m": 6.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "dialogue of Rajangam Enna therum, and Ekambaram's answer Thatti paarungalen upgalukku illadha vurimaya",
+        "length_m": 6.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "words Azhagana pannidathil uttered by Rajangam in classroom",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "In the scene depicting the murder of Kaveri, group of men approaching her in one visual only",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "In the scene depicting the murder of Kaveri, visual of torn clothes lying on the ground",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "word Koothiyar written on the wall",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "slogan Vaadhiyarukku thalagani uttered by boys",
+        "length_m": 5.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "dialogue of Subbiah: (a) Inga rombi pochu; (b) viliyile therinjjdum",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "visual of cot with flower spread on it inside the School",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "visual of Bujangam with underwear on swing and the following shot of his getting up",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "attempted rape of Bujungam on Kalyani to a mere suggestion, retaining only one shot after holy contact, deleting in particular all shots of mounting, rolling and Rajangau placing his leg over her",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "struggle of Kalyani in the temple by 50%",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Real 15",
+        "description": "Siva's dialogue Dharmapadı idhu nyayam dhan, pannayar",
+        "length_m": 16.46
+      }
+    ]
+  },
+  {
+    "film_title": "Radha My Darling (Revised)",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Vijaya Kalamandir, Madras",
+    "cert_no": "M/14023",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "profile shot of the servant maid on the bank bund showing her breast prominently",
+        "length_m": 3.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "shot of servant maid running without pallu when her breasts are shown violently tossing",
+        "length_m": 3.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "shots of Radha exposing her thigh while preparing wicks, retaining only one shot",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "hand gesture of the servant against the word 'Istunt'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "close-up of photos in the sex book in the hands of Gopi",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "close shots of statues where the camera focuses on breasts and buttocks",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "close-up shot where camera concentrates in the DC lui Radha jumping",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "shots of Gopi hugging Radha in the imagination scene",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "visual of servant maid hugging servant, showing her breasts prominently",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "dialogue of Gopi to servant: O pattu pattey",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "entire bathroom scene where Radha is shown as taking bath and Gopi imagining",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "all shots from the time Radha is shown lying on the beach exposing her legs through wet sari upto their walking together with her legs covered with wet sari (in the sea side imagination scene)",
+        "length_m": 4.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "shot of Narayana waking his wife by putting his hand on her leg after removing the bed-shoot",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "shot of Radha lying on the cot exposing her thigh",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "shot of Radha coming towards camera with exposed thigh against the words Kayi bhavana",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Radha close-up",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "movements of Radha against the words Allana padina pallavi and Natana mayuri",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Gopi close-up",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "visuals of Radha advancing towards the camera in white dress and her movements against the words Endhura sudharama",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "prizm shots of Radha",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "rotating multiple shots of Radha in white dress",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Radha advance shot",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "shot of Radha and Gopi hugging and rolling in the tank",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "shot of Gopi watching nude Radha and following her when her legs below knee and her body above chest are exposed",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "shots of mounting of Radha and Gopi and close-shot of visuals of Radha's breasts shown prominently in rape sequence",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "visuals of Radha's hanging, retaining only a flash",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Raagam Thedum Pallavi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Raja Cine Arts, Madras",
+    "cert_no": "M/15627",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "close-up and mid-close of dancers breasts and midriff jerks",
+        "length_m": 9.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "close-up of a dancer with yellow dress with legs widespread",
+        "length_m": 9.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "close-up of a dancer sitting with her legs wide apart",
+        "length_m": 9.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "close-ups of dancers (but coming close with breast jolt and hugging)",
+        "length_m": 25.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "close shot of dancer with breasts prominently shown",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "bare breast jerks of dancer in scantily dress",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "close-up of posterior jerks",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Madan caressing dancer's waist and hugging her waist",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Radha placing his hand between the legs of the dancer and his hand moving up",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "breast shakes of dancer and back and front movement with hand gesture of dancers",
+        "length_m": 17.68
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "dancers and group audience",
+        "length_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "dialogue of Madan to the broker Appo vasadhi dhan",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Close the gap between Karpoda irukiradhu kadhanay. gaya mudiyadu and en padathile",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Illalu Choolalu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "S. V. S. Enterprises, Madras",
+    "cert_no": "M/15301",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "portions relating to the poses (figures drawn) of sexual intercourse during pregnancy",
+        "length_m": 36.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "shot of sexual intercourse by couple in bed",
+        "length_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Maut Ka Samaan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "M/S. Payal Movies, 11. Marina, N.L. Rd, Bandra, Bombay-50",
+    "cert_no": "B/101077",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "prominent exposure of thighs in the dancing sequence",
+        "length_m": 2.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "approved shots",
+        "length_m": 2.03
+      }
+    ]
+  }
+]

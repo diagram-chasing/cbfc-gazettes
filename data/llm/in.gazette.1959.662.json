@@ -1,0 +1,619 @@
+[
+  {
+    "film_title": "Trailer of ‘The Sinner’",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27883",
+    "cert_date": "1-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the lady with flesh of the bosom exposed (when she is thrown on the floor and she turns and when she is near the wounded man)",
+        "length_m": 0.03
+      }
+    ]
+  },
+  {
+    "film_title": "It Happened To Jane",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27894",
+    "cert_date": "1-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IF",
+        "description": "Voluntary deletion",
+        "length_m": 0.003
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Imitation of Life’",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27898",
+    "cert_date": "2-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Pilot of Sarah Jane tossing her legs up, opposing her thighs prominently",
+        "length_m": 0.005
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The underlined words from : ‘If tho Dramatists’ Cluh wants to eat and sleep with you, you oat and sleep with them. . . . (words blotted out).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Wild And The Innocent",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2250.75,
+    "final_length_m": 2240.83,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From ‘merry go-round’ scene, shots in which Chip tries to enclose Marcy in his arms and embrace her",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI J1",
+        "description": "Shots of direct hits on Yancey when he is held by one of the bouncers in dance hall",
+        "length_m": 0.003
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Tarzan’s Fight, For Life’",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27900",
+    "cert_date": "2-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The following dialogues from the commentary ; ‘As weired voodoo rituals fan tho fires of barbaric violence .... frenzied hoards traok' r down the one who ha« challenged their murderous superstitions’",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The underlined word from — ‘Tarzan’s fight, for life — animates new savagery and splendor. — ’",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan’s Fight For Life",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27907",
+    "cert_date": "3-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The words of Anne ‘These savages have no gratitude for your years of efforts’",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Scene showing branding of ‘Egon’ and carrying a scream in the background",
+        "length_m": 0.002
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The fighting scene between Tarzan and Natives",
+        "length_m": 0.025,
+        "length_retained_m": 24.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "The fighting scene between Tarzan and guards and Tlamo",
+        "length_m": 0.001,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Julius Fuchek",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27921",
+    "cert_date": "7-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "And because Julius Fucik wanted the people to live in love, happiness and peace",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "For all true patriots",
+        "length_m": 0.002
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The big ones were made ministers ‘and theso’ from ‘And these ministers’",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "No capitalist state could boast of such perspectives",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Of the bourgeoisie",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "‘They sent us their most treacherous executioners’",
+        "length_m": 0.001
+      }
+    ]
+  },
+  {
+    "film_title": "Jan Hua",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27924",
+    "cert_date": "8-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "The torture and whipping of youths",
+        "length_m": 0.002
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "The execution of the three young men",
+        "length_m": 0.001
+      }
+    ]
+  },
+  {
+    "film_title": "Ghar Ghar Ki Baat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "27928",
+    "cert_date": "9-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Song 2, shots of Vimla rolling on ground (on music)",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots of Sharad holding Vimla in close physical proximity",
+        "length_m": 0.007
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Song 3, the picturisation of Sharad and Vimla moving about on the bed, and shots of their physical proximity. The words ‘Yeh hup' and the line ‘Dnya kare kol ladki wala, rahoon mi kahin knnwara’ retaining the line onco only",
+        "length_m": 0.011
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Love-scene between Sharad and Vimla on bed",
+        "length_m": 0.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Song 1, considerably shots of Vimla and other girls performing excotic dance movements indecorously dressed in tight fitting costume",
+        "length_m": 0.022,
+        "length_retained_m": 30.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Scene of Kamala being dragged on the floor by her mother-in-law",
+        "length_m": 0.004,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "To about half, the fight in the gangsters’ den",
+        "length_m": 0.019,
+        "length_retained_m": 34.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Addition",
+        "length_m": 0.018
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Addition",
+        "length_m": 0.015
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Voluntary deletion",
+        "length_m": 0.012
+      }
+    ]
+  },
+  {
+    "film_title": "Jawani Ki Hawa",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27934",
+    "cert_date": "14-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the Railway T.C.’s dialogue ‘Do baap hal’ (Sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the court scene shots of Lata going to the Public Prosecutor and saying ‘Apana tone sambaliye’ (twice)",
+        "length_m": 0.002
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From street dance, close views of the amorous hip movements of the female dancer on words ‘Ek roti ne . . nachaya’ from song No. 2 beginning with the words ‘Kon jaane re baba . . ’",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of drunkard receiving illicit liquor bottle",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "From dancer’s dialogue: Apne batli peekar to nasha ata hi hai-ise dekh kar aur bhi nasha aa jata hai-ma kasam nautak to zalam ek nazar men hi pila deti hai",
+        "length_m": 0.005
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Near views of amorous hip movements of the female dancer from the dance (song No. 5, beginning with the words ‘Babu re babu re *) on the words: ‘Path kamar meri haal bhi hai patla’",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "In song No. 6, beginning with the words Bahar leka aayee , . ’ near views of amorous movements of Lata (dressed in white) on the opening music as also of the group of girls on the music",
+        "length_m": 0.008
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shot in which Dhakosla whistles to call Mary",
+        "length_m": 0.001
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shot of Chandu lashing Sandhya",
+        "length_m": 0.002,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Baal Bahadur",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27940",
+    "cert_date": "10-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From song No. 1, beginning with the words. . 'Gaal par til ‘ shots of the female dancer containing: (a) amorous movements of the bust on the words ‘zara laharaake’ . (b) amorous movements of the bust and hip, on the words ‘Gaalpar til hal’",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From Majnu’s dialogue ‘maalguzari lene ke liyo gaye’ with reference to the kidnapping of women",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The words 'Is waqt sab kuohh dekhue wale Allah bhi so gaye hain’",
+        "length_m": 0.001
+      }
+    ]
+  },
+  {
+    "film_title": "Woman Obsessed",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 1800.0,
+    "final_length_m": 1790.0,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "F/J",
+        "description": "Shots of Fred taking Robbie forcibly back to the wounded deer, and making him see it skinned",
+        "length_m": 0.003,
+        "length_retained_m": 0.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Fight between Fred and another man in the General Store; particularly delete direct hits",
+        "length_m": 0.005,
+        "length_retained_m": 1.25
+      }
+    ]
+  },
+  {
+    "film_title": "Ride Lonesome",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 1590.0,
+    "final_length_m": 1460.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shot of camera dollying into close view of stage coach-driver spiked to his seat with a lance pierced through his body",
+        "length_m": 0.002
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Boone’s dialogue to Wid, ‘We are White-thats’ good enough’",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "P",
+        "description": "‘She’s the kind that’s got a need. Deep lonely need only a man can get at’ from Boone’s remarks with regard to Mrs. Lane",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "‘Think what ho wants— bum inside to put his arms around ya — Man had you, Mrs. Lane he’d never know a blaok lonesome night’ from Boone’s dialogue addrossed to Mrs. Lane",
+        "length_m": 0.007
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of Billy hanging by rope",
+        "length_m": 0.001
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "From the encounter between Brigade’s party and the Red Indians, considerably shots of Indians lying dead",
+        "length_m": 0.004,
+        "length_retained_m": 0.11
+      }
+    ]
+  },
+  {
+    "film_title": "The Doctor’s Dilemma",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "27997",
+    "cert_date": "25-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of prolonged kissing between Jennifer and Louis in bed",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots of a couple kissing by the roadside",
+        "length_m": 0.006
+      }
+    ]
+  },
+  {
+    "film_title": "H-Man",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2165.0,
+    "final_length_m": 2142.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The flash of scantily draped night-club dancers before Chitako begins her singing and in the green room later on",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "Fi",
+        "description": "The shot of the girl in very scanty dress, when she turns towards the door and twists and writhes to the green fluid going up her legs and dissolving her",
+        "length_m": 0.004
+      },
+      {
+        "kind": "deletion",
+        "reel": "Fi",
+        "description": "The shots registering extreme fear and pain on their faces when the green fluid attacks (a) boatman on the ghost ship, (b) policeman, (c) The night-club waiter",
+        "length_m": 0.006
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The hard slapping of the lady by omitting the actual contact with the cheek and the sound",
+        "length_m": 0.002,
+        "length_retained_m": 0.04
+      }
+    ]
+  },
+  {
+    "film_title": "Solve Seal",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "779",
+    "cert_date": "5-9-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots showing Neena rubbing Shyam’s cheek and their embracing and cuddling",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "10ft / 9",
+        "description": "Dialogue which Inspector Middo and dialogue which wishes that Inspector is not taking due action against the culprit",
+        "length_m": 0.048
+      }
+    ]
+  },
+  {
+    "film_title": "Alii Potra Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "26281",
+    "cert_date": "24-7-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the picture of Pavadai describing the Marwadi “Ho took four signatures for the four annas I borrowed, and I do not know how much he will take for your loan\"",
+        "length_m": 0.006
+      },
+      {
+        "kind": "deletion",
+        "reel": "r",
+        "description": "Delete picture and dialogue of Pavadai and Aiyasami behaving in a drunken manner",
+        "length_m": 0.043
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the picture of Aiyasami lying on the road after the lorry accident",
+        "length_m": 0.001
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "After Pavadai receives one rupee, delete his picture driving the tonga in drunken condition, throwing away a drink bottle",
+        "length_m": 0.014
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "When Alii pleads for the issue of a tonga licence, delete Pavadai’s statement “Stand near the street. You can speak nicely”",
+        "length_m": 0.003
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduce the questions and the concluding address of the prosecuting advocate, to the minimum of relevant questions"
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "After the Judge passes the sentence of fine, delete picture and dialogue of himself paying the fine from the bench",
+        "length_m": 0.028
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "When Kannan and Pavadai are shown drunk, delete the comedy with their legs twisted and their counting the legs",
+        "length_m": 0.003
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Song No. 9 Delete (a) the following lines from the text (i) ‘This is hotter than that, that is better than this’, including repetitions. (ii) the last verse sung by the man (In dance, in experience, in limbs swelling with youth, in intelligence, in shape, in mischief, in happiness). (b) the following picture shots (i) close up of playing cards ; (ii) the high-angle shot of the dancer on the ground, leaning back, against the second verse; (iii) all picturisation in long-shot with the pyjamas sinning through the thin skirt of the dancer. Entire song deleted",
+        "length_m": 0.101
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "During Song No. 11, delete all picture shots of the dancer and Kannan in drunken condition, intercut during the background music",
+        "length_m": 0.023
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the entire picture and dialogue of Kannan attempting to outrage the modesty of the girl he had kidnapped",
+        "length_m": 0.057
+      }
+    ]
+  }
+]

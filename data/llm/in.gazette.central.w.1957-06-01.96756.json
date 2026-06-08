@@ -1,0 +1,1211 @@
+[
+  {
+    "film_title": "Coffee House",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/17682",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Vulgar movements of the donors",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of the silhouette of the woman shown drinking and drawing",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots showing bottles of Brandy with label",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Dialogue of Madam eulogising liquor",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shameful dialogue eulogising liquor",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Considerably the gambling sequence",
+        "length_m": 9.75,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Too flush shots where money is shown in the table",
+        "length_m": 5.49,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Fighting considerably",
+        "length_m": 13.41,
+        "length_retained_m": 4.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "The shot where a man is horn with a lethal weapon poised for attack, on a bleeding man",
+        "length_m": 1.07,
+        "length_retained_m": 0.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "A. IV",
+        "description": "Considerably the drinking sequence",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Nightmare\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/18302",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "To a full shot of strangulation of a man in the nightmare",
+        "length_m": 1.37,
+        "length_retained_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Shahi-Bazar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/18029",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "All photos of Bhoroo being whipped, retaining only a flash for continuity",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably the scenes in the magician's court where an atmosphere of horror prevails and Zam Zam is adversely affected by it; particularly delete shots to which a horrific looking figure close on in Zam Zam and Zam Zam enters the mouth of the monster. Also delete shot in whole skull touches face of Zam Zam",
+        "length_m": 20.73
+      }
+    ]
+  },
+  {
+    "film_title": "Magnificent Matador",
+    "format": "Cinemascope",
+    "original_length_m": 2.65,
+    "final_length_m": 2.65,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "The passionate kiss which the Matador inflicts on Harrison after violently pulling her face towards him, by catching her by hair",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "EktATA",
+    "languages": [
+      "Bengali"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "The complete song \"Tai ami bhalobashi Radhare\" to \"Rodanbhara andhary\"",
+        "length_m": 90.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "The complete song \"Chokher taray parley kuto\" to \"Tare felbo kemar kere\"",
+        "length_m": 96.32
+      }
+    ]
+  },
+  {
+    "film_title": "\"Maya Bazaar\"",
+    "languages": [
+      "Telugu"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "When the pictures of Princesses are being shown, delete the references to Vidarbha and Karnatak as among the choices to be made",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "3 (a)",
+        "description": "Delete Sugnana using words of abuse towards Allama Prabudaya (Murkha, Drolhi, Muthru Drohi, Crookod Vedanta, etc.)",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "3 (b)",
+        "description": "The reply of Allama that this body is born out of Kama Vikars of the father and the mother",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In song No. 6, delete the last verse, text and picture, sung by Sakala",
+        "length_m": 41.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "After the song, the words of JAN WAH that he had been spending the time in the Ashram and only required some opportunity in the palace",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the picture of Makala with her bust covered only in a bind, wherever the same is shown in mid-shots and close-ups. The sequences are when she invites Allama to be Maya's tutor, when Makala and Maya come towards the camera and whisper in close-mid-shot, and where they move to the right and continue the discussion, upto and including their embracing",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "When Allama is led into the bed-room of Maya and the women go, closing the door, delete the sound of loud laughter of women and the picture of Allama's gesture before he soliloquizes",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "When Maya follows Allama and says she would not lose him, delete the words of abuse in her dialogue. (Dhurta, Kutila nto.)",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "When Kousika and Vijaya enter the temple and shout at the Jangumas, delete the references to them as the evil forces who rob property and eat free, who should be tortured",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "When Kousika pleads with Akkamahedavi, delete his statement that her Mallikarjuna was also his",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "When Kousika pulls away the sari of Akkamahedavi, delete the shots of her figure in shadow, suggesting nudity. (Note. There is no objection to the distant shot where her figure is not visible, nor to the skeleton that stands in her former place)",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"Allaudinum Arputha Vilakkum\"",
+    "languages": [
+      "Tamil"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the opening commentary about Baghdad, delete the statement \"It is the Iron Pillar of Islamic culture\"",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the picture of the cave mouth where it is in close-up, and filling the frame, including the shot where the camera track back from close-up of the eyes",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "14a",
+        "description": "When Jafar orders celebration, delete his asking for soured wine",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the explanation for the first place given to wine, for the peace it gives to the mind",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "When Sitan consents to be a slave, delete her statement \"when starvation compels, woman has got to give up her culture and honour\"",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In the cave scene, delete the entire picture of Alladin meeting the monster scorpion, the fight and his escape",
+        "length_m": 59.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "When the robber plans future expeditions, delete his statement referring to Iraq being plundered",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "After song No. 4, reduce considerably (to 1/3 the present duration) the fight in the eating-house, and delete the portions where the man's legs are pinioned",
+        "length_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce to two flashes only, the portion sound and picture, suggesting Alladin being tied up and flogged off-screen",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In song No. 5, the dance at the burial ground, delete (a) The dancer jerking her bust while in close-up, (b) verse 3, against the word Anbana pyara when sung the second time. (c) Verse 5, against Kannai moodi odaro (d) against background music before last verse. (e) The dancing round and pointing to the tomb wherever it occurs.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Approved replacement for deleted dance sequence",
+        "length_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce to the present duration, the fight between Alladin and the robber. (No objection to Yakub's fight)",
+        "length_m": 42.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "When the various princes considered for Yamin are referred to, delete mention of modern countries (Persia, Syria, Kabul etc.) and their princes",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Song No. 7 delete the hip-swaying and bust jerking of the Egyptian and Spanish dancers in the slave market, whenever in mid or mid-long shots.",
+        "length_m": 19.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Approved replacement for deleted dance sequence",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "When Jafar comes to Yasmin, delete the picture of him in close-up wearing modern Fez cap showing the Crescent and Star.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "18",
+        "description": "Approved replacement for deleted picture",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Delete Alladin's statement that his intelligence can destroy his sword. (The Tamil expression)",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"Mokudan Kantha Manga\"",
+    "languages": [
+      "Tamil"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1 & 2",
+        "description": "Delete the entire picturisation of Arabs in their homes and streets, beginning the story substantially from the meeting of Laila and Murad in Reel No. 3. (Note. There is no objection to sun running the picturisation of the chase and escape of Murad after witnessing the dance)",
+        "length_m": 158.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "1 & 3",
+        "description": "In the picturisation of song 1 and 2, delete the picture of the dancer clad in low-cut blouse moving to close-ups near the camera, wherever they occur, exposing the parting of the bust. Also in the picturisation of the dance, the theatre's star emblem prominently displayed on the stage, wherever it occurs.",
+        "length_m": 148.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "1 & 3",
+        "description": "Approved replacement for deleted dance sequence",
+        "length_m": 96.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "4, 5 & 6",
+        "description": "Delete the entire picturisation and dialogue of the drunken behaviour of the Prince of Samarna. (Note. There is no objection to a brief suggestion that he was tipsy in reel 4 for continuity, and thereafter in reel 7, immediately before and after song No. 4, and there is no objection to the establishing in reel 11 of the fact that wine was being given up)",
+        "length_m": 127.41
+      }
+    ]
+  },
+  {
+    "film_title": "\"Premuda Puthu\"",
+    "languages": [
+      "Kannada"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the gambling to a bare suggestion of Shankar coming to the table, and leaving at the end after losing",
+        "length_m": 39.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Voluntary deletion",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"Duniya Rang Rangooli\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots of Shyam making vulgar gestures, clapping and whistling at the window to beerkor",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Manohar's dialogue to Shyam \"kaungi, leit wali, night vagi\" (Sound). Shot of Manohar putting Shyam's dupatta in his mouth",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Love Of A Scoundrel",
+    "languages": [
+      "English"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "All shots showing modus operandi of Turner trying to create false evidence by removing jewellery from Maya's table-drawer",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The second shot in which Susan is shown being towed up violently in the rushing stream",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Love Of A Scoundrel\"",
+    "languages": [
+      "English"
+    ],
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "\"The Indian Fighter\"",
+    "format": "Cinemascope",
+    "original_length_m": 2414.11,
+    "final_length_m": 2316.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "All the shots in which Onalti the daughter of the Red Indian (chief), is shown removing her blue, going to river and bathing in the river in state of nudity",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The shot in which Johnny Hawk is seen forcibly kissing Opanti after he accosted her on the river bank while she was fetching water",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "All the shots in which Johnny is seen catching hold of Opanti in the river and they are both seen rolling in water in a struggling embrace, and Johnny is forcibly kissing her. The shots after Opanti smiles at Johnny may be retained for the sake of continuity at the end of the sequence",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The shots in which Johnny and Opanti are seen reclining together under a tree on the river bank",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The shot in which Todd is seen piercing a knife in the chest of \"Grey Wolf\"",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "All the shots, except the first shot, in which the two braves of the White settlement are seen returning to the fort apparently dead and propped up on the horse's back and their face and heads looking battered and bleeding",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "The shots in which the fire-arrow from a Red Indian is seen piercing in the back of Todd, and Todd is shown fallen down with a burning arrow in his back",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "The shots in which Johnny and Opanti are seen bathing together in the river in a state of nudity, retaining only the last shot for the sake of continuity",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"Thluash\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogue of Ranjit and Dharampal to Tara where Ranjit says that by marrying a condemned man she would escape from marrying the old man and after the death of the prisoner she would be free and would get property. She could then find him at her disposal",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The shot where Dharampal pulls a girl to himself by tugging at her \"dapattu\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Ranjit's dialogue to Sitara suggesting that whatever immoral relationship they had would be continued",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "\"Zarak\"",
+    "format": "Cinemascope",
+    "original_length_m": 2438.4,
+    "final_length_m": 1859.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The following dialogue - Kasim - \"He confers with his wives\". Bari - \"With one of his wives let us say\"",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Salma - \"Am I not your favourite wife, Haji?\" Haji Khan - \"A favourite wife has eye to see, a body to allure, a mind to resist\"",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot of Salma with her bosom prominently revealed as she moves towards Zurak Khan who is sitting on a rock cleaning his gun",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The sentence - \"You are one of my father's wives\" spoken by Zarak",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The following dialogue - Haji - \"Take my wife and put her away from me\" (Altered to read Take her away from me by deleting the word my wife as approved)",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Haji Khan's dialogue - \"But not until his neck hangs a stripe from his crony\"",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of Soldier kicking Zuruk Khan when he is sitting by the side of camel retaining only one kick",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Following words from dialogue of Atherton \"You are back in the middle ages here\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "The following words from dialogue of Larkin \"rape\" \"It is a way of life out here\"",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "The following dialogue from Cathy's dialogue You are allowing the king a native (the sound of ti is removed from the word \"native\" as approved). Dance of Salma and other dancing girls where they are shown in scanty costume also shots of Malou and other women moving very volumo",
+        "length_m": 27.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Delete the following contents of Salma \"It is written do not marry the same woman as your father married\"",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Shots of Salma when she removes her veil and her body being scantily dressed",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shot of Zarak kicking Imbu",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Dance of Salma in scanty costume",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shot of Zarak slapping Salma. (Sound)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of Salma in dressing room while removing her clothes",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Shot of Selma with her bare bosom to a Hoh",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Kissing of Salma by Zurak Khan",
+        "length_m": 1.22,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Flogging of Zarak Khan",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Fight between Major Ingram and Zarak Khan",
+        "length_m": 2.13,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Considerably Kissing of Salma by Zarak Khan",
+        "length_m": 3.05,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Fight between Major Ingram's soldiers and Zarak Khan's men",
+        "length_m": 4.27,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Fighting between British soldiers and Zorak Khan's men",
+        "length_m": 3.35,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Fighting between Ahmed's men and British soldiers",
+        "length_m": 1.52,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Minimum portions showing torture of Major Ingram by sword play",
+        "length_m": 10.67,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Drastically Flogging of Zurak Khan to not more than four lashes",
+        "length_m": 39.01,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Fighting between Ahmed Khan's men and British soldiers deleting shots of Zurak Khan's blood stained back, leaving shots where only head and shoulders are seen",
+        "length_m": 5.79,
+        "length_retained_m": 10.36
+      }
+    ]
+  },
+  {
+    "film_title": "\"Samunder\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "The dialogue of Baghi to Hela: \"Zainyada dur lagta hai to zyada paas aa jao\" and after the \"Ab kuchoh guajalol nella\"",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "All close-ups during the picturisation of song No. 2, wherever they occur",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shot immediately following song No. 2, where Bhagwan and Bindya are shown embracing",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "The dialogue - Main tera vo, main Bindya ko vo hun",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "The reference of Baghi to Bhole regarding hiding of dagger and burning of clothes etc.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "The following dialogue of Baghi- \"Aurst kya nahin kar sakti\"",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots where Baghi is shown in tight white underwear",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of Bindya in Badshah's embrace and her dialogue \"Aunt kya nalun kaunab!\"",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue of Bhagwan \"Hamara rasta muf kurdu\"",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Bela's dialogue \"Ye Kya Krklip Lilu Hai\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Badshah puts his foot on Bagbi's chest",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "\"Jhakali Mooth\"",
+    "languages": [
+      "Marathi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "From dialogue of Rokhu's friend, the page 1 \"Anamtli Ashramat, kond phasavalo tulay\"",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "From Bebagabob's dialogue the undermentioned words and passages - \"Tyopoksha khidakıt ku juhi baat?\" \"Bazarbunyi\"",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "\"Moti Mahal\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "No. 5",
+        "description": "Delete all shots of Roopa, bust in negligee when Shekhar breaks into her bedroom",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 10",
+        "description": "Rouge boy in moles in gangster den",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 11",
+        "description": "Delete close-ups and mid-shots of Roopa's bust in the zip-fastener effect costume when she is talking to Shekhar",
+        "length_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 14 (a)",
+        "description": "Reduce drastically Jugal's attempt to persuade the Inspector to go away without reviving Kamala",
+        "length_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 14 (b)",
+        "description": "Delete Kamala death scene",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 16",
+        "description": "Return to a flash the last colour scene in which Roopa is shown in mid-close and close-up in the zip fastener effect costume",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 10, 13 & 15",
+        "description": "Delete all elements of naked men and reduce length of him chaining the boy and the boy's struggle to climb him",
+        "length_m": 57.61
+      },
+      {
+        "kind": "insertion",
+        "description": "Make police inspector say \"He will search for the body of the baby\"",
+        "length_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ten Tall Men\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V, 3",
+        "description": "Relive to a flash shots in which Mahla is lifted and carried by Mike and her legs and thighs are exposed prominently after Mahla faints at the oasis",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"Rock, Pretty Baby\"",
+    "format": "Cinemascope",
+    "original_length_m": 2234.16,
+    "final_length_m": 2209.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dialogue of Angelo \"I am the victim of the grant social (MANHA) of our generation. And after I gave her the best four days of my life\". The dialogue \"If you want to make out with the chicks, you have got to learn how to handle the pronto\". Dialogue of Angelo. The way the parents have been acting up",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of couples necking",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of Rex sitting with arms around Nancy and Sax hugging Peggy",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Jonn's dialogue \"It is easier than wrestling while we are sightseeing (sinks)\" \"A little friendly necking\" \"You do not know what you are missing\" Everybody does it",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots of girl in harlequin figured skirt dancing when the skirt flies up",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Jimmy's dialogue \"You are the one who is wearing the blinker,\" \"Now why can't you admit you were wrong?\"",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shot of Alim Tannnn bin lap",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Angelo. \"Just a little lip service\" \"Once you make the Plunge\"...never want to come up for air again\"",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Close. \"It is not platonic obviously\"",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Close shot of legs of boy and girl on bed and shot of their lying close and in deep embrace",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots of Rex holding Nancy in his arms, Lori and Angela embracing",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The dialogue of Twinky \"It does not even have a bust line\" Tommy's dialogue \"Why should it? You don't even have a bust\" ... \"And you are just as blind as mother is\"",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Jimmy's dialogue – \"Throwing around all that sex\" Dale's dialogue, \"Your mother had six other fellows...\" Dale's dialogue – \"Three were real and she demanded up three just to keep me on the town\"",
+        "length_m": 73.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot of Jimmy stroking Joan's Arm and kissing her shoulder and reduce shot of their kissing",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots of Jimmy embracing Joan, Joan falling on the blanket, Jimmy leaning forward on elbow and lying almost face down on blanket with his hand on Joan's shoulder and Joan nodding her head",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Joan and Jimmy's dialogue -- \"I did not think it would be like this\" Jimmy - \"Like what\" ... Joan - \"Absolute ago\" ... Joan - \"I had never felt that way before\" Joan - \"All I can think about is making and putting and...\" Jimmy - \"Well, that is bondage we have held back along. You know we should have gone steady from the beginning J\" Juan - \"But everything is happening so fast I need time to think\"",
+        "length_m": 79.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Jimmy's dialogue – \"And all this stuff about petting you just want to see if you can get the same thrill with another girl\"",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Twinky's dialogue \"After all a woman of thirteen can't go to her first big bash dressed like a child of twelve\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shot of boy and girl clad in bathing suite lying close together on blanket",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Twinky's dialogue -- \"Especially after what has happened at the bash It is positively dreamy\" and it has got a bust line. But I can't wear it without a\" \"You did not\" \"A bra and it fits\"",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Jimmy's dialogue , \"Well start cheering . You won the war well go on . You were right all along You did everything you could to foul us up. Well, What are you trying to do to me now\"",
+        "length_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shot of Jimmy kissing Kay in car",
+        "length_m": 1.07
+      }
+    ]
+  },
+  {
+    "film_title": "\"Mr. X\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "All shots and dialogues wherever occurring which establish Prakash is criminal, robbing people, sharing the loot with others, getting their adolation and himself taking pride on his crimes",
+        "length_m": 66.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Khyan's vulgar gestures during song No. 4",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots where a girl is shown on her knees making vulgar movements and shots where girls are held horizontally by their dancing partner",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "\"Samunder\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "The dialogue of Baghi to Hela: \"Zainyada dur lagta hai to zyada paas aa jao\" and after the \"Ab kuchoh guajalol nella\"",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "All close-ups during the picturisation of song No. 2, wherever they occur",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Shot immediately following song No. 2, where Bhagwan and Bindya are shown embracing",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "The dialogue - Main tera vo, main Bindya ko vo hun",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "The reference of Baghi to Bhole regarding hiding of dagger and burning of clothes etc.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "The following dialogue of Baghi- \"Aurst kya nahin kar sakti\"",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots where Baghi is shown in tight white underwear",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of Bindya in Badshah's embrace and her dialogue \"Aunt kya nalun kaunab!\"",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue of Bhagwan \"Hamara rasta muf kurdu\"",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Bela's dialogue \"Ye Kya Krklip Lilu Hai\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Badshah puts his foot on Bagbi's chest",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "\"Parbat\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Put in a tablet in Hindi and have it spoken in Hindi saying that the story is purely imaginary and has nothing to do with the life and culture of India",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 7",
+        "description": "Reducing the exchange of fire between the two sides in the fight between the Ranu's and the Sardar's party",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 9",
+        "description": "Delete the embraces in this dream sequence",
+        "length_m": 3.35
+      },
+      {
+        "kind": "insertion",
+        "reel": "No. 2",
+        "description": "Approved replacement",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "\"Moti Mahal\"",
+    "languages": [
+      "Hindi"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Put in a tablet in Hindi reading that the portrayal of the doctor, the police and some of the costume of the character in the film have no basis in the reality of Indian life",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 5",
+        "description": "Delete all shots of Roopa, bust in negligee when Shekhar breaks into her bedroom",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 10",
+        "description": "Rouge boy in moles in gangster den",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 11",
+        "description": "Delete close-ups and mid-shots of Roopa's bust in the zip-fastener effect costume when she is talking to Shekhar",
+        "length_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 14 (a)",
+        "description": "Reduce drastically Jugal's attempt to persuade the Inspector to go away without reviving Kamala",
+        "length_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 14 (b)",
+        "description": "Delete Kamala death scene",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "No. 16",
+        "description": "Return to a flash the last colour scene in which Roopa is shown in mid-close and close-up in the zip fastener effect costume",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "No. 10, 13 & 15",
+        "description": "Delete all elements of naked men and reduce length of him chaining the boy and the boy's struggle to climb him",
+        "length_m": 57.61
+      },
+      {
+        "kind": "insertion",
+        "description": "Make police inspector say \"He will search for the body of the baby\"",
+        "length_m": 24.38
+      }
+    ]
+  }
+]

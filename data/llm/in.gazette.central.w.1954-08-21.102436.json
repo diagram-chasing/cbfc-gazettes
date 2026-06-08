@@ -1,0 +1,416 @@
+[
+  {
+    "film_title": "Amar Keertan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Punjab Film Corporation, Dr. Annie Besant Road, Bombay 18",
+    "cert_no": "11287",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Flogging of Ramdas in the presence of the Thakur, eliminating altogether the earlier scenes showing Ramdas being flogged",
+        "length_m": 12.8016,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Bhalusingh talking to his accomplice",
+        "length_m": 24.6888
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Repetition of song line \"Head, aur cham\"",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Bhalusingh talking to his wife",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Close shot of lower",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Raptos and Rani performing Koortan",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Xp",
+        "description": "Scope of Ramdas and Lord Krishna",
+        "length_m": 6.7056
+      }
+    ]
+  },
+  {
+    "film_title": "Shiv Kanya",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Colored",
+    "producer": "Chandrakala Pictures, Nehru Road, Bombay 24",
+    "cert_no": "11288",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Manager with emphasized bust when she recites Putrudev, also, profile of her bust emphasized when she talks to Shiva, Parvati and Nared in a song after the dead body of Laxmondra is taken in boat by his wife",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Soldiers with mpoan entering the temple of Shiva alongwith cumale scene; also Chundradhar throwing away the gorpont-ornamonto of Lord Shiva",
+        "length_m": 31.6992
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Word Pooja used by Manass in her address to Chandradhar \"Main tumhari pooja karti hoon\" (Sound replaced with other)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The child referring to Shiva as \"Neech\" (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII & XI",
+        "description": "Close and mid-shots of the bust of the idol of Parvati",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Flying up and down of the skeleton of Laxmondra",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Close shot of the head of dead man covered by band at the time of famine",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "II & XI",
+        "description": "Considerably Parvati appearing in palla half covering her bust",
+        "length_m": 9.144,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots of snakes as well as men being strangled by the same reptiles",
+        "length_m": 18.288,
+        "length_retained_m": 18.288
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "The breaking of Mangalghatt of Monba by Chandradhar, retaining only such portion as is needed for continuity",
+        "length_m": 0.6096,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI XII",
+        "description": "Shots of the dead body of Laxmendra in the boat, in the improvised cart or elsewhere",
+        "length_m": 10.3632,
+        "length_retained_m": 17.6784
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII and XIV",
+        "description": "Considerably the skeleton of Laxmondot",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Severed head of Chandradhar",
+        "length_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Radha Krishna",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Color",
+    "producer": "G. P. Productions, 3-G, Naaz Bldg., Bombay-4",
+    "cert_no": "11301",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Radha singing \"Draupadi langar natkhat harjal\" where the flesh of the part of her bosom is slightly seen. Also the same character kneeling at the foot of Krishna where the flesh of her bust is visible",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "insertion",
+        "description": "Scenes showing pots flying, Mansukh and Krishna with pots and Radha's song",
+        "length_m": 8.5344
+      }
+    ]
+  },
+  {
+    "film_title": "Gawaiya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Seth Ram Baoban & Workers, Bombay",
+    "cert_no": "10904",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Scene of Doctor with Rupa and Chanda",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Scene of Prakesh and Kishan",
+        "length_m": 20.7264
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Rupa going with the intention to commit suicide",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Noaz",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. K. Ojha, S. K. Films, 18, Motibai St., Bombay 11",
+    "cert_no": "10927",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Scene showing dedication to the Egyptian and the British governments; Abdul Hasan running on the Pyramids, 3 shots of horse running and night view of London streets",
+        "length_m": 43.2816
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Night view London streets; Shekhar watching guards passing headed by a band",
+        "length_m": 35.6616
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Dialogue between Sphinx and Shekhar while he is standing on the bank of Thames",
+        "length_m": 21.336
+      }
+    ]
+  },
+  {
+    "film_title": "Pakistan A Panorama",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "British High Commissioner for Pakistan in India, New Delhi",
+    "endorsement": "P",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of text regarding Gilgit, Azad Kashmir, its geography, and refugees from across the border",
+        "length_m": 26.5176
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of reference to \"The rope gardens of Azad Kashmir\"",
+        "length_m": 6.4008
+      }
+    ]
+  },
+  {
+    "film_title": "Sati",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Jyotirban, 148, Bowbazar Street, Calcutta-12",
+    "cert_no": "0634",
+    "endorsement": "P",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "24",
+        "description": "Detailed in Form II",
+        "length_m": 35.9664
+      },
+      {
+        "kind": "deletion",
+        "reel": "56",
+        "description": "Detailed in Form II",
+        "length_m": 13.716
+      },
+      {
+        "kind": "deletion",
+        "reel": "50",
+        "description": "Detailed in Form II",
+        "length_m": 13.716
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Detailed in Form II",
+        "length_m": 61.5744
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Detailed in Form II",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "87a",
+        "description": "Detailed in Form II",
+        "length_m": 249.9312
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Detailed in Form II",
+        "length_m": 14.3256
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Detailed in Form II",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Detailed in Form II",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "15 (2)",
+        "description": "Detailed in Form II",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "18 (5)",
+        "description": "Detailed in Form I",
+        "length_m": 14.6304
+      }
+    ]
+  },
+  {
+    "film_title": "THULI VISHAM",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Narabu Studios Ltd., Guindy, Madras",
+    "cert_no": "8226-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the words of Chandran \"Enakku Ore Vaarthaiyil Sorga vagnlai Kaativitteerkal\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete Karpakun saying to his friends \"We shall all enjoy Pooncholai together\" (Ellarumaal Shorndhu Pooncholayal *** Rasipom",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9, 10, 14 & 10",
+        "description": "Delete all the picture and dialogue of Suryakuntau asking for a blue from Angayarkanni before he good",
+        "length_m": 35.6616
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the portion of the dialogue between Solai and Karumbu where she asks whether he could carry a Kuja and his reply \"that he cannot but he will be willing to do so for her\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "Delete in Suryakantan, speech regarding fraudulent persons, description of trouson, statement about conspirators, and statement about deer",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the speech of Chandran regarding foreigner interference, criminal family, and tolerance of outsiders",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete Surya kantan saying \"According to the political leader, the usage of famine is the fraud in the heart of the rules of the land\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete Chandran paying regarding greedy gang, repaying by ingratitude, and addressing Karpaka Mannan",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the picture and dialogue of the Guru solemnizing what he calls the Gandharva form of marriage, up to and including cuts belonging to the couple and saying that he will send Chandran to the bed-room that night and it may be spent as a happy night by them",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Chandran saying \"Does the cry of revenge make your nerves shiver?\", description of revolt, dialogue between Marthandan and Chandran, Chandran telling Guru, and Chandran offering to fight soldiers",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduce to a suggestion the strangling of Angayarkanni by Suryakantan, including his facial reactions and the sound of panting",
+        "length_m": 10.3632,
+        "length_retained_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "When Karumbu is chastised, delete Noall telling him \"do not interfere in local affairs\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Delete Malnyaman saying \"Let there be war, Let our world dance...\", \"Son, these are good days for the land...\"",
+        "length_m": 0
+      }
+    ]
+  }
+]

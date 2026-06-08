@@ -1,0 +1,727 @@
+[
+  {
+    "film_title": "वक्त की दीवार",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "producer": "Modern Pictures, T. C. Dewar",
+    "cert_no": "96014",
+    "cert_date": "29-12-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the dialogue of Ranveer “Kachi Kali Hai”.",
+        "length_m": 7.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the sequence of strangulation of Sajan, deleting close shots.",
+        "length_m": 0.63,
+        "length_retained_m": 3.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "In the fight between Vikarm and goondas reduce the impact by deleting hard hitting shots.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In the beating of Amar by goondas, delete hard hitting shots.",
+        "length_m": 2.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In the fight between Vikarm and Baka, delete hard hitting shots.",
+        "length_m": 3.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "The sequence where Amar and Vikarm Press their motor cycle against Ranveer s arms may be reduced.",
+        "length_m": 4.57,
+        "length_retained_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "शान",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "सिनेमास्कोप",
+    "cert_no": "94997",
+    "cert_date": "09-12-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Vijay and Ravi fool Manager of the Hotel",
+        "length_m": 20.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Abdul s song",
+        "length_m": 3.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Song Hari Om",
+        "length_m": 15.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Talk between Shakaal & Shiv in the tunnel",
+        "length_m": 21.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Dogs chase Shiv",
+        "length_m": 8.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Shakaal Shack from Rakesh rushes out",
+        "length_m": 6.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Rakesh chasing Roma to save her Night",
+        "length_m": 31.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Ravi chasing man of Shakaal",
+        "length_m": 62.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Rakesh gives lift to Guddi and Sheetal upto they get down the Mini train and Jagmohan starts following them",
+        "length_m": 90.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Jagmohan starts following Rakesh",
+        "length_m": 12.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Renu and Ravi s scene before song and portion from Bus Song",
+        "length_m": 109.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Sheetal is kidnapped",
+        "length_m": 23.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "20",
+        "description": "Girl s and Uncle s fight punches",
+        "length_m": 14.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "21",
+        "description": "Croc Fight",
+        "length_m": 3.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "22",
+        "description": "Passing shots from tunnel and tlift while blastings are going on",
+        "length_m": 78.45
+      }
+    ]
+  },
+  {
+    "film_title": "गैस्ट हाउस",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "4818",
+    "cert_date": "22-12-1980",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Deleted Komilas running shots where hand is following her by 65 ft. 08 frames and added Christopher appearing and killing her by 113 ft. 13 frames.",
+        "length_m": 21.44,
+        "length_retained_m": 20.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Deleted Kaliyons shots where hand approaches him by 2 ft. and added Christopher appearing and killing him by 45 ft. 12 frames.",
+        "length_m": 13.79
+      }
+    ]
+  },
+  {
+    "film_title": "चस्का",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "4821",
+    "cert_date": "05-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following dialogue: Acha thu barthi hoia.",
+        "length_m": 8.38
+      }
+    ]
+  },
+  {
+    "film_title": "हम पांच",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "94977",
+    "cert_date": "27-11-1980",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted song lines beginning with the words \"Sone De Becharaon Ko\" and ending with the words \"Tu Kahe Shor Machaye\".",
+        "length_m": 41.45
+      }
+    ]
+  },
+  {
+    "film_title": "जीना यहां",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "90442",
+    "cert_date": "16-07-1979",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "12",
+        "description": "Heroine Lekha brings her Sister in law Gauri from the village to the city in a train. She travels in a taxi with Gouri from the Railway Station to her house where she meets her friend Sushma and her husband. She introduces Gouri to Sushma and explains the reason of bringing Gouri together married to the boy Gouri wished to marry.",
+        "length_m": 130.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Heroine Lekha comes from the Village to the City in a train. She meets her friend after travelling in a taxi in her room all alone. She also meets her friend Dinesh alone.",
+        "length_m": 105.37
+      }
+    ]
+  },
+  {
+    "film_title": "ए चेंज",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "93917",
+    "cert_date": "06-06-1980",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added a Card reading as under: Please Send Your Valued Views on this Short Film to the Public Relations Officer, Film Division, 24- Dr. Deshmukh Marg, Bombay- 400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "The Way To The Village",
+    "languages": [
+      "English"
+    ],
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added a Card reading as under: Please Send Your Valued Views on this Short Film to the Public Relations Officer, Films Division, 24- Dr. Deshmukh Marg, Bombay- 400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Clever People",
+    "languages": [
+      "English"
+    ],
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added a Card reading as under: Please Send Your Valued Views on this Short Film to the Public Relations Officer, Films Division, 24- Peddar Road, Bombay- 400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "TELEPHONICALLY YOURS",
+    "languages": [
+      "English"
+    ],
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added a Card reading as under: PLEASE SEND YOUR VALUED VIEWS ON THIS SHORT FILM TO PUBLIC RELATIONS OFFICER , FILMS DIVISION , 24 - PEDDAR ROAD , BOMBAY- 400026 .",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Kamili",
+    "cert_no": "83321",
+    "cert_date": "22-12-1976",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added a Card reading as under: PLEASE SEND YOUR VALUED VIEWS ON THIS SHORT FILM TO PUBLIC RELATIONS OFFICER , FILMS DIVISION , 24 - DR . C . DESHMUKH MARG , BOMBAY -400026",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "मिडनाइट एक्सप्रेस",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "4822",
+    "cert_date": "08-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "In the sequence where Billy is hung upside down and beaten up by the Commander, reduce the impact of sadism.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Suitabily reduce the sequence of children being beaten by the Commander to tone down the impact of sadism.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In the homosexual sequence, delete the shots of lip to lip kissing between Billy and his inmates.",
+        "length_m": 12.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Considerably tone down the impact of violence where Billy beats up Ripkims. Shots where Billy thrusts his nails into the eyes of Ripkis, cuts his tongue and then spits it out may be deleted or suitably reduced.",
+        "length_m": 11.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the shots of Susan with bare breasts and Billy masturbating.",
+        "length_m": 12.83
+      }
+    ]
+  },
+  {
+    "film_title": "मद्रास राउडी",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "82580",
+    "cert_date": "05-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the lyric lines Rathiriyil kasangi pogummunnu ninachen.",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the visual of the dancer pointing at the pelvic against the line Aaradu apalachudu.",
+        "length_m": 1.63
+      }
+    ]
+  },
+  {
+    "film_title": "कलोपासना",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "श्याम-श्वेत",
+    "cert_no": "82581",
+    "cert_date": "06-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce shots of Dasan s burnt face to minimum.",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "जगमोंदी",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "82584",
+    "cert_date": "07-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In the court scene, delete the dialogue of Vijay in condemnation of police court and judge.",
+        "length_m": 2.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the visuals of Asha when her deep thigh is visible, when she kicks her leg in the dance sequence.",
+        "length_m": 1.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the word \"Peetesta\" in the dialogue of Asha when she is talking to the Inspector.",
+        "length_m": 0.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "In the dance sequence, delete close shot of Vijay hitting the hips of Asha.",
+        "length_m": 3.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the head gesture of Lingam against the words Pedda.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the kicking of the villain by Vijay on the terrace.",
+        "length_m": 0.64
+      }
+    ]
+  },
+  {
+    "film_title": "तडवरा",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "82730",
+    "cert_date": "20-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the shots of the call-girl in the lodging house fanning herself with her pallu exposing the front of the blouse all the time.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the dialogue of the dwarf in the office ‘Moonu naala kaanji poyi vandirukitaru etc.",
+        "length_m": 0.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the dialogue of one of the office staff outside the hotel room 'Thoranda thane satham varum'.",
+        "length_m": 2.45
+      }
+    ]
+  },
+  {
+    "film_title": "कुलक्कोझुण्डु",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "82726",
+    "cert_date": "13-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete shots of Mani dressed as woman bumping against 4 girls near the bar during BGM of song.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Prema's shots revealing her thighs during song on the table.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Prema's thighs revealing shots after she gets up from a lying position in front of the revolving wheel.",
+        "length_m": 0.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Mani's dialogue to Thambidurai “Nee munnale gavaniychuko nan pinnalaye varen\".",
+        "length_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete all references of Mani and Thambidurai referring to Mani as “Naduvandharam” wherever it occurs.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Prema's legs shots only at commencement of song.",
+        "length_m": 1.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the lines of lyric in song “Gopuram” to “Sevai endran\".",
+        "length_m": 10.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the song sequence, delete close shots of Prema's torso where camera focusses on her wet blouse.",
+        "length_m": 0.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete dialogue of the henchmen where they discuss about molesting Prema and Prema's reference to a similar desire on her part until she tells them to have a bath holding her nose.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete all visuals of men stripping retaining only a suggestion of their removing their shirts.",
+        "length_m": 2.15
+      }
+    ]
+  },
+  {
+    "film_title": "प्रेम सिंहासनम्",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "82719",
+    "cert_date": "12-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the song and dance sequence, delete the following: (a) Visual of deep thigh exposure of the dancer when the hero lifts her. (b) Close-up of dancer's hip jerks.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In song 1, delete the line beginning from Rangu mudirathe... chosthe vale.",
+        "length_m": 0.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dialogue of Kamaraju with reference to Devullake stepni.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visual of Rani rubbing the chest of Raja in the train along with the dialogue.",
+        "length_m": 3.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Kalyan's dialogue Maataloku chetaluku raatri seriyaine samayam, when he is sitting with Rani on the bed.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the visual of a girl's legs on Kalyan's thigh while playing card.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the first two lines in charanam 2 of song 2 beginning from Kannu kodithe... to zarigi pothunda.",
+        "length_m": 3.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Reduce the attempted rape of Lakshmi by Thampi, particularly deleting the shot of the mounting and rolling and the removal of her sari.",
+        "length_m": 3.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the visuals of Andrew exposing his deep thigh as he sits by the side of the chicken cage.",
+        "length_m": 3.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the dialogue of Thampi to Geeta Thatame engane karyam nadaku.",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Reduce the fight sequence of horses trampling Viswam.",
+        "length_m": 3.39
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the torture of Viswam by Madhvan, particularly direct hits on face.",
+        "length_m": 1.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the close-shots of hanging of Rajan and Nandini.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "तडवरा",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "82730",
+    "cert_date": "20-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the shots of the dancer revealing her thighs.",
+        "length_m": 0.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the revealing of her undergarment when she lifts her leg.",
+        "length_m": 0.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete caressing her belly by Khader.",
+        "length_m": 1.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the shots of dancer lying on Madhavan Kutty's leg when he fells her from thigh upwards.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the close-shot of dancer gyrating her hips.",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the cremation shot.",
+        "length_m": 3.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the rape sequence to a minimum, particularly deleting the shot of pulling and tearing the blouse of Nandini by Viswam.",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the shots of Viswam being trampled by horses.",
+        "length_m": 3.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the torture of Madhavan by Viswam, particularly direct hits on face.",
+        "length_m": 0.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the close-shots of hanging of Rajan and Nandini.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "क्रान्ति",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96036",
+    "cert_date": "28-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the sequence of molestation of Pravin Babi by deleting the portion of a shot in which her bare thighs and legs are seen prominently.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Delete or replace the extreme close shots of blind man's eyes.",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete or replace the close shot in which the bare thighs of English girl are prominently seen in the foreground.",
+        "length_m": 5.54
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Delete or replace the word \"kutiya\" in the sequence in which a number of abusive words are used.",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

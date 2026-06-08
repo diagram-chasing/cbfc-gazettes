@@ -1,0 +1,668 @@
+[
+  {
+    "film_title": "Trailer of \" Madame \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "41128",
+    "cert_date": "31-3-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Prominent views of Catherine's exposed bust and the shot of a soldier holding her behind.",
+        "length_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Catherine and Lefevre embracing and kissing passionately.",
+        "length_m": 2.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary, the words \"Euscious\" and \"Delectable\" with reference to Catherine.",
+        "length_m": 2.36
+      }
+    ]
+  },
+  {
+    "film_title": "Daal-Me-Kala",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41130",
+    "cert_date": "31-3-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Song beginning with the words \"Aayoc bhalaa....\" from visuals shot of Raja and Raju taking liberties with female passengers.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IG",
+        "description": "Shots of Sheola behaving flirtatiously with Raju, sitting in an indecorous posture on the sofa and taking liberties with him saying \"Aapko aaram dopekikoshish kar rahi hoon\".",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the dialogue between Prof. Roy and Banke, the words: Prof - \"Yahan Ladkian hain\", Banke - \"Yahan ladke bhi hain ist llye to aapko vahan laya hoon.\"",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Raja's dialogue suggestively pointing to girls playing volley ball: \"Ye rasta achha hai... rasta to mil jayega... are yaar maza aata hai, bahutsi ladkiyap hain na\".",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From scene on the water front: \"Mujhe apne bahopmen utha lijye\" said by Sheela to Raju. Manju - \"Mouka hai, bahaduri dikha jayiye\". Raju - \"Voh kabati hai god man uthavo\". Manju - \"Faida uthalijiye... cheez pasand nahin aayi?\".",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Underlined words from the dialogue of servant to Raju: \"Udhar jayiye, vahan koyee nahin , sirf ladkiyan hain\". Also the word \"Kijiyoga\" said suggestively by Damrilal.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Real x",
+        "description": "In song No. 6, beginning with the words \"Mera bhalu bada hoshiar...\" from visuals shots of Raja (disguised as the bear) pulling a woman from the audience and dancing with her.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shots of Raju (disguised as car driver) holding hands of Manju and taking liberties with her in the car.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "In song No. 8, beginning with the words: \"Jo yaro main jaanta...\", from visuals Raja with his arms over shoulders of two girls.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Raja dashing against Manju in the posterior.",
+        "length_m": 11.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "From the scene between Munnibai and Prof. Roy, shots in which she tries to force herself on him ending in close physical proximity.",
+        "length_m": 10.69,
+        "length_retained_m": 10.69
+      }
+    ]
+  },
+  {
+    "film_title": "Zotz",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "41131",
+    "cert_date": "1-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "All sequences where the kidnappers of Professor Jones are established as Russians (e.g., Russian signs in the plane, dialogues in Russian, references to Comrade Fgor, the pilots - one looking like Kruschev and the other wearing uniform of Soviet Army).",
+        "length_m": 39.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All references to Reds from the headlines.",
+        "length_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Seven Days In May",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "41132",
+    "cert_date": "1-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the speech of General Scott to the American Services Committee, the following underlined reference to \"We've kept the peace because we've dealt with an enemy who knew we would use that arsenal, And now we're asked to believe that a piece of paper will take the place of missile sites and Polaris submarine and that an enemy who hasn't honored one solemn treaty in the history of its existence, Will now, for our convenience, do precisely that\".",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Aap Ki Parchhaiyan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41038",
+    "cert_date": "19-3-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Monogram with couplet.",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Kohraa",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1460",
+    "cert_date": "11-3-1964",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Song beginning with the words; \"Rah Bani Khud Manzil\".",
+        "length_m": 109.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dining Table scene.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "River scene.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Dream sequence.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "River and bathroom scene.",
+        "length_m": 13.11
+      }
+    ]
+  },
+  {
+    "film_title": "Kohraa",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1460",
+    "cert_date": "11-3-1964",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "From the scene between public Prosecutor, Dai Ma, the shot of the court room.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Shot of the fans.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "The entire scene of Raj and Jhumki in between the court scene.",
+        "length_m": 35.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Song beginning with the words \"Rah Bani Khud Manzil\" re-inserted.",
+        "length_m": 109.42
+      }
+    ]
+  },
+  {
+    "film_title": "Kohraa",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1460",
+    "cert_date": "11-3-1964",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Entire chorus \"Maru Ho Janiya\".",
+        "length_m": 194.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Entire scene of Jhumki and Rajashree before the song \"O Bequrar Dil\" and their scene following the song.",
+        "length_m": 43.89
+      }
+    ]
+  },
+  {
+    "film_title": "Shabnam",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "41146",
+    "cert_date": "2-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 26",
+        "description": "In the song/dance sequence beginning with the words \"Husn, alaa ya habbi,, shots of bust jerking and front views of hip swinging by the female dancers.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The remark of Khan Mustafa addressed to Gulgulo \"Hum to atak gayo\" when he gets stuck in the chair.",
+        "length_m": 3.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In the song-dance sequence beginning with the words \"Nigahon ki jaadugari...\", shots of bust jerking by the dancer, and also her near views in which her bare stomach is prominently visible.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV (a)",
+        "description": "In the song-dance sequence beginning with the words \"Anari hal shikaari...\" all shots of Shabnam in which the contours of her legs are prominently visible through her transparent white dress, giving the impression of near-nudity.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV (a)",
+        "description": "All references to \"Haji\" in the dialogue pertaining to Khalifa Haroon and Gulfam, disguised as dervishes. (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "To a flash the stabbing of Wazir-c-Ala by Jabir, deleting shot of direct hit.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan And Dollh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41137",
+    "cert_date": "3-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "In the qawwali sequence shot of a man flourishing a liquor bottle while singing in a drunken condition.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels I & II",
+        "description": "The word \"Doctor\" and its repetitions in the dialogue of Sunanda referring to her uncle and drastically reduce the sequence in which the latter is seen in a drunken condition threatening to take his revenge on Sunanda because her father had seduced his sister. Also reduce to a flash shots of the Doctor in a drunken condition trying to give Sunanda an injection to make her insane.",
+        "length_m": 13.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "In the song-dance sequence \"Mori Payal geet suna\" shots of bust-jerking by Bali and near-views of her emphasised bust.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Near-views of Delilah lying indecorously on the couch. Also shots in which her bare thigh is visible through the side slit in her dress.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In the picturisation of the song \"Dil ki dharkan pukure sunc hain chaand tare\" shots of emphasised bust of Delilah and of her lying on the couch in an indecorous pose.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In the picturisation of song. \"Dil Mera Diwana Hone Chala Nishana,\", Shot of Lali's indecorous bust movements on the line \"Dil sara bachna,\" of her body-shaking on the line: \"Ye rog hai purana\" and of her hip-jerking on the tune.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The remark of Rosam facing the camera: \"Zindagi nen jo cheez maangane se na mile uso chhin lo, aur Jo chhin na sako to burbaad kai do.\"",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot of Bali fainting in the arms of Rosam in which the contours of her partly bare bust are seen to be emphasised.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "In the song-dance sequence: \"O dur gagan ko chanda...\" the back-view of hip-jerking by Sunanda and Lali.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To a flash the back view of Bali walking coquettishly.",
+        "length_m": 1.83,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To a flash the embrace between Delilah and Tarzan.",
+        "length_m": 4.27,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "The embrace between Tarzan and Delilah, deleting the suggestion of a kiss.",
+        "length_m": 2.74,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "From Fernandez's dialogues to the minimum his references to God in relation to his romance with Lali.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "Close shots of Doctor's sister and the shot of cheque.",
+        "length_m": 22.56
+      }
+    ]
+  },
+  {
+    "film_title": "Love Is A Ball",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "1465",
+    "cert_date": "31-3-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Pimm's remark: \"This is a nice place,\" while kissing the arm of Janine as a demonstration to the Grand Duke.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Near-view of exposed bosom of Millie when she is seen in pale blue frock.",
+        "length_m": 20.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Close-up of Millie in dark net tights throwing up her leg while dancing in the party.",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Near view of partly exposed bosom of Millie in red costume.",
+        "length_m": 5.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The underlined words from Millie's remark addressed to Davis; and his reply thereto: Millie - \"Why don't you close the door and seduce me like any other normal chauffeur?\" Davis - \"Well I never seduce my employees on Thursdays\".",
+        "length_m": 5.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The dialogue of Davis addressed to Millie: \"Do you know there is no bed in my room? Where do you suppose I'm supposed to sleep?\" and Millie's suggestive reply: \"Why don't you turn the music down and we'll discuss it?\".",
+        "length_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Close-ups of amorous statues of embracing couples.",
+        "length_m": 4.1,
+        "length_retained_m": 1.67
+      }
+    ]
+  },
+  {
+    "film_title": "Pachai Vilakku",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "40045",
+    "cert_date": "1-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the explanation of Joseph about Mary's pregnancy.",
+        "length_m": 6.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete (a) Mani and Latha embracing before the song and (b) the entire picturisation of song 1 in full.",
+        "length_m": 77.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete Mary explaining that she came for the cake and Joseph's explanation.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete Pasupathi's reference to Poromboko. (Sound only — replacement approved).",
+        "length_m": 91.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the statement to Sarathi by his father about Balu's wife. (Sound only; replacement approved).",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kuttikkuppayam",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "37991",
+    "cert_date": "14-2-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "ReelNo. 7",
+        "description": "Voluntary deletion of 22.86 Metres.",
+        "length_m": 22.86
+      }
+    ]
+  },
+  {
+    "film_title": "Narthanasala",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "37873",
+    "cert_date": "10-10-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. 4, 5, 6, 8, 9, 12, 13, 14, 15, 16, & 17",
+        "description": "Total voluntary deletion of 965.29 Metres to make a shorter version of 3908.45 metres in 14 reels.",
+        "length_m": 965.29
+      }
+    ]
+  },
+  {
+    "film_title": "Kaise Kahoon",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "41190",
+    "cert_date": "8-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "To a flash shot of Amar's head being marked by the doctor before the operation.",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Scene between Naaz and Rehman in the car.",
+        "length_m": 52.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Comedy scene of Asit and maid-servant.",
+        "length_m": 42.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scene between Rekha with her father.",
+        "length_m": 67.36
+      }
+    ]
+  },
+  {
+    "film_title": "Armored Command",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "41191",
+    "cert_date": "8-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From the dedication tablrid, the underlined words \"To the Seventh United States Army and its units which served the cause of freedom so valiantly and victoriously, and to an Army which today still stands to defend our Nation and the Free World, we pay tribute\". (The whole tabloid scene deleted).",
+        "length_m": 28.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerably the passionate kissing between Mike and Alexandra in the latter's room.",
+        "length_m": 20.5,
+        "length_retained_m": 5.0
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan's Three Challenges",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "41192",
+    "cert_date": "8-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V (34)",
+        "description": "Strangling of Khan's soldier by Tarzan.",
+        "length_m": 1.57,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Stolen Hours",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "41194",
+    "cert_date": "9-4-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From Laura's dialogue to Doctor John who had used up so many dollars and son From the narrator's commentary, the under-sentence \"What about the nights, doctor\".",
+        "length_m": 0.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "From the narrator's commentary, the under-lined words from the sentence \"Laura Pember, queen of the jet set\" and \"many men trying to fill the empty nights\".",
+        "length_m": 1.74
+      }
+    ]
+  },
+  {
+    "film_title": "On The Map",
+    "colour": "Colour",
+    "cert_no": "41197",
+    "cert_date": "10-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "The map of India has been replaced with another map omitting the territory of Nepal therefrom."
+      }
+    ]
+  }
+]

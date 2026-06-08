@@ -1,0 +1,497 @@
+[
+  {
+    "film_title": "Tarana",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Krishin Movietone, C/o, Jagat Talkies Distributors, 10- Kaka Court, Dinsha Wacha Road, Bombay-1.",
+    "cert_no": "30539",
+    "cert_date": "5-9-61",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the scene showing the doctor’s failure to carry out the operation at the very last moment and the suggestion of the death of the patient.",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Omit the shots showing man kissing man in one scene.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete close-ups and midshots of both Tarana and Sheila showing their low-necked cholis.",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shots showing Tarana in a reclining pose and intimate physical contacts, showing Moti’s and Tarana’s faces very close to each other, inside the ruins.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete scene of Tarana with Surdas showing her in a bending position, and in the next scene wherein she is falling in the embrace of Moti at the end of her song.",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shot showing Tarana without omi while examining saries.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Curtail shot of Moti carrying Tarana.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete Tarana’s embrace with Moti in the lightning scene in the ruins.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete shot of Tarana in low-necked choli when thrown on ground by Surdas.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete words of Assistant Doctor asking Kitty to try her luck and the verse recited by him.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the scene of Assistant Doctor informing Moti of the death of the patient.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "A7K",
+        "description": "Cut out the scene of the patient’s wife accusing Moti and his being accosted later by her father.",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "In the last scene delete the shots showing Moti bending over Tarana who is in a lying posture.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Way Out West",
+    "languages": [
+      "English"
+    ],
+    "producer": "Movie Sales Corporation, 42, Empire Bldg., Dadabhai N. Road, Bombay-1.",
+    "cert_no": "30544",
+    "cert_date": "16-9-61",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Delete all actual drinking scenes and reduce other drink scenes to the absolute minimum essential for the continuity of the story."
+      }
+    ]
+  },
+  {
+    "film_title": "Niyoti",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Soundarya-Sadan, 16, Bonfields Lane, Calcutta-1.",
+    "cert_no": "1454",
+    "cert_date": "18-9-61",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete totally the night-club scene.",
+        "length_m": 102.4128
+      }
+    ]
+  },
+  {
+    "film_title": "Aladin and the Wonderful Lamp",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Jnanendra Lall Roy, 47, Nath Banerjee Road, Calcutta.",
+    "cert_no": "1457",
+    "cert_date": "26-2-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the words 'Sovan Allah'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the words 'Burbak'.",
+        "length_m": 0
+      },
+      {
+        "kind": "insertion",
+        "reel": "10",
+        "description": "Insert shot of two girls dancing in near embrace and giving impression of kissing.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "insertion",
+        "reel": "10",
+        "description": "Close-up shot of Aladin and Sahajadi giving impression of kissing.",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Narir Rup",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Soundarya-Sadan, 16, Bonfields Lane, Calcutta-1.",
+    "cert_no": "1455",
+    "cert_date": "5-12-61",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Omit the portion of the scene where a Policeman is seen pressing Mary with threatening to sign a false statement relating to the death of her husband."
+      }
+    ]
+  },
+  {
+    "film_title": "David And Bathsheba",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "20th Century Fox Corp. (I) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "39",
+    "cert_date": "2-3-1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the passionate intimate postures of David and Bathsheba, lying on the ground in the open field.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Amarakavi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Nagoor Cine Productions, 21, Mantapam Road, Kilpaukam, Madras-10.",
+    "cert_no": "22837",
+    "cert_date": "6-3-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Remove the reference to the Vel being unnecessary after Surasamharam in the comedian’s speech and also the word, 'Aiyar' in that scene (sound only).",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Remove the shots showing Amarakavi being actually dragged along the ground in the prison reducing the dragging to a suggestion.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Shorten the scene showing the mob breaking into the prison and fighting and killing the warders.",
+        "length_m": 12.8016
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Remove the lines in the fruit vendor's song beginning from, 'Kallakathaa Pol' and ending with, 'Irukkum Parunga' and the lines beginning, 'Kuvva Kuvva' and ending, 'En Pazhathuka Thani Thani Mathippunga'.",
+        "length_m": 21.6408
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Remove the shots showing Amarakavi being actually dragged along the ground in the street reducing the dragging to a suggestion.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduce the shots in which Kamavalli and Padmini writhe on the floor so as to avoid the showing of breasts.",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "I was A Male War Bride",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp (I) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "35001",
+    "cert_date": "15-3-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II-B",
+        "description": "Cut out from scene No. I Henri’s words 'I have brought you a drink...Drink this' and Catherine taking the drink and saying 'It is good'.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "II-B",
+        "description": "Cut out from scene No. 30/31 Henri lying and sleeping on Catherine’s bed by her side as she is already there fast asleep.",
+        "length_m": 25.60512
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the kissing sequence of Henri and Catherine in the haystack to the first kiss only, deleting the two later kisses and the dialogues relating thereto.",
+        "length_m": 17.9832
+      }
+    ]
+  },
+  {
+    "film_title": "Ustad Pedro",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Official Liquidator of Omar Khaiyam Films Ltd., Ambe Wadi, Girgaum, Bombay-4.",
+    "cert_no": "40",
+    "cert_date": "23-3-1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the scene in which 'Tiger' falls on Rani on the bed when she is caught as a thief.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the scene in which the dancing girl is shown lying down on the ground exposing her thigh in the first dance on the steamer.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete song No. 2 with all the actions.",
+        "length_m": 57.0008
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the scene in which Pedro and Rani are in the mud pond (showing only Rani falling in and at the end both coming out).",
+        "length_m": 19.812
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Song No. 1 beginning with words 'Chhamba Itta chhamba', delete the words 'Lootte hen iske nazaro' in the last line.",
+        "length_m": 6.9996
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Song No. 2, delete the following lines: 'Ladka—Hoo Ho miss paro—mukhde pe ghunghat maro', 'Ladki—kya hogaya Dr. Baro kya hogaya Dr. Baro', 'Ladka—dil khogaya dil khogaya miss paro apna banalo galle lagalo'.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the following lines: 'Men ahon ki thandak ismen pari, Mere nakhron ka para garam masalah, 'Mujhe tukar tukar kyun takta hai, Kya dil men hai kuch kala kala'.",
+        "length_m": 37.1856
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete shots of Pedro falling on Rani (in disguise) in mud-pond and clasping her.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Song No. 4, Delete lines beginning with the words 'Kyon Bahuji dekh ke isko dil ki halat kaim chhc' till the end of the song.",
+        "length_m": 51.816
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce to a flash, the dance of a girl in Duijansingh’s house when his 'attention call' about guests is heard on the loudspeaker.",
+        "length_retained_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete shots of lifting of girls by male partners and whirling them round.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete shot of Rani and Pedro embracing each other.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Song No. 5—Delete last line beginning with the words 'Chhune na doongi'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the lines 'Guard ka dll gori turn pe hai aagaya, mujh ko yun daga do ke break men chhupa gaya'.",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV-A",
+        "description": "Delete shots of embrace between Pedro and Rani in the nuptial night sequence.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Hanstc Ansu (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kamal Chitra, C/o Pandurang Electric Co. Station Road, Bhusaval.",
+    "cert_no": "41",
+    "cert_date": "29-3-1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "In the first scene in the Police Station, cut out the long dialogues between Police Inspector and Dinanath and Desai keeping from 'SHAREEF ADMI SAHB, DAS ROJSE_' etc., to establish the continuity of Dinanath and Desai searching Usha and Police Inspector remembering of a girl searching her father."
+      },
+      {
+        "kind": "deletion",
+        "description": "In the third scene in the Police Station (after Desai rushing to inform that he saw Usha), delete Desai pulling the Inspector by hand and putting the helmet on Dinanath’s head and book on his own. Eliminate all scene of Dinanath with Inspector's helmet."
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete song No. 2, beginning with the words 'O janewale, thairja — ' along with its picturisation entirely.",
+        "length_m": 59.9232
+      },
+      {
+        "kind": "reduction",
+        "reel": "K",
+        "description": "From Usha's dialogue addressed to Satish, delete the word 'mere' from her remark 'mere snntaron ka ros tumne kyon piya?' Also delete the word ‘aapke’ from Satish's reply ‘aapke santaron ka ras.’",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete song No 6 entirely, beginning with the words 'Ooi main mar gayee’ along with its picturisation.",
+        "length_m": 81.9936
+      }
+    ]
+  },
+  {
+    "film_title": "Five Miles To Midnight",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "39363",
+    "cert_date": "30-9-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The shot in which a prostitute entertains Bob.",
+        "length_m": 7.4676
+      }
+    ]
+  },
+  {
+    "film_title": "Come Fly With Me",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour, Panavision",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "39376",
+    "cert_date": "3-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1A",
+        "description": "Close-up of drunken passenger's hand over Donna’s hip.",
+        "length_m": 2.8956
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "From the dialogue between Ray and Katy, the underlined words from her remarks: 'Darling, he does not exist. Not when we are together.'",
+        "length_m": 1.3716
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shot of the small boy (tourist guide) smoking and staring at a large-size cinema poster showing a couple kissing. Also shot of his whispering suggestively in Walter’s ear about showing gay places to him in Paris along with his reference to 'striptease'.",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "In the carnival scene, shot of a girl in the crowd being kissed passionately by her escort. Also the underlined words from the girl’s song '.You can tease, You can squeeze, you can do as you please.'",
+        "length_m": 27.432
+      }
+    ]
+  },
+  {
+    "film_title": "Kinare Kinare",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Nyaya Sharma, 605 Pushpa Bhavan, Colaba, Bombay-5.",
+    "cert_no": "39377",
+    "cert_date": "3-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shot of the naked boy in the village mela.",
+        "length_m": 8.7096
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "From the court room scene, reference to the Home Minister by Government advocate in connection with reopening of the case of Kanwal who had been dodging the police.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI, VII, XII, XV",
+        "description": "Prominent views of flashing of knives by goondas wherever these occur."
+      }
+    ]
+  }
+]

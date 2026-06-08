@@ -1,0 +1,940 @@
+[
+  {
+    "film_title": "Annapurna",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "RKO Radio Pictures Ltd., Dhan Nur Bldg., G.L.P.D. Road, Bombay.",
+    "cert_no": "B-9558",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words \"Just an oriental custom\" with reference to the strike of the Sherrat.",
+        "length_m": 0.003048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "From the commentary: \"The Asiatic mind is surprising\" with reference to the behaviour of the Moplah.",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The second shot of Herzog from bottom row appears.",
+        "length_m": 0.0024384,
+        "length_retained_m": 0.0006096
+      }
+    ]
+  },
+  {
+    "film_title": "Poole",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Varma Films, 4A, Rawalpindiwala Bldg., Tribhuvan Road, Bombay.",
+    "cert_no": "B-9126",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The sun set completely from the picture.",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "description": "Lala Karamchand saying \"Ladki ki toh ushboo aati hai\".",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "description": "Close-up of Kala's buttock emphasizing her beauty when she stands with her back to the wall after Deepak says \"To din zaroor ayega\".",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V, XII",
+        "description": "Bimla's gluteus and night shot when her buttock is prominently shown, without advertisement, when she gets up from the bed and when she sings 'Maja murli dhar ki murli layi'; when she talks to Deepak when he lost his doted; when she talks to the korter when the latter comes to Bimla's father and when she meets Deepak in the temple when her buttock falls behind.",
+        "length_m": 121.92,
+        "length_retained_m": 137.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "A woman mounting on a man's back in the Holi scene.",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From the Holi dance the lot of women dancers who were in front with prominent busti.",
+        "length_m": 0.004572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The line \"Vo anchal hi kya jo na sarko linbhl\" from song No. 5 beginning with the line \"Jelen kohin decek Jalia hal\".",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IX, XI",
+        "description": "Close-ups of Kala's buttock; When Deepak comes to see Kala after her father's death her right buttock is shown prominently when she is talking to Deepak.",
+        "length_m": 89.6088,
+        "length_retained_m": 67.3728
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IX, XI",
+        "description": "When song No. 6 is sung for the first time.",
+        "length_m": 0.006096,
+        "length_retained_m": 0.006096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "The words \"Kulta\", \"Dayan\" and \"Ratlo qulohhatro udati hai\" with reference to Kala.",
+        "length_m": 0.0109728
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rule XIV",
+        "description": "Scene of Bimla, Soura, Deepak and Kala.",
+        "length_m": 135.3312
+      }
+    ]
+  },
+  {
+    "film_title": "Malika-F-Alam-Noorjehan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Amar Kirti Pictures, 293, Bellasis Road, Bombay.",
+    "cert_no": "B-9420",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels I, II & III",
+        "description": "Picturization of the sun set throughout the film, particularly eliminating his appearance in the deat.",
+        "length_m": 61.2648,
+        "length_retained_m": 28.956
+      }
+    ]
+  },
+  {
+    "film_title": "Shadi-El-Milaap",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Colored",
+    "producer": "Sultan Mazhar, Starlight Films Ltd., 60, Band Stand, Bombay-20.",
+    "cert_no": "B-9602",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Audio Oscillator Operation",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm. P.E.",
+    "producer": "National Education & Information Films, Ltd. National House, Tulloch Road, Bombay.",
+    "cert_no": "B-9487",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Tube Tester Operation",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Navy, U.S.A.",
+    "cert_no": "B-9468",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Radio Antenna, Creation & Behaviour of Radio Waves",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "National Education & Information Film, Ltd., National House, Tulloch Road, Bombay.",
+    "cert_no": "B-9460",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Split Phase Motor Principles",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Office of Education, U.S.A.",
+    "cert_no": "B-9403",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Three Phase Motor: Part 2/ Rewinding",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Office of Education, U.S.A.",
+    "cert_no": "B-9874",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Alaska Sex\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount International Films Inc., U.S.A.",
+    "cert_no": "B-9678",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Koolworthy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cartoon",
+    "producer": "India Tyre & Rubber Co. (India) Ltd., Bombay.",
+    "cert_no": "B-9667",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"The Boy From Oklahoma\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Warner Bros. Pictures Inc., U.N.A.",
+    "cert_no": "B-9111",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Fort Osage\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Monogram Pictures Corp., U.S.A.",
+    "cert_no": "B-9317",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Great Diamond Robbery",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer U.S.A.",
+    "cert_no": "B-9414",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Great Diamond Robbery\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer U.S.A.",
+    "cert_no": "B-9416",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Prowlers of The Everglades",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Walt Disney, U.S.A.",
+    "cert_no": "B-9667",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Learning To Swim",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Coast Guard, U.S.A.",
+    "cert_no": "B-9221",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Portrait For Tomorrow",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "Victor Vlces, U.S.A.",
+    "cert_no": "B-9444",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "About Faces",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Public Health Service, U.N.A.",
+    "cert_no": "B-9442",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "A. Other See U.",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "Communication Control, Motion Picture Division, University of North Carolina U.S.A.",
+    "cert_no": "B-9440",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Pride of Workmanship",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "16 mm. P.E.",
+    "producer": "MPO Production, U.S.A.",
+    "cert_no": "B-9441",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Bermuda Islands",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.n.",
+    "producer": "U.S.I.S. (USA)",
+    "cert_no": "B-9438",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Choose To Live",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Department of Agriculture Extension Service, U.S.A.",
+    "cert_no": "B-9440",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Wonder Hour",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "RKO Patho Inc., U.S.A.",
+    "cert_no": "B-9448",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Wild Stallion",
+    "languages": [
+      "English"
+    ],
+    "producer": "Albert Leimotione, France",
+    "cert_no": "B-9328",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pup L. Pup#",
+    "languages": [
+      "English"
+    ],
+    "producer": "Hal Rosch Production, U.S.A.",
+    "cert_no": "B-9401",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Your Contribution P.E.",
+    "producer": "Film Division, Govt. of India, 24, Poddar Road, Bombay-20.",
+    "cert_no": "B-9887",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Mission of Peace P.E.",
+    "producer": "Film Division, Govt. of India, 24, Poddar Road, Bombay-20.",
+    "cert_no": "B-9888",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Mr. Druko's Duck\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "U.E.",
+    "cert_no": "B-9938",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"The Conquest of Everest\"",
+    "colour": "Color",
+    "producer": "Group Three, U.K.",
+    "cert_no": "B-9097-9",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Repulsion Motor Principles",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Office of Education, U.S.A.",
+    "cert_no": "B-9642",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Signal Generator Operation",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Navy, U.S.A.",
+    "cert_no": "B-946A",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Single Phase & Polyphase Circuits",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "U.S. Office of Education, U.S.A.",
+    "cert_no": "B-945",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Electrical Faults",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm. P.E.",
+    "producer": "Do.",
+    "cert_no": "B-900",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Microwave Oscillators",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. P.E.",
+    "producer": "US Navy: U.S.A.",
+    "cert_no": "B-9470",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Knights of The Round Table\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer. U.S.A.",
+    "cert_no": "B-9710",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "British Movietone News No. 1248",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietone Ltd., U.K.",
+    "cert_no": "B-9711",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "ShapMukti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Cinematographic Publicity Service, 7, Swallow Lane, Room No. 76, Calcutta-1.",
+    "cert_no": "C-1101",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Kalanka Bhanjan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Do.",
+    "cert_no": "C-1102",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Arati",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Do.",
+    "cert_no": "C-1103",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"How Mun Thong Foo\"",
+    "languages": [
+      "Chinese"
+    ],
+    "producer": "Mr. Lee Chee Kob, 5, Bowbazar Street, Calcutta-12.",
+    "cert_no": "C-1104",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jagrihi",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Jagrihi Films, c/o. Howrah Film, 65A, Dharamtala Street, Calcutta-13.",
+    "cert_no": "C-1100",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Gaumont British News No. 18/54",
+    "languages": [
+      "English"
+    ],
+    "producer": "J. Arthur Rank Distributors (India) Ltd., 1, Humayun Place, Calcutta.",
+    "cert_no": "C-1096",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Trouble in Store\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Do.",
+    "cert_no": "C-1096",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Shobha",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S.B. Productions, 3A, Hinduython Road, Calcutta-29.",
+    "cert_no": "C-1077",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No.",
+        "description": "The dialogue between Bhagwan Beha and Damodar. Damodar: 'Note varigsddipar baithkor dusroko kiamast ka fuitla karne lyk maskil hui Yuldar Khoda la ohhota bheithains uspar ungll kon uitha veku lat, Ohundi kloboder mo o bingobohupjatan bain - lokin huzuritayozlaphing uſh88831063 Aurlmındarmizkar puro otbar Aohi kya Moti noti rakmo meri tababit me nebi ohhori Lekin ob , apao taj Vi 82 shooba kl Damodar akboroor liuabras ? Thik bimuflis li hasti kya bs- pud ko lotop bavi hurak joyo - gnribi jurn bal ruslat nglu jarm.'",
+        "length_m": 10.0584
+      }
+    ]
+  },
+  {
+    "film_title": "X-Raying with Philips Image Intensifier",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m. (Silent)",
+    "producer": "Philips Electrical Co., N.V. Philips Gloeilampenfabrieken, Holland.",
+    "cert_no": "C-1108",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "TU",
+    "format": "16 m.m. (Silent)",
+    "producer": "C.R.F. Muller Aktiengesellschaft, Germany",
+    "cert_no": "C-1106",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "India Too Can Do Or Bhutat Vi Kesekta Hel",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Information films, Delhi 7. C/7B, Raja Basanta Rai Road, Calcutta-20.",
+    "cert_no": "C-1107",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Usha",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "India (W. Bengal).",
+    "cert_no": "C-1108",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Navyug Anya",
+    "languages": [
+      "A"
+    ],
+    "producer": "India (W. Bengal).",
+    "cert_no": "C-1109",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Swagatam",
+    "languages": [
+      "A"
+    ],
+    "producer": "India (W. Bengal).",
+    "cert_no": "C-1110",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Beda Kule",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Vasamitrs, 9A, Cooper Street, Calcutta.",
+    "cert_no": "C-1050",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 9",
+        "description": "Reduce the murder scene of dancing girl.",
+        "length_m": 6.096,
+        "length_retained_m": 7.9248
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 13",
+        "description": "Reduce the murder scene of the servant.",
+        "length_m": 6.7056,
+        "length_retained_m": 3.3528
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 13",
+        "description": "Insert shots of car and truck parking in between the murder scene of the servant."
+      },
+      {
+        "kind": "deletion",
+        "description": "Total deletions"
+      }
+    ]
+  },
+  {
+    "film_title": "Thodu Dongalu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M. National Art Theatre, 63-A, Bazulla Road, Madras-17.",
+    "cert_no": "M-880",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the words \"Voorabloga Vanntareyndu valo\" when Lokanatham sends Paramesam to Madras.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Delete in the depiction of the tortures in Hell, the 3rd, Dan hung upside down over fire, and the 4th a man obtained And belonging appeared.",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 12",
+        "description": "Delete the dispute in the gambling-dep between Shamby and one of the gamblers, in part [from Shamby calling him \"Gali Vedhe vuoi\"] to the end of the sequence.",
+        "length_m": 50.6016
+      }
+    ]
+  },
+  {
+    "film_title": "Antha Naal",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s A.V.M. Productions, Arook Road, Madras-24.",
+    "cert_no": "M-878",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Before the titles, delete the picture of Rajan's blood-stained hand in close-up.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Delete the game ghut where it occurs in Reel No. 16.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Delete insert pictures of the police inspector routing, when interviewing Tula.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Delete detective's remarks about proper dimag and improper actions.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "In the park sequence, delete Ambujam's statement that it is her family occupation to be waiting.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete detective's remark about the law truth he had discovered, about the various named religion, and the similarity in the facts of the case investigated.",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the consequential reference in the follow-station.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete the consequential reference to \"Andla Kaduvul\" (The word \"Andhu\" found only removed; Modification Approved).",
+        "length_m": 1e-07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Delete picture of ledger written on the wall when the camera is focused on them. Delete the entire sequence, sound and picture from the time the song \"Marugu l ennunul\" is heard off-screen, including the interrogation of the priest, the insert picture of his wife, the remarks of the captive, when young girls jump on the street, up to and including the priest pointing to Shanmugham and saying that the latter was their go-between for that house.",
+        "length_m": 56.6928
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 7",
+        "description": "Reduce the second of Chonub's choking and hiccup.",
+        "length_m": 1.8288,
+        "length_retained_m": 0.0018288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Delete Rajan remark with no accompanying picture \"I shall remain here looking after the vals:\"",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Delete the picture and speech of Rajan about the collections for funds and his asking P.I. to shake the collection box, up to end including his remark that \"there is no limit to the number of such collections\".",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "Delete Rajan's remarks about \"fasting for many days without achieving anything\".",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Delete the statement that \"thought had been devoted to Kani and Kunohl\".",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "Delete the remarks of Rajan to Usba, \"If your God had eyes, he was also going to get\".",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "Delete the detective and Inspector lifting their hats off and telling Veho that though they had to arrest her by way of duty for the murder, they could not but pay homage to her.",
+        "length_m": 98.4672
+      },
+      {
+        "kind": "deletion",
+        "description": "Voluntary cuts. Reel 8, 4 ft.; Reel 9, 0 ft.; Reel 7, 2 ft.; Reel 8, 3 ft.; Reel 11, 90ft.; Reel 12, 37 ft.; Reel 13, 14ft. and Reel 14, 7 ft.",
+        "length_m": 52.1208
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Approved replacement.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 2",
+        "description": "Approved replacement.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 16",
+        "description": "Approved replacement.",
+        "length_m": 55.4784
+      }
+    ]
+  },
+  {
+    "film_title": "Antha Naal",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s A.V.M. Productions, Arook Road, Madras-24.",
+    "cert_no": "M-878",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "A portion of the scene where Rajan meets Usba's father and asks him for Gnanulugplatance, removed.",
+        "length_m": 270.6624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 12",
+        "description": "The scene where Usba comes to Rajan with Uppuma plate in her hand and had an intimate talk with him, removed.",
+        "length_m": 219.456
+      }
+    ]
+  },
+  {
+    "film_title": "Kalyanam Panniyam Brahmachari",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s Padmini Pictures, Madras-14.",
+    "cert_no": "M-879",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 9",
+        "description": "In the dream dance scene by Ganapathi, delete all the near shots of the dancer in Western dress, retaining only long shots.",
+        "length_m": 1.8288,
+        "length_retained_m": 0.0018288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Delete Muthaloku saying that he had been Brahmachari for 24 hours.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 16",
+        "description": "Reduce picture and sound of Ganapathi being tied to a post and beaten by villagers.",
+        "length_m": 7.0104,
+        "length_retained_m": 0.0021336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "Delete the villager telling the headman \"If we hand him over to the police, they will tie him up, beat him up and make him disgorge the facts.\"",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "After Ganapathi goes away on the horse, delete the clowning by the policemen.",
+        "length_m": 3.9624
+      }
+    ]
+  },
+  {
+    "film_title": "Chakrapani",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M/s Bharani Pictures, Madras-26.",
+    "cert_no": "M-804/29/1",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of Tamil Commentary.",
+        "length_m": 121.92
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 10-12",
+        "description": "Addition of Tamil Commentary.",
+        "length_m": 121.92
+      }
+    ]
+  },
+  {
+    "film_title": "Manampola Mangalyam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s Vinoda Pictures Circuit, Madras.",
+    "cert_no": "M-807/29/1",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of Tamil titles.",
+        "length_m": 87.7824
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of Commentary in Telugu.",
+        "length_m": 26.5176
+      }
+    ]
+  }
+]

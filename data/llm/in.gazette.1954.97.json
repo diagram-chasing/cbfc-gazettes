@@ -1,0 +1,494 @@
+[
+  {
+    "film_title": "Ramman",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jalmani Dewan",
+    "cert_no": "10101",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, IV",
+        "description": "Deletion of sound-inked dialogue 'Khuddar puraho' and 'Susraal'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels I, II, IV",
+        "description": "Replacement of sound for 'Tera baap' with 'mera dushman'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels I, II, IV",
+        "description": "Replacement of sound for 'Lomri ka bachha' with 'Damri ka bachha'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion of a shot of two women laughing at Dr. Ramman.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replacement of sound for 'Gadhe ka bachha' with 'Aine hi bachhe'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replacement of Munna's dialogue 'Hamara maal hazar men nilam' with other dialogue.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II A X",
+        "description": "Replacement of sound for 'Kutte ka bachha' with 'Ladla bachha'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion of Railu's dialogue describing with what pains girls are brought up in his profession.",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Prisoners of The Casbah",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Columbia Pictures Corpn.",
+    "cert_no": "10102",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion of the words 'Son of a dog' as spoken by the Princess.",
+        "length_m": 0.54864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion of a shot of maid-servants in bedclothes as they are revealed after the Princess goes off camera after concluding her conversation in the pond-scene.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletion of the word 'Prophet' as referred to by one of the dacoits while drinking wine.",
+        "length_m": 0.73152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion of a shot of the Princess sitting on a sofa revealing exposed legs.",
+        "length_m": 10.2108
+      }
+    ]
+  },
+  {
+    "film_title": "Blueprint For Murder",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Film Corp.",
+    "cert_no": "10194",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion of the words 'Son of a dog' as spoken by the Princess.",
+        "length_m": 0.54864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion of a shot of maid-servants in bedclothes as they are revealed after the Princess goes off camera after concluding her conversation in the pond-scene.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletion of the word 'Prophet' as referred to by one of the dacoits while drinking wine.",
+        "length_m": 0.73152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion of a shot of the Princess sitting on a sofa revealing exposed legs.",
+        "length_m": 10.2108
+      }
+    ]
+  },
+  {
+    "film_title": "Suhagan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Alhad Chitra",
+    "cert_no": "10217",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deletion of a close-up of a nude sculpture in the shot where Sundarabai is sitting on the sofa with Seth Jamnadap.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deletion of the shot of Sundarabai putting 'pan' in the mouth of Jamnadasi.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deletion of the shot of a number of cots and girls lying on them.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Deletion of the words 'Yeh randi hai' as shouted by people.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Suhagan'",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Alhad Chitra",
+    "cert_no": "10218",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Deletion of the dialogue 'Tumhara nikah ho gaya, grahak ab zyada der nahin thairsakta' as spoken by the brothel-keeper.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Anna",
+    "languages": [
+      "English"
+    ],
+    "producer": "Lux Film",
+    "cert_no": "10219",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of a mid-shot of Anna's profile, showing her bust-jerking movements during the dance performance.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IV and V",
+        "description": "Deletion of all shots of women in tight-fitting while costumes from the nightclub scene.",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion of a shot showing Vittorio uncovering Anna's back and planting kisses thereon.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Anna'",
+    "languages": [
+      "English"
+    ],
+    "producer": "Lux Film",
+    "cert_no": "10220",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Deletion of a shot showing Vittorio uncovering Anna's back and planting kisses thereon.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Deletion of the word 'Voluptuous' from the sub-titles.",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "A Lion In The Streets",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "10221",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of Flamingo's words 'they always been your baby' and 'I been your wife over since I knowed what the word meant' as spoken to Hank.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduction of a flash shot of Flamingo flying into Hank’s arms and being moved about clasped round his body.",
+        "length_retained_m": 0.85344
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduction of the kissing scene between Hank and Flamingo.",
+        "length_retained_m": 0.44196
+      }
+    ]
+  },
+  {
+    "film_title": "Walking My Baby Back Home",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Universal International Films Inc.",
+    "cert_no": "10224",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletion of the dance of Chris in black dress accompanying the song 'Camptown Races' from where her legs appear through the cloak of the dance when the legs are again displayed.",
+        "length_m": 65.2272
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion of the dance in the Concert Hall in flame colour dress with fringed skirt including the appearance of the chorus girls.",
+        "length_m": 40.4392
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion of the shots of Chris opening the front part of her dress and exposing her legs up to the thighs.",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "Dost",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kuldip Sehgal",
+    "cert_no": "10225",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of Bhola's dialogue 'Agar hamen dhakko hi khane hain to kisi ladki se khayenge'.",
+        "length_m": 2.3776
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of dialogue 'Hawaldar ki ranchohen ukhadkar uske munh par rakh doon'.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of dialogue 'Morn, baan kunwara, mora dida kuswara'.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of dialogue 'Hum tumhari dukan men kuchh vaisa maal laya hain' spoken by Pandit Dhurram.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of shots of Bhola when the buttons of his breeches are undone and his friend doing the mischief later on.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion of Bhola's dialogue 'To aaj mere imaan ki chhoh barchhe ho jayenge'.",
+        "length_m": 0.97536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion of dialogue between Bhola and manager 'Ye pasand nahin, kya loge?'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion of dialogue 'Mere bachhe jab paida hon, tab naida hotel unki shadi ho jaye'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion of dialogue 'Brahman ki chamchon ki mail baimaan aaman hoti hai'.",
+        "length_m": 2.3776
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion of sound only dialogue 'Kamine kutte'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Lakes ran",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sushil Pictures",
+    "cert_no": "10227",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "From the qawwali 'Jab Hr chalata hai', mid-close shots of the girl singing the lines 'Ik shor utha' (Kummi) and of another girl under the line 'Tu kith a hai tahm' were replaced with approved shots of Asha.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of Shobha's words 'Hum farabi ke batire kharidi hui randi bethi'.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion of Ramesh's words 'Tujh se to Vaishy* achhi jo apni badan par parda to nahin dalti'.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "trailer of Basi Saheb",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Dalsukh M. Pancholi",
+    "cert_no": "10228",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Trailer",
+        "description": "A dancer in 'Uri' costume uncovered by railway-plaster during the singing of the lines 'Jab se hua bal tera ishar...' was deleted and replaced with other approved shots.",
+        "length_m": 22.5552
+      },
+      {
+        "kind": "insertion",
+        "reel": "Trailer",
+        "description": "Insertion of other approved shots to replace the deleted scene.",
+        "length_m": 22.5552
+      }
+    ]
+  },
+  {
+    "film_title": "Aah",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ranbir Raj Kapoor",
+    "cert_no": "8029",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "SUM XVI",
+        "description": "Deletion of the last shot of Neelu leaning on Raj near the window following the baraat scene.",
+        "length_m": 24.384
+      },
+      {
+        "kind": "replacement",
+        "reel": "Vqej I",
+        "description": "A dance in colour from the end of Reel XVI has been shifted to Reel XVII with shot of Raj and Neelu etc. attached thereto at the end.",
+        "length_m": 141.732
+      }
+    ]
+  },
+  {
+    "film_title": "Dacoit",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Pramila",
+    "cert_no": "9459",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Med 7",
+        "description": "Deletion of scene of Lord Shiva and Goddess Parvati.",
+        "length_m": 56.0832
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reef XIV",
+        "description": "Deletion of scene of Lord Shiva and Goddess Parvati.",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Naramedh Yagna",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Joutha Bhilpi",
+    "cert_no": "ec26",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Deletion of decorative figures in the dance and song sequence of the second song 'Sokho Sokho...'.",
+        "length_m": 42.672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Deletion of the sequence depicting Bantoshek and the maid in the house.",
+        "length_m": 283.7712
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Insertion of a title dedicated to late Jibon Ganguly.",
+        "length_m": 4.572
+      }
+    ]
+  }
+]

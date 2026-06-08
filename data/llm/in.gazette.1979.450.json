@@ -1,0 +1,760 @@
+[
+  {
+    "film_title": "Cinema Cinema",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. S. Ahmed, P.O. Box 1372, Bombay-400001.",
+    "cert_no": "89398",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the zoom shot of bare bosom of a woman in the calender",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduce the sequence showing the audience urinating during interval",
+        "length_m": 0.15,
+        "length_retained_m": 8.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete reference to ‘affair’ between Waheeda Rehman and Guru Dutt",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the kiss between the audience girl and boy",
+        "length_m": 0.87
+      }
+    ]
+  },
+  {
+    "film_title": "Sarva Sakshi",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Giriraj Pictures, 24, Phanaswadi, Bombay-400002.",
+    "cert_no": "89401",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the dialogue \"English attachcc marun thewlee\"",
+        "length_m": 2.43
+      }
+    ]
+  },
+  {
+    "film_title": "Raja Raniko Chahiyo Pa.sina",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "V. Shantaram P. Pvt. Ltd., Shantshree, Dr. S. S. Rao Road, Bombay-12.",
+    "cert_no": "89402",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the word \"Bania\" from the dialogue \"Beimaani kahe ke vaste re bania\"",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Humaare Tumhare",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Eagle Films 220- Famous Cine Bldg., Mahalaxmi Bombay-11.",
+    "cert_no": "89403",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the discussion about ‘Na.sban.Ii’ which is overdone and too long",
+        "length_m": 7.01,
+        "length_retained_m": 16.76
+      }
+    ]
+  },
+  {
+    "film_title": "Badrrashon Ka Badmaash",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "KNhan Mohan, A/9, Eversun Society, Dhake Colony, Varsova Road, Andheri (W), Bombay-58.",
+    "cert_no": "89404",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete Tolaramls dialogue about milk with reference to Lachhi",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scene of the comedians kissing by deleting double meaning dialogues",
+        "length_m": 24.08,
+        "length_retained_m": 62.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Delete Tun Tun's last dialogue in reference to honeymoon in an indecent manner",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Chudi Chandlo",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Dilip Patel, Patel Enterprise, Bank of Baroda, Nadiad.",
+    "cert_no": "89405",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete the sentence regarding nara by the commedian. “Kadach marun nadun chhuti gayun hot to shee dasha. lhaat\"",
+        "length_m": 2.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the fighting scene particularly where blood spurts out from Ranyi’s mouth",
+        "length_m": 2.13,
+        "length_retained_m": 51.5
+      }
+    ]
+  },
+  {
+    "film_title": "Do Hawaldar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Anil Pictures, 109, Famous Cine Bldg. Mahalaxmi Bombay-11.",
+    "cert_no": "89408",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete all the double-meaning dialogue and song lines involving ‘banana’",
+        "length_m": 5.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the dialogue \"Kela apna hi samajho, Kutch cheesen bhageedari ki hoti hai,\"",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IV & V",
+        "description": "Delete all suggestive dialogues and song lines with double meaning, involving ‘Tala-Chavi’, ‘Danda’ and ‘Kela’",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the reference to \"maaP from the conversation between Kelawall and Nekiram",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete obscene reference about extracting juice from sweet-lime.s between Nekiram and his wife. Also delete vulgar dialogue about 'Seva Karenge’ between the fruit seller and Nekiram. Delete the double meaning sentence \"Tu Har Cheez ka fuse udhati hai”",
+        "length_m": 5.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the obscene references \"Dekhana hai ke tumhare me kitani takhat hai”. and \"Hamari line me paani kyon nahin aaya”",
+        "length_m": 3.3
+      }
+    ]
+  },
+  {
+    "film_title": "Aur Kaun",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kumar Ramsay, 168-Lamington Road, Opp. Apsra Cinema, Bombay-7",
+    "cert_no": "4502",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shots in which cleavage of Mona's bosoms is seen as also the views of Raj lying over her before the main title starts",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete shots of Raj looking at and holding the bra of Mona in his hand till he gives it back to her",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Viki’s words \"Monaji aap apne students ko doodh pila dijiye\"",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the views of Raj struggling to snatch the photograph from Mona’s hand on sofa and also shots in which he is seen atop her and peeping into her bosoms",
+        "length_m": 6.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From the song beginning with the words “Aur Kaun ayega, Aur kaun avega, pukarlo bahar ko....” delete shots of Mona and Raj making love to each other as also views of their intertwined legs",
+        "length_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce shots of Raj forcibly kissing and making love to Mona in bed before she is shown dead",
+        "length_m": 6.71,
+        "length_retained_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce considerably the views of face of dead Mona being brought down the stairs when Ramukaka bring her body down, being dragged and put into the frig till it is closed",
+        "length_m": 7.32,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce considerable views of dead face of Mona In the frig and also of Ramu and Raj removing ice from her body",
+        "length_m": 6.1,
+        "length_retained_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete shots of rats moving over the arm of Mona as seen lying out of grave",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to suggestion the scene of Jawala getting frightened on seeing the hand of Mona when he digs the grave",
+        "length_m": 3.2,
+        "length_retained_m": 3.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce to a suggestion the scene in which hand of Mona comes out of the grave and catches legs of Raj when Raj and Kamal start shrieking in fear",
+        "length_m": 2.74,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close ups of views of upper face of dead Mona as seen in the grave Ramu putting the body into the dicky of the car and particularly delete views of mutilated face in the dicky",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce considerably views of Raj seeing in dream (in flash back) (i) his lying over Mona (ii) dead Mona’s face on a staircase and the frig as also. (iii) her hand out of the grave",
+        "length_m": 1.52,
+        "length_retained_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce drastically morgue scene in which Vicki tries to see the faces of dead bodies and his shrieks and dying when he is attacked inside by a man covered with white sheet of cloth",
+        "length_m": 7.16,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce shot of Ramu stabbing Mona",
+        "length_m": 0.45,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce Ramu holding blood smeared knife in his hand",
+        "length_m": 0.61,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce drastically scene of Jawala trying to molest Kamal in the house of Raj",
+        "length_m": 3.66,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to suggestion scene of molestation of Champa by Jawala in the house of Raj both lo and outisde the tub, particularly delete shots of his tearing her blouse and killing her by strangulating",
+        "length_m": 5.49,
+        "length_retained_m": 4.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reducemodus operand! of Raj busting the fuel tank of the car drived by Jwala and also reduce the scene of car & Jwala in flames",
+        "length_m": 4.43,
+        "length_retained_m": 22.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce views of Ramu getting killed as shown in slow motion as a result of a rod pierced through his body by Raj",
+        "length_m": 8.15,
+        "length_retained_m": 18.59
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 1572",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi",
+      "Gujarati",
+      "Tamil",
+      "Telugu",
+      "Kannada",
+      "Malayalam",
+      "Assamese",
+      "Oriya",
+      "Punjabi",
+      "Bengali",
+      "Sindhi",
+      "Urdu"
+    ],
+    "cert_no": "88817",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 5.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sommokodidhi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sri Balasubramanye-swara Films, Madras.",
+    "cert_no": "80633",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "From text of song No. 2 beginning with the words (Oh Balarsya’), delete the following words : (a) ‘Adagaraanldhi adugu thunte* (Sound only— Deleted replaced approved words)",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "‘Ratiri Vela Jaathuravuthundi’ (Sound only —replaced words)",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "‘Kotha Kosthidi’ (Sound only — ^replaced— approved words)",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the words of Raja Rao addressed to Lilly : ‘Vippukon-taro' (No replacement)",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the words ‘Jal Hind’ uttered by Ranga and the jeweller repeating it. (Sound deleted and replaced ‘Jai Ho’ end part deleted completely)",
+        "length_m": 0.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete Ranga untying the maxi of Lilly against the words Tppudaatc Uppude’ (No objection to words) (Replaced with doctor’s reaction shot",
+        "length_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Delete Ranga and Lilly rolling on each other in the song sequence. (Replaced flower shots",
+        "length_m": 0.95
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Delete close and mid close range views where camera zooms back and Lilly with blank ’bra’ appearing prominently in wet saree while she is sitting and running on beach, (Replaced with mid-shot of Ranga mts. and sea shot of mts.)",
+        "length_m": 1.34
+      }
+    ]
+  },
+  {
+    "film_title": "Mugguru Moorkhuraallu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Lavanya Pictures, Madras.",
+    "cert_no": "80637",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the words of Babu ‘Ye Mogavadaina Paalapeeke Gathi—Pcilam Paalagaasu Notiki Andbinchc Varake (Sound only — replaced approved words)",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the gesture of Chinna and Bulli covering themselve.s with their hands when the child wets their clothes",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the following lines from song No. 1 (a) Thamala Pakkuku moolalu moodu, Thappaithe Enchi choodu’. (Sound only — replaced approved words)",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "(b) Aada Nagaku Dooo, Dooo, Do ; Do Do Do, Du Du Duddu, (Sound only replaced approv^ words)",
+        "length_m": 12.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "(c) Yeetha Gadlki Lothe Thodu (Sound only) Replaced with approved words",
+        "length_m": 5.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "(d) Kothakundalu Mookdu andhram (Sound only— replaced approved words)",
+        "length_m": 1.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "Delete the shot of the indecorous hip movements of the girls and their bumping against each other in the picturisatlon of the song. (Replaci^ audience shot",
+        "length_m": 3.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the shot of the girls rolling on each other. Retain only the long shot of the girls In wet clothes",
+        "length_m": 2.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the dialogue of flabu’s assistant ‘Loooo ayinadhi and the dialogue of Babu at the reception counter of the hotel ‘Pai varaku Kolavall and ‘Jana Betha’ (Sound only — ‘Jana Betha’ not found in dialogue)",
+        "length_m": 1.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the shot of Bau’s head between the thighs of the cut-out picture of Bulli. (Replaced cut out of Bulli",
+        "length_m": 5.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shots of Bulli sitting with her legs crossed, exposing her thighs indecently (Replaced orchestra shot",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Babu’s hand between the thighs of the cut out picture of Bulli Retain only the long shots of Dulli standing before the mirror with her thighs exposed",
+        "length_m": 1.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shots of the Muslim holding his hands 1 n front of him indecorously",
+        "length_m": 4.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduce the scene of the men going repeatedly into the lavatory",
+        "length_m": 0.36,
+        "length_retained_m": 4.34
+      }
+    ]
+  },
+  {
+    "film_title": "Ran Ninna Bidenu",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Magnet Movies, Bangalore.",
+    "cert_no": "3613",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Reduce the rape scene to a suggestion",
+        "length_m": 3.09,
+        "length_retained_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete the shots of Sham caressing Meera",
+        "length_m": 2.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6",
+        "description": "Reduce the multiple rape scene of Meera to a suggestion only",
+        "length_m": 1.74,
+        "length_retained_m": 1.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the dialogue of the psychiatrist about Mantras, Tantras and reference to talisman",
+        "length_m": 1.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the shot where the ghost comes in a Muslim costume",
+        "length_m": 1.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Delete the shots of the Church steeple and the entrance of the ghost into the Church. (Replaced by panning shots of trees, burial ground and Venkataswamy",
+        "length_m": 7.07
+      }
+    ]
+  },
+  {
+    "film_title": "A Lesson from Ragging",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sadan Varnasala.",
+    "cert_no": "80639",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of the girl in a white ‘Bra’ where the nipples are seen and Reduce all the other shots of the girl in the ‘Bra’ to flashes",
+        "length_m": 4.72
+      }
+    ]
+  },
+  {
+    "film_title": "Avalude Prathikarum",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Lalitha Movies, Kottayam.",
+    "cert_no": "80648",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Reduce to once only the shot of the death roll of the man",
+        "length_m": 0.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Relete the close-up of the dancer’s bust cleavage and bust jerks wherever occuring",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the shot of Jayesh and Helen rolling on bed and their caressing on bed, lying face to face.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the shot of the comedian touching the bare thigh of Raji and looking up at her and thighs.",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In the bathing scene, after Raji gets into water, delete all the shots where she is shown in wet clothes three times in three inter cuts and her coming out of water in wet clothes with camera focussing on her posterior, her standing on the rock in one piece wet cloth and jumping about (No objection to the shot of dushyanta, Arjuna etc,)",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the scene of Jayesh kissing Raji on lips and eheeks.",
+        "length_m": 2.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the shots of Rajan resting his face on the neck of Vasanthi, and subsequent shots of Vasanthi rolling on Rajan, Rajan rolling over and lying across Vasanthi and their love making",
+        "length_m": 13.41
+      }
+    ]
+  },
+  {
+    "film_title": "Kadamai Neqjam",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Uma Shankar Combines. Bangalore",
+    "cert_no": "80649",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the cabaret dance performed in the hotel, delete (a) dancer’s hip jerks",
+        "length_m": 2.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "(b) Dancer raising her leg while coming down the stairs, revealing her bare thigh through slit-skirt",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "(c) Dancer’s bustjerks near the nude statue.",
+        "length_m": 4.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "(d) Dancer on the table prominently revealing bare thigh through slit skirt",
+        "length_m": 4.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "(e) Dancer on the table repetiton of exposure of bare thigh",
+        "length_m": 4.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce molestation of dancer by a customer, to mere suggestion. (Retaining only the shot showing the customer approaching her and deleting all subsequent shots showing his putting her on a cot, mounting on her and further struggle on the cot)",
+        "length_m": 3.2,
+        "length_retained_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "Korlkaley Gurralayi-the",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "SreeLalltha Enterprises, Madras.",
+    "cert_no": "80650",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the word 'Ranku’ in the song 2 ‘last Une of the song) (Sound only-replaced word ‘Rangu’",
+        "length_m": 0.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the following visuals in the picurisation of the song : (a) Bust movement of the dancer in the beginning of song",
+        "length_m": 0.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "(b) Low angle shot of her hip movement.",
+        "length_m": 2.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "(c) The shot of pressing her bust against that of another girl and",
+        "length_m": 0.43
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "(d) Movement of the dancer near the girl lying on the ground, replaced audience shot of equal length for items (a) to (d)",
+        "length_m": 2.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the scene of Rani’s husband molesting Jaya TO two shots (the first and the last)",
+        "length_m": 4.18,
+        "length_retained_m": 4.18
+      }
+    ]
+  },
+  {
+    "film_title": "Kuppathu Ra",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Suriyalakshmi Pictures Madras.",
+    "cert_no": "80651",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the dialogue of Constable with Pavun ; ‘Paarka Vandhavangalhan Odanam'.",
+        "length_m": 2.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the dialogue of Kanakii with Tara Bai:- (a) ‘Krukkiradhai Kanbicha Bayandhuduvey’",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "(b) Banga Mudalalikku Tnnikku Thideermi Relambidichu ArvanT.",
+        "length_m": 1.1
+      }
+    ]
+  },
+  {
+    "film_title": "Kshetbram",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Kalabharathi Film, Shri N. K. Sanidanan- Trichur.",
+    "cert_no": "80653",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the dialogue of Raman Nair ‘Yee Panniya Kollanam* (Sound only) (No replacement).",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,661 @@
+[
+  {
+    "film_title": "Sujata",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Productions, Mohan Studios, Andheri, Bombay",
+    "cert_no": "26556",
+    "cert_date": "31st March 1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deletion from song",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deletion from song",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion from song",
+        "length_m": 53.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion from song",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion from song",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion from song",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion from song",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deletion from song",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deletion from song",
+        "length_m": 74.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion from song",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘I Married A Monster From Outer Space’",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "7756",
+    "cert_date": "18th June 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of title 'Honeymoon Terror'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of title 'Could space monster mate with earthly women'",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of title 'Steal bodies of man'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of title 'Passionate dream of perfect romance'",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Count Your Blessings’",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "cert_no": "27764",
+    "cert_date": "9th June 1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of words 'One woman at a time'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Deletion of shots of a man and woman lying together",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "The Big Country",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama, Colour",
+    "cert_no": "27769",
+    "cert_date": "10th June 1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion of near views of Leech with bleeding face and Buck with blood on his shirt",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deletion of shots of Buck, blood-stained, after he is mortally wounded",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduction of lassoing and dragging of struggling Hennessy men",
+        "length_m": 5.49,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduction of the episode of Leech forcing a kiss on Pat and her cries",
+        "length_m": 2.13,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Considerable reduction of the episode of Buck trying to molest Julie; deletion of close-shot of Rufus being strangled by Buck",
+        "length_m": 20.73,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Up Periscope",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "cert_no": "27763",
+    "cert_date": "8th June 1959",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of shots of passionate love making by Sally and Ken on beach",
+        "length_m": 8.84
+      },
+      {
+        "kind": "reduction",
+        "description": "Considerable reduction of shots in which some wounded members of the crew are shown to be profusely bleeding during aerial attack on the submarine",
+        "length_m": 7.62,
+        "length_retained_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Samrat Prithviraj Chauhan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27792",
+    "cert_date": "15-6-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Addition of a tablet stating the story is mainly based on 'Prithviraj Raso' by Chand Bardai",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of the word 'Hindustani' in a remark",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of the complete picturisation of the dance accompanying the song 'Thandi hawa ane lagi, hai, jawani bal khane lagi', and specific words from the same song",
+        "length_m": 115.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion of a shot of a man coming down from a building holding his dhoti incorrectly",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deletion of specific shots in war scenes: arrow piercing body, man crushed by elephant, man trodden by horse",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deletion of the word 'Maharani' with reference to the Court dinner Kamataki, when Prithviraj applies blood with his thumb",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Considerable reduction of bathing scene of Kamataki, omitting prominent views of her bare body above water, and deletion of shots of a maid lying on her belly with legs raised. Reduction of intervention of Kaimas, omitting detailed conversation and simile of Champa and Bhannra",
+        "length_m": 77.42,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerable reduction of man-handling of Kamataki by Kaimas, omitting his attempt to encircle her and his remark",
+        "length_m": 4.88,
+        "length_retained_m": 21.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Considerable reduction of the sequence of blinding of Prithviraj, keeping only suggestion, deleting building up of sadistic climax and reducing general atmosphere",
+        "length_m": 9.14,
+        "length_retained_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Voluntary deletion",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "Kavi Kalidas",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "Partly coloured",
+    "cert_no": "27794",
+    "cert_date": "16-6-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletion of words 'Doodh-ki tarak ubalati hui jawani'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of lifting and lowering of axe by executioner in scene where Kalidas offers himself for sacrifice",
+        "length_m": 25.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of kick given by Vidyuttama to her pregnant maid-servant",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion of shot showing backward bending of dancer and her rolling on floor during dance in temple courtyard",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduction of rolling down stairs of Kalidas after his wife pushes him",
+        "length_m": 1.22,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduction of recital of first part of couplet 'Pin Payodhar', omitting it when accredited to Kalidas as his first poem",
+        "length_m": 0,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Reduction of scene of bribing of sepoys to a suggestion, omitting elaborate gesture for drowning Pushpavali and promising of 5 more",
+        "length_m": 14.33,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Voluntary deletion",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Voluntary deletion",
+        "length_m": 13.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Voluntary deletion",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Voluntary deletion",
+        "length_m": 19.51
+      }
+    ]
+  },
+  {
+    "film_title": "Bhakta Prahlad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27815",
+    "cert_date": "19-0-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deletion from dialogue 'daaiiav ko tnap karnckaa koyee adhikar nahm'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of shot of Hiranya Kashyap striking his son",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of shot of soldiers forcing down an old Brahmin with spears",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of shot of soldiers kicking at sacred things collected for the Lord",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI, XII",
+        "description": "Deletion of all references to human sacrifice to propitiate the God of Rain",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerable reduction of scene of people suffering from thirst and being deprived of water, particularly deletion of shot of child being deprived of water from a broken bowl",
+        "length_m": 4.27,
+        "length_retained_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduction of shots of serpents",
+        "length_m": 9.14,
+        "length_retained_m": 12.8
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Modification of scene after death of Hiranya Kashyap to show Prahlad grieved and reassured by Lord Vishnu",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Imitation of Life",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "27810",
+    "cert_date": "20-0-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of shots of Steve passionately trying to kiss Lora and caressing her nose, and specific dialogue",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of shot in which David Elliot kisses Lora passionately",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deletion of shots of Sarah Jane moving from bed to wardrobe in a semi-nude state",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion of shots of Sarah Jane undressing and seen in mere underwear",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deletion of shots of Sarah Jane's amorous movements and leg tossing during her dance",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deletion of scantily-clad dancing girls moving across stage, leg tossing, and close view of Sarah Jane revealing her bust prominently during 'Moulin Rouge' sequence",
+        "length_m": 24.69
+      }
+    ]
+  },
+  {
+    "film_title": "Rio Bravo",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "887",
+    "cert_date": "10-0-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Reduction of heating up of the hold man, shooting of unarmed man, hitting of prisoner, and dragging of fallen prisoner",
+        "length_m": 1.52,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduction of bragging of the dead man",
+        "length_m": 1.22,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduction of scene of Feathers in black tights, deleting her action of beginning to undress and talking to Chance, omitting dialogue about showing too much of herself",
+        "length_m": 54.25,
+        "length_retained_m": 34.44
+      }
+    ]
+  },
+  {
+    "film_title": "Jungle Ki Duniya",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27853",
+    "cert_date": "25th June 1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deletion of close views of Meena performing amorous movements of the bust during song No. 2",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deletion of shots of close physical proximity between Shobha and Vijay during love-scene",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deletion of shots of Circus Chief trying to enclose Shobha firmly in his arm",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduction of scene of Santu whipping Vijay",
+        "length_m": 1.52,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Our Times Part II",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "11364",
+    "cert_date": "13-8-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletions in English and Hindi versions",
+        "length_m": 25
+      }
+    ]
+  },
+  {
+    "film_title": "Our Times No. 8",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "14167",
+    "cert_date": "30-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletions in English, Hindi, Tamil, Telugu and Bengali versions",
+        "length_m": 49.99
+      }
+    ]
+  },
+  {
+    "film_title": "Goonj Uthi Shehnai",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27720",
+    "cert_date": "23-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Voluntary deletion",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Voluntary deletion",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Voluntary deletion",
+        "length_m": 47.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Voluntary deletion",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Voluntary deletion",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Voluntary deletion",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "11 Fiih-u-gettuble Tour",
+    "languages": [
+      "Czech",
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "27301",
+    "cert_date": "20-0-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of specific phrases from sub-titles related to the Suez aggression",
+        "length_m": 6.86
+      }
+    ]
+  },
+  {
+    "film_title": "Your Blond and Mine",
+    "languages": [
+      "Czech",
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "27802",
+    "cert_date": "20-6-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of shots of Moroccan soldiers being executed by French soldiers, including shots of dead bodies",
+        "length_m": 22.86
+      }
+    ]
+  },
+  {
+    "film_title": "Tribes of Madhya Pradesh",
+    "languages": [
+      "Silent",
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "27805",
+    "cert_date": "20-0-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deletion of all shots in which women's bare breasts are visible",
+        "length_m": 1.14
+      }
+    ]
+  }
+]

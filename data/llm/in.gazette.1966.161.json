@@ -1,0 +1,289 @@
+[
+  {
+    "film_title": "Abhimanyu",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Jupiter Pictures, Madras",
+    "cert_no": "22906",
+    "cert_date": "24-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "In the Maya Bazaar scene, delete the sequence where the rejuvenated lady dances and her skirt whirls upwards.",
+        "length_m": 13.716
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "The concluding speech by Sri Krishna has the present National Anthem as background. This song will have to be deleted.",
+        "length_m": 17.9832
+      }
+    ]
+  },
+  {
+    "film_title": "Abhimanyu",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Jupiter Pictures, Madras",
+    "cert_no": "22906",
+    "cert_date": "24-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The incident in which Lakkannan (son of Duryodhan) is made to dress as a woman and rehearse how to behave towards his future wife.",
+        "length_m": 54.864
+      }
+    ]
+  },
+  {
+    "film_title": "Viva Zapata",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Film Corp.",
+    "cert_no": "39867",
+    "cert_date": "3-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete a shot showing a soldier biting the shoulder of a female dancer during a dance.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete the scene showing Zapata’s bullet-ridden body immediately after he has been shot.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "From Here To Eternity",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "39874",
+    "cert_date": "8-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the words 'A beautiful woman going all waste' by Warden.",
+        "length_m": 0.508
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete kissing and embracing between Karen and Warden on the sea beach.",
+        "length_m": 9.3472
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels Vl&Vll",
+        "description": "Delete all shots of waitress walking in a tantalising manner between tables, winking and looking at the men and the words 'I want to watch you'.",
+        "length_m": 11.8872
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel PHI",
+        "description": "Delete the sentence 'It's almost a sacred duty to be drunk'.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete Karen and Warden’s close embrace in the car.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the first kiss between Karen and Warden.",
+        "length_m": 2.7432,
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce embracing between Karen and Warden when listening to Hawaiian music.",
+        "length_m": 2.1336,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably shorten the fight between Prewitt and Galovitch.",
+        "length_m": 21.6408,
+        "length_retained_m": 20.7264
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Reduce the scene of Prewitt and Warden drunk on the road.",
+        "length_m": 47.5488,
+        "length_retained_m": 39.624
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Reduce Maggio’s description of the brutality with which he has been treated in the stockade.",
+        "length_m": 3.3528,
+        "length_retained_m": 3.3528
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduce fighting between Prewitt and Fatso, particularly shots of attempted strangling.",
+        "length_m": 3.9624,
+        "length_retained_m": 18.5928
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerably reduce actual drinking.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VI, VII",
+        "description": "Considerably reduce actual drinking.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel K",
+        "description": "Delete reference to kissing between Karen and Warder.",
+        "length_m": 2.07264
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"From Here to Eternity\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Ltd.",
+    "cert_no": "39875",
+    "cert_date": "8-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete sub-title 'Clandestine loves'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "sea-beach",
+        "description": "Delete close embrace and kiss of Karen and Warden on the sea-beach.",
+        "length_m": 2.31648
+      },
+      {
+        "kind": "deletion",
+        "reel": "club",
+        "description": "Delete wattless walking in the club.",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Teewan Jyoti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kaidai Films Private Ltd",
+    "cert_no": "39881",
+    "cert_date": "10-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the word 'Vhutail' where Leela addresses Kishan.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete sound 'ab chaac ke sath ter a kaleja khaau ya tere baap ka sai'.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the cheeky replies of Jaggu talking to Mann.",
+        "length_m": 33.528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the picturisation of song 'Saan khushian sath aam aap jab aac'.",
+        "length_m": 110.6448
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete words 'Banjh katnn ki' spoken by Shyam Sunder’s mother.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Delete words 'arc ehuj ail' spoken by Shyam Sunder’s mother.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Delete words 'achlia main elnir.nl hi sahi' spoken by Kishon.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel II",
+        "description": "Insert silent shot of Shammi in place of excision in Reel II.",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Teewan Jyoti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kaidai Productions Ltd",
+    "cert_no": "39882",
+    "cert_date": "10-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Delete close-up of Kishon, Shamsunder and child.",
+        "length_m": 24.0792
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel MV",
+        "description": "Delete close-ups and back shots of Kishon and Shamsunder in dream sequence.",
+        "length_m": 104.5472
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Delete close-up of lamp, portrait, window etc.",
+        "length_m": 21.336
+      }
+    ]
+  }
+]

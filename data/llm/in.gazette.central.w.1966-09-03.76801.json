@@ -1,0 +1,356 @@
+[
+  {
+    "film_title": "Cat Ballou",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay",
+    "cert_no": "47649",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Clay falling over Cat and indecent close-ups of Cat's bosom.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The underlined words in the following sentence said by Clay to Cat: 'Come on In and we'll play spoon'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue of Cat addressed to Sir Harry when she suggestively removes her wrap to reveal her partly bare bust: 'You like our wide open spaces.'",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Khoon Ka Khoon",
+    "languages": [
+      "Hindustani"
+    ],
+    "format": "35 mm",
+    "producer": "KF (Pvt) Ltd, 139, Famous Cine Bldg, Mahalaxmi, Bombay-11",
+    "cert_no": "47653",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of the comedian spitting on the vegetable before polishing it.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From the song-dance sequence 'Shama hansi mehphil hai jawon...', the underlined words from the line 'Gairon ki baton pe baja, Raton ko rangeen bana'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue of a customer in the cafe addressed to the dancer while making advances to her: 'Jan-e-man chahatka shola bhaska ke kahan ja rahi ho'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "From the song-dance sequence 'Isharon ho ishron men...', close views of Soniya in which the contours of her busts are prominently visible.",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "All close views of the two female dancers in which their exposed bellies and backs are prominent along with shots of their indecorous bust jerking.",
+        "length_m": 61.87,
+        "length_retained_m": 61.87
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "From the picturisation of the song: 'Le ke dilmein pyar aaye...', top angle shot of the two dancers lifting their legs while lying on the floor, and one of them wriggling on the floor along with the shots of their indecorous movements.",
+        "length_m": 3.5,
+        "length_retained_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "All shots of direct thrusts of swords.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "To the minimum shots of Ram and Lakhan being hit in the stomach by their opponents while being rendered helpless.",
+        "length_m": 4.57,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "The Spy Who Came In From The Cold",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Rd., Ballard Estate, Bombay-1",
+    "cert_no": "47670",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The underlined words from the commentary: 'The sex used and abused by nations from one side of the iron curtain to the other'.",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "Jeannie Lee's Got a New Gun",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Warner Bros., 1st National Pictures Inc., Eros Bldg., Queen's Rd., Churchgate, Bombay-1",
+    "cert_no": "47671",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels IV & V",
+        "description": "Promiscuous views of Jeannie with flesh of bosom exposed.",
+        "length_m": 2.03,
+        "length_retained_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Gun shooting towards the end.",
+        "length_m": 12.04,
+        "length_retained_m": 50.21
+      }
+    ]
+  },
+  {
+    "film_title": "Phool Aur Patthar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "O. P. Ralhan, 217/C, Famous Cine Bldg., Mahalaxmi, Bombay-11",
+    "cert_no": "47686",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "In the cabaret dance sequence 'Zindagi mein pyar karna seekh le...', shots of bust jerking by Rita.",
+        "length_m": 4.57,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "The top angle shot of Rita bending backwards in the arms of her partner.",
+        "length_m": 2.13,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "The word 'Nandgaon' with reference to the plague epidemic wherever it occurs (Sound only).",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the dialogue of Vaidroj and his wife, her remark 'Zindagi ki pehli bahar bhi nahin dekhi'.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "From the song-dance sequence 'Sheesh se pee ya pamane se pee', Rita's suggestive gesture pointing to her body on the line 'Loot le duniya ki baharon ko...'.",
+        "length_m": 2.13,
+        "length_retained_m": 7.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Shots of Rita bending suggestively over Shaka lying on the floor while singing the lines 'Dekh yeh ghari phu nu aayegi Zulphon ki ghata phu na chhayegi'.",
+        "length_m": 4.88,
+        "length_retained_m": 0.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Shot of silhouette of a couple kissing as seen in the window of the neighbouring house.",
+        "length_m": 1.06,
+        "length_retained_m": 1.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Earlier portion of the top angle shots in which two female dancers make indecorous movements while lying on the ground.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "Shots of bust jerking by the girl in green (thrice).",
+        "length_m": 2.44,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "The fight between the two gangs, particularly shots of knives being bared simultaneously by one group of gangsters and close-views of knives.",
+        "length_m": 61.0,
+        "length_retained_m": 62.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Close views of Rita's bloodstained hand as she embraces Shaka.",
+        "length_m": 1.67,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The underlined words from the remarks of Shekar to Ganju: 'Kamyab insurance agent to shaan se rahana parta hai, furniture chahe kiraye ka hi ho' (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Ganju's comical references to Hanumanji while pretending to pray when the landlord's agent calls (Sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Bhaiya's comical references to Shanker Bhagwan.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From telephone talk between Shefali and Ganju, the latter's suggestive remark: 'Is tarah chhupne se thori chupti hai, kuchh'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Ganju's comical references to Harihar Mahadev and Bhuteshwar Maharaj while reacting to the sudden appearance of the trophy before him. (Sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IV & VII",
+        "description": "Reference to Kishan garh Maharaj as a possible client for insurance. (Sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Shots of the fat woman masquerading as Krishna and her husband as Radha.",
+        "length_m": 5.79,
+        "length_retained_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "The Mighty Jungle",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (I) Pvt., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "1758",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce the view of a girl in scanty clothes standing by the side of the condemned man.",
+        "length_m": 4.31,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot of human sacrifice and hands filled with blood.",
+        "length_m": 4.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II to V",
+        "description": "All nude and semi-nude shots of men and women as well as the words like primitive and savages, when applied to African.",
+        "length_m": 281.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The indecorous view of Africa's legs as the lovers kiss.",
+        "length_m": 2.89
+      }
+    ]
+  },
+  {
+    "film_title": "The life of Saint Francis Xavier",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "44190",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Scenes of exposition of St. Francis with crowds."
+      }
+    ]
+  },
+  {
+    "film_title": "Kahi Debe Sandes",
+    "languages": [
+      "Chhattisgarhi"
+    ],
+    "cert_no": "44346",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Scene where Kamal actually sets fire."
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "A tablet to the effect that the names and characters depicted in the film are entirely curious."
+      }
+    ]
+  },
+  {
+    "film_title": "Nayak",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "RDB & Co, 45, Dharamtalla Street, Calcutta-13",
+    "cert_no": "43486",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Alteration in respect of the name of the producer from R D Bansal to R. D Bansal and Shrimati Suman Kumari Bansal."
+      }
+    ]
+  }
+]

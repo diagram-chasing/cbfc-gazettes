@@ -1,0 +1,741 @@
+[
+  {
+    "film_title": "The Snows of Kilimanjaro (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Darryl F. Zanuck",
+    "cert_no": "U-Cert. No. 47127",
+    "cert_date": "28-2-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The sentence said by Harry to Helen in reference to Africans “ From yours it would be contact with classes \"",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The scene relating to tribal dance round the fire with the rhinoceros horn",
+        "length_m": 16.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The adjective frigid as applied to Liz by Harry (twice)",
+        "length_m": 0.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The entire sequence relating to the witch doctor",
+        "length_m": 138.98
+      }
+    ]
+  },
+  {
+    "film_title": "Sunhera Jaal",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Chandu Films",
+    "cert_no": "U-Cert. No. 47130",
+    "cert_date": "1-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "From the song \" Sab duniya bhar ka pyar bhara hai. . . . . . \" the portion of a Marwari, Lala Din Dayal, along with the following song-lines pertaining to him: \" Aap se miliye , aap kaun hain - Lala Din Dayal \" , \" Bina dakar liye kha jayen deen dukhia maal\" \" Ram Ram Japana paraya maal apna\" \" Duniya bhar ki be-imaani in ke dil ke andar.\"",
+        "length_m": 10.36
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Replacement of song portion related to Lala Din Dayal",
+        "length_m": 10.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "From the song-dance sequence \" Haae ek chhora bepeer . . \" shots of bust jerking by Mala",
+        "length_m": 1.32,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From the comical dialogue of one of the comedians the word \" Siyapat Ramchandra ki jai, Hanumanji ki jai\"",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The entire song-dance sequence : \" Han se nazar mila ke - os ek hai kharabi.\"",
+        "length_m": 182.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Replacement of song-dance sequence",
+        "length_m": 182.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "From the fighting scene, reduce shots of the hero lashing his opponent with an",
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "A Patch of Blue",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Pandro S. Burman",
+    "cert_no": "U-Cert. No. 47130",
+    "cert_date": "2-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to mere flash the beating up of the blind girl by her mother",
+        "length_m": 1.9,
+        "length_retained_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Train",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Jules Bricken",
+    "cert_no": "U-Cert. No. 47137",
+    "cert_date": "2-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part 3A Reel 5",
+        "description": "The remark of Maj. Harren addressed to Papa Boule: \"They slip in franc pieces and cut off the oil supply\", with reference to the modus operandi of obstructing the oil supply of the locomotives.",
+        "length_m": 1.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Purt 3B Reel 6",
+        "description": "Shots of Pesquet taking out the cap from gas tank of a truck, showing a rag into it and lighting it with a match just before the military truck is set on fire",
+        "length_m": 5.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Purt 6A Reel 11",
+        "description": "Details of Robert tampering with the wires of the switch-box before setting off the false air-raid alarm",
+        "length_m": 5.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Part 6B Reel 12",
+        "description": "Details of the modus operandi of blowing up of the railway line",
+        "length_m": 50.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Part 7.4 Reel 13",
+        "description": "Shots showing Labiche removing the fish-plates of the railway line after unscrewing the bolts and knocking off the braces with a mullet just before the derailment of the train",
+        "length_m": 4.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Part 4.4 Reel 7",
+        "description": "Close-ups of the torturing of the station master by Nazi soldiers",
+        "length_m": 8.09,
+        "length_retained_m": 1.7
+      }
+    ]
+  },
+  {
+    "film_title": "The Cincinnati Kid",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Martin Ransohoff",
+    "cert_no": "U-Cert. No. 47146",
+    "cert_date": "3-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the indecorous views of Melba (twice)",
+        "length_m": 2.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the fight in bathroom by deleting the knifing sequence",
+        "length_m": 1.27,
+        "length_retained_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Devar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Mohan Segal",
+    "cert_no": "U-Cert. No. 47148",
+    "cert_date": "4-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From Bhanvaria's talk to Bhola, the sentence \"Tum kabhi udas hoge, to tumhara jee kaun behlaayeya ?\"",
+        "length_m": 1.67
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Replacement of Sanskrit Sloka praising Lord Vishnu (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sentence \"Shaadi ki pichli raat, kya tum so gayee thi Chanchi?\" said by a girl to the old woman",
+        "length_m": 24.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Ruel VII",
+        "description": "Shot of Suresh kissing Madhuri's shoulder",
+        "length_m": 0.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel Y",
+        "description": "Replacement of the words \"You naughty boy\" said by Lily to Ram Bharose",
+        "length_m": 11.38
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Replacement of indecorous bust jerks of the female dancer",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVII",
+        "description": "Replacement of impression that the Jury, trying Shankar, consisted only of 7 persons",
+        "length_m": 2.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably whipping of Shankar by his father-in-law",
+        "length_m": 3.81
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rucl XF",
+        "description": "Drastically the Mental Hospital sequence with the patients locked inside and Shankar being put into lock",
+        "length_m": 2.28
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Monogram",
+        "length_m": 4.57
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X70",
+        "description": "Scene showing Ram Bharose being beaten up by Basanti and Lily, thereby remaining the impression that he was able to deceive them and get away with it",
+        "length_m": 116.43
+      }
+    ]
+  },
+  {
+    "film_title": "Women of Orient",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Galatea S. P. A.",
+    "cert_no": "U-Cert. No. 47149",
+    "cert_date": "4-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the passionate kiss hitting the boy killing the girl when she is lowered on the sand",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The scene showing a Uthi Moni dress before it was torn",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot showing the women in the community bath",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot showing the women in low-cut dresses with emphasized busts in the Night Club",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The caption \"CITY OF THE OPIUM\" and a man smoking the opium pipe",
+        "length_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Thieves",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16 mm",
+    "producer": "Farbenfabriken Bayer A.G.",
+    "cert_no": "U-Cert. No. 47190",
+    "cert_date": "10-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near view of the chicken being eaten by rats",
+        "length_m": 4.11
+      }
+    ]
+  },
+  {
+    "film_title": "The Cincinnati Kid",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Martin H. Poll",
+    "cert_no": "U-Cert. No. 47192",
+    "cert_date": "10-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The indecorous views of Melba (twice)",
+        "length_m": 1.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of couples in the bed (twice)",
+        "length_m": 2.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The fight in bathroom by deleting the knifing sequence",
+        "length_m": 0.36,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Mirage",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Harry Keller",
+    "cert_no": "U-Cert. No. 47301",
+    "cert_date": "11-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Calvin falling from the top of the building, upside down",
+        "length_m": 2.36
+      }
+    ]
+  },
+  {
+    "film_title": "Mirage",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Harry Keller",
+    "cert_no": "U-Cert. No. 47302",
+    "cert_date": "11-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot showing Calvin falling from the top of the building, upside down",
+        "length_m": 1.01
+      }
+    ]
+  },
+  {
+    "film_title": "Tamahino",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "John Bryan",
+    "cert_no": "U-Cert. No. 47303",
+    "cert_date": "11-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From Tamahine's dialogue to Poole, the following: Tamahine - I am thinking - there's only one thing that will make a boy into a man. Poole - O, What's that? Tamahine - A woman.",
+        "length_m": 3.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shot of kissing between Richard and Tamahine",
+        "length_m": 0.33,
+        "length_retained_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Snows of Kilimanjaro (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Darryl F. Zanuck",
+    "cert_no": "U-Cert. No. 47304",
+    "cert_date": "11-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From commentary, the following sentences \"...His life, like his loves, had been a sin...in what my maiden Aunt calls the altogether\"",
+        "length_m": 3.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From Cynthia's dialogue addressed to Harry \"...and shouldn't even have wanted to have your child. It wasn't fair to you\"",
+        "length_m": 1.46
+      }
+    ]
+  },
+  {
+    "film_title": "Harem Holiday",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sam Kattman",
+    "cert_no": "U-Cert. No. 47305",
+    "cert_date": "11-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (18)",
+        "description": "The indecorous view of the bosom of a woman in the foreground while Johnny is singing the song \"Mirage\"",
+        "length_m": 20.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "The indecorous view of the leg of the Gypsy dancer while Johnny sings the song \"Shake, shake the little tambourino\"",
+        "length_m": 5.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI (38)",
+        "description": "The near views of the scantily clad girls from the dance sequence in the palace",
+        "length_m": 3.81
+      }
+    ]
+  },
+  {
+    "film_title": "OSS 117 Mission For A Killer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Francoscope",
+    "producer": "A Franco-Italian Co-Production of Las Films Ariane. Filmsomcor",
+    "cert_no": "U-Cert. No. 47306",
+    "cert_date": "11-3-1966",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the shots of sadistic fighting and shooting in the operation theatre, Ellis's apartment and the piano",
+        "length_m": 4.33,
+        "length_retained_m": 4.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of throwing off loops around the necks of two soldiers and lifting them from above and thus killing them by hanging",
+        "length_m": 2.58
+      }
+    ]
+  },
+  {
+    "film_title": "Women of Orient",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Galatea S.P.A.",
+    "cert_no": "A-Cert. No. 1729",
+    "cert_date": "9-3-1966",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The references to the Manager for the Sacred Cow, to Lord Vishnu as the Master of the house and to the monkey who thinks himself as the God",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene of a number of women in very low cut-dresses with flesh of the bosom exposed and busts emphasized when they bend forward",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene in which the modus operandi of smuggling is shown by a Sikh to a German",
+        "length_m": 7.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The community bath scene where one bust of a lady giving bath to a child is exposed",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "After the rape scene on the beach, the shot of the Japanese girl with her bust exposed when she tries to get up from the sand",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "The scene of Suhani changing her blouse before the mirror before going to the rich Chinese merchants",
+        "length_m": 7.31,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sylvia",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Martin H. Poll",
+    "cert_no": "A-Cert. No. 1731",
+    "cert_date": "11-3-1966",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The struggle of Sylvia and her step-father particularly the views of the legs of the man, and delete the subsequent scene of rape (There is no objection to retention of the shots upto the point when he realizes that Sylvia is grown up)",
+        "length_m": 9.95,
+        "length_retained_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Scene of the detective dashing the head of \"The Muscles\" against the wall",
+        "length_m": 1.32,
+        "length_retained_m": 1.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the indecorous view of the bosom of the chorus girl as she comes from the stage and once from behind the screen when she goes to meet Maclin, as well as the views of her stripping behind the screen",
+        "length_m": 12.1,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The scene of brothel by cutting up the following dialogue said by Molly and the accompanying visuals: \"Be sure you take your shoes off, huh? you know. Oh well, never mind\"",
+        "length_m": 3.5,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably the sequence of Sylvia and Stanford by removing the indecorous views of Sylvia and reducing the scene of molestation and ripping up of her negligee by Stanford",
+        "length_m": 9.97,
+        "length_retained_m": 8.5
+      }
+    ]
+  },
+  {
+    "film_title": "A Global Affair",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Hall Bartlett",
+    "cert_no": "A-Cert. No. 1732",
+    "cert_date": "11-3-1966",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I(1.4)",
+        "description": "The underlined sentence from the following dialogue between Wayland and Frank: Wayland: \"Is this your office?\" Frank: \"It was desired for the Cuban Delegates.\"",
+        "length_m": 0.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1/ 1 (24)",
+        "description": "The underlined word from the following remark of Frank addressed to Lisette: \"She has ruined my peace of mind - my sleep - and my sex life.\"",
+        "length_m": 0.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rool V (3A)",
+        "description": "The following dialogue between Duval, Under Secretary Segura and Frank: Duval: \"They claimed they invented babies. Seguro: \"What about the \"World Trade Bill? Did they mention it? Duval: \"It's out of the question, for the time being. Segura: \"Oh, brother! For six months, the Secretary's been working on them, night and day — and now, this thing has to come along. Frank: \"Yeah, but we can't let Nonnie or to Russia.\"",
+        "length_m": 6.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rool V",
+        "description": "The following underlined words from the dialogue between Frank and Scoya: Frank: \"You can judge your way into Laos and Cuba, but my bedroom is off-limits.\"",
+        "length_m": 3.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rool V",
+        "description": "a) The underlined words from Sonya's dialogue: \"First, we have as much right to see the baby as any other nation. Second: If you will not let me stay here, my Govt. will take this as a hostile act and we will not co-operate at the World Free Trade Talks.\" b) The entire dialogue between Sonya, Frank and Randy beginning with Frank's remark: \"That's blackmail,\" and ending with Sonya's remark: \"Mr. Larrimore, do you know what could happen if the World Trade Talks fail? The world could go veer. . . . . . . and it would be on your conscience.\"",
+        "length_m": 11.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI(38)",
+        "description": "Also the dialogue between Sonya and Frank beginning with her remark: \"We Russians have many accomplishments of which the West is unaware,\" and ending the following words of Frank's dialogue: \"Without even defending the title.\"",
+        "length_m": 27.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following dialogue between Frank and Sonya: (No objection to the underlined words being retained). Frank: \"... You can bet your bottom rouble the Assembly will okay my recommendation ten light years before they okay yours.\" Sonya: \"The Human Rights Bill, Berlin, the Suez Canal, Mutual inspection of atom stores, Viet-Nam. Those are a few.\" Frank: \"A Few what you?\" Sonya: \"A few reasons why you are a fool; Russia's co-operation is essential in the matters mentioned and many more. Do you really believe the Secretary General will wish to unifize all - for the sake of one little baby girl?\" Frank: \"I guess you are right. So that poor little kid's going to wind up in a State orphanage.\"",
+        "length_m": 23.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Frank's remark \"Go make a Russian plot out of that!\" addressed to Sonya.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII(4A)",
+        "description": "Sonya's dialogue: \"... If it is discovered what I have done, I may be shot as a traitor. Nevertheless, I shall sleep well,\" addressed to Frank.",
+        "length_m": 5.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The following dialogues: Sonya: \"In Russia, we don't have the virus,\" Frank: \"Oh, yeah, you have it, but you just have so much other trouble, you don't notice it.\"",
+        "length_m": 2.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The underlined words from Frank's dialogue: \"... I wouldn't mind settling down with you (in Russia), on a little vine covered prison camp.\"",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Reference to \"General Franco\" in the dialogue of Frank at the end of the Spanish sequence.",
+        "length_m": 0.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII(4B)",
+        "description": "The following dialogue: Yvette: \"We have hills and valleys and the contours are matchless.\" Frank: \"You make it sound pretty inviting.\" Yvette: \"France can be very inviting.\"",
+        "length_m": 4.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Roel IX (5A)",
+        "description": "The underlined words: Frank: \"...What's this action?\" Yvette: \"Just trying to prove how friendly France can be... I haven't used my full ten minutes yet.\"",
+        "length_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Real IX (54)",
+        "description": "a) The underlined words addressed by Yvette to Frank: \"Oh, Frank, darling, be quiet and come to bed! Give France a chance.\" b) The following dialogue: Yvette: \"There are some things that don't need to be said.\" Dugan: \"That's true. You know, a guy does not always have to lay it on the line, you know. Maybe she misunderstood you.\"",
+        "length_m": 1.05
+      }
+    ]
+  },
+  {
+    "film_title": "Iye Marathichlye Nagari",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "V. Shantaram Productions Pvt. Ltd.",
+    "cert_no": "U-Cert. No. 46807",
+    "cert_date": "31-12-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels II, III, IV, V, IX, IX-A & X to XIV",
+        "description": "Various shots",
+        "length_m": 138.37
+      }
+    ]
+  }
+]

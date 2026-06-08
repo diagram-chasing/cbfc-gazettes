@@ -1,0 +1,702 @@
+[
+  {
+    "film_title": "Damn Citizen",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23257",
+    "cert_date": "29-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: 'He gets money out of them'. Dialogue: 'Sixteen'.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Damn Citizen",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23267",
+    "cert_date": "29-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Words 'He gets money out of them'. Word 'Sixteen'.",
+        "length_m": 1.23
+      }
+    ]
+  },
+  {
+    "film_title": "Mehndi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23299",
+    "cert_date": "30-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots where the Mufti is shown bare with blood-stained face. Close shots of the lion and the expression of terror of Amiran. Shots where Dilawar threatened Amiran with a knife. Photo and dialogue of Dilawar about his vengeance on the Mufti and his intention of making Amiran a prostitute.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogues exchanged between Khanan, Dilwar and others when Amiran is being handed over to Khanam, suggestive of prostitution.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The word 'Sharafat'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Shots inserted during Muhira where prostitutes are shown soliciting.",
+        "length_m": 30.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Flash shots where Amiran is taken out of the Palky.",
+        "length_retained_m": 0.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Fight which ensues after Dilawar snatches Amiran from the Palky.",
+        "length_retained_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Flash shots where Dilawar carries Amiran in a bullock-cart.",
+        "length_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Mehndi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23299",
+    "cert_date": "30-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "The word 'Sharafat' (sound).",
+        "length_m": 0.3
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "Dialogue: 'Adab baje lati bun', 'Adab-Tasleem'.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Sweet Smell of Success",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23272",
+    "cert_date": "31-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Scene where JJ strikes Tony and says he has put his hands on his winter.",
+        "length_m": 3.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Episode where Sidney compels the cigarette girl to spend the night with a man.",
+        "length_retained_m": 4.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sweet Smell of Success",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "20407",
+    "cert_date": "31-1-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Reference in dialogue to girls 'thinking with hips'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Episode where Sidney compels the cigarette girl to spend the night with a man.",
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Anarkali",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "28182",
+    "cert_date": "29-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Without shot of Anarkali riding on Salim's back, later showing their lips very close together. Salim and Anarkali lying close together.",
+        "length_m": 51.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "All close-ups and mid-close-ups of Anarkali's bust in choli when it is not covered by addi.",
+        "length_m": 39.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Close-up of Anarkali and Salim lying together when the latter is sleeping.",
+        "length_m": 45.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the auctioneer's loud talk and weeping.",
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Three shots of Anarkali's bust in profile when Salim is lying down after Salim has covered his identity to Anarkali.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "All close-ups and mid-close-ups of Gulnar's bust when she comes into Anarkali's room and in later sequence.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "The Sheesh Mahal (Durbar) dance must be reduced considerably, particularly Anarkali's overtures to the prince and her bust-awaying.",
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Akbar himself preparing to execute his son.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "Put in a tablet saying that the entire picture is based on a legendary romance between Salim and Anarkali and has no foundation whatever in history. This tablet should be shown in English, Hindi and Urdu both at the beginning and at the end of the picture.",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Anarkali",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "28183",
+    "cert_date": "29-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Trailer No. 2.",
+        "length_m": 140.21
+      }
+    ]
+  },
+  {
+    "film_title": "The Miracle of Our Lady of Fatima",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "28194",
+    "cert_date": "31-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scream of little girl when she is taken by a Police Officer from the Magistrate's room to an inner room.",
+        "length_m": 1.04
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Behind the Gun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "28196",
+    "cert_date": "31-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word 'He would sell his mother for a bottle of whisky'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Close shots of Kapoor's bare legs.",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Two shots where Everett kisses Shorty Wilson passionately.",
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Behind the Gun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "28197",
+    "cert_date": "31-1-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Trailer.",
+        "length_m": 56.69
+      }
+    ]
+  },
+  {
+    "film_title": "Jailhouse Rook",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "23298",
+    "cert_date": "6-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close shots of Kapoor's bare legs.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Whipping to two strokes.",
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Two shots where Everett kisses Shorty Wilson passionately.",
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Jailhouse Rook",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "23619",
+    "cert_date": "10-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot where Everett is shown lying on Sherry Wilson and holding her passionately.",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Khazanchi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23601",
+    "cert_date": "8-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue: 'Kaise pikalun madan Tumhen bahar nikulun en to mau andar chale jaoonga'. Dialogue: 'Vahin jahna aapko hona chahiye'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots where Loku and dancing girl Nafe are shown in a prostrate position near each other and are shown fondling.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Sequence where smuggler take off their disguises as bad guys, dialogues establishing modus operandi of smuggling and bootlegging etc. and regarding liquor and drinking exchanged till end of the sequence.",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue of Loku addressed to (wife) 'Jitna lipstick lagati ho itna makhan lagao to bola paar ho jayoga tumhara'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Words uttered by Harish 'Accidental lover'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue which ridicules Gandhian philosophy on Charkha.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Devdhand's dialogue to Harish which is an adverse comment on Government policy regarding broadening of miracle programmer.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue: 'Sare Congress Ka Jhanda Aur Munh Khadhi Bhandar Bana Rakha Hai'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots where Harish kisses Usha's hand from behind the chair.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of physical proximity between Harish and Usha in song No. 8.",
+        "length_retained_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shammi's dialogue to Radhmohan in the train: 'Main kahun ye oomar ka aadmi Aadmi hota hai chhoti oomar ka anjan'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In the Rock and Roll dance the following shots: (7) shots where a dancer dances againstault - (16) shots of indecomug movements of a little girl.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably shots where Tarla belabours his father and throw him out.",
+        "length_retained_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Khazanchi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23801",
+    "cert_date": "6-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue: 'Kaise pikalun madan Tumhen bahar nikulun en to mau andar chale jaoonga'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots where Loku and dancing girl Nafe are shown in a prostrate position near each other and are shown fondling.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Sequence where smuggler take off their disguises as bad guys, dialogues establishing modus operandi of smuggling and bootlegging etc. and regarding liquor and drinking exchanged till end of the sequence.",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue of Loku addressed to (wife) 'Jitna lipstick lagati ho itna makhan lagao to bola paar ho jayoga tumhara'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Words uttered by Harish 'Accidental lover'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue which ridicules Gandhian philosophy on Charkha.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Devdhand's dialogue to Harish which is an adverse comment on Government policy regarding broadening of miracle programmer.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue: 'Sare Congress Ka Jhanda Aur Munh Khadhi Bhandar Bana Rakha Hai'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots where Harish kisses Usha's hand from behind the chair.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of physical proximity between Harish and Usha in song No. 8.",
+        "length_retained_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shammi's dialogue to Radhmohan in the train: 'Main kahun ye oomar ka aadmi Aadmi hota hai chhoti oomar ka anjan'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In the Rock and Roll dance the following shots: (7) shots where a dancer dances againstault - (16) shots of indecomug movements of a little girl.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably shots where Tarla belabours his father and throw him out.",
+        "length_retained_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol. 806",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23802",
+    "cert_date": "6-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Words 'where some of the seedling are being cut'.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Light House",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23090",
+    "cert_date": "14-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Picturization and song beginning with 'Gumble Rumble' and ending with 'Raja Lolo' in the background scene of rock and roll dance on which the titles are superimposed.",
+        "length_m": 141.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Words of Lalita addressed to Ashok 'Urku brad' in the sentence 'Kahan khayenge aur uske baad'.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots showing Neela pointing revolver at Lalita.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Reference to 'moska lagana' by Nariolwala.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Vulgar picturization of entire song beginning with 'As an chlori aa'.",
+        "length_m": 102.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots where the camera is focused on the lower part of the body of Nariolwala and he spreads his legs apart in his dream walking sequence.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Words of Nariolwala: 'Saara gadbad noond mon hota hai' and 'Ham to bilkul Innocent bachohoko Matak'.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots showing the upper garment slipping away from Bali's bosom and the camera focused on her choli when Bali sings the song 'Naino se naina lago'.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably shots of the frightened face of Lalita when Neela comes to shoot her.",
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Shots where Ashok and Bali are shown in close physical proximity.",
+        "length_retained_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots where Bali is stoned by the mob.",
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Considerably shots showing Bali and Neela fighting.",
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Considerably the fight between Neela and Bali towards the end.",
+        "length_retained_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Gyanba Tukaram",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "23897",
+    "cert_date": "14-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots where Kaphay takes liberties with Manju lifting her up after she had sung a song.",
+        "length_m": 3.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of shoes being used as 'Chipleyus' to keep time by Tukaram in a song having 48000 repetitions.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Suggestive dialogues of Keshav saying to Manju: 'Kashala gi' 'Mala Watala'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue between wrestler boy and his father: 'Baykovar Bhaldoo marto' 'Baykwalivey shouldoo must nabin' 'Eka langotiyar bara kustya marto'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Sarjerao's dialogue about 'Vilayati vango'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Reference to the girl of Naraba chougule being pregnant.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Gyanba Tukaram",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "23697",
+    "cert_date": "14-2-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "Close-up of Gyanba and Tukaram.",
+        "length_m": 9.45
+      }
+    ]
+  }
+]

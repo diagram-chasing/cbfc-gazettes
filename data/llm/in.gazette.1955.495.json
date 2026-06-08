@@ -1,0 +1,821 @@
+[
+  {
+    "film_title": "The Looters",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures Trnlia Ltd., Mustafa Bldg., flir r.M. Road, Bombay.",
+    "cert_no": "13702",
+    "cert_date": "25-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Views of girls with emphasised busts showing the flesh of bottom when giving first aid to the co-pilot.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "BtrlX",
+        "description": "Scene of the hero and the girl shown sleeping side by side near dock showing 7 a.m.",
+        "length_m": 2.667
+      },
+      {
+        "kind": "deletion",
+        "reel": "BtrlX",
+        "description": "After the hero jumps, the scene of the hero and heroine shown sleeping together.",
+        "length_m": 1.158
+      },
+      {
+        "kind": "replacement",
+        "reel": "Rttl X",
+        "description": "The hand to hand fighting between the hero and villain.",
+        "length_m": 10.973,
+        "length_retained_m": 11.684
+      }
+    ]
+  },
+  {
+    "film_title": "Mast Qalandur",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "N.C. Films, fiobhai Cot-ttage, Veraova Road, AndherJ.",
+    "cert_no": "13705",
+    "cert_date": "25-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "ReelXIII",
+        "description": "In the dance accompanying song No. 8, 'Mi,jl, ji.bharkc pile ankhonkc jaam', the shot of the dancing lady when she performs the whirling movement on one leg with another leg bent upward from the knee and the camera shot is taken from between the two legs.",
+        "length_m": 2.134
+      }
+    ]
+  },
+  {
+    "film_title": "SI 'Pintjang",
+    "languages": [
+      "Indonesian"
+    ],
+    "producer": "Embassy of tho Repub. of Indonesia In India,",
+    "cert_no": "13705",
+    "cert_date": "25-7-45",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Itrcl II",
+        "description": "The shot of a young boy facing camera and urinating in a standing position.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Nag Devta",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "M/s Bhanu Films, Tribhuvan Terraco, Lamington Road, Bombay 4.",
+    "cert_no": "13709",
+    "cert_date": "26-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Real F/Z/^B",
+        "description": "Entire song '0 Badh* B*pa*» O' Badha Kakao.'",
+        "length_m": 100.584
+      }
+    ]
+  },
+  {
+    "film_title": "Kundan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Minerva Movietone, Bunder Road, fSowrl, Bombay 15,",
+    "cert_no": "10710",
+    "cert_date": "20-7-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "RwlI^Jvdgt",
+        "description": "Dialogue: 'Qanoon yoh n&kin dokht* ke turn ne ohtiri kyon ki hai? Qanoon yeli dekhta hai kn '",
+        "length_m": 2.134
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel n",
+        "description": "Sher Sinyh: 'Aur turn jaantc ho qanoOU lohe ka hai, io Isko paiije men aata hai p-s j&atn h/n'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Din Day al: 'Aur usi ka yeh natlja hai ke aaj aap ka qsnooii ek aini chbalni ban kar reli gayft hai, jia moil paaal bharne kl nakam koshish ki ja rahi bai, paanl kl«l tarah nahln rukta, daman bhlgte hl ja r»h© h&in, qanoon jitnasakhthotaj an, rahahdi.gunahonkehaathbhiutne hibadht* Jo&rahe haln, varnn koivaj ah nab in ke qanuoii k* hot© fm« khoon, ohori aur dakaiti ka basaar utna hi garam rahe Jltna pehle tha'",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "She* Sinffhi: 'Qanoon ki nigahon msn bar bhool ek jurm hai'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Re 4 VI",
+        "description": "Sukhiai: 'Jteti klskhangikihai'",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "House No. 44",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Nav Ketan, G.E. Road, Bombay 23.",
+    "cert_no": "13718",
+    "cert_date": "27-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "The fight between the hero and the villain's henchman to a minimum.",
+        "length_m": 1.219,
+        "length_retained_m": 2.743
+      }
+    ]
+  },
+  {
+    "film_title": "Town Sardar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A. <T, Dojaui, 132, Famou s Cine Bldg., Mahulaxmi, Bombay 11.",
+    "cert_no": "13721",
+    "cert_date": "27-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Red II A VII",
+        "description": "All prominent views of Maha rani and hor sister with flesh of the bosom and parting between busts exposed.",
+        "length_m": 32.614,
+        "length_retained_m": 32.774
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VI",
+        "description": "The sentence to the following effect 'Hum donon paa* bandook hain, t«ri bandook khali ho gai aur mori goli mlshane par lag gal'",
+        "length_m": 8.23
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel .j",
+        "description": "The views of Moors, when the round circular design on her right bust, produced by contrast in color with the main blouse, is prominent.",
+        "length_m": 4.572,
+        "length_retained_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I F",
+        "description": "Whipping uf Lai to half its present length. In the first lung sequence.",
+        "length_m": 4.877,
+        "length_retained_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News 1303",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Cenlury Fuji Oorp, (India) Ltd., Metro House, Bom) >ay.",
+    "cert_no": "13724",
+    "cert_date": "27-7-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The entire item entitled “MRS S1SPEKA HOME”.",
+        "length_m": 39.624
+      }
+    ]
+  },
+  {
+    "film_title": "Interrupted Melody",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro (h)ldwyn Mayer India Ltd., Metro House, Bombay.",
+    "cert_no": "13726",
+    "cert_date": "27-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red F",
+        "description": "From the noeno on stage tn Paris, close views of Marjorie whore part of the flush of her bosom is prominently visible.",
+        "length_m": 21.824
+      }
+    ]
+  },
+  {
+    "film_title": "Tropical Heat Wave",
+    "languages": [
+      "English"
+    ],
+    "producer": "Republic Picture of India Ltd., Lotus I’uasi , 33A, Mariue Lines, Bombay 1.",
+    "cert_no": "13732",
+    "cert_date": "28-7-00",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red VII",
+        "description": "The dialogue 'They’d rip your belly with a rusty oan opcnor. They’d manioure you with knives. Have you beird of a squeaker’s facial with a wet lyi'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Kina between Eatclita and Stratford in the night dub Maoara.",
+        "length_m": 2.377,
+        "length_retained_m": 1.951
+      }
+    ]
+  },
+  {
+    "film_title": "Immediate Disaster",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Ballard Estate, Bombay,",
+    "cert_no": "13733",
+    "cert_date": "28-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The dialogue 'They’d rip your belly with a rusty oan opcnor. They’d manioure you with knives. Have you beird of a squeaker’s facial with a wet lyi'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "description": "Kina between Eatclita and Stratford in the night dub Maoara.",
+        "length_m": 2.377,
+        "length_retained_m": 1.951
+      }
+    ]
+  },
+  {
+    "film_title": "There’s No Business Like Show Business",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th (Vntniy Fox Oorp. (Lndia) Ltd., Metro House, Horn bay.",
+    "cert_no": "13744",
+    "cert_date": "29-7-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red II",
+        "description": "Views of ladies in blue, pink, lavender and other diodes dancing to the song 'A Pretty Girl I’l Like A Malody' with their bare thighs exposed.",
+        "length_m": 32.614
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red II",
+        "description": "In the sequences after 'Brookes Town' the views of the ladies in feather skirts with most of the body visible.",
+        "length_m": 2.438
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red If",
+        "description": "The entire 'Do Paris' number where the girls appear as they have been dressed 'Ob Paris'.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "The entire 'After you get what you want' number along with the song.",
+        "length_m": 113.995
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VI",
+        "description": "In the repetition of the first song, 'Midnight Ohoo Ohoo' views of Katy with slit skirt and portions of thighs visible. The shot at the end of the repetition where Katy oomes with a basket to the buttocks and with the words 'That's 411 brothers' on it.",
+        "length_m": 31.699
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rnl VIII",
+        "description": "The entire 'IToat Wavo' number along with the song.",
+        "length_m": 113.386
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rf’d XU",
+        "description": "In the Tattoo i Inline shots of four scantily olad girls with their t, highs prominent'.",
+        "length_m": 32.918
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XI V",
+        "description": "A close view ofc V n ky in a composite shot where a part of th» fl hH of n hire hisnm is prominently visible.",
+        "length_m": 2.134
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'There Is No, Business Like show Business'",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp., (India) Ltd,. Metro House, Bombay.",
+    "cert_no": "13745",
+    "cert_date": "29-7-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The views of ladles in blue, pink, lavender and other dremrtj dancing to the song L, A Pretty girl is like a melody' with their bare thighs exposed.",
+        "length_m": 2.377
+      },
+      {
+        "kind": "deletion",
+        "description": "The 'De Paris' number where the girls appear as they have been dressed in 'Do Palis'.",
+        "length_m": 5.182
+      },
+      {
+        "kind": "deletion",
+        "description": "Marilyn Monroe and Vicky singing 'After you get what you want'.",
+        "length_m": 11.887
+      },
+      {
+        "kind": "deletion",
+        "description": "'Heat Wave' number along with the song.",
+        "length_m": 9.652
+      }
+    ]
+  },
+  {
+    "film_title": "Teaser Trailer of 'There's No. Business Like fclhow Business'",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp., (ludia) Ltd,. Metro House, Bombay.",
+    "cert_no": "13748",
+    "cert_date": "29-7-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The views of ladies in him, pink, lavender and onher dreaHOH dancing to the song '4 Pretty girl is like a melody' with thou bare thighs exposed.",
+        "length_m": 1.158
+      },
+      {
+        "kind": "deletion",
+        "description": "The 'D* Pans' liumbci whore tho girls appear as they have been dressed in De Paris'.",
+        "length_m": 2.134
+      },
+      {
+        "kind": "deletion",
+        "description": "Thu number 'Aftci yjii get what you want' along with the song.",
+        "length_m": 1.158
+      },
+      {
+        "kind": "deletion",
+        "description": "The number ' Heat Wave' along with the song.",
+        "length_m": 4.572
+      }
+    ]
+  },
+  {
+    "film_title": "Teaser Trailer of 'Valley of the Kings'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer India Ltd,, Metro House, Bombay,",
+    "cert_no": "13748",
+    "cert_date": "29-7-09",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The flash of a dance of the lady in blue coloured ohestpiruo and flying split-skirt with flesh of her bosom and most of the portions of her thighs exposed.",
+        "length_m": 2.591
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'The Purplo Mask'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Universal Pic Inrun India Ltd., Mustafa Bldg., 1 Sir 1*. M, Koiul, Bom-bay.",
+    "cert_no": "13749",
+    "cert_date": "29-7-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shots of LaiU'etio in yt How blouse wlldl she turns round liwsoJl wilb the flesh of bosom visible prominently.",
+        "length_m": 2.743
+      },
+      {
+        "kind": "deletion",
+        "description": "Thej Hliots in the dressing room of giriji some of them undressing an i others with flesh of bosom visible.",
+        "length_m": 2.56
+      }
+    ]
+  },
+  {
+    "film_title": "A manat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Produc-tions C/o Mohan Wtudlu, Andhcn, Bombay.",
+    "cert_no": "13021",
+    "cert_date": "13-7-00",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Silent shot of Pradeup (7 ft.) in place of la*., aho* (7 ft.) before the song 'Bank! adaayen'.",
+        "length_m": 2.134
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI V",
+        "description": "Insert ol JVIcena (8 ft.) in place of the insert of the dofenoo ooimsel (5 ft.) in the oourfc scene.",
+        "length_m": 2.438
+      },
+      {
+        "kind": "insertion",
+        "reel": "jlqel x l",
+        "description": "Be fr.c 1 1 Vnuh < p and PmtJ.oUsm therein llic fcimer iefufirs to ac* ept the responsibility and the latter pursuades him to take it up in the interest? of t tv mill workcra.",
+        "length_m": 18.288
+      }
+    ]
+  },
+  {
+    "film_title": "Jalwa",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bhorey Films, C Jo. Govindram Bros. Ltd., 15ft, Tardoo Road, Bombay,",
+    "cert_no": "13630",
+    "cert_date": "14-7-BB",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Wipes, dissolves, fadca-in, fados-oul throughout tho film.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "description": "Original linking pioocs in-botwoen scenes and Moquoiioou throughout the tllm.",
+        "length_m": 6.4008
+      }
+    ]
+  },
+  {
+    "film_title": "Asai Anna Arumai Thambi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/«. Srimatl Picture*, Madras,",
+    "cert_no": "12970-U",
+    "cert_date": "28-7-08",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "When Balaram speaks about his brother, delete Kannttmma saying 'all black' (Oroy Karnppu).",
+        "length_m": 7.925
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel fl",
+        "description": "When Karuppu is interviewing a girl candidate for the cinema, delete his question about the uncle's (mama’s) employment and the girl’s reply that the 'enol* was her handy man (Edupidi).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 0",
+        "description": "During song No. 4, delete the dancer’s: (a) Close-up hip-jerking against the background music, before the 3rd line of the second verse; (b) bust-jerking against the words 'Naan aaduvon' in the 3rd verse, when it is sung for the second time, and her sari has slipped down; (c) at the end of the song when 'Kannals Ennai Partbandhnjn' is sung at the last time, the bust jerking in done-up.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When Sivaram and Kannamma are conversing in their bedroom on the night of their marriage, delete the picture and dialogue of the chess-game between Bandit and Balaram, interspersed three times with the bedroom scene. (1) The horse is getting ready; (2) Checkmate, in Tamil 'Kattu'; (3) There is a strong competition taking place — my side is to go up, your side is to go up.",
+        "length_m": 67.666
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "(a) During the conversation between Sivaram and the Kabuli money-lender, delete Sivuram's sentence 'You are the man who changes his place, I live here'; (b) Reduce the duration of Sivuram being chased by the Kabuli on the road; (c) delete the picture and dialogue of the Kabuli waiting outside Bharati’s house, Kuppu coming out and the dialogue between them ending with 'Jao, Baavu !'.",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "During the conversation in Anand’s house, after Bharati enters, delete Sivaram’s sentence 'If the Kabuli does not go, he must be chased out, he must be beaten with the whip'.",
+        "length_m": 13.716
+      }
+    ]
+  },
+  {
+    "film_title": "Asadhshhoothi",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "M/s. Mahatma Pictures, Mysore.",
+    "cert_no": "12971-U",
+    "cert_date": "27-7-86",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "At the end of song No. 1, delete the picture of the policeman in close-up joining in the bhajan. (There is no objection to his being shown included in the long-shot, standing to the right of the screen).",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "In the police station, when the policeman and the inspector are discussing about going on leave, delete the picture of the policeman saluting in a clownish manner.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "After the criminal is entering the bar of the hotel, delete the rest of the picture showing him at the bar mixing a drink and drinking it.",
+        "length_m": 2.438
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "When the women approach the guru and wishya regarding their being childless, delete the sishya’s reference to the 'Guru’s Puthra (sunjeevi yenthra'.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "After the guru and sishya have eaten the fruits, delete the rest of the picture and dialogue regarding satisfaction of the eyes, fixing up for tomorrow Friday, what has reached the hands reaching the mouth, satisfaction of the desires. (Iohha Puortbi).",
+        "length_m": 16.764
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "When the inspector and policeman are discussing the arresting of the guru, delete the picture and dialogue of the policeman saying that only important people like members matter, that they should not interfere and who knows what would happen to them if they did.",
+        "length_m": 11.582
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "At the police station after the inspector goes, delete the picture and dialogue of the policeman saying 'You will be inspector and myself sub-inspector', sitting at the inspector’s table, and twirling his moustache.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete all the picture and sound of Santha’s attempt to commit suicide by hanging, leaving only one shot at the beginning when Radha looks at her through the window, and at the end when Radha opens the door and prevents her. (All the inter-cuts of Radhi knocking on the door and calling and Santha at the noose in close-up, to be deleted).",
+        "length_m": 13.106
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reelli",
+        "description": "When sishya gives the vtwikarana yenthra to Lakshmi, delete his sentence 'When the man comes and calls Lakshmi, you give happiness and be happy'.",
+        "length_m": 3.353
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "When Radha speaks to the guru about Santha having been already engaged to be married to Anand, reduce substantially the picture and dialogue of the guru referring to decisions being easy but action difficult, it is not possible to control the mind, reference to Viswamitre and Menaka, Narada and Rathi.",
+        "length_m": 13.411
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "When Santha enters guru's room delete his sentence 'For, love, age is not Important, love alone is important' and laughing.",
+        "length_m": 8.839
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "In the scene in Lakshmi's house, reduce substantially the sequence after both the men are inside the room.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "When the guru enters Radha’s bedroom, reduce substantially the picture and dialogue of his making love to her, while Kaveri and Ranganna are listening, leaving only one shot of the overbearing.",
+        "length_m": 6.706
+      }
+    ]
+  },
+  {
+    "film_title": "Gulebakav ah",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. K. K. Pictures, Madras 17.",
+    "cert_no": "12972-U",
+    "cert_date": "27-7-66",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "When the elder queen tells Datum that the 2nd queen was responsible for the exile, delete Passu showing, 'I will lay, Astrology and Satras are the imagination of conspirators'.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 2",
+        "description": "When Datan is accused in the durbar, delete the following shouted by him, 'This is the sign of those who have sung of the murderers of the land, the went devices by heartless persons to perpetuate their position'.",
+        "length_m": 2.743
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Song No. 2, delete the twelves of Gulam addressed to the person who looks at Gulzar, (PodA Dungiri Dingiri Havanna, Haavu Pannadhe Mcovamia).",
+        "length_m": 1.219
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "In Lakboshwa’s house, when Sukkur enters calling 'Lakku'!, delete (a) the picture of Kulkand and the sentence 'This oil-mill (sekkn) comes and stands' and (b) Delete the picture of Jani dressed as a woman and referred to as a male, beginning from the reference to him as a stork (Kokku), his calling Sukkur as 'n ns', to the end of that sequence.",
+        "length_m": 43.282
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 4",
+        "description": "In song No. 3, delete the picture of Lakku in close-up shots wherever they occur, with emphasised bustin embroidered jacket. (Her moving forward into the camera, jerking her bust, at the end of the 1st verse: the picture of her bust in close-up sideways during Ameeda’s singing; the close-up when the pallavi is sung again at the end).",
+        "length_m": 37.186
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 5",
+        "description": "Delete the entire scene in Lakbenhwa's house (referring to Jani as a man and to Bukkur as 'mama' are to be deleted at the beginning before the prince is sent out as a slave. The entire sequence thereafter is to be deleted). Bukkur and Kulkand receiving Malayula Raja with his mannerisms. Bukkur’s dialogue mocking them; the fool taking leave of Jani and the reference to the latter as a man. The Tolugu Raja and the dialogue about his mannerisms; the reference to Sukkur as 'mama' and to Juni as a man. The entry of the Hindi Raja and reference to Sukkur as 'mama', Jani stroking Bukkur and going.",
+        "length_m": 104.546
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "(a) when Sukkur says that he is 40 years old, delete thereference to Bukkur mama and calling for Jani as a man; (b) When Bukkur enters, when Gulaxn, Guitar and Hasan are discussing after meals, delete the two references to 'mama' and (c) at the end of that reel, delete the picture and sound of Jani as a woman embracing Gulam and singing 'Sukumara'.",
+        "length_m": 9.754
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 7",
+        "description": "(a) when Gulzar and Bukkur are conversing, delete the picture of Gulzar in low-neck jacket with her bust; close-up and the parting visible and (b) Delete the sentence of Sukkur 'Half my back is with you' and his making love to her as a spring of youth (Paruvft GOTRB).",
+        "length_m": 6.096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6(a)",
+        "description": "In the sequence showing Jani and Sukkur, delete the term 'Kuja' and (b) Reduce to the barest minimum required for continuity, the rest of that reel showing Bukkur getting up and going to Gulrar’s bed, waking her up and making love to her, including after Hasan takes Gulzar's place (in particular, delete the following: (a) Bukkur going to Kulkand's bed, her waking up and the picture of her in close-up; (b) Before Daann changes place with Gulzur, the address by Sukkur making love to Gulzar; (c) the reference to Jani and mama).",
+        "length_m": 20.422
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 9",
+        "description": "In song No. 6, delete the verse after the intro prose conversation and before the next prose conversation, picture as well as words, meaning 'This honours! le Kingdom is ours which rules in straightforward manner. This white beard which fears no one, anyone will understand if just this name is mentioned, (from Nerukk^i N^r-ana upto and including Puriyumadi)'.",
+        "length_m": 20.116
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "During the course of the song, delete the reference of the old man to 'Thirst-hunger', and asking for the fruit also in addition to the milk, in order to assuage it.",
+        "length_m": 4.267
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "In song No. 7, delete the picture of Gulzar with her emphasised bust in embroidered jacket wherever it is in close-up (at the beginning, during the dance, against the background music before the words commence; the swimming pool with a row of girls sitting along the side with their bust in close-up; after she is dressed, the picture of the girls in a row with emphasised bunts).",
+        "length_m": 5.486
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the entire sequence of offering Hasan as a human sacrifice to the deity (Naraball) from Lakbshwa entering the cave, upto and including Mahmooda’s drunken entry.",
+        "length_m": 79.855
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "(a) During the fight in the cave, delete the picture insert of a burning torch being thrown in a person’s face, and (b) Reduce the duration of the fighting.",
+        "length_m": 1.829
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "After Qulam and Hasan pay the border tax, in Nakavali, delete the picture and dialogue of beggars clamouring for alms and Hasan saying 'If they extract taxes like this, should this condition also be bore?'.",
+        "length_m": 1.829
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "In song No. 9, delete the picture and words of the last two verses (in Bakavli's rule which piles on meaningless taxes, helpless poor becomes slaves in conspiracies. It is not just to impose inappropriate new taxes. There is no one to oppose or question. Whatever they do, there is no question in this rule. It is injustice, it is injustice. The tax which tortures those who are born to live well, the tax which is a flogging on the back of the poor the tax of this country).",
+        "length_m": 19.507
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "When Hasan is speaking to the commander-in-chief, delete his statement 'Why do you not put up a notice board that there is no entry for foreigners'.",
+        "length_m": 5.486
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 16",
+        "description": "During song No. 10, delete all the picture shots of Rani with her bust in embroidered jacket, in close-up. (at the beginning, during the dance, against the background music before the words commence; the swimming pool with a row of girls sitting along the side with their bust in close-up; after she is dressed, the picture of the girls in a row with emphasised bunts).",
+        "length_m": 18.898
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 16",
+        "description": "When the Hard is speaking to Mumtaz after the fight, delete the picture of her with bust emphasised by a band of cloth, and delete the sentence referring to the foreigner.",
+        "length_m": 23.469
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 16",
+        "description": "When Gulam and Hasan are being taken to the rest-house, delete Gulam greeting the girls assembled and their laughter at him.",
+        "length_m": 19.812
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 17",
+        "description": "When Gulam is talking to the girls, delete the entire sequence, picture and dialogue, from before the girls stand-up (showing their emphasised bust in close-up Gulam referring to biting and eating, the well-built and good-looking body, the girls asking 'Are you a man?' and his reply 'This is a matter to be considered').",
+        "length_m": 31.699
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 17",
+        "description": "When Hasan is answering questions, after he has explained that fate can be conquered but wisdom cannot be delete that portion which refers to 'that portion being called arrogance which (if it is by a rich man, is called fate) a poor man out of his youth, might indulge in'.",
+        "length_m": 5.486
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "In song No. 11, (a) Delete the close-up of Ham with her emphasised bust, wherever it occurs (in inserts when Dasan first ring; the picture when she sings a sound time, towards the end of the song, when she is walking into the camera singing 'VaHuntame').",
+        "length_m": 4.267
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "Delete the sentence of Mumtaz to Itani 'The foreigner and the poisonous snake are the same'.",
+        "length_m": 4.267
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No, 20",
+        "description": "(a) Delete the reference to Sukkur as 'mama' and (b) When song No. 7 is repeated again, delete the picture shots of Gulzar in close-up, and also her jerking her bust.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Kalyanam Baiduco",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Bri Unity Pictures, Coimbatore.",
+    "cert_no": "12973-U",
+    "cert_date": "28-7-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "During the drama about V. O. Chidambaram Pillai, delete the sentence of the man dressed as an European, telling Chidambaram Pillai that the second charge he was charged with was the running of the steamship service.",
+        "length_m": 2.438
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Where Sahayam describes the various places for love-making, delete the reference to the temple hall (KoilMandapim).",
+        "length_m": 0.6096
+      }
+    ]
+  }
+]

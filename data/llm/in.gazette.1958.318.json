@@ -1,0 +1,611 @@
+[
+  {
+    "film_title": "Mate Vina Bal",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "25012",
+    "cert_date": "13-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue 'Prem hawe jar aayeeche tar tlchyaa mulaawar prem karaa' said by Ashok",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots in which Rakkharam is seen sitting on Rajni's head",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots in which Raju is seen sitting on Sakharam's bed",
+        "length_m": 50.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Scene in which Kishore hits Kalpana and drives her out of the house",
+        "length_m": 2.13,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Harishchandra",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26613",
+    "cert_date": "13-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Dialogues: Indra - 'Tune iac chhu liya- — Ek matka pani to dalna iske ooper.' Rohit - 'Aap mujk par pani kyon dalti hail'. Indra - 'Time ise aohehut ko chhu liya Lai'",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots where water is thrown on Rohit in order to purify him from the touch of the untouchable",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Sequence beginning with the shot where Indra is shown giving food to the dog; Rohit watches the food before the dog; dialogues are exchanged between Indra and Rohit regarding the same till the shot where Indra’s husband throws a bundle to Rohit",
+        "length_m": 13.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots where Indra mistreats and gives beating to Taramati and Rohit",
+        "length_m": 25.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Taramati is prevented by Indra to go to her son who is bitten by a snake",
+        "length_m": 13.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Sequence where Taramati is shown carrying dead Rohit in her arms; she sings a song; till the shot where she brings the dead body to Shamshan",
+        "length_m": 79.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "All close shots of dead Rohit on funeral pyre",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots where Harishchandra is shown taking up an axe to kill Taramati",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "The following sequence considerably — Taramati la bit by a stone; she lulls In bog pit; Karlabohandra jumps after ber; tbey struggle in the pit and about for Robit: Rohit ia also shown struggling and aboutlng",
+        "length_m": 3.35,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "To a flash shots where Taramati, Hariabobandra and Itohit are shown atruggllng in the mud",
+        "length_m": 21.64,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably shots where Taramati, Hariabobandra and Robit are abown grief striken after tbey come out of the pit till the beginning of the aong beginning with the words “Ma re ma”",
+        "length_m": 13.72,
+        "length_retained_m": 22.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably the sequence where Hariabobandra ia abown yoked to a cart and Is dragging the same",
+        "length_m": 16.76,
+        "length_retained_m": 22.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Considerably the sequence where Taramati and Rohit are sold",
+        "length_m": 36.58,
+        "length_retained_m": 121.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "To a flash Bhots where Taramati arranges Rohit’a funeral pyre",
+        "length_m": 4.27,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "To a flash shots where Harishohandfa is shown hysterically weeping and bewailing over the dead body of Rohit till the shot where the keeper of the Shamshan demands his tax",
+        "length_m": 40.19,
+        "length_retained_m": 53.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Considerably deleting all the olose shots of the dead Dody, the sequence where Taramati is brought to the Shamshan for execution",
+        "length_m": 12.79,
+        "length_retained_m": 95.39
+      }
+    ]
+  },
+  {
+    "film_title": "Janoos Bachey",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25639",
+    "cert_date": "15-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "To a flash shots whom up iked walla are shown, stationary or collapsing",
+        "length_m": 24.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Considerably fight between the Jadugar Lntera — gang and the police; also the fight between the gang and the detective",
+        "length_m": 63.09,
+        "length_retained_m": 19.19
+      }
+    ]
+  },
+  {
+    "film_title": "The Mark of The Hawk",
+    "languages": [
+      "English"
+    ],
+    "format": "Superscope",
+    "cert_no": "25653",
+    "cert_date": "17-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots of Collier being done to death by an African with a knife",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI, VII & VIII",
+        "description": "The flash bank episode relating to Craig’s stay in China beginning with Craig's dialogue “And when I first saw my son, he was already ten years old etc.’’ in Reel No. VI and ending with the scene of Craig starting through grill bars and clutching them after Lning Tao is bustled away in Reel No. VIII",
+        "length_m": 319.46
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “The Mark of The Hawk\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25656",
+    "cert_date": "17-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of Collier being done to death by an African with a knife",
+        "length_m": 0.37
+      }
+    ]
+  },
+  {
+    "film_title": "Baazi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25558",
+    "cert_date": "15-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Dialogue to the minimum tin-kicking and beating a gambler and cut out Pinhchoh",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Cut out the two close-ups of Niema (the dancer)",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the word 'Barrister'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Cut out the close up of dancing in two planes in the song 'snriiigiijar'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "8 & 9",
+        "description": "Delete the word 'barrister' wherever it occurs in the film",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Shots where Madan kicks a gambler on the face during the fight with him",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots where a man is lashed and tortured by Khannn's gangster Sheraingh",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Shots where Madan and Rajni are shown in close physical proximity after Song No. 4",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Shots of close physical proximity between Madan and Rajni when they go to see Madan’s sister",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Shots where the thighs of a girl moving the water wheel with her feet are shown exposed",
+        "length_m": 19.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Shots at the end of the picture where Madan and Rajni are shown in close embrace",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "8",
+        "description": "Scenes showing the court-room and the dialogue of Judge 'asli khooni ke pakde jane par tum he khoon keibcam se burn kiya jatahy. Lckin Jua aur paison ke majurlmana landen may ek groh ka sathi hono ki vajay se tumhe uafe ohar sau nau taji raat-e-Hind teen maha qald ha mushakkat ki • artta di Jati hy'",
+        "length_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi 555",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25673",
+    "cert_date": "20-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots where Ashok is shown with Asha after his release from prison wherein it is established that he is enjoying the property which he acquired from both Dhaniram's wealth which he stole",
+        "length_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Aakhrl Dao",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25677",
+    "cert_date": "23-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Dialogue suggestive of procuration exchanged between Pyarelal Gupta and another man in the dance school",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue of vulgar nature addressed by Sikh young man to Raju (hero) when he is driving a taxi",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Shots of the dancing girl being beaten by her lover",
+        "length_m": 1.22,
+        "length_retained_m": 0.43
+      }
+    ]
+  },
+  {
+    "film_title": "Panchayat",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "25693",
+    "cert_date": "24-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shot of Mohan in close physical proximity to Nimmi",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Mangalya Balam",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "22657",
+    "cert_date": "14-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the background song (song No. 2) text as well as picture",
+        "length_m": 94.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the picture and dialogue of Kailasam and his friends letting out the air from the tyres and going out to hide",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "When the policemen allow Kailasam and the disguised Meenakshi to escape, delete that portion where they are asked to push the car and Meenakshi waves to them",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "During the telephone conversation between Kailasam and Meenakshi, delete the sound of the kiss against the reaction shot of Meenakshi",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "When the policemen go to investigate the nursing home, delete that portion of the comedy where the nurse is addressed as a man, the constable correcting the head-constable",
+        "length_m": 8.84
+      }
+    ]
+  },
+  {
+    "film_title": "Manjal Mahimai",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "22659",
+    "cert_date": "14-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the text and picture of background song No. 2",
+        "length_m": 81.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the picture and dialogue of Kailasam and his friends allotting persons to let out the air from all the 4 tyres and going out to hide",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Delete the policemen's comedy addressing the nurse as a man",
+        "length_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Athibaya Thirudan",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "22663",
+    "cert_date": "20-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce the robbery in the money-lender’s house, deleting the portion from where the thief shows the dagger, upto and including the money-lender offering to buy back his own beads",
+        "length_m": 42.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the thief’s explanation that drink cannot be given up for there will be no life without the measure of drink, and that a hereditary thief cannot give up stealing",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the sentence of the prime minister to Gowri 'Why take only my life — take my body also'",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Anbu Engay?",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "22002",
+    "cert_date": "24-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Song 1 — Delete all the picture shots of the dancer in tight dress with her bust in close-up",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the picture and dialogue of Somu and Appavu in a drunken condition, (from the close-up picture of the dog, upto and including their both going backward)",
+        "length_m": 97.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Song No. 3 — delete the picture shots of the dancer in tight dress, in close-up",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the portion where Somu enters drunk to Alamelu. (No objection from where Kamu announces her winning a prize)",
+        "length_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Amuda’s statement that Ramu had lipstick stains on his lips, and the picture of his wiping at the mirror",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the entire picture and text of song No. 4 beginning ‘L.O.V.E.’",
+        "length_m": 84.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "When Alamelu describes the diet for the sadhu, delete Amuda’s reply “I understand from the list, how powerful he is”",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "When Somu greets Parvathi, delete the portion where he enquires about Siva, Gangs and the Bichu abhayavahanam and the news that it had fractured its leg",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the portion of Somu drunk, entering the prostitute's house— from his entry, upto and including the opening of the bottle",
+        "length_m": 25.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "When Parvathi offers bed-coffee, delete Somu’s reply about Johnny Walker, giving the bottle to Parvathi to pour out a ‘double', and later bringing out more bottles",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "a) Before song No. 8 begins, the close-up picture of the bottle of VAT 69 Gin, and Somu drinking from it, and b) in song No. 8 — the two lines beginning “Dovarin Adiarkal” and ending “Neengal Androl”",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "When Somu introduces the film producer to Mala, delete his statement — He Is “preparing” film stars",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Intent To Kill",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "792",
+    "cert_date": "13-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The following dialogue — Margaret — “You’re sleeping with her”",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Tank Force",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "cert_no": "793",
+    "cert_date": "17-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "After Johnson is knifed, shot showing blood flowing in the glitter",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot in which Carola collapses under gun fire",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII IX",
+        "description": "All references and shots depicting the Arab Chief and his lieutenants as indulging in unprovoked cruelty and torture, including shot of Thatcher groaning in agony",
+        "length_m": 54.25
+      }
+    ]
+  },
+  {
+    "film_title": "Marjorie Morning Star",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "25410",
+    "cert_date": "25-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "First kissing scene between Noel and Marjorie",
+        "length_m": 0.3
+      }
+    ]
+  }
+]

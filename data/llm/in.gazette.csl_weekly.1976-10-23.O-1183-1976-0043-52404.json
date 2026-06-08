@@ -1,0 +1,679 @@
+[
+  {
+    "film_title": "Kahte Hain Mujko Raja",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Jayceta Movie Arts, Tarang, 7th Road, Juhu Park Scheme, Bombay-56",
+    "cert_no": "80130",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the whipping of Raj Thakur by Randhir.",
+        "length_m": 1.09,
+        "length_retained_m": 7.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between Balram and goondas, deleting the hard blows.",
+        "length_m": 2.05,
+        "length_retained_m": 10.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete underlined words in dialogues related to physical actions and comparisons.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete underlined words in dialogue about Shankar's name and abilities.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV (a)",
+        "description": "Considerably reduce the torture of Balram's mother.",
+        "length_m": 4.5,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV (b)",
+        "description": "Reduce the scene of attempted rape of Sapna, deleting indecent visuals.",
+        "length_m": 0.9,
+        "length_retained_m": 5.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the whipping of Randheer by Rajaram.",
+        "length_m": 1.0,
+        "length_retained_m": 7.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Considerably reduce the fight between Balram and Randheer & his men, removing hard hits & gruesome visuals.",
+        "length_m": 13.0,
+        "length_retained_m": 14.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Duel",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Film Finance Corporation, 1-Walkeshwar Road, Bombay-6",
+    "cert_no": "80131",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the scene of fighting to a minimum.",
+        "length_m": 14.02,
+        "length_retained_m": 14.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to a minimum the gun battle and killings during the encounter between the Police and Sultana and his men along the rail track.",
+        "length_m": 38.71,
+        "length_retained_m": 77.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce to a minimum the battle between Policemen and Sultana and his men in the mountains.",
+        "length_m": 15.69,
+        "length_retained_m": 75.63
+      }
+    ]
+  },
+  {
+    "film_title": "The Gentle Rain",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Burt Balaloan (U.S.A.)",
+    "cert_no": "80135",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete nude shots of Julie in the bedroom and delete suggestion of Bill's nudity in the bath-tub.",
+        "length_m": 38.75
+      }
+    ]
+  },
+  {
+    "film_title": "The Fifth Offensive (Sutjeska)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Nikola Popovic (Yugoslavia)",
+    "cert_no": "80135",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Drastically reduce the shots of a Partisan being mauled and tortured by a dog when tied to a tree, keeping the beginning portion for suggestion only.",
+        "length_m": 8.09,
+        "length_retained_m": 5.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably reduce the torture of Partisans by savage dogs.",
+        "length_m": 3.35,
+        "length_retained_m": 2.38
+      }
+    ]
+  },
+  {
+    "film_title": "Golden Voyage of Sindbad",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Charles H. Schneer & Ray Harryhausen (U.K.)",
+    "cert_no": "80136",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III, IV",
+        "description": "Entirely delete all shots showing Trimurthi, Buddha, temple towers, Natraj (referred to as Goddess Kali in Alm) wherever they are seen in the film so as to remove any possible connection of the sequences with India.",
+        "length_m": 333.84
+      }
+    ]
+  },
+  {
+    "film_title": "High Plains Drifter",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Robert Daley (U.S.A.)",
+    "cert_no": "80163",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the impact of killings of three men by the stranger, by deleting the gruesome visuals.",
+        "length_m": 4.59,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drastically reduce the struggle and rape of a girl.",
+        "length_m": 19.17,
+        "length_retained_m": 6.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a flash the views of a blood-stained face of a man after being whipped, as seen by the Stranger in his dream.",
+        "length_m": 4.37,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from dialogues.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the killing of a running man by gangsters.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Drastically reduce the whipping of a man by three men and also the close views of his blood-smeared face.",
+        "length_m": 8.23,
+        "length_retained_m": 2.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the gruesome impact of the killing of an injured man.",
+        "length_m": 0.2,
+        "length_retained_m": 0.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the close views of a bleeding ear of a man.",
+        "length_m": 1.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the number of killings of people by gangsters and reduce to a suggestion the killings of a man at the sea side.",
+        "length_m": 8.0,
+        "length_retained_m": 12.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to a flash the killings of three gangsters by the Stranger.",
+        "length_m": 9.65,
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Magnificent Seven Ride",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "William A. Calihan (U.S.A.)",
+    "cert_no": "80139",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the shot in which one of Chris' men strangles one of the guards. In the same sequence also delete the shot in which a guard is hit on the head twice by a Captain.",
+        "length_m": 15.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & V",
+        "description": "In the encounter between Chris and the bandits, reduce the shots of shooting, gruesome shots of killings, screaming, close views of dead bodies, exposure of blood with a view to diluting the gruesome impact of the sequence.",
+        "length_m": 42.15,
+        "length_retained_m": 270.92
+      }
+    ]
+  },
+  {
+    "film_title": "Deaf Smith & Johnny Ears",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Joseph Janni (U.S.A.)",
+    "cert_no": "80141",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the killings of MacDonald and his family to a suggestion.",
+        "length_m": 4.76,
+        "length_retained_m": 4.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "I (a)",
+        "description": "Reduce to a minimum the shots of Susie taking a bath nude with her back turned to the camera and also the views of her walking away wherever her nudity is established. Delete the close shot of her bare buttocks, retaining only the portion showing a black mole on her buttock.",
+        "length_m": 6.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "I (b)",
+        "description": "Delete the words 'what an ass' as exclaimed by Johnny Ears, while looking at the bare buttocks of Susie.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "II (a)",
+        "description": "Delete the words 'my ass' from the dialogue of Johnny Ears.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "II (b)",
+        "description": "Considerably reduce the scene of love making between Johnny Ears and Susie in bed, particularly deleting the views of her lying on him and their indecent movements.",
+        "length_m": 19.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "III (a)",
+        "description": "Delete the shot of killing a man by suffocating.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "III (b)",
+        "description": "Delete the views of Susie when breasts are seen through her negligee.",
+        "length_m": 10.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV (a)",
+        "description": "Delete the suggestive dialogue 'Shove it up the General' as spoken by Johnny Ears.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV (b)",
+        "description": "Delete the shot of Deaf Smith wiping blood from the knife on the pants of a dead man.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the gun fight between the duo and Morton's men by deleting all the gruesome killings and views of blood-smeared bodies.",
+        "length_m": 32.0,
+        "length_retained_m": 137.16
+      }
+    ]
+  },
+  {
+    "film_title": "Apne Dushman",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Joetendra Bhandari, Roop Tara Studio, Dadar, Bombay-2",
+    "cert_no": "80151",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Entirely delete the scene of conspiracy entered into between a group of Indians and some foreign nationals, before the titles are splashed, in which allegations are made that we have sold our freedom, non-alignment policy etc.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the shots superimposed on the titles, delete those in which a man presses his hand on a lady's bosom and again when he makes her gulp the drink and the view of a couple kissing.",
+        "length_m": 2.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the bedroom scene, delete indecent dialogues about bath such as 'Saath me nahate to jyada maza aata' and 'Raat jaagte ya na karo etc.'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the dialogue of the woman in the hotel room 'Aadmi shaandar tha, maal to de gaya na'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the following dialogue between Brijosh and Dr. Mehta: 'Lekin is baat ka dukh bhi hai ki hamari Government ne aapki kuchh madad nahin ki'.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the torture of the girl inside the plane by deleting the shot of her being slapped and pushed.",
+        "length_m": 0.51,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shots of Indian Airlines plane on the ground and in flight before hijacking.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to a flash the torture of Rajjana by Raghunath's men, using finger spikes, electric gadgets, current shocks, etc. Also delete Raghunath's remark 'HUM POLICE VALO KA KAAMHI AISA HAI' suggesting that the police used third degree methods.",
+        "length_m": 28.04,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the attempted molestation on Reshma to minimum needed for continuity, especially deleting shots in which the man presses his head on her bosom.",
+        "length_m": 7.01,
+        "length_retained_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the fight between Brijesh and other goondas deleting hard hitting shots, hitting in the stomach etc.",
+        "length_m": 0.91,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Reduce the impact of killing of the henchman of the rival gang by Ranjana, in the blind girl's apartment. Deleted completely.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the scene at Reshma's house, remove the impression that Rustomji was a coward as it could be considered derogatory to Parsis. From the same sequence also deleted the underlined words from the dialogue.",
+        "length_m": 38.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Reduce the impact of killing of hireling. Deleted completely.",
+        "length_m": 3.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the following dialogue between Ganga and Resham.",
+        "length_m": 6.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the view of actual killing of henchmen of the rival party.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the fight between two women drastically, delete the killing of Rajan. Delete the view of knife stuck on the chest of a woman. Delete killing of the girls, blood gushing out, dead bodies. Reduce the view of Rahu killing an accomplice. Reduce torture of the blind girl to a mere suggestion by deleting all shots of whipping, strangulation, burning with a cigarette butt, slashing her cheek with a knife.",
+        "length_m": 40.99,
+        "length_retained_m": 23.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Considerably reduce the fight between Brijesh and other goondas. Drastically reduce all fighting sequences of the last reel and delete hard hitting shots, hitting on stomach, banging of heads against pillar and desk, blood vomiting etc.",
+        "length_m": 16.46,
+        "length_retained_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the underlined words from the dialogue.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Crucio Lake",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "Film Polski (Poland)",
+    "cert_no": "80155",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the portion of the scene where Michael is fondling the breast of Martha.",
+        "length_m": 3.9
+      }
+    ]
+  },
+  {
+    "film_title": "Puppet On A Chain",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Kurt Unger (U.K.)",
+    "cert_no": "80181",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete all shots of the detective being tortured with sound waves.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shots showing a girl being tortured.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Rejeanne Padovani",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Marguerite Duprac Lebure (Canada)",
+    "cert_no": "80182",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot where the Secretary's wife is undressing herself behind Padovani's chair.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the subsequent shot in which Padovani passionately kisses a woman.",
+        "length_m": 0.5,
+        "length_retained_m": 1.05
+      }
+    ]
+  },
+  {
+    "film_title": "High Plains Drifter",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Robert Daley (U.S.A.)",
+    "cert_no": "80165",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the impact of killings of three men by the stranger, by deleting the gruesome visuals.",
+        "length_m": 4.59,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drastically reduce the struggle and rape of a girl.",
+        "length_m": 19.17,
+        "length_retained_m": 6.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a flash the views of a blood-stained face of a man after being whipped, as seen by the Stranger in his dream.",
+        "length_m": 4.37,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from dialogues.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the killing of a running man by gangsters.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Drastically reduce the whipping of a man by three men and also the close views of his blood-smeared face.",
+        "length_m": 8.23,
+        "length_retained_m": 2.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the gruesome impact of the killing of an injured man.",
+        "length_m": 0.2,
+        "length_retained_m": 0.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the close views of a bleeding ear of a man.",
+        "length_m": 1.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the number of killings of people by gangsters and reduce to a suggestion the killings of a man at the sea side.",
+        "length_m": 8.0,
+        "length_retained_m": 12.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to a flash the killings of three gangsters by the Stranger.",
+        "length_m": 9.65,
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kansas City Bomber",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Marty Elfand (U.S.A.)",
+    "cert_no": "3273",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "During the skating race on the ring delete hard hitting shots.",
+        "length_m": 13.71,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the underlined words from Jackie's dialogues addressed to K.C.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the fight between two girls.",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Drastically reduce the beating of the fat man.",
+        "length_m": 16.15,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete K.C.'s remark 'Then screw you sister' addressed to Jackie.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "During the race fight between K.C. and Jackie, delete hard hitting shots and kicks.",
+        "length_m": 22.25
+      }
+    ]
+  }
+]

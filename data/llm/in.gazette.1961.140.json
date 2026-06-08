@@ -1,0 +1,833 @@
+[
+  {
+    "film_title": "Hercules Unchained",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Bruno Vailati",
+    "cert_no": "31814",
+    "cert_date": "0-2-61",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The remark 'She will like a new husband like every woman'",
+        "length_m": 1.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The scream of Iole when the tiger kills the trainer in the arena",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The line 'Last Night I was in Your Arms' in the song 'Evening Star'",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shot of the girls in very short dress running down the steps",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Completely the solo dance of the woman in white, transparent dress with silver lace on the breasts and silver lining at the hips and thighs also the portion of the dance of the same lady in the same dress with blue lighting",
+        "length_m": 39.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The shot of Ulysses catching one of the girls in very short dress when they are running away and the shots of girls running down the steps",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The shot of Omphalo where the light blue dress flutters in the breeze exposing her thighs",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The screaming of Omphale and the shot of her actually falling into the fire",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The prominent views of Hercules with blood marks",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Sequences of Women prisoners being thrown down from the ramparts of the fortress",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The prominent views of Iole when she is talking to the General in black dress",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The prominent views of Eteocles and Polynices with blood on their shoulders and arms. The shot where the General in black dress turns Eteocles’ dead body with the point of his sword and the shots showing a pool of blood near Polynices’ body",
+        "length_m": 17.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The prominent views of the burning pyre containing dead bodies",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "The scene of four soldiers killing one man, omitting the shot where the men drops dead on the floor",
+        "length_m": 0.0,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red.II",
+        "description": "The fight between Hercules and Antaeus, omitting actual hard, low-blows and the shot of the pressing of the jaw where the man expresses agony",
+        "length_m": 9.14,
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red III",
+        "description": "The shot of the four soldiers killing one man, omitting the shot of the man falling on the ground",
+        "length_m": 1.83,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red III",
+        "description": "The kiss between Hercules and the Queen of Lydia",
+        "length_m": 1.22,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red III",
+        "description": "The views of Omphale in dark, blue transparent dress, reducing also the hard-pressing, caressing and kissing between her and Hercules",
+        "length_m": 5.18,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV",
+        "description": "The scene of Hercules and Omphale (in light blue dress) making love and caressing, pressing each other hard and kissing",
+        "length_m": 8.72,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red V",
+        "description": "The views of Omphale in very short white dress with emphasised busts (when she is on the throne and when she is moving about) and the scene of kissing between her and another man. The throne scene omitting the prominent views, especially when she gets down or goes up on the throne",
+        "length_m": 3.96,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "The scenes of battle between men of Thebes and soldiers in black dress, especially reducing some of the scenes where high wall-like constructions containing soldiers are toppled over and there are loud screams and shouts",
+        "length_m": 10.36,
+        "length_retained_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Anna Of Brooklyn",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Columbia Pictures Corporation Ltd.",
+    "cert_no": "31813",
+    "cert_date": "0-2-61",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The views of Arum in black, transparent, lace under dress when she takes out her top clothes",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Explanation of the words 'great consoler of women'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The shadograph of Anna taking bath under the shower in the open. The shots showing her wrapping herself in a towel",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Anna’s remark about, a man being alone with all that 'hot blood'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Completely the twisting and turning of Anna showing herself to be 'in heat' whilst sleeping at night on the bed when her busts are prominently emphasised from below the dress",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The statement of the blacksmith's assistant about his 'loving women and leaving them'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV",
+        "description": "Drastically the views of Anna in a pinkish low necked dress when the flesh of her bosom and the parting between her busts are considerably exposed",
+        "length_m": 9.45,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV",
+        "description": "Especially her movements of throwing herself on the blacksmith's assistant when he comes to take the measurements for the bathroom",
+        "length_m": 14.63,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Considerably the views of Anna in the bath tub and her views in a towel which the young girl gives to her when the curtain is thrown aside",
+        "length_m": 7.32,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Guddi",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35 mm.",
+    "producer": "Vishw Vijay Mandir, Mohan Studios, Kuria Road, Andheri, Bombay",
+    "cert_no": "31810",
+    "cert_date": "0-2-01",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The two views of emphasised bust of Guddi in the chorus-dance 'Gud khandl te. ...' as the lines 'Jadon ohalle te dharti hillo and Aal aai jawani' are sung",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The shot in which the astrologer presses the girls hand to his bosom",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Gulabo’s words to Mehnga 'Kuohhad ohak ko kliidawan?'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Numberdar’s words 'Rab kare eko jahian takran roj huiidiyan rahen' and 'Pyar Oh' knhdi sharam'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Guddi’s words to Chaman : 'Gale miloge' inoluding Chaman’s words in reply thereto",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The underlined words as spoken by Mehnga ; 'Haae, Gulabo kadi ta has pau'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "(i) the closing shot of the duet' Sanu tak ke naliangya kafo' in which Guddi and Chaman are seen pressing close to each other face to face",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "(ii) The two shots in which Chaman is seen pressing Guddi close to himself in their subsequent love scene",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The underlined word 'Asl tuhadi sharam dekhan aavange' as spoken by Chaman to Guddi",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 71",
+        "description": "(i) the undulating hip movements of Guddi in the beginning of the dance song 'Lak patla te gagar bhaari'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 71",
+        "description": "(ii) The song line 'Tn banh te saunja ni' (Sound)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 71",
+        "description": "(iii) Guddi’s hip movements as the line 'Hijar tore wioh soniye ni' is sung",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 71",
+        "description": "(iv) The hip movements of Guddi during the music interval preceding the line 'Chhad ko hal Punjab de",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Fff",
+        "description": "Chaman’s words 'Torivan kaaliyan zulfan .... upto .sake ohumdo aa' including the accompanying pulsation of Chaman caressing her hair and cheeks",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Fff",
+        "description": "The closing shot in the duet sequence 'Pyar de bhulekhe. ...' showing Chaman and Guddi in close physical contact",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The words 'Ohnu Muhabbatan de tiokot te sanu lal jhandi' as spoken by Mehnga to Gulabo",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of ‘Legions of The Nile’",
+    "format": "35 mm.",
+    "producer": "An Alexandra Production",
+    "cert_no": "31817",
+    "cert_date": "0-2-01",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a man being hit on the eye with blood coming out and views of his face and hands with blood. The shot of a man lying in water and a woman bending over him and kissing him and a woman lying on floor in scanty dress and a man running her and she climbing a table. The words from the commentary : 'more tempting than any man can resist",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The words 'clash of savage passion' in the Title",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the arrow actually hitting a man and the man falling",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a girl in black silver striped brassiere with the flesh of her bosom and the parting between her busts emphasised. The dance of the lady in black silver striped brassieres and flying orange and red pieces of skirt with the bulge of her bosom and the part between her busts and the portion around the navel and most of the portion of her thighs pronouncedly visible",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Apsara",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "format": "35 mm.",
+    "producer": "J. L. Sharma, Prop. Chitralaya, 321 -Kumad Villa V.P. Road, Bombay 4",
+    "cert_no": "31826",
+    "cert_date": "7-2-01",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From Bahadur’s dialogue to Madhavi the words 'Tumhare gall ras guile — onth jamun hfti. . . . Tum mithui ki dukan ho' and also the words 'Khao na kola'",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In song beginning with the words 'Ye kah do chhand se chhup ja'. (a) The words 'Aa zulfko bikhar den'. (b) Inke Baye men Hula ke raazo ishq chhed den' (Sound — replaced with approved words Chhath rahi hai Chandrika, Rangeoniyan Bikhar de, Naip naiu se mila ke saazo wakhta chhed den')",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In song beginning with the words 'Aai dil chhed kolpvar bhari dastan'. (a) from wordings (i) 'Kaash koT aae hamon pyar sikhaane wala-ziudagi monmeethi meetbi aaglag&ano wala' (Sound — replaced with approved words 'Kaash ki aaye kame aas dilane wala, zindngi mo rnitka mil ha raag jagane wala'). (ii) Only the words 'Hai' from the line 'Hai yeh Sama, aur hum javan' (Sound — the word 'Javan' replaced with flic word 'Kahan' as approved. In view of this replacement, the word 'Hai' has been allowed to be retained). (iii) 'roene wala koinahin, chhnlkl jaa.yen mastiyan' (Sound— replaced with the approved words 'Joene wala koinahin, mitati jayen haatiyan.' The words 'Jeone wala koi nahin' have been subsequently deleted)",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From picturisation — (i) Sound as well as action of Bahadur whistling indecently (Sound — replaced with music and action replaced with earlier shot of Madhavi — 5 ft, as approved. (ii) Shots of Bahadur blowing or throwing kisses (Replaced with approved shots of Bahadur’s close-ups — 18 ft.)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From Bahadur’s dialogue to Kamini — 'Lugo haath vapsi ka kiraya biii deti jao' also the word 'Chatpati' from 'Agar vahan turn jftissi 'ohatpatl' apsara nahin hot!' (Sound— Replaced with approved words 'Lags haath turn bhl mere saath chali aao' and 'Khatpati')",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In song beginning with the words 'Nigahen milakar hata kaun tu hai '. (d) From wordings — 'Aa bahon mon haar pohnaoun. .....' 'Jeena ka andaz sikhaoun — rauz hataoun'. 'Dikii saji haln dil ki rahon, in rahon bi sair karaoun' (Sound — replaced with the approved words 'An phoolon ke haar pohnaoun, jeena ka sardttb fun soon, bnat hat aim, Dikh riikLi lutun inko chahun in ohahon ki taah na paoon')",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "(e) From Visuals — (i) Shots of close physical proximity between Mohini Hnd Yugaraj (Replaced with approved shots of Mohini anil Yugnraj — 21 ft,). (ii) Suggestion of a kiss (accompanying the words 'llol raha hai mast nazara') (Replaced with approved shot of flowers — 4 ft. 8 frames.)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Suggestion of embrace between Mohini anil Yuvaraj in disguise (Replaced with approved blown-up shot — 14 ft,)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "In song beginning with the words 'Thhundithhandi hava ke jhonke aatio lage' The words 'Jawani ke din jaane lage' and the picturisation accompanying that line",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The entire picturisation and dialogues relating to the Baeriflce of an infant to the Goddess Kali and that the aboriginals indulged in such saorifioos. Also, shots and dialogue bearing on such human sacrifice wherever they occur in the film",
+        "length_m": 57.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "From visuals a shot in which Mohim’s bust is seen emphasised (Replaced with approved hlownup shots — 25 ft.)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "From Ratanshigh’s dialogue to Kumar — 'Jis chidiva ko kuhiye phans kar lsoon' and also the words 'Aisi mb baten bachpan se setkbni padti bain'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The words 'Ye kimat b»j' spoken by Eatansirgh to Catiika in hir bouse. (Smil'd— the word 'Kimat' rt placed with the approved word 'Soughat,'). The shot of Pradhan Putra pushing t he prince to go to the unknown woman and parts of his Buggoetivo dialogue",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7P",
+        "description": "In song beginning with the word 'Yo kah do chund so ohhup ju ' From visuals suitably shots of close proximity between Yuvaraj and ChandTapi'abhn and of Yuvaraj enclosing ChandTajirabbs in bis arms (Replaced with approved shots of flowers and blown up shots of Yu vi raj — 54 ft,)",
+        "length_m": 16.46,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Suitably shots of close physical proximity between Yuveisj and Chandraprahha, including the shots of his enclosing Chandraprahhs in bis arms",
+        "length_m": 7.32,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "The scenes of two robbers trying to molest Ohhandraprabha in the jungle and delete their suggestive dialogue",
+        "length_m": 8.84,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The shots of New D-'vi",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Entire picturisation and dialogue between Ratna Singh and Kunmr where Ratna Singh says: 'Aisi nab baton baobpan se hi sikbni padti hain'",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "A repeat shot of closeup of lag of Mohini and shot of rays coming from the hands of Ganga",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Vision scene when Kumar enquires about his foster father and his reply that Devi offered him a child",
+        "length_m": 17.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV",
+        "description": "Shot of a boat with Yuvraj and Clhandraprabha",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "A New antra 'Mil u gi z indag i nai, O’ ... . O’ Joe ’along with picturisation",
+        "length_m": 10.36
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Scenes about delivery of a dead child, dialogues concerning the delivery between the lady, sister-in-law and Ayah and shots of a new baby being replaced in place of the dead one",
+        "length_m": 63.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Close up of image of Devi and her appearance and disappearance",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Scene showing the lady whose dead child was replaced with a new one seeing a Goddess in her dream who reveals the truth and promises a son next year and takes away the child",
+        "length_m": 119.18
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Shots of new Devi in Lullaby song",
+        "length_m": 21.03
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Vision scene of Kumar asking his foster father about his parents and his reply thereto",
+        "length_m": 32.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Shots of New Devi consoling Chandraprahha"
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “The High Powered Rifle”",
+    "format": "35 mm.",
+    "producer": "Twentieth Century-Fox Film Corp.",
+    "cert_no": "31847",
+    "cert_date": "15-2-01",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of persons being shot down",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Zamana Badal Gaya",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Hemlata Pictures, Central Studio, Tardeo, Bombay 7",
+    "cert_no": "31854",
+    "cert_date": "15-2-01",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Dr. Dilip touching Shashi’s checks as also his dialogue 'Shashi ko mujh par chhod dijiye'",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red II",
+        "description": "The underlined words from Dr. Dilip's dialogue 'Chandu ko pyar karunga aur Bhabhi aur Shahshi ko. . . .'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "(a) Shot in which Jankidas comes with shoes saying 'Saheb, aapke boot' and ChandraNath pushes him away saying 'Hat jao'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "(b) From Dr. Dilip’s dialogue 'Nurse yaani darling, darling yaani ke darling'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "(c) From the song beginning with the words 'Sooho ji sooho ji. . . . ' indecorous gestures by Dr. Dilip",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "All suggestions that Chandranath’s father was polishing the shoes of his son",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The underlined words from 'Pooja paath ganga jal uthha kar gobar men Zindugi gujaro' said by Chandranath with reference to Indian women",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The entire song No. 4, beginning with words 'Uhdar ee tu aa. . . .' and its accompanying picturisation",
+        "length_m": 87.48
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "The underlined word from 'Tu riyatl vaishyaon ki nakal nahin kar sakti' said by Manorama to Shashi",
+        "length_m": 0.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Close view of Shashi’s bust after she slaps Dilip",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The entire song beginning with the words 'Karne wala kar jayegaa' and its accompanying picturisation",
+        "length_m": 103.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The words 'Hinduon ko jungli haalat men rakha hai' spoken by Chandranath",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The entire song beginning with the words 'Mahboob bar jagah' and its accompanying picturisation",
+        "length_m": 92.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From prayer scene of Dilip, the following dialogue 'Thank you, Bhagwan. . . .vah vali Bhagwan' as also the picture of Lord Krishna",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The words 'Jab chidiya chug gai khet' said by Dilip to Shashi",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The following dialogue (a) 'Second hand, second hand' said suggestively by Dilip to Maya. (b) 'Aaocha yeh aaj besharmi ko ye mastikyon pyuri hai' said by Chandranath (c) 'Aur masti ko besharmi kyol) bha rahi hai' said by Maya",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "See X",
+        "description": "In song No. 7, beginning with the word 'Ganga ki dhuar ' from wordings (i) 'Sasta lahu' (sound). (ii) 'Lutati hi laaj'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The following dialogue spoken by Dilip : 'itna khatarnak vo ho kar chhipat gaya hai fark sirf itna hai ki chimat gaya hai— ki vah chhootey nahlu chhoot sakta — vo. . . .dekhiyo na kitna khaturnuk rog hai'",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The words 'Veshya men koi farak nahin'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The words 'honeymoon' from the following dialogue ; Chandranulh' Abhi nahin tumne vaida kiya tha na honeymoon par' Dilip: 'Haan honeymoon par'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably picturisation as well as dialogue referring to Shashi’s pregnancy and her effects to dispense with her pregnancy i.e., abortion maintaining only minimum for the sake of continuity",
+        "length_m": 5.49,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Shots of Chandranath’s father dusting traps, saucers etc.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Close up of Bhabhi and Jankidas in the song 'Sooho ji, sooho ji'",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Uski Kaha Tha",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "producer": "Bimal Roy Productions, Mohan Studio, Andheri, Bombay 58",
+    "cert_no": "31599",
+    "cert_date": "30-12-60",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Nandu’s entry before dropping into trench",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogues between Kamli, Parida and Nandu",
+        "length_m": 21.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of Kamli at Ghat and silent shot before song Rim Jhim",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VII",
+        "description": "Shots of Nandu, Kamli and Beela",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Nandu and a soldier taking oath",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "Shots of Nandu and Vazira, Vazir offering water to Nandu which he refuses",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Scene showing Nandu, Ramsingh, Japanese soldiers firing and shots of plane, shots of Nandu wounded and Ramsingh bending over him",
+        "length_m": 18.89
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Shots of Nandu and Ramsingh, Ramsingh and soldier firing from behind a stone. Shots of Nandu entering and moving",
+        "length_m": 6.99
+      },
+      {
+        "kind": "replacement",
+        "reel": "ReA V",
+        "description": "Song No. 2 'machalti arzoo . . . . ' shifted before sickness of Paro which was during the sickness."
+      }
+    ]
+  },
+  {
+    "film_title": "Kittur Chennamma",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35 mm.",
+    "producer": "Padmini Pictures, 16, Balakrishna Road, Mylapore, Madras 4",
+    "cert_no": "31228",
+    "cert_date": "24-2-01",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete the statement of the Rajaguru with reference to Tippu Sultan that a brave enemy may be met by bravery, but a deceitful person must be deceived",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red 3",
+        "description": "Reduce the scene where Rudramma is told about the proposed second marriage of the Raja deleting justifications and her own wholehearted consent",
+        "length_m": 9.45,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 5",
+        "description": "Delete the reference to Kala as patradavalu",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the sentence of Mailappa, that the country was ruined by this kind of assistance to Muslims and Mahantawa saying that it was against Dharraa and Achara",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 9",
+        "description": "Delete Sivalinga’s reference to his hunger, upto and including the library shot of 2 birds with outfield dialogue",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Voluntary deletion of 20 ft. from Red No. 13",
+        "length_m": 6.1
+      }
+    ]
+  }
+]

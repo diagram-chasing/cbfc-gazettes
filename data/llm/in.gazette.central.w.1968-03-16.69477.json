@@ -1,0 +1,533 @@
+[
+  {
+    "film_title": "Kaka Mala Wachva",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "G. Chougule, Bombay",
+    "cert_no": "50227",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the entire naval dance scene.",
+        "length_m": 15.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Deleted a shot in the twist dance where the boy moves backwards and forwards near Nayana, replaced with approved shots.",
+        "length_m": 1.98,
+        "length_retained_m": 1.98
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Deleted a scene in Bharat Natyam with half-clad South Indian dancers with Nayana, replaced with approved shots.",
+        "length_m": 8.38,
+        "length_retained_m": 8.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted specific italic words from the song beginning with 'Ruz karoli'.",
+        "length_m": 6.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted a shot of a college boy peeping through the keyhole when Naina is changing her clothes in the artist's room.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted specific italic words addressed by Dinkar to college students.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted specific italic words spoken by Dinkar.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced a shot where Dinkar hands over Nanda to Kamala, suggesting their kissing.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted reference to College Girls Hostel suggesting outsiders are freely permitted to see inmates, replaced with approved shots.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted specific italic words from dialogue where Nayana says 'Tumhi mala madhyaraatri bolva', replaced with approved word.",
+        "length_m": 0.45,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted specific italic words from dialogue where Dinkar says 'Bai aahe ka Buwa te lagna kelyavar kolel', replaced with approved words.",
+        "length_m": 0.91,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted specific italic words from dialogue where Dinkar says 'Madhya raatri sudhha', replaced with approved words.",
+        "length_m": 0.43,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted specific italic words from dialogue where Room-partner of Nayana says 'Meet you again!', replaced with approved words.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted specific italic words from dialogue 'Legna shivaay konacha kaahi adat nahi'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "Deleted specific italic words from dialogue where Dinkar says 'Tasa agdi kora aahc', replaced with approved word.",
+        "length_m": 0.08,
+        "length_retained_m": 0.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Deleted specific italic words from dialogue where Kaka says 'Fadka gundalalyasarakha dista', replaced with approved word.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Deleted specific italic words from dialogue where Nayana says 'Mala ki nahı rahaoat nahi', replaced with approved word.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Witness Killed",
+    "languages": [
+      "English"
+    ],
+    "format": "Tohoscope",
+    "producer": "Toho Company Ltd., Japan",
+    "cert_no": "50230",
+    "endorsement": "U",
+    "original_length_m": 86.87,
+    "final_length_m": 79.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted shots showing prominently hard blows and kicks in the fight.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted a shot showing repeated hard slapping.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted captions 'Burning with passion and lust' and 'A show down between the law and the lawless'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted a shot showing the bleeding face of the truck driver killed at close range.",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Wahun Ke Log",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "N. A. Ansari, Bundelkhand Films, 12/A, Evergreen Building, 3rd Road, Khar, Bombay-52",
+    "cert_no": "50246",
+    "endorsement": "U",
+    "original_length_m": 3996.54,
+    "final_length_m": 3996.24,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Deleted indecorous movements and indecent views of the dancer in the picturization of the song beginning with 'Zindagi ka nasha....', replaced with approved shots.",
+        "length_m": 1.15,
+        "length_retained_m": 1.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted the word 'Comarade' after the word 'Congratulations' (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted 'Tha' from the word 'Tharpa' wherever it occurs (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduced close-range shooting by Anil Chakravarti of a man in Khakhidre.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Anita",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Col.",
+    "producer": "Raj Khosla Films, Bombay-50",
+    "cert_no": "50248",
+    "endorsement": "U",
+    "original_length_m": 3975.97,
+    "final_length_m": 3930.1,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced shots showing the painting of Anita with her barest minimum busts to the barest minimum.",
+        "length_m": 11.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted shots showing the painting of Anita with her barest minimum busts.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted the words 'Von Ek jungli bel thi jo bhi karib tha ise lecpat gai hogi'.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV & V",
+        "description": "Reduced check to check dancing and deleted the words 'Chalo mero kamaicinan'.",
+        "length_m": 20.73,
+        "length_retained_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the words 'Shadi sc pahele maa bananewali thi....' as spoken by father about Anita.",
+        "length_m": 14.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced the appearances of the ghosts.",
+        "length_m": 2.28,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Deleted indecorous movements of the busts by the dancers and the shot when they bend backwards with the bust emphasized during the dance accompanying the song 'Hai nazar ka ishara samaljaiye', replaced with approved shots.",
+        "length_m": 5.49,
+        "length_retained_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduced shots showing submerging of Bela in the bath-tub by Anil to minimum.",
+        "length_m": 6.71,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "The Agony & The Ecstasy",
+    "languages": [
+      "English"
+    ],
+    "format": "Todd AO",
+    "producer": "20th Century Fox Corp., U.S.A.",
+    "endorsement": "U",
+    "original_length_m": 4628.69,
+    "final_length_m": 4620.19,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted shot of a man's bloodstained face, after he has been hit by a sword.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduced the sequence in the harlot's house by deleting all shots after the woman has said that they will never find Michelangelo in a house like hers.",
+        "length_m": 6.6,
+        "length_retained_m": 18.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted the sentence said by Contessina 'The contract called for children'.",
+        "length_m": 1.4
+      }
+    ]
+  },
+  {
+    "film_title": "Sant Wahate Krishna Mai",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "M. G. Pathak, Poona-4",
+    "cert_no": "50250",
+    "endorsement": "U",
+    "original_length_m": 104.85,
+    "final_length_m": 101.19,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the sound of scream after the gun shot (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduced the scene in which Jagirdar man-handles a woman, keeping only frames with the name of the star.",
+        "length_m": 3.66,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted the caption 'Jeev ghene prasang' (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted the words 'I will fine out who the Fakir was' when the old man is digging (Sound only).",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Witness Killed",
+    "languages": [
+      "English"
+    ],
+    "format": "Tohoscope",
+    "producer": "Toho Company Ltd., Japan",
+    "cert_no": "2020",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the italics words from the dialogue of Keith addressed to Sally: 'Well, that Australian girl s living there, and that tall bitch with thcwet brother'.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the italics word from the dialogue of Keith addressed to Sally: 'You know the odd thing is , I don t want to go bed with you'.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the following dialogue of Sally addressed to Keith: 'Thank , I ll see my doctor about night starvation . Is this why I m listless and unattractive to men'.",
+        "length_m": 2.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the italic words from the dialogue of Sally addressed to Keith: 'You didn t want to go to bed with me'.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted the italic word from the dialogue of Pridny addressed to Marion: 'Bloody Doctors make me laugh'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted the italic words from the dialogue of Dee addressed to Emilio: 'That little swine. He must have stolen it.'",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the following dialogue between Keith and Sally: 'Hey, you know last night,when I said I didn t want to slecp with you ? ... Well, that s a silly thing, I mean you , . . . I mean you , . . . . . . . . . . . you tell a girl you do and you very likely get your face slapped . You tell her you don t, and she thinks you re a right charley , ... I mean, surely every girlwants you to wantto , even if she doesn t want to . At least , that s what I think , ... I think you think too much .'",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the italic words from the dialogue of Keith addressed to Sally: 'I took somo pictures once, you know, of some birds just after they had made love.'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the word Bloody from the dialogue of Hunger-on addressed to Angela.",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the italic words from the dialogue of Prinsy addressed to Marion: 'It would have solved everything. The abortion -- everything . . .,'.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the italic words from the dialogue of Marion addressed to Prinny: 'Don t worry about the abortion'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the words from the dialogue of Prinny addressed to Marion: 'Let mo in , you bitch'.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the words from the dialogue of Keith addressed to Shally: '... I know I m a Bloody fool. There s plenty of time and I m going to spoil cverything . But Imust go to bed with you .'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the following dialogue of Keith addressed to Sally: 'Sex is like a drug and I can t kick that easily'.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted the word from the dialogue of Keith addressed to Sally: 'They fly away in the winter -- It s too Bloody cold here'.",
+        "length_m": 0.38
+      }
+    ]
+  },
+  {
+    "film_title": "The Pleasure Girls",
+    "languages": [
+      "English"
+    ],
+    "producer": "Compton International Films Ltd., U.K.",
+    "cert_no": "2021",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the italics words from the following dialogue of Keith addressed to Sally: 'Well, that Australian girl s living there, and that tall bitch with thcwet brother'.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the italics word from the following dialogue of Keith addressed to Sally: 'You know the odd thing is , I don t want to go bed with you'.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the following dialogue of Sally addressed to Keith: 'Thank , I ll see my doctor about night starvation . Is this why I m listless and unattractive to men'.",
+        "length_m": 2.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted the italic words from the following dialogue of Sally addressed to Keith: 'You didn t want to go to bed with me'.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted the italic word from the following dialogue of Pridny addressed to Marion: 'Bloody Doctors make me laugh'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted the italic words from the following dialogue of Dee addressed to Emilio: 'That little swine. He must have stolen it.'",
+        "length_m": 0.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the following dialogue between Keith and Sally: 'Hey, you know last night,when I said I didn t want to slecp with you ? Sally : Yes ? Keith : Well, I do. Of course, I do . Sally : Do you ? Keith : Well, that s a silly thing, I mean you , . . . I mean you , . . . . . . . . . . . you tell a girl you do and you very likely get your face slapped . You tell her you don t, and she thinks you re a right charley , Sally : I don t think you re a charley. Keith : I mean , surely every girlwants you to wantto , even if she doesn t want to . At least , that s what I think , Sally : I think you think too much .'",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the italic words from the following dialogue of Keith addressed to Sally: 'I took somo pictures once, you know, of some birds just after they had made love.'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the word Bloody from the dialogue of Hunger-on addressed to Angela.",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the italic words from the following dialogue of Prinsy addressed to Marion: 'It would have solved everything. The abortion -- everything . . .,'.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted the italic words from the following dialogue of Marion addressed to Prinny: 'Don t worry about the abortion'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the words from the following dialogue of Prinny addressed to Marion: 'Let mo in , you bitch'.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the following dialogue of Keith addressed to Sally: '... I know I m a Bloody fool. There s plenty of time and I m going to spoil cverything . But Imust go to bed with you .'.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the following dialogue of Keith addressed to Sally: 'Sex is like a drug and I can t kick that easily'.",
+        "length_m": 1.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted the word from the following dialogue of Keith addressed to Sally: 'They fly away in the winter -- It s too Bloody cold here'.",
+        "length_m": 0.38
+      }
+    ]
+  }
+]

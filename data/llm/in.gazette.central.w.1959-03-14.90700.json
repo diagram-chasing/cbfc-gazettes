@@ -1,0 +1,410 @@
+[
+  {
+    "film_title": "Milan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Gulshan Lal Bahl, N. C. Films, Modern Studios, Kurla Road, Andheri, Bombay",
+    "cert_no": "26127",
+    "cert_date": "30-12-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots where Raju is dragged by Munshi",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots where Raju is beaten by Munshi with a stick",
+        "length_m": 0.0021336
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably shots where Raju is beaten up by Munshi",
+        "length_m": 0.0057912,
+        "length_retained_m": 0.0054864
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Considerably Raju crying at the foot of the idol, deleting whole where Raju strikes his head at the foot of the idol",
+        "length_m": 0.0054864,
+        "length_retained_m": 0.0054864
+      }
+    ]
+  },
+  {
+    "film_title": "Princesa Manli",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R. B. Irani, Novelty Art, 244, Famous Cine Building, Laxmi, Bombay 11",
+    "cert_no": "26130",
+    "cert_date": "30-12-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shot of Sirdar's study being pierced with a sword which is sticking in it",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Considerably lighting with weapons wherever it occurs",
+        "length_m": 0.009144,
+        "length_retained_m": 0.010668
+      }
+    ]
+  },
+  {
+    "film_title": "Chalti Purzi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Vimal Kumar & Co. Private Ltd. A-38, Tarabaug Estate, Bombay 4",
+    "cert_no": "26131",
+    "cert_date": "30-12-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Vazir is pressed under nailed stone slab",
+        "length_m": 0.0042672
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "In song No. 1, the words 'Bahon ku baar lai' and the lines 'Nolu seengar lai', 'Aa dil po var karle', 'Ankhen ko olar karle'",
+        "length_m": 0.004572
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "In song No. 2, the line 'Meri Juwuni toro bina bharti hai thhandi anhon'",
+        "length_m": 0.0033528
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "To a flash shots where the Prince drags the Raj Kumari from the huran and holds her in his arm",
+        "length_m": 0.0033528,
+        "length_retained_m": 0.0006096
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Voluntary deletion",
+        "length_m": 0.00762
+      }
+    ]
+  },
+  {
+    "film_title": "God s Littlo Acre",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sidney Harnon",
+    "cert_no": "26146",
+    "cert_date": "2-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of a woman's legs being prominently shown and her breasts partially exposed",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of woman in semi nudity in a bath tub with a man nearby",
+        "length_m": 0.006096
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of a man fondling and squeezing woman's thighs while clasping her",
+        "length_m": 0.001524
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of a man kissing a woman passionately while she is coming down the stairs",
+        "length_m": 0.00073152
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion of shots of Crivelda and Will seep kissing",
+        "length_m": 0.00073152
+      }
+    ]
+  },
+  {
+    "film_title": "Minister",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jahangir Productions, 224, Famous Cine Building, Mahalaxmi, Bombay 11",
+    "cert_no": "26148",
+    "cert_date": "2-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots where Rekha is lifted up in arms by a man and is whirled round during the dance",
+        "length_m": 0.0039624
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Remarks of the Judge exerting pressure on Rekha to give evidence against her husband",
+        "length_m": 0.0085344
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots and dialogues where the Minister requests permission to interfere, is allowed to do so, and is shown to exert pressure on his daughter-in-law to tender evidence against her husband",
+        "length_m": 0.0469392
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Voluntary deletion",
+        "length_m": 0.0051816
+      }
+    ]
+  },
+  {
+    "film_title": "My Gun Ib Quick",
+    "languages": [
+      "English"
+    ],
+    "producer": "Parklane Pictures Inc.",
+    "cert_no": "26149",
+    "cert_date": "3-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Nancy and Mike kissing and embracing on couch",
+        "length_m": 0.0025908
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Maria Zipping her costume down",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Maria removing her skirt and tossing it",
+        "length_m": 0.0012192
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of girl dancer removing her clothes as she dances",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Fighting with guns",
+        "length_m": 0.0013716,
+        "length_retained_m": 0.0024384
+      }
+    ]
+  },
+  {
+    "film_title": "Anar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "L. B. Lachman, L. B. Films, Central Studios, Tardeo, Bombay 7",
+    "cert_no": "26153",
+    "cert_date": "5-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Montage shot of Arti in witness box when she appears again after she has given evidence incriminating herself",
+        "length_m": 0.0027432
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Rajkumari's comment on oath administered to him in the court",
+        "length_m": 0.0094488
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Voluntary deletion",
+        "length_m": 0.01752576
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Voluntary deletion",
+        "length_m": 0.06522912
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Voluntary deletion",
+        "length_m": 0.0115824
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Voluntary deletion",
+        "length_m": 0.027432
+      }
+    ]
+  },
+  {
+    "film_title": "The Decks Ran Red",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd. Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "26163",
+    "cert_date": "7-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of Mahia appearing in a low-cut dress revealing her bust, when she comes and serves soup to Rumill and their dialogue",
+        "length_m": 0.0036576
+      }
+    ]
+  },
+  {
+    "film_title": "Do Bohuen",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Brij Kala Mandir, Ranjit Studios, Main Road, Dadur, Bombay 14",
+    "cert_no": "26713",
+    "cert_date": "14-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of close physical intimacy between the Dancer and Anokheylal and also shots where he passes money to the Dancer",
+        "length_m": 0.0268224
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Dancing girl falls on Anokheylal's lap",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Anokheylal touches Malti's face",
+        "length_m": 0.0012192
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "To a flash shots where Ankhoylal carries Rekha in his arms",
+        "length_m": 0.001524,
+        "length_retained_m": 0.0006096
+      }
+    ]
+  },
+  {
+    "film_title": "Shararat (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Roshni Films, 309-B, Famous Cine Building, Mahalaxmi, Bombay 11",
+    "cert_no": "26717",
+    "cert_date": "10-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Dialogue between 'Chacha And Chachi'",
+        "length_m": 0.0073152
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "By one-third shots where funeral pyre of Chandau is shown",
+        "length_m": 0.0298688
+      }
+    ]
+  },
+  {
+    "film_title": "Mardi Gras",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jerry Wald Production, Inc.",
+    "cert_no": "26719",
+    "cert_date": "10-1-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From scene of Michelle dressing, near views in which her bust, thighs and underwear are revealed prominently",
+        "length_m": 0.024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Striptease act of Torchy is also amorous movements of her bust while she is receding from camera",
+        "length_m": 0.0344448
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of Edie in which her thighs and underwear are seen exposed prominently when her skirt whirls up in dance",
+        "length_m": 0.00097536
+      }
+    ]
+  },
+  {
+    "film_title": "Haria",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Children's Film Society, Sapru House, New Delhi",
+    "cert_no": "26128",
+    "cert_date": "29-12-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted",
+        "length_m": 0.0176784
+      },
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Added",
+        "length_m": 0.0493776
+      }
+    ]
+  }
+]

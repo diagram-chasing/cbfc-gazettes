@@ -1,0 +1,683 @@
+[
+  {
+    "film_title": "MAYUR",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "FILM YUG PVT. LTD.",
+    "cert_no": "103346",
+    "cert_date": "7-2-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete dialogue 'PHADKE RAKHDUNGA'",
+        "length_m": 3.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete view of Tiger branding the girl on the leg with cigarette butt",
+        "length_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete all obscene dialogues of the Tiger with reference to women",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "III,VI,VII,VIII,X,XII,XIII,XVIII",
+        "description": "Drastically tone down the impact of sequence showing fights, violence, crimes, torture, electrocution etc.",
+        "length_m": 109.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "III,V,VI,VII,X,XII,XIII,XIV,XV & XVI",
+        "description": "Various shots",
+        "length_m": 134.8
+      }
+    ]
+  },
+  {
+    "film_title": "DO MADARI",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "BHAKRI BIOS. LUD.",
+    "cert_no": "103350",
+    "cert_date": "8-2-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete all visuals of Mundri s bare body while undressing and the falling or removal of clothes",
+        "length_m": 6.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the entire sequence of the Bhambiri Pahalwan from appearance of the snake in his clothing to his away from the scene",
+        "length_m": 7.02
+      }
+    ]
+  },
+  {
+    "film_title": "YE ISHA NAHIN ASAN",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "VINOD DOSHI, V.R. PICTURES",
+    "cert_no": "103348",
+    "cert_date": "9-2-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete library scene between Rishi & Asrani",
+        "length_m": 42.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Savaiyan scene between Lila Mishra-Padmini-Rishi",
+        "length_m": 101.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete Introduction of Lila Mishra Lila Mishra-Padmini- Rishi",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Intermission silent",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Song MERA KHAYALON MEIN RAH GUZAR SE",
+        "length_m": 31.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Song in the end all the titles in the end",
+        "length_m": 38.1
+      }
+    ]
+  },
+  {
+    "film_title": "THE GIRL FROM INDIA",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "GIRIDHARILAL D. SEKHARIA C/O RAMNORD KUMAR",
+    "cert_no": "103920",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the prostitution sequence with Woman for Sale",
+        "length_m": 5.94
+      }
+    ]
+  },
+  {
+    "film_title": "THE HIDDEN ENEMY",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "B.D. GARGA",
+    "cert_no": "103921",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "IAEC - THE BEST IS YET TO BE",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "T.A.E.G. (BOMBAY) LTD.",
+    "cert_no": "103922",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "SITHI",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "PRERNA",
+    "cert_no": "103923",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "HAPPY MARRIED LIFE",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "H.H. JAGWANI, ADVERTISING FILMS",
+    "cert_no": "103924",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "YASH KEWAL KALRA",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "G.P. PHADKE, YASHU KEWAL KALRA, PURUSH FILMS",
+    "cert_no": "103925",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "MIDYAT CAR MANIAC",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. LTD.",
+    "cert_no": "103926",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "DOCTOR PAINLESS",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "DO.",
+    "cert_no": "103927",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "DOWRY - A SOCIAL EVIL",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi",
+      "Gujarati",
+      "Sin.",
+      "Tam.",
+      "Telugu",
+      "Oriya",
+      "Kannada",
+      "Malyalam",
+      "Urdu",
+      "Ass.",
+      "Pun."
+    ],
+    "format": "35mm",
+    "producer": "FILMS DIVISION, GOVT. OF INDIA",
+    "cert_no": "103928",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "AN EFFORT (PRAYAAN)",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi",
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "FILMS DIVISION, GOVT. OF INDIA",
+    "cert_no": "103929",
+    "cert_date": "10-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "AROUND THE SOVIET UNION NO. 180",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "CULT. DEPT. OF THE USSR CONS. GEN.",
+    "cert_no": "103930",
+    "cert_date": "11-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "THE FAR EAST NEWS REEL",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "CULTURAL DEPARTMENT OF THE USSR CONSULATE GENERAL",
+    "cert_no": "101546",
+    "cert_date": "14-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "MOLSHIA KISAN",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "ALL INDIA KISAN SABHA",
+    "cert_no": "101547",
+    "cert_date": "14-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "KAPLA DADI",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "TARKESHWAR CHITRAM",
+    "cert_no": "101550",
+    "cert_date": "26-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "TRAILER OF KAPLA DADI",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "DO.",
+    "cert_no": "101551",
+    "cert_date": "25-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "DIVINE MUN RAKHIYE",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "GOODWIN PICTURES",
+    "cert_no": "10373",
+    "cert_date": "25-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "ASPECTS OF BEHAVIOUR",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "TATA MCGRAW HILL PUBLISHING CO.",
+    "cert_no": "85142",
+    "cert_date": "9-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "KODALU KAVALI",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "GOWRI ART CREATIONS, MADRAS",
+    "cert_no": "85165",
+    "cert_date": "15-2-83",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce the visuals of the old man leering at Asha to once only in the hotel",
+        "length_m": 3.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the word \"Gunta\" in the dialogue of Edukondalu whorover it occurs",
+        "length_m": 3.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the visuals of the cleavage of the lady (Ramaprabha) while chopping wood and the man looks at her hungrily",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the words Nee amma and Neo abba in the lyrics",
+        "length_m": 2.45
+      }
+    ]
+  },
+  {
+    "film_title": "THALAI MAHAN",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "R.V. CREATIONS, MADRAS",
+    "cert_no": "4513",
+    "cert_date": "25-2-83",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete dialogue of piwnbroker to his wife \"Unakku Kattina thali kooda ingu orathuan adaguvachathuthan\"",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete dialogue of Sekhar \"Nallavearra\"",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted visuals of groin klcks, and stomach punches in the fight",
+        "length_m": 3.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete visuals of Raja bitting Rani in close-up",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue of Jagaamma to short man : (@) Nee Kooda poimutty paru . . . . . . . . (b) romba kuthikathoda , Iddupila isikara Arabledum Parunthu poldum . (c) Delete the dialogue of Rani to Jagamma \"Kavanthu eduthupittal\" \"Kay . vipittan \" . . . . . .",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the dialogue of Policeman Ethukkunt pentalkazhatu",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete dialogue of Sekhar \"Nco emmalc erina \"",
+        "length_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the dialogue of Lakshmiand Sekar in their houso : Sekar : \"Ava erala . . . . . . namothan \" . . . . . Lakshmi : \" Neeyaya ? \" . . . .",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the dialogue of Sekar to Priya \"Muthalloothividarathu \"",
+        "length_m": 1.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce to a suggestion the visuals of Postman stammering",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete mid-close of dancer Shanking her breasts against the lyric artha rathri. Delete shot of male dancer lifting Pavunu s leg at the end of song sequence",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all visuals of struggle of Gowri and Amar inclose, mid close and long shots specially in bed",
+        "length_m": 7.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all visuals of Amar burning and writing in pain",
+        "length_m": 3.72
+      }
+    ]
+  },
+  {
+    "film_title": "IDHU ENGA NADU",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "EASWARI ART PICTURES, MADRAS",
+    "cert_no": "4517",
+    "cert_date": "25-2-83",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Tirupathi's dialogue where he refers to Brokers and Assembly",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the words \"Padu Munda\"",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "SABISH VADINA",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "SRIKANTH PRODUCTIONS, MADRAS",
+    "cert_no": "84863",
+    "cert_date": "25-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "ASSERVATHAM",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "M/S SELVI ENTERPRISES, MADRAS",
+    "cert_no": "85186",
+    "cert_date": "26-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "DEEDAR-E-YAAR",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "COLUMBIA FILMS OF INDIA LTD.",
+    "cert_no": "103347",
+    "cert_date": "8-2-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Add comedy scene between Puttan, Sikandar and Dilshad from dialogue Aapne Changozi Khandan to Changezi Chuhe Bhaag Yahan Se",
+        "length_m": 71.34
+      },
+      {
+        "kind": "insertion",
+        "reel": "XV",
+        "description": "Add mid close of Akhtar Nawaz sound of laughter of his shadow, From dialogue of Akhtar Nawaz, \"Eese Faisle Ka Anjaam\", to Akhtar Nawaz's dialogue 'Anjaam ?'",
+        "length_m": 10.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "From song of Firdaus, wordings : Boot ko Khuda Manto Hain \" to Pehlo Anjaam the Ab Jante Hain \"",
+        "length_m": 33.65
+      }
+    ]
+  },
+  {
+    "film_title": "THE INTRA UTERINE DEVICE INSERTION IS REMOVAL OF INTERAUTERINE DEVICE",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "FILMS DIVISION, GOVT. OF INDIA",
+    "cert_no": "4432",
+    "cert_date": "29-3-1979",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "FUELLING A NATION",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "TATA MCGRAW HILL PUBLISHING CO. LTD.",
+    "cert_no": "102393",
+    "cert_date": "13-9-82",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "LET WIDIA WORK FOR YOU",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "N.E. & I.F. LTD.",
+    "cert_no": "103952",
+    "cert_date": "15-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "8 COMPOSER SHOSTAKOVICH",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "FILMS DIVISION, GOVT. OF INDIA",
+    "cert_no": "102948",
+    "cert_date": "21-10-1982",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "THE RIGHTS & DUTIES OF SOVIET CITIZENS",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "CULT. DEPT. OF THE USSR CONS. GEN.",
+    "cert_no": "102920",
+    "cert_date": "18-10-82",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "BHINGA HAIR OIL",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "FILMS DIVISION, GOVT. OF INDIA",
+    "cert_no": "94725",
+    "cert_date": "26-11-81",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "GNP 101 AUTOPAINTS",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "N.E. & I.F. LTD.",
+    "cert_no": "103950",
+    "cert_date": "13-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "JATINA BIRDS",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "GIRISH CHOUDHURY",
+    "cert_no": "101548",
+    "cert_date": "21-2-83",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "SIDDHIMA OF GUJARAT",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "S.K. CHATTOPADHYAY",
+    "cert_no": "101549",
+    "cert_date": "21-2-83",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

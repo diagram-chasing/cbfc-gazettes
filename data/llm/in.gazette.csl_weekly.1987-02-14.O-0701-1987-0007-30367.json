@@ -1,0 +1,316 @@
+[
+  {
+    "film_title": "Verna Valamna",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Firoza Nadiadwala",
+    "cert_no": "B /F - 1675",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduce by 50 to 60% scene of dragging of Amra by men on the horse.",
+        "length_m": 7.62,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "insertion",
+        "description": "Establish in words or visuals that Madhav's father Dovat is convicted or surrenders to the Police authorities for killing his son."
+      }
+    ]
+  },
+  {
+    "film_title": "Dhat Tere Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B /F - 109252",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Trailer of Dhat Tere Ki"
+      }
+    ]
+  },
+  {
+    "film_title": "Bhulekha",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "producer": "Jaura Films",
+    "cert_no": "B /F -1645",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the following dialogue between boy and girl: Ambanu Kab Bachaogi Chonch Mari Janiyo."
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the dialogue: ...Men ki phada . Na tu agge lagdie te neugge lagne dendie, as spoken by Rangila to the girl."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the wordings of the song beginning with the words Aaja Chupja Chardariya Yara Ke Amiya To Ab Pag Gaye, delete following words: (a) Chupja (Replaced with Tak Ju) (b) Ke Amiya To Ab Pag Gaye (Replaced with Bauga Vich Pag Gaye) (c) Aaja Chupja and its repetition wherever they occur in the song. (Replaced with the word Aaja Tak Ja)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce the fight between Moti and Pratap and particularly delete the banging of Moti's hand against the tree."
+      }
+    ]
+  },
+  {
+    "film_title": "Paakhandoe",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "The Far Production Co.",
+    "cert_no": "B /F -1656",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce by about 30 to 40% visuals of the people smoking a pot."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce by about 30 to 40% beating of child by villains."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce by about 30 to 40% fight of Kishore with villains and also reduce views of burning houses."
+      }
+    ]
+  },
+  {
+    "film_title": "Haadsaa",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B /F -1716",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot of the girl lifting her frock in a song."
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the visual of Maratha's bare legs shown when Seth Ratan utters MARTHA MANG UTHAO."
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete close up shot of Asha kissing Jai at his neck."
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete close up shot of a girl at Yoga centre when only Panti and Buttucks are shown prominently on the screen."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce considerably molestation scene of Robby. And reduce considerably the fight sequence with the Baldy."
+      }
+    ]
+  },
+  {
+    "film_title": "Anney Anney",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Kalaivani, Madras",
+    "cert_no": "M / 17304",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the word Mayiru uttered by Krishnagiri."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the following dialogues between Krishnagiri and his wife: (a) Ippadiye irundha vayasana kalathile ellam marandhu poyidum. (b) Sexukku moonji mukkiyamillaima, manasu dhan. (c) Nooru exercise naan sollitharon."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the dialogue of Mahadevan Nce vayasukku varalai."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the dialogue of Pappu Manasu pakku pakkunu adikkudhu."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Vedu's dialogue drawerukku keezhe mudi vala rndhirukku parkaliya."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete dialogue between Vedu and Paaru in beauty parlour from Seekiram garambichu... up to Ellathaiyum kazhatti pottuduven."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete in Krishnagiri's dialogue Indha onbathai mattum vidamattingaraye."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the word thondi vadai in Krishnagiri's dialogue."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the song sequence, delete the indecent hand gestures of eunuchs against the lyric Aamaa yethukkanum neegan. (Replaced whole group of dancers in long shot)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete visuals of eunuchs directly participating in kabaddi."
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the dialogue of Mahadevan Eppavum neeyathan pannikkuve."
+      }
+    ]
+  },
+  {
+    "film_title": "Rangnal Maruvathillai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Vasan Productions, Madras",
+    "cert_no": "M / 17362",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Delete the visuals of Rajkumar placing his hands on Sheela's hips in close-up. (Replaced with close-shot of Rajkumar)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Sheela placing her hand on Rajkumar's hips. (Replaced close-shot of Rajkumar)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Sheela twisting her legs while lying on the floor. (Replaced with close-shot of Sheela's father)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the intercuts of man chasing and trying to molest Sheela before Rajkumar comes."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Rajkumar's face being pressed against Sheela's breasts during fight."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the intercuts of Red-shirt man trying to molest Sheela during the fight."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the intercut of Rajkumar kissing the girl."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the dialogue of Kapali Idhu veliyile thoriyadhu... (b) Velai seyyum."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue of Selvam Venga ishtam."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue of Selvam to Meena's father Sijai ketta solluvan."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In the rape scene, delete all visuals after Rajkumar pushes Radha on bed, retaining only gatekeeper closing the gate, once only, till Rajkumar asks Radha to get up from the bed."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the dialogue of Kapali Ennalaana udavi soyya oppavum thayara irukken."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visuals of Radha's action against the line Lossa noovittu poosu. (Replaced with close-shot of Rajkumar and Radha sitting)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visuals of Radha and Rajkumar rolling in imaginary sequence."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the visuals of Rajkumar pressing his face against Radha's breast against the lyrics Thamaralaagum."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the words of Radha's mother to Radha Unnaina asam pannuvadhukku alla."
+      }
+    ]
+  },
+  {
+    "film_title": "Yuddham",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "producer": "Ganesh Pictures, Madras",
+    "cert_no": "M / 17337",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the visual of the facial expression of Vinod's wife while she is being strangulated."
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce to 40% the sequence depicting the torture of Esthappan by focusing light on his face."
+      }
+    ]
+  }
+]

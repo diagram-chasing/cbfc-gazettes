@@ -1,0 +1,123 @@
+[
+  {
+    "film_title": "Pukar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Satnan Singh Arora. With triangle mark",
+    "cert_no": "B/F-184",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Patel's murder in the bathroom should be reduced to a suggestion.",
+        "length_m": 6.3,
+        "length_retained_m": 5.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Sex act between Rajan and Padma Khanna should be reduced to a suggestion.",
+        "length_m": 2.0,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Torture of Shivani on the electric chair should be reduced.",
+        "length_m": 4.2,
+        "length_retained_m": 5.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV, XV & XVI",
+        "description": "Fight sequences should be reduced deleting hard hitting shots.",
+        "length_m": 114.3,
+        "length_retained_m": 47.9
+      }
+    ]
+  },
+  {
+    "film_title": "The Wrath of God",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope ) (35mm )",
+    "producer": "Ralph Nelson .",
+    "cert_no": "B/88479",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete reference to wine as holy water made by Ben."
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete Emit rubbing his front portion when he is trying to go to take clothes to cover his bare body."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete views of Ben lighting cigar from church."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete actual killing of the boy by ruffians."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete man cutting throat of another with knife."
+      }
+    ]
+  },
+  {
+    "film_title": "Whai Soya Balak Ni Suraksha",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "B/90118",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "From the dream sequence, reduce the scene where a doctor examines one of the legs of the female child when her private part is prominently shown. The first part may be retained. The remaining shots may be deleted.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Portion of the film where the female child's private part is prominently shown during the doctor's examination is replaced.",
+        "length_m": 10.06
+      }
+    ]
+  },
+  {
+    "film_title": "Ranja Ikk Tey Heerau Do",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sardar Nanak Singh & Shri Mohan Singh Bagga",
+    "cert_no": "B/F-204",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the double meaning dialogue spoken by I. S. Johar regarding the trousers of the girl."
+      }
+    ]
+  }
+]

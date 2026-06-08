@@ -1,0 +1,466 @@
+[
+  {
+    "film_title": "Yazmin",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Muslual Pictures Ltd., 30 Govt. Gate Road, Parol, Bombay 12.",
+    "cert_no": "12388",
+    "cert_date": "7-3-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shot of Jamar and Yumlo starting to run towards Shaikh's house.",
+        "length_m": 0.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Scene between Shaikh, Zubeda and Quid and fight in the Cafe.",
+        "length_m": 1.48
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Shots 1, 2, 3 & 21 of Reel XIII showing Yasmin from Abud's hand have been shifted to Reel XI and shot No. 39 to 47 major.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Shots 39 to 47 of Reel XIII showing Ahmed and Jamulla only Yasmin's faithfulness have been shifted to Reel XIII.",
+        "length_m": 0.25
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI, XII",
+        "description": "Scenes of likh proposing Ahmed's marriage with Indira, showing Ahmed's reactions and departure.",
+        "length_m": 0.14
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Scenes of Si sikku getting annoyed over his son's refusal to marry and dying to punish him.",
+        "length_m": 0.53
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Re-enacted fight scene between Ahmed and Jaffar in the Cafe.",
+        "length_m": 0.11
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Fight between Ahmed and Jaffar's party and between Ahmed and his father.",
+        "length_m": 2.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Fight between Ahmad and Jiffar's party in the cafe, omitting the hitting with sword on the man lying on the floor, the kicking of a man by the hero in front and of obvious beating.",
+        "length_m": 0.21,
+        "length_retained_m": 1.07
+      }
+    ]
+  },
+  {
+    "film_title": "Chirag-o-Chin",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kala Kandra, 68 Marzban Road, Andheri, Bombay.",
+    "cert_no": "12389",
+    "cert_date": "7-3-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "In the dance accompanying the first song, prominent views of the bust of the girl emphasized with circular embroidery on the dress at the bust without any covering.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Replaced with approved shots.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the fight between Jadugar and Alauddin, the kicks.",
+        "length_m": 0.01
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Gaddhe'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Tori Hauern, ko Allauddin ko vagair nind nuhin nati' replaced with 'Chhoto lazur ne lera freb ki koomat ada kendi hal'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Bandar kya jaane adarakh ke juyaka' referring to Heron.",
+        "length_m": 0.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "V, VII, IX and XII",
+        "description": "View of the emphasized bust of Hugonna during the fight between Jlugar and Alauddin.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "V, VII, IX and XII",
+        "description": "Replaced with approved shots.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Lalla when Bhordi) is going to the Darbur.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Jahanara in her talk with Allauddin in his tent.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Replaced with approved shots.",
+        "length_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Hugonna in the song 'Mobabbat karko...', when she is singing the last 'Kabhi ankon men uakı yaad' with on, bust not properly covered by the upper garments.",
+        "length_m": 0.02
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Replaced with approved skytg.",
+        "length_m": 0.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "In the last fight reduce the actualklokk on the golulurudeleting the lmshing of human huada ,and thellfting and throwing of human bolnys. Theghotla which the dagger-point lo very close to the hero in his Aghtwith tho Vizier.",
+        "length_m": 0.1,
+        "length_retained_m": 0.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Drastically the dance of the girl in bluok transparont and thin l evealing ukirt hoforo tho emperor of soven 5999 and Sultan , omitting buttook awaylug, hip shablog and views of pointed bugt as 8LHO all ologo -apy ofthe thin blunok goorgotte skirt and when light 19 thrown on the game in distant shots.",
+        "length_m": 0.69
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Joru Ka Bhai\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mabakti Films, 1 E, Naaz Bldg., Lamington Road, Bombay 4.",
+    "cert_no": "12397",
+    "cert_date": "8-3-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot of the dancer with hands raised and with emphasized bust without any per covering or her black dream below at the breasts.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Outlaw Stallion",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Columbia Films of India Ltd., Lotus House, 39- A Marine Lines, Bombay.",
+    "cert_no": "12392",
+    "cert_date": "11-3-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Hagen shooting his collongoo.",
+        "length_m": 0.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Hagen hitting Doc with a gun.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "In the fight between Hagen and Doc, Hagan's kick. The final fight between Bagon and Doc must be considerably reduced, Thom this Agend well v Johar Aghts in thopiotaro, oloso viewoofberdknooks and punches togethor with their booking boun.",
+        "length_m": 0.11,
+        "length_retained_m": 0.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "II AIV",
+        "description": "From the fight between the horses, hard kioko and bites.",
+        "length_m": 0.25,
+        "length_retained_m": 3.68
+      },
+      {
+        "kind": "reduction",
+        "description": "Martin violently hitting the white stallion with a low and a stunn.",
+        "length_m": 0.01,
+        "length_retained_m": 0.01
+      },
+      {
+        "kind": "reduction",
+        "description": "Martin beive throttlucl by tho horno, twigting the 10pc round his throat, doloting shinta of the man s faco as hoia tbruttled.",
+        "length_m": 0.06,
+        "length_retained_m": 0.22
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Drumbeat\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Wismer Brus. First National Pictures Inc, 42 Qureu s Rowd, Bombay.",
+    "cert_no": "11771",
+    "cert_date": "19-3-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words 'You take me for your woman tonight'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "All kising s0400.",
+        "length_m": 0.01
+      },
+      {
+        "kind": "reduction",
+        "description": "Considerably the Aght towards the end ofthe trailor.",
+        "length_m": 0.06,
+        "length_retained_m": 0.52
+      }
+    ]
+  },
+  {
+    "film_title": "Bhagwat Mabima",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filuistan Ltd., 11/13 Botawala Bldg., Horniman Cirulo, Bumbay.",
+    "cert_no": "332",
+    "cert_date": "8-3-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Views of the Brahmin with bloated stomach where his navolis seen, reference to the Brahmin who eats too much and who is later on carried on the cot.",
+        "length_m": 0.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "P, PI",
+        "description": "Views of a girl in black oholiwith strip of cloth pressed between busts and the two busts emphasized and outstandingly prominent on the two sides of the cloth. Views of emphasized busts of Champit when she is being spoken about by the Ashramite regarding punishment.",
+        "length_m": 0.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "P, PI",
+        "description": "Replaced with approved shot.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "P, PI",
+        "description": "The words (i) 'Marentanon man doodh nahia Aste hai' (ii) 'Morosharoor ko aparadhi Laneye yaya haliii' (iii) 'Mori laaj loot li hai?'.",
+        "length_m": 0.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The word 'Vybhlohanani'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Views of artificial breasts of Shankar, dressed as a woman, heaving and being moved. Also the words of Dhandhukari before he meets Shankar dressed as girl 'Abmeributi'. Dialogues for no one to one of the girls being known as 'Kunwari Konya ad Dhundhukarlaglag that hoia aldo 'Kunwar'.",
+        "length_m": 0.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX, X",
+        "description": "The last shot of the dancers sitting with Dhundhukari after the song. Also the line from song reading 'Jla isharon po . . daag Acuno per mohabbat ka paya'. The words Akadanatodekho nod 'Seona ubharehue'.",
+        "length_m": 0.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "The last shot of the dancers sitting with Dhundhukari after the song. Also the line from song reading 'Jla isharon po . . daag Acuno per mohabbat ka paya'. The words Akadanatodekho nod 'Seona ubharehue'.",
+        "length_m": 0.25,
+        "length_retained_m": 0.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Views of bhana emphasized busts of Kumol and Champala thogonnooln whloh Narad la addressing them and they are coplying to himaydin ohelators. Nardınd/or D 11 hukuriwi194 L800748with nooklaos.",
+        "length_m": 0.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Replaced with approved hoto.",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "All furonoon of Dhundhukor149ying to Naradthit Nuradhu1bour itinayin rol of planure and now he ha , comoto tho Louse of progtibutes.",
+        "length_m": 0.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "All ylowofthoonphuglwed busta of Champs and Kimininourbho burlado of Dhundhukari whllat atrungling him andin tho following soones of pooldng of Orgamontgandlatorwhen thohostappears.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Replaced with approved bots.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "The danong movemonts of a glelduring arti with tho vlow of thoono of hor pointed broaste prominontly Jabbing out as it to without covorlngrooon boroħoll at thobronats.",
+        "length_m": 0.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Replaced with approved hot.",
+        "length_m": 0.04
+      },
+      {
+        "kind": "reduction",
+        "description": "The trustlola bheoottago toa ushomittingshotoofhuudling of lempa by Dudhukeriafbor bho formortries to bio tholatber. Also dolotonninsort of tho AWDywiznu publinksofituberon.",
+        "length_m": 0.27,
+        "length_retained_m": 0.18
+      },
+      {
+        "kind": "replacement",
+        "description": "Insertofthe straggloinottago whon Obampa thinks of 10lytoron replaced with Approrod ahot.",
+        "length_m": 0.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "PLIT",
+        "description": "The cauzlinkonu of the motherdoleting the sotue ] bighteningofthe n00bo afterlo hanboon put round hor nook.",
+        "length_m": 0.01,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X [ [",
+        "description": "The 10740fNurdin patituto s bv1900 ) aridorably omitting hiy hiding below & shoot and in the form ofa pillowand bla being boaton by Dhun chukarl Muruly showtant dugtohla vanity hols0052000n fulinobanging Dhundhularl.",
+        "length_m": 0.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "X [ [",
+        "description": "Totalash Diandhukarlbolog stronglod.",
+        "length_m": 0.02,
+        "length_retained_m": 0.01
+      }
+    ]
+  },
+  {
+    "film_title": "Drumboat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Warner Bros. First National Pictures Inc, 42 Qureu s Rowd, Bombay.",
+    "cert_no": "11770",
+    "cert_date": "19-3-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I do 11",
+        "description": "Allzaid-close and ologe shots of Nanoy in the President droom whoto the purting of bosogli vielblo.",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "description": "The president are saying 'Theroron tonough white womon to go round'.",
+        "length_m": 0.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Ouptzia Jaoko Tyring Mjek a woman and saylag 'Why ? You isod woman and Msok araply'. No tıoks. I Amporisoblysabinlod with Mrs. Mook.",
+        "length_m": 0.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In this oongh 10 . 90 the shot of a woman with an arrow in hor ghost, also tho ditoot hit.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Tom anying to Jolany Yod nood women ' , 'Take me for your woman ' Takeme for yourwoman tonight' Tak , m .",
+        "length_m": 0.08
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII, IX & X",
+        "description": "All shooting andighting.",
+        "length_m": 0.58,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "BactXT",
+        "description": "The klowing of Johody and Nanay in the woods, kooping moroly the first kla.",
+        "length_m": 0.1,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Roola XV XVI",
+        "description": "The lust fight botwoon Ouptalo Jack and Johany.",
+        "length_m": 0.55,
+        "length_retained_m": 0.2
+      }
+    ]
+  }
+]

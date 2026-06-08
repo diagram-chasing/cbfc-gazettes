@@ -1,0 +1,582 @@
+[
+  {
+    "film_title": "Ghareha Zala Thoda",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Nav Chitra, 5, Vincent Square, Street No. 3, Dadar, Bombay 14",
+    "cert_no": "19646",
+    "cert_date": "26-2-57",
+    "endorsement": "U",
+    "original_length_m": 3962.55,
+    "final_length_m": 3826.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Chimanrao surreptitiously taking money out of Mora’s coat pocket, ending with Moru calling out “Appa”",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Chimanrao saying “Estate milalee kee the\n hava thevdha janankhana”",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Panstan alias “Gulbakavh”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sharad Productions, Nehru Road, Ville Parle, Bombay 24",
+    "cert_no": "19649",
+    "cert_date": "26-2-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Dialogue of Ustad: “Masjidse oothkar chala aaja liai”",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "The words “Kisi Masjidki kamai malum hoti hai”",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "The words “ Aur aap Masjidki rotiyon per saan zindgi guiar deua”",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Captain K whore",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Wadia Movietone, Zaveri Bldg., 130, Chamarbaug Road, Bombay 12",
+    "cert_no": "10031",
+    "cert_date": "28-2-37",
+    "endorsement": "U",
+    "original_length_m": 4392.14,
+    "final_length_m": 4370.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shota whole \"Dolly is shown lying in the lap of Senapati",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots where Kiran is lying in the lap of Kishoro and is otherwiso embracing him",
+        "length_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Front shots of Kiran. in close fitting OreeoheH",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of Kiran and Kishoro embracing",
+        "length_m": 9.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Shots of Senapati lifting Polly in his arms to the minimum required for purposes of continuity",
+        "length_m": 2.74,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "To a flash man dangling by rope round the totter",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Fighting considerably",
+        "length_m": 11.28
+      }
+    ]
+  },
+  {
+    "film_title": "Geisha Girl",
+    "languages": [
+      "English"
+    ],
+    "producer": "George Brekston And C. Kay Smith, G.R.A, U.S.A",
+    "cert_no": "19057",
+    "cert_date": "1-3-57",
+    "endorsement": "U",
+    "original_length_m": 2112.29,
+    "final_length_m": 2051.32,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words of Nikaidu — “You Americans did much for my countrymen and this is the way we repay you. May be I can make amends”",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of a Geisha girl removing her garments until only a bathing suit is left",
+        "length_m": 66.14
+      },
+      {
+        "kind": "reduction",
+        "description": "Considerably the hooho of hanging of Nikardo by rope from ceiling",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Geisha Girl”",
+    "languages": [
+      "English"
+    ],
+    "producer": "George Brokstone and C. Kay Smith, U.S.A",
+    "cert_no": "19658",
+    "cert_date": "1-3-57",
+    "endorsement": "U",
+    "original_length_m": 40.84,
+    "final_length_m": 39.01,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The two super-imposed titles which are likely to give a wrong impression that the film contains lot of sexy stuff. (Two titles “They are Different. They are Sensational” are deleted)",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "A Proposal",
+    "languages": [
+      "Chinese"
+    ],
+    "producer": "Peking Film Studio, China",
+    "cert_no": "19050",
+    "cert_date": "1-3-57",
+    "endorsement": "U",
+    "original_length_m": 2286.0,
+    "final_length_m": 2286.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The word “Bandits” when Kwei Lin refers to Kuomintang",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words “By the damned Kuomintang Bandits“",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The sentence — “In the course of fourty-nine days, you will become a Buddha”",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "China Today No. 11/55",
+    "languages": [
+      "English"
+    ],
+    "producer": "Central Newsreel and Documentary Film Studio, China",
+    "cert_no": "19600",
+    "cert_date": "1-3-57",
+    "endorsement": "U",
+    "original_length_m": 248.41,
+    "final_length_m": 247.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the scenes of Lugmen Cave Temples the words — “Which were stolen in 1935 by the American Alan Priest “",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "A Summer Romance",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Verhutilovak State Film. P'rha, Czechoslovakia",
+    "cert_no": "19000",
+    "cert_date": "4-3-57",
+    "endorsement": "U",
+    "original_length_m": 60.96,
+    "final_length_m": 45.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Considerably the shots of the lady taking out her clothes till she comes to her undergarment and spreads the blanket and omit the shots of men ogling and curiously looking at the lady in the action of taking out her garments and making signs and gestures to one another",
+        "length_m": 13.41
+      }
+    ]
+  },
+  {
+    "film_title": "The Opposite Sex",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer, U.S.A",
+    "cert_no": "609",
+    "cert_date": "4-3-67",
+    "endorsement": "A",
+    "original_length_m": 3318.5,
+    "final_length_m": 3078.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of legs exposed bare upto thighs, before and after the titles",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Oystal’s following dialogue: “When Steve does not like anything I wear, I take it off”",
+        "length_m": 2.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The words “ Horse” “Flesh” in the dialogue “Good judge of Horse Flesh”",
+        "length_m": 2.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably the scene where Buck kisses Kay in the office",
+        "length_m": 9.14,
+        "length_retained_m": 1.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "To a hush fight between Gloria and Sylvia",
+        "length_m": 25.91,
+        "length_retained_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Inteqam",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Nigur Pictures, Karachi, Pakistan",
+    "cert_no": "511",
+    "cert_date": "7-3-67",
+    "endorsement": "A",
+    "original_length_m": 3971.34,
+    "final_length_m": 3931.26,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the dialogue between the girl and the Seth the words “Aakhir tum ok m ml tike sith khuda waste ko nafrat",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From song No. 1, the lines “Aaj tero pehloo men koi aala hal to aane do” and “Rnal gujar jaane se pohle dilki pyas bujhano do”",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "the words “Garam aap ki tarah aur naram meri tarah” said by Kishon",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "from the Seth's dialogue the words “hasoen lodkivon ko sahare ki kumi nahi hnti”",
+        "length_m": 1.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "the words “Kitne darwaje khultl hain aur uamo flo kon kon si khuflliia jhankti hai” from KiRbori’s dialogue",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "from the dialogue of Kishori and Secretary the sentences “Sue hti boon budhape ki dehlirpar jawam kab tak khiskegi”and “Seth ka buahapa jnwam ki dehJi/pcr oahut jald dam tod d«ga”",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Ashok’s words from “Voh apne budhapo ko” to “.Taban naliin khulti”",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Thrj words “ek budhi dolmzpar\" trom the sentence ot Kishori “jiski tninitm aorjoo aur tamannaone ek budhi dohlizpar dam tod diya",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "from Secretary’s dialogue the passage “Police das pan chub dm tak khatnm ho jaegu”",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "from Secretary’s dialogue tho words “Agar lcisi mazdoor ki wife baclirha nr' pflida ho jnata",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Secretary’s words “dokhta hun naav bhavarmen hain yn paariag ohukl”",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Tho words “Y oh daman pakailne walonki loti hai” uttered by Kinh on",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Tho words “Sosto damon mo” from the passage “main bejuban gal ko saute damon me booh doonga samajt© the” oto. Uttered by Madarl",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Bui Bui",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "S. M. Latif, Pakistan",
+    "cert_no": "18072",
+    "cert_date": "7-1-57",
+    "endorsement": "U",
+    "original_length_m": 3767.56,
+    "final_length_m": 3737.31,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "Natural sceneries in six pieces",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots where Bulbul and her lover are shown touching one another's face or are shown in close physical intimacy",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Ohhayu Path*",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Bharati Kala Mandir, 1-L, Seth Bagan Road, Ghugudanga, Dum Dum, Calcutta 30",
+    "cert_no": "12830",
+    "cert_date": "6-3-87",
+    "endorsement": "U",
+    "original_length_m": 3104.67,
+    "final_length_m": 3092.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "The dialogue by Jahar Roy to the effect that he is very thirsty addressed to the girl (Meena) insurance agent",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Shots showing Jayanta enquiring from Shiv Kumari on the plantation if she has had her food, giving her money subsequent remarks of another labourer and his significant gesture to the man in charge of labour",
+        "length_m": 18.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "While Sudarsan and Shila are flinging a duet song on the rock shots showing Sudarsan reclining on the Shila’s breast with left hand on her thigh and Shila putting her arms around him",
+        "length_m": 20.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Shila putting both her arms around Sudarsan and touching his head by her cheek",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Sudarsan's head on her thighs",
+        "length_m": 17.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Shila's head resting on Sudarsan",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Shots of the poet eating in a revolting manner showing food dropping from his mouth",
+        "length_m": 3.35
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 2",
+        "description": "The word ‘Trishnartta replaced by the word ‘Udbynsta’",
+        "length_m": 2.13
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 4",
+        "description": "Jayanta enquiring of a labourer from where this flower (i.e. girl) had been brought and its name",
+        "length_m": 9.14
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 6",
+        "description": "A few shots of water falls",
+        "length_m": 20.42
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 6",
+        "description": "A few shots of sunset",
+        "length_m": 12.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 6",
+        "description": "A few shots of Bird’s nest",
+        "length_m": 9.14
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 6",
+        "description": "A part of hill with stream flowing, the trees and plants swinging",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "Samaya Sanjeevi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sri Nataraja Films, Madras 18",
+    "cert_no": "15395",
+    "cert_date": "7-3-87",
+    "endorsement": "U",
+    "original_length_m": 5230.73,
+    "final_length_m": 5217.43,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete Vijaya’s statement “Kavignar” and “Kulaignar” are persons who utter falsehood",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete Sanjivi’s statement — “The fellows who broke Pillaiyar have now been breaking coconuts, and the price of coconuts has risen’",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete Sadayun’s words — “Kanthal Adiye Kanthal” with accompanying picturisation, when he illustrates cinema dialogues",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Samaya Sonjeevi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sri Nataraja Films, Madras 18",
+    "cert_no": "10384",
+    "cert_date": "7-3-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 6",
+        "description": "Addition of a song",
+        "length_m": 91.44
+      }
+    ]
+  },
+  {
+    "film_title": "Nagina",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Pancholi Productions, 5, Mistry Court, Opp. C.C.I., Bombay 1",
+    "cert_no": "20",
+    "cert_date": "8-3-57",
+    "endorsement": "A",
+    "original_length_m": 4114.8,
+    "final_length_m": 4112.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. I",
+        "description": "Out out the portion which shows the dripping of blood from the head of Nihal in the Railway Compartment",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Pelli Chesi Choodu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Vijaya Productions Ltd, Madras",
+    "cert_no": "15395",
+    "cert_date": "7-3-57",
+    "endorsement": "U",
+    "original_length_m": 5243.56,
+    "final_length_m": 5230.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "From the nuptial scene of the hero delete the portion where the doors of the bed-room are closed",
+        "length_m": 2.74
+      }
+    ]
+  }
+]

@@ -1,0 +1,440 @@
+[
+  {
+    "film_title": "“Paris Pick-up”",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "1486",
+    "endorsement": "A",
+    "original_length_m": 2346,
+    "final_length_m": 2338.85,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Flash shots of Robert trying to seduce Martha, deleting his remark “Martha, don’t act like that. Let yourself go. Take off your things, will you ? why not ? You can relax with me.”",
+        "length_m": 7.15,
+        "length_retained_m": 2.5
+      }
+    ]
+  },
+  {
+    "film_title": "“Mujhe Sone Do”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "United Film Arts, 5, Merewether Road, Behind Taj, Bombay-1",
+    "cert_no": "41631",
+    "original_length_m": 30.48,
+    "final_length_m": 30.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Suggestive remarks of Ratanlal “Ai sadke” after Rupa leaves him (Sound only).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Scene of Rupa’s seduction by Ratanlal, deleting the shot of his lying in bed alone on the following morning.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Title Cards",
+        "length_m": 60.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Shot of Shyam and his mother",
+        "length_m": 32.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVI",
+        "description": "Shot of Shyam and Rupa in lock-up",
+        "length_m": 8.53
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVII",
+        "description": "Dialogue suggesting the handing over of Ratan to Police (Sound only)."
+      }
+    ]
+  },
+  {
+    "film_title": "“El Condor”",
+    "languages": [
+      "English"
+    ],
+    "producer": "Friends of Moral Re-Armament (India), Haroon House, 1st Floor, 294, Bazargate Street, Bombay-1",
+    "cert_no": "41691",
+    "original_length_m": 613.26,
+    "final_length_m": 599.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From Carlos' dialogue “I’m sick and tired of these Americans with their eternal superior attitudes, not to mention the way they slop up liquor and their futile conversation”. From Don Pedro’s dialogue the words “That bandit ? That criminal”. Also the underlined words from his dialogue “My own son running around with a crowd of criminals ”."
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From Paco's dialogue reference to Communism. The underlined word from Luis’s dialogue “And we steer clear of that bunch of Phony Japanese”. From Luis’s dialogue the following “America used Havana as a night club, a playground for her pampered plutocrats for a whole generation, until she was finally kicked out. You won’t believe it when I say that the revolution of Fidel Castro will not only triumph in South America, but in Washington as well.”."
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "From Genaro’s dialogue addressed to Sherman, the underlined word from \"You Lousy imperialist\"."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From Tomaso’s dialogue the following \"What would a red rat be doing with moral standards ?”. From Luis’s dialogue the underlined word “To cure the bitterness, ambition and immorality of the communists”. The underlined words of Carlos to Betty :“I spent the night with a woman and it was’nt tho first time\"."
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The shouting \"Cuba, Si ! Yankee, no !\", keeping the sound only once.",
+        "length_m": 13.72
+      }
+    ]
+  },
+  {
+    "film_title": "“4 For Texas”",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros. First National Pictures Inc., Eros Cinema Bldg., Churchgate, Bombay-)",
+    "cert_no": "41679",
+    "original_length_m": 19.2,
+    "final_length_m": 16.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Elya’s bare bust with the cleavage prominently visible",
+        "length_m": 1.14
+      },
+      {
+        "kind": "deletion",
+        "description": "Dialogue of Maxine \"All the action is not in the sun.\"",
+        "length_m": 1.78
+      }
+    ]
+  },
+  {
+    "film_title": "“Donovan’s Reef”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Paramount Films Of India Ltd., Hague House, Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "41751",
+    "original_length_m": 2976,
+    "final_length_m": 2941.16,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II & III",
+        "description": "Shot of Amelia’s bare thigh as she raises her skirt before jumping off the ship",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "II & III",
+        "description": "The underlined words from Mister Eu’s dialogue “I will try and explain it to them in their barbarian tongue” referring to the language of the natives",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shot of Amelia in swimming costume suggestively passing her hands over breast and hips when Donovan asks her for a match",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot of Fleur’s prominently exposed bust as she shows to Gilhooley the gown presented to her by Amelia",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Shots of Gilhooley kissing a number of native girls after being garlanded on arrival",
+        "length_m": 1.18,
+        "length_retained_m": 1.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Gilhooley's lifting up Fleur iu embrace, and kissing her passionately",
+        "length_m": 2.23,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shot of Donovan embracing and kissing Amelia passionately for the second time",
+        "length_m": 2.44,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "The drunken brawl in Donovan's roel amongst the Australian sailors",
+        "length_m": 17.2,
+        "length_retained_m": 20.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Shot of Donovan pulling Amelia on to his legs, spanking her posterior and then embracing and kissing her",
+        "length_m": 3.15,
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "“Donovan's Reef”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Paramount Films of India Ltd., Hague House, Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "41752",
+    "original_length_m": 74.0,
+    "final_length_m": 71.32,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Donovan lifting Amelia in embrace, and kissing her passionately",
+        "length_m": 2.38
+      },
+      {
+        "kind": "reduction",
+        "description": "Shot of Amelia’s bare thigh as she pulls up her skirt before jumping off the shop",
+        "length_m": 0.3,
+        "length_retained_m": 2.68
+      }
+    ]
+  },
+  {
+    "film_title": "“Millions On The March”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Rank Film Distributors of India Ltd., Dhannur Bldg., Sir, P. M. Road, Bombay- 1",
+    "cert_no": "41685",
+    "original_length_m": 231,
+    "final_length_m": 206.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "But most of India’s four hundred and sixty million people see neither pomp nor progress. They still spend their Jives in half a million villages like this — hungry, poor and illiterate. Implements remain as primitive as their way of life, scarcely scratching the worn-out soil. But it remains about the lowest in the world. .... Ancient wells like this are still the only way of getting water Although they are still a rare sight in the Indian countryside. But for most of India's peasantry, the commonplaces of modern society remain a dream. Apathy is partly to blame, so is suspicion of new-fangled ways. Clinics may offer new health to the children, yet their elders retain a deep-seated fear of accepting anything from the doctors and technicians who come flooding in from a remote and mysterious machine called government."
+      }
+    ]
+  },
+  {
+    "film_title": "“Tarzan And Delilah”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "V. Prabhakar, 79, Old Prabhadevi Road, Bombay-28",
+    "cert_no": "41750",
+    "original_length_m": 80.77,
+    "final_length_m": 80.16,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Shot of Doctor trying to give an injection to Sunanda retaining only the shots with superimposed titles",
+        "length_m": 0.61,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "“Nagan”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Noronha Private Ltd., 62, Bentinck Street, Calcutta- 1",
+    "cert_no": "1487",
+    "endorsement": "A",
+    "original_length_m": 3019.96,
+    "final_length_m": 3007.77,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "A tablet in Hindi, Urdu and English at the beginning of the film stating that the film is a pure fantasy and that its story has no relation whatsoever to the legend or mythology of any religion."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In the sOng dance sequence : “Moha kaisa jobanava ka chor mila re. shot of bust shaking by Kofi when walking behind the pillar and also shots of her emphasised bust when arching on the floor"
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the song dance sequence : “Baan nainon ...” shot of bust jerking of the dancer as well as her gesture with the hand along with indecorous bust movement on the line : \"Baozi kisise na haroongl main. . . \""
+      }
+    ]
+  },
+  {
+    "film_title": "“Go-Daan”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Trilok Jetly, 106, Famous Studios, Mahalaxmi, Bombay-11",
+    "cert_no": "40320",
+    "original_length_m": 4063.29,
+    "final_length_m": 2962.92,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Shorter version of the film"
+      }
+    ]
+  },
+  {
+    "film_title": "“Handicrafts Of Assam”",
+    "languages": [
+      "English"
+    ],
+    "producer": "Little Cinema Calcutta Private Ltd., 136, Lansdowne Road, Calcutta-29",
+    "cert_no": "40804",
+    "original_length_m": 320.0,
+    "final_length_m": 322.44,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Monogram of Films Division in the beginning of Roel No. 1"
+      }
+    ]
+  },
+  {
+    "film_title": "“Deep Neve Nai”",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Jalan Productions, 183/1, Dharamtolla Street, Calcutta-13",
+    "cert_no": "39508",
+    "original_length_m": 3960.88,
+    "final_length_m": 3956.9176,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Amamath’s sister vomitting blood while Amarnath and the children are Singing",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Shots of Amarnath’s foot being crushed by Satyabrata with his shoe deleting completely the consequent bleeding",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Kicking of Amarnath by Inspector Satyabrata in the jail"
+      }
+    ]
+  },
+  {
+    "film_title": "“Main Jatti Punjab Di”",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Rajkumar Kohli, Shankar Movies, Shri Sound Studios, Dadar, Bombay",
+    "cert_no": "41735",
+    "original_length_m": 92.83,
+    "final_length_m": 92.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Preeto bumping her head against the floor"
+      }
+    ]
+  },
+  {
+    "film_title": "“Sukhacha Sansar”",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Films Officer, Directorate of Publicity, Govt, of Maharashira, Sachivalaya, Bombay-32",
+    "cert_no": "34306",
+    "original_length_m": 304.49,
+    "final_length_m": 261.52,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Various shots"
+      },
+      {
+        "kind": "insertion",
+        "description": "Monogram of Films Division and words “RELEASED THROUGH FILMS DIVISION\""
+      }
+    ]
+  },
+  {
+    "film_title": "“P. P. B.”",
+    "producer": "Films Division, Govt, of India, 24-Peddar Road, Bombay-26",
+    "cert_no": "39029",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "The year 1963 changed to 1964."
+      },
+      {
+        "kind": "replacement",
+        "description": "The year 1964 changed to 1965."
+      }
+    ]
+  },
+  {
+    "film_title": "“Benazir”",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Bimal Roy Productions, Mohan Studios, Andheri, Bombay",
+    "cert_no": "41729",
+    "original_length_m": 4254.4,
+    "final_length_m": 4249.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Shot of Benazir taking out and pouring poison in glass before drinking it."
+      }
+    ]
+  },
+  {
+    "film_title": "“Pooja Ke Phool”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "A V.M Productions, Arcot Rd , Madras-26",
+    "cert_no": "40083",
+    "original_length_m": 4871.0,
+    "final_length_m": 4871.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Voluntary deletion of 20.00 metres from Reel No. 17."
+      },
+      {
+        "kind": "insertion",
+        "reel": "17",
+        "description": "Approved addition of 20.00 metres in Reel No. 17."
+      }
+    ]
+  }
+]

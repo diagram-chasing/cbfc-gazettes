@@ -1,0 +1,957 @@
+[
+  {
+    "film_title": "Lifted Hands",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "C. F. Marconi, 60, Warden Road, Bombay-20",
+    "cert_no": "25716",
+    "cert_date": "28-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The reference to Jesus Christ, Jesus, and \"This Book, The Bible\" from the text of the commentary.",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Sohni Mahiwal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chowdhary Brothers, 4-A, Naaz Building, Bombay-4",
+    "cert_no": "26717",
+    "cert_date": "28-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots suggestive of kissing when Sohni is eating fish with Mahiwal.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Mahiwal's dialogue: \"Yahun Qatillon Ko Duaen Di Jati Hain\".",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots where Pahilwans are shown improperly dressed.",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To a flash shots where Sohni and Mahiwal embrace against the dialogue: \"Aaj to gale milon Vuinakhi ka din hai\" -- \"Nahin Idd K. Din Milonge\".",
+        "length_m": 9.7536,
+        "length_retained_m": 9.7536
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Considerably shots where Sohni and Mahiwal are shown embracing.",
+        "length_m": 9.90624,
+        "length_retained_m": 11.27784
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably shots where Sohni is beaten by Zeenat.",
+        "length_m": 4.2672,
+        "length_retained_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Shots where Sohni and Mahiwal embrace.",
+        "length_m": 8.2296,
+        "length_retained_m": 51.5112
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Shake, Rattle And Rock\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Noronha Private Ltd., Liberty Building, Marine Line, Bombay-1",
+    "cert_no": "26719",
+    "cert_date": "29-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots in which female dancers are seen lifted and carried untride or over the back by male partners.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Twilight For The Gode\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal Pictures India Private Ltd., Mustafa Building, Sir P. M. Road, Bombay-1",
+    "cert_no": "25723",
+    "cert_date": "29-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots where Charlotte tries to unbutton her dress and is kissed passionately by Ramsay.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Sierra Baron",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Corpn. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "27728",
+    "cert_date": "30-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot in which MacCracken touches the body of the dead gunslinger with his foot.",
+        "length_m": 2.01168
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Considerably beating up of MacCracken by Rufus and his men.",
+        "length_m": 4.572,
+        "length_retained_m": 2.4078
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Colossus of New York\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "Paramount Films of India Ltd., Hagius Building, Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "25726",
+    "cert_date": "30-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "To a flash shots where human beings are killed by death-rays from the robot's eyes and screams are heard.",
+        "length_m": 0.3048,
+        "length_retained_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "The Badlanders",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "802",
+    "cert_date": "30-10-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To flash shots of bad characters tearing the dress of Anita and harassing her otherwise.",
+        "length_m": 2.8956,
+        "length_retained_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "The Colossus of New York",
+    "languages": [
+      "English"
+    ],
+    "format": "Vistavision",
+    "producer": "Paramount Films of India Ltd., Hagius Building, Sprott Road, Ballard Estate, Bombay-1",
+    "cert_no": "803",
+    "cert_date": "30-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To a flash shots where the robot approaches Henry and Ann when Henry is trying to make love to her and Ann faints.",
+        "length_m": 13.07844,
+        "length_retained_m": 2.71284
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "To a flash shots where human beings are killed by death-rays from the robot's eyes and screams are heard.",
+        "length_m": 12.4968,
+        "length_retained_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Gigi",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "771",
+    "cert_date": "26-8-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XV",
+        "description": "Exit Music (Sound track) at the end.",
+        "length_m": 86.0
+      }
+    ]
+  },
+  {
+    "film_title": "Children of Hiroshima (Atom Bomb Children)",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "producer": "Educational Films of India, Kitab Mahal, 100-Hornby Road, Bombay-1",
+    "cert_no": "707",
+    "cert_date": "25-2-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. I",
+        "description": "Voluntary deletions totalling 1178 ft.",
+        "length_m": 359.0544
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol. 843",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "28679",
+    "cert_date": "23-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The scene, \"POPE PIUS XII MOURNED - Pope Pius XII is escorted to Saint Peter's Cathedral for the last time\".",
+        "length_m": 52.1208
+      }
+    ]
+  },
+  {
+    "film_title": "Taxi 555",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Golden Movies, Mohan Studios, Kurla Road, Andheri, Bombay",
+    "cert_no": "25679",
+    "cert_date": "20-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reels X & XIV",
+        "description": "The shot of Asha putting food in Ashok's mouth has been changed from reel No. X to XIV."
+      }
+    ]
+  },
+  {
+    "film_title": "Madhavi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "MAV Pictures, No. 9-A, Dr. Subbarayan Road, Salem",
+    "cert_no": "22664",
+    "cert_date": "29-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 1 & 2",
+        "description": "Stage drama of Tiruppur Kumaran - Kumaran being beaten to death by the police and delete the dialogue of the police inspector justifying the beating.",
+        "length_m": 50.292,
+        "length_retained_m": 23.7744
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "When Ekambaram is reading news items, delete the sentence about such kind of newspapers.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "After Madhavi prays to the river Kuvori, delete the rest of the picture and dialogue indicating that she committed suicide, the corpse floating on the river with the boy walking along on the river bank, calling out.",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 15",
+        "description": "Delete the sequence of the boy talking to the ghost of his mother at the well, relating to the ghost the conversation of his father and step-mother and jumping into the well."
+      }
+    ]
+  },
+  {
+    "film_title": "Parvathi Kalyanam",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Bhaskar Productions, 1/1, Fourth Street, Abiramapuram, Madras-18",
+    "cert_no": "22666",
+    "cert_date": "31-10-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "When Indira and the Dikpalakas are brought and tied before Taraka: delete the entire picture and dialogue from Kakasura speaking to Indira onwards, and delete the sentence of Taraka to Indira \"from now onwards all yagnyas will be for the good of the people only\".",
+        "length_m": 39.0144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "During the dance by Parvati- song No. 7 - delete all the picture reaction of Siva.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete all picture and dialogue of the disguised Siva being beaten and pushed by Jaya and Vijaya, and also their demonstrating to him how Parvati was performing penance, and his reactions.",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Siva's reactions and Narada's observation that he had now understood, when the marriage of Parvati is mentioned.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Siva telling Narada that the burden of Siva's progeny was on Narada and the latter replying that he was a brahmachari - Parvati as a sinner.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the close-up face reactions of Siva and Parvati, looking at each other.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "And picturisation of song No. 11 - Siva and Parvati singing a duet and Parvati dancing in the garden.",
+        "length_m": 71.628
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the picture and dialogue of Taraka's men snatching the children from their mothers, telling them it was for torturing. (Occurring twice).",
+        "length_m": 10.3632
+      }
+    ]
+  },
+  {
+    "film_title": "Malayitta Mangai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Kannadhasa Films, 31, Sundararajan Street, Madras-18",
+    "cert_no": "22616",
+    "cert_date": "24-6-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "Voluntary deletion of the sequence of Sarasa offering blood and the actual blood-transfusion taking place.",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Choravar Mor",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "B. V. Marathe, 15/4, Ultra Building, Shivaji Park, Bombay-16",
+    "cert_no": "25776",
+    "cert_date": "3-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "\"Sajbaba Aalepak\" appearing on sign board at bus-stand (inked out)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From dialogue of Raghuveer and Kaka the phrase \"Majaa kelee\".",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From garden scene shots of Janaki nestling against Raghuvir's chest and Raghuvir hugging her and fondling with her cheeks.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song No. 3",
+        "description": "From Song No. 3, delete \"Tuzeech pahilee swaree zaalee maazya mulukhaalaa\", \"Vayaachee jaaneev zaalee aaj padaraalaa\", \"Bharatee aalee shringaaraachyaa pahilya laatelaa\".",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song No. 3 visuals",
+        "description": "From the visuals of the song shots of Janaki nestling against Raghuveer by reclining across his lap as also the last shot in which an embrace and kiss between Raghuveer and Janaki are suggested.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The remaining portion of song No. 3 measuring 274 ft. has been voluntarily deleted.",
+        "length_m": 83.5152
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"A Fiend Without A Face\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "25777",
+    "cert_date": "4-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Ben Adams sinking to the floor clutching his throat with a horrified expression.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Mayor collapsing with a frightened expression on his face.",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Rifle Girl",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "People Pictures, C/o., Allied Serial Corpn., 2-G, Naaz Building, Bombay-4",
+    "cert_no": "25778",
+    "cert_date": "4-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot where Tis Markhan and Rangili make a movement suggestive of kissing.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shots where Jang Bahadur touches Raj Kumari's face twice.",
+        "length_m": 2.286
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably fighting between Sipah Salar and Jadugar.",
+        "length_m": 12.0093,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Detective",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Amiya Chitra, Shree Sound Studios, Dadar, Bombay-14",
+    "cert_no": "25780",
+    "cert_date": "4-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Shots of police officer talking to Mrs. Lall in regard to the kidnapping of her husband and his picking up the telephone receiver to talk to the person at the other end who had demanded a ransom of Rs. 50,000."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The entire scene of Raja chasing Ma Shin with Master in the corridor of the hotel."
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The entire sequence of Inspector Chaudhary taking exercise and John Butler massaging him etc."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots showing Loon Pe going to Mrs. Lall's house and requesting her not to divulge her suspicion about Lall's (Sukdeo) identity to anybody."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "The entire scene showing Raja picking up Ma Shin in his car at the bus stand and driving her in the car."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots showing painful reactions in the audience when Raja manipulates the saw through Master's body."
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The entire scene of Inspector Chaudhury talking to John about the murder of Loon Pe, John offering to leave him, the hotel waiter arriving in room and Inspector Chaudhury threatening him with a revolver to keep his mouth shut etc."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Shots showing Raja touching cheeks of Ma Shin."
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Ludicrous shots and dialogue of the visitor in the disguise of a Sikh when he meets Lall with his colleague."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Shots and dialogue of the police officer congratulating Raja for his assistance."
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably shots of Raja and Ma Shin colliding on the staircase of the ship's cabin and remove Raja's vulgar dialogue.",
+        "length_m": 8.5344,
+        "length_retained_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The skeleton dance and delete painful reactions in the audience.",
+        "length_m": 9.144,
+        "length_retained_m": 29.8696
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Considerably assault on Ma Shin by Sukdeo.",
+        "length_m": 2.4384,
+        "length_retained_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Considerably the fight between Raja and Gonsalves, deleting shots showing the police helplessly watching the fight.",
+        "length_m": 42.0648,
+        "length_retained_m": 39.624
+      }
+    ]
+  },
+  {
+    "film_title": "Adalat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kwatra Films, 206, Famous Cine Building, Mahalaxmi, Bombay-11",
+    "cert_no": "25781",
+    "cert_date": "5-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots where boys gesticulate in a vulgar manner and one of them throws a chit to Nirmal.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Objectionable remarks and vulgar gesticulations of the boys during \"Mushaira\".",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song No. 1",
+        "description": "In song No. 1, beginning with the words \"Jab Din Haseen\", shots where boys hold girls in their arms; close shots of the torso of four girls with vulgar movements; the last shots where boys and girls are shown lying down at the end of the dance.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The words \"Gupt\" in the expression \"Gupt Daan\" and \"Chamre\" in the expression \"Char chamre ke karkhane\".",
+        "length_m": 0.39624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shots were after the song the spectators make vulgar gestures towards Nirmal; Shots of four spectators making vulgar movements.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "In the Mehfil scene, shots of close physical proximity between Pran and Bhishtan; Shots where Bhishtan is shown dropping by the side of Kidar Nath during the dance.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably shots where Pran lit Kidarnath is trying to molest Nirmal deleting the following dialogue: Dilka arman pura ho jaye to kaid bhi kya buri hai.",
+        "length_m": 3.9624,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably the scene where Nirmal is being tortured to break down, and the child is being made the butt of victimization.",
+        "length_m": 62.1792,
+        "length_retained_m": 25.6032
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The words \"Padma Shri\" preceding the name of Nargis in the credit titles.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "35 ft. (picture and sound).",
+        "length_m": 10.668
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Badlanders\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "25782",
+    "cert_date": "5-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots where a woman is held down by four men.",
+        "length_m": 1.03632
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. Qartoon M.A.",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Natraja Productions, 105, Famous Cine Building, Mahalaxmi, Bombay-11",
+    "cert_no": "25805",
+    "cert_date": "8-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Reference to bands of liquor in John's dialogue to Hiralal - (Sound). The following dialogue - Bombay men raat sone ke liye nabin hoti sair tafrih ke liye hoti - (Sound). Shot of an egg being broken in a woman's mouth."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of a dancer lying on the ground and rising up and jerking her breasts.",
+        "length_m": 0.36576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of a man touching his girl friend's face under the umbrella.",
+        "length_m": 1.09728
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The following dialogue: \"Dhone vale aur khane vale hath.\"",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots of the passer by insisting on being photographed when the crowd is rushing to catch the thief. Shots where Chandan and Lali are asking for liquor of \"Johnny Walker\" brand and are shown with the bottle of liquor in front of them.",
+        "length_m": 1.9812
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "In song No. 6, beginning with the words \"Masjid dekhi Mandir dekhe\", the following: \"Ab Hari Om\" \"Tab Hari Om\" wherever occurring during the song or before or after it (Sound), The words \"Alakh Niranjan\" wherever occurring - (Sound), Reduce considerably the last part of the song where the Sadbus are given beating and they sing to the tune of Kirtan.",
+        "length_m": 13.9968,
+        "length_retained_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shots where Paan-spittle drops out of Chandan's mouth. Shots where Chandan shakes his legs after jumping on the sofa.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The scene where Hiralal's companion holds up the court at gun point; there is a scuffle and he is overpowered by Lali.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To a flash the scene where Jenny and Thomas are tortured by gangsters with dazzling light. (Torture scene completely deleted).",
+        "length_m": 6.9996,
+        "length_retained_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Fiend Without A Face",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "804",
+    "cert_date": "4-11-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drastically the screams and horrified expressions of the various victims of the invisible fiend wherever they appear in the film.",
+        "length_m": 7.9248,
+        "length_retained_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably the frightening sounds and appearance of Gibbons with a ghastly face in council room.",
+        "length_m": 5.4864,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably the frightening sounds and appearance of Gibbons with a ghastly face in council room.",
+        "length_m": 7.0104,
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably the frightening sounds and appearance of Gibbons with a ghastly face in council room.",
+        "length_m": 3.6576,
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the frightening sounds and appearance of Gibbons with a ghastly face in council room.",
+        "length_m": 5.1816,
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Do Phool",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Akhtar Sultana, Silver Wings, 30 Jehangir Baugh, Parel, Bombay-12",
+    "cert_no": "25030",
+    "cert_date": "18-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel VI",
+        "description": "Addition of 8 ft.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "Addition of 20 ft.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deletion of 41 ft.",
+        "length_m": 12.4968
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Paning shot of village measuring 20 ft. substituted for a blank piece of equal length."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIV",
+        "description": "Shot of falling chair from the top of the mountain - 17 ft. substituted for a black piece of equal length."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Song No. IX",
+        "description": "Song No. IX viz. Dur Andhera Huva.... shifted from Reel No. XV to Reel No. XVI, thus reducing length of Reel No. XV by 333 ft. and increasing length of Reel No. XVI by 333 ft."
+      }
+    ]
+  },
+  {
+    "film_title": "Children of Hiroshima (Atom Bomb Children)",
+    "languages": [
+      "Japanese",
+      "English"
+    ],
+    "producer": "Kindai Eiga Kyokai & Gekidan Mingei",
+    "cert_no": "707",
+    "cert_date": "25-2-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Voluntary deletions in Reel No. 1 totalling 1,176 ft. approved.",
+        "length_m": 358.4448
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Vol. 815",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay-1",
+    "cert_no": "23786",
+    "cert_date": "5-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Scene \"ANNUAL FESTIVAL, DUSSEHRA FESTIVAL IN INDIA - A colourful and dramatic festival takes place in India\".",
+        "length_m": 39.3192
+      }
+    ]
+  },
+  {
+    "film_title": "Bhakta Prahlad",
+    "languages": [
+      "BENGALI"
+    ],
+    "producer": "Shri Vip Brua, Gauhati",
+    "cert_no": "21492",
+    "cert_date": "7-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the shot showing a Shiva Temple breaking into pieces and collapsing after the appearance of Lord Vishnu as Narsingha Avatar.",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Shikar",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Coloured",
+    "producer": "National Films, 6, Burma Mitra Lane, Calcutta-4",
+    "cert_no": "",
+    "cert_date": "15-9-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reels 12 & 14",
+        "description": "Addition of Homo animal shots in jungle.",
+        "length_m": 96.3216
+      }
+    ]
+  },
+  {
+    "film_title": "Mangala Sutra",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Venkateshwara Productions, Saraswatipuram, Mysore",
+    "cert_no": "22008",
+    "cert_date": "3-11-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Delete all shots of Saroja dressed in tight slacks and sweater, whenever she is in close-up and mid-shots. (No objection to those portions where the newspaper she is holding covers her).",
+        "length_m": 9.4488,
+        "length_retained_m": 4.572
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Sing No. 5 Delete all shots of the dancer in tight sweater, whenever she is in close-up and mid-shots and where she jerks her breast and moves into the camera.",
+        "length_m": 5.1816,
+        "length_retained_m": 5.1816
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "During song No. 6 - delete all picture shots of Saroja in slacks and tight sweater when she is in close-up and mid-shots.",
+        "length_m": 2.4384,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "When Ratnamma attends on Shanker, delete her statement asking whether he wanted hear, and saying that Sarada and she were not different.",
+        "length_m": 3.6576
+      }
+    ]
+  }
+]

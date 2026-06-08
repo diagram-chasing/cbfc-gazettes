@@ -1,0 +1,935 @@
+[
+  {
+    "film_title": "Singapore",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "F. O. Mehra, Eagle Films, 220-Famous Cine Bldg., Bombay 11.",
+    "cert_no": "31020",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shyam falling in Maria's lap in the piano",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue between Shyam and Maria: 'Aap saath hai to nasho ke liye peone ki kya zaroorat hai?' / 'Garam aur thhande ke milno ki bahut chances hai'",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue between Cha Chu and Shyam regarding pleasures of Singapore City: 'Plenty girls' / 'Wholesale mamla hai'",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "In song No. 1, underlined words from the line: 'Yeh husn vaali meethi chhuriyan'",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The words: 'Garam Masaala' addressed by Cha Chu to the Typist Girl",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In song No. 2, from wordings, the underlined words: 'Usne jo kahanoonmen kaha— vahdohraoon to eharmaoon.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From visuals, indecorous actions and movements by Lata",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In song No. 3: from wordings, 'Bahon se bandh loongi, ulfat ee gher loongi'",
+        "length_m": 3.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In song No. 4, the underlined words from the line: 'Thak jaoon main to zulfon ie-chhaonmen do ghadikasoloon !', along with picturisation",
+        "length_m": 4.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In song No. 5, from wordings: 'Hamare kooohe men aashiq hazaar aate bain', and from visuals: shots in which Lata’s kurta flies high up, shots in which Shyam pulls Lata by the hair and tries to caress and kiss her",
+        "length_m": 41.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In song No. 6, shots of girls arching as also shot of a girl lifting a man",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "In song No. 7, shots of girls performing indecorous movements standing against the pillars",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Shot in which Shyam's hand is being crushed under Maria's shoe",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To a flash close physical proximity between Shyam and Lata",
+        "length_m": 3.35,
+        "length_retained_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Fight on board the ship",
+        "length_m": 63.3,
+        "length_retained_m": 32.31
+      }
+    ]
+  },
+  {
+    "film_title": "Qatil",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Prithvi Pictures, 136-Girgaum Road, Bombay 4.",
+    "cert_no": "31021",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "U",
+        "description": "Prominent views of Rajakumari with the hollow between her busts emphasized when she is at the conch window, when she is in the bank seat, when she is talking with the Raja near the tree and when she is singing the song",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel IV",
+        "description": "The shot of one man jumping on to another man’s hip",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel IV",
+        "description": "The word 'Baap' from the words 'Mora baap bewaqoof'",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel IV",
+        "description": "The shot of one of Raja’s sons sitting on a branch of a tree putting the noose around a soldier’s neck and pulling him up",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel V",
+        "description": "The words 'Mania jam gaya'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel V",
+        "description": "In song No. 2, beginning with the words 'An haan naina ohar kama', the underlined words: 'Dii pe t Boar homo'",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel V",
+        "description": "In the picturisation of song No. 2, the swift circular movement of the dancer when her upper garment flies up and the underclothes covering her thighs are seen. Also similar shots wherever they occur. The shots when she gets down from a platform and when she sits at the end of the song, when her underclothes are seen. Shot of chest jerking and swinging of hips. Shot of the clumsy lifting of a male singer by a fat man",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel V",
+        "description": "Shots of Rajakumari when she is talking to her brother, when she is in thin upper garment with dark blouse with round shapes at the busts which are emphasized",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel V",
+        "description": "Prominent views of Rajakumari when she is on horse-back and later when she is walking, when the strap of the bow passes between her",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel FIT",
+        "description": "In the picturisation of song No. 4 beginning with the words 'Bewafa deke daga', the prominent views of Rajakumari with very thin clothes and dark blouse with round shape at the busts. Shots of the statue when it comes prominently in the foreground in profile",
+        "length_m": 28.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel FIT",
+        "description": "Shot of Raja smelling the hair of Rajakumari and reduce the physical proximity between Raja and Rajakumari when Raja is sitting inclined and the princess is very close",
+        "length_m": 27.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel IX",
+        "description": "In song No. 6, beginning with the words 'Jab turn nahm to delete the underlined words: Raise na machle of won. In the picturisation of the song, shots of cuddling and of bringing his face very near to that of the girl by Raja",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel X",
+        "description": "Shot of embrace between Raja and Rajakumari in the palace before Raja comes to his mother in the prison",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel X, XI & XII A",
+        "description": "All suggestions in picturisation and dialogues of human sacrifices for the sake of bhakti Rooja wherever they occur",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel XI",
+        "description": "The underlined words from phrase 'Mithai men behosbi ki davamila kar'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel XI",
+        "description": "In song No. 6, in reel No. XI, the swift circular movement of the dancer when the upper garment flies up and the underclothes on her thighs are seen",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel XII",
+        "description": "The shot of a man jumping on to another man",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel XII",
+        "description": "In song No. 7, beginning with the words 'Sitam bekason pe ye kya ho raha hai', the line 'garibon ki gardan ameeron Ice fande'",
+        "length_m": 5.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rede III & V",
+        "description": "The scenes of slashing with a whip, the persons who are tied or who have fallen on the ground, omitting the shots where the whip actually falls on the human body and keeping merely one or two shots of faces showing the reaction of the men who are whipped",
+        "length_m": 10.97,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Sad I",
+        "description": "To a flash the shot of a man in whose back a dagger has been plunged",
+        "length_m": 1.83,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Montage shots of fire and shots of Senapati laughing superimposed on shots of fire and destruction",
+        "length_m": 2.29,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red x",
+        "description": "Mother’s cries and the scene of her torture omitting the actual shot of pulling of her hair",
+        "length_m": 2.13,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The fights between Raja and the king in the palace and later on in the prison omitting the shots where the crossed swords are near the throat of a man and the shot where a blow from the axe falls near the man who just rolls away",
+        "length_m": 7.01,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The fight between Raja and Shersingh and the shots showing the torture with a wheel with spikes. Omit the shot when Raja’s face is very near to one of the spikes",
+        "length_m": 6.71,
+        "length_retained_m": 31.39
+      }
+    ]
+  },
+  {
+    "film_title": "Because They're Young",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation.",
+    "cert_no": "31026",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Endowment",
+        "description": "Delete shots of passionate love-making between Griff and Anne",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Mitti Men Sons",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "P.K. Filma, 217-Famous Cine Bldg., Halaxmi, Bombay 11.",
+    "cert_no": "31029",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Seel I",
+        "description": "From dialogue delete the following: (a) 'Makan per maukn. na mila' said by Lahori to Billo. (b) The word 'Rawalpindi' addressed by Lahori to Billo (Sound). (c) 'Hitniir.i nui lumbar*. sou da pable se lii ho chukka. hai' said by Lahori to Billo. (d) the underlined words from 'Pyarlca nashaa chadh jane par n achear khane ko ji chahntaa' said by Lahori to Billo. (e) 'Elc papad hamara bln bcl do' said by Kewal to a boy (Sound).",
+        "length_m": 5.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel II",
+        "description": "In song No. 1, 'Ackhon se aamkh' from wordings: (a) 'Dil se dil takrano do' (Sound). (b) 'Parvan o ko zaalitn pass to -spne ane do' (Sound). (c) the underlined words from 'College, hi bar India se zikar tumhara karta hoon' (Sound). (d) 'Madam turn po mart*, hun' 'Ulfat mem jo kuehh ho men' kosarn ho jane do' (Sound). From visuals: (a) Shots of Tisha reclining on Steers indecorously. (b) Kewal dragging Usha on 'to him. (c) Shots of Kewal pulling her dupatta. (d) Tisha winking. The underlined dialogue : 'Merijawn ek aur maar' said by a Goal-Vendor to Billo (Sound).",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel II",
+        "description": "The following from dialogue of Lahorihtl to Billo: (a) 'Yeh rog dootor ke has ka riab rn , tare baska hap' (Sound). (b) 'AbhJ hasp bhi cabin bana, (mb a kaise' (Sound).",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Jteel IV",
+        "description": "In sang No. 2, 'Baal bikhne huo' from wordings - 'Choslnikno lagi aaoMi jhukne isgi pad gai teri nazren kahon' (Sound). (b) 'Kfthin mandir na chhode poojari' (Sound). (c) 'Kaist kaisi hasirr ladkiyan' (Sound). From visuals— (a) Shots in which Kewal drags Usha’s paloo. (b) Suggestion of a kiss.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel X",
+        "description": "Shots in which Usha’s bust is revealed prominently while she is lying on the ground",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel XI",
+        "description": "Lahori’s dialogue : 'Bapoo ka upadesh sunakar' (Sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel XIV",
+        "description": "In song No. 7, 'Alain dil La thou pe' from wordings: (a) 'Alar dal a mar dala gorimemne' (b) 'Ar’mi haikattm ka>V\njalogue— Billo: 'Augrezi Le bacliche'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Med XV",
+        "description": "The following dialogue- Sound. 'Ingrezi be iiacliche' (Sound). Lahori : 'Tera baap sikhayegRa' Billo : 'Baeheha idhar naliln ridhar hone vala hai' The following dialogue from Lahori : 'Jawab nahin -God ka' 'Kaam jaldise nipat jayegaa' (Sound). The following dialogues— (a) Kali} on ki pyas jiliir bujha dena' said suggestively by Lahori to Billo. (b) Labor] : 'Sardarji baad men nay e aur pahile unLc'paida kar diya' Sardurji : Kyon memsoab ko uppar garm bole ho. Ham puronn eustomer hai”. Das saal se unke vahan aata hai' (c) 'Kta hhagwan ko babera samaj rakha hai' (Sound,). yanan aata nai B it. B frame*.!) (d) 'Man ka, haebha' said by Billo to Labor!",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel V",
+        "description": "To a flash embrace between Kcwwl and Tkba against the wall",
+        "length_m": 6.1,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel A",
+        "description": "To a flash shots of Ucha suffering the pangs of child -birth",
+        "length_m": 2.62,
+        "length_retained_m": 24.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel X VI",
+        "description": "Considerably torture of Raja at the hands of TJstia nnd her husband including their words 'Marne do ke bhookba, . . . kahinkaa' 'kamme, badmaaeh Shaitan, hadtnoash, zaleel'",
+        "length_m": 4.97,
+        "length_retained_m": 12.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVIII",
+        "description": "Considerably shots of Raja seen at the top of the lower",
+        "length_m": 0.3,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "The Giant of Marathon",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay 1 .",
+    "cert_no": "31032",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Seel 11",
+        "description": "The shot of Karie with the hollow between her busts exposed when she in being dressed in a wrap by a lady attendant. Her similar views when she is watching rostling between two dark men",
+        "length_m": 4.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The scene of Theoerites’ servant killing the Wounded man in cold blood when he returnafrom the task of intercepting Philippides unsuccess-fully",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene of the battle betwron Darius and Athenenns, the shot of two persons with blood on the face and on throat; also uoenea of persons being crushed under large boulders thrown from heights, and of Karjs being actually hit at the back with an arrow. Reduce 1 bo actual fighting",
+        "length_m": 13.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The shot of a direct hit of an arrow in the body of a man standing on the top of the mast",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seels VIII & IX",
+        "description": "In the battle scenes the views of a direct hit of a spear, dagger and an arrow in human bodies under water. Also diroot hits of a spear through the body of the man on the deck of the ship as also of the direct hits of an arrow and a dagger through human bodies. Reduce tbe fighting in the soenos of battle when soldiers from Persian shipB are being pursued in water by Athenesn and Spartan Ovalry",
+        "length_m": 30.81,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel II",
+        "description": "Drastloally the dance of tlio lady in very short green dress, omitting all the shots where due to swift oiroular movements of the dancer the under-clothes are seen",
+        "length_m": 24.52,
+        "length_retained_m": 20.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel II",
+        "description": "The wrestling between two dark men, omitting all kicks and low blows",
+        "length_m": 18.29,
+        "length_retained_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel II",
+        "description": "The fight between Philippides and ono of tbe dark wrestlers, omitting l ow blows and blows in close-up",
+        "length_m": 8.61,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel II",
+        "description": "To one only, the hard slapH given by Theoerites to Karis",
+        "length_m": 2.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel II",
+        "description": "The views of Keris with a wrap held by hand just above her bust when she is being massaged and after massage",
+        "length_m": 7.92,
+        "length_retained_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "Jleci V",
+        "description": "The fight between Philippides and the killers sent by Theoerites, omitting particularly the shots showing the actual thrusting of a spear and of a dagger in human bodies",
+        "length_m": 3.02,
+        "length_retained_m": 16.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "Jleci V",
+        "description": "The views of Andromeda with a very low wrap exposing the flesh of her bosom, when she is talking to Karls",
+        "length_m": 0.97,
+        "length_retained_m": 26.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seels VII d< VIII",
+        "description": "The views of Andromeda with a thin silky wrap on her chest with the outline of her busts and nipple emphasised when e ho Is pulled hero and there and when she is near Theoerites on the ship",
+        "length_m": 9.7,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel VIII",
+        "description": "L o a flash each of the two poses of Andromeda with her wrap torn and her thigh exposed, when she is tied to the top of the mast",
+        "length_m": 4.72,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Delhi Junction",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R.L. Shawm, C/o Mohan Studios, Kurla Road, Andhori, Bombay.",
+    "cert_no": "31045",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Bed t",
+        "description": "In song No. 1, (a) from wordy — (i) 'Rina ticket ke jane wali' — (ii) the italicised words from — 'Dekho dekho natron It a signal gjra' (iii) Ihr italicised words from — '8hor maclnUi pyar logali toetee baji', (iv) 'Passmen jinkedil ho Baku, vohi rhale ji, vohi cbalo', 'Jane io ulfat jndu, vohiohale ji, vohichalo'. (b) from visuals, amorous movements of the hunt by Shobha",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Beet IT",
+        "description": "From dialogue — (a) 'Thhanda karke khno nuhin to nunih jnl jiiycga' said suggestively by Ooperwala to Rumesh with reference to Shobh* (b) 'Veh to Doper wain hai' said by Shobhs.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "In aongNo.2 — (i) The pmturisfttion on the wordings ' Jaam uar.iir kn rhhnlku clihalkn, durd dil men haiku liulka'. (ii) Delete amorous movements oi the bust by Ujii (iii) Shots ot rinse physical proximity hot ween Hijli and Kumar towards the end ol (ho song",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Kiel IV",
+        "description": "Shota of Shobha in which her bust is rather prominent ly seen partially uncovered by the puloo",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel Yl",
+        "description": "Shots in u liich Arli is seen in indecorous posture, in song -No. 8, near views of Arti’e hunt behind the bars.",
+        "length_m": 22.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "lieel VII",
+        "description": "From dialogue — (a) 'Nak links Ini hilkul tumkun tnrah hai' said suggestively by Ooperwala to the Ayah in the park with reference to the child in the jjerambul. (b) 'Thapnd khakar mujhe bilkul guasu na hiti aatu us miidnin par' said by Ooperwala to the Doctor with reference to Manorama.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "E- el Vlll",
+        "description": "From Dnperwala'a dialogue 'Hargis ka matwala boon'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shoi h of Kamesh pulling Shobha towards him on the bench and trying to establish those contaot with her,",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Riel X",
+        "description": "From dialogue — (a) 'Aaj dowanni uap de dena aur kutub pur inujlise le lena' said by Ooperwala to Manorama. (b) 'lluiu wunine vali ki dibri tight karega' said by Pehlwan to Ooperwala.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed Xl",
+        "description": "hi song 'NTo , fl, (a) from wordings — (i) 'Par jo muzu hai dil takrane men vohi na lumne jana', (ii) 'Pnorhho ji ham so pyar ki baton, aasliik ham to purane’, along with picturisation. (b) from visuals, shots of Ooperwala taking Manorama’s face across hi- clioat and caressing. From hospi t-a 1 scene, shots of Ooperwala, pulling Manorama towards him. putting her hand on his cheat and pressing with his hand over hers. Ramesh coughing suggoatively and saying — 'Han mil to gaya hai kuohh?'.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed XII",
+        "description": "Kedar removing iron atrip from the cot. From dialogue — (a) 'Vndi au-p aaj vidhwa na,hin hain to ka] ho stikli hain' addressed to Manorama. (b) 'Mere neeche hai na, voh Shobha' said by Onporwaln. In song No. <i from wordings — (i) 'Ya dilon ka josh tha' (ii) '... Kiskoitnn bosh tha'.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Be, d XIII",
+        "description": "Sound of a street riff raff whistling at Art! while she is sitting on the corner of the road.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bui XI F",
+        "description": "From portion of song No. 1 , repeated at the end ot the reel, the w ords 'Nina Ticket le jane wali'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "° f kUif0 I",
+        "description": "inUn8 ^ Kumar ’ S M0k £lom C » ht between K « mf >r and Kedar in the railway carriage",
+        "length_m": 0.0,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Beet XI III",
+        "description": "Kedar strangling tho watchman with belt",
+        "length_m": 2.13,
+        "length_retained_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Lambe Haath",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Daljit Krishon, D, M. Movies, 140-Famoue Cine Lab. and Studios, Haius Rd, Bombay 11.",
+    "cert_no": "31040",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Beel I",
+        "description": "Delete shots of Leola and Ram moving in close physical proximity— shoulder to shoulder",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Do Dost",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "K. Baxi, Jyoti Studios, Kennedy Bridge, Bombay 7.",
+    "cert_no": "31047",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Bed 7",
+        "description": "The words 'Chhamak ohhalo, matak hallo' addressed by Shabali to Julia. Jasser trying to caress and kiss Romia m the soeno at the end of reel",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed IT",
+        "description": "Song No. 1, beginning with the words 'Main pyar ka boon shola' an d endimrwilh , . . . entirel y— word- inge as well as pioturisation",
+        "length_m": 103.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel 777",
+        "description": "From Jasser’s dialogue to Raja 'Aakhir main kab talc tumhari harkaton par parda dalta rahnem™?'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I V",
+        "description": "From De Soto a dialogue to Shabali: 'Mahbooba laa] frock men hai . . . Old oontinuitv",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Beel FT",
+        "description": "Shots of close physical proximity between Romi and Jasser",
+        "length_m": 3.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seel FT",
+        "description": "In song No. 2, from Visuals (i) Shota in whioh a female dancer's skirt fles high above her knees u;\nrnn.„ ■ r , , From Shabali ’s dialogue: 'Thank you God. Tumne ghar haithhe sharab peeneka intizam kardiva'",
+        "length_m": 4.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed VIII",
+        "description": "In song No. 3, (a) from wordings: (*) 'Tham le baahen' (b) From visuals: (i) Shots in whioh a female dancer’s skirt film! high aCo Ckn e s-Tftll t J (ii) Shots m whaoh the dancer Is seen sttting on the table and performing in indecorous posiurcs",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red X",
+        "description": "Shota of drunkenness on the part of Shabali. From visuals: (i) Shots of Shabali seen drunk. In song No. 6, from wordings: (t) the words 'Sharab men' from the lino '0 khoye bain aaj ham aharab men' (Sound) (ii) the words 'Jaam men' from the line: 'Toone kyon bhula diya khyal aaj mera jaarn men' (Sound).",
+        "length_m": 8.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "In song No. 6, (a) from wordings: (i) the words 'Mora kaam ho jayega' from the line 'Tera kya hal, mera kaam ho jayega' and repetitions thereof. (ii) 'Dard khud badhke aaram ho jayega ' and repetitions thereof. (iii) 'Dokhkar ohalna rahen ye anjaan haln' 'Har taraf chot khane ke samaan hain' 'Han, ye adayen agar saath doti rahen' 'Mushkilon meri phir sari aaean hain'.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "BmI II",
+        "description": "Soene of gambling and drinking",
+        "length_m": 6.1,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "To about half the fight between Raja and the gamblers",
+        "description": "To about half the fight between Raja and the gamblers",
+        "length_m": 6.1,
+        "length_retained_m": 9.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel F",
+        "description": "Considerably scene of gambling with cards",
+        "length_m": 3.35,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Keel VIII",
+        "description": "Fight between Raja and the gangsters; particularly dolote hard punohes on the faoe",
+        "length_m": 5.18,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To about half, the fight in Durjan's den; particularly delete shots of people collapsing after being shot",
+        "length_m": 6.1,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Considerably Durjan beating up Raja",
+        "length_m": 4.27,
+        "length_retained_m": 16.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "To about half, the fight in Durjan's den; particularly delete shots of people collapsing after being shot",
+        "length_m": 5.18,
+        "length_retained_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "El Hakim",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "Luggi W aldleintner-Roxy Film , G.M.B.H.",
+    "cert_no": "31048",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Seel til",
+        "description": "The shot showing blood-stained legs and the exposed flesh of a boy patient",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The arenas of undressing by Aziza hefore she puts on the garment, of a maid in the hospital. Omit all her shots with bare posterior",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shots of bust-jerking, hip jerking and bnttook swinging in the dance of Aziza when Abnbaker is heating the time on the tablo top",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I II",
+        "description": "Aziza’s o ction of lowering her garment while sitting on the eot when Ihrahom enters and sets aside the curtain",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 V",
+        "description": "The shot of a woman patient with her oloak off the ohoat, when she is examined",
+        "length_m": 5.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 V",
+        "description": "Various shots of women -patients wit h olothos disarranged and their busts and chest exposed inRide and outside the X-Ray room. Also the views of an adolescent girl with her ohoat exposed when the garments are disarranged when the doctor is examining her",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "In the dance hall In Paris, the refleotion of several girls in scanty dress in the mirror",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "ire shot of enrtain showing nudes",
+        "length_m": 25.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "All the hip-swinging and bnttook jerking movements in both the portions of Aziza’s danee. Delete all her views when she faoes the oamera and when her wrap on the cheat 1s only covering partially the two breasts exposing the hollow of the busts and when her thighR are also exposed",
+        "length_m": 50.93
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Considerably the scene In the slaughter houao omitting the scene of actual slaughtering of camels, and the shrieks of a woman in labour",
+        "length_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The danee of Aziza on the mat omitting the hip-jerking and bust-jerking movements",
+        "length_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The flogging of the hospital servant by the doctor keeping merely one or two shots of hitting and latter on only one or two groans",
+        "length_m": 19.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "jT Reel IV",
+        "description": "The views of Helen and of the singer with very low out dress, exposing the flesh of bosom, parting between the bust®",
+        "length_m": 17.98
+      }
+    ]
+  },
+  {
+    "film_title": "Bullwhip",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "Allied Arbieta",
+    "cert_no": "31051",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Idle shot of the whip on a man’s faoe",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "The shot showing a man undressing at night in the wagon in which a lady is lying on cot and his dialogues with her that he was going to sleep with her",
+        "description": "The shot showing a man undressing at night in the wagon in which a lady is lying on cot and his dialogues with her that he was going to sleep with her",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "The shot showing the hard kiss a man imprints on the lips of a woman",
+        "description": "The shot showing the hard kiss a man imprints on the lips of a woman",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "The prominent views of the lady with low-neokod. dress, when she Is sitting on the cot and bending low to take off her slippers and straightening herself again",
+        "description": "The prominent views of the lady with low-neokod. dress, when she Is sitting on the cot and bending low to take off her slippers and straightening herself again",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "The Captain From Koepenick",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "producer": "Realfllm Hbg,",
+    "cert_no": "31101",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Bed 11",
+        "description": "The words 'Yon are too skinny for me' said by Meize and the words of the Guard addressed to her 'Sit on My Lap. I have such nice bony knees', together with the view of her actually sitting on his lap",
+        "length_m": 6.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Bed IF",
+        "description": "The words 'Communist agent' as referred to by one of the ooncillors of Koepenick",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Because They're Young",
+    "languages": [
+      "English"
+    ],
+    "producer": "Oolumba Pictures Corporation",
+    "cert_no": "1023",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words 'Let us not get physical' said by Anne to Griff.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Compromising scene between Buddy’s mother and her lover",
+        "length_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "To a flash the scene of Jim kissing and caressing Ricky passionately",
+        "length_m": 3.35,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel Vll",
+        "description": "To a flash tho scene in whioh Griff switched off the lights and forcibly inakoa love to Anno; love making on the sofa should be deleted entirely",
+        "length_m": 3.35,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fight between Batcher and Griff; particularly delete shots of clasp-knife",
+        "length_m": 23.16,
+        "length_retained_m": 9.45
+      }
+    ]
+  },
+  {
+    "film_title": "Bullwhip",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "Allied Arbieta",
+    "cert_no": "1024",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The hard tight between the Red Indian and Steve, omitting particularly the shot, when a man's head is banged on a wagon and when there is double-handed hard blow given on the back of the neck",
+        "length_m": 5.18,
+        "length_retained_m": 38.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Uer.lVll",
+        "description": "The prominent views of the rich heireHS in low-cnt dress, exposing the flesh of hor bosom and parting between the busts",
+        "length_m": 7.92,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "ReelVlII",
+        "description": "Her similar views when she isin her bedclothes and when ahois bondingdnwn to take off her slippers.",
+        "length_m": 12.5
+      }
+    ]
+  }
+]

@@ -1,0 +1,894 @@
+[
+  {
+    "film_title": "Lalvadi Phoolvadi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "producer": "Filmnagar, 301-Neelam Bldg., Worli Seaface Road, Worli, B’bay-18.",
+    "cert_no": "B/F-150",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added a table at the beginning of the film stating that the film is based on a folklore of Saurashtra and all characters are imaginary.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shots showing the amputated hands of Vadi lying on the floor.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Atmaram",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Sohanlal Kanwar,301-Neelam Bldg., Worli Seaface, Worli, Bombay-18.",
+    "cert_no": "B/F-151",
+    "endorsement": "U",
+    "original_length_m": 4676.02,
+    "length_deleted_m": 91.0,
+    "final_length_m": 4585.02,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced the fight in the railway compartment between Ranjit Singh and Sher Singh, deleting the scene of strangulation completely, leaving only whatever is absolutely necessary to establish the murder of Ranjit Singh by Sher Singh.",
+        "length_m": 20.8,
+        "length_retained_m": 16.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted close-ups of statues in erotic poses.",
+        "length_m": 3.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted dialogue: 'Ranjit Id vidva ko bichado apani charpai par. Bina khuli sarab ki bottle hai.'",
+        "length_m": 4.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduced drastically the attempted rape of Ranjit’s wife by Sher Singh, leaving only a suggestion.",
+        "length_m": 10.1,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduced fight sequence.",
+        "length_m": 4.7,
+        "length_retained_m": 9.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Deleted vulgar shots in the dance of Prema Narayan.",
+        "length_m": 46.8
+      }
+    ]
+  },
+  {
+    "film_title": "Duniya Meri Jeb Mein",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm.",
+    "producer": "Ira Films, 230-Famous Cine Bldg., Halns Road, Mahalaxmi, Bombay-11.",
+    "cert_no": "B/F-15S",
+    "endorsement": "U",
+    "original_length_m": 4381.15,
+    "length_deleted_m": 38.45,
+    "final_length_m": 4342.7,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XI, XII, XIII, XIV A XVII",
+        "description": "Reduced considerably the fight sequences (including the sequence in Reel No. XVII where gangsters are trying to kill Karan by their cars).",
+        "length_m": 38.45,
+        "length_retained_m": 24.4
+      }
+    ]
+  },
+  {
+    "film_title": "Melinda",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Metro Goldwyn-Mayer India Ltd., Metro House, M. G. Road, B’bay-20.",
+    "cert_no": "B/F-17",
+    "endorsement": "A",
+    "original_length_m": 2799.02,
+    "length_deleted_m": 28.74,
+    "final_length_m": 2770.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the scene of love-making between Frankie and Melinda, deleted two close shots of the sex act where legs of Melinda are seen together with the last three shots of a man peeping through the door and reacting to the 'act' inside.",
+        "length_m": 3.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the scene where the girl is seen licking Tank’s body with the tongue, deleted the portions where Tank is not talking on phone.",
+        "length_m": 6.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "During the final scene between Frankie and Mitch, deleted the shots in which Frankie kicks Mitch on the groin and deleted subsequent shots in which he is shown writhing in pain.",
+        "length_m": 10.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the scene where Frankie and Terry are kissing passionately at the end, deleted the portions where open mouth tongue to tongue kissing is seen.",
+        "length_m": 8.58
+      }
+    ]
+  },
+  {
+    "film_title": "Wood Carvings of Orissa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "U-Cert. No. 89640",
+    "cert_date": "9-2-1979",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added a monogram of Films Division.",
+        "length_m": 3.73
+      }
+    ]
+  },
+  {
+    "film_title": "A Leaving Tradition",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "U-Cert. No. 88259",
+    "cert_date": "23-9-1978",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added a monogram.",
+        "length_m": 3.02
+      }
+    ]
+  },
+  {
+    "film_title": "Love In Canada",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "cert_no": "U-Cert. No. 89485",
+    "cert_date": "23-4-1979",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. IX",
+        "description": "Diffused version of the shot of lip to lip kissing during the English song.",
+        "length_m": 1.6
+      }
+    ]
+  },
+  {
+    "film_title": "El Mundo De Te",
+    "languages": [
+      "Spanish"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Seven Seas Films P. Ltd., 1, Auckland Place, Calcutta-17.",
+    "cert_no": "89058",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Jute, The Golden Fibre",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm.",
+    "producer": "M/s. Candida Films, 19A, Shakespere Sarani, Calcutta-71.",
+    "cert_no": "89060",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Project Kopili Part II",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Shri Gauri Barman, Tarun Nagar, Dinpur, Gauhati-5, Assam.",
+    "cert_no": "89061",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Abhi",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm.",
+    "producer": "Apurba Mitra Productions 84, S. N. Banerjee Road Mistrighat, 24-Parganas.",
+    "cert_no": "89062",
+    "endorsement": "U",
+    "original_length_m": 3733.19,
+    "length_deleted_m": 20.73,
+    "final_length_m": 3712.46,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Voluntary deletion for obtaining Children’s Film classification in Reel No. 6 sequence between Ramlal and Harilal in a bamboo grove.",
+        "length_m": 20.73
+      }
+    ]
+  },
+  {
+    "film_title": "Batash",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm.",
+    "producer": "Smt. Uma Dutta, 4, Bhupen Roy Road, Calcutta-34.",
+    "cert_no": "89064",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sunayani",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm.",
+    "producer": "Shri Ramen Ghosh, 13, Balaram Bose Ghat Road Calcutta-25.",
+    "cert_no": "89065",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Aagachha",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm.",
+    "producer": "M/s. K. R. G. Pictures, C/o Gul Bahar, 48, Tollygunge Circular Rd., Calcutta-53.",
+    "cert_no": "89066",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Panchakalayanl",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "Shri Udanthai Manalan, Madras.",
+    "cert_no": "81137",
+    "endorsement": "U",
+    "original_length_m": 3844.0,
+    "length_deleted_m": 64.22,
+    "final_length_m": 3784.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the shot of the exposed thighs of the heroine as she leaps towards the rapist.",
+        "length_m": 0.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted the shot of the girl’s breasts seen through her wet blouse.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the shot of the exposed hips of the heroine seen through the wet sari.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the shot of the exposed hips of the heroine seen through the wet sari as Kalyani nuzzles her.",
+        "length_m": 1.63
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "In the song sequence, deleted the shot of the hero placing his head on the heroine’s breast and then running his face alongside her body, replaced with comedian close-up and sea shore.",
+        "length_m": 2.37,
+        "length_retained_m": 2.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the shot of the hero and the heroine rolling over each other in the water.",
+        "length_m": 2.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Deleted the silhouette shot of the hero and the heroine kissing.",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "14 & 15",
+        "description": "Deleted all the shots of the cheeks, head, tongue, eye etc. of performer being pierced with needles and other implements. Reduced the shot of the religious function, retaining only the minimum necessary for continuity.",
+        "length_m": 28.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Reduced the scene of the hut burning with the three villains trapped inside.",
+        "length_m": 3.48
+      }
+    ]
+  },
+  {
+    "film_title": "Gandharvakanni",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "B. Vittal Acharya, Madras.",
+    "cert_no": "81138",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Maavoollo Mahasivudu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "Shri A. Aravind Babu.",
+    "cert_no": "81139",
+    "endorsement": "U",
+    "original_length_m": 3959.82,
+    "length_deleted_m": 133.43,
+    "final_length_m": 3826.39,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduced the molestation of Kamala by Gopal to a suggestion, retaining only the first shot of Kamala's struggle and the last shot where she cries for Ravi.",
+        "length_m": 8.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deleted the entire text of song No. 3 beginning with the ‘Peddepuram ammai’ together with complete dance picturisation accompanying the above song.",
+        "length_m": 125.27
+      }
+    ]
+  },
+  {
+    "film_title": "Simhasanam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "Bhavani Rajeswari Arts Madras.",
+    "cert_no": "81140",
+    "endorsement": "U",
+    "original_length_m": 4577.79,
+    "length_deleted_m": 10.56,
+    "final_length_m": 4577.79,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Deleted the close-up shots of the lady dancer when the camera lingers on a low-angle to reveal the deep inside of the thighs, replaced with close-up of Savithd.",
+        "length_m": 3.59,
+        "length_retained_m": 3.59
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Deleted the visual showing Madhavi caressing the pounding stick immediately after the dream sequence where Madhavi and Gopalan are shown making love in the bedroom, replaced with shot of Madhavi weaving coconut leaves.",
+        "length_m": 6.97,
+        "length_retained_m": 6.97
+      }
+    ]
+  },
+  {
+    "film_title": "Kamala",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "N.V. Ramaswamy, Bangalore.",
+    "cert_no": "3658",
+    "endorsement": "A",
+    "original_length_m": 3811.52,
+    "length_deleted_m": 57.47,
+    "final_length_m": 3770.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted Kamala’s words addressed to Ramu ’Banni kelsa mugisona’ (Sound only— no replacement).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "In the bathroom scene, deleted Kamala’s bare back under shower, replaced with close-up of Kamala’s face.",
+        "length_m": 4.36,
+        "length_retained_m": 4.36
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Deleted frontal shots of Kamala under shower, covering her bare breasts with her hands (2 shots), replaced with close up of Kamala’s face.",
+        "length_m": 1.41,
+        "length_retained_m": 1.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the boy putting his leg across (girl) Kamala’s body while lying next to her on the pavement (No replacement).",
+        "length_m": 2.19
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Deleted camera zooming on Kamala’s breasts-side-angle shots-while she is lying on the ground, replaced with long-shot of Kamala.",
+        "length_m": 3.72,
+        "length_retained_m": 3.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Deleted Kamala and Chandru rolling on each other in garden (duet song sequence), replaced with cloud shot.",
+        "length_m": 4.57,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deleted Kamala unbuttoning her blouse before Raghu in the lodge and also her subsequent shots in ‘bra’ only exposing bare bossom with Raghu in the background (No replacement), retaining only a suggestion showing the tot shot Kamala being thrown on to bed in the beginning and the last shot showing Kamala losing her consciousness (No objection to showing Raghu coming to save her and his fight with goondas without showing Kamala) (No replacement).",
+        "length_m": 16.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deleted Kamala unbuttoning her blouse before Raghu in the lodge and also her subsequent shots in ‘bra’ only exposing bare bossom with Raghu in the background (No replacement), retaining only a suggestion showing the tot shot Kamala being thrown on to bed in the beginning and the last shot showing Kamala losing her consciousness (No objection to showing Raghu coming to save her and his fight with goondas without showing Kamala) (No replacement).",
+        "length_m": 22.49
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "In the bathroom scene, deleted frontal shot of Kamala under shower covering her bare breasts with her hands, replaced with close up of Kamala’s face (No objection to leg shots).",
+        "length_m": 2.61,
+        "length_retained_m": 2.61
+      }
+    ]
+  },
+  {
+    "film_title": "The Legacy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "David Foster and Larry Turman.",
+    "cert_no": "4549",
+    "endorsement": "A",
+    "original_length_m": 2727.35,
+    "length_deleted_m": 17.09,
+    "final_length_m": 2710.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted the shot in which Danner is shown nude from the rear and moves towards the bath room.",
+        "length_m": 2.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduced prominent and prolonged shot of Maria’s face when she is shown struggling for life before collapsing dead on the surface of the swimming pool, also deleted pan shot of Maria’s mauled face when her body is floating before Danner jumps into the water.",
+        "length_m": 7.75,
+        "length_retained_m": 9.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced shots of a cook cutting the neck of a fowl and subsequently cutting chickens in the Kitchen.",
+        "length_m": 1.99,
+        "length_retained_m": 4.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced the shot of the nurse making incision after inserting the knife in the neck of choking Clive.",
+        "length_m": 0.91,
+        "length_retained_m": 0.938
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduced shots of Karl’s body in flames.",
+        "length_m": 5.79,
+        "length_retained_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Reduced drastically the shots of dogs eating the charred flesh of Karl (Completely deleted).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deleted close shot of burnt face of Jacques.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Tough Ones",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Amar Kakkad, Audio Visual Aids.",
+    "cert_no": "B/90492",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "length_deleted_m": 2.1,
+    "final_length_m": 30.48,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Deleted views of bottom of a woman seen through wet shirt, replaced with approved shot.",
+        "length_m": 1.3,
+        "length_retained_m": 1.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "N/A",
+        "description": "Deleted buttoning up of front portion of the jean with zip by a person, replaced with approved shot.",
+        "length_m": 0.8,
+        "length_retained_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "The Threat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm.",
+    "producer": "Jean Francois Bo,mer.",
+    "cert_no": "B/89131",
+    "endorsement": "U",
+    "original_length_m": 61.57,
+    "length_deleted_m": 0.81,
+    "final_length_m": 60.76,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Deleted the views of bare breasts of woman.",
+        "length_m": 0.81
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Rama Bantu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "Shri Y.V. Rau.",
+    "cert_no": "81148",
+    "endorsement": "U",
+    "original_length_m": 3985.13,
+    "length_deleted_m": 34.14,
+    "final_length_m": 3876.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted the introductory shot in wide angle the close up of the wild man.",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deleted the visuals of the wild man biting the raw mutton.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Deleted the visuals of the dancer pointing at her palm with her finger at the words ‘Andaalani’, replaced with Nagaraj and Sita close-up.",
+        "length_m": 1.42,
+        "length_retained_m": 1.42
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Deleted visuals of the male dancers hitting on the posterior of female dancers and female dancers jerking their backs, replaced with close-shot of Nagaraj.",
+        "length_m": 0.43,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the shot of wild man’s sadistic laughter after he let loose the bull.",
+        "length_m": 0.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the visuals of the bull hitting Ramadoss with horns.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the words of Bala Raju ‘Kotta Injanu’ (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted the words of Bala Raju ‘Pedatam-pedatam-Eerojunu ndi Maa Ipjanukl Neeve poweruni’.",
+        "length_m": 3.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the shot showing the bare back of Lakshmi as seen by Nagaraj.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the visuals of Lakshmi wearing blouse as observed by Nagaraj.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduced the molestation of Lakshmi by Nagaraju to one shot only.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the words of Bala Raju ‘Nuwu pata khaatana 7’.",
+        "length_m": 1.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the following words of Bala Raju: ‘Nuwichinanta’, ‘Injanlo power loda V’, ‘Poyyi’ (Sound only), ‘Gaddi Vaami Daggare Kolustuntanu’, ‘Palisatava’.",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the following words of Bala Raju: ‘Nuwichinanta’, ‘Injanlo power loda V’, ‘Poyyi’ (Sound only), ‘Gaddi Vaami Daggare Kolustuntanu’, ‘Palisatava’.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the following words of Bala Raju: ‘Nuwichinanta’, ‘Injanlo power loda V’, ‘Poyyi’ (Sound only), ‘Gaddi Vaami Daggare Kolustuntanu’, ‘Palisatava’.",
+        "length_m": 0.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted the following words of Bala Raju: ‘Nuwichinanta’, ‘Injanlo power loda V’, ‘Poyyi’ (Sound only), ‘Gaddi Vaami Daggare Kolustuntanu’, ‘Palisatava’.",
+        "length_m": 1.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted the words of Bala Raju ‘Naa Injanlo power lagestavani kalalo kuda anukoledu’.",
+        "length_m": 6.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted the words of Durgamma to Bala Raju ‘Itu Edu Itu Edu’ (Dialogue not found in film — but found in script — ‘Itu tagaladu’)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduced molestation of Sita by Nagaraj to two shots only.",
+        "length_m": 5.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Deleted the words of Bala Raju ‘Aa Durgamme N» Injanlo power lage sindi’, replaced with Panchayat shot.",
+        "length_m": 1.52,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted the words from the text of the song: ‘Gunta’, ‘Teepi Mantaro’, ‘Deani pulpulanni Napjukunta’, ‘Kuta Mteda Unna Punju’, ‘Aaboru Gittaro Deoni Aapodetla’ and ‘Gaajulu chltlina’ (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Deleted Laxmi undressing near the pond-retaining the shots of her climbing down and getting into waters, replaced with close-shot of Laxmi and Mohan.",
+        "length_m": 3.96,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted the visuals of Lakshmi recollecting of her love-making except one shot where she is lying on ground and Mohan comes close to her car.",
+        "length_m": 2.63
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Deleted the words of Bala Raju as said to Raghu ‘Sannaltiki Mee fpjanlo Power’, replaced with mid-shot of Sita.",
+        "length_m": 0.91,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted the winds of Bala Raju ‘Valla Injanlo power lage savu’.",
+        "length_m": 2.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted the shot of henchman of the villain falling on Trishul and the subsequent two shots showing the man dead lying on ground with Trishul piercing out of him, replaced with close-shot of monkey and close-shot of Jaekey.",
+        "length_m": 3.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Deleted the shot of actual electrocution of the villain's henchman (Only sparks coming out of the electric wires and pole to be deleted), replaced with mid-hot of Gunguli.",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Deleted the words of Bala Raju ‘Nee Medalo tali kaitanante Na injanlo power poyctundi’.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduced Nagaraj dragging Lakshmi's on road to two shots only.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduced to two shots Nagaraj molesting Sita.",
+        "length_m": 1.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Deleted the shot of Nagaraj mounted on Situ.",
+        "length_m": 0.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted the visuals of Nagaraj killing Raghu with hooted legs in the stomach.",
+        "length_m": 1.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted the shot of the bull hitting Nagarai with its horns.",
+        "length_m": 1.0
+      }
+    ]
+  },
+  {
+    "film_title": "Yakshi Paru",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "Feature",
+    "producer": "Evershine Productions, Madras.",
+    "cert_no": "81150",
+    "endorsement": "U",
+    "original_length_m": 4431.85,
+    "length_deleted_m": 201.76,
+    "final_length_m": 4372.97,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deleted police constable sitting on Head constable's stomach and rolling a stick over his stomach.",
+        "length_m": 25.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "General — Deleted close-up of Chellappan’s face with emphasis on deformity of his right eye wherever it occurs.",
+        "length_m": 5.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduced to a suggestion Shekhar attempting to rape Parvathi's daughter in front of Parvathi.",
+        "length_m": 13.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the dance deleted the following movements of the female dancer: Close-up exposing bare thighs low angle shot revealing undergarments (Replaced long-shot of tree), Male dancer seen between legs of female dancer (Replaced long-shot of tree), Close-up of bust cleavage of female dancer wherever it occurs (Replaced long shot of tree).",
+        "length_m": 8.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduced Thampi hitting Gopalan with lampstand to a suggestion.",
+        "length_m": 5.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Deleted all close-up of Appu hanging retaining only one long shot for continuity.",
+        "length_m": 26.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "18",
+        "description": "Reduced the fight in and outside the burning hut, reduced Paru hitting Thampi with a lampstand to a suggestion only, reduced flash-back of Thampi hitting Gopalan with a lampstand to a suggestion only, deleted close-up of Paru’s blood-smeared face, deleted close-up of Thampi's blood-smeared face.",
+        "length_m": 100.1
+      }
+    ]
+  }
+]

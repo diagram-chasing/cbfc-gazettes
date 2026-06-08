@@ -1,0 +1,31 @@
+[
+  {
+    "film_title": "Maash",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Messrs. Filmkar Ltd.",
+    "cert_no": "10220",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III, VII and XI",
+        "description": "To erase the cuddling scene between Tara and Ranjit at the end of song No. 2, again when Ranjit puts ring on Tara's finger and in the scene showing Tara trying to commit suicide",
+        "length_m": 0.008128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The whipping booths and the reference 'Vaishnavism' (replaced with 'Brahminism') and wound of whipping reduced to two strokes",
+        "length_m": 0.0085344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The fire sequence and accompanying shrieks",
+        "length_m": 0.00295656
+      }
+    ]
+  }
+]

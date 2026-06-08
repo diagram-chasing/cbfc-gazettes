@@ -1,0 +1,583 @@
+[
+  {
+    "film_title": "The Snows of Kilimanjaro (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Darryl F. Zanuck.",
+    "cert_no": "47127",
+    "cert_date": "28-2-1966",
+    "endorsement": "U",
+    "original_length_m": 3185.0,
+    "length_deleted_m": 156.71,
+    "final_length_m": 3028.29,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Sentence said by Harry to Helen in reference to Africans: 'From yours it would be contact with classes'.",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Scene relating to tribal dance round the fire with the rhinoceros horn.",
+        "length_m": 16.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The adjective 'frigid' as applied to Liz by Harry (twice).",
+        "length_m": 0.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The entire sequence relating to the witch doctor.",
+        "length_m": 138.98
+      }
+    ]
+  },
+  {
+    "film_title": "Sunhera Jaal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chandu Films",
+    "cert_no": "47130",
+    "cert_date": "1-3-1966",
+    "endorsement": "U",
+    "original_length_m": 3718.1,
+    "length_deleted_m": 197.95,
+    "final_length_m": 3714.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the song 'Sab duniya bhar ka pyar bhara hai', lines pertaining to Lala Din Dayal.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From the song-dance sequence 'Haae ek chhora bepeer...', shots of bust jerking by Mala.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From the comical dialogue of one of the comedians, the word 'Siyapat Ramchandra ki jai, Hanumanji kijai'.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The entire song-dance sequence: 'Ham se nazar mila ke — b- s e k hai kharabi.'",
+        "length_m": 182.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "From the fighting scene, shots of the hero lashing his opponent with an iron chain.",
+        "length_m": 1.0,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "A Patch of Blue",
+    "languages": [
+      "English"
+    ],
+    "producer": "Pandro S. Burman.",
+    "cert_no": "47136",
+    "cert_date": "2-3-1966",
+    "endorsement": "U",
+    "original_length_m": 55.47,
+    "length_deleted_m": 1.9,
+    "final_length_m": 53.57,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce to mere flash the beating up of the blind girl by her mother.",
+        "length_m": 1.9,
+        "length_retained_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "The Train",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jules Bricken.",
+    "cert_no": "47137",
+    "cert_date": "2-3-1966",
+    "endorsement": "U",
+    "original_length_m": 3643.27,
+    "length_deleted_m": 75.03,
+    "final_length_m": 3568.24,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part 3 A Reel 5",
+        "description": "The remark of Maj. Harren addressed to Papa Boule: 'They slip in franc pieces and cut off the oil supply', with reference to the modus operandi of obstructing the oil supply of the locomotives.",
+        "length_m": 1.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Part 1B Reel 6",
+        "description": "Shots of Pesquet taking out the cap from gas tank of a truck, showing a rag into it and lighting it with a match just before the military truck is set on fire.",
+        "length_m": 5.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Part 6A Reel 11",
+        "description": "Details of Robert tampering with the wires of the switch-box before setting off the false air-raid alarm.",
+        "length_m": 5.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Part 6B Reel 12",
+        "description": "Details of the modus operandi of blowing up of the railway line.",
+        "length_m": 50.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Part 7 A Reel 13",
+        "description": "Shots showing Labiche removing the fish-plates of the railway line after unscrewing the bolts and knocking off the braces with a mallet just before the derailment of the train.",
+        "length_m": 4.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "Part 4.4 Reel 7",
+        "description": "Close-ups of the torturing of the station master by Nazi soldiers.",
+        "length_m": 8.09,
+        "length_retained_m": 4.7
+      }
+    ]
+  },
+  {
+    "film_title": "The Cincinnati Kid",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Marlin Ransohoff",
+    "cert_no": "47146",
+    "cert_date": "3-3-1966",
+    "endorsement": "U",
+    "original_length_m": 34.75,
+    "length_deleted_m": 4.26,
+    "final_length_m": 30.49,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The indecorous views of Melba (twice).",
+        "length_m": 2.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The fight in bathroom by deleting the knifing sequence.",
+        "length_m": 1.27,
+        "length_retained_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Women of Orient",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Galatea S.P.A.",
+    "cert_no": "47149",
+    "cert_date": "4-3-1966",
+    "endorsement": "U",
+    "original_length_m": 89.7,
+    "length_deleted_m": 10.36,
+    "final_length_m": 79.25,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the passionate kiss between the boy and the girl when she is lowered on the sand.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The scene showing a woman in scanty dress before the mirror.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot showing the women in the community bath.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot showing the women in low-cut dresses with emphasised busts in the night club.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The caption 'CITY OF THE OPIUM' and a man smoking the opium pipe.",
+        "length_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "Kusrithikuttan",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Latha Movies",
+    "cert_no": "45071",
+    "cert_date": "3-3-66",
+    "endorsement": "U",
+    "original_length_m": 3937.0,
+    "length_deleted_m": 101.1,
+    "final_length_m": 3860.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Gopi threatening the Doctor, leaving only a suggestion, and his breaking a bottle.",
+        "length_m": 7.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "All shots of copying in the examination hall, and the master encouraging Johny to copy.",
+        "length_m": 35.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "The beating of Unni by Johny, and the fighting of Johny and Gopi.",
+        "length_m": 14.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Lakshmi beating Gopi.",
+        "length_m": 5.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "All shots of the goat being dragged, except when Govindan stops the man from taking the goat away.",
+        "length_m": 132.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Completely the shots of preparation for butchering the goat, the inserts of knife, the knife on its neck, the suggestion of cutting, the severe head thrown and held in Gopi’s hand, Gopi rolling and walling with the head in his hand, until the head is covered with a cloth.",
+        "length_m": 132.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Madhavan Nair beating Lakshmi.",
+        "length_m": 4.55
+      }
+    ]
+  },
+  {
+    "film_title": "Dangerous Thieves",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "producer": "Farbenfabriken Bayer A.G., Leverkusen.",
+    "cert_no": "47190",
+    "cert_date": "10-3-1966",
+    "endorsement": "U",
+    "original_length_m": 210.0,
+    "length_deleted_m": 4.11,
+    "final_length_m": 203.89,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near view of the chicken being eaten by rats.",
+        "length_m": 4.11
+      }
+    ]
+  },
+  {
+    "film_title": "The Cincinnati Kid",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Martin Ransohoff,",
+    "cert_no": "47192",
+    "cert_date": "10-3-1966",
+    "endorsement": "U",
+    "original_length_m": 81.38,
+    "length_deleted_m": 4.73,
+    "final_length_m": 76.65,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The indecorous views of Melba (twice).",
+        "length_m": 1.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of couples in the bed (twice).",
+        "length_m": 2.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The fight in bathroom by deleting the knifing sequence.",
+        "length_m": 0.86,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Women of Orient",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Galatea S.P.A.",
+    "cert_no": "1729",
+    "cert_date": "9-3-1966",
+    "endorsement": "A",
+    "original_length_m": 2845.91,
+    "length_deleted_m": 40.53,
+    "final_length_m": 2805.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "References to the Manager for the Sacred Cow, to Lord Vishnu as the Master of the house and to the monkey who thinks himself as the God.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Scene of a number of women in very low cut-dresses with flesh of the bosom exposed and busts emphasised when they bend forward.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene in which the modus operandi of smuggling is shown by a Sikh to a German.",
+        "length_m": 7.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The community bath scene where one bust of a lady giving bath to a child is exposed.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "After the rape scene on the beach, the shot of the Japanese girl with her bust exposed when she tries to get up from the sand.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The scene of Suhani changing her blouse before the mirror before going to the rich Chinese merchants.",
+        "length_m": 7.31,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sylvia",
+    "languages": [
+      "English"
+    ],
+    "producer": "Martin H. Poll.",
+    "cert_no": "1731",
+    "cert_date": "11-3-1966",
+    "endorsement": "A",
+    "original_length_m": 3159.25,
+    "length_deleted_m": 37.04,
+    "final_length_m": 3122.21,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The struggle of Sylvia and her step-father particularly the views of the legs of the man, and delete the subsequent scene of rape.",
+        "length_m": 9.95,
+        "length_retained_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Scene of the detective dashing the head of 'The Muscles' against the wall.",
+        "length_m": 1.32,
+        "length_retained_m": 1.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Delete the indecorous view of the bosom of the chorus girl as she comes— once from the stage and once from behind the screen when she goes to meet Maclin, as well as the views of her stripping behind the screen.",
+        "length_m": 12.1,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The scene of brothel by cutting up the dialogue said by Molly and the accompanying visuals.",
+        "length_m": 3.5,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably the sequence of Sylvia and Stamfor by removing the indecorous views of Sylvia and by reducing the scene of molestation and ripping up of her negligee by Stamfor.",
+        "length_m": 9.97,
+        "length_retained_m": 8.5
+      }
+    ]
+  },
+  {
+    "film_title": "A Global Affair",
+    "languages": [
+      "English"
+    ],
+    "producer": "HaLL Bartlett.",
+    "cert_no": "1732",
+    "cert_date": "11-3-1966",
+    "endorsement": "A",
+    "original_length_m": 2336.29,
+    "length_deleted_m": 94.33,
+    "final_length_m": 2241.96,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IO-A",
+        "description": "The underlined sentence from the dialogue between Weyland and Frank.",
+        "length_m": 0.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III(2A)",
+        "description": "The underlined word from the remark of Frank addressed to Lisette: 'She has ruined my peace of mind— my sleep— and my sex life.'",
+        "length_m": 0.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel K(3 A)",
+        "description": "Dialogue between Duval, Under Secretary Segura and Frank.",
+        "length_m": 6.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel K(3 A)",
+        "description": "The underlined words from the dialogue between Frank and Sonya.",
+        "length_m": 3.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel K(3 A)",
+        "description": "Sonya’s dialogue.",
+        "length_m": 11.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI(iB)",
+        "description": "Dialogue between Sonya and Frank.",
+        "length_m": 27.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI(iB)",
+        "description": "Dialogue between Frank and Sonya.",
+        "length_m": 23.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI(iB)",
+        "description": "Frank’s remark 'Go make a Russian plot out of that!' addressed to Sonya.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel P7f(4A)",
+        "description": "Sonya’s dialogue: 'If it is discovered what I have done, I may be shot as a traitor. Nevertheless, I shall sleep well,' addressed to Frank.",
+        "length_m": 5.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel P7f(4A)",
+        "description": "Dialogue: 'In Russia, we don't have the virus.'",
+        "length_m": 2.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel P7f(4A)",
+        "description": "The underlined words from Frank's dialogue: 'I wouldn’t mind settling down with you (in Russia), on a little vine covered prison camp.'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Reference to 'General Franko' in the dialogue of Frank at the end of the Spanish sequence.",
+        "length_m": 0.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VUK4B)",
+        "description": "Dialogue between Yvette and Frank.",
+        "length_m": 4.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX(5A)",
+        "description": "The underlined words addressed by Yvette to Frank: 'Oh, Frank, darling, be quiet and come to bed! Give France a chance.'",
+        "length_m": 2.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX(5A)",
+        "description": "Dialogue.",
+        "length_m": 1.03
+      }
+    ]
+  },
+  {
+    "film_title": "Iye Marathichiyc Nagari",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Colour",
+    "producer": "V. Shantaram Productions Pvt. Ltd.",
+    "cert_no": "46807",
+    "cert_date": "31-12-1965",
+    "endorsement": "U",
+    "original_length_m": 4310.0,
+    "length_deleted_m": 138.37,
+    "final_length_m": 4130.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels II, III, IV, V, IX, IX-A & X to XIV",
+        "description": "Various shots.",
+        "length_m": 138.37
+      }
+    ]
+  }
+]

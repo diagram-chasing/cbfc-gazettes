@@ -1,0 +1,1199 @@
+[
+  {
+    "film_title": "Morni",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "79073",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce considerably the eating up of an old man by Beliram's men.",
+        "length_m": 7.07,
+        "length_retained_m": 3.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word \"Randl\" as referred to the dancer by Beliem.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the word \"Sarkarl\" in the sentence \"Sarkari Sand\".",
+        "length_m": 4.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the references to \"raw mangoes\" in the dialogue of Ramesh and Paro.",
+        "length_m": 0.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the fight between Ramesh, Chandu and goondas, deleting the hits and other gruesome shots, with a view to reduce the impact.",
+        "length_m": 8.53,
+        "length_retained_m": 50.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kala Sona",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "79078",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the flash back sequence, delete hanging of hero's father by Poppy Singh's henchman, retaining only a suggestion of his murder. Also delete shots of killings.",
+        "length_m": 2.69,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete hard hitting shots in the fight between Rakesh and ruffians at a way side bar.",
+        "length_m": 0.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce fight between Rakesh and Shera.",
+        "length_m": 14.94,
+        "length_retained_m": 30.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce shots where Shera's man pull dacoits with ropes.",
+        "length_m": 0.76,
+        "length_retained_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the policeman on duty dozing and Police havildar receiving apples as indirect bribe.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce to a minimum the scene of Durga's molestation by Jagga.",
+        "length_m": 12.0,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the entire sequence of Poppy Singh challenging his so-called slaves to climb a pole, pick up the gun and kill him to show that Poppy Singh does not kill the young man who climbs the pole.",
+        "length_m": 26.31,
+        "length_retained_m": 33.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce the torture of a man tied to a pillar being denied water and his being hit with the butt of gun by a guard.",
+        "length_m": 5.35,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the strangulation with his leg and killing of a man by Rakosh.",
+        "length_m": 1.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete hard hitting shots during fight between wrestler Harbans Singh and Rakesh and the former being killed by Poppy Singh.",
+        "length_m": 14.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce the scene where Rakosh is shown buried shoulder deep in an open ground for being trampled by horses.",
+        "length_m": 4.88,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce to a mere suggestion hanging of Shera by Poppy Singh's men.",
+        "length_m": 8.05,
+        "length_retained_m": 3.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the entire scene from the point the gangsters pounce on the picture of a girl and start tearing it off, separating it into pieces and misbehaving with different parts of her body.",
+        "length_m": 9.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "In the dance of Durga, delete the indecorous shot.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the dialogue of the captured police inspector addressed to Poppy Singh and the subsequent scene of his willingly consuming poison and the parading of his dead body in Poppy fields.",
+        "length_m": 20.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce fight between Rakesh and Shera.",
+        "length_m": 1.22,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the underlined words from Poppy Singh's dialogue.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "During the song dance of Helon and Durga, delete indecorous shots.",
+        "length_m": 2.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "In the final fight between Rakesh and his people and Poppy Singh's henchmen, delete all killings and reduce fight by deleting hard hitting shots.",
+        "length_m": 23.77,
+        "length_retained_m": 41.15
+      }
+    ]
+  },
+  {
+    "film_title": "Jain Tirthkshotra Darslian",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77281",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted various shots",
+        "length_m": 115.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Deleted various shots",
+        "length_m": 117.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted various shots",
+        "length_m": 129.54
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Added various shots",
+        "length_m": 115.82
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "Added various shots",
+        "length_m": 117.35
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Added various shots",
+        "length_m": 129.54
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Savera",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "74807",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Added various shots",
+        "length_m": 49.84
+      }
+    ]
+  },
+  {
+    "film_title": "Sangam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "74806",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 19.81
+      },
+      {
+        "kind": "insertion",
+        "description": "Added various shots",
+        "length_m": 7.61
+      }
+    ]
+  },
+  {
+    "film_title": "Ondo Roopa Yaradu Guna",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77674",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the prisoners suggestive action of passing urine and doing up pant buttons.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete shots of dancer in yellow with vulgar movements, wherever occurring in song Gum Gum!.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete shot of girls at the foot of male dancers.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the dialogue between the jail sentry and Katri and Chatri in disguise, with words, ‘Abortion. 12 months, try again.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "From the words Melkote Numa, delete Melkote.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Reduce fights to a flush, punches in close shots - hard kicks rolling and kicking - all these actions to be deleted.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete dancer in bikini upto her action of getting off the table.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the scene in which urine passed by police officers, dripping over the head of the prisoners in hideout - All actions following the event, the prisoners action of doing up the pant should be deleted.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the action of Vikram's strangling Shanthi to a suggestion.",
+        "length_m": 3.05,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the protracted suffering and torture of Shanthi at the hands of Vikram, to the bare necessity of the story.",
+        "length_m": 4.88,
+        "length_retained_m": 2.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "All actions of her suffering, once she leaves the horse after hitting tree trunk, to be reduced to the point where Vikram takes her to the tin shed and sets fire to it.",
+        "length_m": 8.53,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Kaveri",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Partly coloured",
+    "format": "35 mm .",
+    "cert_no": "77675",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4, 5, 8 & 15",
+        "description": "Delete the words Holoya and Holathi",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jebu Donga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "colour",
+    "format": "35 mm .",
+    "cert_no": "77676",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete all views of Avatram kissing Rama on her cheek along with the kissing sounds.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "From the song picturisation, delete Gopi taking down his face from over the busts of Radha in close proximity.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the word Upa pradliani from the dialogue of Raja to Madhavi.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce the telephonic conversation between Sehsa Rao and constable Chandriah to bare minimum necessary for the story, especially deleting the following.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Reduce the telephonic conversation between Sehsa Rao and constable Chandriah to bare minimum necessary for the story, especially deleting the following.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Reduce the telephonic conversation between Sehsa Rao and constable Chandriah to bare minimum necessary for the story, especially deleting the following.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Boglanti",
+    "languages": [
+      "Konkani"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77677",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all close-up shots of the dead body of the Hero's mother in the coffin with cotton in the mouth.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Alter Jerry pierces Dolly in the ball delete Jerry piercing the knife into her stomach.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Ngela Ponman",
+    "languages": [
+      "Malayalan"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77678",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the action of Hippy's falling on the girl lying on the ground.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the Hippy and his girl in tight embrace in lying posture inside the tent and their suggestive action again the Hippy and the girl lying together on the ground over each other.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Bhasi's action of removing gooseberrys from the blouse of his wife.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Bhasi and Bahadur sleeping.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Brathuke Oka Panduga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77679",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Varahaliah saying (Polico Vallu nana chotullo valle Manam entä chebito anto.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "From the picturisation of the song beginning with the line Enni ennimuddulunnavi delete the following.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "From the picturisation of the song beginning with the line Enni ennimuddulunnavi delete the following.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "From the picturisation of the song beginning with the line Enni ennimuddulunnavi delete the following.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the fight between Rayi and Ram Babu considerably.",
+        "length_m": 6.71,
+        "length_retained_m": 30.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "From the court scene, delete Ravi saying Guddi court, standing in the dock and defending himself.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Vanaja Girija",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77680",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "delete Viyyanna Pantulu taking Somi Devi into the bed-room and also his sentence Naku pauresham Vachindi, Neeragam Vachestoonda. Pada gadila ki. before both going inside the room.",
+        "length_m": 9.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Somi Devi asking Viyyanna Pantulu to come into the bed-room and after their going inside, delete his shrieking.",
+        "length_m": 4.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "From the picturisation of the duet song beginning with the line \"Kandilo orupuo, delete the following.",
+        "length_m": 2.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "From the picturisation of the duet song beginning with the line \"Kandilo orupuo, delete the following.",
+        "length_m": 0.92
+      }
+    ]
+  },
+  {
+    "film_title": "Onde Roopa Yaradu Guna",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77674",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the prisoners suggestive action of passing urine and doing up pant buttons.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete shots of dancer in yellow with vulgar movements, wherever occurring in song Gum Gum!.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete shot of girls at the foot of male dancers.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the dialogue between the jail sentry and Katri and Chatri in disguise, with words, ‘Abortion. 12 months, try again.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "From the words Melkote Numa, delete Melkote.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Reduce fights to a flush, punches in close shots - hard kicks rolling and kicking - all these actions to be deleted.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete dancer in bikini upto her action of getting off the table.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the scene in which urine passed by police officers, dripping over the head of the prisoners in hideout - All actions following the event, the prisoners action of doing up the pant should be deleted.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the action of Vikram's strangling Shanthi to a suggestion.",
+        "length_m": 3.05,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the protracted suffering and torture of Shanthi at the hands of Vikram, to the bare necessity of the story.",
+        "length_m": 4.88,
+        "length_retained_m": 2.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "All actions of her suffering, once she leaves the horse after hitting tree trunk, to be reduced to the point where Vikram takes her to the tin shed and sets fire to it.",
+        "length_m": 8.53,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Kaveri",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Partly coloured",
+    "format": "35 mm .",
+    "cert_no": "77675",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4, 5, 8 & 15",
+        "description": "Delete the words Holoya and Holathi",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jebu Donga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "colour",
+    "format": "35 mm .",
+    "cert_no": "77676",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete all views of Avatram kissing Rama on her cheek along with the kissing sounds.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "From the song picturisation, delete Gopi taking down his face from over the busts of Radha in close proximity.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the word Upa pradliani from the dialogue of Raja to Madhavi.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce the telephonic conversation between Sehsa Rao and constable Chandriah to bare minimum necessary for the story, especially deleting the following.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Reduce the telephonic conversation between Sehsa Rao and constable Chandriah to bare minimum necessary for the story, especially deleting the following.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Reduce the telephonic conversation between Sehsa Rao and constable Chandriah to bare minimum necessary for the story, especially deleting the following.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Boglanti",
+    "languages": [
+      "Konkani"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77677",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all close-up shots of the dead body of the Hero's mother in the coffin with cotton in the mouth.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Alter Jerry pierces Dolly in the ball delete Jerry piercing the knife into her stomach.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Ngela Ponman",
+    "languages": [
+      "Malayalan"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77678",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the action of Hippy's falling on the girl lying on the ground.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the Hippy and his girl in tight embrace in lying posture inside the tent and their suggestive action again the Hippy and the girl lying together on the ground over each other.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Bhasi's action of removing gooseberrys from the blouse of his wife.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Bhasi and Bahadur sleeping.",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Brathuke Oka Panduga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "77679",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Varahaliah saying (Polico Vallu nana chotullo valle Manam entä chebito anto.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "From the picturisation of the song beginning with the line Enni ennimuddulunnavi delete the following.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "From the picturisation of the song beginning with the line Enni ennimuddulunnavi delete the following.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "From the picturisation of the song beginning with the line Enni ennimuddulunnavi delete the following.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the fight between Rayi and Ram Babu considerably.",
+        "length_m": 6.71,
+        "length_retained_m": 30.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "From the court scene, delete Ravi saying Guddi court, standing in the dock and defending himself.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Vanaja Girija",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77680",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "delete Viyyanna Pantulu taking Somi Devi into the bed-room and also his sentence Naku pauresham Vachindi, Neeragam Vachestoonda. Pada gadila ki. before both going inside the room.",
+        "length_m": 9.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Somi Devi asking Viyyanna Pantulu to come into the bed-room and after their going inside, delete his shrieking.",
+        "length_m": 4.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "From the picturisation of the duet song beginning with the line \"Kandilo orupuo, delete the following.",
+        "length_m": 2.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "From the picturisation of the duet song beginning with the line \"Kandilo orupuo, delete the following.",
+        "length_m": 0.92
+      }
+    ]
+  },
+  {
+    "film_title": "Alibaba and forty one Thieves",
+    "languages": [
+      "Malyalam"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77682",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shots of man praying in a turret, interior of mosque showing persons doing Namaaz. Delete the lines from Quoran.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Delete the action of forward and backward hip thrusts of the main dancer.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Delete the close shot of profile of breast of dancer.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Delete (a) close-shot of the tight hug of Margiana.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Delete (b) Alibaba placing his face on the breast of Margiana.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Naharathil Thirudargal",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77685",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the last line reifying Ramanun Rayanan Aavare",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Aasthi Kosam",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77687",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce to a flash, Vasu strangling Sethji to death, on bed with telephone wire.",
+        "length_m": 0.3,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "From the song picturisation (dream song), delete the action of Ramu laying his leg on Indiara when both shown near the fountain.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From the police station scene, delete the dialogue of the police Constable Desamanta Rama Rajyamaynoyinid.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "From the fighting scene, delete Ramu kicking Vasu straightly below the belt.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete all prominent close range views of Manjula in swimming suit with exposed breasts seen through cleavage as she is facing camera at the beach.",
+        "length_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "14 & 8",
+        "description": "Delete the Head constable shown sleeping in the police station, whenever it occurs in the film.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the Head constable shown sleeping in the police station, whenever it occurs in the film.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Santhanam Sowbhagyam",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77688",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "From the picturisation of club dance on the song, delete the following.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "From the picturisation of club dance on the song, delete the following.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "From the picturisation of club dance on the song, delete the following.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Satyam's action of caressing Nandini's bare leg from ankle to hip with his hand when both are on rock in swimming dress, lying together.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Viplava Vanithe",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35 mm .",
+    "cert_no": "77712",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete smuggler's reference to Syndicate and Vijaya banks",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the attempted rape of Radha by Swamiji, to a flash, keeping the barest minimum for continuity - delete all struggle - unwinding of sari etc.",
+        "length_m": 7.92,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce to a flash, swamiji strangling Radha to death, with a towel.",
+        "length_m": 1.83,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In the dance picturisation of song No. 4 beginning with the words \"Yavvana Bandhaga, delete.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete shot showing a man paying money to a prostitute before taking her with him.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce to a flash, criminal squeezing Bharathi's neck with rope.",
+        "length_m": 6.1,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduce the fight in the climax scene, and delete all direct hits, kicks and kicks on chest and stomach.",
+        "length_m": 35.66,
+        "length_retained_m": 33.53
+      }
+    ]
+  },
+  {
+    "film_title": "Kamam Krodham Moham",
+    "languages": [
+      "Malaya"
+    ],
+    "format": "35 mm .",
+    "cert_no": "3321",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Vincent's action of unhooking the blouse of Renuka and caressing her bare back in the green room.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete Vincent's action of pushing up Malati's clothes and caressing legs inside the car.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Gati",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "16mm .",
+    "cert_no": "79339",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the suggestive movement of the foot of a young boy to the girl while eating at a table in a hotel.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the suggestive shot of a replica of Khajuraho of a man and woman in amorous posture.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of a beggar approaching a Sikh gentleman who is taking his food and he refusing a morsel of food to the beggar.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the suggestion in the commentary that the temple, church and Masjid are separating the people from each other.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Mazzaq",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "79328",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the dialogue of Raja to the effect \"Teri phadla hoon\".",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words \"Teri jaat komain maro\" as spoken by Raja to the Panwala while throwing away the articles in the shop.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Delete the reference to the purchase of \"fourteenth century statues\" by Mr. Narang in his telephonic talk.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Thief who came To Dinner",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm .",
+    "cert_no": "79330",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Modify suitably the end of the film, by deleting the views of Webster running away when the Police is approaching, to establish that he did not get away with all his crimes.",
+        "length_m": 17.67
+      }
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "film_title": "Net King Cole and Rum Morgan’s Orchestra S1)",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures India Ltd., Mustafa Bldg., Sir P. M. Road, Bombay.",
+    "cert_no": "10180",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "The sequence showing the dancing girl exposing her bare thighs was replaced.",
+        "length_m": 76.5,
+        "length_retained_m": 44.2
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “A Lion Is In The Streets ”",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Film\r\ns of India, 91, Walkeshwar Road, Bombay 6.",
+    "cert_no": "10187",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "The trailer for \"A Lion Is In The Streets\" was replaced with \"Palms To Pinos\".",
+        "length_m": 59.13,
+        "length_retained_m": 59.13
+      }
+    ]
+  },
+  {
+    "film_title": "Moner Moyur",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Rama Chayachitra Ltd., 60, Theatre Road, Suite No. 12, Calcutta-17.",
+    "cert_no": "9620",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of dialogue: \"Without wives how will he measure his manhood?\"",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of dialogue: \"They are still children, really children with adult bodies, and they have the vices and virtues of children\", and pictures of nude adults.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of dialogue: \"They eat, they sleep, they have children, and they die\", and shots of women with cameras focused on exposed breasts.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Blood Bank",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Aurora Cinema Co., 41, Kasi Mitter Ghat Street, Calcutta.",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Deletion and addition of certain details at blood donation.",
+        "length_m": 309.68
+      }
+    ]
+  },
+  {
+    "film_title": "Ma-O-Chhclay",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Shree Bharat Lakshmini Pictures, 19, Prince Anwarshah Road, Calcutta-33.",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deletion of the song beginning with 'Aji byakul gokul jashomati andha' to 'Ainar praner gopal mathural getoche' and 'Aji Krishna bi hina' to 'Khyati balo atohe'.",
+        "length_m": 26.21
+      }
+    ]
+  },
+  {
+    "film_title": "Anta Manavalle",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M/s. Sarathi Films Ltd., Madras-17.",
+    "cert_no": "8164-U",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "The car accident scene and sounds to be deleted.",
+        "length_m": 18.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 19",
+        "description": "The entire sequence where Girija and Gowripati claimed to have married each other, from their entrance on the scene to their leaving, to be deleted. (The sequence is permitted in view of the changing of the dialogue to indicate Registered marriage instead of love marriage)",
+        "length_m": 17.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 19",
+        "description": "The sequence showing the attack on the Kagada press up to and including the burning of papers, is to be deleted, leaving only the suggestion of (i) goondas appearing at the door, and (ii) attacks on Rao and Satyam, in brief flashes. (Correct reels shown and approved) - Retention of burning of records (in flashes) is approved.",
+        "length_m": 26.52
+      }
+    ]
+  },
+  {
+    "film_title": "Ladki",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s A.V.M. Productions, Madras-20.",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 13",
+        "description": "Hand colouring done for beginning leader.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 13",
+        "description": "Hand colouring done for fiance.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 13",
+        "description": "Hand colouring done at the end (for audience applause).",
+        "length_m": 12.19
+      }
+    ]
+  }
+]

@@ -1,0 +1,619 @@
+[
+  {
+    "film_title": "Essay On Poona",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16mm",
+    "cert_no": "42708",
+    "cert_date": "5-10-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of Muslim devotee performing the ‘Namaz’ after sunrise.",
+        "length_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Hameer Hath",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "42719",
+    "cert_date": "6-10-1964",
+    "endorsement": "U",
+    "original_length_m": 3881.02,
+    "length_deleted_m": 24.08,
+    "final_length_m": 3856.94,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From Hamcer's dialogue in the court: 'Aur na Allaudin Khilji Hindustan ka Badshah hota, anr na Allaudin Khilji ka doot aaj ham sab'logon ke durbar mon hota.'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From Hameer's dialogue in the court: 'Ranthumbor par hamala ho ya na ho Allaudin ko Dilli chhorni hi paregi, Hindustan chhorna hi parega.'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From Hameer's dialogue in the court: 'Hindwan kighati ke uspar Hindustan ke dushmanon ko raundh dalon.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Allauddin’s dialogue referring to Meer Mangol: ‘Us namafdtarani ne Islam ke paak usulon ki tauhin ki hoi.’",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Reference to ‘Irani’ from the dialogue of Shabhnam, Allauddin’s court dancer, while enticing Ratipal.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Meer Mangol’s dialogue addressed to Hameer: ‘Khoodgarz aur beraham Allauddin ne Islam ke un paak usoolon ki tauhin ki hai.’",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Dialogue between Meer Mangol and Gafroo regarding life, community, religion, and fighting against one's own community.",
+        "length_m": 13.72
+      }
+    ]
+  },
+  {
+    "film_title": "The Pink Panther",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "endorsement": "A",
+    "original_length_m": 3147.67,
+    "length_deleted_m": 50.15,
+    "final_length_m": 3097.52,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (Part B)",
+        "description": "Suggestive dialogue between the Inspector and his wife in bed.",
+        "length_m": 6.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (Part A)",
+        "description": "From dialogue between Princess Dala and Sir Charles: 'Feed me champagne break down the inhibitions and Tally Ho ! No more Virgin Queen ! We're all out of champagne !'",
+        "length_m": 8.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (Part B)",
+        "description": "From George's dialogue to Simone: 'If you aren't the d-m nest woman I’ve ever met ! What are you, a sexual yo-yo?'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (Part B)",
+        "description": "From George's dialogue to Simone: 'If you aren't the d-m nest woman I’ve ever met ! What are you, a sexual yo-yo?'",
+        "length_m": 0.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II (Part A & B)",
+        "description": "Bedroom scene between the Inspector and his wife, deleting suggestive sounds of kissing, cuddling and rustling of bed covers.",
+        "length_m": 34.32,
+        "length_retained_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "The Ceremony",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "1527",
+    "cert_date": "9-10-1964",
+    "endorsement": "A",
+    "original_length_m": 2942.0,
+    "length_deleted_m": 10.36,
+    "final_length_m": 2931.64,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (B)",
+        "description": "From Sean’s speech: 'That Jury! The biggest thieves and the most hardened criminals of all. The law protects their kind of murdering and robbery. What do they care about hunger? They want to destroy me because I dared to play their own game. And I’m only an apprentice who tried to be like them. That is my greatest crime.'",
+        "length_m": 10.36
+      }
+    ]
+  },
+  {
+    "film_title": "Jahan Ara",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "42618",
+    "cert_date": "19-9-1964",
+    "endorsement": "U",
+    "length_deleted_m": 229.78,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Various shots and dialogues deleted.",
+        "length_m": 15.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Various shots and dialogues deleted.",
+        "length_m": 48.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Various shots and dialogues deleted.",
+        "length_m": 82.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Various shots and dialogues deleted.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Various shots and dialogues deleted.",
+        "length_m": 31.21
+      }
+    ]
+  },
+  {
+    "film_title": "The Killers",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "1530",
+    "cert_date": "17-10-1964",
+    "endorsement": "A",
+    "original_length_m": 2636.82,
+    "length_deleted_m": 10.99,
+    "final_length_m": 2625.83,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (6A)",
+        "description": "Sequence of gangsters torturing Sheila and twisting her out of the window and threatening to kill her by throwing her down several storeys.",
+        "length_m": 8.81
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV (2B)",
+        "description": "Passionate kissing between Johnny and Sheila.",
+        "length_m": 2.18,
+        "length_retained_m": 2.1
+      }
+    ]
+  },
+  {
+    "film_title": "The Unsinkable Molly Brown",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "42751",
+    "cert_date": "9-10-1964",
+    "endorsement": "U",
+    "original_length_m": 3574.38,
+    "length_deleted_m": 21.47,
+    "final_length_m": 3552.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II (IB)",
+        "description": "Sequence in the children’s scuffle when Molly’s arm is ‘pinioned behind her back while another gives her a pounding.",
+        "length_m": 14.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (20)",
+        "description": "The belly and hip shaking act of a dancer in a blonde wig.",
+        "length_m": 6.77
+      }
+    ]
+  },
+  {
+    "film_title": "Kisses For My President",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "42773",
+    "cert_date": "17-10-1964",
+    "endorsement": "U",
+    "original_length_m": 3102.5,
+    "length_deleted_m": 29.69,
+    "final_length_m": 3072.81,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogues from the speech of Leslie and Thad.",
+        "length_m": 2.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From Alexminch’s dialogue: ‘And soon neither will your starving people. I'm looking forward to a glorious revolution.’",
+        "length_m": 5.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Shot of Leslie and Thad in bed, deleting shots after the second pillow is put on the telop till Leslie withdraws her hand from Thad’s chest.",
+        "length_m": 8.11,
+        "length_retained_m": 2.54
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The strip-lease act by deleting the shots when the strip-teaser takes off her dress from the backside and her front views in a brief bikini.",
+        "length_m": 13.1,
+        "length_retained_m": 4.13
+      }
+    ]
+  },
+  {
+    "film_title": "Daivacha Khel",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35mm",
+    "cert_no": "42787",
+    "cert_date": "17-10-1964",
+    "endorsement": "U",
+    "original_length_m": 3443.02,
+    "length_deleted_m": 14.37,
+    "final_length_m": 3443.02,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Suggestions of kiss by Prakash on Jyoti's eyes.",
+        "length_m": 0.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The indecorous gesture by Deepak in reference to Menaka’s bust.",
+        "length_m": 1.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The suggestions of kiss between Pinkish and Menaka in the song beginning with the words: ‘Visarunooni jaa ’",
+        "length_m": 12.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The action of brushing of lips with hand by Deepak, which suggests that he has been kissing Menaka.",
+        "length_m": 0.15
+      }
+    ]
+  },
+  {
+    "film_title": "Erik The Conqueror",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "42788",
+    "cert_date": "17-10-1964",
+    "endorsement": "U",
+    "original_length_m": 55.47,
+    "length_deleted_m": 1.82,
+    "final_length_m": 53.65,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shots of the bleeding bodies of a girl and boy bound on a platform.",
+        "length_m": 1.82,
+        "length_retained_m": 0.4
+      }
+    ]
+  },
+  {
+    "film_title": "Two Destinies (II Part)",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "format": "16mm",
+    "cert_no": "42789",
+    "cert_date": "17-10-1964",
+    "endorsement": "U",
+    "original_length_m": 1188.72,
+    "length_deleted_m": 4.27,
+    "final_length_m": 1184.45,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Die sequence where a young Russian girl is mobbed and killed.",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Signpost To Murder",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "42790",
+    "cert_date": "17-10-1964",
+    "endorsement": "U",
+    "original_length_m": 59.13,
+    "length_deleted_m": 2.79,
+    "final_length_m": 56.34,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The view of the body on the rungs of the water-mill.",
+        "length_m": 2.79
+      }
+    ]
+  },
+  {
+    "film_title": "How To Be Loved",
+    "languages": [
+      "Polish"
+    ],
+    "format": "35mm",
+    "cert_no": "1528",
+    "cert_date": "16-10-1964",
+    "endorsement": "A",
+    "original_length_m": 2949.85,
+    "length_deleted_m": 11.73,
+    "final_length_m": 2938.12,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VI",
+        "description": "Shots of Nazi officer peeping inside through the pane along with his remark addressed to his companion: ‘Smart guy Elogant, now hurry up, hurry up, or it will be the last bit of fun in your bloody life’.",
+        "length_m": 11.73
+      }
+    ]
+  },
+  {
+    "film_title": "The New Interns",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "1529",
+    "cert_date": "16-10-1964",
+    "endorsement": "A",
+    "original_length_m": 3364.69,
+    "length_deleted_m": 8.83,
+    "final_length_m": 3355.86,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From Considine's speech to the interns, the words: ‘The Considins test explores a held of human behaviour that was un-touched by Rhorshach : the ques tion of a girl’s sexual availability’",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "From Stella’s talk to Considinc, ‘well , I hope your damn nose cone lulls off.’",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels X & XI",
+        "description": "Shot of a man in diapers and with a baby cap on his head when he first appears with a girl in the bikini. Also remove the close back views of the dancing girl in bikini as well as view of the hands trying to grab her. Also the view of a couple in the fireplace.",
+        "length_m": 5.48
+      }
+    ]
+  },
+  {
+    "film_title": "The Fifth Eye",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "40413",
+    "cert_date": "30-12-1963",
+    "endorsement": "U",
+    "original_length_m": 555.04,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Monogram of Films Division.",
+        "length_m": 7.3
+      }
+    ]
+  },
+  {
+    "film_title": "Ramat Ramade Rum",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "cert_no": "41538",
+    "cert_date": "18-5-1964",
+    "endorsement": "U",
+    "length_deleted_m": 53.2,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Various shots including the picturisation under the stanza ‘Surayc thami gayo gagan ma’",
+        "length_m": 53.2
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Picturisation of the stanza ‘Surayc thami gayo gagan ma’ replaced with approved shots.",
+        "length_m": 33.69
+      }
+    ]
+  },
+  {
+    "film_title": "Women of India",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "cert_no": "42149",
+    "cert_date": "24-7-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Visuals and commentary pertaining to the former Deputy Finance Minister.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Visuals and commentary pertaining to the former Deputy Finance Minister replaced with visuals and commentary pertaining to Smt. Indra Gandhi being sworn in as Minister of Information and Broadcasting.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Visuals of Rani Lakshmibai being stabbed.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Visuals of Rani Lakshmibai being stabbed replaced with approved visuals.",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Baghi",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "42911",
+    "cert_date": "21-10-1964",
+    "endorsement": "U",
+    "original_length_m": 3998.41,
+    "length_deleted_m": 61.87,
+    "final_length_m": 3992.62,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the song-dance sequence: ‘Tujhe iski Khabar kya, tere diwane pc kya guzari’ back view of Shabnam shaking her hips in the beginning and shots of her arching backward and lying on the floor in which her bust is seen to be emphasised.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Back view of Shabnam shaking her hips and shots of her arching backward and lying on the floor in which her bust is seen to be emphasised replaced with approved shots.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "All direct thrusts of swords and daggers in the fighting scenes.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "All references to Yemen in the dialogues so as to remove the impression that the story relates to the country.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "References to Yemen in the dialogues replaced with approved sound only.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "The scene of fighting between Habib and Akram when they are almost covered by flames.",
+        "length_m": 52.73,
+        "length_retained_m": 52.73
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Scene of fighting between Habib and Akram when they are almost covered by flames replaced with approved shots.",
+        "length_m": 52.73
+      }
+    ]
+  },
+  {
+    "film_title": "Family Planning",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "cert_no": "29703",
+    "cert_date": "18-4-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "35 mm version, Reel I",
+        "description": "Monogram of the Films Division with superimposition of the words 'Released through the Films Division.'",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Dosti",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "cert_no": "42699",
+    "cert_date": "1-10-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Shot of portrait of Mother of Sri Aurobindo Ashram.",
+        "length_m": 6.1
+      }
+    ]
+  }
+]

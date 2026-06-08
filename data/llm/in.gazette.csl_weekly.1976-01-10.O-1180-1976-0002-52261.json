@@ -1,0 +1,164 @@
+[
+  {
+    "film_title": "Mere Sajana",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "78477",
+    "cert_date": "21-4-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots showing Master caressing thighs of Sona sitting in his lap and rubbing his lips on her bare shoulder while watching the killing of his henchman by a dog.",
+        "length_m": 5.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between the dog and the man.",
+        "length_m": 0.65
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replace Sona's remark 'Merc jisme se ang ubhar aayce hai' with 'Bahut Garmi hai' while talking to Ratan suggestively.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce shots where Ratan is seen caressing her bare back and the girl feeling passionate.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete portions of the scene where Ratan is trying to kiss Kammo and taking his lips too close to his and also his leg coming over Kammo's legs.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce views of Ratan being dragged by a jeep and also reduce the fight between Ratan and Gordas where there are hard hitting shots.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Ratan and Master avoiding hard hitting shots.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the fight between Ratan and Master in Church top particularly the shots showing the villain being pulled by means of a rope and his hard dashing against the bell.",
+        "length_m": 2.26
+      }
+    ],
+    "original_length_m": 3725.94,
+    "length_deleted_m": 16.57,
+    "final_length_m": 3709.37
+  },
+  {
+    "film_title": "Trailer of Dharmatma",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "78488",
+    "cert_date": "22-4-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the impact of violence in the trailer.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce dragging of the hero behind running motor-cycles.",
+        "length_m": 0.61
+      }
+    ],
+    "original_length_m": 100.88,
+    "length_deleted_m": 2.74,
+    "final_length_m": 98.41
+  },
+  {
+    "film_title": "Apne Rang Hazar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "cert_no": "78494",
+    "cert_date": "23-4-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the dialogue 'Har raut usko ck nayi laundja chahiyc' as spoken by a man to Padmabai with reference to Sunil.",
+        "length_m": 0.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Reduce the number of whipping by Vicky on the goondas.",
+        "length_m": 6.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the view of Vicky gazing at the blood stained trophy and also his action of wiping out the blood on the bath tub.",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the underlined words from the dialogue 'Merc mitra ka shureer bada komal tai. . . . . . Vishesh talir par' as spoken by Shastri, when the doctor is removing glass pieces from the buttocks of Sunil.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete suggestions of kiss between Sunil and Rita inside the car in the garage.",
+        "length_m": 2.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Sunil and Vicky on the entrance of a building under construction, avoiding hard hits on stomach and face.",
+        "length_m": 4.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the fight between Vicky and Sunil inside the club deleting gruesome visuals with a view to reduce the impact.",
+        "length_m": 3.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the usage of the word '-Harranzadi' as spoken by Padmabai while beating Mala.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue 'Main is so dhandha karvaongi. . . . . . is ki jawani ka poora ſaida uhaconyi' as spoken by Padmabai with reference to Mala.",
+        "length_m": 2.55
+      }
+    ],
+    "original_length_m": 3740.63,
+    "length_deleted_m": 22.96,
+    "final_length_m": 3717.67
+  }
+]

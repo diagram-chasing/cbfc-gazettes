@@ -1,0 +1,108 @@
+[
+  {
+    "film_title": "Gazal",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Nalraja Productions, 105 Famous Cine Studios, Bombay-11.",
+    "cert_no": "43141",
+    "cert_date": "1-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Indecorous view of a nude statue during a song-dance sequence.",
+        "length_m": 3.66,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Dialogue addressed to Ejaz containing an offensive comparison.",
+        "length_m": 0,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Suggestive shots of a kiss between Naaz and Ejaz during a song-dance sequence.",
+        "length_m": 3.66,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Johnny Cool",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (I) Pvt. .(Ltd,,) Metro House, M, G, Road, Bombnv-1.",
+    "cert_no": "1548",
+    "cert_date": "4-12-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 1( Part IB)",
+        "description": "Shooting of bullets into the dead body of a fallen bandit by an Army officer.",
+        "length_m": 2.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI (Part IB)",
+        "description": "Sequence showing a suitcase used to decoy a victim for murder.",
+        "length_m": 36.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII ( Part 4 B)",
+        "description": "Close-ups of the Army officer’s face while being tortured by hoodlums.",
+        "length_m": 6.62
+      }
+    ]
+  },
+  {
+    "film_title": "Door Gagan Ki Chhaon Men",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kishorc Kumar, Gatiri Kunja, Juhu Tara, Santacruz, Bombay- 54.",
+    "cert_no": "41693",
+    "cert_date": "10-6-1964",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 4020.49,
+    "final_length_m": 4039.41,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "ReelUI",
+        "description": "Song 'Chhor Mcri Baiyan Balam Bemian' and accompanying dance.",
+        "length_m": 18.92
+      }
+    ]
+  },
+  {
+    "film_title": "Sundartaka Rahasya — 1.",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Padma Films of India, 35-Hamam Street, Bombay-1.",
+    "cert_no": "42948",
+    "cert_date": "28-10-64",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 33.23,
+    "final_length_m": 31.0,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Titles and shots of the girl.",
+        "length_m": 2.23
+      }
+    ]
+  }
+]

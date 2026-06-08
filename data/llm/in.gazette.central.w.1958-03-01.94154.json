@@ -1,0 +1,586 @@
+[
+  {
+    "film_title": "Chamak Chandni",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "22760",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots where Nandu hugs Chamak Chandni while she is trying to take poison.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Scene where Nandu is tied to a big stone wheel; delete each stroke and set down.",
+        "length_m": 30.48,
+        "length_retained_m": 9.4488
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Shots where a serpent pursues Chandrajoot.",
+        "length_m": 2.4384,
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "General shots.",
+        "length_m": 30.48,
+        "length_retained_m": 36.576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "General shots.",
+        "length_m": 51.816,
+        "length_retained_m": 57.912
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "General shots.",
+        "length_m": 57.3048,
+        "length_retained_m": 54.864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "General shots.",
+        "length_m": 9.4488,
+        "length_retained_m": 26.8224
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "General shots.",
+        "length_m": 38.1,
+        "length_retained_m": 41.148
+      }
+    ]
+  },
+  {
+    "film_title": "Little Big Horn",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "22781",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots where Celia kisses Haywood.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of direct punch in close fighting between Capt. Donlin and Laut.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shot where an arrow hits the back of the neck of a soldier and he makes a sound.",
+        "length_m": 4.572
+      }
+    ]
+  },
+  {
+    "film_title": "Aal Mala Kshama Kar",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "22764",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III & XIV",
+        "description": "Shots showing Janaki robbing Kumar's hands at the trial.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "To the minimum necessary for continuity, the scene of Janaki being applauded at the end of Kirtan, deleting shots of people in the audience laughing.",
+        "length_m": 2.1336,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Scene between Raghunath, Kumar and Shoola.",
+        "length_m": 24.9936
+      }
+    ]
+  },
+  {
+    "film_title": "Tum Na Nahin Dekho (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "22765",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue of Shanker to Munna in the railway compartment: 'Phir maro bhitar man ghusne ki koshish ki to mujhse bura koi na hoga'.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The words 'Jalwe Sabilao'.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue of Tonga wala: 'Isne mon to juwanikrmitan hai, Bahu Tigm mila to dil mila'.",
+        "length_m": 20.7264
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Ending with the words 'Munuhngar bo liye'.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue of Shankar Chakhno to.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue of Moen: 'Main mki purani dost hun'.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue from behind the bar: 'Lo kyı yau Li mamly chal rahu hal'.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shankar's dialogue: 'Apkl nazroo Inayat chablye phir dokhiya kalan tak pahunchta Lun'.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Dialogue and shots depicting or permitting drinking, particularly 'Kuulin Vilayat no adi hai Plyo aur mauj kand UTAL aur kardo khali' and shots of wine bottles.",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Lines from Song No. 8 beginning with 'uhumoule pimne' and ending with 'Tu hai kiyamat min hun bala'.",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shot where Shankar and Sunna are in close physical proximity back to back, with lines 'Galon par zulphen na gira'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Entire scene where Sobun attempts to rape Noemi, particularly deleting the shot where he forcibly takes her in his arms and embraces her.",
+        "length_m": 6.4008,
+        "length_retained_m": 6.4008
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Flash shots where hero carries Maana in his arms in the jungle.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Shots where Rajpal alias Gopal whips Shankar, both in the compound and inside the chauter.",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To show blood-stained hands of Rajpal.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fighting between Solua and Shankar.",
+        "length_m": 13.9904
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Shot sequence where Sooma, Sohan and Shankar are shown hanging by the cliff.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Song beginning with 'Ladki - Ayo hain dur' and ending with 'Din hal Lya mat hai'.",
+        "length_m": 121.92
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Shots where hero in the garb of a Punjabi comes with his friends and pumps in the courtyard where the heroine (Mouda) is meditating. Hero challenges her for a competition. After the song when everybody is praising the hero his identity is disclosed and he runs away.",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of pigeons fallen on the ground.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Two shots of vulgar hip and dancer during the bung.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Miva Bombay",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "42787",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Kissing or suggestion thereof by couples in the balcony opposite Lata's house.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of close physical proximity between Kumar and Ranjan.",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "All shots where girls or boys are shown in horizontal position or arm lifting each other up and down in song No. 3 beginning with the line - Tald topi usko var and ending with the line Unhin lalu duniya dhandlba.",
+        "length_m": 38.1
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Approved shots replacing deleted scenes.",
+        "length_m": 31.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots of close physical proximity between Lata and Vijay against the tune - Gore gore balon men.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Approved shots replacing deleted scenes.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In song No. 5, beginning with the line - Din ho yu raat and ending with the line - Ji hamarl maral shots where Lata umbrok Vijay from Lewine and Vijay whirla her around.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VII",
+        "description": "Approved shots replacing deleted scenes.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The following line from song No. 6 wherever occurring - Beginning with the line - Hum ko na dekho and ending with the line - Maro nishana) Maro nisbane Maro Nixa Zara xk Muridicabl aankhon , Tauriwaluni bahon Pyar ka ghorol , juet le jisko chaho Aaja chhuda dun garo olesko. Shots of the dun cor lo obfortionablo (104tume while singing the song.",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots where Lata and Kumar are shown in close physical proximity on bed.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shots where Ramoh puts out the servant with chloroform.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Sound of the child's weeping during the sequence of motor-chasing, reducing the sequence of motor-chasing considerably.",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Kumar and Ranjana in close physical proximity in song No. 3 beginning with the line [ske topl usko ser and ending with the line - Unhin chalo Duniy dhanda.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Approved shots replacing deleted scenes.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Shots where the dancers move in a circle in song No. 3 beginning with the line Lukitopiuske Har and ending with the line - I hon chale duniya dhandha.",
+        "length_m": 2.4384,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Drinking and drunkenness of Kumar considerably deleting close shots of liquor bottles also considerably skirts of gambling, drinking and drankenness wherever occurring.",
+        "length_m": 203.2992,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "The Pride And The Panzion",
+    "languages": [
+      "English"
+    ],
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Juana when she shakes her breast whilst dancing.",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Man in the Shadow",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "22776",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The first shot of a man being hit violently.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "The second down, of fighting.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "The dog attacking man.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Arm being dragged on the ground.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "The Monolith Monsters",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "22779",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Inland the scene showing Mr. & Mrs. Simpson lying dead and rock-like.",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Mujrim",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "22780",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shot where Johnny makes fun of a policeman by touching his moustache and beard and utters dialogues pertaining to the same.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shot where a man is shown falling to the ground from a house top.",
+        "length_m": 0.4572
+      }
+    ]
+  },
+  {
+    "film_title": "Fashion (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "22781",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Sound of kissing the photograph of Manorama (Sound omitted).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot where Shekhar and Kamal oscillate while singing under an arch the word 'Tum aur hum' in song No. 7.",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Chandu",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23002",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of the skeleton in the cupboard of the barber.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In the sequence where lunatics are shown at play in the Mental Hospital the following: Shots and dialogues where Sohrab Modi is imitated and shots, dialogues and sound where lunatics are shown crying.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Speech of Priun to his gangster companions applauding their exploit.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots where Moeni and Raju collide from behind in the train.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The word 'Rast' in the following song No. 'Bare Bare Arman hai, chhotisi raat hal'.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "All dialogue pertaining to Moorti and reduce to a flash all shots pertaining to the same.",
+        "length_m": 24.384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably the entire sequence where Chanda makes love to Shoshi and befools her father who suspects foul play on the part of the girl and the ne and finally captures Chandu hidden in the frp by Shasht.",
+        "length_m": 264.5664,
+        "length_retained_m": 189.5808
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "To a flash physical proximity between Raju and Meena.",
+        "length_m": 2.4384,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "The Shadow on the Window",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "22791",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Attack of Linda by criminals.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "description": "Fight between Joos and Joey.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Spaceway!",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "22792",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The sound in which Vanessa and Phillip are kissing and cuddling in a passionate embrace, retaining only a flash of the kiss for continuity.",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The underlined passage from the following dialogue of Vanessa: (But I'd be mad to change it for another prison - even if it has got two hundred million people in it).",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To dash the kissing Rohrls between Steve and L148.",
+        "length_m": 8.2304,
+        "length_retained_m": 0.24384
+      }
+    ]
+  }
+]

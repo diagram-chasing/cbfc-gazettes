@@ -1,0 +1,604 @@
+[
+  {
+    "film_title": "Project Hope",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "36664",
+    "cert_date": "10-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot showing a naked Indian woman taking bath in a stream near the city standing in waistdeep water",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of two surgical operations carried out at a short interval on two persons in the ship, the SS Hope, and the members of the hospital staff standing around the patients with blood-stained clothes",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From commentary the sentence \"Nikita Khrushchev had introduced the shoe into diplomacy\"",
+        "length_m": 0.59
+      }
+    ]
+  },
+  {
+    "film_title": "Sakhi Robin",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "36576",
+    "cert_date": "11-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the song dance sequence beginning with the words \"Aajhun bari door so....\" shots of Madhuri's skirt flying high above her knees",
+        "length_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Near back view of Madhuri climbing up the steps to sit near Rao Angar",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "The shot of captive citizens crying for water and delete the dialogue relating to the horses being given water and not the captives",
+        "length_m": 3.96,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The scene of the stone slab being lowered on Babumal and later on Shooladitya, deleting shots of its pressing against their bodies",
+        "length_m": 3.66,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Shots of Robin's friend being tortured by Suryagupta and being hung upside down over the branch of a tree",
+        "length_m": 3.35,
+        "length_retained_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Shot of Suryagupta being hung upside down over the branch of a tree by Robin's friends",
+        "length_m": 9.91,
+        "length_retained_m": 9.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "The scene showing Madhuri's arms being stretched by ropes",
+        "length_m": 1.22,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Mumtaz\" (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "30578",
+    "cert_date": "11-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of semi-nude dancers",
+        "length_m": 11.28
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Phantom Of The Opera\" (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "38570",
+    "cert_date": "12-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close shots of the Phantom with a one-eyed mask and reduce to the minimum shots of the frightened women & their screaming, Shot of a man hanging by the neck",
+        "length_m": 5.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Kisses between Christine and Harry",
+        "length_m": 3.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of the Dwarf frightening Christine",
+        "length_m": 1.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "To the minimum the crash back of the fire burning the Professor's head and delete close shots of his disfigured hand and face",
+        "length_m": 2.68,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Mary Had A Little\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "cert_no": "38580",
+    "cert_date": "12-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shadowgraphs of Mary suggestive of nudity",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Mary falling and lying over Scott on sofa",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Laurel's remarks \"Horizontal role\"",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "View of Mary when she is taking bath",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Duchess in gaunties, as also her indecorous movements",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Embrace between Mary and Scott",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Mary seen with her pyjama falling down",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary, \"...That saucy French mistress who guarantees to raise your blood pressure to the bursting point...of the mating season\"",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "The Young Ones (Cinemascope) (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "36693",
+    "cert_date": "14-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From split-black sequence, shots of a girl bathing in the nude and also of another girl seen with her bust and limbs partially revealed while she is dressing",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of boys taking the girls astride while dancing",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots of a girl lifting her skirt up to reveal her thighs and underwear",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From song beginning with the words \"First you cuddle up beside me nice\", the lines \"Then you put your two sweet lips on mine like this.\" and \"you learn the magic of a tender kiss and repetitions thereof\"",
+        "length_m": 3.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "V, VI",
+        "description": "Shots of Dorinda seen with extreme décolleté, as also shots of Dorinda pressing her body to that of Nicky",
+        "length_m": 27.85,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Ups And Downs\" (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "36588",
+    "cert_date": "14-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a girl in tight bathing costume moving away from camera swinging her hips seductively",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Jack The Giant Killer\" (Fantascopc) (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "36680",
+    "cert_date": "14-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of the double-headed monster",
+        "length_m": 0.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Near views of the monstrous bird (griffin) flying menacingly in the sky and over the boat",
+        "length_m": 2.71
+      }
+    ]
+  },
+  {
+    "film_title": "Madam Zorro",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "36607",
+    "cert_date": "18-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the song-dance sequence beginning with the words: \"Pahle nag hanth more, chhodo mori bainya.......\" close shots of Shekhar's face with a lascivious and suggestive look and shots of his taking liberties with Kumini while Ahaja dancing",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shot of dagger in the stomach of the Khazanachi (Treasurer) after he is stabbed to death",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From Dhanrilal's dialogue, his remark: \"Mera khicha khanohika posha hai\"",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the song dance sequence beginning with the words \"Melphil mon bulako o mujhe loot liya toba tobe....\", the words \"Loot liya\" in the opening line and repetitions thereof. Also shots of winking by Kamini",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Suggestion of kissing between Madan Zorro and Rajkumar while sitting together",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Notorious Landlady\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "cert_no": "30811",
+    "cert_date": "18-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of Carlyle in night gown lying on bed with partly exposed bust",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of Carlyle in bath tub in which her bare back is prominently seen",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The dialogue addressed by the policeman to Bill \"There are ways of getting women to reveal their innermost secrets\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The word \"Luscious\" from the commentary referring to the Notorious Landlady",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Boys Night Out\" (Cinemascope) (Colour)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "36612",
+    "cert_date": "18-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The remark of the old lady on the balcony, after watching in the mirror the reflection of Fred taking off coat and shoes, with Cathy Blanning by, \"And, in the living room too! I can't look! I just can't look\"",
+        "length_m": 2.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The kissing between Cathy and Fred",
+        "length_m": 2.44,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Baat Ek Raat Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "36614",
+    "cert_date": "18-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In the song beginning with the words \"Yo dil-kashi na hogimehtaal ki kiren men.......\" Close views of Neelu shaking her bust",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "In the court-scene shot of dog being produced as witness by the O.I.D. Munshi",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV to XVII",
+        "description": "Shots of newspapers carrying the false news of Neela's escape from prison after being condemned to death",
+        "length_m": 2.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV to XVII",
+        "description": "Establish that Beniprasad is sentenced for the murder of Raju, before Neela is released from jail",
+        "length_m": 34.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Close physical proximity between Neela and Rajesh during the jeep drive",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "To the minimum the embrace between Neela and Rajesh in the car",
+        "length_m": 1.52,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Bijli Chamke Jamuna Paar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "36686",
+    "cert_date": "22-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In the song-dance sequence beginning with the words \"Rang umang tarang liye mora....\" shot of bust-shaking by Moonakshi when she approaches the camera and side views in which her bust is seen emphasised",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "From wording: \"Loot lo khuehi ka fahan, teresath hum, tu jo galo se laggalo sajana\"",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Considerably shots of the terrified child during the shooting and of his hanging from the tree after he slips down the precipice",
+        "length_m": 4.27,
+        "length_retained_m": 8.84
+      }
+    ]
+  },
+  {
+    "film_title": "Bijli Chamke Jamuna Paar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "36696",
+    "cert_date": "22-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "The police station scene and shot of Bijli and Shambhu and shots of Shambhu's thoughts haunting him",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Two shots of Mangala and Meenakshi",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Dialogues of Moonakshi and Shambhu, Treasure scene and police station scene",
+        "length_m": 76.2
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "The background of child hanging and shots of child terrified",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Soorat Aur Soorat",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "30631",
+    "cert_date": "21-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III div",
+        "description": "Near views of mutton hanging from butcher's shop",
+        "length_m": 4.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII & II",
+        "description": "Lyrics relating to Shivaji's life in Sham's son's room (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the song dance sequence beginning with the words \"Jalo koretmen baakim ki chaloro kalam.......\" shot of bust shaking by the dancer",
+        "length_m": 0.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "From the war scene to a flash shots of blood-stained bayonet and bleeding wound of soldier, deleting shot of flag over it",
+        "length_m": 3.81,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The scene of firing on crowds shouting \"Quit India\" slogans and near views of cow stretching her wounded leg and of a bruised hand and arm, and shot through the mutton shop",
+        "length_m": 6.1,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "To a flash shot of two children seen frightened when the shadow of a soldier with bayonet covers them",
+        "length_m": 0.91,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Cavachi Izzat",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "cert_no": "30399",
+    "cert_date": "14-8-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Scene showing Rangya mounting Shiva's mother and his words \"Ratrloha jagarun zala tar\"",
+        "length_m": 63.4
+      }
+    ]
+  },
+  {
+    "film_title": "Chapayev",
+    "languages": [
+      "Russian"
+    ],
+    "format": "35 mm",
+    "cert_no": "23047",
+    "cert_date": "11-1-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Introductory commentary (without picture) explaining the story of the film",
+        "length_m": 63.4
+      }
+    ]
+  }
+]

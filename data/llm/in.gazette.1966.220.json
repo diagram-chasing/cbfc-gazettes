@@ -1,0 +1,240 @@
+[
+  {
+    "film_title": "Abbett & Costello Meet Dr. Jekyll & Mr. Hyde",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Internatictud Films Inc",
+    "cert_no": "42804",
+    "cert_date": "7-10-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I and II",
+        "description": "Shots of Vicky exposing bare thighs while flemishing her gown in the course of her dance at Hyde Park and, later, at the night club; also shots of the dancer in slit-gown exposing bare legs",
+        "length_m": 12.68
+      }
+    ]
+  },
+  {
+    "film_title": "Amar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mehboob Productions Pvt. Ltd., 100-Hill Road, Bandra, Bombay-50.",
+    "cert_no": "42822",
+    "cert_date": "9-10-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 29",
+    "original_length_m": 1199.78,
+    "length_deleted_m": 60.96,
+    "final_length_m": 1201.34,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Shot of Anju with emphasised bust when she is saying to Amar “Main samajhti thi etc.”",
+        "length_m": 6.99
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red I",
+        "description": "Shot of Anju with emphasised bust when she is saying to Amar “Main samajhti thi etc.”",
+        "length_retained_m": 6.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot of Anju's emphasised bust in shining choli when she goes to the court and similar three shots of Anju in the court",
+        "length_m": 173.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Shot of Anju's emphasised bust in shining choli when she goes to the court and similar three shots of Anju in the court",
+        "length_retained_m": 17.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Three similar shots of Anju as she climbs down stairs, then upstairs and when she stands with her back against the door",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel T/E",
+        "description": "Similar shot of Anju at the start of the song ‘janewale se’",
+        "length_m": 15.85
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel T/E",
+        "description": "Similar shot of Anju at the start of the song ‘janewale se’",
+        "length_retained_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XV",
+        "description": "Similar shot of Anju when she asks Sonia “woh.hain kaun?",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot 96— Anju and Rai saheb in the car",
+        "length_m": 0.61
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VII",
+        "description": "Dirk piece between the shots of the window",
+        "length_m": 0.61
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VII",
+        "description": "Shot (98A) of window glass breaking up and Sonia going out into garden",
+        "length_m": 11.28
+      }
+    ]
+  },
+  {
+    "film_title": "Forbidden",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal International Films Inc",
+    "cert_no": "57",
+    "cert_date": "5-10-64",
+    "endorsement": "A",
+    "original_length_m": 684.43,
+    "length_deleted_m": 99.06,
+    "final_length_m": 2245.34,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The Chinese cigarette girl in the night club and her being referred to as a major attraction",
+        "length_m": 17.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Eddie hugging and K issing Christine for the second time in Justin’s room after the phone talk",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words “Do you know there are some men who would kill for this bracelotc 7” “And somo who would kill for the things it represents’’",
+        "length_m": 4.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V & VI",
+        "description": "Eddie kissing Christine for the second and third time when she goes to his living room, reducing the first kiss",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The Chinese pianist Alban advising Eddie about getting and making false documents and the scene in which Eddie gets them from the Chineso tailor",
+        "length_m": 15.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Christine putting on her skirt",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "The fight in the street of Macao when Eddie saves Justin Keit from murder",
+        "length_m": 4.45,
+        "length_retained_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Scene of gambling in Justin’s club",
+        "length_m": 23.35,
+        "length_retained_m": 6.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "The fight between Eddie and Justin’s henchman in the ship’s store room, especially the hand fisticuffs, punches, low blows, kicks and throttling and the fight between Eddie and Justin",
+        "length_m": 16.15,
+        "length_retained_m": 14.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Justin and his henchman beating the man on the ship",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Pathik",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Chitra-Maya, Devaki Bose Production Ltd., C/o Chitrapat, P-50, Princept Street, Calcutta-13.",
+    "cert_no": "38848",
+    "cert_date": "8-10-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "reel Nos. 8, 9 & 10",
+        "description": "Scenes in which the proprietor tries to hide news of the accident",
+        "length_m": 116.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "reel No. 11",
+        "description": "Scene showing Sudarshan paying money to Atmaram",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "reel No. 12",
+        "description": "Scene in which Alinaram refers to ‘42 movement and labour union",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "reel No. 13",
+        "description": "Scene in which mob assault on Atmaram",
+        "length_m": 15.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "reel No. 12",
+        "description": "Scenes of violence inside the shop",
+        "length_m": 9.14
+      },
+      {
+        "kind": "insertion",
+        "reel": "reel Nos. 8, 9 & 10",
+        "description": "Scenes showing colliery proprietor trying to inform Govt, about the accident",
+        "length_m": 144.17
+      },
+      {
+        "kind": "insertion",
+        "reel": "reel No. 11",
+        "description": "Police and Labour Commissioner at the scene where compensation is paid",
+        "length_m": 22.55
+      },
+      {
+        "kind": "insertion",
+        "reel": "reel No. 13",
+        "description": "Police arresting Atmaram and Sudarshan",
+        "length_m": 24.38
+      }
+    ]
+  }
+]

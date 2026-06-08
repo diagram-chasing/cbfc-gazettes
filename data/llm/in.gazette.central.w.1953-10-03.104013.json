@@ -1,0 +1,242 @@
+[
+  {
+    "film_title": "Shikast",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ashu Deep, 68, Tardoo Road, Bombay-7",
+    "cert_no": "B.7718",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IV",
+        "description": "Shot of Mahamantri asking the Raja to postpone the matter.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "The Temple",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Edward William Fairbran, c/o Glaxo Laboratories (India) Ltd., Bombay-18",
+    "cert_no": "B.7788",
+    "endorsement": "U",
+    "rule_applied": "P.E.",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IV",
+        "description": "Shot of Mahamantri asking the Raja to postpone the matter.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Surang",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rajkamal Kala Mandir Ltd., Shantahree, Govt. Gate Road, Bombay-12",
+    "cert_no": "B.7834",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. I",
+        "description": "One close-up shot of Munshi with dialogue stating that compensation for the dead body will be looked into later, and for the time being, it should be considered as expenses in connection with the burial.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "All shots of dogs barking at the boy and girl, them picking up bread from the dog's plate, and dogs chasing the children until they fall from a cliff and are killed.",
+        "length_m": 17.6784
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XV",
+        "description": "All shots after Pagli Devi breaks Dayaram's hold, except showing Dayaram catching her arm. The sequence of Pagli Devi and Dayaram where they are permitted to remain.",
+        "length_retained_m": 30.7848
+      }
+    ]
+  },
+  {
+    "film_title": "Papi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Ranjit Movietone Co., Main Road, Dadar, Bombay",
+    "cert_no": "2026",
+    "cert_date": "19-8-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue between a man and Raju from 'has un turafhai...' to '...bodi tagat bana gokte hain'.",
+        "length_m": 12.4968
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Dialogue between the child and Raju from 'Maluabaya jajima leto hal...' to '...main bachoha nahin terj atma hoon'.",
+        "length_m": 16.764
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Raju's words: 'Nakam...sarkar, ke Asmor'.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Raju's words: 'puniyo...uddbar kar rakte hn'.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Raju's words: 'Ohhnte morr huner...kaam karna secklio'.",
+        "length_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Thokar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jubilee Pictures Ltd., Sarita Villa, 7, Bungallows, Andheri, Bombay",
+    "cert_no": "8883",
+    "cert_date": "26-7-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The song 'Ayegham-o- dil Karun'.",
+        "length_m": 85.344
+      }
+    ]
+  },
+  {
+    "film_title": "Gunah",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kidar Sharma, Ambitious Picture, Tehurt Studio, Dadar, Bombay",
+    "cert_no": "8887",
+    "cert_date": "27-7-63",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I & II",
+        "description": "Scenes of Piddi's quarrel with the potter, Panditji guniy on the canal, and remarks of Pessi and Fateh Chand, including some portion of the mother's plea for sending the boy to school.",
+        "length_m": 314.2728
+      }
+    ]
+  },
+  {
+    "film_title": "An Doopam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Momo. Associated Prodooor, 11-Gopala Lihda Road, Madru 17",
+    "cert_no": "8124-U",
+    "cert_date": "17-9-09",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In the mock-teacher scene of the schoolboys, delete the quiz regarding the ages of the husband, wife, and daughter, and one boy asking whether the daughter is married or not.",
+        "length_m": 24.384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Delete the word 'Pananipalli' as the author of Ramayana.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 6",
+        "description": "Delete the words, 'Don't trouble her', 'Use scientific means', etc., uttered by the colleagues of Bhokar in the College Hostel when he is taking his leave after studies.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Delete Vikram's remarks, 'Radhabamothakrishda' as applied by him to the illegitimate connection between Shekar and Jayanthi, the dancing girl, when they are sitting on the sofa and beaten.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 16",
+        "description": "Reduce the funeral pyre.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 20",
+        "description": "Delete the word 'Euttichi'.",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "ApiMagan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Momo. Associated Prodooor, 11-Gopala Lihda Road, Madru 17",
+    "cert_no": "8124-U",
+    "cert_date": "17-9-09",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In the clock-room scene, delete teacher's words, 'Ennappa Aco kooda mounayiratham rakkaya Unakkam Thani Mahanm Venuma!'",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 3",
+        "description": "Remove the dialogue which says 'Enno Iruppa Tvarthan avaravathellrennu oholrathuku ukon, ATBART padarayo'.",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Sitar",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "The Radha Films Ltd., 72, Rugge Road South, Tollygunj, Caloutta-38",
+    "cert_no": "C.926",
+    "cert_date": "18-9-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "In Reel No. 2, omit Sanatan's gesture regarding palms when he scandalizes Rita.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "In Reel No. 9, omit the arguments between Shambok and Sri Ramachandra and omit the actual execution.",
+        "length_m": 63.9984
+      }
+    ]
+  }
+]

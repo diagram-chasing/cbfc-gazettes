@@ -1,0 +1,447 @@
+[
+  {
+    "film_title": "Kasam Durga Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-F-1161",
+    "cert_date": "2-6-82",
+    "endorsement": "U",
+    "original_length_m": 1205.74,
+    "length_deleted_m": 16.13,
+    "final_length_m": 1189.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI, XII, XVI",
+        "description": "Delete the shots of pouring of blood in the temple scenes.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the dialogue 'Dekh liya tumhara kanoon'.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the dialogue 'Taki tum hamari izzat se klhel sake' in the comic sequences with Keshto Kukherjec.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Indecorous movements of torso of the dancer in close shots should be deleted.",
+        "length_m": 8.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Indecorous movements of posteriory of Sarla in close shots should be deleted.",
+        "length_m": 3.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the scenes showing the villains hands on Lakshmi s breasts.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce to minimum the visuals of attempted molestation of Lakshmi in front of her mother and brothers.",
+        "length_retained_m": 11.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the dialogue 'jake iske huspse khello' spoken by the Zamindar.",
+        "length_m": 11.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Reduce the flashback shots of rape scene.",
+        "length_m": 3.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Jail shot when Raja and Sultan are imprisoned in a jail and thereafter they escape from the jail.",
+        "length_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Nadiya Ke Paar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/F-1230",
+    "cert_date": "17-5-1982",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the dialogue 'Randhi'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the dialogue 'Thaimai adinjutten'.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the dialogue 'Idhu onnum mudaliravu illenga, iranda vadhu iravu'.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue 'En roomlo naan vilakkai anachutta vunnayum anachuttu' and 'Vidaichavad vilaichalai edirapaathu kaathu kidakira pole'.",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the visuals of Radhika hitting Sudhakar's face with her lips, her moving her face upwards her body, nosing her all the way from waist to neck.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete Sudhakar's dialogue and visual Daal kudikkalama, also delete the shot of the two kissing each other.",
+        "length_m": 0.31
+      }
+    ]
+  },
+  {
+    "film_title": "Chambalkadu",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "M-16065",
+    "cert_date": "23-6-1982",
+    "endorsement": "A",
+    "original_length_m": 3542.12,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Madhavasingh shooting his henchmen point blank retaining one shot for suggestion.",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of the dancing of the jork and bare thighs of dancer.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Madhavasingh torturing Yamuna Bai like slapping and whipping.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete all shots of dead father, mother, sister and shots of the two children's bodies thrown in the compound of the house in wooden boxes and shots of Kumar opening the boxes and the visuals of dead children retain only the shots of spectacles, the bloodstained on the floor and Kumar's reaction as he sees separate corpses.",
+        "length_m": 3.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the visuals of Madhavasingh and Kumar hitting each other with pitch fork in the fight sequence in the den.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of rock smashing into Mohammed's face and the blood spurting out.",
+        "length_m": 0.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Reduce the shot of strangulating the rapist to suggestion.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete all visuals of Sabitha being tortured pushed around whipped and dancing on glass with bloodstained feet.",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shot of Kumar hitting Madhavasingh with the artificial limb.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Mohammed hitting the dacoit (close ups) in the train fight.",
+        "length_m": 0.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dacoit hitting Mohammed with the gun bulb.",
+        "length_m": 0.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete saving the dacoit from the police station breaking the wall.",
+        "length_m": 0.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete dacoits enjoying at the den and drinking.",
+        "length_m": 0.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Reduce the number of firing and killing dacoits by the leader and his laughing.",
+        "length_m": 2.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete sending dead bodies on horseback.",
+        "length_m": 0.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete den dance of Yamunabhai's close ups and other inadvisable actions.",
+        "length_m": 1.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete beating Yamunabhai by Madhavasingh.",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete hitting of Kumar in the stomach of the dacoits.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete bathing scene of Jamunabhai and her treating Kumar.",
+        "length_m": 1.01
+      }
+    ]
+  },
+  {
+    "film_title": "Chambalkadu",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "M-16065",
+    "cert_date": "23-6-1982",
+    "endorsement": "A",
+    "original_length_m": 3732.75,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Reduce the bathing scene in the chery (slum) to a suggestion.",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the astrologer's dialogue 'Thoe parante saadhana prama thura pulli'.",
+        "length_m": 0.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Reduce the scene depicting sex between Srikumar and Sastha from the point of their hiding themselves together beyond a trench to a bare suggestion, deleting in any case the visuals of mounting, rubbing of legs, intertwining of legs, putting his hands between her legs and exposure of thighs.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of the skull of the monkey hanging from the ceiling.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Reduce the shot of Madhavasingh hitting the dancer on her chest to a suggestion.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the dialogue 'Minnum kanimma.minnum' and also the dialogue of the astrologer 'Maraporanu ni viyathala'.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete all visuals of the little girl being shown as having been raped.",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Reduce the shot of strangulating the rapist to suggestion.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shot of Appan's man sprinkling acid on the face of Srikumar.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Drastically reduce the attempted rape scene keeping a mere suggestion for continuity of the story.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Reduce the fight sequence between Shanker and the goondas.",
+        "length_m": 2.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shots of the lovers legs showing interwined.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the visuals of the reflection of the girl in yellow panties.",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the visuals of the record player after Kalpana and Babu fall in the bed.",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of Revathi pouring kerosene on her daughter's hand.",
+        "length_m": 0.12
+      }
+    ]
+  },
+  {
+    "film_title": "Mahaprasthanam",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "M-16062",
+    "cert_date": "22-6-1982",
+    "endorsement": "A",
+    "original_length_m": 3692.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "General cut - Delete the words Swami Sarapam Ayyappa of Kamaiah wherever it occurs.",
+        "length_m": 1.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the first between of whipping of a man tied to a tree.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visuals of Suryam's leg on the villain's chest.",
+        "length_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Kamayya's dialogue 'Manchi centralo shop pettisthanu'.",
+        "length_m": 0.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Garudayya's words 'Mee jaathi Lakshman mantha'.",
+        "length_m": 0.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Kamayya's dialogue 'Unchukunta ninnu'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the background music 'Vandhe Matharam' when money is counted in the rich man's house.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Bhanumoorthy and Banti's dialogue 'Gothaga vachina mallepoolu' to Sampurnam gundam pampanchi.",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Reduce the visuals of the rickshaw puller being beaten and piercing of the rod into his stomach.",
+        "length_m": 0.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Suryam beating the rickshaw owner when he is caught in the frame of the chair.",
+        "length_m": 0.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Drastically reduce the entire sequence of Suryam being tortured retaining only one suggestion of his being lashed.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the entire sequence of the crippled girl.",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the visuals of the mob frenzy with people running with spears and rods.",
+        "length_m": 1.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Reduce the visuals of the villains being killed deleting all visuals of blood stained scissors in Suryam's hand and close ups of blood stained spear after killing the two other villains.",
+        "length_m": 0.49
+      }
+    ]
+  }
+]

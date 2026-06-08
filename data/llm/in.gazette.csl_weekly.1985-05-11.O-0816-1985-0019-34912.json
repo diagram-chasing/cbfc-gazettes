@@ -1,0 +1,537 @@
+[
+  {
+    "film_title": "वक्त की दीवार",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "producer": "गाडर्न पिक्चर्स, टी०सी०",
+    "cert_no": "96014",
+    "cert_date": "29-12-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Ranveer's dialogue 'Kachi Kali Hai' is removed.",
+        "length_m": 28.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Sequence of Sajan being strangled is reduced by deleting close shots.",
+        "length_m": 2.08,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "In the fight between Vikarm and goondas, hard hitting shots are removed to reduce the impact.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the beating of Amar by goondas, hard hitting shots are removed.",
+        "length_m": 2.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In the fight between Vikarm and Baka, hard hitting shots are removed.",
+        "length_m": 3.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Sequence where Amar and Vikarm press their motorcycles against Ranveer's arms is reduced.",
+        "length_m": 4.57,
+        "length_retained_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "शान",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "सिनेमास्कोप",
+    "cert_no": "94997",
+    "cert_date": "09-12-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Vijay and Ravi fool the manager of the hotel.",
+        "length_m": 20.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Abdul's song is removed.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Hari Om song is removed.",
+        "length_m": 15.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Talk between Shakaal and Shiv in the tunnel is removed.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Dogs chase Shiv is removed.",
+        "length_m": 7.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Rakesh rushes out from Shakaal's shack is removed.",
+        "length_m": 6.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Rakesh chasing Roma to save her is removed.",
+        "length_m": 31.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Ravi chasing man of Shakaal is removed.",
+        "length_m": 62.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Rakesh gives lift to Guddi and Sheetal until they get down from the mini train and Jagmohan starts following them is removed.",
+        "length_m": 90.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Jagmohan starts following Rakesh is removed.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Renu and Ravi's scene before song and portion from Bus Song is removed.",
+        "length_m": 110.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "Sheetal is kidnapped is removed.",
+        "length_m": 23.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "20",
+        "description": "Girl's and Uncle's fight punches are removed.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "21",
+        "description": "Croc fight is removed.",
+        "length_m": 3.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "22",
+        "description": "Passing shots from tunnel and lift while blastings are going on are removed.",
+        "length_m": 78.36
+      }
+    ]
+  },
+  {
+    "film_title": "गैस्ट हाउस",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "4818",
+    "cert_date": "22-12-1980",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Komilas running shots where hand is following her are removed and replaced with Christopher appearing and killing her.",
+        "length_m": 20.13,
+        "length_retained_m": 10.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "17",
+        "description": "Kaliya's shots where hand approaches him are removed and replaced with Christopher appearing and killing him.",
+        "length_m": 13.74,
+        "length_retained_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "चस्का",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "4821",
+    "cert_date": "05-01-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dialogue 'Acha thu barthi hoia' is removed.",
+        "length_m": 8.38
+      }
+    ]
+  },
+  {
+    "film_title": "हेमा मालिनीज़ पैशन",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "95862",
+    "cert_date": "29-11-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "शान",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96116",
+    "cert_date": "24-12-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "हम पांच",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "94977",
+    "cert_date": "27-11-1980",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Song lines 'Sone De Becharaon Ko' and 'Tu Kahe Shor Machaye' are removed.",
+        "length_m": 41.45
+      }
+    ]
+  },
+  {
+    "film_title": "जीना यहां",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "90442",
+    "cert_date": "16-07-1979",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "12",
+        "description": "Heroine Lekha brings her sister-in-law Gauri from the village to the city in a train. She travels in a taxi with Gauri from the railway station to her house where she meets her friend Sushma and her husband. She introduces Gouri to Sushma and explains the reason of bringing Gouri together married to the boy Gouri wished to marry.",
+        "length_m": 130.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Heroine Lekha comes from the village to the city in a train all alone. She meets her friend after travelling in a taxi in her room all alone. She also meets her friend Dinesh alone.",
+        "length_m": 105.37
+      }
+    ]
+  },
+  {
+    "film_title": "ए चेंज",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "93917",
+    "cert_date": "07-06-1980",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "A card is added reading: Please Send Your Valued Views on this Short Film to the Public Relations Officer, Films Division, 24 Dr. Deshmukh Marg, Bombay-400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "द वे टू द विलेज",
+    "languages": [
+      "English"
+    ],
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "A card is added reading: Please Send Your Valued Views on this Short Film to the Public Relations Officer, Films Division, 24-Peddar Road, Bombay-400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "आयुर्वेद",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "92987",
+    "cert_date": "07-02-1980",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "A card is added reading: Please Send Your Valued Views on this Short Film to the Public Relations Officer, Films Division, 24-Peddar Road, Bombay-400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "योर पोस्टेज स्टैम्प",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "93663",
+    "cert_date": "31-03-1980",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "A card is added reading: Please send your valued views on this short film to the Public Relations Officer, Films Division, 24-Peddar Road, Bombay-400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "हेमा मालिनी एट द स्टेट्स ऑफ लिबर्टी",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "94894",
+    "cert_date": "22-08-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "हेमा मालिनी इन न्यू यॉर्क",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "94893",
+    "cert_date": "22-08-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "सच इज आवर सर्विस",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "95629",
+    "cert_date": "12-11-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "सच इज आवर सर्विस",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "95629",
+    "cert_date": "12-11-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "बिल्डर्स टू द नेशन",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "94317",
+    "cert_date": "01-08-1980",
+    "alterations": []
+  },
+  {
+    "film_title": "रात ढली",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "93867",
+    "cert_date": "21-05-1980",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "A card is added reading: Please send your valued views on this short film to Public Relations Officer, Films Division, 24-Peddar Road, Bombay-400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "प्रेशियस वाटर",
+    "colour": "रंगीन",
+    "cert_no": "93386",
+    "cert_date": "10-03-1980",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "A card is added reading: Please send your valued views on this short film to Public Relations Officer, Films Division, 24-Peddar Road, Bombay-400026.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "बुलन्दी",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96012",
+    "cert_date": "26-12-1980",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Song 'Hum Jab Ek Saath' on Rajkumar and Asha Parekh is removed.",
+        "length_m": 115.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Scene between Danny and Kim after song 'Chalo Kahan Chalen' is removed.",
+        "length_m": 24.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Danny Jr.'s dialogue remembering his Danny Sr.'s dialogue is removed.",
+        "length_m": 17.71
+      }
+    ]
+  },
+  {
+    "film_title": "गंगा और सरजू",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96028",
+    "cert_date": "21-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Rape sequence is reduced by cutting it to a suggestion.",
+        "length_m": 6.11,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "First night sequence showing Suraj and Bijlee in bed is reduced.",
+        "length_m": 2.75,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "हीरो एट लार्ज",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96029",
+    "cert_date": "21-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Sequence of inmates being whipped by the guard is reduced.",
+        "length_m": 2.44,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots of woman with bare breasts are removed.",
+        "length_m": 3.97
+      }
+    ]
+  },
+  {
+    "film_title": "ब्रूबेकर",
+    "languages": [
+      "English"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96035",
+    "cert_date": "28-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Sequence of inmates being whipped by the guard is reduced.",
+        "length_m": 2.44,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots of woman with bare breasts are removed.",
+        "length_m": 3.97
+      }
+    ]
+  },
+  {
+    "film_title": "क्रान्ति",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "96036",
+    "cert_date": "28-01-1981",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Sequence of Praveen Babi's molestation is reduced by deleting a shot showing her bare thighs and legs prominently.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Extreme close shots of blind man's eyes are replaced.",
+        "length_m": 0.26,
+        "length_retained_m": 0.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Close shot of English girl's bare thighs in the foreground is removed or replaced.",
+        "length_m": 5.54
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "The word 'kutia' is removed or replaced in a sequence with abusive words.",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

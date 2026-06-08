@@ -1,0 +1,422 @@
+[
+  {
+    "film_title": "Duport Fantasy",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B -19416",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: \"Under an oath to Allah they went...\"",
+        "length_m": 1.09728
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: \"...in which one pledged a religious oath to win every trade and another believed a handful of good life to worth a winn-cock full of money.\"",
+        "length_m": 511.4592
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Dialogue: \"...They believe hurry to good only for chasing.\"",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Jeevan Sathi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "D. S. Films, D. S. Sound Studios, Bombay - 14.",
+    "cert_no": "B -19437",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "All references to Pt. Jawaharlal Nehru in Song No. 2.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue between mother and child where the mother explains the father's absence.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue between child and Ayah about father's indifference.",
+        "length_m": 19.5072
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XP",
+        "description": "Harish's dialogue about avoiding police cognizance of the shooting.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Janam Janam Ko Phere\" alias Sati Annapurna",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mukti Films, C/o Forward Films, 3, C, Naaz Bldg., Bombay - 4.",
+    "cert_no": "B -19303",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot where a snake is thrown at a man.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of the three deities.",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a cobra emitting fire.",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Boy On A Dolphin",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B -19249",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of thigh exposed when Phaedra is lying down on a couch.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Considerable shots of Phaedra when in wet clothes which are very transparent.",
+        "length_m": 10.3632,
+        "length_retained_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The kissing of Phaedra and Julian Older at the end of the reel.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Boy On A Dolphin\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B -19250",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Shot of Phaedra when in wet clothes which are very transparent.",
+        "length_m": 0.36576
+      }
+    ]
+  },
+  {
+    "film_title": "Jeevan Sathi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "D. S. Films, D. S. Sound Studios, Bombay - 14.",
+    "cert_no": "B -19437",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IP",
+        "description": "The word \"Bahadurlal\" five times in song No. 2.",
+        "length_m": 4.20648
+      }
+    ]
+  },
+  {
+    "film_title": "Aladdin And The Wonderful Lamp",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Basant Pictures, 136, Chamarhaug Road, Parel, Bombay 12.",
+    "cert_no": "B -27B / 2812",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel P",
+        "description": "Whipping of Sultan and Aladdin.",
+        "length_m": 11.5824
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Distorted faces of djinns in a row in close-ups.",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Lewd jerking and hip swaying of female dancer when dancing alone in the Durbar dunga.",
+        "length_m": 8.8392
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Aladdin And The Wonderful Lamp\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Basant Pictures, 136, Chamarhaug Road, Parel, Bombay 12.",
+    "cert_no": "B -27B / 2813",
+    "alterations": []
+  },
+  {
+    "film_title": "Bhola Shankar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Famous Pictures, Vaikunth Chitra, Nilam Mansion, Lamington Road, Bombay 4.",
+    "cert_no": "B -27B / 2490",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Cut out all shots in the Bhang Scene, showing the crushing of Bhang and drinking.",
+        "length_m": 9.7536
+      }
+    ]
+  },
+  {
+    "film_title": "Ramobobtom Rides Again",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "J. Arthur Rank Film Distributors (India) Private Ltd., Lotus House, 33A, Marine Lines, Bombay 1.",
+    "cert_no": "B -19370",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Dialogue of the ill servant to Charles: \"Let can be done in five minutes.\"",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Dialogue of the ill servant to Charles: \"I am boiling.\"",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"International Police\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Columbia Films of India Ltd., Lotus House, 39A, Marine Lines, Bombay.",
+    "cert_no": "B -19305",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The close shot of the waitrent's face with torture expression.",
+        "length_m": 1.0668
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots in which the legs and thighs of the female dancers are exposed prominently.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots in which street walkers are shown soliciting.",
+        "length_m": 0.97536
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Scene in which stranger man-handling the night club waitress in her apartment particularly deleting close shots of the waitress's face with tortured expression.",
+        "length_m": 6.4008
+      }
+    ]
+  },
+  {
+    "film_title": "Guns of Fort Petticoat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Columbia Films of India Ltd., Lotus House, 39A, Marine Lines, Bombay.",
+    "cert_no": "B -19431",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The shot in which Kettle's body is seen being hung by the rope after he is shot by the Mexican.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "To a lash the hurtin which Mary is hit in the back by Arrow and she is then collapsing on the ground.",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Jalti Nishani",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Emshith Productions, Walker House, Tribhuwan Road, Bombay 4.",
+    "cert_no": "B -19235",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shot wherein man approaches Nazim with red hot irons in his hand to burn her eyes.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Shots of Strangulative twirls.",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "All shots where Sitara is shown tied to the stake.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "All shots where wooden logs and splinters around stake are being set on fire and legs are shown burning except the first shot for continuity where the Voda orders the fire to be lit and logs are shown burning.",
+        "length_m": 22.5552
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "All shots where the burning of Vazir is established.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "In song No. 8 \"Jalne lago pyar.....,\" insertion of close up shots of Sitara, shot showing Vazir hitting Left, flash back shots, shots of crowd.",
+        "length_m": 25.6032
+      }
+    ]
+  },
+  {
+    "film_title": "Silver King",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "People Pictures, 28, Bhaker Lane, Bhuloobwar, Bombay 2.",
+    "cert_no": "B -19286",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Following lines from song No. 3 \"Pyase padi poo lo.......Aisi hugina, aina naging Tujhko milega kahan? Aantujh man khhokar dhundhlo dono jaben Mano kon kurta ja hile veuile.\"",
+        "length_m": 19.5072
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots where Tiger's mouth is stretched by Silver King.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The following lines from Song No. 4: \"ALHI DIL DHA mure.......joovan kn bath gor \"Aan nil PULA Moro, mahnilab dur piya, uski fazi hai ye jo, tumne lumur kiya. Achcha manjir kiya, mainu kugur klys Tumno kyan ghnnlmoro dillco hujur kiya.\"",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots where it man is dragged when tied to a horse.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel Sound track",
+        "description": "Addition of song lyrics: \"Marko Na Jina, vilko kobhina gita dona ae Rajada \" \"Gaa maat ho kur khwaborimon klukor burku heijina yake \" \"Milne ke karta ja rang Rangilo \"",
+        "length_m": 19.5072
+      }
+    ]
+  },
+  {
+    "film_title": "Jungle Stampede",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay.",
+    "cert_no": "B -27B / 2300",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "In the scene in the pygmy village, entirely the dance performed by the pygmy women and men and shots in which the pygmy women are shown with uncovered busty.",
+        "length_m": 28.0416
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "In the same sequence from the commentary the reference such as \"Pygmy village\", \"stinking\" and the \"Hands of the pygmy lying anganitory.\"",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "The entire sequence of MAHAI wedding, including the preparations for it, till the entry of bride and bridegroom in the bridal gaitu.",
+        "length_m": 60.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 1",
+        "description": "In the scene in which an African member of the hunting party is seen running and falling down when pursued by a wild elephant, to a flash the close view of his agonized face and screaming after his falling.",
+        "length_m": 1.2192,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 11",
+        "description": "In the scene in which the African assistant is attacked by the black leopard to a flash the close views and violent screamings of the African.",
+        "length_m": 2.4384,
+        "length_retained_m": 0.6096
+      }
+    ]
+  }
+]

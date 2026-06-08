@@ -1,0 +1,421 @@
+[
+  {
+    "film_title": "Trailer of \"The Thin Red Line\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "46102",
+    "cert_date": "12-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a girl undressing",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a soldier putting two cups inside the dressing gown of another soldier",
+        "length_m": 1.84
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"A Shot in The Dark\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "46103",
+    "cert_date": "12-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The caption \"No. 1 Sexport\" from the titles",
+        "length_m": 0.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of passengers on bus taking photographs of Clouseau and Maria in car",
+        "length_m": 2.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The bare bosom of Maria seen while Clouseau is carrying her off",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Kanoon",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "46104",
+    "cert_date": "12-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "To the minimum the shot of Jyoti kissing her brother’s forehead, deleting the sound",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Pleasure Seekers\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "46110",
+    "cert_date": "12-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of Susie in a black bikini",
+        "length_m": 1.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Front views of Fran in red bikinis singing and dancing",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the commentary, \"Three good little girls who want to be bad with three bad little boys\"",
+        "length_m": 2.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the dialogue between Emilio and Susie, the word 'compatible'",
+        "length_m": 0.22
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"A Very Special Favor\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "46111",
+    "cert_date": "12-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the narration, the words \"He could snare two bunnies with a single line\"",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Etienne's dialogue: \"You know, in America they don’t have sex, they commit it\"",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The title “What a surrender !” along with Lauren’s dialogue i “Go ahead— zip!” and the shot of Paul unzipping Lauren’s dress",
+        "length_m": 3.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Lauren reacting after lifting her bed cover and finding herself in the nude",
+        "length_m": 2.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Paul carrying Lauren in his hands to the bed with the title of the film superimposed",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Shaheed",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "46118",
+    "cert_date": "15-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "A tablet at the beginning stating that due care has been taken in this film to present the hero's struggle and personality of the famous revolutionary Bhagat Singh and other leaders associated with him, but it is possible that the depiction of certain incidents, costumes, procedures, etc., might have involved some inadvertent deviation from actuality for purposes of cinematic presentation.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "In the sequence of the hunger strike by the revolutionaries in the jail, establish that Jatin Das died as a result of hunger strike in a different jail and not in the one in which Bhagat Singh and his associates were imprisoned.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of dynamiting of the railway line and blowing up of a train over a bridge by revolutionaries",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From Chandrashekhar Azad’s dialogue on the death of Bhaswati Charan, reference to the revolutionaries being called cowards by protagonists of non-violence (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To the minimum shots of Bhagat Singh burning his hand over a candle flame while taking a pledge",
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably shots of lashing of Bhagat Singh in the jail while lying on the blocks of ice",
+        "length_retained_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Shot of portrait of King George 2’ coming into full view, before the judge orders silence",
+        "length_m": 2.71
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VII",
+        "description": "Shot of Shri Asifali addressing to Shri Bhagat Singh the words \"Jaisa Mujhe Aadesh Mila Hai\" in the Assembly Hall (Sound only)"
+      }
+    ]
+  },
+  {
+    "film_title": "Son Of A Gunfighter",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "46133",
+    "cert_date": "15-11-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4A)",
+        "description": "From the scene of fight, direct thrust with knives",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X (5B)",
+        "description": "From the scene of fight, shots of a man on fire",
+        "length_m": 2.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII (4B)",
+        "description": "Considerably the scene of Penton staked out on ground - Particularly the shots and dialogue relating to the tying down of raw-hide around Penton’s neck.",
+        "length_retained_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "A High Wind In Jamaica",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "46134",
+    "cert_date": "15-11-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part 3 (a)",
+        "description": "Shots of the drunken pirates making advances to Margaret, the eldest of the Children",
+        "length_m": 7.46
+      },
+      {
+        "kind": "reduction",
+        "reel": "Part 3 (a)",
+        "description": "Also reduce the drunken brawl amongst the pirates",
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Part 2 Reel 3’",
+        "description": "Shots of violent fighting deleting direct hits",
+        "length_retained_m": 8.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Part 5 Reel 10",
+        "description": "To a flash shots of Emily stabbing the Captain when asked by him to cut the rope tied round his hands at the back",
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The 7th Dawn\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "46135",
+    "cert_date": "13-11-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of point-blank shooting of prisoners",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of Ferris holding the bikinis of Candace",
+        "length_m": 1.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following dialogue while Ferris introduces his mistress Dhana to Candace: Ferris - \"My mistress\". Candace - \"Have you been a mistress for very long?\". Dhana - \"For quite a while\"",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "O.S.S. 117 Is Not Dead",
+    "languages": [
+      "English"
+    ],
+    "format": "Dyaliscope",
+    "cert_no": "46137",
+    "cert_date": "16-11-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The near-view of Muriel’s bosom while In car",
+        "length_m": 1.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The Indecorous view of Muriel while she is being manhandled",
+        "length_m": 0.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "To a flash the view of Yakoub with knife thrust in his body (completely deleted)",
+        "length_m": 0.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "The scene of Herbet forcing Anita to see her father’s dead body",
+        "length_retained_m": 0.28
+      }
+    ]
+  },
+  {
+    "film_title": "The Secret Invasion",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "46138",
+    "cert_date": "16-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels in Part IB)-IX (Part 34) & X (Part SB)",
+        "description": "From the war scenes, the near-views in which the faces or bodies of soldiers smeared with blood are seen",
+        "length_m": 9.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (Part 2 A )",
+        "description": "The close-up of Mila's bare bosom with the baby suckling",
+        "length_m": 2.15
+      }
+    ]
+  },
+  {
+    "film_title": "Malhari Martand",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "46142",
+    "cert_date": "17-11-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Remove the impression that the story belongs to the modern times (Superimposed the caption “JE1URI YEAR 1903” — there is no change in the length of the reel on this account)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The sentence “Duulntjndyanc .biuchj daulat lootli ki Kolamadoon padanyache\" said by Btikula to Gidab",
+        "length_m": 7.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words” Tumchi pito mlianun saangato” said by Dhondya to Gulab",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The following dialogue between Dhondya and Dhondi: “Baikaana kaai langte he mi saanqu hoy tulaa' 1 ” and “Purshaana kaai laaguate he tari thaave hay tumhaalaa?\"",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"O S S 117 Is Not Dead\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Dyaliscope",
+    "cert_no": "46150",
+    "cert_date": "19-11-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Marlol's bosom in car",
+        "length_m": 0.98
+      }
+    ]
+  }
+]

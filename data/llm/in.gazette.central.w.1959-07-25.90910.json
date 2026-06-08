@@ -1,0 +1,927 @@
+[
+  {
+    "film_title": "Madhu",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ganshamdas, Proprietor, Maya Art Pictures",
+    "cert_no": "27642",
+    "cert_date": "11-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shot where Vijay is shown lying without a shirt on bed in the scene where he is shown celebrating first night with Madhu",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "After the first Mukhra the shot where the lady dancer moves her hips in an indecent manner",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shot where a baby is shown immediately after birth",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of I Want To Live",
+    "languages": [
+      "English"
+    ],
+    "producer": "Walter Wanger",
+    "cert_no": "27643",
+    "cert_date": "19-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Barbara Graham kissing and embracing a young man",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Santan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Anupam Chitra",
+    "cert_no": "27648",
+    "cert_date": "12-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Song No. 5 from love scene of Mohan and Shobha cuddling shots on the bridge",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Shot of child crying on mother's death, at the end of the reel",
+        "length_m": 4.51,
+        "length_retained_m": 3.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Song No. 1. Considerably shots of dead body of Kamla before it is covered",
+        "length_m": 17.68,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "President Eisenhower's Press Conference Part 60",
+    "languages": [
+      "English"
+    ],
+    "producer": "U.S.I.S.",
+    "cert_no": "27649",
+    "cert_date": "18-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Words from the commentary regarding Communist pressure and a magazine story",
+        "length_m": 7.32
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Anna Luonsta",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sidney Harmen",
+    "cert_no": "27667",
+    "cert_date": "13-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Dialogue: Danny: You don't belong to one man baby. You'll never belong to one man.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "description": "Titles: The blistering story that undroyed the heart of a tramp. She is every inch the shameless sinner who shook the stages of the world. The most famous sinner of them all",
+        "length_m": 6.71
+      }
+    ]
+  },
+  {
+    "film_title": "Makalu (Part I) (Silent) (Colour)",
+    "languages": [
+      "French"
+    ],
+    "producer": "Federation Francaise De La Montagne",
+    "cert_no": "27658",
+    "cert_date": "13-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot showing the severing of the head of a sheep by the stroke of a sword",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Makalu (Part II) (Silent) (Colour)",
+    "languages": [
+      "French"
+    ],
+    "producer": "Federation Francaise De La Montagne",
+    "cert_no": "27659",
+    "cert_date": "13-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot showing the porter in rage where from behind his upper garment is shown in shreds and tatters and his loincloth is shown",
+        "length_m": 1.98
+      }
+    ]
+  },
+  {
+    "film_title": "Raat Ka Rabi (Hindi) (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Pushpanjali Pictures",
+    "cert_no": "27662",
+    "cert_date": "14-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The Dedication Tablet at the start",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "During the picturisation of song No. 1, shots where Bobby is shown climbing the Victoria",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "During the picturisation of song No. 1, shots where he is shown thrown on the road",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "During the picturisation of song No. 1, shots where he runs along with the Victoria",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "During the picturisation of song No. 1, shots where he lowers down his face near Rita in a gesture of harassment",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The following dialogue: Main aurat ku janvar ho zyaduh nahin samajhta",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Khubsurat Dhoka",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Ltd.",
+    "cert_no": "27608",
+    "cert_date": "14-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Vulgar hip and breast movements of the main dancer",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In song No. 4, shots of dancers bending and focusing attention on their breasts",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In song No. 4, shots of dancers moving their breasts in a vulgar manner",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Manuela",
+    "languages": [
+      "English"
+    ],
+    "producer": "Rank Film Distributors of India (Private) Ltd.",
+    "cert_no": "888",
+    "cert_date": "11-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The entire scene of love-making in which the Captain caresses the feet, legs, thighs etc. of Manuela and passionately leans over her to kiss",
+        "length_m": 32.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "To a flash scene of Manuela coming dressed (heavily) merely in a towel and passionately cuddling and caressing the captain",
+        "length_m": 26.21,
+        "length_retained_m": 0.49
+      }
+    ]
+  },
+  {
+    "film_title": "Main Nashe Men Hoon",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Varma Pictures",
+    "cert_no": "809",
+    "cert_date": "11-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots in which Ram lifts up Shanta and turns round in exuberance holding her enclosed in his arms",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots of Rita lovingly caressing Ram with her face close to him",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Song No. 5, Rita arching her body and revealing her bust at the beginning of song",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Song No. 5, Rita sliding forward and standing against pillar, revealing her bust prominently",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Song No. 5, Ram and Rita dancing together, moving away from camera, in close physical proximity",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably scenes of Ram drinking excessively",
+        "length_m": 4.11,
+        "length_retained_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Ram kissing Rita on cheek and cheek (after they kiss lips) also Rita leaning against Ram who is trying to kiss her on the neck",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From Rita's dance sequence, Rita performing amorous movements of hips",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From Rita's dance sequence, Action of Ram trying to enclose Rita in his arms in dance movements",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "From Balilokha dance sequence (song No. 8), Amorous movements of the bust by the dancer",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "From Balilokha dance sequence (song No. 8), Amorous movements of hips and legs by dancer in sitting position as also on the words \"Jiuko dokho\" towards end of the scene",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "II, VIII",
+        "description": "Considerably drinking scenes",
+        "length_m": 13.72
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Fighting between Ram and Divan",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Tread Softly Stranger",
+    "languages": [
+      "English"
+    ],
+    "producer": "Noronha Private Ltd",
+    "cert_no": "870",
+    "cert_date": "19-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Considerably near back views of Calico with bare legs doing exercise",
+        "length_m": 2.13,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete shots of Calico in black dress with the strap of her blouse slipping down partially exposing bare bosom",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete near views of Calico with semi exposed bosom in the tavern; similar views of Calico when she approaches the fishing people in the tavern",
+        "length_m": 22.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the song of love making between Johnny and Clov, particularly deleting shots when they are on the bed",
+        "length_m": 7.32,
+        "length_retained_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "The Hanging Tree",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros Pictures Inc.",
+    "cert_no": "871",
+    "cert_date": "13-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Blow on Elizabeth by Frenchy. Frail pushing off the dead Frenchy and his corpse falling down the precipice",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The fight between Frail and Frenchy particularly deleting the kick",
+        "length_m": 6.71,
+        "length_retained_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "I Want To Live",
+    "languages": [
+      "English"
+    ],
+    "producer": "Walter Wanger",
+    "cert_no": "872",
+    "cert_date": "13-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words Don't touch the merchandise",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "X, XI, XII, XIII",
+        "description": "Considerably details of preparation for gas chamber of operation inside when Barbara Graham is led into it",
+        "length_m": 69.5,
+        "length_retained_m": 127.41
+      }
+    ]
+  },
+  {
+    "film_title": "Anna Lucasta",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sidney Harmam",
+    "cert_no": "877",
+    "cert_date": "18-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Stanley “Tell him to take a cold shower",
+        "length_m": 1.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Frank \"Sometimes pige is a better buy",
+        "length_m": 0.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Frank \"I'm getting tired of nailin that thing together in the middle of the night",
+        "length_m": 2.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Joe: You don't care what man's making love to you as long as it's a man!",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Anna sitting on the lap of a man, their lovemaking and the man trying to move her skirt up",
+        "length_m": 14.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Considerably shots of Anna and the sailor dancing vulgarly close",
+        "length_m": 5.18,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Considerably shots of Anna and the sailor dancing very close",
+        "length_m": 7.32,
+        "length_retained_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "The Trap",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Pictures Corporation",
+    "cert_no": "882",
+    "cert_date": "27-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots of Tippy and his wife on bed and his trying to persuade her with kisses and caresses",
+        "length_m": 9.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots of hard hits in close views in the fight between Ralph and gangster on the balcony",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The words You can sleep in my bed spoken by Tippy",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "Agra Road",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Nagina Films",
+    "cert_no": "883",
+    "cert_date": "28-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots where girls are shown riding bicycles on roles in laps of the boys",
+        "length_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogues of the truck driver in Punjabi and similar remarks of the boys",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shadowgraph of Niranjan stabbing Dhanraj",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Gangster's dialogues suggestive of immoral traffic in women addressed to a girl on the rocks",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shot where a dancer lies down on her back wriggling and shaking her bust",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots where Police Inspector is shown tripping on plantain skin",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Dialogues of conspirators, especially Niranjan, explaining with a model, modus operandi of crime against Sujata and her sister",
+        "length_m": 42.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Dialogue of a gangster ridiculing policemen for losing their purses",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Sequence where a Parsi is shown drinking and jumping in Paap Ka Ghara",
+        "length_m": 23.77
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Considerably the scene where Police Inspector faces the dumb boy",
+        "length_m": 6.99,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Sujata",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Productions",
+    "cert_no": "26556",
+    "cert_date": "31-3-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Deleted",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Deleted",
+        "length_m": 32.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted",
+        "length_m": 46.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Deleted",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Deleted",
+        "length_m": 21.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Deleted",
+        "length_m": 30.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted",
+        "length_m": 36.27
+      }
+    ]
+  },
+  {
+    "film_title": "Jagir",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Prem Nath Laroiya, L.M. Movies",
+    "cert_no": "27533",
+    "cert_date": "24-4-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Additions under Rule 34",
+        "length_m": 19.2
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "Additions under Rule 34",
+        "length_m": 14.63
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Additions under Rule 34",
+        "length_m": 16.46
+      }
+    ]
+  },
+  {
+    "film_title": "Nrityeri Tale Tale",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Inka Productions",
+    "cert_no": "24635",
+    "cert_date": "28-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word \"Badmaish\" from the Professor's dialogue with his wife",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Thozzhan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Shri A. Thiruvengada Mudaliar, A.T.M. Productions",
+    "cert_no": "26259",
+    "cert_date": "26-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete all suggestions, picture as well as dialogue, that the lameman had any immoral relations with the prostitute",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the prostitute's house, delete picture of Vadivazhagan trying to go upstairs and being detained by the Mama, with accompanying dialogue, upto and including the Athai coming and falling on Vadivazhagan and rolling",
+        "length_m": 24.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the Athai offering herself when Vadivazhagan shows money",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "When the gorilla goes to Vadivazhagan's bed, delete the portion where he turns and embraces it",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "When Kuzhalmozhi and Veeravallabhan are in the garden, delete the library shot showing a bee emerging from inside the flowers",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "20",
+        "description": "Delete the sentence of the old man \"If all who have grown a beard are great men, then I am also a great man\"",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Good Day For A Hanging",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "881",
+    "cert_date": "25-5-59",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Considerably the shot in which Ben turns the body of Eddy by foot to reveal his bloodstained face",
+        "length_m": 0.79,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Considerably the fight between Ben and Selby; particularly delete shots of blows with pieces of wood",
+        "length_m": 10.06,
+        "length_retained_m": 9.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots of Edward kissing Laurie passionately",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Do Ustad",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sheikh Mukhtar Productions",
+    "cert_no": "27726",
+    "cert_date": "28-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Jaggu's remarks holding society responsible for creation of criminals and condemning it for the same (Sound)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots where Raj steals purse of a Seth and distributes the money among those standing around",
+        "length_m": 23.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "During song No. 3, close physical proximity between Raj and Madhu at the beginning of the song",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "During song No. 3, when they are shown on the motor bicycle",
+        "length_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "During song No. 3, when they are shown in the lift",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "During song No. 4, shots of wine bottles",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "During song No. 4, shots where spectators in the audience react in a vulgar manner to the dancer",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "During song No. 4, shots where a group of persons makes vulgar advances to the dancer and otherwise harasses her",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "During song No. 4, shots of girls during Rock and Roll held horizontally and taken on the backs of the partners and in postures of an indecent nature",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In song No. 5, shots where a dancer is lifted up by her partner during the dance",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots and dialogues of the Police Officer where he intervenes in the conversation of Chavla and Raj when they are talking about Madhu, makes remarks derogatory to his position and winks at Raj sympathetically",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "During song No. 7, shots of close physical proximity between Raj and Madhu particularly shots where she reclines on Raj's chest",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Shots and dialogues of Jagan which imply generalised condemnation of society and attribute the creation of criminals to it",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Child's intervention in the proceedings and the judge's reply to the same",
+        "length_m": 16.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Considerably shots where Jagan climbs up the scaffolding with the child",
+        "length_m": 34.14,
+        "length_retained_m": 85.65
+      }
+    ]
+  },
+  {
+    "film_title": "The Big Country",
+    "languages": [
+      "English"
+    ],
+    "producer": "William Wyler & Gregory Peck",
+    "cert_no": "27729",
+    "cert_date": "28-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Buck trying to make love to Julie forcibly",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Count Your Blessings",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "27723",
+    "cert_date": "28-5-59",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VB",
+        "description": "Voluntary deletion",
+        "length_m": 6.4
+      }
+    ]
+  }
+]

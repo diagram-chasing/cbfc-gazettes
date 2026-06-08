@@ -1,0 +1,1187 @@
+[
+  {
+    "film_title": "A Bullet For Joey",
+    "languages": [
+      "English"
+    ],
+    "producer": "Samuel Bischoff and David Diamond",
+    "cert_no": "728",
+    "cert_date": "26-5-1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of Hartman shooting and a man falling dead as a result.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots of Jack shooting at Yvonne and Yvonne being hit by the bullet and falling.",
+        "length_m": 3.3528,
+        "length_retained_m": 0.54864
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The fight on the ship.",
+        "length_m": 5.1816,
+        "length_retained_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "Qatil",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "G. A. Gul",
+    "cert_no": "24310",
+    "cert_date": "27-5-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The picturisation of song 'Dekhu Pyar Ki Reet Purani'.",
+        "length_m": 62.1792
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Picture and sound 'Bahen Phelae'.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The gambling scene.",
+        "length_m": 5.4864,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Taqdeer",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "D. Sohna",
+    "cert_no": "24361",
+    "cert_date": "30-5-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In song No. 2, the line 'A looto moaj babar moro dildar zoro sarkar' wherever occurring.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In song No. 3, the line 'Tori nazar mera zigar, heye na jano le gai kidhar'.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogues establishing that Paro has left her college for a love affair.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Embrace between Nand and Ugha.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots and dialogues establishing that the Manager has given his entire fortune to Paro for his previous illicit relationship with her.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "All shots and dialogues of Paro after meeting Bally at the hotel and Bally's dialogues condoning her immorality.",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Karigar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Vasant Joglekar",
+    "cert_no": "24378",
+    "cert_date": "2-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In song No. 2, shots where an old Parel gentleman makes gestures to a girl and a shoeshine boy is kicked.",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In song No. 4, close view of Parvati's bust and footage where a portion of her bust is seen uncovered.",
+        "length_m": 19.812
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the red-light area scene, a woman pulling a man's coat, and in song No. 5, a man in Pardi costume trying to pull a dancing girl's pallav.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "In song No. 8, shots of a dancing couple in an indecent pose, close views of Helen in a tight costume, Helen and Shankar bound together, and the word 'Chavanni'.",
+        "length_m": 24.6888
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Agha's dialogue 'baatii chupao'.",
+        "length_m": 0.54864
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Vaishnavi narrates an episode from Ramayan while Paro is shown in Sita's role.",
+        "length_m": 91.1352
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots of Chaupati.",
+        "length_m": 123.444
+      }
+    ]
+  },
+  {
+    "film_title": "Hathkadi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "D. S. Films",
+    "cert_no": "24387",
+    "cert_date": "3-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, XII, XIV",
+        "description": "All shots and dialogues establishing that Madan took a career of crime to get his sister married.",
+        "length_m": 30.1752
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue between Raju and Madan regarding law and society.",
+        "length_m": 38.4048
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The map of Laxmichand's criminal organization throughout India.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "In song No. 2, shots where dancers are shown back to back.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In song No. 4, shots where Lata is lying in Santosh's lap and in close physical proximity.",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The words 'All India Organisation'.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots and dialogues where Lata and her bridegroom seek blessings of Madan.",
+        "length_m": 8.8392
+      }
+    ]
+  },
+  {
+    "film_title": "Hunters Of The Southern Seas",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Central Documentary Film Studios",
+    "cert_no": "24398",
+    "cert_date": "6-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2 to 3",
+        "description": "Shots of chopping meat from a whale's bone and reducing shots of cutting up and skinning a whale.",
+        "length_m": 39.624
+      }
+    ]
+  },
+  {
+    "film_title": "Storm Over The Nile",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "London Films",
+    "cert_no": "730",
+    "cert_date": "5-6-1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots showing preparations for branding and shots of Henry perspiring, breathing heavily and groaning.",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of native labourers hauling ropes being lashed by soldiers.",
+        "length_m": 10.668
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of British Prisoners of war being dragged by rope behind camels.",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the scene of Harry before Khalifa, shots of the Interpreter kicking Harry and slapping him, and a person putting his foot on Harry's stomach and threatening him with a bayonet.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots of direct hits of Harry striking Sudanese guards and Harry plunging a knife into a Sudanese guard's back. Near views of direct hits by bayonets in the battle scene.",
+        "length_m": 1.0668
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shots showing dead bodies of animals and men scattered around and vultures hovering and swooping down.",
+        "length_m": 6.4008,
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "The Ride Buck",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "737",
+    "cert_date": "6-6-1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots where Elena is mauled by the lion guard when she tries to follow Kallen and Humish.",
+        "length_m": 3.048,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Arena Of Friendship",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Central Documentary Film Studio, Moscow",
+    "cert_no": "24124",
+    "cert_date": "16-4-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Sequence of exterior shots of the stadium with commentary.",
+        "length_m": 18.0096
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Moscow street shots and commentary about delegates sightseeing and trips along the canal.",
+        "length_m": 36.576
+      }
+    ]
+  },
+  {
+    "film_title": "Youth In Contest",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Central Documentary Film Studio",
+    "cert_no": "24126",
+    "cert_date": "16-4-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deletion of footage.",
+        "length_m": 32.6136
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deletion of footage.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deletion of footage.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "reel": "4 (1)",
+        "description": "Deletion of footage.",
+        "length_m": 23.7744
+      },
+      {
+        "kind": "deletion",
+        "reel": "4 (2)",
+        "description": "Deletion of footage.",
+        "length_m": 32.004
+      }
+    ]
+  },
+  {
+    "film_title": "Rangini",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ashok Pictures Private Ltd.",
+    "cert_no": "23425",
+    "cert_date": "20-4-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Song No. 3 'Dil todde wale'.",
+        "length_m": 279.5016
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Sound of 'Aalp' overlapping on Sitaru and Rajan, coupled with the fisher women.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Song No. 10 (Sad song of Sitara).",
+        "length_m": 88.7016
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Shots of Jugal and Raagini moving towards Jugal's car.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots following Raagini's meeting with Rajan and dialogues up to Sitara lying down in bed.",
+        "length_m": 23.4696
+      }
+    ]
+  },
+  {
+    "film_title": "Bhanu Polo Lottery",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "M. C. S. Pictures",
+    "cert_no": "1428",
+    "cert_date": "27-5-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing a scantily dressed model in a shop after a sales girl has taken off its garment and Bhanu staring at it.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "The word 'El Gadite' from Bhanu's dialogue 'Lujuk? Nu. Ek ghara ka eku-hudhu apni ami-ek gadite, Lajja Karona?'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "The scene of drinking where Jahar and Dayal are shown with bottles of drinks and Jahar is serving drinks to Dayal.",
+        "length_m": 10.668,
+        "length_retained_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"A Bullet For Joey\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "4333",
+    "cert_date": "26-5-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The shots of Jack being shot and of the sub-machine gun.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "The shot of a man being hit hard on the head with the whip.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "The shots of Hartman shooting and a man falling dead.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "The words 'Through a killer's rifle sight' and 'Wild Violence' from the commentary.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Kicking of Joey and Joyce.",
+        "length_m": 2.62128,
+        "length_retained_m": 2.62128
+      }
+    ]
+  },
+  {
+    "film_title": "Automation, See It Now",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Edward R. Murrow & Fred W. Friendly",
+    "cert_no": "34359",
+    "cert_date": "30-5-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The words 'They've got to be behind this great material prosperity... superiority over the Communists' from the commentary.",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Shan-o-Hatim",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Moghabhai D. Dorai",
+    "cert_no": "24360",
+    "cert_date": "30-5-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots where Anjuman Ara is shown cutting her leg, all shots of Anjuman Ara with a severed leg, shots where Satan is shown with Anjuman Ara's severed leg, and shots where the severed leg is shown flying.",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "War Drums",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "A Bel-Air Production",
+    "cert_no": "24488",
+    "cert_date": "20-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shot of man striking Ring on the face. Dialogue 'Tonight you shall earn your keep'. Shot of man striking Ring with whip.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the second fight with dagger, shots where a fatally wounded man writhes in pain when fallen.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where Mangas is whipped. Shots where Mangas holds up blood-stained tuft of hair. Two-thirds of the fight with prospectors.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Close shots of daggers and other weapons being directly thrust into bodies of combatants.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shots and sound of woman in labour.",
+        "length_m": 4.8768,
+        "length_retained_m": 7.9248
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"War Drums\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "A Bel-Air Production",
+    "cert_no": "24487",
+    "cert_date": "20-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Close shots of daggers and other weapons being directly thrust in bodies of combatants.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of Mangas being whipped.",
+        "length_m": 2.62128
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shots of Mangas holding up blood-stained tuft of hair.",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Gouri Shankar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Nagesh Redli",
+    "cert_no": "24489",
+    "cert_date": "21-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of Shiv with profane apparel and undesirable make-up.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots where a woman is carried in arms by a person in the clouds.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "The dialogue 'Shrakar ku bud kadana'.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shots where Shankar is shown watching a girl dancing vulgarly.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Shots where Gouri and Shankar are shown talking profanely.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Cowboy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "24415",
+    "cert_date": "12-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The entire sequence of chickens being buried up to their necks and seen in that position while men ride by trying to scoop them up.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots where Harris is seen held up and pushed against open fire.",
+        "length_m": 0.1524
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shots where the horse is gored by the bull's horns, and remarks 'I don't want him cut up like that other horse'.",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Slim's remarks 'You get one of their knlyon across your belly. You won't be able to hold in your guts with both hands' referring to Mexicans.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "From Curtis's dialogue, the words 'Now, Miglor, We are going to see what you had for breakfast,' addressed to Harris.",
+        "length_m": 0.73152
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "The scene of rattlesnake being teased and close views of Singer's face after he is bitten by the snake.",
+        "length_m": 6.096,
+        "length_retained_m": 6.7056
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "The fight between Roce and Harris, particularly deleting all direct hits on face and all shots in which Harris is seen pushed against, or held up close to, open fire.",
+        "length_m": 26.8224,
+        "length_retained_m": 6.7056
+      }
+    ]
+  },
+  {
+    "film_title": "The Art of Friends",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Central Documentary Film Studio",
+    "cert_no": "24138",
+    "cert_date": "11-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The solo dance of the Egyptian dancer in suggestive nudity and making independent movements of the body.",
+        "length_m": 24.9936
+      }
+    ]
+  },
+  {
+    "film_title": "Once Upon A Horse",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Universal International Films Inc.",
+    "cert_no": "24441",
+    "cert_date": "11-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the hog dance in saloon, shot where the camera concentrates on legs and thighs of the dancing girls.",
+        "length_m": 2.31648
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shot showing bare leg and thigh of Amity entering bath.",
+        "length_m": 3.13944
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Dialogue, the underlined words from the passage: 'why can't men be born at the reportable age of 28? wouldn't that be an undue hardship on the mother'.",
+        "length_m": 135.0276
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Fighting scene in saloon, particularly deleting shots of women falling and crashing in visor lor and shot of a Woman perching on the head of a man.",
+        "length_m": 15.24,
+        "length_retained_m": 15.8496
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Close shots in which the Sheriff kisses Amity wantonly, and deleting footage in which he kicks her hard on the neck.",
+        "length_m": 3.048,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Police",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Pradeep Kumar And Deep Khosla",
+    "cert_no": "24423",
+    "cert_date": "9-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots where Pillay is shown with Inspector Mobra's watch which has been picked from his pocket and the Inspector's comment thereon.",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Rangooni says lovely to Manju and pulls her cap. The words 'Kamane ke liye' spoken by Manju.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI and VII",
+        "description": "In the motor car sequence where Manju is shown with Rangooni in disguise of a Pathan, the words 'Huseeno + Yohion', 'Piar go', 'Bul Bul', and dialogues about beautiful girls being called bulbul and a place being barren.",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Opening close shot of Rangooni when he comes back from Telephone Booth, and dialogues till Manju's invitation to Blue Heaven.",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The words uttered by Champa: 'Ulta tange gi'.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Pathan's dialogue 'Rat ko har ladki gori lagti haj'. Picturisation against the words 'Tharka', 'Thaska' in song No. 4.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Rangooni's dialogue addressed to Manju: 'Angootha ohooane wali eur doodh peeno wali baby hai'.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Shots where Rangooni and Ramesh kick each other's face.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Close shots of Jagi's disfigured face.",
+        "length_m": 1.3716,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots where Rangooni is being gassed.",
+        "length_m": 3.9624,
+        "length_retained_m": 7.9248
+      }
+    ]
+  },
+  {
+    "film_title": "Post Box 999",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ravindra Dave",
+    "cert_no": "24484",
+    "cert_date": "19-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots where Vikas harasses Nilima.",
+        "length_m": 39.624
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of physical proximity between Vikas and Nilma during the song.",
+        "length_m": 33.528
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of cuddling and physical proximity between Vikas and Nila.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In song No. 6, shots of physical proximity between Nilima, Banarasi and Vikas.",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Lines from song No. 6: 'Ankhon so pilaungi, pyás bujhuungi', 'Duniya bhulaungi', and 'Poone ka maza le'.",
+        "length_m": 12.5096
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII & XIV",
+        "description": "All shots and dialogues establishing an irregular, incorrect and objectionable procedure of trial in Mohan's case and all shots and dialogues establishing that Chiranjit's crime was extenuated.",
+        "length_m": 242.0112
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Shots showing judge saying that the case is to be started against Chiranjilal for forgery and for further crime Polloo should institute the Deponary proceeding.",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Hell Drivers\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Rank Organisation",
+    "cert_no": "24462",
+    "cert_date": "12-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots showing the first fight between Tom and Rod.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots of Tom and Lucy embracing and kissing.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Shots showing trucks falling from precipices.",
+        "length_m": 3.048,
+        "length_retained_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Hell Drivers",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "A Bel-Air Production",
+    "cert_no": "24488",
+    "cert_date": "20-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shot of man striking Ring on the face. Dialogue 'Tonight you shall earn your keep'. Shot of man striking Ring with whip.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the second fight with dagger, shots where a fatally wounded man writhes in pain when fallen.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where Mangas is whipped. Shots where Mangas holds up blood-stained tuft of hair. Fight with prospectors.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Close shots of daggers and other weapons being directly thrust into bodies of combatants.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shots and sound of woman in labour.",
+        "length_m": 4.8768,
+        "length_retained_m": 7.9248
+      }
+    ]
+  },
+  {
+    "film_title": "Brothers-In-Law",
+    "languages": [
+      "English"
+    ],
+    "producer": "Lion International Films",
+    "cert_no": "24139",
+    "cert_date": "12-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "All shots (visual and sound) indicating that Henry and the girl lie together in darkness and make love, ending in the shot in which Henry lying on the floor pulls the girl on to him.",
+        "length_m": 29.5656
+      }
+    ]
+  },
+  {
+    "film_title": "10 O Clock",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Niagra Pictures",
+    "cert_no": "24458",
+    "cert_date": "13-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Sequence where Chhajnia tells Bhiku not to go to the police station till Ubacha comes.",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Sequence where Policeman shouts for Bhiku.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Sequence where Edna tells Joe that she is going for whopping.",
+        "length_m": 14.3256
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Sequence where Police makes inquiry from Pyarelal and Joe about the murder.",
+        "length_m": 86.5632
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In song No. 1, the line 'Buat Hai Thandi Thundi Dilon me Aug Bharlon'.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of physical proximity between Edna and Rakooli in song four.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Picturisation of song 'Ye kyu kar dalu tuna' (Complete song).",
+        "length_m": 94.7928
+      },
+      {
+        "kind": "insertion",
+        "reel": "VIII",
+        "description": "Picturisation (altered) of song beginning with the words 'Ye kya lar dala tuno'.",
+        "length_m": 94.7928
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Captain's Paradise\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "London Films",
+    "cert_no": "24486",
+    "cert_date": "16-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots in which Madame Nita's thighs are revealed prominently as she lifts up her legs and then walks forward.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Shots in which the Captain is seen standing behind the woman and undoing ribbon of her dress.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Cowboy",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "24483",
+    "cert_date": "18-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots in which Capper, in a very highly drunken state is hotly pursuing a girl and pulls her skirt.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The entire sequence of chickens being buried up to their necks and seen in that position while men ride by trying to scoop them up.",
+        "length_m": 27.1272
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the battle game all shots showing the horse gored by the bull's horns, and remarks 'I don't want him cut up like that other horse'.",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Slim's remarks 'You get one of their knlyon across your belly. You won't be able to hold in your guts with both hands' referring to Mexicans.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "From Curtis's dialogue, the words 'Now, Miglor, We are going to see what you had for breakfast,' addressed to Harris.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Considerably the scene of rattlesnake being teased and close views of Singer's face after he is bitten by the snake.",
+        "length_m": 6.096,
+        "length_retained_m": 6.7056
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Considerably the fight between Roce and Harris, particularly deleting all direct hits on face and all shots in which Harris is seen pushed against, or held up close to, open fire.",
+        "length_m": 26.8224,
+        "length_retained_m": 6.7056
+      }
+    ]
+  },
+  {
+    "film_title": "Hell Drivers",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Rank Organisation",
+    "cert_no": "739",
+    "cert_date": "17-6-1958",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots showing Red pinching cheeks of a girl in a Cafe.",
+        "length_m": 1.6764
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots showing a truck driver kissing a girl in front of a Cafe.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In the dance in the town club, shots of couples including Tom and Lucy rubbing their cheeks against each other.",
+        "length_m": 6.6444
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the fight in the Cafe.",
+        "length_m": 10.3632,
+        "length_retained_m": 6.096
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Considerably the fight omitting shots of kicks, shots of Tom lifting and embracing Lucy to a flash.",
+        "length_m": 27.7368,
+        "length_retained_m": 20.7264
+      }
+    ]
+  }
+]

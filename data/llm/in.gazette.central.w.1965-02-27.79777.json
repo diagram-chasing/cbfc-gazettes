@@ -1,0 +1,445 @@
+[
+  {
+    "film_title": "Erik The Conqueror",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "42947",
+    "cert_date": "28-10-1964",
+    "endorsement": "U",
+    "original_length_m": 2257.95,
+    "final_length_m": 2216.45,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of a woman struggling in the arms of a warrior, close-up of Harold's face and body with an arrow in it, shot of a man being thrown into fire, and shot of a man axing a Viking.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shot of Harold's body being dragged and Eric crying for papa.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words 'and the man who dared possess her and defy you must also die.'",
+        "length_m": 0.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words 'Someday — perhaps I might teach you what it is to have a real man! The man you've never had,' from Eron's speech to Queen Alice.",
+        "length_m": 2.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The close view of Eron's face and hand full of blood.",
+        "length_m": 18.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shot of the bleeding bodies of a girl and a boy bound on a platform.",
+        "length_m": 8.54,
+        "length_retained_m": 1.93
+      }
+    ]
+  },
+  {
+    "film_title": "Legion's Last Patrol",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 2694.0,
+    "final_length_m": 2676.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Close-ups of a semi-clad dancer making indecorous movements with her bare belly, and shot of a soldier hitting the dancer's stomach with a catapult.",
+        "length_m": 3.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of Bresia spitting at Bon Belad and referring to him as pig.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From Captain's remark to Ben Belad: 'He takes joy out of killing, doesn't he' when Ben Belad is made to dig a grave for the dead parents of the Algerian boy.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From Petit Prime Prince's dialogue to Bon Bolad after seeing the dead bodies of the Algerian couple: 'A nice way to give Algeria to Algerians.'",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Petit Prince's dialogue after Bed Belad puts his hand compassionately on the head of the orphan child: 'Very touching... very moving... I remember when I was a little boy, a Nazi officer put his hands on my head just like that. But that's before he shot my parents, not after. Now dig!... dig!'",
+        "length_m": 5.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From the dialogue of Captain addressed to Ben Belad, the word rape with reference to the crimes committed by the Algerians.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "The scene of burning of Gracia by Algerian revolutionaries.",
+        "length_m": 1.0,
+        "length_retained_m": 0.5
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Legion's Last Patrol",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 52.0,
+    "final_length_m": 50.5,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of the dancer making indecorous movements with her bare belly.",
+        "length_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "April Fool",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "original_length_m": 4555.23,
+    "final_length_m": 4527.8,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shot of Ashok and Midhu suggestively reclining and moving out of sight behind a tree at the end of the song 'Kahdo kahdo jahan se kahdo...'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots of pictures of Christ and of Rita making the sign of the cross while pretending to be a Christian girl in order to remove the impression that Christians are prominently associated with the spy-gang.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The speech of a man in the birthday party of Madhu referring to the 'Bhai Bha' relationship between India and China in the past in the context of the Chinese aggression.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Considerably shots of a girl being tortured by the spy-gang, particularly the administration of electric shocks, deleting shot of a spark being produced by way of testing the electric rod. Also delete the remark of one of the men 'Double dost.'",
+        "length_m": 10.36,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Love In Las Vegas",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2310.08,
+    "final_length_m": 2197.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I (1A)",
+        "description": "The close-up of swaying hips of Rusty as she goes from the garage to her car.",
+        "length_m": 1.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II (1B)",
+        "description": "Indecorous views of the female dancers in various bars and hotels in scanty dresses.",
+        "length_m": 22.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (2A)",
+        "description": "The view of Rusty as she comes out of the dressing room and faces Lucky in her thin, yellow panties.",
+        "length_m": 3.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "The back view of Rusty in red sweater and black leotards with swaying hips. Also the shot when after grabbing, Lucky, bends her and she kicks her legs in the air while dancing.",
+        "length_m": 3.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (3A)",
+        "description": "The song 'Hey Mama Don't you treat me wrong' and accompanying dance.",
+        "length_m": 75.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The view of Rusty's bust when she turns around while she and Lucky are picnicking.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII (4B)",
+        "description": "The shot when Rusty is singing a contest number in white fur at the point when she flips her white fur dress to reveal her legs. Also the close-ups of the dancer in black costume.",
+        "length_m": 4.8
+      }
+    ]
+  },
+  {
+    "film_title": "Three Stooges Go Around The World In A Daze",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 2603.6,
+    "final_length_m": 2599.95,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The words 'What in the name of the sacred apes of Kashmir is this?' from the dialogue of Maharajah addressed to Philcas.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Near-views of shaking of bust and wiggling of hips by the female dancer in Maharajah's palace. Also shot in which the exposed thighs of the dancer are prominently visible.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From Filch's dialogue addressed to Vickers, the words '...If we'd been caught here in China dressed like blooming Indians.'",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Three Stooges Go Around The World In A Daze",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 79.25,
+    "final_length_m": 78.03,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of the female dancer wiggling her hips.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Samurai Pirate",
+    "languages": [
+      "English"
+    ],
+    "format": "Tohoscope",
+    "original_length_m": 2738.0,
+    "final_length_m": 2695.38,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The words 'He... fell from a cloud when he saw a naked woman,' referring to an ancestor of the magician, wherever it occurs.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II & IV",
+        "description": "The close-ups of the girl's exposed bust while washing clothes.",
+        "length_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The suggestive action of the soldier indicating a woman's bosom when he talks to Luzon about the type of girl he likes.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the slave dance sequence, near views of exposed thighs and waists of female dancers.",
+        "length_m": 10.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Close-ups of the bare bust of a woman with the fly on it after the magician transforms himself into a fly.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Near-views of the bleeding chest of a guard after he is killed in the fight.",
+        "length_m": 1.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Close-ups of the nude female statue and shots of the magician looking at it and licking his lips.",
+        "length_m": 5.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Close-up of the nude female statue and shot of the magician smacking his lips when talking about his weakness for women.",
+        "length_m": 5.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "All shots of direct thrusts of arrows and swords.",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "633 Squadron",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "original_length_m": 2589.58,
+    "final_length_m": 2576.17,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III (Part 6)",
+        "description": "The indecorous view of Hilda's bust while she is standing near the window.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel (Part 9 & 10)",
+        "description": "The fighting scene between the Norwegian underground members and Nazis and also the bombing raid; particularly delete the shot of a pilot with blood running down from his eyes.",
+        "length_m": 12.04,
+        "length_retained_m": 27.56
+      }
+    ]
+  },
+  {
+    "film_title": "The Mysteries of Paris",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Dyaliscope",
+    "original_length_m": 109.73,
+    "final_length_m": 103.02,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following portions from the commentary: '...Where the forces of law and order were ridiculed - why that's monstrous, how can the police permit such horrible things to take place - Such things are as ancient as time, my dear Sambreuil, and they will always exist. It's like wanting to jail a disease.'",
+        "length_m": 6.17
+      }
+    ]
+  },
+  {
+    "film_title": "Bhaiya",
+    "languages": [
+      "Magadhi"
+    ],
+    "original_length_m": 4106.85,
+    "final_length_m": 4099.23,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Views of Parama following Murli and vice versa.",
+        "length_m": 6.62
+      }
+    ]
+  },
+  {
+    "film_title": "Shagoon",
+    "languages": [
+      "Urdu"
+    ],
+    "original_length_m": 3810.6,
+    "final_length_m": 3658.56,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Entire song beginning with the words 'Itne Qurib Aake Bhi- upto- Ik Doosre Ko Mangega Is Zindagi Se Hum' along with picturisation.",
+        "length_m": 113.03
+      }
+    ]
+  },
+  {
+    "film_title": "Thotalo Pilla Kotalo Rani",
+    "languages": [
+      "Telugu"
+    ],
+    "original_length_m": 4572.0,
+    "final_length_m": 4557.72,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Shot of Rani with low neckline where her bust is partially seen.",
+        "length_m": 4.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 6",
+        "description": "Shot of bust of Gowri and Srimathi touching twice.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Dialogue of Durjaya 'Nee Pedavulato Naa Pedavulini beginchi; and Ee Kalamulo Puthivrathalu Loru, Undaru'.",
+        "length_m": 4.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Song 5 - Delete the line 'Kaliki Chethiki Andosthundhi; Pachaga Vechaga Muchata Docoche, Kamadhenuve Aadadhi.' (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Sentence of Varahalu Setti about his difficulty in the absence of his wife.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Sentence of Kaka about the Kaka which the women like.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 14",
+        "description": "Song 8 - Delete the word 'Podisthe' from the text. (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

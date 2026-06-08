@@ -1,0 +1,716 @@
+[
+  {
+    "film_title": "Adhikaar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rup Kamal Chitra, Bombay",
+    "cert_no": "11962",
+    "cert_date": "20-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The line 'Vahi chakma charanbisi pooran jhanfl pat tihai' from the couplet 'Aise to chudamani babu nag hava jald mat hai, vahi chakma charanbisi pooran jhanfl pat tihai'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI and VII",
+        "description": "Views of Usha and her girlfriend with pointed and emphasised bust in sport style when they come to end with Shekhar in his house, and views of Usha in a transparent silk shirt in the sequence in which Shekhar goes to her house and when they play, also such views of Usha when she throws a coconut and runs on the sea beach.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI and VII",
+        "description": "Mid-close and close views of Usha and Shekhar when they are closely reclining on the ground and Usha is laying her head on his chest.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI and VII",
+        "description": "Shekhar asking 'How did you come to know of that?' when the girl says to him 'You are very heavy in weight'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Words 'Randurong M' and 'Boetaram' being flung in a ridiculous way.",
+        "length_m": 6.1
+      }
+    ]
+  },
+  {
+    "film_title": "Naukri",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bimal Roy Productions, Bombay",
+    "cert_no": "11003",
+    "cert_date": "20-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "From the montage shot of Government schemes published in newspapers mixed with 'No vacancy', delete the newspaper publication of Government schemes.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "From the sequence in which the hero rushes to Morrison Company, the reference to a man having been dismissed and his probably having committed suicide.",
+        "length_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Somaal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ashok Kumar Productions Ltd., Bombay",
+    "cert_no": "11005",
+    "cert_date": "12-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The views of the dancing girl dancing with the song 'Aa zhul mere unvtie' where the flesh of her lewern is visible.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The words 'Ye dhoti knulgai' and Satyanath's accompanying gesture when Satyanath agrees to pay the rent.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV and XII",
+        "description": "The word 'fcJola' throughout the picture.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Word 'sala' used by Gopa (Junior).",
+        "length_m": 0.0012
+      },
+      {
+        "kind": "deletion",
+        "reel": "All",
+        "description": "Words 'DalBanoce II ai Sole Nai' by Dada (Senior).",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Lada Striking Gopa violently when he is with Genu and Munni and Gopa sits down as a result of his being struck.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "The violent wound when the head of Satyanath strikes against a pillar.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably the fight between Lada and Kalila, specially deleting close views of hard knocks, punches and 'Qnillotine chope'. Also delete Lada twisting Kalila's hand.",
+        "length_m": 19.51,
+        "length_retained_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The scene showing Lover informing of the accident to Inspector etc.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dada beating Gopa after song 'Raima Ho' till Lada meets Munni.",
+        "length_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Satyanath tells story to Bandit Halidas after the dialogue 'Aab bade Natak Khar' till before Gopa meets Dodo.",
+        "length_m": 20.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Scene in the hospital where Kalidas gives his statement for record to Inspector.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Partious dialogues when Gopa speaks 'Pan chalo etc.'.",
+        "length_m": 20.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Paokmt scene from the slum before Gopa is beaten.",
+        "length_m": 18.59
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "The fight between Lada and Kalila.",
+        "length_m": 18.29
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Song 'Chalte bane'.",
+        "length_m": 76.2
+      }
+    ]
+  },
+  {
+    "film_title": "A Star Is Born",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. Pictures Inc., U.S.A.",
+    "cert_no": "11066",
+    "cert_date": "22-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "A girl putting on gaiters and thus revealing her thigh.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of Judy in slit skirt when she reveals her legs above the knees while dancing or walking.",
+        "length_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of girls in ballet dress looking from the wings when the flesh of their bosom is visible as also such views of girls clapping.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The dramatic short insert of Judy in suggestive dress after she sings 'I got- a little bolder'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Views of Judy where flesh of her bosom is visible when she sings 'Tea Nut', such views of the same character in a low-cut sky blue dress as she sings, hums and talks.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Hero and heroine kissing in the hotel bedroom.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Another kiss of the same characters when they are in each other's arms and the lady has a hand-wich in her hand.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Hero and heroine falling together on the ground along with all suggestion of their being passionately close.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "A view of the woman in the wing of the stage where the flesh of their bosom is visible.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Shots where a woman with flesh of her bosom visible watches and hears Judy singing, along with others.",
+        "length_m": 1.68
+      }
+    ]
+  },
+  {
+    "film_title": "A Star Is Born",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. Pictures Inc., U.S.A.",
+    "cert_no": "11067",
+    "cert_date": "22-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "A girl putting on a garter and thus revealing her thigh.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Nagin",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "M/s. Filmistan Ltd., Bombay",
+    "cert_no": "11969",
+    "cert_date": "22-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "The following table in English as well as Hindi in writing and sound: 'This film does not depict the life or story of any existing or ancient people. Any resemblance to any person or existing entity is purely coincidental'.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "description": "The following dialogues: 'Tan se lipat jayega'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "'Main naginon ko mast koine wala jadugor boon'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "'Fir age badhkar usne mujhe apne jakod men le liya, meri haddi haddi choor kar diva', 'Sanp ne mujhe jab pakda to maine bahut hath pair mara, pahle mujhe gira diya, fir maine socha, kabhi woh upar, kabhi main neeche, babul ghamsban ka ran hua'.",
+        "length_m": 24.99
+      },
+      {
+        "kind": "deletion",
+        "description": "'Jambuon kaliamen shank nailin' (the gesture of the hero with the dialogue should also be excited).",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "description": "'Nag bhikoiaiBft vaiAanahttn,pooridotangon wala tba, do larger wala?,. bade jalim bote hain yeb do langcn wale naofc anr tadi Ifidi mithi mJtJkl pkooukaien marte hain, am fir dliiro so shareer men ]hahar cotar dete hain our jbahar Ibi aka jo aur uiare na utare'.",
+        "length_m": 22.01
+      },
+      {
+        "kind": "deletion",
+        "description": "'Tumhara dll meiedilkeaang Bang dhadke'.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "description": "'Hay hoy kaisa dankka mars hailombakhta nugno, paththar ho gal bithari, sb to Jab tak vahlnaag aakar jahar na ckoosle, jaannahln ftycg'.",
+        "length_m": 20.73
+      },
+      {
+        "kind": "replacement",
+        "description": "The dialogue 'Hay hoy kaisa dankka mars hailombakhta nugno, paththar ho gal bithari, sb to Jab tak vahlnaag aakar jahar na ckoosle, jaannahln ftycg'.",
+        "length_m": 35.97
+      },
+      {
+        "kind": "deletion",
+        "description": "'Jv 4,11' - ' a pyor uma hi iowan hoto hai' 'Aur pass aao Mala, mere pass aao'.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "replacement",
+        "description": "Words 'by townspeople with reference to tribal people' (sound-replaced by the words 'Bangll' and 'Manga!').",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "'' or ''.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "The lines 'Fiku iihakajaro, rccla Luo gojro, keh dega saari baat' from song No. 3, the lines 'Dekh bhoolse dheclna dena', 'Dekho lad gaya p**), door ko khanoh' from song No. 4, and the lines 'Tott-gadil ka taolu' from song No. 6.",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "description": "Mala being cuddled by Sanatan as also views where they are in close physical contact and her shoulders are being brushed amorously by him.",
+        "length_m": 13.99
+      },
+      {
+        "kind": "reduction",
+        "description": "Close shots of Pai veer giving blows to Sanatan outside the hut, the untangling of Mala by her father, ParreOr hitting Sanatan after he comes down from the tree, specially deleting near views of hits on the neck.",
+        "length_m": 7.32,
+        "length_retained_m": 13.41
+      },
+      {
+        "kind": "reduction",
+        "description": "The scene of hell and Satan as well as Satanic figures moving and dancing towards Mala.",
+        "length_m": 18.59,
+        "length_retained_m": 54.86
+      },
+      {
+        "kind": "insertion",
+        "description": "The scene showing selling of oops.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "deletion",
+        "description": "'Ab gkarjane do' and its repetition.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "description": "The commentary.",
+        "length_m": 53.65
+      }
+    ]
+  },
+  {
+    "film_title": "Mahatma Phulo",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Aire Pictures, Bombay",
+    "cert_no": "11989",
+    "cert_date": "23-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Omit the shot of the bathing Brahmin hitting the boy with his 'Panchapalam' for polluting him with tiny droplets of water from the lota he is washing and the shot of the boy with blood on his forehead.",
+        "length_m": 42.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the picturisation of harassment of Savitri (Mahatma Phule's wife) by the Brahmins when she is on her way to teach in the girls' school. Omit the incidents of Brahmins throwing of 'domoetic' 'Kaohra' (household sweepings) in mourning at her.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Omit the incidents of Brahmins throwing of 'domoetic' 'Kaohra' (household sweepings) in mourning at her.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Delete the public exhibition of the poster in the street announcing that ladies who have 'pie vitrayail' are carrying will be given shelter and will be delivered of the baby and men loudly reading it. Delete also the association of Brahmins with the conspiracy to assassinate Mahatma Phule by omitting the sentence of the two Brahmins regarding removal of the them whilst reading a brief poster.",
+        "length_m": 35.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Delete also the association of Brahmins with the conspiracy to assassinate Mahatma Phule by omitting the sentence of the two Brahmins regarding removal of the them whilst reading a brief poster.",
+        "length_m": 54.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Omit the reference to Kashibai (The widow who had gone astray and whose illegitimate child Mahatma Phule has adopted) as Mahamahopadhava Rama Dikshit's daughter.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete the word 'Biiksbuka' out of the combination 'BHikshuka Waman' at the time when the singer points his finger at the crowd of Brahmins (Sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "III, IV, VII & X",
+        "description": "Delete the words 'Bhatani' from the sentence 'Bhutan! maJa hakundile' (Bhat drove me out) (Scene 22) (Sound-replaced).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "The words 'TeMhane Ishwarakadun MllAle' occurring in scene No.30 where Jyotibai is writing the scriptures and the reference is to Shrutl and Vedas (sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "The words 'DadaahivNarayanPethetalya' (sound-replaced).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "description": "The words 'TeohunKadha' as uttered by a group of Brahmins in the procession scene (Scene 74) (sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce considerably the picturisation of Brahmins taking out procession and their shouts of 'Girdhabhauatidki Jai' at the time of elephant procession of Maharashi Dayan and Saraswari.",
+        "length_m": 9.14,
+        "length_retained_m": 18.29
+      }
+    ]
+  },
+  {
+    "film_title": "Khaiber",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kamal Papoor, Bombay",
+    "cert_no": "11981",
+    "cert_date": "23-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following dialogues of Chakukhan 'lauda Karta Hai Ham Khali Khali Koi Ka Daman Nahin Pakadta', 'Tum Hamare Pa< Glrvi Hal', also the dialogue between Chakukhan and Guljaan 'Kagjhi Hai ; Kagjhi Nahin, Phaulodl Hai' (sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Lagata Hun' keeping them only once (sound).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "The sound of shoes when Ganeshakhan worships at the shrine of Lord Shiva (sound).",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Miss Robin Crusoe",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Eastern Film Enterprises Inc., U.S.A.",
+    "cert_no": "11080",
+    "cert_date": "24-12-1054",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "The struggle between Miss Robin and the surviving Sailor when the latter tries to molest her.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "The scene in which women are to be hung upside down and their bodies to be torn apart by the separating boughs on two sides. Omit the scene on the dummy, the actual hanging of the lady upside down when Friday was being rescued by Robin.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "Finlay's a dance before the fire and flames, to invoke the Goddess of Love, omitting all her close-ups and mid-close shots when the bulge of her breasts and the parting in-between are prominently visible.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Act of Love",
+    "languages": [
+      "English"
+    ],
+    "producer": "Benagoss Productions Inc., U.S.A.",
+    "cert_no": "324",
+    "cert_date": "24-12-04",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II & XII",
+        "description": "Views of a woman sitting in the cafe, where the flesh of her breasts is visible from the low-cut blouse.",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The hero pressing a bundle of currency notes in the blouse of a girl.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III V",
+        "description": "The following dialogues 'Not a bad looking diat'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III V",
+        "description": "'All the dames in the world'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III V",
+        "description": "'You will be supplied with that which'.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III V",
+        "description": "'Girl every plaoe'.",
+        "length_m": 0.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III V",
+        "description": "'So bii By with girls'.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Jyothi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Navayuga Pictures Ltd., Madras",
+    "cert_no": "8200-U",
+    "cert_date": "20-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Uma’s statement 'I feel shy when you take measurements'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "During the first verse of song 2, delete the pictures of Margi with the camera focussed on her bust, covered by low-cut choli.",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the sentence of Mangi to Veoriali 'There is no one here' when he enters her house.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the picture and dialogue of Mangi sharing the money with the two men, after Veeriah leaves.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the entire picture and dialogue of the washer-woman entering the house, Ajunan closing the door, approaching her hesitantly, the close-up of his facial reactions and his overtures to her, the washer-woman’s shouting, money being paid to silence her and her going out after shouting to Veeriah.",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the picture and dialogue of Veeriah and Veeramma in close-up when she is standing near the iron-safe, and he suggests love-marking.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the picture of Jyothi in her hut, after her return from the mirasdar’s house, with the camera focussed on her bust, in close-up and trolly shot.",
+        "length_m": 7.92
+      }
+    ]
+  },
+  {
+    "film_title": "Jyothi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sri Raja Rajeswari Film Company, Madras",
+    "cert_no": "8104-U",
+    "cert_date": "27-04-1954",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the picture and dialogue of Mangi and two others sharing money among themselves, after Mangadu is discovered and taken by.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete at the end of song 6 (against the sound of Kanakiah calling 'ReVaKu') the picture of Vasu and Uma separating after a kiss.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the picture and dialogue of Jyothi relating to the children the story of police repression in a village and shooting down of persons to the end of that sequence.",
+        "length_m": 53.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the picture and dialogue of Qaratiah and Veeramma in close-up where the former makes love.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the picture and sound of laughter of children during and at the end of the Headmaster reciting the sloka.",
+        "length_m": 90.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the picture of Kanakiah paying money to the goonda Kondiah.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the insert pictures and the close-shots of Madhu's bleeding face.",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Balyasakhi",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "M/s. Neela Productions Trivandrum",
+    "cert_no": "8291-U",
+    "cert_date": "21-12-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "During the drama Salome, reduce the sequence where after the beheading, the head is carried in a tray to the king, deleting the frontal views of the head in mid and close-shots (There is no objection to the head shown as speaking to the queen, at the end).",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Sathi Sakkubai",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "M/s. Sri Raja Rajeswari Film Company, Madras",
+    "cert_no": "8262-U",
+    "cert_date": "23-12-65",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the picture of Gangabai throwing down the Bagavad Gita.",
+        "length_m": 0.61
+      }
+    ]
+  }
+]

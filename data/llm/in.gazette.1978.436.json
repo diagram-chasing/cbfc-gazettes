@@ -1,0 +1,403 @@
+[
+  {
+    "film_title": "Doctor Rekha",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "M/s. Una Pictures",
+    "cert_no": "86412",
+    "cert_date": "27-12-77",
+    "endorsement": "U",
+    "original_length_m": 3987.4,
+    "length_deleted_m": 5.79,
+    "final_length_m": 3981.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the picture of Mother Mary with a Child in her lap when the unmarried motherhood of Dr. Rekha is compared with her in dialogue",
+        "length_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "Khatau Terkosa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Cine The Que",
+    "cert_no": "86416",
+    "cert_date": "28-12-77",
+    "endorsement": "U",
+    "original_length_m": 38.0,
+    "length_deleted_m": 2.44,
+    "final_length_m": 35.66,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the side and front views of a girl in nude",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Yaarron Ka Yaar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Ashoka International",
+    "cert_no": "86450",
+    "cert_date": "31-12-77",
+    "endorsement": "U",
+    "original_length_m": 3584.0,
+    "length_deleted_m": 14.5,
+    "final_length_m": 3569.5,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce beating of Nathu with lathis and whips by Zamindar’s men",
+        "length_m": 6.1,
+        "length_retained_m": 15.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce views of entire basti set to fire by Zamindar’s men",
+        "length_m": 4.2,
+        "length_retained_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VJI",
+        "description": "Reduce to a suggestion the scene of molestation of Shakuntala by Goondas",
+        "length_m": 4.2,
+        "length_retained_m": 9.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "V & VIII",
+        "description": "Deleted the word ‘schhoot’ wherever its use becomes derogatory. (Replaced with approved words)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Diamond Smuggler",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Aar Key International",
+    "cert_no": "86485",
+    "cert_date": "5-1-78",
+    "endorsement": "U",
+    "original_length_m": 2438.4,
+    "length_deleted_m": 45.72,
+    "final_length_m": 2392.68,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the reference of American Scientist talking to the President of U.S.A. and Mentioning about the leisure gun pointed towards French Atomic establishment",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Jalan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Nepal Singh, Singh Cine Arts",
+    "cert_no": "4096",
+    "cert_date": "3-1-78",
+    "endorsement": "A",
+    "original_length_m": 3386.54,
+    "length_deleted_m": 25.86,
+    "final_length_m": 3365.59,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the following dialogues between the Taxi-Driver and Dindayal: Taxi Driver: “Ad do hazaar pandrah Daye paise nikalo” (Replaced by “Ab do hazaar pachas peschgi nikalo\") Dindayal: “Do hazaar to samjhe pandhra'h naye paise kis liye\". (Replaced by “Do Hazaar Jo samjhe pachae peshgi kis liye”.) Taxi Driver: “Pandrah paise nirodh ke liye\" (Replaced by “Pachas petrol ke liye\") Dindayal: “Family planning Donation\" (Replaced by Future-Planning Commission)",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the fight between Trio and others by deleting the direct hits on stomach",
+        "length_m": 5.14,
+        "length_retained_m": 52.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce slightly the tight between the man and the dog in order to remove the gruesome impact",
+        "length_m": 2.21,
+        "length_retained_m": 19.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the word ‘Dhaka’ wherever it occurs in the song and also the vulgar and indecent movements of Mona during the song: . . . . . . .dhaka kyon mara bhari.jawani mein dhaka \"(Replacement of the word ‘dhaka’ wherever it occurs in the song by the word ‘Aise’ together with the shots approved)",
+        "length_m": 2.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Remove the racial implication \"gora-kala” in the song (Replacement of the words \"You kala Aadmi” by the words \"Yod kadka Aadmi” is approved)",
+        "length_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the molestation of Ambika by a man and the subsequent light after molestation by deleting hard hits on stomach and pressing of leg on the neck",
+        "length_m": 10.93,
+        "length_retained_m": 77.46
+      }
+    ]
+  },
+  {
+    "film_title": "Ashapura Mat Ni Chundadi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Amur Milan Production",
+    "cert_no": "86477",
+    "cert_date": "4-1-78",
+    "endorsement": "U",
+    "original_length_m": 3855.72,
+    "length_deleted_m": 16.37,
+    "final_length_m": 3839.35,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the close ups of Gulab selling bras.and giving to a girl saying to return It if she does not like it",
+        "length_m": 22.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the words of Gulab while putting on bangles in the arm of a lady *'aa to dhere dhore chade tel lagave to jaldijaldi chade”",
+        "length_m": 7.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shots of Gulab Holding horn with rubber ball at top, in a suggestive manner from below his Waist",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete shots of Gulab holding rubber ball after removing from horn, at the right and left side of the chest and pressing it during the song",
+        "length_m": 4.1
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Dll Aur Patthar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "S. Kamruddin",
+    "cert_no": "86483",
+    "cert_date": "4-1-78",
+    "endorsement": "U",
+    "original_length_m": 94.49,
+    "length_deleted_m": 8.53,
+    "final_length_m": 85.96,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close shot(s) of indecorous movements of the dancer on jeep",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Naya Daur",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sudesh Gupta",
+    "cert_no": "86490",
+    "cert_date": "6-1-78",
+    "endorsement": "U",
+    "original_length_m": 4022.14,
+    "length_deleted_m": 51.21,
+    "final_length_m": 3992.88,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the fight in tho drinking den, by deleting the hard hitting and gruesome visuals",
+        "length_m": 3.96,
+        "length_retained_m": 19.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the fight between Ronny, Mark, Mahesh and others, by deleting the gruesome and hard hitting visuals",
+        "length_m": 3.96,
+        "length_retained_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the dialogue of Mark addressed to Mahesh, delete the general statement: “Yen sab logjo peole hain, . . .",
+        "length_m": 6.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete the visuals of the Captain wherever ho is identified with the Indian Navy, as he is shown to be a link with tho ’Charas’ smugglers",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the beating up of Mahesh considerably",
+        "length_m": 10.97,
+        "length_retained_m": 10.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Delete the indecent and provicativo gesture in the cabaret Item of a couple which is intercut with the suggestive rape of Jennie",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "From the fight sequence in the stadium, delete the visual of a motor cycle being run over tho body of a man, and reduce the over-all impact of violence",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the gruesome impact of killing of Mark and Ronny, by deleting tho close-ups",
+        "length_m": 6.1,
+        "length_retained_m": 3.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "XVI",
+        "description": "Modify suitably the end to show that Mahesh is booked by tho law for his crimes",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Ladlee",
+    "languages": [
+      "Puqjabi"
+    ],
+    "colour": "Colour",
+    "producer": "Uttam Tulsl",
+    "cert_no": "86466",
+    "cert_date": "3-1-78",
+    "endorsement": "U",
+    "original_length_m": 3558.84,
+    "length_deleted_m": 3.66,
+    "final_length_m": 3555.18,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the nuptial night sequence, delete ihe portion of the shot in which the camera tilts up to show prominently frontal nudity of the naked child",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the words “Vah apane voti ke kachhe vich he pada rahinda hai. — (Replaced with approved words — Sound only)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Jalan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Nepal Singh, Singh Cine Arts",
+    "cert_no": "4096",
+    "cert_date": "3-1-78",
+    "endorsement": "A",
+    "original_length_m": 3386.54,
+    "length_deleted_m": 25.86,
+    "final_length_m": 3365.59,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the following dialogues between the Taxi-Driver and Dindayal: Taxi Driver: “Ad do hazaar pandrah Daye paise nikalo” (Replaced by “Ab do hazaar pachas peschgi nikalo\") Dindayal: “Do hazaar to samjhe pandhra'h naye paise kis liye\". (Replaced by “Do Hazaar Jo samjhe pachae peshgi kis liye”.) Taxi Driver: “Pandrah paise nirodh ke liye\" (Replaced by “Pachas petrol ke liye\") Dindayal: “Family planning Donation\" (Replaced by Future-Planning Commission)",
+        "length_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the fight between Trio and others by deleting the direct hits on stomach",
+        "length_m": 5.14,
+        "length_retained_m": 52.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce slightly the tight between the man and the dog in order to remove the gruesome impact",
+        "length_m": 2.21,
+        "length_retained_m": 19.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the word ‘Dhaka’ wherever it occurs in the song and also the vulgar and indecent movements of Mona during the song: . . . . . . .dhaka kyon mara bhari.jawani mein dhaka \"(Replacement of the word ‘dhaka’ wherever it occurs in the song by the word ‘Aise’ together with the shots approved)",
+        "length_m": 2.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Remove the racial implication \"gora-kala” in the song (Replacement of the words \"You kala Aadmi” by the words \"Yod kadka Aadmi” is approved)",
+        "length_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the molestation of Ambika by a man and the subsequent light after molestation by deleting hard hits on stomach and pressing of leg on the neck",
+        "length_m": 10.93,
+        "length_retained_m": 77.46
+      }
+    ]
+  },
+  {
+    "film_title": "Man No Manigar",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "cert_no": "86050",
+    "cert_date": "5-11-1977",
+    "endorsement": "U",
+    "original_length_m": 3962.4,
+    "length_deleted_m": 37.8,
+    "final_length_m": 3962.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Deletions of song (Antra only) sung by Radha Is approved",
+        "length_m": 37.8
+      }
+    ]
+  }
+]

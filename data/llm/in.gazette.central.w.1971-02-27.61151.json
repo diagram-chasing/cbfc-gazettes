@@ -1,0 +1,297 @@
+[
+  {
+    "film_title": "\"Choron Ka Chor\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M. H. Films.",
+    "cert_no": "60707",
+    "cert_date": "5-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the words \"Kya chitkuon\" as said by Lakhan to the lady in the store. (Sound only)",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the following sentence said by Lakhan: “Begum sahiba ko kaho kapade utar ke aiyo”.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined words from the sentence \"Tere liye aisa maal ka bandabast kiya hai\", said by Makhan. (Sound only)",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the following sentence as said by Lakhan with reference to a lady: \"Are, maloom hota hai ready ipade storo hai yeh\"",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "In the dance scene, delete the close shot of the statue when Madan goes near to it. (Replaced with approved shots)",
+        "length_m": 1.83,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Kali Baiko\"",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35mm",
+    "producer": "Kanal Kumar Productions",
+    "cert_no": "60710",
+    "cert_date": "3-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From Anand's dialogue addressed to Bandu, delete \"Batlich kaay suddha sadyi baghayachi aste\" (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Kab ? Kyoon ? Aur Kahan \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "format": "35mm",
+    "producer": "Kapleshwar Films",
+    "cert_no": "60730",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from the sentence \"Yeh gentleman aup ka saat soyega\" as said by the Steward to Asha in the ship cabin.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the words \"Karlcna decjiyena\" as said by Anand to Asha.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to minimum the kissing through phone between Anand and Asha.",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot of kissing between Asha and Anand.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the shot of kissing between Anand and Asha after the song \" pyar se dilphar de\".",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "In the \"hippie dance\", delete the close shot of the girl with red-lined two-piece costume shaking her body indecorously.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of struggle between Lata and Daljit after her sari is removed by him.",
+        "length_m": 0.61,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close shot of the dead man's face in the box.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "In the picturisation of the song beginning with the words “Yehi ankhen - yeh ankhen jhuki”, delete the close and mid-close shots of the dancers shaking their hips and breasts indecorously.",
+        "length_m": 2.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the words \"Mera bhaki sab kuch lik hai\" as said by Anand in disguise to Rita.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete the underlined words from the sentence \"Dhoti neecho karo, nahin to andar kar doonga\", as said by Havildar Hanuman to the man in dhoti. (Sound only) (Replaced with approved words: Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words \"Saadi sc pahale yeh kaisa ho sakta hai. . . ,hun ho phi sakta hai\", as said by Havildar Hanuman when Asha tells him on phone that Anand will sleep in her house as she is alone.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the fight between Anand and Daljit with the chair.",
+        "length_m": 0.9,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the scene of kissing between Anand and Asha at the end of the film.",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "\"Salt And Papper\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35mm",
+    "producer": "20th Century Fox Corp.",
+    "cert_no": "60731",
+    "cert_date": "8-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the three shots of Wilma with bare breasts and two shots with bare buttocks, when she is in bed.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Lawyer\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "60799",
+    "cert_date": "19-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined words from the following: \"Would that rule out going to bed with hes, engaging in sexual intercourse?\"",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the following sentences: \"Well wasn't Jack Harrison treating you l or a venereal disease? Tric isn't a venereal disease\".",
+        "length_m": 2.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of Tony putting his hand under the skirt of the lady standing on ladder.",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the view of the girl lying flat with partly bare bosom.",
+        "length_m": 1.32
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Lawyer\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "60800",
+    "cert_date": "19-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the view of Tony putting his hand under the skirt of the lady standing on ladder.",
+        "length_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Lawyer\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "2684",
+    "cert_date": "19-5-70",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the three shots of Wilma with bare breasts and two shots with bare buttocks, when she is in bed.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the view of Wilma with bare breasts when she is turned around in bed by Jack.",
+        "length_m": 5.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the view of Wilma's bare buttocks. Delete her view with bare breasts after Jack uncovers her.",
+        "length_m": 4.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the views of Wilma with bare breasts as occurred twice. Delete the views of bare buttocks and breasts of Wilma.",
+        "length_m": 1.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the views of the man kissing the bare buttocks of Wilma in bed. Delete the views of Wilma's bare breasts. Delete her views with bare breasts when the man gets up from the bed. Delete all the shots of Wilma with bare breasts and buttocks as seen by Jack when she is being beaten up by the lady. Delete the view of Wilma's dead body with bare buttocks.",
+        "length_m": 2.68
+      }
+    ]
+  },
+  {
+    "film_title": "\"Topaz\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "2686",
+    "cert_date": "29-5-70",
+    "endorsement": "U",
+    "alterations": []
+  }
+]

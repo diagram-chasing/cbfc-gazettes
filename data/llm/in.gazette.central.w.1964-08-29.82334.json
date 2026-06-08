@@ -1,0 +1,704 @@
+[
+  {
+    "film_title": "\" Drums of Africa \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Metro-Goldwyn-Mayer India Ltd.",
+    "cert_no": "U 41292",
+    "cert_date": "23-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5 (3A)",
+        "description": "Ruth's remarks about David kissing her, and passionate kissing between David and Ruth.",
+        "length_m": 4.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9 (5A)",
+        "description": "Dialogue from the slaver Chavera to Ruth about her being an attraction in Alexandria or Damascus.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 3 (2A)",
+        "description": "Shot of a Negro baby crying and screaming during a fire.",
+        "length_m": 2.28,
+        "length_retained_m": 1.04
+      }
+    ]
+  },
+  {
+    "film_title": "\" Magic Carpet \"",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Unique Pictures",
+    "cert_no": "U 41293",
+    "cert_date": "24-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Indecorous movements and jorking of the bust by the girl in white during the song-dance sequence.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots of jorking of the bust by Gulnar while getting up during the picturization of the song.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Shots of whipping and lashing of prisoners in jail while they are seen rotating the wheel.",
+        "length_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "\" The Unknown Giant\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal International Films Inc.",
+    "cert_no": "U 41294",
+    "cert_date": "24-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot showing the major part of the bosoms of a lady leaning with her elbows on the sand.",
+        "length_m": 8.68
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot showing the hip movement of a lady in a bikini.",
+        "length_m": 8.68
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots showing the bare thighs of ladies on the beach.",
+        "length_m": 8.68
+      }
+    ]
+  },
+  {
+    "film_title": "\" Rampage \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "A 1469",
+    "cert_date": "23-4-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue about the magic of the Malayas in the touch.",
+        "length_m": 1.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue referring to trackers as 'Semang-Malaya' and describing Talib as 'A Malay'.",
+        "length_m": 1.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Dialogue stating 'We shall be amongst the Sakai people. They are very Primitive.'",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels III & IV",
+        "description": "Sentence describing Baka as 'Sakai' and the word 'Sakai' in dialogue.",
+        "length_m": 1.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels III & IV",
+        "description": "Shots of Anna loosening her night dress to tempt Stanton and their kissing.",
+        "length_m": 10.18,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The word 'Sakai' in Talib's talk to Abbot and Stanton.",
+        "length_m": 1.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VI & VII",
+        "description": "Close-ups and long shots of Anna and Chep swimming nude.",
+        "length_m": 11.96,
+        "length_retained_m": 4.94
+      }
+    ]
+  },
+  {
+    "film_title": "\" The Sword And The Cross \"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2356.96,
+    "length_deleted_m": 17.37,
+    "final_length_m": 2339.59,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Two close-ups of Lea where her bust is prominently seen through her thin dress, and shots where a hot iron rod is brought close to her face (only suggestion of blinding may remain).",
+        "length_m": 7.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Sequence where a soldier shoots an arrow into a girl hanging on a Cross, and a figure on a Cross being consumed by flames.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Whipping of Lea, particularly shots where she is cowering near the wall and unable to escape.",
+        "length_m": 2.74,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "\" Follow The Boys \"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2465.13,
+    "length_deleted_m": 114.71,
+    "final_length_m": 2350.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IIIA",
+        "description": "Dialogue between Pete and Michele about drinks, food, laughs, getting to know each other, and business.",
+        "length_m": 18.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IIIB",
+        "description": "Dialogue between Smitty and Toni about bachelors, engaged women, and pretending not to be engaged. Also dialogue between Pete and Michele about feeling kindly disposed and getting down to business.",
+        "length_m": 38.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IVA",
+        "description": "Dialogue between Michele and Pete about a round bed and pillows. Also shots of Toni and Smitty kissing and lying close together.",
+        "length_m": 20.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IVB",
+        "description": "Toni's dialogue about a 'do-it-yourself instant seduction kit'. Dialogue between Michele and Pete about geometry and feeling. Pete's dialogue about being sensible.",
+        "length_m": 15.76
+      }
+    ]
+  },
+  {
+    "film_title": "\" Kashmir Ki Kull\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shakti Films",
+    "cert_no": "U 41307",
+    "cert_date": "27-4-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Suggestion that a song by Rajan while driving is related to Kashmiri bellas dancing on the mountainside or sitting in a moving truck.",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Line from the song 'Kisi na kisi...' - 'Kis ko inmo apna samjhun , sang me apno le loon .'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Dialogue between Lala and Mohan about drinking and girls, and Mohan's response. Also Lala's remark about considering every girl as his daughter and Mohan's sister.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Lala's drunken behavior and dialogue between Mohan and Lala with a bottle. Also Rajly's remark 'Sab ke sab sharaabi aur kababi.'",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Suggestive dialogue between Champa and girls about earrings and anklets.",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Mohan's remark to Parsa about waiting for the night.",
+        "length_m": 3.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of brassieres being picked up by Rajiv.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Dialogue between Rajiv and Bholanath about calling flower girls, and whether they should be good or have flowers.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of flower girls being lined up and Rajiv inspecting them to find his girlfriend, Champa.",
+        "length_m": 16.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The word 'Bas' from Champa's dialogue about demanding a share of the money.",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue spoken by Chander in the hotel suggesting he came to Kashmir to find a girl to marry.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue about flower-girls and the number of flower-girls hired. Also dialogue about going to the other end.",
+        "length_m": 4.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue and visuals from when the girls start asking Rajiv for flowers until they begin paddling. Also Champa's dialogue about people returning.",
+        "length_m": 25.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Rajiv's suggestive gesture with his hands at the end of his song.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot of a girl sneaking out of the bedroom with Chander. Close physical proximity between Rajiv and Champa, including him tickling her nose and suggestion of kissing.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Rajiv's dialogue to Champa about stealing, dacoity, and murder for her.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of Rajiv looking suggestively upwards at Champa changing clothes, and the old woman's dialogue. Also Rajiv urging the old woman to sleep and his suggestive gesture.",
+        "length_m": 2.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Rajiv's dialogue to Champa referring to the old woman and their first child.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "At the end of the Bhangra dance, shot of Rajiv carrying Champa on his shoulder.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Shots of Colonel in a drunken condition.",
+        "length_m": 9.75,
+        "length_retained_m": 12.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Lala's drunken behavior by deleting sound of his hiccoughing while talking to Rajiv.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Beating of Dinu by Mohan.",
+        "length_m": 1.73,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Fight in the water, deleting shot of Rajiv hitting Mohan after he has become senseless.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II, III, XII, XIII & XVII",
+        "description": "Various shots.",
+        "length_m": 147.82
+      }
+    ]
+  },
+  {
+    "film_title": "\" The Sword And The Cross \"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2356.96,
+    "length_deleted_m": 17.37,
+    "final_length_m": 2339.59,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Two close-ups of Lea where her bust is prominently seen through her thin dress, and shots where a hot iron rod is brought close to her face (only suggestion of blinding may remain).",
+        "length_m": 7.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Sequence where a soldier shoots an arrow into a girl hanging on a Cross, and a figure on a Cross being consumed by flames.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Whipping of Lea, particularly shots where she is cowering near the wall and unable to escape.",
+        "length_m": 2.74,
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "\" Trailer of The Sword And The Cross \"",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 44.81,
+    "length_deleted_m": 7.01,
+    "final_length_m": 37.8,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Whipping of Lea and deletion of the shooting of an arrow into the body of a girl while she is hanging on a Cross.",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "\" Jantar Mantar \"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Omkar Enterprises Pvt. Ltd.",
+    "cert_no": "U 41362",
+    "cert_date": "6-5-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Close-ups of a giant scratching his bare body, reduced to a minimum.",
+        "length_m": 6.39
+      }
+    ]
+  },
+  {
+    "film_title": "\" The Final Hour \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal Pictures India Private Ltd.",
+    "cert_no": "U 41366",
+    "cert_date": "6-5-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 6 (3B)",
+        "description": "Fight between Trampas and Felton, considerably reduced.",
+        "length_m": 4.2,
+        "length_retained_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "\" Trailer of The Running Man \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "U 41365",
+    "cert_date": "6-5-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Underlined words referring to being trapped into sin by fear or desire.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of Maddox and Stella in bed.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Stella's remarks to Rex referring to the loss of her wedding ring in bed.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Words stating that a woman stops at nothing to prevent the police from catching the running man.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "\" Doctor Crippen \"",
+    "languages": [
+      "English"
+    ],
+    "producer": "John Clein Production",
+    "cert_no": "A 1473",
+    "cert_date": "7-5-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Miss Curnow's remarks to Ethel about Doctor Rogers looking at her.",
+        "length_m": 0.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Ethel's remark to Crippen about his sexual relationship with his wife.",
+        "length_m": 1.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Belle's remarks to Clara about her 'bantam cock's nose being out of joint. Also Belle's dialogue to Crippen about Ethel.",
+        "length_m": 2.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Belle's dialogue to Crippen about him not being attractive but being her husband and lying beside her.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Belle's dialogue to Crippen about lying beside her.",
+        "length_m": 0.86
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Kissing between Howlett and Belle.",
+        "length_m": 0.97,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Kissing of Crippen and Ethel, particularly shots where she reacts to Crippen's love-making.",
+        "length_m": 9.45,
+        "length_retained_m": 12.6
+      }
+    ]
+  },
+  {
+    "film_title": "\" Trailer of Doctor Crippen \"",
+    "languages": [
+      "English"
+    ],
+    "producer": "John Clein Production",
+    "cert_no": "U 41382",
+    "cert_date": "8-5-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of Ethel and Crippen falling on the bed and their close proximity.",
+        "length_m": 4.13
+      }
+    ]
+  },
+  {
+    "film_title": "\" A Face In The Rain \"",
+    "languages": [
+      "English"
+    ],
+    "producer": "A Joseph E. Levine Presentation",
+    "cert_no": "U 41385",
+    "cert_date": "8-5-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels V & VI",
+        "description": "Sequence where Paola reacts to the love-making of Anna and Klaus.",
+        "length_m": 9.06,
+        "length_retained_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "\" Macbeth \"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sydney Box",
+    "cert_no": "U 41386",
+    "cert_date": "8-5-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Film trailer of Censor Certificate of British Board of Film Censors.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "\" Barabbas \"",
+    "languages": [
+      "English"
+    ],
+    "format": "Technirama",
+    "original_length_m": 3702.4,
+    "length_deleted_m": 14.63,
+    "final_length_m": 3687.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "From the fight sequence in the arena, the shot of a gladiator falling into flames and a gladiator's hand being trampled upon.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Sequence of Barabbas and Rachel on bed, reducing the sound of Barabbas panting and struggling, and Rachel kicking her legs.",
+        "length_m": 6.1,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Stoning of Rachel by the mob, reducing panoramic shots of stones showering on Rachel.",
+        "length_m": 2.44,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XC",
+        "description": "From the fight sequence in the arena, direct thrust by sword after a gladiator has fallen to the ground.",
+        "length_m": 1.22,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Shot of a gladiator and Torwald being dragged behind a chariot, and the chariot going over another gladiator.",
+        "length_m": 3.35,
+        "length_retained_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "\" Bireswar Vivokananda \"",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Eva Bandyopadhya",
+    "cert_no": "37696",
+    "cert_date": "24-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "A portion of Bayul's song.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 114",
+        "description": "Some portions of talk between Suren Mitra and Master at Baranagar Math.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 114",
+        "description": "Guru Bhai giving alms to a villager.",
+        "length_m": 15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "Swamiji's walking superimposed on Delhi, Agra & Prayag.",
+        "length_m": 12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "Swamiji enters Padmanabham Temple. Photo of Swamiji in the Chicago Parliament of religion.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 14",
+        "description": "Scene from the Ganges to the house where Swamiji lived at Belur etc.",
+        "length_m": 48
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 13",
+        "description": "Shots of Swamiji seeing labourers working, cultivators with plough, men fishing, blacksmiths working and men sawing logs.",
+        "length_m": 42
+      }
+    ]
+  }
+]

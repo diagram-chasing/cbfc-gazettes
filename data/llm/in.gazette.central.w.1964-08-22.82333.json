@@ -1,0 +1,161 @@
+[
+  {
+    "film_title": "Fariyad",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shree Show People, Shree Sound Studio, Dadar, Bombay-14",
+    "cert_no": "41209",
+    "cert_date": "13-4-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Indecorous movements of female dancers in jeans",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Indecorous movements of two girls while bending on their knees",
+        "length_m": 12.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Flash-back of Devdutt's speech pertaining to racial discrimination by white men against Negroes, along with visuals",
+        "length_m": 19.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XI",
+        "description": "The word 'Chamar' from Manjula's remark while touching Devdutt's shoes",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Fun In Acapulco",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Rd., Ballard Estate, Bombay-1",
+    "cert_no": "41212",
+    "cert_date": "13-4-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Sentence from Dolores' dialogue to Mike referring to their going out at night: 'Nervous? is good for the nerves.'",
+        "length_m": 1.75
+      }
+    ]
+  },
+  {
+    "film_title": "Mera Qasoor Kya Hai",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Hargovind, Bahar Films, Roop Tara Studios, Main Road, Dadar, Bombay-14",
+    "cert_no": "41213",
+    "cert_date": "13-4-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reels II, V, VI, VIII, X, XI and XII",
+        "description": "The words 'Main agarmuchhon ko bal dun to murgi bhi ghabra ke anda chor de' from Rasila's remark",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Babloo's remark to Vijay: 'Sahab achhi jagah phansi,' referring to fishing tackle getting entangled on Nirmala's back",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Babloo's remark to the Registrar of Marriages: 'Kisne kisko phansaya is se aap ko kya matlab,' referring to Vijay and Nirmala's marriage",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "The words 'Agar main zulphọn ko bal doon to ghabra ko anda bhi murgi ko chhor de' from Shashi's remark to Rasila, along with its repetitions",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Shashi's amorous gesture of bonding over Rasila when he holds her hands during the song 'Akhiyan apni chhupa ko rakh goriye'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "All references in Babloo's dialogue about the change in Nirmala's condition after her marriage and her symptoms of pregnancy",
+        "length_m": 20.42
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Vijay's father snatching the milk bottle from Vijay's baby's mouth while Babloo is feeding him",
+        "length_m": 0.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Close-ups of Harcharan's dangling legs when Nirmala laments his suicide by hanging",
+        "length_m": 4.88,
+        "length_retained_m": 24.69
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "Vijay's father pushing Nirmala and her child down the stairs",
+        "length_m": 0.15
+      }
+    ]
+  },
+  {
+    "film_title": "Mary Mary",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Warner Bros. First National Pictures Inc., Eros Cinema Bldg., Churchgate, Bombay-1",
+    "cert_no": "41218",
+    "cert_date": "14-4-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Mary's dialogue to Dirk: 'It, or, it does seem a little like incest, doesn't it?'",
+        "length_m": 2.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dirk's dialogue to Mary: 'Yes, it looks delicious.'",
+        "length_m": 0.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Mary's dialogue to Bob: 'You're even sensible about sex, Bob: Would you like to explain that crack? Mary: H h any man that would tap his wife on the shoulder at eleven o clock and say, “Are you in the mood tonight, because if you're not I'm going to take a sleeping pill"
+      }
+    ]
+  }
+]

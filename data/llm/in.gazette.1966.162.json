@@ -1,0 +1,658 @@
+[
+  {
+    "film_title": "The Queen Sees Germany",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "The Rank Organisation Ltd.",
+    "cert_no": "45814",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following words from the commentary: 'only the Wall and divide the city in half'",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following words from the commentary: 'On the other side of the Wall has appalled the free world'",
+        "length_m": 4.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following words from the commentary: 'As the car moved on response.'",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "East of Sudan",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techntscope",
+    "producer": "Charles H. Schneer",
+    "cert_no": "45815",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From commentary, the underlined words regarding the 1880s Sudan and Central Africa, Arab slavers, Mahdi, Gordon, and the Egyptian Khedive and English Queen.",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the fighting scene, deleting direct thrusts and stranglings",
+        "length_m": 6.1,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IX & X",
+        "description": "From the fighting scene, all direct thrusts with swords or arrows",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Drastically reduce the fitch doctor’s sequence",
+        "length_m": 20.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduce shots of Goudoko looking at his wife and then at Margaret, suggesting preference for Margaret, including looking through binoculars and feeling with his hands",
+        "length_m": 14.93,
+        "length_retained_m": 5.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "From Kimrasi’s speech to Baker, delete the words 'Arabs are like great sickness, some it takes, others it leaves'",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Flying Man",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Aar Tee Films",
+    "cert_no": "45817",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Insert a tablet stating that the film is a fantasy and characters/incidents are fictitious and any resemblance to personalities/events connected with space research is coincidental",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete underlined words from dialogue: 'Main hahv.,1 or Nai hi biaton fiahrn kar raha hoon' and 'Nat hogo .urn'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VI & X",
+        "description": "To the maximum, reduce the scene of the child being snatched from the mother by the chief traitor and thrown away before being caught by Bahadur",
+        "length_m": 14.02
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Dear Heart\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Martin Manuhs",
+    "cert_no": "45820",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete underlined words from dialogue: 'You just can’t go around sleeping with girls at all'",
+        "length_m": 0.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete underlined words from dialogue: 'You just march right m thero and you tell that girl to put her clothes on'",
+        "length_m": 1.75
+      }
+    ]
+  },
+  {
+    "film_title": "Son Of Hatimtai",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "S. Raj, Sunrise Films",
+    "cert_no": "45825",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Insert a tablet stating that the film is pure fantasy and the story bears no relation to the legend of Hatim Tai or his descendants",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From the song 'Jo ishq-i-haqiqi rakhta ho', delete the line 'Ek patthar ko bhi aajdah Iciya nadan tu ne.'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From Malika-E-Noor's dialogue addressed to the hero, delete the words 'Yeh jaam aur yeh husn donon maujud hain.'",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "From the dream dance sequence, replace close-ups of Muhrookh emphasizing her bust",
+        "length_m": 7.92
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replace the villain’s remark 'Tumhara khuda bhi aajkal hamaic heath mo hai.'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replace near-views of Nilofar shaking her bust during the dance sequence 'Aaoj tore saamancjhukke hum gayenge'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From the song 'Jab bhi dohrai gai tere karam ki dastan', delete the line 'Kufr jab had se barha, Islam zinda ho gaya.'",
+        "length_m": 15.85
+      }
+    ]
+  },
+  {
+    "film_title": "Drums of Destiny",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "George Michael",
+    "cert_no": "45844",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete shot of direct thrust of spear into the back of a native",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce killing of animals by George Michael",
+        "length_m": 9.74,
+        "length_retained_m": 30.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce the scene of Pengu's struggle with a snake in water",
+        "length_m": 0.5,
+        "length_retained_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Remove near views of semi nude women from the back of natives, dancing",
+        "length_m": 3.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce shot of monkey being eaten by a leopard",
+        "length_m": 4.57,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce shot of vulture eating rabbit",
+        "length_m": 1.42,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce shots of talon marks on the hand of George Michael",
+        "length_m": 1.57,
+        "length_retained_m": 1.39
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce the struggle of Dr. Kaul with the tiger",
+        "length_m": 3.66,
+        "length_retained_m": 7.86
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"It's A Mad, Mad, Mad, Mad World\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Stanley Frame",
+    "cert_no": "45845",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of indecorous dancing by Sylvester’s girlfriend",
+        "length_m": 4.53
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Secret Invasion\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Gene Corma n",
+    "cert_no": "45846",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the close-up of Mila’s bare bosom with a baby suckling",
+        "length_m": 2.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the General’s face in close-up, with blood smeared on it",
+        "length_m": 0.36
+      }
+    ]
+  },
+  {
+    "film_title": "Hush Hush, Sweet Charlotte",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Twentieth Century-Fox Film Corp.",
+    "cert_no": "45855",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of chopping of John and his scream",
+        "length_m": 4.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From Miriam’s dialogue to Charlotte, delete 'Why wouldn’t I tell him that his pure daughter was having a dirty affair with a married man?'",
+        "length_m": 3.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the view of the dummy of the severed hand and chopper, and Charlotte’s screams",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of slapping of Charlotte by Miriam in the car",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of legs of a man coming down the staircase and Charlotte’s frightened face and screams",
+        "length_m": 4.65
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Ships",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Irving Allen",
+    "cert_no": "45864",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the fighting scenes, delete all direct thrusts by arrows, spears, swords etc. and shots of hacking",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the undecorous views of Amina and other harem girls",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Considerably reduce the scene of doggy, particularly removing the shots in which a girl is thrown above repeatedly by the Vikings",
+        "length_m": 4.27,
+        "length_retained_m": 1.32
+      }
+    ]
+  },
+  {
+    "film_title": "The Battle of The Villa Florita",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "A Delmer Davies Production",
+    "cert_no": "45865",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete shots of Mitra kissing and embracing Lorenzo in his apartment at night to remove the suggestion of her adulterous behaviour",
+        "length_m": 11.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the remark of Debby addressed to her brother, Michael, referring to Dinna: 'She has got bosoms,'",
+        "length_m": 2.04
+      }
+    ]
+  },
+  {
+    "film_title": "Once A Thief",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "A Jacques Bar Production",
+    "cert_no": "45866",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of Hiddie assaulting his wife in the scanty dress in the night-club",
+        "length_m": 1.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce the shot of embrace between Eddie and Kristine in bed",
+        "length_m": 0.96,
+        "length_retained_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "The Ipcress File",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "The Rank Organisation Ltd.",
+    "cert_no": "1665",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "Tuhi Meri Zindagi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. Mukerji, Rono Films",
+    "cert_no": "45724",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, IV, V, XII, XIV & XIX",
+        "description": "Various scenes",
+        "length_m": 409.98
+      }
+    ]
+  },
+  {
+    "film_title": "Poomalai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Mekala Pictures",
+    "cert_no": "43673",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete portion of introductory speech of Shri Karunanidhi, quoting parallels from mythology (Sound only— replacement of sound approved)",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "In the dance-song, delete the girls hitting each other on their posteriors",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "In the song by the gypsy, delete the line ‘Meduva Meduva ThodiUurnu’ and the close-up of bare legs of the dancer",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel A",
+        "description": "Delete Chitti kissing his hand after caressing Myna",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete Chitti lifting Myna from the car bumpers",
+        "length_m": 7.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Sundaram’s kissing gesture of Poomalai",
+        "length_m": 0.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete all the kissing gestures between Sundaram and Poomalai",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Prachanda Bhantivi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri T. Ranga Rao",
+    "cert_no": "43676",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Song 1— Delete Kinnera jerking her breasts",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete Singanna kicking dead body of Ugra Bhairava’s disciple",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels",
+        "description": "Delete shots of Malathi near the pillar with her busts prominent, on the song-line Andalu. (Replacement approved)",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete Pratap and Kinnera bumping each other back to back in the forest",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete the sentence of one of the comedians to the Guru ‘Anubavaniki Ammayilu Undaliga'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Delete the jumping dance by one of the girls, the shaking of the breasts and the posterior by one of the girls; two girls rubbing back to back while dancing. (Replacement approved)",
+        "length_m": 3.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "In the dance-song, delete Kinnera jerking her breasts and Kinnera with her bust prominent. The group of girls falling on their backs, jerking their breasts and posterior. (Re-edited version approved)",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete Pratap holding Kinnera in his hand, with her bust prominent. Kinnera lying in water on Pratap’s lap, his kissing gesture towards the end, and the close-embrace of Pratap and Kinnera",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the close-up bust-parting visible of the veena player before the dance-song begins",
+        "length_m": 7.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 12",
+        "description": "Delete the words ‘Aragmchura’ and ‘Anubhuvinehara’ in song 6. (Replacement approved)",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the shot of Katyayini jumping into the fire",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete Singanna’s henchman bringing a rabbit held by the ears",
+        "length_m": 3.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 15",
+        "description": "Song ‘Oh Phoola Ranganna’ — Delete the lines of the song: ‘Saraianate Sai Antara’ and ‘Korike Theere daka, Na Korke Thcore daka’, with shots of shaking breasts, hips, thighs, bending backwards. (Re-edited version approved)",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete the shot of Pratap kissing Prachanda's hand, and pressing Kinnera who falls before Prachanda with her hips raised upwards, and bust prominent, upto her handing over the pillow to Prachanda",
+        "length_m": 23.15
+      }
+    ]
+  },
+  {
+    "film_title": "Thazhanipoor",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sri Balamurugan Films",
+    "cert_no": "43681",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Song 1— Delete the close-up of shaking of the busts on the line 'Pandhcdu Pandhadithu Kulunga'",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete the rolling down in close embrace of Dorai and Krmali while tying the hold-all, and also the following dialogue of Dorai in regard to her fall",
+        "length_m": 7.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 6 & 7",
+        "description": "Delete the shrieking of the fowl, and reduce the shots of the fowl held upside down",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete Velu pouring sand into the ears and nose of another person, while fighting",
+        "length_m": 2.43
+      }
+    ]
+  },
+  {
+    "film_title": "Neerkkumizhi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Arunachalam Pictures",
+    "cert_no": "43675",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. 5, 11 and 16",
+        "description": "A total voluntary deletion of 152.49 Metres",
+        "length_m": 152.49
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 7",
+        "description": "A total addition of dance-song 151.49 Metres",
+        "length_m": 151.49
+      }
+    ]
+  }
+]

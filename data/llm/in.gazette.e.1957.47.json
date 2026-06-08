@@ -1,0 +1,315 @@
+[
+  {
+    "film_title": "Naagmam",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bombay Movietone Private Ltd, 2B, Naaz Bldg, Lamington Road, Bombay 4",
+    "cert_no": "21702",
+    "cert_date": "30-9-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue of Sukanya's companion from 'Aji parkipiyavlagainahin jati-' to 'Hil ki khali katori lekar ayega'",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "dialogue 'Pichche ki hava nikal jati'",
+        "length_m": 2.62128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot where Chyavan bows and touches feet of Sukanya's parents"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots where wives of Tapasis gossip scandalously about Rishi Chyavan's wife"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "dialogues of Rishi Chyavan addressed to his wife: 'Apne liye doosra jeevan sathi dhoondh le to koi paap nahin' and 'Samajki banai hui lohe ki zanjiron ko todkar yogyaisati ke saath biyah karsakti hu. Yeh uska huq hai Adhikarhai'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "objectionable picturization of the mantra 'Om Svaha'"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel F",
+        "description": "To a flash wherever the apparition of the eyes appeals"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "sequence where Rishi Chyavan accuses his wife of adultery, particularly deleting the dialogues from 'Javani ko zabanaahi gai' to 'Ab vishwas bhi ho gaya Jeeb galkar gil nahin jati Patita kahmki'",
+        "length_m": 14.9352,
+        "length_retained_m": 26.8224
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "To a flash the sequence where Rishi Chyavan weeping and waiting for his wife, stumbles from place to place"
+      }
+    ]
+  },
+  {
+    "film_title": "The Big Show",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2844.048,
+    "final_length_m": 2816.832,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "From the section THREE FACES OF EVE, all shots of the principal dancer in the Rock and Roll dance and the entire song",
+        "length_m": 27.1272
+      }
+    ]
+  },
+  {
+    "film_title": "Checkpoint",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 2365.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "In the scene of a Detective lighting with a batman policeman in Volta factory, foul blows"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably love and a woman in passionate kissing and cuddling",
+        "length_m": 2.7432,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerably unnatural embraces and kisses of the couple",
+        "length_m": 9.7536,
+        "length_retained_m": 1.0668
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably the last two fights, denoting hard blows"
+      }
+    ]
+  },
+  {
+    "film_title": "Aladdin",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Golden Movie, Andheri Studio, Kurla Road, Andheri, Bombay",
+    "cert_no": "21706",
+    "cert_date": "30-9-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "dialogue of Gulbadan: 'Sila bulai ko hargai magar abappifa bhinla nahin'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI/7",
+        "description": "Shots where Aladdin tightly embraces Laila and kisses her forehead"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The words 'Mohabat Ke'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shots where a man is heating and carrying red hot iron to singe the eyes of Aladdin"
+      }
+    ]
+  },
+  {
+    "film_title": "The Unholy Wife",
+    "languages": [
+      "English"
+    ],
+    "format": "RK-Oscope",
+    "original_length_m": 2637.336,
+    "final_length_m": 2637.336,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "All shots of Phyllis and San kissing, embracing and cuddling",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Considerably Phyllis and Paul kissing and embracing on the beach",
+        "length_m": 1.8288,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Stampeded",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "original_length_m": 2518.944,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots of a man shooting a knife and the knife piercing another man"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably the scene of a man trying to brand Morgan",
+        "length_m": 8.4432,
+        "length_retained_m": 3.87072
+      }
+    ]
+  },
+  {
+    "film_title": "Town On Trial",
+    "languages": [
+      "English"
+    ],
+    "original_length_m": 2590.8,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "To the unnatural strangling of his wife by Roper",
+        "length_m": 0.57912,
+        "length_retained_m": 3.59664
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "The violent dance by Fiona considerably, particularly deleting shots of indecent movements and postures",
+        "length_m": 13.716,
+        "length_retained_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Among The Headhunters",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "original_length_m": 2656.536,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels V, VI, VII, VIII, IX, X",
+        "description": "Anarchy in which the women are seen with their busts uncovered",
+        "length_m": 122.50464
+      }
+    ]
+  },
+  {
+    "film_title": "Captain Marvel",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "original_length_m": 4221.432,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "under the assault in which Captain Marvel thrown one of the gangsters on a spiked platform"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "the shots in which the spiked torture cage is shown in the scorpion's chamber and chain of the scientist is put in and taken out of the cage"
+      }
+    ]
+  },
+  {
+    "film_title": "Sandesh",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 3895.056,
+    "final_length_m": 3895.056,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "the word when Ram addresses the village girl carrying fruits"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "(a) Dinanath falling on Sudha, boys weeping through ventilator and lifting of Sudha's sari up to knee, keeping only the shot showing Nivai oath to get the kit and give first aid to Sudha. (b) shots of actual rendering of first aid to be out out. (c) Delete the shot showing Sudha as lifting her sari to see bandage.",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "the words 'phir kabhi doosri bar ghutno par chot nahin lagaoonga'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "doctor saying 'bachcha paida karne ko liye shaadi karna padta hai'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In Sangeet dance delete the two bust jerks"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete doctor removing the wrap and entire dance sequence of Sheila and the sequence of dialogue between her and the doctor, because of Sheila's costume."
+      }
+    ]
+  },
+  {
+    "film_title": "Devyani",
+    "languages": [
+      "Hindi"
+    ],
+    "original_length_m": 5718.048,
+    "final_length_m": 5425.464,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 9",
+        "description": "to the minimum the agent in which the bones of Nach are collected and pounded",
+        "length_m": 20.7264
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 11",
+        "description": "Omit the scene in which the body of Nach is shown with blood oozing out of it"
+      }
+    ]
+  }
+]

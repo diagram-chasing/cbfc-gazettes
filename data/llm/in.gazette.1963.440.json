@@ -1,0 +1,1829 @@
+[
+  {
+    "film_title": "Jack The Giant Killer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "30033",
+    "cert_date": "24-0-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red M",
+        "description": "Shots of the giant's claw being introduced towards the princess who screams in fright",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "Shots of the Captain burnt to death and Peter wailing by the side of his body",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel FI",
+        "description": "Close shots of the Griffin charging and attacking Jack and frightening the Princess, also close shots in the air",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red II",
+        "description": "Shots of the giant moving with the princess in his hand",
+        "length_m": 6.9192,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV d> V",
+        "description": "Considerably close views of the witches attacking the ship and terrorizing the Princess, including skelter withdrawing in fright",
+        "length_m": 30.48,
+        "length_retained_m": 32.004
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably shots of witches in the magician's castle",
+        "length_m": 15.5448,
+        "length_retained_m": 18.288
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To a flash shots of two-headed monster pursuing Jack, Princess and company",
+        "length_m": 6.096,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Hell is fur Heroes”",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm.",
+    "producer": "Paramount Films of India, Ltd., Hague Bldg., Sprott Bldg., Bombay-1",
+    "cert_no": "30030",
+    "cert_date": "24-0-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "shots of gunfire and battle",
+        "length_m": 3.6576,
+        "length_retained_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "description": "bar-woman suggestively inviting a soldier to her room",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Special Trailer of “Homingway’s Adventures of A Young Man”",
+    "format": "Cinemascope",
+    "original_length_m": 86.868,
+    "final_length_m": 84.432,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots in which Nick strikes at the candelabra in front of St. Francis in the church and destroys it",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Jadugar Baku",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "format": "35mm",
+    "producer": "Chandraknnt M. Gor, C/o, Joy Films, Shreekant, Studios, Chembur, Bombay-71",
+    "cert_no": "30064",
+    "cert_date": "25-0-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shot of Bajkiunari Meena’s emphasised bust while she lies down after Sapera asks her 'T'umhen leva Pasanil hat'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "description": "In song No. 2, beginning with the words 'Koi pyarbhuri dhun ehhed. ...' near views of hunt shaking by Pyari",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel T",
+        "description": "In the song dance No. 3, 'Kali 7,ulphen gori mat ' (i) shots of emphasised bust and bust jerking by Rajkumari Meena while dancing (ii) shot of emphasised bust of Rajkumari Meena while she is reclining",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From the dialogue of Jhamoora addressed to Ouddi Amina his remark 'Khisakne laga pnijnma'",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From Jhamoora’s remarks addressed to sapera when a tray full of foodstuffs is offered to him by the girls the words 'Snntram dabare hai tu, . . . Daba, Daba Santare'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Jhamoora’s remarks referring (o the girls 'Chhokri bbi mithi mithi hai'",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shot of Jhamoora putting a look of girls hair around his face",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Dhol Jani",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "30073",
+    "cert_date": "29-0-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted Jhumroo shouting Bishni’s name twice in mad fashion, towards close of his scene with Mama",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduced views of Munshi Raunqlram’s figure during his scene with Mama",
+        "length_m": 13.1064,
+        "length_retained_m": 15.5448
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The words 'Malnzeharkhalai aa' as spoken by llnkhi, in her scene with Amar",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Ocean’s 11",
+    "format": "Cinemascope",
+    "original_length_m": 3279.504,
+    "final_length_m": 3279.504,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Blowing up of the electric tower",
+        "length_m": 0.4572
+      },
+      {
+        "kind": "deletion",
+        "description": "Close shot of a girl with bare legs massaging a man sitting on his back",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of a strip-tease girl, as also the superimposed words 'Kxoitement eleven'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "description": "The scene of a female masseur with bare legs massaging Foster",
+        "length_m": 8.2296,
+        "length_retained_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Romanoff And Tulli",
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "original_length_m": 2651.736,
+    "final_length_m": 2211.072,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Dtl, te",
+        "description": "Dialogue creating impression about the Russian Ambassador getting interested in a laundry girl as also references in visual and vividly for bits of the Russian Ambassador’s wife",
+        "length_m": 23.7744
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel Vi",
+        "description": "Shots and dialogue referring to an official of the Russian embassy spying over the Ambassador and also of a rook spying over both. Shots and dialogue suggesting the Russian Assistant and Ambassador taking interest in suggestive and sexy literature Hindi as pictures, magazines, etc.",
+        "length_m": 100.584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel /",
+        "description": "Reference in visual and dialogue to Turkish delegate sleeping in the U.N.O. Assembly hall while the session is on",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel IX",
+        "description": "Shots of Russian Ambassador eating in a clumsy manner",
+        "length_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Romanoff And Juliet”",
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "original_length_m": 55.4736,
+    "final_length_m": 48.1584,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words 'If ever, I want a child I want it to be yours' spoken by Juliet and the shots of their kissing",
+        "length_m": 7.9248
+      }
+    ]
+  },
+  {
+    "film_title": "Sweet Bird of Youth",
+    "format": "Cinemascope",
+    "original_length_m": 3339.7728,
+    "final_length_m": 3199.104,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IB",
+        "description": "Shots showing Chance undressing Alexandra in bed",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "From dialogue of Miss Heavenly, (a) the underlined words from 'You never heard of the woman you keep in a fifty-dollar-a-day suite of rooms. (b) the following 'That charges her clothes und beauty treatments to your Account? — and you say 'Who is Miss Lucy?' Well, keep you Love, papa. Just give me ten percent of fortune you spend on this woman you never heard of' ... She says you Te not much of a lover'. (c) Shots in which Miss Heavenly is seen in drenched clothes when part of her anatomy is revealed. (d) The words 'hypocritical slut' from Boss Finley’s dialogue. (e) From the bed-room scene, shots showing Alexandra’s brassiers hanging from lamp (f) From dialogue between Alexandra and Chance, the following — ' ...or accuse you of cheating? I don’t mind waking up in an intimate situation with someone— but I do like to see who it is— so I can make whatever adjustments seemed called for' (said by Alexandra) (g) Entirely the hotel bedroom scene between Alexandra and Chance up to the point when Chance comes out of the room",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (a)",
+        "description": "Elluls showing Miss Lucy sitting in an indecorous posture",
+        "length_m": 10.272
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (a)",
+        "description": "From Miss Lucy's dialogue, the following 'OL, least your tired old eyes, daddy-doll, OUh, I sure do hope that this bring out the beauty in you.'",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (a)",
+        "description": "Shots in which Rose Finley tears down Miss Lucy's dress revealing her bosom partially. Also from his remark 'any punk who’s got dollars and can out the mustard' referring to her",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The following dialogue— Chance: 'Oh, I’ve wallowed in a social register of New York with discreet wives in the millionaire sob — dobutaiife daughters in the hea loy wet'. Alexandra: 'Did they foot the bill, too?' Chance: 'Yeah, but I always gave them much more than I took, i'n older women, I gave back a feeling of amusement and youth. To sad lost women, merciful display of affection and temporary hope. Eccentric? Understanding and tolerance'",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seri V B",
+        "description": "From Ross Finley’s dialogue addressed to Chance, the following: 'I had to butcher him to keep all the belldom tv.i from bein’ violated your bastard'",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Seri V B",
+        "description": "From the scene between Chance and Heavenly on the spiral staircase, shots in which they embrace and cuddle passionately, including intimate scene on bed. Also, Heavenly’s words 'Hold me, just hold, hold me'",
+        "length_m": 28.3464
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VI",
+        "description": "From Chance's dialogue addressed to Heavenly, '....to a bunch of fat-buttomed breads at this swank hotel'",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Boy’s Night Out",
+    "format": "Cinemascope",
+    "original_length_m": 3103.104,
+    "final_length_m": 3081.456,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Marge’s remark addressed to her husband, George, while asking him to come to bed : 'And, besides my lout are cold!'",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel IV",
+        "description": "The passionate embrace between Cathy and Fred",
+        "length_m": 12.192,
+        "length_retained_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Seel IV",
+        "description": "The scene showing George kissing Cathy on the shoulder and neck and embracing her",
+        "length_m": 5.7912,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Girl’s Town",
+    "format": "Revised",
+    "original_length_m": 2086.056,
+    "final_length_m": 1996.224,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "The following dialogues of Dick and Silver — 'You know you are the first chick. . . .upto. . . .sonu around here'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "All shots of Dick taking liberties with Silver during the sing performance at the night club, trying to squeeze her arm and face, putting his arms around her etc., also the lines of the song 'Some one to kiss-some one to hold'",
+        "length_m": 17.3712
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The scene of Jimmy lifting the girl twice in the course of his dance with her",
+        "length_m": 1.3716
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels V II di V III",
+        "description": "The dialogues about Serafina having taken sleeping pills and her attempt at suicide",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Fred putting his hand over Silver’s mouth and he being pinned by her preceding dialogues and the subsequent physical scuffle and dialogues between the girls and boys, retaining the rest of the sequence from the point Fred raises bat and Vida grabs it and shoves Fred when Mother Veronica appears on the scene",
+        "length_m": 30.1752
+      },
+      {
+        "kind": "reduction",
+        "description": "Drastically the scene of Fred and Mary, deleting Fred taking liberties with her etc., including his blackmailing tactics, retaining only the portion wherein he enquires about Silver and Jeff and shows the lipstick and Mary identifies it as belonging to her sister",
+        "length_m": 15.24,
+        "length_retained_m": 12.8016
+      },
+      {
+        "kind": "reduction",
+        "description": "Drastically the lakeside sequence of boys and girls, retaining only the first stanza of the song ending with '...it keeps repeating .. I love you', eliminating the rest of the song and the medium close shot of Fred manhandling Silver and all later shots of the fight in which boys running with the girls and vice versa",
+        "length_m": 20.4216,
+        "length_retained_m": 19.812
+      }
+    ]
+  },
+  {
+    "film_title": "Can Cun",
+    "format": "Todd-AO",
+    "original_length_m": 4507.728,
+    "final_length_m": 4257.792,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The whole of the Apache dance",
+        "length_m": 164.592
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The picturisation and the dialogue between Judge Philippe and the heroine Simone where she points her hand to the neck of her low cut blouse to indicate the place where she keeps her keys for sale",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The scene where Simone is shown lying over the lawyer franc",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "(i) In the Adam and Eve dance all dance sequences after the apple eating sequence (ii) Sequences in which the heroine putting on very tight breeches faces the audience in the Adam and Eve dance",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "N Y II",
+        "description": "Sequences in the CAN-CAN dance where two men standing behind two girls slip under their legs and later exhibit the ladies panties",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Ocean’s 11",
+    "format": "Cinemascope",
+    "original_length_m": 3279.504,
+    "final_length_m": 3225.792,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prominent views of barely covered girls",
+        "length_m": 5.7024
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IE",
+        "description": "Shots of the blowing up of the power house and the electric pillar",
+        "length_m": 2.3772
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII ib IX",
+        "description": "All shots in which the pale of ocean spray fluorescent paint on the door handles and knobs; also the first demonstration of the paint and glasses",
+        "length_m": 37.7952
+      },
+      {
+        "kind": "reduction",
+        "reel": "Real I",
+        "description": "The scene of a female masseur with bare legs massaging Foster",
+        "length_m": 8.2296,
+        "length_retained_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Light House",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the commentary reference to Duhoy's mother as a Widow (sound)"
+      }
+    ]
+  },
+  {
+    "film_title": "Dilli Ka Dada",
+    "languages": [
+      "Urdu"
+    ],
+    "cert_no": "36225",
+    "cert_date": "21-7-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of Raja and Mirohi bringing Mala to Raja's house and their discussion regarding Mala’s stay at Raja’s house",
+        "length_m": 27.7368
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots from dance rehearsal of Sheel",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII f",
+        "description": "Some shots of a servant untying the rope by which Kishori is tied and close shots of Kishori",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Baat Ek Raat Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30814",
+    "cert_date": "18-0-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Telephone scene before Main title",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Scene between Chunilal and 'Typewriter'",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "Scene between Chunilal and 'Typewriter'",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "Song of Chunilal and 'Typewriter'",
+        "length_m": 117.348
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "Scene after song between Chunilal and 'Typewriter'",
+        "length_m": 46.0248
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots of C.I.D. Munshi accosting different girls along with his remark 'Hoay hoay'. Also delete shots of shadowgraph if a girl dancing and near views of the girls on balconies when he tries to flirt with them after climbing the ladder and before alighting on Julie's balcony",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "description": "From song beginning with the words 'Aaj ka din bhi phika phika. . . .', delete the words 'Not me not me' spoken by a girl passing by",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "Song of Miss Neela",
+        "length_m": 64.008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "Kidnapping scene of Chunilal and Rajesh",
+        "length_m": 53.0352
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Court room. Humming up of Rajesh",
+        "length_m": 18.288
+      }
+    ]
+  },
+  {
+    "film_title": "Jadugnr Daku",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly im colour",
+    "cert_no": "86064",
+    "cert_date": "25-9-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Scene of Meena and Rajkumar and their talk about 'Paheliyan'",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Scene of Jhamura and Pyuroo near the donkey and their talk about Rajkumari and Pritam",
+        "length_m": 24.9936
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Scene of Jhigaro telling Maharaj about Vasantkali",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Scene of Pritam’s fight with Raksha at Nilizh",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Scene between Meena, Maharaj, Pritam and Jhamura and their dialogues about Basant Kali and Ajit informing Pritam that he is Rajkumar and his mother is in jail",
+        "length_m": 52.4256
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Musafir Ek Hasina",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "36258",
+    "cert_date": "27-7-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Re-arrangement of reels: Reels No. 1, 2, 3 and 4 altered to Reels No. 10, 11, 12 and 13. Reels No. 5 to 13 altered to Reels No. 1 to 9. Reels No. 14 to 17 remain unaltered."
+      }
+    ]
+  },
+  {
+    "film_title": "Baat Ek Raat. Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30014",
+    "cert_date": "18-9-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "The scene of mother beginning with her words 'Khud chhaie gaye. . . .'",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Scene between Chunni and his mother with his words 'Rajeesh kidhar hai . . . .etc.'",
+        "length_m": 36.576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Scene between Rajesh and Chuni Lai where Chuni Lai says 'Main lut gaya' etc.",
+        "length_m": 53.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Rajesh receiving phone from the police station regarding Chunni’s arrest",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Jail scene shots of Chunni, Police Inspector and Rajesh and Rajesh’s words addressed to Chunni about his arrest",
+        "length_m": 117.9576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Scene between Police Commissioner and Inspector and Commissioner’s words — 'Abbi abhlii Rajesh ka phone aya tha,...eto.'",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Xll",
+        "description": "Scene between Police Inspector and Rajesh where Rajesh inquires about Jaggu",
+        "length_m": 35.052
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Xll",
+        "description": "Scene between Rajesh and Dwarku Prasad at Pearl Theatre where Rajesh inquires about Beni Prasad",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Xll",
+        "description": "Court scene Dwarka Prasad’s statement and his cross-examination by Rajesh",
+        "length_m": 85.344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XIV",
+        "description": "Scene in jail between Neela and Rajesh and his words 'Turn se kal pnohha jaaye . . . .etc.'",
+        "length_m": 33.528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Scene between Tjjr-fh and Dmhmokh and the words 'Beni Prasad ka khun linm... etc.'",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Hide out scene between Rajesh and Beni Prasad their dialogue and fight",
+        "length_m": 91.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Fight scene between Beni Prasad and Rajesh upto Phunni Lai's entry",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Jail scene showing Neela putting her head on Chin given to her",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Hide out scene between Rajesh, Chunni and Beni Prasad",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Jail scene showing Neela being taken for hanging, and the words 'Abhi abhi khabar aaye hai ki saza rolti jaye'",
+        "length_m": 20.7264
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Court room scene and the talk between public prosecutor and the Judge",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Scene between two old men in the court room and their talk",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "The court scene where Rajesh declares that he will produce the real murderer within 10 minutes",
+        "length_m": 112.776
+      }
+    ]
+  },
+  {
+    "film_title": "Aarti",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "35710",
+    "cert_date": "2-5-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Dissolve shot immediately after 63 feet",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "description": "In song No. 6 shot of Pradeep Kumar going to Meena Kumari saying 'Ab to khush ho'",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "replacement",
+        "description": "The original black and white song measuring 355 ft. deleted and replaced with 51 ft. of black and white in the beginning of the song and 304 ft. in colour"
+      }
+    ]
+  },
+  {
+    "film_title": "Madanakanviraju Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "cert_no": "35337",
+    "cert_date": "26-9-62",
+    "endorsement": "V",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "In Virupaksha’s speech delete reference to 'Agrakula Kannika'",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In Alandarmavalli’s prayer delete her offering her right hand as Kanuka for Kali. (Sound only 29 ft. Approved replacement sound only 29ft.)",
+        "length_m": 8.8392
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Song 3 — Delete picture of Timmaraju and Sundari jerking hips at each other",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Song 4 — Delete picture of Pranavaranjai jerking her stomach. (Approved replacement — 12 ft.)",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Bhotipathi being let off because he is a Brahmin",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Song 7 — Delete Madanakanaraju lifting Ratnavalli. (Approved replacement — 40 ft.)",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete shots of Mysore Palace and Palace gate, illuminated (Approved replacement — 10 ft.)",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the king comparing Madanakanaraju to Krishna with Satyabhama and Rukmini",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete Mandaravalli offering her hand to the Goddess, and the admiration of others upto and including the statement she was the ideal wife (Approved replacement — 20 ft.)",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete Ratnavalli recommending to Madanakanaraju to spend the night with Mohuna who had been waiting for him",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all picture of Madanakamaraju vomiting and tottering, before he dies",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "70",
+        "description": "In the Asariri voice, delete the reference to the hand which was offered as 'Kanuka' (Consequential on cut No. 9) (Sound 3 ft. removed and replaced)",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Shiv Purvati",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "36756",
+    "cert_date": "12-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "A tablet reading 'The story of this picture is based on Shiv Purana' 'Is chitra ki katha Shiv Puran par adharit hai'",
+        "length_m": 1.036032
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "The sequence of torture of child Kartikeya by Tarukasur and the dialogue between Tarakasur and his wife and between the latter and Kartikeya while he is held prisoner by Tarakasur"
+      }
+    ]
+  },
+  {
+    "film_title": "Janam Janam Na Sathi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "36757",
+    "cert_date": "12-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "In the song beginning with the words 'lik hoon, no ok tnnm be' the shot of the girl reclining on the branch of a tree and the hero bending over her",
+        "length_m": 2.640864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words 'Sukli ahaiyanmnthi khenohi kadkish'",
+        "length_m": 0.582912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of the girl putting her head in lap of Mohan",
+        "length_m": 2.499072
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "The words 'Kaaya' from the phrase 'An. koaya she kabjaman raheshe' (Sound replaced with the approved word 'Maya'). The word 'gha' from the phrase 'Tain i kari nakho gha' (Sound replaced with the approved word 'Kankuna')"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI JL",
+        "description": "Shot of arching of the girl with the pointed bust emphasised and shot of the girl lying on floor on her back and then turning round and round, in the dance accompanying song No. 6 (Lakh ohouryayshi )",
+        "length_m": 0.649248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Xlll",
+        "description": "The words 'tel leva' from the phrase 'Taka gaya tel leva' (sound)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red X",
+        "description": "Considerably Mohan twisting Sudha’s hand. Delete his pulling her by the braid of her hair. (Completely deleted). Omitting of foam by Mohan. (Completely deleted)",
+        "length_m": 7.526016,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red X P",
+        "description": "To a flash the shot of the twin bed at the end",
+        "length_m": 0.36576,
+        "length_retained_m": 0.27432
+      }
+    ]
+  },
+  {
+    "film_title": "The 360 Spartans",
+    "format": "Cinemascope",
+    "original_length_m": 3103,
+    "final_length_m": 3067,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IP",
+        "description": "From the dance scene, all shots of the principal dancer in which her thighs are seen exposed",
+        "length_m": 2.53008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "Shot of Phylon reacting with blood oozing out from his mouth when he is treated with hot iron for his injuries",
+        "length_m": 1.76472
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "In the dance sequence shots of principal dancer in which her bare thighs are seen exposed",
+        "length_m": 1.57888
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "Shot of King Xerxes lying over Artoiusia and kissing and embracing her, retaining only a flash of kissing her just before the entry of his military commander",
+        "length_m": 0.8352
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV",
+        "description": "The scene of kissing and embracing between Phylon and Elias",
+        "length_m": 4.35864,
+        "length_retained_m": 3.71556
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Damon And Pythias”",
+    "colour": "Colour",
+    "original_length_m": 65,
+    "final_length_m": 54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of an old man being speared",
+        "length_m": 0.87
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of embracing and kissing between Adriana and Damon",
+        "length_m": 3.24
+      },
+      {
+        "kind": "reduction",
+        "description": "To the minimum the shot of a scantily clad girl dancing in the background on the title card",
+        "length_m": 1.87,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Reminiscences Of Lenin",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30730",
+    "cert_date": "5-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The words 'The cradle of Mankind is greatest hopes'",
+        "length_m": 1
+      }
+    ]
+  },
+  {
+    "film_title": "The Angel Wore Red",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30733",
+    "cert_date": "5-10-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot of a man and girl in close embrace and the words 'They shouldn't have fallen in love'",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of a woman clinging to a man",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "The shot in which a scantily clad girl is dancing in the background",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "The shot of a man amorously leaning on woman lying on the ground",
+        "length_m": 3.85
+      },
+      {
+        "kind": "reduction",
+        "description": "To the minimum the shot of a scantily clad girl dancing in the background on the title card",
+        "length_m": 1.87,
+        "length_retained_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Experiment In Terror",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1303",
+    "cert_date": "1-10-02",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of Nancy Ashton removing her clothes and being seen only in underwear. Also shot of her dead body hanging upside down",
+        "length_m": 33.2232
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From the night-club scene, shot of a statue in foreground seen with the breast emphasised",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "XX",
+        "description": "From the scene in which Lynch accosts Kelly disguised as a woman, shots indicating that he has entered a public bathroom for ladies",
+        "length_m": 4.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XT",
+        "description": "Nil All shots of Loby from the point she starts removing her clothes under duress, retaining for the sake of continuity only the shot in which she speaks to Kelly on Telephone",
+        "length_m": 18.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Considerably Lynch gagging and throttling Kelly.",
+        "length_m": 53.34,
+        "length_retained_m": 32
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "To a flash the scene in which Lynch is seen with his foot on Kelly’s neck while she is lying on the floor",
+        "length_m": 7.3132,
+        "length_retained_m": 4
+      }
+    ]
+  },
+  {
+    "film_title": "And Quiet Flows The Don-Part I",
+    "colour": "Colour",
+    "cert_no": "1304",
+    "cert_date": "3-10-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "llf (l n",
+        "description": "Shots of Grigori and Akrtnvn in an intimate situation in bed",
+        "length_m": 5.4804,
+        "length_retained_m": 6.7056
+      }
+    ]
+  },
+  {
+    "film_title": "And Quiet Flows The Don — Part II",
+    "colour": "Colour",
+    "cert_no": "1305",
+    "cert_date": "3-10-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of Darya lying drunk and seen with dress disarranged, exposing her legs in an indecorous posture",
+        "length_m": 12.4908
+      }
+    ]
+  },
+  {
+    "film_title": "The Marriage-Go-Round",
+    "format": "Cinemascope",
+    "original_length_m": 25,
+    "final_length_m": 14.3109,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of Content sitting in the lap of Paul and kissing him",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'I want you to be the father of my baby' said by Katrin to Paul",
+        "length_m": 2.9527
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of Katrin dancing sensuously",
+        "length_m": 4.4577
+      },
+      {
+        "kind": "deletion",
+        "description": "Katrin and Paul kissing",
+        "length_m": 4.9887
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'The wife has one powerful advantage in the bedroom'",
+        "length_m": 0.8001
+      },
+      {
+        "kind": "deletion",
+        "description": "All shots of the swimming pool scene",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Naughty Boy",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "36697",
+    "cert_date": "1-10-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "From the dialogue of the Vaid addressed to Pritam, his remark 'F-k rupayu andar do rupaye halmr' and Pritam’s query 'Andir buhar ka kya matlub hai' (Sound)",
+        "length_m": 7.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In Jagdish’s dialogue addressed to Pritam referring to Vaid’s relationship with the landlady the underlined words from his remark 'In donon kijari-huti ho gaihai'",
+        "length_m": 7.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the scene showing the umbrellas of Pritam and Nina getting entangled after being blown up by the wind, the former’s remark 'Pakaro o mera gaya' and the suggestive dialogue between them referring to the umbrellas not getting separated from each other, retaining only the dialogue necessary for the sake of continuity",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The underlined words from the following remarks of one of the office girls referring to Pritam’s condition after he receives the false news of Sum’s death in the train accident 'Yeh bimaari larakiyou ki wajaha ae nakin, vananpali gheo ke wajahttse hotihal T.araki yen to bimari ke dawa hoti hain'",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the picture dance sequence, near front views of a man dancing indecorously and near front and back views of girls swinging their hips",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Prempatra",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "36098",
+    "cert_date": "1-10-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "A shot showing Vedar and his remark 'Mera dnara paijama lao' along with the visuals of his hand movement",
+        "length_m": 1.88
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “The Happy Thieves”",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30099",
+    "cert_date": "1-10-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Jim and Eve in bed together in the train compartment",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "The Curse Of The Werewolf",
+    "colour": "Colour",
+    "cert_no": "1306",
+    "cert_date": "4-10-02",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of a Japanese army-guard bayoneting prisoners of war moving in group on the road",
+        "length_m": 3.36
+      },
+      {
+        "kind": "deletion",
+        "description": "The underlined words from the remarks of Blackburn— 'At last I could walk in the jungle without a bayonet in my back'",
+        "length_m": 1.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From the following dialogue addressed to Blackburn by Bruno 'Get you good food... .get you pretty girl'",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "description": "(a) From Blackburn’s commentary, the following lines — 'where Japanese helped themselves to supplies without paying for them, Helplessly the stores owner, Diaz and his wife looked on. . . .and his wife watched, saddened by the new state of life under the forces of Occupation'",
+        "length_m": 3.88
+      },
+      {
+        "kind": "deletion",
+        "description": "(b) 'Ever since the Japanese came' from the dialogue of Diaz addressed to Blackburn",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots of Timlopao showing the shrunken head of a Japanese to Donald and the expression of disgust by the latter",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From Timlopao’s dialogue addressed to Blackburn, the following 'One headhunter is better than 10 Japs I hate the Japanese I will get you heads before you spend your money'",
+        "length_m": 8.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Entirely the erotic dance by three semi-nude native girls",
+        "length_m": 48.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "(a) From battle scene a Japanese soldier being throttled to death by Timiepuo (b) Shots of dead bodies strewn all around the courtyard while Donald is walking with the body of Ilari in his arms",
+        "length_m": 1.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of dead bodies strewn all around the courtyard while Donald is walking with the body of Ilari in his arms",
+        "length_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "The Months Before Birth Programme No. 7 : The Birth Of The Baby",
+    "languages": [
+      "English"
+    ],
+    "format": "10 mm.",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "The Months Before Birth Programme No. 8 : The Weeks After Birth",
+    "languages": [
+      "English"
+    ],
+    "format": "10 mm.",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "The Marriage-Go-Round",
+    "format": "Cinemascope",
+    "original_length_m": 2371,
+    "final_length_m": 2337,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Reference from visuals the words that Muslims can have four wives according to Qoran as also to the Tibetan custom of polyandry",
+        "length_m": 15.3924
+      },
+      {
+        "kind": "deletion",
+        "description": "Reference by Paul to 'built reflex response which the woman creates' etc. and the illustration thereto",
+        "length_m": 8.8392
+      },
+      {
+        "kind": "deletion",
+        "description": "The words '...my physique is primed in readiness. . . .' said by Katrin to Paul",
+        "length_m": 3.0105
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of men in the swimming pool whistling and cheering indecently on seeing Katrin",
+        "length_m": 2.0527
+      },
+      {
+        "kind": "deletion",
+        "description": "The following from the dialogue Content 'Don't tell me he flunked' Paid : 'I did not flunk I didn’t even take the exam'",
+        "length_m": 3.1023
+      }
+    ]
+  },
+  {
+    "film_title": "The Angel Wore Red",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1310",
+    "cert_date": "3-10-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The prominent views of dancer in scanty dress with most of upper portion of her body visible",
+        "length_m": 2.8384
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From Hawthorne’s dialogue addressed to Soledad the following underlined words; This one has a rather wicked blink in it for leering at you girls, after midnight”.",
+        "length_m": 2.6479
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The shots of the lady in scanty dress dancing in the hall when most of her body is visible",
+        "length_m": 5.0197
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "All references to the pulling out of nails of Canon Rota",
+        "length_m": 1.0954
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Scenes of ransacking of cathedrals, deleting shots of the destruction of altar and the setting of Christ's statue on fire.",
+        "length_m": 8.0287,
+        "length_retained_m": 13
+      },
+      {
+        "kind": "reduction",
+        "reel": "P",
+        "description": "The views of the lady in cabaret costume dancing in the cabaret hall",
+        "length_m": 3.0957,
+        "length_retained_m": 5
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "The prolonged love scene between the renegade priest and the cabaret dancer, omitting the shots of the first kiss and reducing the caressing and embracing when she is lying on the ground and the priest is near her with his arms across her body bending on her face whilst talking.",
+        "length_m": 18.9738,
+        "length_retained_m": 55
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "To a flash the scene of the suspended body of Soledad and her being tortured",
+        "length_m": 4.0072,
+        "length_retained_m": 2
+      },
+      {
+        "kind": "reduction",
+        "description": "The scene of shooting of Canon Rota by a firing squad and delete the last shot of the Captain at the dead body of the priest.",
+        "length_m": 5.4073,
+        "length_retained_m": 1
+      }
+    ]
+  },
+  {
+    "film_title": "Naughty Boy",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "cert_no": "36607",
+    "cert_date": "1st October, 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Title 'World rights controlled by — Issardns Naomal and Trade mark'",
+        "length_m": 7.02
+      },
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Song in colour beginning with the words 'Jahan bill gal hum 'and sequence between Pritam, Neena and chorus",
+        "length_m": 103.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogues between Pritam, Jagdish and Yogi",
+        "length_m": 18.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Fight between Britain and Mathur in car, giant wheel and in Merry-go-round. Shots of Neena, Chacha and others watching (in colour)",
+        "length_m": 31.2
+      }
+    ]
+  },
+  {
+    "film_title": "Muthumandapam",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "35341",
+    "cert_date": "3-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete picture of Muthunayagam in convict dress seeking asylum and his being sent in by the Zamindar. (The same scene occurring in a overprinted montage in Reel 4 is also to be deleted)",
+        "length_m": 13.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Song 2 — Delete the shot of Kannan lifting and whirling Noelamanl, twice. (The same shot appearing as overprinted montage in Reel 6— is also to be deleted)",
+        "length_m": 8.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "When Singaram says that his grand-daughter is going to marry a Zamindar’s son tomorrow, delete the Police Inspector’s reply",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the sentence of Neelamani about poison that people with self-respect cannot have a better friend. (Replacement approved)",
+        "length_m": 10.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete all picture showing Kanakavalli in tight-pants, (No objection to face-close-up and mid-shots) (Replacement approved",
+        "length_m": 40.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Song 6— Delete (a) from the picturisation, the shots of Kannan and Kanakavalli falling in each other's arms. (Kaikalile vandhu vithumf dha); (b) from the text, the lines 'Ohithira Mukathai. . . .Kannathil Pottuvittar, with accompanying picturisation; (c) the end shot of the two rolling over and falling on each other. (Replacement approved",
+        "length_m": 21.08
+      }
+    ]
+  },
+  {
+    "film_title": "Thaai Karulii",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "35822-U",
+    "cert_date": "4-9-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletion of 79 ft. (24.40 metres) titles"
+      },
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Addition of a background song on blank screen",
+        "length_m": 63.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Addition of sequence",
+        "length_m": 44.95
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Voluntarily deleted a sequence and replaced with another"
+      }
+    ]
+  },
+  {
+    "film_title": "Hawn Mahal",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "30748",
+    "cert_date": "11-10-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the song-dance sequence beginning with the words 'Nazar men ahokhiyan, ...' shots of bust-jerking and winking by Nilampari",
+        "length_m": 8.3527
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "In the Song-dance sequence beginning with the words 'Mujho ho gnyn turn se pyar . . . ' near-views of indecorous, hip movements of dancers",
+        "length_m": 2.7431
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In the song-dance sequence beginning with the words ' Aftj tujli se nazai iya nljh gai. ...' shots of winking by the dancer",
+        "length_m": 3.301
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "The scene of Kumar’s fight with the dragon, deleting near views of the latter",
+        "length_m": 17.0082,
+        "length_retained_m": 57
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "The scene showing the Rakshasa crying with pain and the two comedians disguised as women, crying with him",
+        "length_m": 7.0245,
+        "length_retained_m": 81
+      },
+      {
+        "kind": "reduction",
+        "description": "To a flash the scene of Vaital twisting Kumar’s foot and smashing his head on the door",
+        "length_m": 7.315,
+        "length_retained_m": 41
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "The fight between Vaital and Kumar and between the comedians and the old magician",
+        "length_m": 8.839,
+        "length_retained_m": 80
+      }
+    ]
+  },
+  {
+    "film_title": "Janam Janam Na Sathi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "36757",
+    "cert_date": "12-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "In the song beginning with the words 'lik hoon, no ok tnnm be' the shot of the girl reclining on the branch of a tree and the hero bending over her",
+        "length_m": 8.6868
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The words 'Sukli ahaiyanmnthi khenohi kadkish'",
+        "length_m": 1.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of the girl putting her head in lap of Mohan",
+        "length_m": 8.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "The words 'Kaaya' from the phrase 'An. koaya she kabjaman raheshe' (Sound replaced with the approved word 'Maya'). The word 'gha' from the phrase 'Tain i kari nakho gha' (Sound replaced with the approved word 'Kankuna')"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI JL",
+        "description": "Shot of arching of the girl with the pointed bust emphasised and shot of the girl lying on floor on her back and then turning round and round, in the dance accompanying song No. 6 (Lakh ohouryayshi )",
+        "length_m": 2.133
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Xlll",
+        "description": "The words 'tel leva' from the phrase 'Taka gaya tel leva' (sound)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Considerably Mohan twisting Sudha’s hand. Delete his pulling her by the braid of her hair. (Completely deleted). Omitting of foam by Mohan. (Completely deleted)",
+        "length_m": 24.6888,
+        "length_retained_m": 7.0101
+      },
+      {
+        "kind": "reduction",
+        "reel": "X P",
+        "description": "To a flash the shot of the twin bed at the end",
+        "length_m": 1.2194,
+        "length_retained_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "The 360 Spartans",
+    "format": "Cinemascope",
+    "original_length_m": 3103,
+    "final_length_m": 3067,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IP",
+        "description": "From the dance scene, all shots of the principal dancer in which her thighs are seen exposed",
+        "length_m": 8.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "Shot of Phylon reacting with blood oozing out from his mouth when he is treated with hot iron for his injuries",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "In the dance sequence shots of principal dancer in which her bare thighs are seen exposed",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "Shot of King Xerxes lying over Artoiusia and kissing and embracing her, retaining only a flash of kissing her just before the entry of his military commander",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IV",
+        "description": "The scene of kissing and embracing between Phylon and Elias",
+        "length_m": 14.33,
+        "length_retained_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Dhol Jani",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "36073",
+    "cert_date": "29th September, 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Red IX",
+        "description": "A scene between Amar and Munshi",
+        "length_m": 74.676
+      },
+      {
+        "kind": "insertion",
+        "reel": "Red IX",
+        "description": "A comedy scene between Munshi, Mama, Riskno and Jhumru",
+        "length_m": 153.924
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VII",
+        "description": "Rambir's entry in bunglow",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Amar follows Bishni",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scene between Mela Ram and Labhu Ram before he falls",
+        "length_m": 64.008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "Song Rakhi 'Ni chan hhave nrct, ohadhave . . . .",
+        "length_m": 68.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Scene between Rakhi and her girl friend",
+        "length_m": 20.4216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Scene between Mela Ram and Labhu Ram",
+        "length_m": 31.0896
+      }
+    ]
+  },
+  {
+    "film_title": "Mehndi Lagi Mere Haath",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38233",
+    "cert_date": "24th July 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Qawwali song beginning with the words 'Mahendra — Na ye ranjo alam hole etc' and a scene of Bhalla (Moti) addressing people in auditorium",
+        "length_m": 219.45
+      },
+      {
+        "kind": "insertion",
+        "reel": "X VII I",
+        "description": "The following scenes after Deepak regains consciousness in the affected area: (a) Moti attired in bridal costumes— Tuahi unveils him and asks him to behave properly. He barks. (b) Rajani touches the feet of Deepak's mother and mother asks Deepak to go away. Deepak enters and finds Rajni relaxing on the bed. He moves away from her and says Both in the car",
+        "length_m": 42.072
+      }
+    ]
+  },
+  {
+    "film_title": "Naughty Boy",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "30097",
+    "cert_date": "1st October, 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogues between Pritam, Jagdish and Yogi",
+        "length_m": 18.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Fight between Britain and Mathur in car, giant wheel and in Merry-go-round. Shots of Neena, Chacha and others watching (in colour)",
+        "length_m": 31.2
+      }
+    ]
+  }
+]

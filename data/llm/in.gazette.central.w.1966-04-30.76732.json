@@ -1,0 +1,587 @@
+[
+  {
+    "film_title": "The War Lord",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "46563",
+    "cert_date": "28-12-65",
+    "endorsement": "A",
+    "original_length_m": 88.09,
+    "length_deleted_m": 7.32,
+    "final_length_m": 80.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shot of the corpses of a man and a woman on bed.",
+        "length_m": 0.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "From commentary: 'This was a line when a man, a vassal, could not call his wife his own. Not even on his wedding night. For ancient and pagan law gave that right to the warlord.'",
+        "length_m": 4.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "From Chrysagon's talk to Brotiwyn: the words 'I want my life in you.'",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "From Draco's talk the words 'That naked strumpet.'",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Shot of soldiers on fire from the fight scenes.",
+        "length_m": 0.71
+      }
+    ]
+  },
+  {
+    "film_title": "To Meet The Dawn",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "The U.S.S.R. Consulate General",
+    "cert_no": "46564",
+    "cert_date": "28-12-65",
+    "endorsement": "U",
+    "original_length_m": 30.87,
+    "final_length_m": 30.5046,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following portions from the commentary: '...ALEXEI FOUJI RAIL GARIYON ME PROPANGADIST HAI. WAHAN GHUSNA BAHUT MUSHKIL HO GAYA HAI.... FOUJ GARIYON ME ....GARION PAR SAKHT PEHRA HOTA HAI....AB TO SABHI IS BARE ME BATEN KAR RAHE HAIN KE SAMRAJWADI LARAAI KO GHARELU LARAAI ME BADAL DENA CHAIJIYE ....TUM USE MARTE HO WOH TUMHEN MARTA HAI. KISKE LIYE ? YAHI BHAYANAK HAI, KIYONKE BEKAR HAI....LADNA NAHIN CHAHTE ? GADARBHADKA RAHE HO ? ....TUM KYA BAD-AMLI KHADIKARNA CHAHTE HO ? LENGE NAHIN I LEKIN YEH MAIN CHALA -MAIDAN PAR LE JAOONGA AUR SAB LOGON KO PAIH SUNAQONGA ! TUMNE APNE KO JALD ZAHIR KARDIYA , JASOOS !....ADHI RAAT KO , BEHAD HADBADI KE SATH , TAKE LOGON KA GUSSA UBHAR NA JAYE , HOUJI AFSAR GHAYALON KO PHIR SE THANDE DIBBON ME LE JAATE HAIN ....ISTHANIYA MAZDOORON AUR SHIKARIYON MEN SE HATHIYARBAND JATHA FORAN TAYYAR KIYA JATA HAI.'",
+        "length_m": 36.58
+      }
+    ]
+  },
+  {
+    "film_title": "Jahan Sati Wahan Bhagwan",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "K.S. Pictures",
+    "cert_no": "46565",
+    "cert_date": "28-12-65",
+    "endorsement": "U",
+    "original_length_m": 39.8435,
+    "final_length_m": 39.8344,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Shot of one of the Rakshas with his clothes on fire.",
+        "length_m": 1.91
+      }
+    ]
+  },
+  {
+    "film_title": "Sikander-E-Azam",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "N.C. Films",
+    "cert_no": "46580",
+    "cert_date": "30-12-65",
+    "endorsement": "U",
+    "original_length_m": 43.4035,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "From the scene of Sythia taking bath, the shots showing Sythia covering her bosom with her hands.",
+        "length_m": 0.72,
+        "length_retained_m": 0.72
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "From the song sequence 'Pilayee tune sakiya....', suggestion of kiss between Sikander and Sythia towards end of the song.",
+        "length_m": 0.15,
+        "length_retained_m": 0.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "From the scene between Sikander and the murderer of king Philip, the direct thrust by knife.",
+        "length_m": 0.81,
+        "length_retained_m": 0.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "From the song dance sequence of Helen and Madhumati, Helen's bust jerk, Madhumati's feet rubbing the floor in a sensuous manner, indecorous view of bare legs of dancer as she takes a tumble.",
+        "length_m": 1.58,
+        "length_retained_m": 1.58
+      }
+    ]
+  },
+  {
+    "film_title": "Amar Jyoti",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Bombay Movietone (P) Ltd.",
+    "cert_no": "46802",
+    "cert_date": "30-12-65",
+    "endorsement": "U",
+    "original_length_m": 39.9288,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Insert a tablet stating that the characters and incidents in the film are imaginary but in a few cases these have been recreated from legends to meet the requirement of the story and theme.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The sound of kissing made by Sambhu while bringing Rambha down from the branch of a tree."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Reference to the throwing of Hanuman Mantra."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X / I",
+        "description": "The underlined word from the remark: 'Bhool to Brahma so bhi hoti hai.'"
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Veeran Di",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35 mm",
+    "producer": "Punjab Film Arts",
+    "cert_no": "46804",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 39.6068,
+    "final_length_m": 39.6068,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "All shots of the lady lying on her back and with her busts emphasised.",
+        "length_m": 8.69,
+        "length_retained_m": 8.69
+      }
+    ]
+  },
+  {
+    "film_title": "Sant Tukarain",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "R.A. Puria",
+    "cert_no": "46806",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 39.9288,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel VIIE",
+        "description": "The shot showing Shivaji slapping his soldier.",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "The shot showing Sant Tukaram knocking his head on wooden plank to propitiate God Vithoba.",
+        "length_retained_m": 5.48
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Title song. (Sound only)."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "The shot showing the big fire.",
+        "length_m": 3.66,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "The shot showing the incorrect map of India.",
+        "length_m": 10.67,
+        "length_retained_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Iye Marathichiy . Naguri",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Utuy Pictures",
+    "cert_no": "46807",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 43.1,
+    "final_length_m": 42.6916,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Bala Saheb's dialogues: 'Mhanoon tar bakech : lok imle uthavtat, anlapan aply .. padkya bhintoechi dagcluji karnyat hayat vechto '",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Bala Saheb's dialogues: 'Dusurya nights'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Bala Saheb's dialogues: 'Stroejat tevdhi sari nimakharam'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue of Audumbar Buya: 'Baikoche vagine gahan thevoon Chiplonkarani shikshakanche pagar bhagvilc hote '",
+        "length_m": 23.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue of Durga Bai: 'Allacho master dekhil adhi fec dya animag porala shikayala dhad mhantat. Ahe thaook .'",
+        "length_m": 0.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Pundit Rao's dialogues: 'Baghanu ya jahirati bagha . Bhangudi shivai purush nahi. Mazi bayko mazimehooni.'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From Baboolmora's song - the following words: 'Divas gele porila '",
+        "length_m": 2.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Bala Saheb's dialogues: 'Marathi mansana muli dhandyachi drishtich nahi. Bikeechc lok pala harjo kudhtat, karjo budaytat, divale kadhtat. Ani punha dusriyacha navavar dhandha thatopa dokle hotat. Mhanjo mala tisa kirayche nahi mhana ' and Dialogue of Jai: 'Tyacha karan Marathimanoos uplya abroola jijatila pranapekshahi jasta japtat' and Bala Saheb's dialogues: 'Mhanoon tur yu mitit phakt Ranıshastri ugaytat. Moth -mothe sethi vyapari pikat nahit '",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Drinking scene. Gulab bai's dialogues in drinking scene 'Hey kinahi Baboolmorat ' and Baboolmora's dialogues: 'Ho ho tar, Ia divas plinha yenar ahe todach '",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Bala Saheb's dialogues: 'Nandirachya saratach ckhade chambhurache nahitar khatkache dukan ghalave mhanto mce '",
+        "length_m": 2.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Jai's dialogues: 'Mundirachya durat chambharacho nahitar khatkache dukan nighnar.'",
+        "length_m": 2.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Sepoy shooting Ambassador in stomach at body range. Dialogues of Sepoy: 'Bayka porr sudha kapoon kadhoo '",
+        "length_m": 9.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Dialogues of Sepoy: 'Bayka porr sudha kapoon kadhoo '",
+        "length_m": 1.92
+      }
+    ]
+  },
+  {
+    "film_title": "As You Like It",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Children's Film Society",
+    "cert_no": "46819",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 4.8768,
+    "final_length_m": 4.8768,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Shot showing the tree at the beggar.",
+        "length_m": 3.0,
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Neapolitan Fantasy",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Noro-la Private Limited",
+    "cert_no": "46820",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 1.5697,
+    "final_length_m": 1.5527,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The near views of panties of a dancer from the Can Can sequence.",
+        "length_m": 1.7
+      }
+    ]
+  },
+  {
+    "film_title": "The War Lord",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "1707",
+    "cert_date": "27-12-65",
+    "endorsement": "A",
+    "original_length_m": 34.3235,
+    "final_length_m": 34.2179,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III (2A)",
+        "description": "The action of a soldier reaching for Bronwyn just before she screams and also her indecorous view when the dogs tear up her dress as well as the shot when she covers herself with her hands and also, when she is talking with Chrysagon particularly before the dialogue 'Are you hurt' and 'May I dress myself'.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI (3B)",
+        "description": "From the scene of orgy, the shot of a man falling over a woman.",
+        "length_m": 0.56
+      }
+    ]
+  },
+  {
+    "film_title": "Bheegee Rilar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Maya Movietone",
+    "cert_no": "46216",
+    "cert_date": "27-11-65",
+    "endorsement": "U",
+    "original_length_m": 44.6822,
+    "final_length_m": 44.6822,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, IX and XV",
+        "description": "Various shots.",
+        "length_m": 1.78
+      }
+    ]
+  },
+  {
+    "film_title": "Kaajal",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Kalpnallok",
+    "cert_no": "46262",
+    "cert_date": "8-12-65",
+    "endorsement": "U",
+    "original_length_m": 49.2175,
+    "final_length_m": 48.5331,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, IV, VI, VII, X, XVII and XVIII",
+        "description": "Deleted various shots.",
+        "length_m": 68.44
+      }
+    ]
+  },
+  {
+    "film_title": "Teesra Kaun",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Bindu Kala Mandir",
+    "cert_no": "46296",
+    "cert_date": "16-12-65",
+    "endorsement": "U",
+    "original_length_m": 39.9776,
+    "final_length_m": 39.9715,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "title",
+        "description": "Deleted from the title of the film."
+      }
+    ]
+  },
+  {
+    "film_title": "Monagalluku Monagadu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "The Modern Theatres Ltd.",
+    "cert_no": "45034",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 44.9318,
+    "final_length_m": 44.7704,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Delete the shot through the bare legs of a woman figure.",
+        "length_m": 1.52,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Song 1 - Delete the word Moosi from the text of the song.",
+        "length_m": 3.35,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete Kathula Rathaiya calling police Charsowbees."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel -",
+        "description": "Song 3 – Delete from the Pallavi, the word Rammandi."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Delete the shot of Mala in tight pants walking away with her posterior towards the camera.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the word Belgian from the dialogue of Bujji."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Delete Bujji lying with his head on the thighs of Mala in tight pants.",
+        "length_m": 3.96,
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Delete (a) Mala bending to the side in near view with Bujji caressing her legs; (b) the mid-shot of Mala on the line Mama Ninnu; (c) the line Venaka Mundu Talasukunte Vanukostundi.",
+        "length_m": 1.52,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Delete (a) Mala bending to the side in near view with Bujji caressing her legs; (b) the mid-shot of Mala on the line Mama Ninnu; (c) the line Venaka Mundu Talasukunte Vanukostundi.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Geetha in the front View close-up when she repeats Pallavi, and the shot of her stapeling at the bush in the front view till the camera goes back."
+      }
+    ]
+  },
+  {
+    "film_title": "Palnati Yuddham",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Sree Anuroopa Films",
+    "cert_no": "45037",
+    "cert_date": "31-12-65",
+    "endorsement": "U",
+    "original_length_m": 63.8497,
+    "final_length_m": 57.7,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Song - Delete Alaraju pulling Perindsvi Kongu on the line 'Kongulagi Pilichenu . .'",
+        "length_m": 2.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 8",
+        "description": "Reduce considerably the cock-fight."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete Pokety's line Kolleti Brahmalihu Meesalu Levu .."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the word 'Sankara in the sentence Sarkara Vaishnavulu .."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Narasimharaju actually mixing poison in the drink."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete Veerabhadra torturing and killing the woman bound to the chair."
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 14 & 15",
+        "description": "Reduce considerably the song by Peruadevi, leaving only a suggestion."
+      }
+    ]
+  }
+]

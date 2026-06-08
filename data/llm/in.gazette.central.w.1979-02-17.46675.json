@@ -1,0 +1,441 @@
+[
+  {
+    "film_title": "Damaad",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s. OM Films International, Ashirwad, B.A, Vithal Nagar, 10th Road, Juhu, Bombay - 56",
+    "cert_no": "87444",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replace dialogue spoken by Khote and Shared comparing Hindi speakers to Marathi speakers with approved words 'Hum log uhin maar khate hain'.",
+        "length_m": 5.0,
+        "length_retained_m": 300.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the dialogue of the doctor 'Yeh tugat ki goliyan' and the visual of him raising his hand suggestively.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the reference to 'Hanuman' from the dialogues of Rodrigues and Panditji.",
+        "length_m": 9.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Animal",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "20th Century Fox Corp. (I) Pvt. Ltd., Metro House, M.G. Road, Bombay - 20",
+    "cert_no": "87410",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the gruesome shot of Michael kissing one of the gangsters in the toilet by breaking his neck.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Haiwan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Family Film Club",
+    "cert_no": "85849",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the reference in dialogue between Jaya and Major Anil Varma to love making for an hour.",
+        "length_m": 0.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the dialogue between Verma and the lady to the effect 'Jahan Jahan Pyar Kiya Hai, Pyar Ke Nisahan Pad Gaye Hai'.",
+        "length_m": 1.68
+      }
+    ]
+  },
+  {
+    "film_title": "Nishan",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gemini Pictures Cir.(P) Ltd., 121, Mount Road, Madras-6",
+    "cert_no": "84703",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the part of the scene in the swimming pool where the Zamindar asks a woman to undress for the necklace, making her come up, stand before him and others, and then throwing her back in disgust.",
+        "length_m": 115.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Voluntary deletion of the shot showing the dacoits carrying the babies in the forest.",
+        "length_m": 12.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Voluntary deletion of the shot showing Ranjan running in the jungle.",
+        "length_m": 15.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Voluntary deletion of the shot showing two dacoits running away from the pond.",
+        "length_m": 10.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gammathu Gudhacharulu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B & W",
+    "format": "35mm",
+    "producer": "Devendra Art Pictures, Madras",
+    "cert_no": "80221",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Song No. 1, delete the following: 'Ellamma cheyiste' along with visuals of forward jerks of Ranga Rao, replaced with 'Yenkala cheyiste' with approved pictures.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Song No. 1, delete 'Ankamma Tosina' (sound only lyrics replaced with 'Andala Na Lorry').",
+        "length_m": 1.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Song No. 1, delete 'Tadi aari poyindana' (sound only replaced with 'Tadi dari kada anaya').",
+        "length_m": 3.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete the following: Bust jerks and exposure of bust cleavage of Rani in the beginning of the song (replaced with shot of fish in water).",
+        "length_m": 1.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete: Bust jerks and exposure of bust cleavage of Rani on the parapet of the swimming pool (replaced with fish shot).",
+        "length_m": 1.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete: Close-up of Rani's busts while climbing up on railings and coming out of the swimming pool (replaced with fountain shot with zoom back to swimming pool).",
+        "length_m": 3.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete: Rani raising bare legs up on the parapet and her forward movements (replaced with Rani getting down into swimming pool and Johny's closed shot).",
+        "length_m": 2.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete: Johny lying over Rani near the bush (replaced with two girls swimming).",
+        "length_m": 1.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete: Rani raising bare leg when Johny is on the railing (replaced with fish shot).",
+        "length_m": 0.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete the following words: 'Monagabote Jalaga poyindai-hay hay, hay haydohray, bay' (Sound only - replaced with 'Vanuku puttindo').",
+        "length_m": 1.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete the words: 'Eo tadi ika aaradu, ee chali ika teeradhu' (Sound only - replaced with 'Eetaha taha theeradhu, nee taha taha theeradhu').",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete: 'Eta gotti lotu lenduko' (replaced with 'Cheta Patta Cheyyekalu').",
+        "length_m": 4.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete: 'Tomalo juar paddavu' (Sound replaced with 'Chepala Jari paddavu').",
+        "length_m": 1.92
+      }
+    ]
+  },
+  {
+    "film_title": "Per Solla Oru Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Vini Chitra, Madras",
+    "cert_no": "80222",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the entire cabaret dance performed by the main cabaret dancer in the club.",
+        "length_m": 108.81
+      }
+    ]
+  },
+  {
+    "film_title": "Vadagaikku Oru Hruthayam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Creations, Madras",
+    "cert_no": "80223",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In the bedroom scene showing Parameshwara Pillai and Ashwathi on bed, delete Parameshwara Pillai mounting on Ashwathi and subsequently lying on her.",
+        "length_m": 1.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Kosavan Kutty unbuttoning the blouse of Malini.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Reduce prolonged exposure of bare shoulder of Malini's sister in the attempt to rape her by Velu.",
+        "length_m": 1.42
+      }
+    ]
+  },
+  {
+    "film_title": "Rahu Ketu",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Vasudha Arts, Airccondition Market, Tardeo, Bombay-34",
+    "cert_no": "87505",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following dialogue making a sweeping remark: 'Agar ek officer Corrupt hoto uske ooper our pecche wale bhi Corrupt honge, nahin to aisa ho hu nahin sakta'.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete disparaging remarks to the Harijans to the effect 'Gandinaalimen pade huekeedon ko Chhodiya'.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the indecorous movements of bust by the dancer as also the kissing suggestion.",
+        "length_m": 7.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close up of dancer's thighs and other indecorous movements during the Qawali.",
+        "length_m": 5.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce fight between Ravi and gangsters.",
+        "length_m": 34.22,
+        "length_retained_m": 34.3
+      }
+    ]
+  },
+  {
+    "film_title": "Chal Mohana Ranga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "PhuntMovies, Madras",
+    "cert_no": "80240",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Mohan putting his hand on Radha's bust.",
+        "length_m": 6.17
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Mohan embracing Radha together with his dialogue, 'Nec poguru rogai u choositçeristanu'.",
+        "length_m": 3.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In song 3 beginning with the words 'Nu voche tharlo', delete the visuals of Ridhi against the words from 'Guvval ali' upto 'Thadiincstavu'.",
+        "length_m": 1.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete 'Rada kneeling not hugging Mohan' against the words 'Noc Mogasisscgu chccpiniesthanu'.",
+        "length_m": 2.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Mohan kissing Radha above her bust.",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the cabaret dance, delete: Raja lifting the dancer; Dancer rolling on the ground; Dancer jerking her bare belly; Close-up of dancer's bust jerks; Dancer on the table with prominent bust close-up.",
+        "length_m": 12.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In song No. 5 (Cabaret song) beginning with the words 'Gumethinchocercyi', delete the following words from Sai un thunni upto Kasi tecralice velc (Sound only - no replacement).",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In song No. 5, delete 'Kavalisindi karupudunum' (Sound only - no replacement).",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In song No. 6, beginning with the words 'Enthu theeyani mota', delete the following words 'Na yuguruntha pogarantha dulipeyaru'.",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "In song 7 beginning with the words 'Chikkavu na kodaka', delete the words 'Na kocak' wherever spoken by the hero Mohan (not sung by hero in the song except in last chorus where it is sung by all).",
+        "length_m": 4.53
+      }
+    ]
+  },
+  {
+    "film_title": "Chali Cheomalu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B & W",
+    "format": "35mm",
+    "producer": "Sranika Chitra, Secundrabad",
+    "cert_no": "80241",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete exposure of bare busts of Rathi before Pulimama (Replaced with Rathi properly covered with pallu approved 18.22 mts).",
+        "length_m": 18.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Reduce to once only, exposure of bare breast of the mother feeding the baby during the strike.",
+        "length_m": 8.79
+      }
+    ]
+  },
+  {
+    "film_title": "Amara Prema",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sri Lakshmi Prods., Madras",
+    "cert_no": "80242",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Kamakshi washing Anji Babu's thighs.",
+        "length_m": 5.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the words of Anji Babu 'Mardand cheyyadamlo incnu master ni- necku kooda cheyyana ?'.",
+        "length_m": 1.28
+      }
+    ]
+  },
+  {
+    "film_title": "Ival Oru Seethai",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B & W",
+    "format": "35mm",
+    "producer": "Welcome Movies, Madras",
+    "cert_no": "3383",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the sequence of the old man with torn clothes, threading the needles intercut with the bedroom scene (Replaced with shots of dancer 11.78mts).",
+        "length_m": 11.78
+      }
+    ]
+  }
+]

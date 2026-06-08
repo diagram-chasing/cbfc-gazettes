@@ -1,0 +1,760 @@
+[
+  {
+    "film_title": "Zameen Ke Tare",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30045",
+    "cert_date": "13-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted 24 ft.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted 252 ft.",
+        "length_m": 76.8096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted 24 ft.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted 143 ft.",
+        "length_m": 43.5864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted 55 ft.",
+        "length_m": 16.764
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 532 ft.",
+        "length_m": 162.1512
+      },
+      {
+        "kind": "insertion",
+        "reel": "Total",
+        "description": "Added 24 ft.",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "Shrawan Kumar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30054",
+    "cert_date": "10-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Repl X",
+        "description": "Replaced 106 ft.",
+        "length_m": 32.3088
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted 14 ft.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X13",
+        "description": "Deleted 33 ft.",
+        "length_m": 10.0584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 202 ft.",
+        "length_m": 61.5704
+      }
+    ]
+  },
+  {
+    "film_title": "A Touch Of Larceny",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30085",
+    "cert_date": "10-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots of a man and a woman lying in a compromising position (twice). From the lady's dialogue the words \"My husband\"",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Miya Bibi Razi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30056",
+    "cert_date": "10-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted 20 ft. 3 frms.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Re- III",
+        "description": "Deleted 8 frms.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted 4 ft. 15 frms.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "replacement",
+        "reel": "Repl XI",
+        "description": "Replaced 3 ft. 3 frms.",
+        "length_m": 0.9906
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted 0 ft. 12 frnts.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 85 ft.",
+        "length_m": 25.908
+      }
+    ]
+  },
+  {
+    "film_title": "Superman",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30057",
+    "cert_date": "18-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots in which Kanta is seen in indecorous posture while held by two goondas. Deleted dialogue: \"Hamko puncture karne ko live...\", \"Phool Jhari\", \"Hanth bhi nahin rakhne deti\".",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted dialogue between Munni and Sundersingh suggestive of Sundari taking bath and his remarks. Deleted dialogue: \"Main moochh ye lekar poonchh tak badal gaya hun\". Deleted shots of the tailor riding on the back of Munni.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted Bharatjugh suggestively kissing Neeru's finger. In song \"Dil ki halaat jan gayo...\" deleted suggestive shots of crossing of hands and close physical proximity.",
+        "length_m": 10.668
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted suggestive shot of Sundersingh lying on the cot with Sundari beside him.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "In song \"Thodi thodi gori bala...\" deleted wordings and visuals of cuddling and caressing.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "In song \"Kabhi dhoka, kabhi yaari,...\" deleted indecorous movements of the female dancer.",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced shots of Dayalseen with a dagger sticking in his back.",
+        "length_m": 0.6096,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 206 ft. 12 frms.",
+        "length_m": 62.7912
+      }
+    ]
+  },
+  {
+    "film_title": "Strange Intruder",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "989",
+    "cert_date": "13-11-1959",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel S",
+        "description": "Deleted shots and dialogue relating to cruel ill-treatment of prisoners by Korean and Chinese guards.",
+        "length_m": 81.3816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted scene of Howard hanging his head against the wall.",
+        "length_m": 1.55424
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 272 ft. 2 frmx.",
+        "length_m": 82.93584
+      }
+    ]
+  },
+  {
+    "film_title": "Patang",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "29704",
+    "cert_date": "18-4-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Repl V",
+        "description": "Deleted 136 ft.",
+        "length_m": 41.4528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Repl XI",
+        "description": "Deleted 50 ft.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIX",
+        "description": "Deleted 125 ft.",
+        "length_m": 38.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 310 ft.",
+        "length_m": 94.4928
+      }
+    ]
+  },
+  {
+    "film_title": "Mughal-E-Azam",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "27158",
+    "cert_date": "7-4-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1-4",
+        "description": "Deleted 53 ft.",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 1-4",
+        "description": "Added 498 ft.",
+        "length_m": 151.7904
+      }
+    ]
+  },
+  {
+    "film_title": "Masoom",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "29823",
+    "cert_date": "6-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Deleted 380 ft.",
+        "length_m": 115.824
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted 425 ft.",
+        "length_m": 129.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted 250 ft.",
+        "length_m": 76.2
+      },
+      {
+        "kind": "insertion",
+        "reel": "Total",
+        "description": "Added 1,005 ft.",
+        "length_m": 306.324
+      }
+    ]
+  },
+  {
+    "film_title": "Sharabi Ki Ladki",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "24761",
+    "cert_date": "8-2-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1 (Scene 1)",
+        "description": "Deleted scene of Baljit and Pritima together on a motorcycle.",
+        "length_m": 28.3464
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2 (Scene 131)",
+        "description": "Deleted Pritima and her friends swaying in the swing.",
+        "length_m": 36.2712
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13 (Scene 72)",
+        "description": "Deleted repetition of song Bari Barshi Khatin Gayasi.",
+        "length_m": 95.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14 (Scene 77)",
+        "description": "Deleted shot of Bikram reading a letter and view of Baljit's dispensary.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14 (Scene 77)",
+        "description": "Deleted outdoor scenes of Baljit and Pritima.",
+        "length_m": 17.9832
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 648 ft.",
+        "length_m": 197.5088
+      }
+    ]
+  },
+  {
+    "film_title": "The Sword And The Dragon",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30092",
+    "cert_date": "23-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted 19 ft. 8 inches.",
+        "length_m": 5.9944
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted 2 ft. 1 inch.",
+        "length_m": 0.635
+      }
+    ]
+  },
+  {
+    "film_title": "Guns of Timberland",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "80116",
+    "cert_date": "28-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted lines from song No. 2 related to drinking whiskey and fighting.",
+        "length_m": 11.8568
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted reference to good whiskey and bad women.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced general fight, deleted hard knocks in near view.",
+        "length_m": 21.336,
+        "length_retained_m": 7.0104
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduced scene of Monty hitting the boy and fight between Monty and Jim, deleted hard knocks and punches.",
+        "length_m": 23.1648,
+        "length_retained_m": 21.9456
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 198 ft. 3 frms.",
+        "length_m": 60.3708
+      }
+    ]
+  },
+  {
+    "film_title": "Sinhaldweep Ki Sundari",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30099",
+    "cert_date": "24-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted song line \"Hamba Hamba, jagmag damba damba\".",
+        "length_m": 7.9248
+      }
+    ]
+  },
+  {
+    "film_title": "Pedro",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30117",
+    "cert_date": "27-6-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted fight scenes between Bhola and Ramesh, including kicks and blows to the face. Deleted song lines and visuals of Kamini and Bhola bathing together and in compromising positions.",
+        "length_m": 16.1544
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted Kamini's dialogue to Leela and suggestive passages between Gulab and Champa.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted song lines and visuals of Kamini and Bhola bathing and in compromising positions. Deleted love scene between Kamini and Bhola.",
+        "length_m": 28.59072
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted song lines and visuals of Kamini and Bhola in compromising positions. Deleted shots of Gulab pulling Champa.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted shots of Bhola lifting and carrying Kamini.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted song lines and visuals of Kamini and Bhola in compromising positions. Deleted Gulab's dialogue.",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted song lines and visuals of female dancer's indecent movements.",
+        "length_m": 46.9392
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels IX, X and XIV",
+        "description": "Deleted close views of the face of the 'Cyclop'.",
+        "length_m": 13.716
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted song lines and visuals related to fighting.",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduced scene of Bhola stabbing a gorilla.",
+        "length_m": 2.4384,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced fight between Bhola and Kamal, deleted twisting of legs.",
+        "length_m": 11.2776,
+        "length_retained_m": 33.528
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduced scene of attack by magician and men, deleted Gulab biting adversary's hand.",
+        "length_m": 15.8496,
+        "length_retained_m": 11.5824
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduced scene of Kamini plucking feathers, twisting bird's neck and killing it.",
+        "length_m": 27.432,
+        "length_retained_m": 91.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced scene of Bhola beating Ramesh, throttling him and throwing him down.",
+        "length_m": 5.4864,
+        "length_retained_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 853 ft. 8 frms.",
+        "length_m": 260.0008
+      }
+    ]
+  },
+  {
+    "film_title": "Dr. Shaitan",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30148",
+    "cert_date": "1-7-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted shot of Helen arching. Deleted shots of a woman in bath. Deleted shots of a woman being manhandled.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduced shrieks of women to one only.",
+        "length_m": 1.2192,
+        "length_retained_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 43 ft.",
+        "length_m": 13.1064
+      }
+    ]
+  },
+  {
+    "film_title": "Zimbo Come To Town",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30140",
+    "cert_date": "1-7-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted amorous movements of the bust by Manasi and shots of Manasi reclining in water.",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted shot of Hummer biting the jungle man.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted suggestive dialogue between King and Queen.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted Hummer's dialogue to Manasi.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted shot of a man staring indecently at a girl.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted song lines and visuals.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted song lines.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted song lines and visuals of Miss Sarang.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted King and Queen's dialogue and clown's dialogue.",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted amorous movements of girls in song.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted King and Queen's dialogue and pose.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduced scene of Doctor being throttled.",
+        "length_m": 1.8288,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduced fight between Hummer and Zimbo.",
+        "length_m": 8.8392,
+        "length_retained_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 165 ft. 4 frms.",
+        "length_m": 50.2936
+      }
+    ]
+  },
+  {
+    "film_title": "Jo Hua So Bhool Ja",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "30153",
+    "cert_date": "2-7-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted Ramesh's dialogue to Maya.",
+        "length_m": 0.4064
+      },
+      {
+        "kind": "replacement",
+        "reel": "Repl VI",
+        "description": "Replaced Maya's father's words.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduced shots of Jaya putting arms around Ramdas's neck and resting head on his chest, and Ramdas lying with head on her lap.",
+        "length_m": 10.0584,
+        "length_retained_m": 10.0584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 35 ft. 8 frms.",
+        "length_m": 10.6688
+      }
+    ]
+  },
+  {
+    "film_title": "Antaricha Diva",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "30154",
+    "cert_date": "2-7-1960",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels IV & VI",
+        "description": "Deleted 52 ft.",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted 18 ft.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Total",
+        "description": "Deleted 70 ft.",
+        "length_m": 21.336
+      }
+    ]
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "film_title": "Siwal",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Eveready Productions",
+    "cert_no": "UA21",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "female dancer wearing a blank skin triangular piece of cloth down the waist in front, with apex pointing between the thighs",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "the word \"Lo jawani ki maia\" from the song 'Chindani raton mein'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the song \"Bito bacho sarkar\" the words \"Shaukh jawani yahau po looti jaatl hoi\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "the entire sequence in which the lady comes in the form and dress of a snake in grey dress",
+        "length_m": 30.48
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "In song No. 3 \"Kisi haseen ki tamanna tujhe bhitadapayo \" the words (i) \"Ekraat ka mada hal, ek raast klmahljl hal\" (ii) \"di* jSiODm k* Blfonk»tb«iilBl» io'jsiw\" replaced with approved lines (i) Dil dard ka maara hai didar ki mantil haj (ii) An Jhoom ke khushinn ki nai rahon men kho Ja\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The profile view of Sitara and Bossi",
+        "length_m": 28.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI lb VII",
+        "description": "The words \"Kafir ka baohoba\" uttered by Shor-E-QuI",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The suggestive words of Sher-B-Gul addressed to Poonu \"Naam tera aur kaam mera hoga\" uttered with reference to the female dancer Qulfaro",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In song No. 4 \"Na yeh ohand hog*.\"",
+        "length_m": 21.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The scene of bathing of the Baby, omitting the kicking of the mother",
+        "length_m": 7.92,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably the scene of a man seeing the girls bathing so as to retain a flash, omitting his kissing sound and gestures and omitting the shot of the girls whose bosoms are exposed or bare shoulders are seen being half-dressed, out of fright, or whilst moving forward to hit him",
+        "length_m": 34.14,
+        "length_retained_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The shots of the dancer in striped choli when her back is exposed",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "When Rajju and Sosoi are moving in the boat their close contact cheek to cheek",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XF",
+        "description": "The whipping of Ghulam",
+        "length_m": 6.1,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "The fights omitting kicks in the chest",
+        "length_m": 6.1,
+        "length_retained_m": 18.59
+      }
+    ]
+  },
+  {
+    "film_title": "Teerandaz",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Roashni Films",
+    "cert_no": "U 14034",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "The following lines from song No. 2 \"Maine rakh di...\" (i) \"Mil no rakh di msaarki par j iifni n \" replaced with approved line \"Mxni nkb di hathoii po Jaaii r«\" (ii) \"Jara aoedha to kur lo toor ko\" replaced with approved line \"Jnra, ab to H'tmblialo tcor ko\" (iii) \"Looto aa ia Jaagir ko\" replaced with approved line \"D^kho fo lea taayn* ko\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I, II, III, XZ",
+        "description": "The following dialogues (i) \"In bahon me nft/kar iwimaao\" (ii) \"Jee ohahta hal ko jnoonh ohoom loon\" (iii) \"Hajjam ka bachuha\" \"Ghaaare ka baohoha\"",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The shot of Jamila and Varir in each other’s arms in the sequence in which poison is handed over to Jamila. All references to the story being laid in Baghdad and to the idiotic prince-king belonging to that city. (The sound 'Ba' from the word 'Baghdad' dropped off).",
+        "length_m": 9.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Considerably whipping of Ghulam by Toorandaz",
+        "length_m": 15.54,
+        "length_retained_m": 11.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Considerably the torture of the old man in the torture chamber",
+        "length_m": 20.73,
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "XF",
+        "description": "Considerably Ghulam whipping in the prison as also the same character whipping Nayaz violently (also reduce sound effects considerably)",
+        "length_m": 5.79,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "XF",
+        "description": "Views of Ghulam pierced by the arrow of Toorandaz and falling down",
+        "length_m": 5.18,
+        "length_retained_m": 10.97
+      }
+    ]
+  },
+  {
+    "film_title": "Babu",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bikramlal Pahwa for P.R. Films",
+    "cert_no": "U 14632",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Sound of train going to the Hill Station. Sound of train on arriving from the Hill Station."
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Sound of child crying at the place of Paro’s mother"
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Bipin Gupta saying \"Namoate Bhai Saheb\"",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the dance scene group playing cards",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Bipin Gupta sitting on Dowan and calling Berrant and going into the room of Paro. Usha Kiran coming to balcony and hiding herself when Berrant comes. Bipin Gupta's shadow moving upstairs",
+        "length_m": 33.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Karan taking palr of the cigarette while Usha is on bed on the marriage night",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Scenes showing Shashi enjoying while Karan is nuzzled on the sofa and saying \"Aap abhl tak baitho him .\" upto another scene where Karan and Johnny are together and Johnny saying \"...what boss ?\"",
+        "length_m": 39.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Karan and Usha in close shot where Shashi says \"Berrant babu, main nirf \" upto again Shashi saying \" S i i vad \"",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Amir Bano, Murja and Kamlikinb seated at the tea table - last dialogue of Amir Banoo before Karan joins \" Ljg mujh ' kya kya kahato ... . \"",
+        "length_m": 19.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Usha Kiran is down the stairs and about to go to Karan’s room (silent shot)",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Kamalkant in the field and Amir entering upto Amir Banoo going out of the shot",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Pran, Shashi and Johnny coming inside den",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the room of Karan after his departure Bipin comes towards Usha in foreground and uttering the word \"Bahu\"",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The scene allowing Bipin Gupta and Amir Banoo where the latter her about Karan’s going away the last dialogue \"...khud hi wapas aa jayega\"",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The shot showing Manju upset and Berrant consoling her",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Manju enters the room while Basant is on the sofa - the related of her becoming a mother and Basant shocked at the news",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Super impose on Usha of her insult in party",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Manju dialing the phone upto Usha coming back after receiving the call on phone",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Manju enters when Amir Banoo is seated on the sofa, ... upto another scene where Kamalakant, Manju, Amir Banoo and Usha are in the shot - Manju gets permission of her father",
+        "length_m": 50.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Manju enters the room upto Usha coming for the permission to go to Hill Station",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Bipin Gupta going through corridor with Manju behind",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "At the end Bipin Gupta saying \"Plohli dlwall men \" upto the last dialogue",
+        "length_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "Jhanak Jhanak Payal Baaje",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Kajkamal Kalamandir Ltd.",
+    "cert_no": "13997",
+    "cert_date": "23-9-55",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Song of the season",
+        "length_m": 12.8,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "The scene showing Radha, Bhairav, Neela and Girdhar on the river bank when they shake their necks in Kandy Dance gesture",
+        "length_m": 7.32,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The scene of Neela and Mangal Maharaj talking",
+        "length_m": 3.05,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "One stanza from the song \"Mero e dil bata\"",
+        "length_m": 12.5,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The scene showing Girdhar moving restlessly below the tree in the garden",
+        "length_m": 3.96,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The scene showing Mangal Maharaj and Girdhar leaving with luggage",
+        "length_m": 4.57,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The scene showing Girihir, Mangal Maharaj and Shailendra coming out of Dharamshala and closing the door",
+        "length_m": 8.53,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The scene showing Shailendra and her mother talking in bedroom",
+        "length_m": 18.9,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The scene showing Neela on sick bed being treated by the old Sadhu",
+        "length_m": 19.51,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "The scene showing interior part of the temple",
+        "length_m": 6.1,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Beginning of the scene showing the old sadhu drying his clothes",
+        "length_m": 2.74,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "The scenes showing birds flying out of Nateshwar idol and Neela regaining consciousness till the end of her vision of Yama",
+        "length_m": 66.14,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "The scene after Pooja dance where Neela falls down unconscious",
+        "length_m": 18.29,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Mahishash",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Aurora Film Corporation Ltd.",
+    "cert_no": "12001",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "the use of the word \"Nirala\" in relation to Burma by Nirmala's mother",
+        "length_m": 0.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "71",
+        "description": "The shots showing vomiting of blood by Aparna’s mother when she got sick should be reduced to a more suggestive",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Piyoli Phukan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Rup Jyoti Productions",
+    "cert_no": "12302",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Vive close-up shots of the pock-marked face of the old blind singer",
+        "length_m": 17.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Two close-up shots of the same blind singer",
+        "length_m": 8.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the execution scene, the shot showing hanging foot of Piyoli Phukan, after the Officer signals",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Dr. Savithri",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. Apsara Films",
+    "cert_no": "14008-U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Song No. 1 (Atmosphere), description and sound of the two verses (a) \"Patta-p-pattikaar\" (In broad daylight by the back garden reach out and jump; having jumped, sink to the top position; if the position to which you stick breaks and you run away; having run, go and rest in Courtallam, and (b) \"Vellal-O’Chattaikk\" (Dye the white shirt and do the work; when the work is over, send it to the wash and make it white again; like a bat, jump to the strong branch)",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "When Nagalingam and Vanaja converse, delete her statement \"You belong to the Nayaka caste and to the Vellaboarta - how can we be married\"",
+        "length_m": 9.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "During song No. 4 (Moonlight duet), delete the picture shots of Vanaja with bust in close-up, sideways and in profile wherever they occur",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the High-Court scene, delete mid-shots and close-ups showing the officials arrest of the High-Court, Madras.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "In the sequence where Murugan is at his shop and a woman asks for credit, the suggestion of his willingness to give credit in return for immoral consideration: (a) Tapping the customer on the hand, asking her whether she stays alone and looking around to see if anyone was watching; (b) asking her to hold the bag properly and touching at her hand; (c) asking another woman customer to go away, giving her the matchbox she asked for as free supply; (d) giving her Rs. 5 clutching her hand. Asking her about the white sari she was wearing which she had mistaken; (e) And after telling the male customer that if the latter came free, he would allow her",
+        "length_m": 56.39,
+        "length_retained_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "During song No. 5 (Muthu and Murugan duet song), delete the last line beginning \"Nahal-k-adal\"(What is the play which takes place in the jewel shop cloth shop and money-lender's shop, and the reply that it is found)",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the picture and sound of Nagalingam's murder, the close-up of Jagalingam’s bloodstained hand and dagger, except for a brief flash suggesting the stabbing in the mid-long-shot",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Baktha Mallikarjuna",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "M/s. Jaya Films",
+    "cert_no": "1401047",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "After Kamini and Mallanna leave the temple, delete the rest of the sequence showing the Archaka and Mahadeva discussing about yantras, in front of the Sanctum",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the entire sequence, picture and dialogue, showing the Archaka and Mahadeva discussing about Vasikarana mantras, the payment of money and the choorna being given, in front of the Sanctum",
+        "length_m": 65.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the entire sequence showing Jeeva seated on the cot, and singing, Mahadeva entering, hiding and speaking to her as Shiva, putting on the choorna tilak, and hiding himself hearing the voice of screen entering of Archaka, Mahadeva emerging and going out",
+        "length_m": 31.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "During the Siriyala sequence, delete the two picture shots showing the cooked boy served as a meal on the leaf, (the second part of the mid-shot where the cooked meal is visible at the bottom right of the frame)",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "After Jeeva tells the Archaka that she wants to go to the Devasthana, delete the rest of that sequence, showing the Archaka looking about in all directions asking her to go into the house and not to come to the temple to ask that he should get regularly married to her, and thereby deprive him of his self respect",
+        "length_m": 13.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Delete the slapping, beating and dragging of Girija by Durga wherever it occurs, except only once each time by way of suggestion. (Note.— This applies also to sequences in Reel 9— Girija dragging a leg tied to her foot, weeping inside the locked room, and Reel 10— Where she is shown being beaten)",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "When Kamini and Mallanna sit on the bedroom cot, delete her sentence that he should enjoy her beauty.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "During the sequence of Jeeva weeping, the Archaka swearing that he would not tie the thali round her and going out",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "In the sequence showing Siva and Parvathi conversing in Kailas, delete the two pictures of Parvathi in close-up (No objection to mid and long-shots)",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the entire sequence, picture and dialogue in Jeeva's house, Mahadeva hiding in a basket and emerging, the Archaka entering searching for Mahadeva, the latter emerging from inside the mat, being caught, beaten and pushed, the dialogue about tying of thali, the Archaka tying it, Mahadeva going and the Archaka and Jeeva coming for pilgrimage",
+        "length_m": 94.49
+      }
+    ]
+  },
+  {
+    "film_title": "Mastani",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sareed Productions",
+    "cert_no": "14700",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "In the opening flashback of 'Mastani', all the forward movements of the girls during the dance of Mastani",
+        "length_m": 52.27,
+        "length_retained_m": 3.51
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Bhagwan's forward movement towards the girl during riding the call of his being an and dance",
+        "length_m": 3.05,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The words \"Janath ki hur\" in song No. 3 beginning with \"Baare ki hur\"",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The words \"Kabul ka Pathan, bada bahiman\" uttered by Bahadur when he is disguised as a woman",
+        "length_m": 1.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "All shots of the Prince with noose round his neck",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The last fightings including the groans",
+        "length_m": 8.23,
+        "length_retained_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "The Powder of Progress",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm.",
+    "producer": "Ama Ltd.",
+    "cert_no": "12306",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Main title",
+        "length_m": 15.24
+      },
+      {
+        "kind": "reduction",
+        "description": "The shot showing dropping clinker",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "description": "The sequence showing workshop",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "description": "The sequence showing cement distribution",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "description": "The sequence showing Modern flats in Bombay",
+        "length_m": 3.66
+      },
+      {
+        "kind": "insertion",
+        "description": "The shot showing Income-tax Office and Government Secretariat, Bombay",
+        "length_m": 3.35
+      },
+      {
+        "kind": "insertion",
+        "description": "The shot showing Worker's amenities",
+        "length_m": 0.91
+      },
+      {
+        "kind": "insertion",
+        "description": "The shot showing Roads in India",
+        "length_m": 0.61
+      }
+    ]
+  }
+]

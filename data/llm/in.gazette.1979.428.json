@@ -1,0 +1,181 @@
+[
+  {
+    "film_title": "Bring Flavour To Life",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "05 mml",
+    "producer": "National Education and Information Films Ltd Bombay",
+    "cert_no": "87510",
+    "cert_date": "26-6-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Reduce hitting of Thakursaheb by Ajit to a mere suggestion.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII, XIII, XIV, XV, XVI",
+        "description": "Drastically reduce all the sequences showing torture-murder scenes of Ajit Singh with various characters trapped inside.",
+        "length_m": 97.22
+      }
+    ]
+  },
+  {
+    "film_title": "Azaad",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Pramod Chakravorty, Pramod Films, Natraj Studios, 199, Kurla Road, Andheri, Bombay-69",
+    "cert_no": "87534",
+    "cert_date": "28-6-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Reduce kissing of Thakursaheb by Ajit to a mere suggestion.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "II, III",
+        "description": "Drastically reduce all the sequences showing torture-murder scenes of Ajit Singh with various characters trapped inside.",
+        "length_m": 97.22
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Sagar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col",
+    "producer": "N. G. Joshi, KSS Office, 2, Mangaldas Wadi, Bombay-4",
+    "cert_no": "87546",
+    "cert_date": "1-7-78",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Reduce shots of vulture hovering over the body of Amar who is lying unconscious.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce extreme close shots of Amar's face distorted with disease.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Replace shots of Amar's face distorted with disease with a shot of suggestion.",
+        "length_retained_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "The Catamount Killing",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35 mm",
+    "producer": "Film Finance Corporation, Regent Chamber Nariman Point, Bombay-21",
+    "cert_no": "4317",
+    "cert_date": "26-6-78",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the love making scene between Mark and Kit by deleting Mark’s violent approach tearing her clothes before the sex act.",
+        "length_m": 8.14,
+        "length_retained_m": 31.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the killing of the girl by bank Manager inside the Bank vault.",
+        "length_m": 3.12,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Reduce to a mere suggestion the shot of Irisin a state of nudity when she is seen in bed with Ken.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to a mere suggestion hitting of the bank girl in dicky when Mark finds her alive and trying some movements.",
+        "length_m": 2.36,
+        "length_retained_m": 1.05
+      }
+    ]
+  },
+  {
+    "film_title": "Naach Uthe Sansar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "82125",
+    "cert_date": "20-7-1976",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "III, VIII, XIII, XV",
+        "description": "Approved addition of various shots.",
+        "length_m": 112.48
+      }
+    ]
+  },
+  {
+    "film_title": "Kattu Manidan",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Col",
+    "format": "Cinemascope",
+    "producer": "P. S. R. Pictures, Madras",
+    "cert_no": "3386",
+    "cert_date": "29-6-78",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shots of the hotel manager trying to remove Raja’s underwear.",
+        "length_m": 2.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace Raja and Padma rolling on each other with an approved shot.",
+        "length_retained_m": 3.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the words of the song from stanza 2 till the end (Charanam) and the picturisation of the village dance.",
+        "length_m": 71.93
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace the picturisation of the village dance with an approved dance sequence.",
+        "length_retained_m": 1.74
+      }
+    ]
+  }
+]

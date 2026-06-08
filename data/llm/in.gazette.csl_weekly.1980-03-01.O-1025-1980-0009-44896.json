@@ -1,0 +1,366 @@
+[
+  {
+    "film_title": "\"Golden Rendezvous\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "United Artists Corporation, Metro House, M.G. Rd., Bombay-20.",
+    "cert_no": "B/F-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce considerably the shots showing the bloodstained body of Rogers.",
+        "length_m": 1.43,
+        "length_retained_m": 0.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce considerably the shoot-out and encounter between Carreros men and Carter and the passengers, removing gruesome visuals.",
+        "length_m": 10.57,
+        "length_retained_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the steady shot focusing on Tony's dead body after being knifed by Carter.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the shot of Gomes being shot dead.",
+        "length_m": 0.53,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot of Preston piercing a guard with scissors.",
+        "length_m": 1.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the encounter between Carrers men and Carter by removing gruesome shots.",
+        "length_m": 6.52,
+        "length_retained_m": 15.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Coma\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayor India Ltd., Metro House, M.G. Road, Bombay-20.",
+    "cert_no": "B/F-21",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the scene of Susan taking a shower bath, deleting the portion where her front body is clearly seen through the glass.",
+        "length_m": 11.23,
+        "length_retained_m": 2.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce shots of passionate kissing between Mark and Susan.",
+        "length_m": 9.48,
+        "length_retained_m": 6.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the shot of a man getting electrocuted to a suggestion.",
+        "length_m": 3.99,
+        "length_retained_m": 2.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "During the scene where dead bodies are pushed, reduce prominent shots of dead bodies.",
+        "length_m": 2.62,
+        "length_retained_m": 4.47
+      }
+    ]
+  },
+  {
+    "film_title": "\"Trailer of 'Ek Basti Banjaron Ki' / 'Gypsy Camp'\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sovexportfilm, Pallonji Mansion, Cuffee Parade, Colaba, Bombay-5.",
+    "cert_no": "B/90015",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shots of Radha's bare breasts.",
+        "length_m": 6.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Rahu Ketu\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Not specified",
+    "cert_no": "U-Cert. No. 87505",
+    "cert_date": "24-6-1978",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Scene between Ketu and his soul as Karim Judge, which is a dream sequence where Ketu argues with his soul, has been reduced.",
+        "length_m": 91.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"Anpadh\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Not specified",
+    "cert_no": "U - Cert. No. 89301",
+    "cert_date": "3 - 8 - 1978",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Shots showing Suraya and Astum talking with each other about Suraya's father and mother.",
+        "length_m": 11.58
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Song beginning with the words 'Ghar Ko Aandar Amce Abaa' and ending with the lines 'Hum to balthe Hai Tayar.......Ghar Ke Aandar'.",
+        "length_m": 107.29
+      }
+    ]
+  },
+  {
+    "film_title": "\"Gandharva Kanya\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Surendra Art Pictures, Madras.",
+    "cert_no": "81125",
+    "cert_date": "9-7-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete close-up of Ramani being strangled by Damu.",
+        "length_m": 5.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete close-range visuals of Ramani's breast against Vijay's face in the zoom back shot.",
+        "length_m": 5.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace zoom shot of playing cards for the hand gesture of Rajani against the words 'Anduko Modu muka kaladuko'.",
+        "length_m": 1.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "From the text of song No. 3, delete the words 'Fut, Fut kodithe' (Charanam No. 2 line-5) and 'Khali' from the line 'Maalo Unnadhi khali' (Charanam No. 2 line-6).",
+        "length_m": 6.34
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Replace close-shot of Vijay for visuals of dancer's movements on the floor against the words 'Pagelella Sega paditho'.",
+        "length_m": 1.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "From text of song 5, delete the words 'Salaparinthalo' (Charanam No. 2 line-4).",
+        "length_m": 1.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Replace close-shot of Ramudu for the opening shot showing dancer's hip movements in the Qawali dance.",
+        "length_m": 0.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete group dancers bumping hips against each other in the Qawali dance.",
+        "length_m": 1.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Ramulu struggling to remove spike balls stuck in his chest.",
+        "length_m": 4.13
+      }
+    ]
+  },
+  {
+    "film_title": "\"Bomma Borusce Jeevitham\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sri Sitarama Art Pictures, Madras.",
+    "cert_no": "81134",
+    "cert_date": "19-7-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replace Madhavi & Chandra Mohan close-up for visuals of the dancer's jerking breasts near the table.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the visuals of Vasant at the words 'Voorikine Chuste cmundi...Kasta...'.",
+        "length_m": 5.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the words of Vasant 'Dayyam Ventrukato Samanan: Ma aataata Deyyaniki Kadupu cheşi vadile sady'.",
+        "length_m": 5.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the visuals of daughter and mother's chest shots standing opposite to Vasant with vulgar frontal angle.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the mid-long shots of Vasant with mother and daughter ghosts where their curves are very vulgar.",
+        "length_m": 1.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the words 'Durada' and 'Yama Durada' that occur between Vasant and daughter ghost.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the advancing of the ghosts towards camera.",
+        "length_m": 1.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the shot wherein the ghosts are dressed in tight and revealing clothing.",
+        "length_m": 16.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete similar shot where a ghost is seen to the left of the daughter ghost with vulgar movements.",
+        "length_m": 16.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the 3 shots of ghosts with fire pots on their heads.",
+        "length_m": 16.91
+      }
+    ]
+  },
+  {
+    "film_title": "\"Nocla Kadalin Orathile\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "J.O.N. Fernando, Madras.",
+    "cert_no": "81135",
+    "cert_date": "20-7-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce the scene of the mad girl in drenched clothes coming out of water, with two rowdies accosting her, to a base suggestion.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete a rowdy stroking the leg of the mad girl and lifting up her skirt.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In song 2, delete close-up of Geeta's bust cleavage while near Prabhu.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the words of Rowdy Pavadai 'Illamc vandhal eppadi Irukkum' and also repetition of these words by Meena at the village Panchayat.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete visuals of Meena demonstrating to Gita about Prabhu trying to see reflection of Meena with legs astride, in water.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete all shots of Karayan forcing himself on his wife leading to her death, including shots of the child peeping through the key-hole, Karayan wrapping himself with lungi. Retain only shots of Karayan closing the door after the child goes out, subsequently the child returning and knocking the door, Karayan opening the door and coming out, child looking at dead body of mother and crying for continuity.",
+        "length_m": 10.36
+      }
+    ]
+  },
+  {
+    "film_title": "\"Malligai Mohini\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Pallavi Enterprises, Madras.",
+    "cert_no": "81136",
+    "cert_date": "21-7-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the dialogue of the Dobi and the nurse: 'Enakku eppo promotion kodupenga? Rathird pandirandu manikku mele'.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the opening shots of Bindhu dancing, where her upper thigh is visible through the slits of her gown.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the shot of the nurse getting down from the operation table, revealing her under-sides of thighs in the operation theatre.",
+        "length_m": 1.02
+      }
+    ]
+  }
+]

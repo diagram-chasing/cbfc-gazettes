@@ -1,0 +1,903 @@
+[
+  {
+    "film_title": "Hum Bhi Kuch Kam Nahin",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmlstan Private Limited",
+    "cert_no": "24909",
+    "cert_date": "22-7-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of live coals and heated iron bars",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot where a dagger is thrust in the back of the executioner",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Laugh Parade",
+    "languages": [
+      "English"
+    ],
+    "producer": "Hal Roach",
+    "cert_no": "24930",
+    "cert_date": "25-7-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Shots in which the Officer's wife dances indecently (in night clothes) with Hardy and Laurel and falls on Hardy on the floor in drunken state",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Adivasis",
+    "languages": [
+      "India"
+    ],
+    "producer": "Films Division, Government of India",
+    "cert_no": "24936",
+    "cert_date": "26-7-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots where Adivasi women are shown with uncovered breasts",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Stakeout On Dope Street",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "756",
+    "cert_date": "22-7-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the fight between gangsters and Nick and later on between gangsters and VA",
+        "length_m": 10.668,
+        "length_retained_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Fort Dubha",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros. Pictures Inc.",
+    "cert_no": "757",
+    "cert_date": "24-7-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The following words from the dialogue of Davis to Celia - 'They will take you alive'",
+        "length_m": 0.51816
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Dramatically the scene in which (latt tries to criminaly Shuult, Celia",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The battle scene between the inmates of Fort Dobha and Red Indians",
+        "length_m": 23.9572
+      }
+    ]
+  },
+  {
+    "film_title": "This Angry Age",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Tochnirama",
+    "producer": "Columbia Pictures Corporation",
+    "cert_no": "758",
+    "cert_date": "20-7-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Logros dialogue wherein he requests Suzanne who is bathing inside to let him have a look at her; that she was very beautiful; that there would be nothing wrong in granting the request",
+        "length_m": 10.668
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Suzanne's dialogues wherein she says that he could have opened the door for nothing but she would not do it as he wanted to buy her",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The dialogue -- 'Then you will never have to see me again. Never'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Michael and Suzanne are shown sleeping to other in the bed",
+        "length_m": 22.2504
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots where Suz in 14 rises and kicks the boat and Michael is shown sleeping",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots where Joseph is shown in the drawing room of Claude where he is shown in Pyjama and Claude is in Negligee",
+        "length_m": 11.2776
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Shots where Joseph falls in Claude's lap After his telephoning with Suzanne",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Flash shots where Joseph makes advances to Claude in the Cinema particularly close shots where he touches her fingers and holds her hand",
+        "length_m": 7.3152,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Considerably shots where Suzanne and Michael are shown kissing and passionately making love in the boat",
+        "length_m": 6.096,
+        "length_retained_m": 4.8768
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Considerably shots where Logreg passionately kisses Suzanne in his hotel room",
+        "length_m": 3.6576,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Yuhudi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Savak B. Vacha",
+    "cert_no": "24529",
+    "cert_date": "27-6-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "After the dedication card, a card reading as follows - 'With the co-operation of Shri Brijmohan S. Tapadia'",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Musafir",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Hrishikesh Mukherjee",
+    "cert_no": "20160",
+    "cert_date": "26-4-58",
+    "endorsement": "UA",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From Hotel Boys entry to Ajay bringing Purohit",
+        "length_m": 179.832
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "First romantic scene of Ajay and Shakuntala",
+        "length_m": 115.824
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Conversation between David and Bipin Gupta",
+        "length_m": 18.8976
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Complete song of man 'Ro hari ke gun ga'",
+        "length_m": 111.5584
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Song Ek sA ek jao musafir",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From Hotel Boy's entry to the end of the scene where Bhanu says, 'Ab guno' upto the end of the reel",
+        "length_m": 66.4464
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Complete song 'Munnu hada pyara'",
+        "length_m": 118.872
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "From Nazir's dialogue with Nirupa till Bhanu enters",
+        "length_m": 68.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Song Tothi tethi to the end of the following poona",
+        "length_m": 208.4832
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Balcony scene, From where Vakil gets up to the end of the scene",
+        "length_m": 47.244
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Pagala Babu brings Raja out to Uma and Pagala Babu's scene Haan yad aa gaya",
+        "length_m": 140.208
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Song 'Laagi nahin ohhoote raam'",
+        "length_m": 182.88
+      }
+    ]
+  },
+  {
+    "film_title": "Two Bagatelles",
+    "languages": [
+      "English"
+    ],
+    "format": "Animation",
+    "producer": "National Film Board of Canada",
+    "cert_no": "24629",
+    "cert_date": "26-6-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "This certificate is valid upto 24th June 1958 also for the coloured version of the film",
+        "length_m": 31.392
+      }
+    ]
+  },
+  {
+    "film_title": "Illarame Nellaram",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Narayanan & Co. (Private) Ltd.",
+    "cert_no": "22618-U",
+    "cert_date": "27-6-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "9",
+        "description": "Addition of song No. 6 in Reel No. 9 in Gevacolour",
+        "length_m": 38.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the first portion of the dance by Parvati after the verse she sings and before she runs with the camera",
+        "length_m": 38.1
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Bhi Kuch Kam Nahin",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Filmistan Private Limited",
+    "cert_no": "24966",
+    "cert_date": "31-7-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Salma's dialogue to Alpho Sulpho - 'Muhubat kikeemat das hazar Deonar hal'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots where Udmun is shown robbing people",
+        "length_m": 17.6784
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots where the burning irons are brought near Salma's face",
+        "length_m": 6.096
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Considerably scene where Zubeida is being assaulted by the Vazir Yarkhad",
+        "length_m": 17.5872,
+        "length_retained_m": 17.5872
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIX",
+        "description": "Scene showing the death of Salma and her family and the people paying tribute to her",
+        "length_m": 37.7952
+      }
+    ]
+  },
+  {
+    "film_title": "Cry Terror",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer",
+    "cert_no": "24908",
+    "cert_date": "2-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot in which Steve rips open Jean Miller's dress and pulls it down",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Love In The Afternoon",
+    "languages": [
+      "English"
+    ],
+    "format": "Revised",
+    "producer": "Billy Wilder",
+    "cert_no": "759",
+    "cert_date": "31-7-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Dialogue: '...but certainly more often, They do it any time...any place. On the left bank on the right bank - and in between. They do it by day, and they do it by night... The butcher - the baker - and the friendly undertaker. They do it in motion... they do it sitting absolutely still. Peoples do it - tourists do it. Generals do it, and once in a while even existentialists do it'",
+        "length_m": 41.148
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "'Illicit love'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Chavasse - Two weeks of shameless passion. Ariane - Two glorious weeks! Chavasse - It was terrible scandal",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Ariane - Well, how about the case of the Benedictine Monk who quit his order for the love of a young widow! Chavasse - She only married him because she wanted the secret formula for the liquor",
+        "length_m": 4.8156
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Ariane - And those passionate letters she wrote that bullfighter after he was gored by her husband",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Chavasse - He does very well in London, too... Also in Rome - Vienna - Madrid - here are the Scandinavian countries. There was an episode in Stockholm involving twin winters but why should I bore you with statistics?",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Chavasse - Here is the window of Suite 14 at 11 o'clock - 12 o'clock - 1 o'clock - 2 o'clock - 3 o'clock - 4 o'clock",
+        "length_m": 6.0656
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "'She will meet a very attractive doctor'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Chavasse - 'Because with Mr. Flannagan removed, there will be a sharp drop in my business'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Commissaire - ...and on a night like this, I would say that in approximately 40,000 of those rooms, A similar situation... Now really, Madame, if we were to assign a policewoman to every one of these situations, it would take the Fire Dept., the Sanitation Dept., and possibly the Boy Scouts. And, certainly Madame, we do not want young boys in short pants involved in situation like this",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Ariane - 'Madrid, Rome, the Scandinavian countries'",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Ariane - 'Well, the gentleman with gun offered to introduce you to his wife'. Flannagan - 'You are much more attractive than she is'. Ariane - 'Or you could fly in the Twins from Stockholm'. Flannagan - 'You're much more attractive than both of them put together'",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Chavasse - 'His wife ran away to Paris with the Chauffeur, I have to find them. The husband wants his car back'. Ariane - 'Well it seems only fair'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Ariane - 'Six geisha girls on one suitcase'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Flannagan - 'He who loves and runs away, lives to love another day'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Shots showing 'evil' of Gypsies from suite 14 suggesting that Ariane was left alone with Flannagan in a room",
+        "length_m": 11.5824
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Ariane - 'All sorts of fascinating men'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "'...Gave it to his secretary. The night brought her taking outside dictation... So of course he repossesses it'. Ariane - 'Of course...'",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Ariane - 'Love and run everybody happy nobody gets hurt. works out great all round'",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Flannagan - 'With all that traffic'",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "'...there is something very provocative about an anklet'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "'...He had the cutest dimples - right here'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Flannagan - 'Any dimples on his knee?!' Ariane - 'No, just scars...'",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Flannagan - 'So scars may be?' Ariane - 'No, just a silver plate in his right knee'",
+        "length_m": 4.08432
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "'...in my life'",
+        "length_m": 0.42672
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "'...in my life...'",
+        "length_m": 0.4572
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "'...I took...'",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "'...then suddenly you discover the footprints of a hundred men'",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "'...A hundred men...'",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "'...and in between A little amour. No big production'",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "To flash the hand of Flanagan and Ariane kissing on the divan",
+        "length_m": 4.2672,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "To a flash the scene of Flanagan and Ariane kissing in the boat",
+        "length_m": 0.6096,
+        "length_retained_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "The Bravados",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Twentieth Century Fox Film Corporation",
+    "cert_no": "763",
+    "cert_date": "8-8-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of dragging of one of the escaped convicts behind a horse and his hanging from a tree",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "To the minimum shots and shrieks of Emma suggestive of rape",
+        "length_m": 2.4384,
+        "length_retained_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Violent Playground",
+    "languages": [
+      "English"
+    ],
+    "producer": "Rank Organisation",
+    "cert_no": "702",
+    "cert_date": "7-8-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots of kissing between Melinda and Will when they are lying on the ground",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Chhetak and Rana Partap",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Blue Star Movies",
+    "cert_no": "24990",
+    "cert_date": "7-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Slogans of 'Allah Akbar' and 'Jai Bhavani' raised by the opposing armies of Mughals and Rajputs",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI & XIV",
+        "description": "All shots and dialogues which establish that Amarsingh was a coward and opposed his father in his resistance to Akbar",
+        "length_m": 59.436
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "All shots and dialogues which establish that Rana Pratap made an overture of surrender to Akbar on the ground that he could not face the travail of his family",
+        "length_m": 113.9952
+      }
+    ]
+  },
+  {
+    "film_title": "Naked Earth",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemagcope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "25003",
+    "cert_date": "7-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: '...we weren't married... we had some sort of an arrangement...'",
+        "length_m": 2.4078
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shots in which Maria lifts up her dress and tied it to her waist exposing her thighs to Danny's view",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots in which Maria is lying down and Danny comes and kisses her passionately in close embrace, in tobacco field",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Dialogue: 'It's not yours... it's Harry's'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Dialogue: 'I have enough to buy you and three more wives' said by David to his girl",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots in which the Africans are shown drinking and eating widely, particularly shots in which a mass of raw meat is flourished before the camera and thrown at Danny's face",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue: 'Where - else? With this big business will I go to a dance?' said by Maria pointing out to her abdomen",
+        "length_m": 1.6764
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogue: '...you are young, you have plenty of time for other babies...'",
+        "length_m": 0.4572
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Close views in which Maria's hunt is seen prominently exposed",
+        "length_m": 2.5908
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots in which Maria is seen removing her dress and putting on a night dress",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots in which Maria's thighs and posterior are exposed prominently when she kicks Danny away",
+        "length_m": 3.29184
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "All shots in which Maria is seen with her things exposed prominently while she is sitting on bed and arguing beastly with Danny",
+        "length_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue: 'tasty morsel like yourself' addressed by Danny to Maria",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Dialogue: 'they are black vultures,... every last one of them.... dirty black vultures' Addressed by Danny with reference to the African natives",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots in which the African natives carry two white men (skle traders) flat on their hands above their heads and throw them in roaring waters",
+        "length_m": 13.4112
+      }
+    ]
+  },
+  {
+    "film_title": "Sahara",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Tasviristan",
+    "cert_no": "24975",
+    "cert_date": "5-8-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "All shots and dialogues, wherever occurring, which establish that Panna the child was bought or sold",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX - III",
+        "description": "All shots and dialogues, wherever occurring, which establish that the intention to maim Panna, the child",
+        "length_m": 8.8392
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Considerably shots showing Ravi turning out Indu from the hotel, hanging the door against her and Ashy crying inside Ravi's room",
+        "length_m": 8.8392,
+        "length_retained_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "The following words of Ravi arrowhoul to Ashu in a threatening manner. - 'Khabardar Jo mummy ku naam liye to?'",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots of Ravi covering Ashu forcibly with a bed sheet and putting him to sleep",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Cry Terror",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayor",
+    "cert_no": "701",
+    "cert_date": "5-8-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In the scene in which Steve tries to assault Joan Miller, shots in which Steve pulls her dress down",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Around the scene in which Vinoo and Kelly try to terrorize Joan Miller with a knife",
+        "length_m": 8.5344,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "The Truth About Women",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "British Lion",
+    "cert_no": "702",
+    "cert_date": "5-8-58",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Shots of nude painting in the background of the titles",
+        "length_m": 46.0248
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Sequence where women are sold and bought as slaves",
+        "length_m": 56.0832
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Dialogues suggestive of the fact that Saida was to be sold as a slave",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Entire dance where a dancer is shown in suggestive nudity",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogues which are suggestive or indicative of the fact that married women in France consider it quite in order to have illicit love affairs",
+        "length_m": 23.4696
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Considerably shots of passionate love making, kissing and cuddling wherever occurring in the film",
+        "length_m": 1.03632
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Hulsh shots of passionate cuddling and kissing in: (i) the couch (ii) twice on sofa in the French Lady's room (iii) in the boat with A Huth",
+        "length_m": 15.5424
+      }
+    ]
+  }
+]

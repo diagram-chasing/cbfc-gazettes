@@ -1,0 +1,590 @@
+[
+  {
+    "film_title": "The Girl Ho Left Behind",
+    "languages": [
+      "English"
+    ],
+    "format": "WarnerScope",
+    "cert_no": "21009",
+    "cert_date": "28-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "To delete the shots in which Andy kisses Swan passionately on shore",
+        "length_m": 4.27,
+        "length_retained_m": 0.88
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Girl Ho Left Behind\"",
+    "languages": [
+      "English"
+    ],
+    "format": "WarnerScope",
+    "cert_no": "21010",
+    "cert_date": "25-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "To delete the shot in which Andy kisses Swan passionately on shore",
+        "length_m": 2.13,
+        "length_retained_m": 5.24
+      }
+    ]
+  },
+  {
+    "film_title": "Diwali-Ki-Raat",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "18032",
+    "cert_date": "10-12-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From child Anoop comes to mother to young Balju gives blow to young Anoop",
+        "length_m": 4.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From children at the water tap to young Briju cutting sugar cane",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "From 'Choi hun...' till 'chela throws butt yr to Dady'",
+        "length_m": 43.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "From '...' till parent saying 'Biji'",
+        "length_m": 125.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "RAEL VII",
+        "description": "Saying 'Rujurium anth ma to agu jabhi kar diya' and Anoop's exit",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "RIVIII",
+        "description": "Anoop sleeping and waking",
+        "length_m": 41.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "RIVIII",
+        "description": "Complete scene of 'Govindram' saying 'Lekh laukh maril kya hoga'",
+        "length_m": 49.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "RIVIII",
+        "description": "From Sarabhu saying 'are Briju...' till Brijn saying 'Y anh kahanoklbaten hain'",
+        "length_m": 24.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "RIVIII",
+        "description": "Mother calling to Anoop 'Bota Anoop'",
+        "length_m": 104.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Song",
+        "description": "Song of Laula and Roopa beginning 'Tvotgnya dilab kyn grunn'",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Song",
+        "description": "Lalit coming with Laila, Shrada seeing them are going to RajotAr: Rajaram saying 'Imala ko bar Balshaka bath hal'",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Song",
+        "description": "Dhanmin saying 'Lalit... upto Diwuliyıl kahika'",
+        "length_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Lool waiting by plane Sharada entering and singing 'Jundogi to chilti ruhati hai'",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "'...PL! - d Gobindram Having 'Mrr gaya munimji... to Munshi saying 'Achoh, tahoga'",
+        "length_m": 142.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Complete scene of 'J.J. put Inyimizho'",
+        "length_m": 112.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Anoop putting on the chair and mother saying 'Moroko samazioan nahi ata'... Dady Buying 'Chaluthu...'",
+        "length_m": 24.38
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Dialogue between Dady and Bolla, Dady saying 'Dekho hum sa guyn...'",
+        "length_m": 22.55
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Anoop coming to Pauwels and saying 'Lo bhai ek puukut cigarotto ku dena...khota hai, khota hai, khota hal'",
+        "length_m": 45.42
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "Dady walking on the Road, Armand Briju coming in taxi, clough usangat Dady crying 'Abu haiya uhulti hai....' Dady saying 'Ah, uh bhag gayu'",
+        "length_m": 52.43
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Dady ways to Bella: 'Dukh ise kohta hain mountbut'...chalo nitin tuze ulur chhodte hun'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Bella and Dady in Bola's house. Dady looking to the photos of warrinth and saying 'Prithviraj chohan...aur main to Tady hoon hi ha la'",
+        "length_m": 53.95
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Bella hits Dady on his fort and Dady Culls down montaturt9 'Chhad olulo olhod do ju nakhuratnji oh do du... Dady und Belln hermotor sound and look down from the balcony. Bella's mother Log out of the car and alamuts to her husband 'Turnk kitnilukhut bola lushund hulub......abo bloot ku baolohe inul kahata hun ukul bahor nikal - complete scene with song and dialoguing'",
+        "length_m": 303.07
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Mother comes and gives Tulwur and Dhul to her husband saying 'Yo loji'. Mother saying to Bule 'Tum udliur Whoot ke sath Kh1gb ruho Aur lum idlo s ; Hal I .hwar kitna karim kiya haipo'",
+        "length_m": 42.67
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel X",
+        "description": "Anoop comes to Dady's house and asks 'Aro Rams tumharan soth kalia hu'... Mohubatmon kalibi aiul lhi halat payam jati Jij uur gali khai jati hel'",
+        "length_m": 67.06
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Anoop is hitting in his room when Bibarilul enters and says 'Anoop'... Dah Bharllalji mero anoso kabin loola ke klgalon men halohal na machjai laliyo main bedimon wherlk nahi hungu lokin morl doosen uke month han'... Bihari gaye Anoop and goed",
+        "length_m": 26.21
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Bela's father and mother watching the marriage of Boli with Dudy and mother saying 'Oh tum ku k ye hogyu'...Jam sorry. With the game loone bony starts 'Mogam naya en gaya leker (Luna nago, kehti lui ym bn khudigulo tarane LAVA'",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "From the song 'Chłod ohhod do...' sung by Dady and icla, delete the line 'Aaihasinna aataa lui inujhko puxins' wherever it occurs and also the shots in which Bola and Dady are sitting in 'All Amorous' pose",
+        "length_m": 26.82
+      }
+    ]
+  },
+  {
+    "film_title": "Anjali",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20778",
+    "cert_date": "29-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 12",
+        "description": "Ending shot of Anand lying everywhere",
+        "length_m": 54.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 13",
+        "description": "Shot measuring 180 ft. has been deleted (This has been added to now reel No. 10)",
+        "length_m": 54.86
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 14",
+        "description": "Shot of Madhavi watching Arundhati",
+        "length_m": 12.19
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Changed to reel 10",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Girl Ho Left Behind",
+    "languages": [
+      "English"
+    ],
+    "format": "WarnerScope",
+    "cert_no": "21009",
+    "cert_date": "28-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "To delete the shots in which Andy kisses Swan passionately on shore",
+        "length_m": 4.27,
+        "length_retained_m": 0.88
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Girl Ho Left Behind\"",
+    "languages": [
+      "English"
+    ],
+    "format": "WarnerScope",
+    "cert_no": "21010",
+    "cert_date": "25-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "To delete the shot in which Andy kisses Swan passionately on shore",
+        "length_m": 2.13,
+        "length_retained_m": 5.24
+      }
+    ]
+  },
+  {
+    "film_title": "Sinbad The Sailor",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20851",
+    "cert_date": "27-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Tablet saying that some of the dancers and costumes of some of the women have no relation to the period of Harun Al-Rashid",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete big snake falling on Sinbad",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete row of girls inviting Sinbad up the stairs and asking him to go in, describing their motives (only one girl to say he is invited)",
+        "length_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (9)",
+        "description": "Delete Sinbad whistling at Hina",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (6)",
+        "description": "Delete Sinbad peeping through port-holes and whistling, when Zuleikha is about to change her clothes",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "When Bhagwan asks 'Ayo kya ho raha hai?' delete man saying 'oon' and Bhagwan saying 'oon'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete chorus of 'husu mazadar' throughout, keep only 'huen muzodar' in solo, four times, that is at the end of each of the four solo lines",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Delete 'Bazaar ki ladki'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete Kamruddin's reference to 'muasena karno gaye hain' etc.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete shots of Sinbad hanging upside down on wheel only when flames are falling on his face, and girl is making love to him",
+        "length_m": 25.6
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 11",
+        "description": "Fighting scene",
+        "length_m": 121.92
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Sinbad The Sailor\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "20856",
+    "cert_date": "27-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot in which a large snake is hanging from a tree and charges towards Zimbo and the girl",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "The Green Man",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21033",
+    "cert_date": "29-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined words from Hawkin's speech: '...my abominable head master. Really I only did was to place an electric charge in his fountain pen, and an explosive in his ink-pot. But I honestly intended to humiliate him.'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "'Everyone blamed the referee'",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Green Man\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21034",
+    "cert_date": "20-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined words from the following sentence in the commentary: 'Jill Adams offers to help and has a lot to offer'",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Lizzy",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21035",
+    "cert_date": "29-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Considerably weaken in which Elizabeth lies on Robin and they are kissing passionately",
+        "length_m": 0.88,
+        "length_retained_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "The Green Man",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21033",
+    "cert_date": "29-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined words from Hawkin's speech: '...my abominable head master. Really I only did was to place an electric charge in his fountain pen, and an explosive in his ink-pot. But I honestly intended to humiliate him.'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "description": "'Everyone blamed the referee'",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Green Man\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21034",
+    "cert_date": "20-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined words from the following sentence in the commentary: 'Jill Adams offers to help and has a lot to offer'",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Lizzy",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21035",
+    "cert_date": "29-7-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Considerably weaken in which Elizabeth lies on Robin and they are kissing passionately",
+        "length_m": 0.88,
+        "length_retained_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "Teaser Trailer of \"Zimbo\"",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "Colour",
+    "cert_no": "21062",
+    "cert_date": "1-8-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "To delete the shots in which a large snake is hanging from a tree and charges towards Zimbo and the girl",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Dushman",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "21063",
+    "cert_date": "1-8-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "Shot showing Karodimal chasing a girl selling plantains",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "R IV",
+        "description": "Shot of Police Officer Mehta going up the staircase in Sheela's house where Ramsingh is hiding, and coming down after depositing the blanket in the trunk without being aware of Ramsingh's presence there",
+        "length_m": 35.97
+      }
+    ]
+  },
+  {
+    "film_title": "Island In The Sun",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "cert_no": "632",
+    "cert_date": "3-8-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The following portions from Euan's conversation to Jocelyn: '...to Allah. (1244, Allah, I'd pay'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "description": "'Thank you, Allah'",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Lizzy",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "21078",
+    "cert_date": "3-8-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Considerably shots of Elizabeth's mother lying on the beach with her lover, murmuring and kissing passionately",
+        "length_m": 9.65,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerably scene in which Elizabeth lies on Robin and they are kissing passionately",
+        "length_m": 13.32,
+        "length_retained_m": 5.38
+      }
+    ]
+  },
+  {
+    "film_title": "Admirable Crichton",
+    "languages": [
+      "English"
+    ],
+    "format": "Colour",
+    "cert_no": "20902",
+    "cert_date": "6-7-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Love scenes in the pond between Crichton and Lady Mary after they kiss each other",
+        "length_m": 2.93
+      }
+    ]
+  }
+]

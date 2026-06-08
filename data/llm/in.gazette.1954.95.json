@@ -1,0 +1,231 @@
+[
+  {
+    "film_title": "With Triangle Mark",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Murari Pictures",
+    "cert_no": "570",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Reduce considerably the whipping of Damri by the Zamindar, avoiding close-ups and showing fewer strokes.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Omit the last two lines of song No. 6: 'Tere Charanam Men' and 'Mori Jawani Balihar'.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Gora Kumbhar",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Chhaya Films",
+    "cert_no": "578",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Omit part of the scene where Gora Kumbhar is shown pounding potter's clay with his feet, specifically the part allowing death.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Flying Man",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Roshan Pictures",
+    "cert_no": "578",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "part No. 4",
+        "description": "Delete the sentence '(In Jail) Nahi to Devdasi banana hoga.'",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "part No. 5",
+        "description": "Delete the sentence '(In Mandir) Same as above.'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "part No. 7",
+        "description": "Delete '(In Chamber) Devadasi.'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "part No. 8",
+        "description": "Delete the sentence '(In Jungle) Ke Mere Admi Tumhr Uthale Janeki Koshish Karcnge.'",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Abiduh",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Hind Pictures",
+    "cert_no": "604",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "Omit the shot showing Maratha guard offering Hindu girls to Muslim rulers.",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "The Chimp",
+    "languages": [
+      "English"
+    ],
+    "producer": "Garware Motors Ltd.",
+    "cert_no": "606",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 13",
+        "description": "Cut the following lines from the song sung by the professional dancing girl: 'Looti aur Lutai Jawani'.",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Bant Dnyanoshwar",
+    "languages": [
+      "Hindi",
+      "Marathi"
+    ],
+    "producer": "Prabhat Film Co. Ltd.",
+    "cert_no": "618",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "long 8",
+        "description": "Omit the two lines beginning with the words 'Apna is Arad Vatan Men'.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Prem Sangeet",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shalimar Pictures",
+    "cert_no": "620",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "long 8",
+        "description": "Omit the two lines beginning with the words 'Apna is Arad Vatan Men'.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Nishani",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shorey Pictures, Lahore",
+    "cert_no": "621",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Delete the scene of Indra's room where the song and picture of Krishna occur together, from the point the close-up of the picture appears up to the point Indra turns from the picture and moves towards her husband.",
+        "length_m": 20.32
+      }
+    ]
+  },
+  {
+    "film_title": "Sanjeevini or Kacha Devayani",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Radhia Films Co.",
+    "cert_no": "1089-U (Dup-27B)",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Portion where ladies going for a bath expose their legs from the thighs.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Harischandra",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Saraswathi Cine Film Laboratory, Ltd.",
+    "cert_no": "1074-U (Dup-27B)",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Omit the line 'It, it also my fate to go into the Cheri and undergo prayaachitham'.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Palnati Yuddham",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sroo Sarada Productions",
+    "cert_no": "1075-U (Dup-27B)",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Omit the costume of the Koya Pilla from her appearing before villagers up to her being brought to Brahmana Naidu.",
+        "length_m": 83.5152
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Rama Brahma Nirvanam",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sreo Sarada productions",
+    "cert_no": "1076-U (Dup-27B)",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "N/A",
+        "description": "Omit the close-ups of the dead body.",
+        "length_m": 4.8768
+      }
+    ]
+  }
+]

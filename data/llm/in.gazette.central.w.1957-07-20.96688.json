@@ -1,0 +1,690 @@
+[
+  {
+    "film_title": "Regards Sur le Monde Journal No. 1",
+    "languages": [
+      "French"
+    ],
+    "producer": "French Government, French Embassy",
+    "cert_no": "20361",
+    "cert_date": "13-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'Agacyl'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the mention 'Ler tunku ruARE dovliont ecraner dans le sang'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'Des milliers'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Woman of Pitnatrn Island",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd.",
+    "cert_no": "20362",
+    "cert_date": "13-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Repl VII",
+        "description": "Shots in which Charles drags the dead body of Coggia",
+        "length_m": 3.048
+      },
+      {
+        "kind": "replacement",
+        "reel": "Repl VII",
+        "description": "Shots of Hutin (Sound only) suggesting that he is being criminally assaulted by the out-throats in the hut",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Roel II",
+        "description": "To a flowerbots in which Ongging is attacked and killed by the wild Boar",
+        "length_m": 2.4384,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Shyam Ki Jogan",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "K. Baxi, K. B. FilmA, 2G, Naaz Cinema Bldg., Bombay-4",
+    "cert_no": "20363",
+    "cert_date": "13-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Sequence where Lakshmi and Vishnu are shown in heaven; Vishnu descends from Heaven to earth and gets transformed into a human being called Bahropla Gopal",
+        "length_m": 21.6408
+      },
+      {
+        "kind": "reduction",
+        "reel": "Roel 18",
+        "description": "To a flash where Gopal is strangulated",
+        "length_m": 22.5552
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Man With The Golden Arm\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "20364",
+    "cert_date": "14-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot where Molly lies on top of the man to keep him warm",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The Man With The Golden Arm",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "20365",
+    "cert_date": "14-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of strip-tease dancing wherever occurring",
+        "length_m": 33.8328
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Ti",
+        "description": "Shots of Molly suggestive of nudity when undressing behind Brixen",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XIII",
+        "description": "Shots where Milly lies on top of the man to keep him warm",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Aawaiya (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "R. B. Production, Mohan Studios, Andheri, Bombay",
+    "cert_no": "20366",
+    "cert_date": "14-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red 1",
+        "description": "The word: \"Radha\"",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel V",
+        "description": "The following dialogue of the Seth addressed to the dancing girl - \"81rafgano biganu par paohous hazaar roopaya khanch kar ohuka hun\", and Chanda's dialogue \"Tujho kuch kar kar khana hoga\"",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel VII & PIII",
+        "description": "Shot of killing by Klaban",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Sheroo",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "S. P. Pictures, 205, Famous Cine Bldg, Mahalaxmi, Bombay",
+    "cert_no": "20391",
+    "cert_date": "16-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Doctor's dialogue indecently referring to a wife's duties towards her husband",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Jabru's dialogue, Sarkari mujram ko goli bhimara jata hai",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots of a Bania falling from the cliff in dread of Sheroo",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X1",
+        "description": "Dialogue of Doctor's wife indecently referring to child birth",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Sequence where 'bahirupia Sheroo approaches to the bridgegroom and minhandles him after he closes the door at exit of Doctor's wife",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots where Sheroo threatens Pandit to complete marriage by levelling a gun at him",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Entire sequence where Chaudhari faces Inspector the bridgegroom with gun declares acquiescence in marriage and defends Shero",
+        "length_m": 35.3568
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "The following dialogue of Chaudhari's daughter 'Is se keh dena ke ma baap ke dushman se badla le'",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Sequence where an infant is held up and is being threatened to be shot",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Sequence where Sheroo is tied to a tree, is beaten up and threatened with mutilation by Jabroo",
+        "length_m": 12.8016
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Shots where Jabroo kicks Sheroo after untying him and brutally beats him up",
+        "length_m": 20.7264
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II, III, IX, X, XII",
+        "description": "All references to Rajputs by Jabroo and Sheroo",
+        "length_m": 12.0396
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "A closeup of Sheroo, establishing that his motive in escaping from prison was that of bringing to book the real culprit and that he would surrender himself to the authorities immediately after achieving his objective",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel VIII",
+        "description": "A shot establishing that the 'Bania did not die when threatened by Sheroo and that he would leave the village'",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Man With The Gun\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd.",
+    "cert_no": "20399",
+    "cert_date": "18-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot where a man is hurt by a bullet and is dragged by a horse as he falls from the saddle",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots where men receive direct bullet hits and stagger to the ground dead",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "The Lonely Man",
+    "languages": [
+      "English"
+    ],
+    "format": "Vista vision",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "519",
+    "cert_date": "13-5-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Red VI a VII",
+        "description": "Considerably the scenes of fight between Bro and Riley, particularly deleting hard hits in near-close-ups",
+        "length_m": 6.096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Roel II",
+        "description": "Considerably the scene of last fight of Jacob and Kingfishon",
+        "length_m": 13.4112
+      }
+    ]
+  },
+  {
+    "film_title": "Zarak",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour, 35 mm",
+    "producer": "Columbia Films of India Ltd.",
+    "cert_no": "014",
+    "cert_date": "13-4-57",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Rool I",
+        "description": "Forward 'Zarak's turbulent life as an outlaw begins, when his father, Haji Khan, senses the growing romantic relationship between Zurak and Salma, a rival girl. Afraid of the disaster a marriage of this nature would involve, Haji warns Zurak to stay away from Salma who is also his protegee.'",
+        "length_m": 12.192
+      }
+    ]
+  },
+  {
+    "film_title": "Mughal-e-Azam",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Hrishikesh Mukherjee, Mohan Studios, Kurla Road, Andheri, Bombay 41",
+    "cert_no": "20180",
+    "cert_date": "28-4-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Roel XVI",
+        "description": "A silent shot of a hand and a flower when Usha discovers Dilip dead",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Jagte Raho",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "R. K. Films, Chembur, Bombay 38",
+    "cert_no": "17679",
+    "cert_date": "8-9-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Scene showing Maharaj and Shrghaul discussing... upto Reel No. 7",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Motilal hullah, Complete sequence",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VII",
+        "description": "Motilal's house, complete sequence",
+        "length_m": 22.5552
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VIII",
+        "description": "Fight between two fat men for the drum",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "Screaming of a resident girl upto where the alleged thief is climbing the pipe, Scene where the drunkard comes to the volunteers, The conversation between the Surdona",
+        "length_m": 9.69216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Real XI",
+        "description": "Conversation between Doctor and Mudan",
+        "length_m": 26.5176
+      }
+    ]
+  },
+  {
+    "film_title": "Heer",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35 mm",
+    "producer": "M/s. Ami: Pictures, Lltore, Pakistan",
+    "cert_no": "19988",
+    "cert_date": "3-4-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Roel No. 2",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "1992",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "R 60",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "97",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "0",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 5.7304
+      },
+      {
+        "kind": "deletion",
+        "reel": "144227",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 7.0104
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Miscellaneous shots, mid-shots, long-shots, close-mid shots, daily",
+        "length_m": 6.9996
+      }
+    ]
+  },
+  {
+    "film_title": "Humooda",
+    "languages": [
+      "Urdu"
+    ],
+    "format": "35 mm",
+    "producer": "R. E. Merchant, Ram Mannion, Napean Sea Road, Bombay",
+    "cert_no": "20013",
+    "cert_date": "20-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Areel X",
+        "description": "The following lines from Song No. 6 (a) 'Tora ROODO be lo taron bhara onohal dhalke bum yo samjhe unromahAl kol pagar ohhalk' (b) 'Bhari hai jiomen mantiyiln - tora bailun vo jam hal' (c) 'Humuo dekha hai ki jib lo guyn matlab pura ya awhu ankh jhapakto hi utar jata hai'",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Roel x",
+        "description": "The shot where Hanif kills his wife",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rre 11",
+        "description": "The shot where Mutin brings his free near Hamnoda suggesting a kiss",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The following lines from Song No. 6 (a) 'Bo pai jhum gAYA IH 124 hht dokhr bujh ko her trumf ok naxha chhnya bai halka holku' (b) 'Muft inen hum pe bhulu Pyar klyo ati hai jo bhi ambik hui yu nahin rang jana jata hai'",
+        "length_m": 14.6304
+      }
+    ]
+  },
+  {
+    "film_title": "Shrimatiji",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Filmistan Private Ltd., Port Box No. 247, Bombay",
+    "cert_no": "20464",
+    "cert_date": "23-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel Nu. I",
+        "description": "Irlete the word 'Dalla' and 'Dalla-u-alam'",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Ielete the portion with the words 'Sırf ek var aur ,muza unya' nuconjuanded by the sound of the girl's mild groan",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "In the swimming HoonH delete the portion showing Rajuk picking up Ludim from the riverbank and taking her under water",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Word 'Dallo Mlan'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red Ethibition",
+        "description": "Exhibition of the breast of the first girl in the dance with the song 'Jalanowblo' except the minimum required for continuity",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Elpowlaglag",
+        "description": "Elbowlaglag by Moti in the first dance",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel P",
+        "description": "The whole of the second song with the refrain, 'Nagud Naruinji and the dance of the Pathan'",
+        "length_m": 117.348
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The following portion from song No. 3: 'Yeh sal kehte hain niinch yamul nahin manila Yeh to aliyon Ad Akhiyan ladanu mangtu Yeh to meto dil ke bangla mon and manyta Itiny dll main kahau go lacon - kaise sal no neln milaoon'",
+        "length_m": 19.812
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Carnation of first and fore-arm by three members in the front row of the audience when the girls are performing on the stage. The men are dressed in kurta and Lucknow-caps",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The following warning in song No. 4 (1) 'Latak mo ule jalne kole hørl chhoal ke' (2) 'Hal yanym garam lshq ko darum darum kundiya whiqon kislaan ko khatam khatain kurdiya' (3) 'Dheochun dheevhun karko roto huin' in the passage beginning with the words 'Aakhri manzil mon'",
+        "length_m": 33.8328
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Words 'Faath lagte hi solum Hagoya'",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "The whole of Song No. 8 beginning with the words 'Nain mlolo'",
+        "length_m": 276.7584
+      },
+      {
+        "kind": "deletion",
+        "reel": "keel XI",
+        "description": "The bathing scene and the romantic scene in the pond",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "The scene in which Nasir Khan meets Shyama with very tight sweater in the Army Office",
+        "length_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Awaara",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "RK, Films, Chembur, Bombay",
+    "cert_no": "20466",
+    "cert_date": "24-6-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 9",
+        "description": "Delete Raj, dialogue - 'Migloom Hota Iai Judga Sab ko Uppor ki Aamduni Babut Hui Hui'",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 12",
+        "description": "Reduce to the minimum the scene in which skeletons, hands and horrible figures are shown in the dream sequence",
+        "length_m": 11.8872
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "Driple the following line from song No. 'Dubke To Golrai Mun - Debu Kitna Panni H2/'",
+        "length_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 17",
+        "description": "Dripletionally reduce the fight between Jingga and Raj, Pete horrifying shot of Jag a r floo before he died",
+        "length_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Putylhan",
+    "languages": [
+      "Punjab"
+    ],
+    "format": "35 mm",
+    "producer": "Movie Gallery, Krishna Cinema Bldg, Tribhuvan Road, Bombay 1",
+    "cert_no": "20662",
+    "cert_date": "24-5-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Repl VI",
+        "description": "The sequence where Darly fires a man in 1114 gang to wipt olo s posture, 18ks with rpm ton tr> strils with a shiu fun r414 od postarinr",
+        "length_m": 34.7472
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The sequence where Babu reads Shilaznillo Intl aloud",
+        "length_m": 10.3632
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Ducu dialogue where Let muy + that hi wunity to 17 YIHIVA ] Plation with hour before marriage",
+        "length_m": 12.192
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rod FIP",
+        "description": "Considerably the frequency where Shubazndi is shown drunk",
+        "length_m": 85.344
+      }
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "film_title": "Khel Kismat Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "SK Lula, Diamond Palace, IDID Bilt, Bombay-400050",
+    "cert_no": "B/82750",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce the violence",
+        "length_m": 10.5,
+        "length_retained_m": 89.93
+      }
+    ]
+  },
+  {
+    "film_title": "Kissa Kursee Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Shri Amrit Nahta, 5 F, Naaz Buildings, Lemington Road, Bombay-400004",
+    "cert_no": "B/82454",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following words from the introductory speech of the producer: \"Aur baad me jala dala gaya\"",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Ruby's dialogue, delete references to undressing and reduce to a suggestion her actual undressing in front of the President together with his vulgar reaction and indecent gestures",
+        "length_m": 13.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the visuals of Natraj statue (zoom-close shots) trying to purposely catch the attention of the audience, inter-cut with the President's speech in order to avoid the identity of the country"
+      }
+    ]
+  },
+  {
+    "film_title": "Norman... Is That You?",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Widescreen",
+    "producer": "George Schlatter, Mayer India Ltd.",
+    "cert_no": "B/82089",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from Ben's dialogue: \"Your mother and my brother are at the moment cohabitating in a hotel in Mexico...\"",
+        "length_m": 0.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the vulgar words used by Ben while talking to his brother on phone",
+        "length_m": 2.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the vulgar words used by Ben while talking to his brother on phone",
+        "length_m": 1.42
+      }
+    ]
+  },
+  {
+    "film_title": "Parvarish",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/82241",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II, XVIII",
+        "description": "Deletion of various shots approved"
+      }
+    ]
+  },
+  {
+    "film_title": "PAHELI",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "B/82999",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue by Nanu Aasan: \"Rathri Kaalangalil Nee Onnu Kannadachal Aoganoyum Kurachu Kaasu Undaakalam\"",
+        "length_m": 2.28
+      }
+    ]
+  },
+  {
+    "film_title": "MUMTAZ",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "B/82912",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue 'Guine chaar ane baine be' as spoken by Tido, in a suggestive manner",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Innale Innu",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "producer": "Evershine Enterprises, Madras",
+    "cert_no": "M-10932",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the scene of Chandran molesting Radha to a flash",
+        "length_retained_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following dialogue by Nanu Aasan: \"Rathri Kanlangalil Noe Onnu Kannadachal Anganeyum Kurachu Kaasu Undaakalam\" (Sound only)"
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the fighting sequence, by deleting the shots of rowdies whipping the others with their belts, and Rajan's neck being pressed with his two crutches"
+      }
+    ]
+  },
+  {
+    "film_title": "Indra Dhanusgu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "producer": "Shri Nannapaneni Sudhakar, Madras",
+    "cert_no": "M-10922",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the fight between Pratap and Nagesh, by deleting direct hits & brutal punches",
+        "length_retained_m": 22.25
+      }
+    ]
+  }
+]

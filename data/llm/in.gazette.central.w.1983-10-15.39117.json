@@ -1,0 +1,173 @@
+[
+  {
+    "film_title": "परछाई",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "ओम नारायण तोमर, मोती फिल्म्स सी / 54 जीत नगर वर्सावा, अंधेरी (प० ) अंबई-61",
+    "cert_no": "91992",
+    "cert_date": "29-2-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete all the compromising and suggestive posts of indecent gestures of the dancers during the spider web dance.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Entirely delete the intimate sequence during the dream sequence. Also delete the subsequent shots of Anil and Bindo in bed suggestive of nudity, except for where it is absolutely necessary for the continuity. Delete all nude and seminude shots of Bindu along with the dialogues about bed scenes and about her nudity.",
+        "length_m": 84.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the suggestive shots showing vulgar movements of the dancer from the cabaret dance sequence.",
+        "length_m": 28.0
+      }
+    ]
+  },
+  {
+    "film_title": "गरम खून",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "तेजनाथ जार, जार'स इंटरनेशनल श्री साउद स्टूडियो, दादर, बंबई- 12",
+    "cert_no": "91993",
+    "cert_date": "29-2-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The sequence of Johny with the girl in bed may be reduced and the suggestive shots where Johny opens her bra from the back may be deleted.",
+        "length_m": 70.0,
+        "length_retained_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In the cabaret sequence delete the suggestive shots of Helen where she executes bumps by her hips and breasts movements.",
+        "length_m": 22.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Replace Helen's suggestive shots in the cabaret sequence with approved shots.",
+        "length_m": 6.77
+      }
+    ]
+  },
+  {
+    "film_title": "Camouflage",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "फिल्म फाइनेन्म कार्पोरेशन",
+    "cert_no": "4612",
+    "cert_date": "27-2-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the portion of the shot in which the Assistant Professor and English girl are seen in bed where he touches her bare breast and tries to kiss it.",
+        "length_m": 5.67
+      }
+    ]
+  },
+  {
+    "film_title": "Saboot",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "राज बागोजा, भारत पिक्चर्स (मद्रास) 105 फेमस स्टूडियो, दादर, बंबई- 12",
+    "cert_no": "4614",
+    "cert_date": "29-3-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the views of exposure of Rita, while she is taking bath in a tub, and raising her legs up.",
+        "length_m": 11.34
+      }
+    ]
+  },
+  {
+    "film_title": "मीरा",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Reduce sequence of whipping of Radha by Sekhar.",
+        "length_m": 35.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Reduce sequence of whipping of Sekhar by Radha.",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce sequence of whipping of Radha by Sekhar.",
+        "length_m": 97.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce sequence of whipping of Sekhar by Radha.",
+        "length_m": 21.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Reduce sequence of whipping of Radha by Sekhar.",
+        "length_m": 50.29
+      }
+    ]
+  },
+  {
+    "film_title": "ईतू संसार",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "मेसर्स शिकनी, 21ए बिप्लषी रास बिहारी बोस रोड, कलकत्ता",
+    "cert_no": "090718",
+    "cert_date": "25-2-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce sequence of whipping of Radha by Sekhar.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce sequence of whipping of Sekhar by Radha.",
+        "length_m": 9.14
+      }
+    ]
+  }
+]

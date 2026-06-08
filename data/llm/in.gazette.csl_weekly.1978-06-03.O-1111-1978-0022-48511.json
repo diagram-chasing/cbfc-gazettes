@@ -1,0 +1,575 @@
+[
+  {
+    "film_title": "Tailor of Do Dil Wale",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Lion Films Corporation, 60, Hari Market, 3rd Floor, Khar, Bombay-52.",
+    "cert_no": "85755",
+    "cert_date": "19-9-1977",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "B /82331",
+        "description": "Delete the exposure in bath-tub of a girl",
+        "length_m": 1.6
+      }
+    ]
+  },
+  {
+    "film_title": "Maha Badmaa-h",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Movie Temple, 312, Famous Cine Lab Studios, 20E. Moses Rd., Bombay-11.",
+    "cert_no": "85757",
+    "cert_date": "19-9-77",
+    "endorsement": "U",
+    "original_length_m": 3818.23,
+    "length_deleted_m": 36.16,
+    "final_length_m": 3795.22,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I, II, (a)",
+        "description": "Reduce the fight between Rattan and gangsters in the garage by deleting gruesome and hard-hitting visuals",
+        "length_m": 7.47,
+        "length_retained_m": 14.78
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV. (b)",
+        "description": "Reduce the low angle shot of Pinky during her song when the camera is focussed on her breast",
+        "length_m": 2.89,
+        "length_retained_m": 2.59
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII.",
+        "description": "Delete the suggestion of Mike kissing on the breast of Rita, in the fountain scene",
+        "length_m": 1.42
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII.",
+        "description": "In the song sequence of Rita, delete her prominent visuals with projected breasts",
+        "length_m": 8.84
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII.",
+        "description": "Delete the references to some weapons which are to be manufactured with the secret formula perfected by the Indian Scientists",
+        "length_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV.",
+        "description": "Reduce the group fight, by deleting the gruesome and hard hitting visuals",
+        "length_m": 7.01,
+        "length_retained_m": 20.42
+      }
+    ]
+  },
+  {
+    "film_title": "Do Chehorc",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Ratan Kumar, 121/23, Dadasaheb Phalke Rd., Dadar, Bombay-14.",
+    "cert_no": "85766",
+    "cert_date": "20-9-77",
+    "endorsement": "U",
+    "original_length_m": 3785.73,
+    "length_deleted_m": 76.61,
+    "final_length_m": 3749.95,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "VII.",
+        "description": "From the picturisation of the song beginning with the words 'Mere chaila bhanwar apgoori', delete the vulgar and indecent postures of the dancer",
+        "length_m": 38.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII.",
+        "description": "Delete the view of Ramesh kissing on the bare thigh of Jayashree",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII.",
+        "description": "Reduce to a suggestion the molestation of Mohini, particularly deleting all indecent visuals",
+        "length_m": 5.7,
+        "length_retained_m": 6.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV.",
+        "description": "Delete the view of Ramesh kissing on the bare thigh of Jayashree",
+        "length_m": 3.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "V.",
+        "description": "Delete the intimate love shots between Jayashree and Ramesh before he goes after the ghost or Rani",
+        "length_m": 2.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII.",
+        "description": "Reduce the fight between the goondas, Raj and Rani by deleting the hard hitting shots and other gruesome visuals",
+        "length_m": 4.27,
+        "length_retained_m": 48.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI.",
+        "description": "Reduce the fight between Ramesh, goondas and others, by deleting all gruesome and hard hitting shots",
+        "length_m": 11.58,
+        "length_retained_m": 32.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI.",
+        "description": "Reduce to a suggestion the dying of Padma with a dagger stuck on her stomach",
+        "length_m": 6.04,
+        "length_retained_m": 11.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Wilby Conspiracy\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "85774",
+    "cert_date": "23-9-77",
+    "endorsement": "U",
+    "original_length_m": 2596.59,
+    "length_deleted_m": 7.02,
+    "final_length_m": 2587.02,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of Shack hitting a Policeman",
+        "length_m": 2.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the close shot of hand-cuff being cut with a mechanically operated saw",
+        "length_m": 1.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI.",
+        "description": "Delete the kicking of Keogh by a Policeman",
+        "length_m": 1.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "II.",
+        "description": "Delete the shooting of a black man",
+        "length_m": 1.16
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Super cops\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "85814",
+    "cert_date": "23-9-77",
+    "endorsement": "U",
+    "original_length_m": 2596.59,
+    "length_deleted_m": 9.57,
+    "final_length_m": 2587.02,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the indecorous actions particularly forward thrusts of belly-dancer",
+        "length_m": 5.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (a)",
+        "description": "Delete the words 'mother fucker' spoken by a man to Greenberg in the car",
+        "length_m": 1.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the words 'fuck off', as spoken by a lady to Greenberg",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (c)",
+        "description": "Delete the word 'prick' in the sentence 'I'll be hanged from the Empire State Building by my prick', as spoken by the Police Commissioner",
+        "length_m": 0.86
+      }
+    ]
+  },
+  {
+    "film_title": "Thaayigintha Devarila",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Smt. Laxmi Vajramuni, Bangalore.",
+    "cert_no": "79570",
+    "cert_date": "20-9-77",
+    "endorsement": "U",
+    "original_length_m": 3944.9,
+    "length_deleted_m": 22.85,
+    "final_length_m": 3922.76,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduce to a flash, foam coming from the mouth of the Zamindar bitten by a snake",
+        "length_m": 1.44,
+        "length_retained_m": 1.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete close-up of cleavage of Lakshmi's bust while she is bathing in the river",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Gimki pressing her busts against stone in the water",
+        "length_m": 1.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce Eswar Babu whipping Savitri, retaining only two shots",
+        "length_m": 0.78,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete close-up of Gimki's bust during her struggle with Lakshmi",
+        "length_m": 1.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "10 (i)",
+        "description": "Delete suggestive kissing between Chandram and Lakshmi in the dream sequence - Occuring twice",
+        "length_m": 0.43
+      },
+      {
+        "kind": "replacement",
+        "reel": "10 (i)",
+        "description": "Replace suggestive kissing between Chandram and Lakshmi with wipe",
+        "length_m": 0.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "10 (ii)",
+        "description": "Reduce the fight between Chandram and the smugglers to bare minimum, and delete all direct hits, kicks and twisting of neck",
+        "length_m": 4.03,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the dance by Jayakumari, delete the first appearance of the dancer in scanty clothes revealing prominently her bare thighs",
+        "length_m": 2.87
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the dance by Jayakumari, delete repetition of similar shots showing bare thighs of the dancer",
+        "length_m": 4.27
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the dance by Jayakumari, delete dancer holding liquor in glasses",
+        "length_m": 5.01
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the dance by Jayakumari, delete dancer sitting on Chandram's lap - hitting him with her posterior",
+        "length_m": 2.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the dance by Jayakumari, delete dancer offering drink to Chandram",
+        "length_m": 4.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce to a flash, the into cut shots showing assault on Lakshmi by Seshu",
+        "length_m": 3.55,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "14 (i)",
+        "description": "Reduce the fight between Chandram and the smugglers to bare minimum and delete all shots showing twisting of neck with intertwined legs",
+        "length_m": 1.13,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "14 (ii)",
+        "description": "Reduce Nagayya slapping Seshu to twice only",
+        "length_m": 0.97,
+        "length_retained_m": 0.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "14 (iii)",
+        "description": "Reduce to bare flash, Singamma assaulting Lakshmi",
+        "length_m": 0.21,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "14 & 15",
+        "description": "Reduce the fight between Chandram and Eswar Babu to a flash only and delete all direct hits and kicks",
+        "length_m": 1.08,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduce the fight between the Forest officer Chandram and the smugglers to mere flash and delete direct hits and kicks. The sequence should end when Lakshmi is taken in a jeep by Eswar Babu and all subsequent inter-cuts of fights should be deleted completely",
+        "length_m": 3.02,
+        "length_retained_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Annadaramula Sapadham",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Kanakalakshmi Art Pictures, Madras.",
+    "cert_no": "79575",
+    "cert_date": "23-9-77",
+    "endorsement": "U",
+    "original_length_m": 4115.49,
+    "length_deleted_m": 22.85,
+    "final_length_m": 4097.43,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Delete close ups of Kanakavalli's raised leg on the credit titles",
+        "length_m": 5.749
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the dance performed by Kanakavalli, delete close and mid-close shots of bare thighs",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the dance performed by Kanakavalli, delete close and mid-close shots of her jerking her hips",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the dance performed by Kanakavalli, delete close and mid-close shots of her swaying hips",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete Manisekharan rolling his head on Kanchana's bust",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce whipping of Manisekhar, retaining bare minimum",
+        "length_m": 2.59,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce Manisekharan cutting Marthandan on the back with his sword, to bare minimum",
+        "length_m": 4.42,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Jagath Guru Aadhi Sankarar",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sri Kaladevi Art Films, Madras.",
+    "cert_no": "79339",
+    "cert_date": "22-5-77",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Modify scenes depicting the birth of Sankara to establish that his father Sivaguru was alive. Add new footage showing Sivaguru going to the forest for firewood, getting unwell, and Aryamba having labour pains. Introduce a new scene where Aryamba shows the baby to Sivaguru. Show Sivaguru's death after Reel No. 3, shot 18.",
+        "length_m": 17.37
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Modify other scenes/dialogues to be consistent with the above modifications.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the monologue of Muthiah beginning 'Gauravaprey Poyuduthy' to 'Enta Cheiyarennu therinchkkiren'",
+        "length_m": 2.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the statement in shot 14 by one of the two ladies passing Aryamba on way to temple, and the entire dialogue in shot 15, including the contemptuous act 'chi'",
+        "length_m": 8.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the observation 'Kovilukku Poraalaane, moodeva'",
+        "length_m": 4.48
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace Namboodiri's statement from 'Natathai kett, va' to 'koyil' with 'Oor periyavanga... seekiram'",
+        "length_m": 8.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Namboodiri Brahmana Samudayathukke... Vanthuttiya?",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete all statements by Namboodiri's from shot 23 to 26. Retain Aryamba going out of temple ('Sari Sari... Vango')",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete shot 27",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete entire shot and dialogue of shot 28. Retain visuals if dialogue is completely modified to accord with revised dirt sequence.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the conversation between Muthiah and his wife, delete remarks by Muthiah beginning 'Padam cheithavalukku. purinchukko'",
+        "length_m": 2.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete remarks by one of the persons with Muthiah 'Keilavalukku than nallakulam'",
+        "length_m": 3.46
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete teacher's remarks to Aryamba and re-record dialogue to indicate non-cooperation owing to poverty of Aryamba",
+        "length_m": 7.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the remark by the lady 'Avanenke ponano'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Dongalukku Donga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Thrimoorthy Productions, Madras.",
+    "cert_no": "79576",
+    "cert_date": "24-9-77",
+    "endorsement": "U",
+    "original_length_m": 4278.78,
+    "length_deleted_m": 15.16,
+    "final_length_m": 4268.54,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Delete children picking up and eating food particles from leaves thrown out on the platform",
+        "length_m": 2.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Delete exposure of dancer's undergarment while she raises her legs (twice)",
+        "length_m": 2.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete all direct brutal hits by Toofan on Gopi's stomach",
+        "length_m": 7.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "16 (i)",
+        "description": "Delete blood falling on the ground after Toofan overpowers the smuggler and he stabs himself on his stomach",
+        "length_m": 0.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "16 (ii)",
+        "description": "Delete a smuggler vomiting blood when he is pressed under a spiked bed",
+        "length_m": 2.19
+      }
+    ]
+  }
+]

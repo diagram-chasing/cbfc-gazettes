@@ -1,0 +1,68 @@
+[
+  {
+    "film_title": "Bhaagya",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Bawa Moyiotone, 154/11, Prem Nagar, Varsova Road, Andheri, Bombay-61",
+    "cert_no": "B/F - 1116",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete sequence visuals and dialogues starting with 'MERE GHANTIYAN BAJ RAHI HAI' until 'KHI LIYAN KA GHAR'. Also delete visuals of a girl and boy pointing to and entering a haystack.",
+        "length_m": 9.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII, IX & XIII",
+        "description": "Delete 'HAJAM KE BETE', 'HAJAMDIYA', 'HAJAM KA BACCHA' wherever they occur.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "John Ryan",
+    "producer": "N.F.D.C. Ltd.",
+    "cert_no": "B/F - 1030",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce intensity and impact of a dog attacking and killing a man, specifically deleting shots of profuse bleeding from the neck and throat.",
+        "length_m": 4.82,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Middle Age Crazy",
+    "producer": "Robert Cooper & Ronald Cohen",
+    "cert_no": "B/F -964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce bedroom scene between Bobby Lee and his wife, deleting noises made by the wife during lovemaking.",
+        "length_m": 0,
+        "length_retained_m": 11.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce bedroom scene.",
+        "length_m": 3.35,
+        "length_retained_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Reduce sexy visuals of Nancy and Bobby Lee during lovemaking."
+      }
+    ]
+  }
+]

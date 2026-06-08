@@ -1,0 +1,563 @@
+[
+  {
+    "film_title": "The Egyptian",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Ltd.",
+    "cert_no": "12213",
+    "cert_date": "14-2-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I, II",
+        "description": "Shots of Sinuhé's father tapping the skull with a mallet during brain operation, reduced to the implosion of a stone crushing a glave. (Length retained - 6ft.)",
+        "length_m": 3.048,
+        "length_retained_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Orthodox dance of the girl in the yellow dress; considerably reduced the scene in the Babylonian girl's house, particularly deleting couples cuddling passionately.",
+        "length_m": 26.8224,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Photo of Nefar where she appears in the nude including her reflection in the pool.",
+        "length_m": 10.668,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Horomheb making love to Nefar on the bed, retaining the portion where they are seated and talking. (Length retained - 2.4384m)",
+        "length_m": 8.5344,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drinking and drunkenness in the first tavern scene where Sinuhé and Merit are introduced.",
+        "length_m": 26.2128,
+        "length_retained_m": 155
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Scene in which Sinuhé attempts to strangle Nefar, deleting underwater shots during the struggle.",
+        "length_m": 5.4864,
+        "length_retained_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Dialogue: 'I have tasted passion, crime and even murder'",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'He loved me Sinuhé, because I was strong and healthy, because I was vulgar and unlettered'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Do you mean Paternoster? (a double medicine)'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Angel, let me pour out these two nights of you my sweet... this body, this beautiful!'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Have you never looked on a woman before?' 'Hundreds and in the style the gods created them'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'I... It is because we women of Babylon have such a bad reputation.' 'Such flattery must come easily to a man who has known hundreds of women'",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'If you are filled with wine and wild thoughts you will surely get into trouble with some singing woman'",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Oh, there are worse things than marriage'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Womanlike me who live alone cannot afford to give in to their wishes... or they end their days begging in the streets'",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Such women like to be assaulted as if they were turtles'",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Save your passion for the Babylonian. She'll appreciate them more than I do'",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'I will show you the final perfection of love'",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'Every night I go hungry...'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue: 'They fall an easy victim to the other kind'",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue: 'The perfection of love'",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Dialogue: 'City of lost and evil'",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Dialogue: 'Wag-heated and stolen in order to live'",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Maiye",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "K.K. Konda",
+    "cert_no": "12214",
+    "cert_date": "14-2-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II, IV",
+        "description": "All views of Himrani when the arch of her bosom is putting to show, unsubstaintially visible.",
+        "length_m": 5.4864,
+        "length_retained_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The whole of the Ganga Aarti together with its picture.",
+        "length_m": 117.9672
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "The close-up of the major dancer during the song 'Aaiyun nu delar....' when her hand tucks and her hair under the armpit is visible.",
+        "length_m": 0.6096,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "The Gambler from Natchez",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Ltd.",
+    "cert_no": "329",
+    "cert_date": "14-2-1955",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of Melaní with tucked up skirt when her thigh and portion above the knee are visible.",
+        "length_m": 15.5448
+      },
+      {
+        "kind": "deletion",
+        "reel": "III, VIII",
+        "description": "Views of Melaní in wet dress after she meets Colby and her intimate moments with the touch of her bosom and parting between the breasts visible.",
+        "length_m": 32.6136
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Views of Rivago's sister with fork of her bosom and parting between her legs exposed.",
+        "length_m": 18.0096
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The fight between Capt. Colby and the man who was gambling against his father's lawyer on the boat of Melaní's father, omitting the low blows and chin blows in close-up.",
+        "length_m": 9.144,
+        "length_retained_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII, VIII",
+        "description": "Considerably gambling throughout the film to the bare minimum, drastically showing of money and open hands of gamblers on the table, keeping barely suggestion to establish the villain.",
+        "length_m": 51.2064,
+        "length_retained_m": 39.0144
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "The fight between two wrestlers.",
+        "length_m": 5.4864,
+        "length_retained_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Brigadoon",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "12249",
+    "cert_date": "19-2-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III, II, I & II",
+        "description": "Views of female characters where the flesh of their bosom is visible.",
+        "length_m": 29.8704
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "View of the heroine dancing where her skirt goes up revealing her thigh.",
+        "length_m": 1.09728
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Dialogue 'I will soon be a wife and leave you alone' from the song 'I'll go home with Bonnie Jean'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII, XII",
+        "description": "The close and prolonged kissing and embracing of the hero and the heroine after their dance, as also the kisses after the first dance and a kiss when they part.",
+        "length_m": 54.864
+      }
+    ]
+  },
+  {
+    "film_title": "Dunya Gol Hal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Now Sui Productions Ltd.",
+    "cert_no": "12073",
+    "cert_date": "18-2-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "The hand colouring of the song No. 3 beginning with 'Ankhonmon kajal bhara....'",
+        "length_m": 121.92
+      }
+    ]
+  },
+  {
+    "film_title": "Charma Deot",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rajindar Singh",
+    "cert_no": "12190",
+    "cert_date": "16-2-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Added sound of etc.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "Shot of Duty of Krishna, played by author, of child and Yashoda.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "insertion",
+        "reel": "III",
+        "description": "Added sound effects.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "insertion",
+        "reel": "III",
+        "description": "Shot of woman saying dialogue 'Yuh tumbno, .... to Tumhno kya maz liya'",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "insertion",
+        "reel": "III",
+        "description": "Close-shot of GIRL (Piglient)",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "insertion",
+        "reel": "III",
+        "description": "Close-shot of Chaota (silent)",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Ladki",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. A.V.M. Productions",
+    "cert_no": "8192",
+    "cert_date": "30-10-1953",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "original_length_m": 3170.448,
+    "length_deleted_m": 1277.1432,
+    "final_length_m": 3037.3048,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The original certified length of the film.",
+        "length_m": 1277.1432
+      }
+    ]
+  },
+  {
+    "film_title": "Ajanel Larbi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Taj Mahal Pictures Ltd.",
+    "cert_no": "4451",
+    "cert_date": "7-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "A tablet saying that all references to Manipur are fictitious and have nothing to do with the place of that name in India.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete words, 'Merijawani Abhi abhishuru hujbal'",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete Majnu's reference to 'complete tone'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete entirely Nimrollying on Ashok's lap and Laile lying (Maji u a lun).",
+        "length_m": 56.0832
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete girl massaging Zalm's hair in Hirasingh.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Hirasingh wiping out his blood-stained dagger on his left fore-arm.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Ashok actually stabbing Hirasingh in slow motion.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Hirasingh's agony after being stabbed.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Shiv Shakti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jayant Desai",
+    "cert_no": "4483",
+    "cert_date": "10-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "The mention of the East India Company should be deleted.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Cut the following lines from the song No. 4. 'Isliniu Mori Umar Sola Sul, Mori Umar Pandra Sal, Mori Umar Obauda Sal, Mohe Loot Claye'",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Junglo Ka Jawahar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Basant Pictures",
+    "cert_no": "4619",
+    "cert_date": "10-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the words of Zingo: 'Main Doviku tod doonga' and Sheona replying: 'Aadmi kya, rakhna bhi nahin tod bakti'",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "Izzat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Taimur Art Productions",
+    "cert_no": "4486",
+    "cert_date": "12-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the outscene in which Lals Hazari is shown as knowing in reply to questions addressed to him and evading laughter.",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Approved replacements.",
+        "length_m": 9.4488
+      }
+    ]
+  },
+  {
+    "film_title": "Crosswinds",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "4784",
+    "cert_date": "20-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Scene showing the Chlasobervant being stabbed whilst catling down the ropebridge.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the 'Not part' of the scene showing Mousay being strangled before being thrown overboard.",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Kyunji",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Anmol Chitra",
+    "cert_no": "4785",
+    "cert_date": "20-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Place a tablet saying that the Polo Odor in the picture is purely imaginary character.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Shabano",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Makarsand Film",
+    "cert_no": "4828",
+    "cert_date": "30-1-1952",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "1",
+        "description": "Putting tablet at the beginning of the picture to the effect that the mental hospital in the picture is imaginary and it has no connection with all of the existing hospitals.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete close up of Prema before him actors her dancing lessons with Chandrabhushan.",
+        "length_m": 5.4864
+      }
+    ]
+  }
+]

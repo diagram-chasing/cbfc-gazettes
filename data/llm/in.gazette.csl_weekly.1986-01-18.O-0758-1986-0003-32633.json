@@ -1,0 +1,276 @@
+[
+  {
+    "film_title": "Aagaman",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/F-1507",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the shots where the dummy candidate is surrounded by Congress party flags.",
+        "length_m": 34.87
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Replace deleted shots with approved shots.",
+        "length_m": 34.87
+      }
+    ]
+  },
+  {
+    "film_title": "Zorro The Gayblade",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/F-1545",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Tone down the impact of beating, torturing and chasing the woman.",
+        "length_m": 2.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the visuals showing a man taking off the hair from the dead woman's head.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the reactions of two men while they are watching a girl taking bath.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drastically reduce the direct blows in fighting sequence.",
+        "length_m": 4.58,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the fighting sequence.",
+        "length_m": 4.6,
+        "length_retained_m": 16.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the sequence showing the man banging upside down.",
+        "length_m": 13.11,
+        "length_retained_m": 17.37
+      }
+    ]
+  },
+  {
+    "film_title": "Cry Blood Apacho",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B/F-1504",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Tone down the impact of beating, torturing and chasing the woman.",
+        "length_m": 2.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the visuals showing a man taking off the hair from the dead woman's head.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the reactions of two men while they are watching a girl taking bath.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Drastically reduce the direct blows in fighting sequence.",
+        "length_m": 4.58,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the fighting sequence.",
+        "length_m": 4.6,
+        "length_retained_m": 16.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the sequence showing the man banging upside down.",
+        "length_m": 13.11,
+        "length_retained_m": 17.37
+      }
+    ]
+  },
+  {
+    "film_title": "Andhaa Kaanoon",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/F-1592",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the scene where Chaudhary is involved in adultery under the bed sheet.",
+        "length_m": 3.78
+      }
+    ]
+  },
+  {
+    "film_title": "Pasupu Thada Furi Thada",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "M/16888",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Retain only the following in the sequence where Suji is introduced to her husband's friends: Suji being brought to the room and talking to her husband near the cot; Suji drying her sari and a man touching her from behind; Suji resting against her husband and talking; Suji and the man talking without any physical contact up to the point the man saying Nyayam Kadha; Suji touching the man's feet and pleading; visual of Suji's husband drinking and taking the money; visual of the man coming out of the room; visuals of Suji shown stripped and the man leering at her, Suji lying on the cot bare backed, all to be deleted.",
+        "length_m": 276.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce the killing of Suji's husband by her, to once only.",
+        "length_m": 9.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete visuals of Rangi's husband leering at Rangi's bosom when she lies down without pallu.",
+        "length_m": 10.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the words Enta lethu digada from the song wherever they occur.",
+        "length_m": 2.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the close up of the wall painting.",
+        "length_m": 9.05
+      }
+    ]
+  },
+  {
+    "film_title": "Puli Bebbuli",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "M/16914",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the following lyrics from the song: Pani kosthava pilla panikosthaya panikosto nuvvu palkostavu.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the dance sequence, delete the following: visuals of dancer lying on the shoulders of Rudrayya (Replaced with shots of gangsters); visuals of dancer spreading of her legs and making indecent movements of her midriffs (Replaced shots of gangsters and close shot of Rudrayya); visuals of dancer exposing her breasts near the staircase accompanied with moaning sound (Replaced with shot of tiger statue).",
+        "length_m": 27.13
+      }
+    ]
+  },
+  {
+    "film_title": "Manalvi Illatha Neram",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "M/16984",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of the call girl Lilly lifting her left leg revealing her deep thighs and panties (Replaced with rich man's shot).",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visuals of clothes piling up one by one on the chair in intercuts.",
+        "length_m": 6.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals along with the dialogues after Babu recognizes Chumuch and says 'Ayyo Ali' upto Babu comes to the car.",
+        "length_m": 64.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Lilly when she applies oil over her body.",
+        "length_m": 2.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of Seenu's reaction while Lilly applies oil over her legs.",
+        "length_m": 2.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the visuals of Selvam and Lakshmi kissing each other in close embrace as witnessed by Selvam's brother.",
+        "length_m": 6.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the intercuts of Selvam's imagination shots of Selvam and Lakshmi in intimate embrace (Replaced with garlands Selvam and Lakshmi's shots).",
+        "length_m": 13.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visual of dancer's breast cleavage against the line Alukkonna kalukkenna (Replaced close shot of dancer).",
+        "length_m": 2.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the dancer's breasts and face when Babu looks at her hips (Replaced shot of Selvam).",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visuals of the dancer lifting her left leg revealing her panties (Replaced shot of lady customer).",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visuals of Babu rubbing his face over the dancer's breast and face while they are lying on the ground (Replaced with inserts of Selvam and other customers of the hotel and three ladies).",
+        "length_m": 13.1
+      }
+    ]
+  }
+]

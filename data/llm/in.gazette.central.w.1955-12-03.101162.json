@@ -1,0 +1,893 @@
+[
+  {
+    "film_title": "Dixielund Droopy",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "B-11280",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the flower getting into the back-side of the dog",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Pearl of the South Pacific",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Super Scope",
+    "producer": "RKO Radio Pictures Ltd., Dhanpur Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "B-13744",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The shot of Rita getting up after playing the concertina on the boat, revealing her thighs",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Rita learning the Beatitudes \"Blessed are the meek\"",
+        "length_m": 18.8976
+      },
+      {
+        "kind": "deletion",
+        "reel": "ReelIII",
+        "description": "The close-up of Rita lying on her back",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Quotations from \"Blessed are the meek\"",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot where Rita's slit skirt reveals her thighs",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The word \"native\"",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The word \"[k]ie & missionary\"",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Drastically the fight between Doz and Bully over Rita",
+        "length_m": 108.2016,
+        "length_retained_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Bully beating the drunken planter",
+        "length_m": 0.3048,
+        "length_retained_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Pearl of the South Pacific\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "RKO Radio Pictures Ltd., Dhanpur Bldg., Sir P.M. Road, Bombay",
+    "cert_no": "B-13746",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The close-up of Rita bulging bust when she is lying on the bed on her back",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Sabre Jet",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Carl Kruger Production, USA",
+    "cert_no": "B-0989",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Reference \"most brutal murderer in history\" in the post of the communists in the sub-titles",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Quote \"What kind of security would it have under the Communists?\"",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Word \"Commie\" as spoken twice by Caryo",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Word \"got your point\" uttered by Jane (voluntarily deleted)",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Subse Bada Rupaiya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Vakil Productions, 3B, Nanubhai Vaki Building, Lamington Road, Bombay 4",
+    "cert_no": "B-12011",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Hip shaking of the dancer in black as well as that of the four girls dancing",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The woman saying \"Aap nakam rakam ke paththo rehte hain\"",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots of hip-shaking of the dancer singing the song \"Rok ja re piga\"",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The word \"shod\" from the sentence \"Shod pulko paan...\"",
+        "length_m": 0.0012
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The sentence \"Main to achha beta man baap koi Dal hota\"",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerably loosening by rope from the tree, keeping only the minimum necessary for the story",
+        "length_m": 14.0208,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Bahu",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M. Noronha Ltd., 33A, Marine Lines, Bombay 1",
+    "cert_no": "B-13580",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "A shot of Rata dancing where her skirt goes up revealing her bare legs",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Sound replaced with approved words for \"Madam abhi timobal, samotto\" and \"Shadatokarda bad;jaldi fo beat tibal\"",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The married woman in close physical contact with the girl Reeta",
+        "length_m": 0.762
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Sound replaced with word \"Sultana\" for reference to \"gambler being referred to as \"Maulana\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Suggestion through pictorial simile that Sheela and Suresh have contacted a valid marriage is replaced with approved text indicating they are not married or were to be married",
+        "length_m": 3.41376
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Reference to Arya Samaj (Sound only)",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX and X",
+        "description": "Gambling",
+        "length_m": 4.2672,
+        "length_retained_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Jagadguru Shankaracharya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Volontial Pictures Ltd., Lotus House, Worli, Bombay 18",
+    "cert_no": "B-13014",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Near view of Kapali moving a skull by his magic power",
+        "length_m": 6.9996
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shaking of the principal dancers in the dance",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "The scene in which the boy is too curious with his legs until it is very far for continuity. The scene showing the boy with it.",
+        "length_m": 591.312,
+        "length_retained_m": 27.432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VI, VII",
+        "description": "Shots of the dead body of the dark lay",
+        "length_m": 2.1336,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of the dead body of hunkaterinary brother",
+        "length_m": 2.1336,
+        "length_retained_m": 6.3996
+      }
+    ]
+  },
+  {
+    "film_title": "Bharen Gaugh Vivah",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chavla, 103, Khetwadi, Mu Road, Bombay 4",
+    "cert_no": "B-12127",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of headloss body of Shri Ganoul when he was operated by banker to twined only",
+        "length_m": 1.2192,
+        "length_retained_m": 0.0012
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Shots of gaping wound of Sindoor with blood oozing",
+        "length_m": 0.4572,
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Prime Minister Nehru's Visit to U.S.S.R.",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Noronha Ltd., Lotus House, 33A, Marina Lines, Bombay",
+    "cert_no": "B-12077",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Street shots of Moscow city and Prime Minister passing in a car with crowd on both the sides cheering him",
+        "length_m": 55.476
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Prime Minister paying homage to Stalin's tomb",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister visits exhibition of Farms",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister in the midst of crowd",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister visits to Bolshoi Theatre and Dance number known as Swaplake",
+        "length_m": 79.248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Ballet Dance",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Panoramic photo of Stalingrad city",
+        "length_m": 29.2608
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Prime Minister opening in car",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Crowd in the city of Stalingrad",
+        "length_m": 36.576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Children greeting Pt. Nehru",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots showing city of Yalta",
+        "length_m": 49.3776
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Prime Minister leaving Yalta in a Car",
+        "length_m": 27.9912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Exterior of Government house",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots showing statue of wild animals and flowers of different types",
+        "length_m": 41.9112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Prime Minister visits Modern Farm machinery",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Prime Minister opening in a car in the city of Magnitogorsk",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots showing the views of Industrial area in Sverdlovsk of Urals",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Prime Minister's visit to children's club",
+        "length_m": 73.152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Crowd of people eagerly awaiting to see Prime Minister",
+        "length_m": 70.104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Crowd of People watching and bidding farewell to Prime Minister",
+        "length_m": 67.056
+      }
+    ]
+  },
+  {
+    "film_title": "Prime Minister Nehru's Visit To U.S.S.R.",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Noronha Ltd., Lotus House, 33A, Marina Lines, Bombay",
+    "cert_no": "B-13870",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Street shots of Moscow city and Prime Minister passing in a car with crowd on both the sides cheering him",
+        "length_m": 55.476
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Prime Minister paying homage to Stalin's tomb",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister visits exhibition of Farms",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister in the midst of crowd",
+        "length_m": 5.7912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prime Minister visits to Bolshoi Theatre and Dance number known as Swaplake",
+        "length_m": 79.248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Ballet Dance",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Panoramic photo of Stalingrad city",
+        "length_m": 29.2608
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Prime Minister opening in car",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Crowd in the city of Stalingrad",
+        "length_m": 36.576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Children greeting Pt. Nehru",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots showing city of Yalta",
+        "length_m": 48.4632
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Prime Minister leaving Yalta in a Car",
+        "length_m": 27.9912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Exterior of Government house",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots showing statue of wild animals and flowers of different types",
+        "length_m": 41.9112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Prime Minister visits Modern Farm machinery",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Prime Minister opening in a car in the city of Magnitogorsk",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots showing the views of Industrial area in Sverdlovsk of Urals",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Prime Minister's visit to children's club",
+        "length_m": 73.152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Crowd of people eagerly awaiting to see Prime Minister",
+        "length_m": 70.104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Crowd of People watching and bidding farewell to Prime Minister",
+        "length_m": 67.056
+      }
+    ]
+  },
+  {
+    "film_title": "Dristi",
+    "languages": [
+      "Ponyull"
+    ],
+    "producer": "Parijat Theatre, Solkia, Howrah",
+    "cert_no": "C-1838",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "reel 8",
+        "description": "Two Henco-Blowing Malati and Kalyan in their lod-room and the other showing Malati and Gurihala in worshipping room where the son of Malati is shown crawling and putting fruits etc. meant for offering to the deity into his mouth",
+        "length_m": 112.1664
+      }
+    ]
+  },
+  {
+    "film_title": "Mahogwari",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "The Modern Theatre Ltd., Salem",
+    "cert_no": "M-10905",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "Picture shot of Dharamlingam actually kicking Maheshwari",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "During the conversation between Maheshwari, Kanthimathi and Kim violk, delete the sentence \"Mon Jun garry as a way timo! Ho they want, batif a woman myrria one person aho has no other support\"",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red 4",
+        "description": "When Dharamlingam looks up the bed-room in which Maniokam and Maheshwari are, delete his telling Maniokam through the door, \"Enjoy, enjoy wol, « joy thu whole night till the morning\"",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels",
+        "description": "When the accountant is collecting taxes and a girl (Porvayi) asks for him, delete the suggestion of his giving time for moral consideration: (a) \"If you may dow.\" ; (b) Pouvayı being asked to go when Muthazhekhi qomay ; (c) var fying about Jagulev bring blind and doaf, und observing \"uroullont\"",
+        "length_m": 11.5824
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "When the palanquin men are asked to go fotor, delete the observation by one of the rain, \"This tim, theminor will givo us plenty ofmoney\"",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When Mayathevar is Askod by Malleswari ifitis not sikful to be a rolbar, delete his reply about robbing nonoyed peoplelts not being sinful when it is distributod on the poor, In fact it would be meritorious",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "When the villovs of dwojity to the up, toled the plotno - & 11 dialogue artrolling hilm as the fimily dolty of the , oor ptoplo who will 67 A pover forua bo tbcm but fur whora por puple would have died long ago , The prize givon to him on b « 91f of the poor, and Milewart s obuervation that it was Horvoo of a high order",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the entire picture and sound of the robb -rattaoking the treasury monuy bolng taken In A onvan of carts with an armed epoort, the langoing of the mergent, the latrout attacks and Alghtinga la cl089 -up. (No objection to brlof fish for wontinuity , and the high anglo long-shot of the advancing Qaravan and Mohcowari golloping away After the robbory",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "When the collector is demunds Bil explanntion, delete the coferonoo to the avlag of the troegep mogay ( oon oquontial on 8 )",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete the entir aquinom, plotira and dialoguo . of a Telugu man counting his Llooka ot pilger, Misheswari watohing and ontering with the robberar hla bullon blog pwed out in calayo to the robbons outaldo , tho bulllon baing datributod to the poor and their shouting \"Jal\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "When the collector is regelvlag oomplainta from the vistiius vf dvojity, dalele th > references to the mobbory of the allver bullion and to the proceeds of anothe dacolty having been distributed to the labourom in the farm",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "When Dharamlingam ruacivus the demand Dotloo from the Collootor and dlæumsccl it with the socountant, delete the portion of the dlalogue regarding Kving home wil , whatever the roagon foronteringat ,there is always rokon whon you come out, toen ongo with famo, the bad name would have beon renoved and good namo would be the balance poople would ad fro And sooord ruosptiona",
+        "length_m": 134.4312
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Delete the picture of Murlokam actually kicking Alli. (Approved replacement)",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "When Manlokum rojsutathe gold ufurad to himn ay bying ths prity ofa wnu droit, delete thoruply that the money balonga to God , It is El , let it be spont for tho good lifo of the poor",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "When Malokam and Allidiaouas Rin , doleto thostatement that it w 18 tlu, Runi s idyal to help tho por, that soiety bad treated hor with oontompt and she was therefore tesobing society a lemon ; thut xbo W38 gota droit but was tho delty of the poor",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "During gong No. 10 (JH3 -10k , Jb nak ), Jolets tholi len of Tagular \"If huyu lich wiewsults biyold guy, a lo vill barob and And it out and will give it into the hands of thogo who do not have food to out \"",
+        "length_m": 23.4696
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "When Ranlexplning to Molokam about bersolf, debele ber justiliustiza oft orjor oforinne (ifter she who lift an orphan who lier mothor ( dled , that who who made tho quoon of the robbers ), thnt sily took tho waalth of thugo bymu wiwo chatod the poor and givam joy to the pur-",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "R11083 13 lsribly tho saticos que 100 vf the robbons totuki igth : 3 sldjura w 1000193 in butu to ur38t the robbor quaon , leaving only the barn ? mlidum . n300kry for ouatlulty.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Třazn Jugadovaid thellutoa uut 4ro golag in thu bɔt with the wilto Alug , delcis tboysat3a09 If It la or. 19 ilag 2 oplo , itluliko orug liag buge, to you",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Viitollsuts. It isnot by Jugutv, Islets ths duloz 10 \" Itly lyin, T . 011 Y 114431335513rgival 88 tu tho onomy \" ; the roply \"Botha frisud of tho pour\" ; I regrot I was not bora a Tamilinu \"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "W132 July 21 Alit iue rikliara Juojasing D rumlingo , dilela tho dialoguos \"What is the puolabment for the chandalam who betray ) one owo 01011 - - 1thn 103to liabuduftior 19 . Buttoril1 , 877 , 907 aurar upp then nodlut10080 Amallinta . But wuuld this make any impreulon on the b 1F .IJ A with yi ) d abilitytom ) sc ot willbron 10 irad by now . It would not buye oon , byiwolf .Wohlve glyon food four timer go far\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "When Dharamlingam 18bing triedbure tho rubboro, dolola; (a) M van 8 ying \"For the sake of a money -toward , he botryod to a foreigner \" , (b) Rant s utatomont \"To forgive the forsly1014 who vum , to doslroy us by the foot le tho apaola culturo of Tamiliang\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 19",
+        "description": "When Dharamlingam performs tho 43rathi to Mvilokam and bio bwo Wivos , delete thoong he alag , abot Subemalt al hus two vivos. ( nonnd og ly Approved replacomont sound only )",
+        "length_m": 12.192
+      }
+    ]
+  },
+  {
+    "film_title": "Kuisoswaran",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s SriGanool Movietonn, Mudraa",
+    "cert_no": "M-1004",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "During Bog No. 6 (Noula : Kathak dance ), delete the pictures of the dancer in vlo» e -up with the camen froussed on her bunt -(a) against the words \"Maler Asbinoney \" with the 2000mpunylag gesture by the land ; (b) iuguloat the word \"Ghenthoul KAxtul Aoblponey - Idhaya Kaaval Mwesi Naaney MabindhoDcy \" whep they words occur the 2nd time and (c) durlag tbe Marwali lanc, guiunt tho words \"Eu Dhymunemel ]:44 \" with the namero focused on the bust with tho parting viable below tha cholineoklinc ( luottwo V - TYOB)",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduce considerably the duration of the squrluk sof Krnoon robllug the safe, in jutoruluta ,dolnting in partioular tlie ghota mhowing the open Ton -wfo with th oameri traoking forward to a clogm - 11p of the bundleg oft um currenry not , whiob are being stolen",
+        "length_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Kalvuni. Kathalı",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M. Rovathi biona, Madri",
+    "cert_no": "M-1007",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "After the polico inspector leayos and Muthian is neon to have ono & pHd ,colete the statement of Kamalpathi \"What does tmittor , somoono vamo und told who is innocent and wo helped him .\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "When the inepootor 18 interrogating Singu Pillal,delete the lattor s statoment \" For you nod me jo thoro Any awarcity or witnerror \"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 19",
+        "description": "When the Inspruter intorroputer Rithnam Villas in the police station ,élelt lugntätenient“ Mydisciples will pred the okin off the back and crush tho bonam in the body \"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the inspootor u referongen to Ohokan \"Anthik avin \" ;\" L) Kornva \"? And Ruthnam Pillai x stal ment \" DO not mand me in along with thIA KOIAVAIL\"",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Too Late",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "The Railwaymen s Fine Arts society, Malna",
+    "cert_no": "M-1100",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Aim Gopalin runswil by the ti 114 , lelety tloulo - 17 shui olioung hun he vulvd arm orwhod and bloding ..",
+        "length_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "Natya Tara",
+    "languages": [
+      "Moluyalom"
+    ],
+    "producer": "Mh Tuy JiyM an MHFLY Film, Mutr",
+    "cert_no": "M-101",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Addition of title song (sound only)",
+        "length_m": 60.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Addition of one dalion with song",
+        "length_m": 36.576
+      }
+    ]
+  },
+  {
+    "film_title": "Mahorari",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M. Modern Theatres Ltd., Salem",
+    "cert_no": "M-10901",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 16",
+        "description": "Addition of sound effects to the above reel",
+        "length_m": 26.8224
+      }
+    ]
+  },
+  {
+    "film_title": "Kalyanin Kathalı",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Ma Rovathi Produc tions, Midray",
+    "cert_no": "M-1097 / 1",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Addition of title song (sound only)",
+        "length_m": 243.84
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 6",
+        "description": "Not exhibited earlier - How shown as addition",
+        "length_m": 18.288
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 14",
+        "description": "Addition of sound effects",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 21",
+        "description": "Addition of sound ettauto",
+        "length_m": 19.5072
+      }
+    ]
+  }
+]

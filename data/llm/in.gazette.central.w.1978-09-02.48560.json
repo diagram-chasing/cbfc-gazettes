@@ -1,0 +1,365 @@
+[
+  {
+    "film_title": "\" Doctor Rekha \"",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Uma Pictures",
+    "cert_no": "B/82957",
+    "endorsement": "U",
+    "original_length_m": 3987.4,
+    "final_length_m": 3981.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the picture of Mother Mary with a Child in her lap when the unmarried motherhood of Dr. Rekha is compared with her in dialogue.",
+        "length_m": 5.79
+      }
+    ]
+  },
+  {
+    "film_title": "\" Khatau Terkosa \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Cine The Que",
+    "cert_no": "B/83516",
+    "endorsement": "U",
+    "original_length_m": 38.1,
+    "final_length_m": 35.66,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the side and front views of a girl in nude.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\" Yaarron Ka Yaar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Ashoka International",
+    "cert_no": "B/81992",
+    "endorsement": "U",
+    "original_length_m": 3384.0,
+    "final_length_m": 3569.5,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce beating of Nathu with lathis and whips by Zamindar's men.",
+        "length_m": 6.1,
+        "length_retained_m": 15.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce views of entire basti set to fire by Zamindar's men.",
+        "length_m": 4.2,
+        "length_retained_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VjI",
+        "description": "Reduce to a suggestion the scene of molestation of Shakuntala by Goondas.",
+        "length_m": 4.2,
+        "length_retained_m": 9.5
+      },
+      {
+        "kind": "replacement",
+        "reel": "V & VIII",
+        "description": "Deleted the word 'schhoot' wherever its use becomes derogatory and replaced with approved words.",
+        "length_m": 14.5
+      }
+    ]
+  },
+  {
+    "film_title": "\" Rendu Lokam \"",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "producer": "Supriya Creations",
+    "cert_no": "M/10998",
+    "endorsement": "U",
+    "original_length_m": 3741.01,
+    "final_length_m": 3734.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the shot of Babu tearing the blouse of Shantha.",
+        "length_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "\" Anuroopa \"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Lankesh Chitra",
+    "cert_no": "M/10976",
+    "endorsement": "U",
+    "original_length_m": 3160.78,
+    "final_length_m": 3159.87,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the shot showing the student urinating.",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "\" Andhaman Kathali \"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "producer": "Muktha Films",
+    "cert_no": "M/10970",
+    "endorsement": "U",
+    "original_length_m": 3990.74,
+    "final_length_m": 3987.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following words of Prabhu \"Kizhey irangivittadhu\".",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following words of Madan's friend to Kavitha \"Thiruvasakthirku Urukadhavan Kooda Indha Vasakathirku Urukiduvan\".",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "\" Soorya Chandrulu \"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Pratap Art Productions",
+    "cert_no": "M/11004",
+    "endorsement": "U",
+    "original_length_m": 3998.06,
+    "final_length_m": 3995.01,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Delete close-ups of Sita's bust in wet clothes without upper clothes in the rain sequence. Replaced with long-shot Sita & Rajesh.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete close-up of Sita vomiting blood after the car accident, retaining one shot for continuity.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "\" Hull Batthy Huli \"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "producer": "Malnad Movie Makers",
+    "cert_no": "M/10988",
+    "endorsement": "U",
+    "original_length_m": 3181.39,
+    "final_length_m": 3146.34,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the sequence of Prabhakar and Malli making love by deleting all shots of kissing and caressing, by retaining only the first shot.",
+        "length_m": 35.05
+      }
+    ]
+  },
+  {
+    "film_title": "\" Moethi Meethi Baathen \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Jagadeeswari Pictures",
+    "cert_no": "M/10965",
+    "endorsement": "U",
+    "original_length_m": 3381.44,
+    "final_length_m": 3369.25,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Madhu kissing Sarita on her hair and shoulder.",
+        "length_m": 0.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Sarita kissing Madhu on hand and on the cheek.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Delete the reference to prostitute as Renuka (Sound only, replaced Renu).",
+        "length_m": 4.34
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Delete the reference to Maha Pativrata Renuka by Madhu (Sound- replaced).",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete close-up of Renuka on bed with only bra focussed prominently.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce to bare minimum, Madhu and Rekha embracing on the middle of the road, particularly deleting their kissing.",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "\" Ladlce \"",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "producer": "Uttam Tulsi",
+    "cert_no": "B/81319",
+    "endorsement": "U",
+    "original_length_m": 3558.84,
+    "final_length_m": 3555.18,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "In the nuptial night sequence, delete the portion of the shot in which the camera tilts up to show prominently frontalpudity of the naked child.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the words \"Vah apane voti ke kachhe vich hç pada rabinda hai.\" (Replaced with approved words - Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\" Jalan \"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Nepal Singh Cine Arts",
+    "cert_no": "B/82323",
+    "endorsement": "A",
+    "original_length_m": 3386.54,
+    "final_length_m": 3365.59,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Taxi Driver: “Ab do hazaar pandrah paye paise nikalo\" (Replaced by \"Ab do huzaar pachas peschgi nikalo\") - Sound only.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Dindayal: “Do hazaar to samjhe pandhrůh naye paise kis liye\" (Replaced by \"Do Hazuar jo samjhe pachao pcshgi kis liye\".) - Sound only.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Taxi Driver: \"Pandrah paisc nirodh ke liye\" (Replaced by \"Pachus petrol ke liye\") (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Dindayal: \"Family planning Donation\" (Replaced by Future Planning Commission) - Sound only.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the light between Trio and others by deleting the direct hits on stomach.",
+        "length_m": 5.14,
+        "length_retained_m": 52.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce slightly the fight between the man and the dog in order to remove the gruesome impact.",
+        "length_m": 5.14,
+        "length_retained_m": 19.55
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the word Dhaka wherever it occurs in the song and also the vulgar and indecent movements of Mona during the song: \"dhaku kyon mara bhari, jawanimein dhaka .....\" (Replacement of the word dhaka wherever it occurs in the song by the word Aisc together with the shots approved).",
+        "length_m": 2.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Remove the racial implication \"gora -kala\" in the song (Replacement of the words \"You kala Audini\" by the words \"You kadka Aadmi is approved).",
+        "length_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the molestation of Ambika by a man and the subsequent fight after molestation by deleting hard hits on stomach and pressing of leg on the neck.",
+        "length_m": 10.93,
+        "length_retained_m": 77.46
+      }
+    ]
+  },
+  {
+    "film_title": "\" Man No Manigar\"",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "producer": "Guru Enterprizina Movies",
+    "cert_no": "M/10690",
+    "endorsement": "U",
+    "original_length_m": 3777.47,
+    "final_length_m": 3737.54,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Deletions of song (Antra only) sung by Radha is approved.",
+        "length_m": 37.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the torture of Pannalal by three men with sticks pressed against his throat and also to torture with a scorpion, retaining just a suggestion only.",
+        "length_m": 8.76
+      }
+    ]
+  }
+]

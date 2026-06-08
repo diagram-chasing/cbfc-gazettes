@@ -1,0 +1,247 @@
+[
+  {
+    "film_title": "Mr. Toofun",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38389",
+    "cert_date": "21-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, VI, IX, X & XII",
+        "description": "All references to Rajputs in dialogues which do not do justice to the traditional Rajput valor and chivalry, which are inconsistent with the characters, customs and incidents portrayed and which are unduly emphasized without being adequately substantiated",
+        "length_m": 16.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the song-dance sequence beginning with the words 'Is tarah su hum pyar kiye karte hain....', glot of bust-shaking by the dancer while approaching the camera",
+        "length_m": 1.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the scene between Swamy and the two girls, shot of his travelling view of the girls from behind and holding the other girl's hand on his chest",
+        "length_m": 28.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "From the song dance sequence beginning with the words 'Mera gora mukhra mere, pyari pyari chal hai....' the lines 'Kahe ji kaho ji maic baare maan tumhara kya khayal hui' and repetitions thereof, 'Paan ki gilori khake munh laal laal hai', 'Aankhinyan lndam jango kab juine gall linin', and the entire song 'Bulbul Bungul ki....' to 'Hai kol vhhokriya jiska itna lamba baal hai' along with picturisation. Replaced with approved song beginning with the words 'Yo papi duniya....'",
+        "length_m": 109.84
+      },
+      {
+        "kind": "insertion",
+        "reel": "V",
+        "description": "A song beginning with the words 'Du dilonke piyar....'",
+        "length_m": 94.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Voluntarily deleted: Fishing scene between police and the hero and hero with covered face in Raj Darbar",
+        "length_m": 48.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Voluntarily deleted: Discussion between young men and their leader",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Bin Badal Barauat\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "98394",
+    "cert_date": "22-6-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shot of the heroine putting her arms round hero's neck",
+        "length_m": 1.98
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Two For The Seesaw\"",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "cert_no": "38395",
+    "cert_date": "22-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shots of passionate embrace and kissing between Jerry and Gittal. Also delete her remark 'Do you think I am too sexy or over-doxed,' as well as Jerry's remark addressed to her 'Your bottoms is tops'",
+        "length_m": 9.79
+      },
+      {
+        "kind": "deletion",
+        "description": "Voluntarily deleted: The following dialogue: 1. Gittalto Jerry 'I got an ironclad rule. I would not sleep with Christoper Columbus on the first date. Why should I hop in the bay with you! It's a cure for your health.' 2. Gituul to Jerry - 'I had a room of my own in the village at sixteen.....what do you think, to play potay!' 3. Deleted the shot of passionate kissing between Jerry and Gittal on the superimposed title 'the play that delighted'",
+        "length_m": 7.56
+      }
+    ]
+  },
+  {
+    "film_title": "Pind De Kuri",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "38396",
+    "cert_date": "22-6-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The dialogue of the Assistant asking for sharing the skull left by Tielnl",
+        "length_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "In the song No. 1 beginning with the words 'Hai ni haal Pagreys....' the shots of indoor dancing and shots of the lady stretching her legs lying down on her back and rolling around. Replaced with approved shots",
+        "length_m": 5.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "In the picturisation of song No. 2 reduce to a flash the passionate love scene between the boy and the girl when the boy encircles her neck with his hands. Also delete the shot of cupping of the face of the girl by the boy and reduce considerably the shots when she is lying in his lap",
+        "length_retained_m": 3.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "The shot in which Kishni is shown with emphasised bust, lying in Ashok's lap under a tree. In the picturisation of song No. 3, beginning with the words 'Tu-o-ye hai koi....' shots of indoor dancing. The above shots have been blown up and replaced with approved shots",
+        "length_m": 3.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "In song No. 4 beginning with the words 'Jail dera put nu too....' the line '(toodh dhanake dande tbale khis sho dharamnaal'. Shots of indoor dancing by the girl. Shots have been blown up and replaced with approved shots",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the passionate love scene between Kishni and Ashok and delete the last shot before the scene is cut to the next one, when the shadow of a branch falls on them",
+        "length_retained_m": 0.1
+      }
+    ]
+  },
+  {
+    "film_title": "Gul-e-Bakawali",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38398",
+    "cert_date": "24-6-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "Modify the recitation of the Kalma from Quran to ensure that the words 'Il-Allal' and 'Rasul Allah' are correctly pronounced. Replaced with approved pronunciation",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the song beginning with the words 'Nigahon bhi jawani hai nazare....', the following lines: Dil walon ka dil aa gayu, dukh ko hum ko masti men, Mantana bhi ghabara gaya, Dekh ke hum ko masti mon",
+        "length_m": 28.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "In the song beginning with the words 'Jawani jis pe asi diwana ho gaya....', the line 'Farishte kya khuda bhi kadar karata hai jawani ki'",
+        "length_m": 9.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to the minimum the sequence of the three Shahajudas hearing the cry of a woman in distress, reacting suggestively and snarling with each other and one of them finding her to be an obliging invitee instead of the maiden they had imagined",
+        "length_retained_m": 68.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Considerably reduce the scene in which the three Shehajadas behave and sing like eunuchs, after being converted into women",
+        "length_retained_m": 98.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce shots of world screaming and hideous faces of the demons before Taj encounters the Satan",
+        "length_retained_m": 63.84
+      }
+    ]
+  },
+  {
+    "film_title": "Royal Mail",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38408",
+    "cert_date": "28-6-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shot of indecorous dancing in the picturisation accompanying song No. 1 beginning with the word 'Mera Dil Naach Utha....'",
+        "length_m": 9.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The words 'Hamiro Saath Mahalmen Chalogi' 'Jujui Arapki Marji'",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the shot of Rajkumari tied with the crane hook and of the King bound to the railway lines",
+        "length_retained_m": 18.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The shot of backward bending of the lancer with emphasised bust in the picturisation accompanying song No. 5 beginning with the words 'Nazar Kaatil, Jawan....'",
+        "length_m": 9.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Voluntarily deleted: The scene showing fight between Horn and the repriya",
+        "length_m": 10.97
+      }
+    ]
+  },
+  {
+    "film_title": "Mutiny On The Bounty",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "cert_no": "1387",
+    "cert_date": "20-5-1963",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI & VII",
+        "description": "Near-view of Tahitian gals with busts partly exposed and with bare back and hip-dancing indecorously and shots of the princes and Tahitian girls suggestively lying together",
+        "length_m": 28.5
+      }
+    ]
+  }
+]

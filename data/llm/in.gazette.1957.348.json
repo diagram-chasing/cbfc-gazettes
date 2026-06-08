@@ -1,0 +1,908 @@
+[
+  {
+    "film_title": "New Faces",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Edward L. Alperson, U.S.A.",
+    "cert_no": "19009",
+    "cert_date": "21-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "UM Z",
+        "description": "Shots in which Eartha Kitt in a striptease removes her dress.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "In the",
+        "description": "In the 'gitten room' sequence, shots of a girl exposing her thigh and slipping, and a shot of a male peeping.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "tied IV",
+        "description": "In the song-dance sequence 'Love Is A Simple Thing', shots at the end of the first dance item showing the female dancer exposing her thighs and underwear.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red VIII",
+        "description": "In the sequence where a performer narrates his 'African Safari', the words 'Sister on father's side' and shots showing pictures of African natives and their Chief.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "The Turkish song-dance item of Eartha Kitt is retained until she finishes her lines and starts receding towards the sofa. Subsequent shots showing her going to the sofa, showing her male secretary, and closing the curtain on herself.",
+        "length_m": 10.058
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XI",
+        "description": "Shots in which Lizzie Borden wearing red stockings exhibits her underwear while dancing.",
+        "length_m": 15.5448
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "In Eartha Kitt’s song number 'Everyone gets into a dull routine', the lines 'The Kinsey Report was made, for me Aaqa Khan gave up being weighed for me' and 'The Qoa L L 0hianj Kai Sheh send me pots of tea Gaylord ITanser sends me Vitamin D'.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "insertion",
+        "reel": "(Voluntarily)",
+        "description": "Entire item with introduction 'Oedipus Goes South'.",
+        "length_m": 115.824
+      },
+      {
+        "kind": "insertion",
+        "reel": "(Voluntarily)",
+        "description": "Entire song 'Boston Begnine'.",
+        "length_m": 83.2152
+      },
+      {
+        "kind": "reduction",
+        "reel": "(Voluntarily)",
+        "description": "Penny Candy.",
+        "length_retained_m": 30.7848
+      },
+      {
+        "kind": "reduction",
+        "reel": "(Voluntarily)",
+        "description": "Tea For Two.",
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “New Faces”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Edward L. Alperson, U.S.A.",
+    "cert_no": "10011",
+    "cert_date": "22-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots in which Eartha Kitt in a striptease act removes her dress.",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The entire sequence of the Turkish song-dance of Eartha Kitt including the shots in which Eartha shows her Secretary and closes the curtain on herself.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shots in which Lizzie Borden wearing red stockings exhibits her underwear while dancing.",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Yahoodi Ki Ladhi",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "New Oriental Pictures, India",
+    "cert_no": "19032",
+    "cert_date": "24-1-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Shots where a Jew is pierced with lances in the court of Pharaoh and blood oozes out of his wounds and pools upon the ground.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "The dialogue 'Mujsam aag bn'.",
+        "length_m": 6.9996
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV, V",
+        "description": "The words 'Bhangi' and 'Bhangin' wherever used.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "The following dialogue of the Sipah Salar: 'Yahoodi ke hag mo abbi tak also phool maujood ha in'.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "ZiUl YahoodJu'.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bodiun",
+        "description": "To a flash the scene of the leper.",
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Zala Gala Visaroon Ja",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Azad Chitra, India",
+    "cert_no": "19033",
+    "cert_date": "24-1-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Red 7",
+        "description": "From the dialogue of Maya to Ramdas the words 'Pan flarvasvnch tula dilyavar Int&Iohe rahilay kay?'.",
+        "length_m": 1.95072
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red IX",
+        "description": "From Maya's dialogue the words 'Ohambharaohya Do vain Khntaraohl Pooja Pahlje' and also Ramosh’s reference to 'Ohambharaolia Dev'.",
+        "length_m": 4.7547
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bad XII",
+        "description": "The words 'Anubhav a&he wntala' said by Maya to I'amceh with reference to Shanta.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The words from Maya’s dialogue 'Promacha mi Bazaar mandla ahe ani duiari kade udoon jav'.",
+        "length_m": 9.2025
+      },
+      {
+        "kind": "reduction",
+        "reel": "Bed XIV",
+        "description": "Shots at the end of the film, in which Ramesh is seen on the bed.",
+        "length_retained_m": 7.8333
+      }
+    ]
+  },
+  {
+    "film_title": "Krishna Sudama",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "TasvlTistan, India",
+    "cert_no": "19046",
+    "cert_date": "24-1-87",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red II",
+        "description": "Shots where Ashram boys are shown fowling Sudama and doubtfully leading him to sucking udder of the cow.",
+        "length_m": 57.912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red II",
+        "description": "The sequence where Ashram boys are shown by the bank of the stream torturing Sudama by forcing him to dip again and again in icy-cold water and by burning his dhoti.",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XI",
+        "description": "Sequence where Sudama is insulted at the gate of Krishna's palace by the 'dwarpala' and is pushed and thrown on the floor.",
+        "length_m": 12.4968
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XII",
+        "description": "The following dialogue of Krishna: 'Mnjhe apno kiye hue pap on B e mulct hone do, Inohathone apne mama ka rakt bay*h» lha. Tuhon ek brahmin ke eharan dhone so upuc pap dhone do'.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red VII",
+        "description": "To a flash the shot where blood-smeared hand of Sudama is shown.",
+        "length_retained_m": 0.51816
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red VII",
+        "description": "To two strokes the lashing of Sudama’s bare and prostrate body.",
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume 706",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "19047",
+    "cert_date": "24-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Commentary and accompanying shots under the heading: 'Vietnamese Refugees in Saigon'. 'At a reception center, the refugees report that in Nghe-an and other North Vietnamese Provinces, demands for human rights were answered by massacre. The escapees are given food, money and shelter help them to a fresh start.. Their cherished dream, freedom, has become a reality'.",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Mehfll",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "M. Masud, India",
+    "cert_no": "19048",
+    "cert_date": "28-1-87",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I, XII",
+        "description": "All references visual or sound to the sacrifice of six or more girls at the altar of the satanic evil spirit.",
+        "length_m": 35.3568
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XIV",
+        "description": "Close shots of Randhir while giving hard blows to the old man (Malati’s father).",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "replacement",
+        "reel": "In the sequence in which Retro comes and falls at the gate of Seth Jankidas’s bungalow",
+        "description": "Close shots of Shyam when he lifts Renu up.",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Burdidi",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Sarat Bani Chitra Private Ltd., India",
+    "cert_no": "12807",
+    "cert_date": "23-RS7",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "(1)",
+        "description": "Reduce the scenes of drunkenness to the minimum required for continuity.",
+        "length_retained_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "(1)",
+        "description": "Voluntary deletion of a fire scene.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "(2) In reel No. 12",
+        "description": "Reduce the whole sequence of the song and dance by the ‘BuII debiting the close ups of the dancer making indecent gestures and the pi ot urination and dialogue depicting the lewd reactions of Suron’s friend to the dance.",
+        "length_retained_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "(3) In reel No. 13",
+        "description": "Delete the remarks by Bhattacharya in regard to the Zaniindar, Huron Roy that no beautiful woman could escape his ulutohoa, from the words 'Tat© to aab to. . .Eijanbe'.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "insertion",
+        "reel": "(4) In reel No. 1",
+        "description": "Add a tablet showing that the story relates to a period over 80 to 40 years ago.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "insertion",
+        "reel": "(5) In reel No. 10",
+        "description": "Voluntary addition of a commentary with title regarding the lapse of time 6 years.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "insertion",
+        "reel": "(6) In reel No. 70",
+        "description": "Voluntary addition of a scene in the boat that Bardidl is offering necklace to the boatman to reach Huron at his house at Laltagaon on the very night.",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Swayamprabha",
+    "languages": [
+      "Tolugu"
+    ],
+    "format": "35 mm",
+    "producer": "Solvakoti Pictures, Madras",
+    "cert_no": "16369",
+    "cert_date": "26th January 1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the entire picture and dialogue of Premaveer visiting the prow ti Lute's house. (There is no objection to the portion where Jaganna leads him in and tells Kamukshi about the prince).",
+        "length_m": 66.4464
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the entire picture and dialogue of Premaveer in the prow ti Lute's house, his taking fright and jumping out on the mention of the king, the king’s arrival and being received.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "When the minister informs Chandrakanta about the arrival of the visitor, namely, Prabhavati, delete the dialogue of his asking whether it is a woman and how old she is, and the reply that she was about 20 years old and the further statement 'I shall without fail receive her'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "When Chandrakanta enters Prabhavati's residence, delete the maids asking for payment, his question 'Is this usual fee required by you also?', giving them a ring and entering.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "When Premaveer is received in the prostitute’s house, delete the question 'Is anybody else likely to come?' and the reply 'Who else is there? — either it should be the Maharajah or yourself'.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "After Swayamprabha discloses to Ghandrakanta that she is his wife, delete the rest of the sequence showing his pushing her down, her weeping and pleading, her being dragged out and down, the maids, the minister and others being pushed aside and her being dragged away.",
+        "length_m": 39.624
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "When, Chitrangi asks Chandrakanta to forget his wife, delete her statement that it was her family art to bring joy to saddened minds.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In the cell, delete the entire picture and sound of Chandrakanta pushing down and whipping Swayampraba, including the sounds off screen. (No objection to the portion up to the reference to the daily punishment; there after the next picture will show Chandrakanta coming out).",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "After Vijayasimha tells Swayamprabha that womankind is always like that, delete his statement 'For the pleasure of the husband, the wife will even go and be the servant of the prostitute'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "When Chandrakanta knocks on Chitrangi's door, delete the picture and dialogue showing Chitrangi and Premaveer seated on the bed and converging, and her sending him off. (Note — There is no objection to Premaveer and Kamakshi being given instructions by Chitrangi later).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the entire picture and dialogue of Swayampraba being molested by the robber. (Note — There is no objection to the sequence up to Swayampraba first asking the robber and his laughter in reply and a brief insert, of taking child, for continuity. The next picture will show Swayampraba running out).",
+        "length_m": 53.6448
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "After Kamakshi, Jaganna and Chitrangi have gone on inhaling the smoke and the wanyaeis enter, delete the rest of that sequence showing them removing the jewels and silver vessels, gagging the women and running out.",
+        "length_m": 15.5448
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "When Jaganna is lamenting to Premaveer about the looting, delete the reference to the property having been earned by great effort, and the comment that it was exactly by bodily effort.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "18 (a)",
+        "description": "After the cobra is killed by Raja, and before he fights with the bhuta, delete the three close-up inserts of the bhuta’s face; and (b) delete the close-up of Raja on the upper portions of the bhuta’s body engaged in the final fight before the bhuta is killed, including the sounds. (Note — There is no objection to brief flash for continuity without sounds, and to the long-shot showing the full body lying down dead).",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Swayamprabha",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Solvakoti Pictures, Madras",
+    "cert_no": "10370",
+    "cert_date": "26-1-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "When Sanyasi inspects the contents of the portfolio stolen by Dodi, delete the sentence 'Atleast the wages should be available'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "During song No. 3, delete the picture of temple tower and worshippers at the entrance, against last two lines of the song.",
+        "length_retained_m": 10.3632
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "When Pullia’s wife dies, reduce to half the present length, the lamentation by him, his shouting and laughing madly and knocking his head on the pillar.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "When Kumar is hit on the head by Sanyasi from behind, delete the sound of his screaming. (No objection to low level sound).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "During the interrogation of Situ. in the Police Station, delete all comedy by the policemen and the exposure of the policemen, and the policemen shouting at her and the words (with the accompanying gestures each time), 'shut up', 'that's good', 'damn it', 'pilla', 'stand up' and the final gesture by the policemen when Situ. goes.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the picture and dialogue of Kamal a being molested by Suraiya, his closing the door and laughing, bolting the door, whispering threateningly, catching her and the tussle, her biting him and his falling and her throwing things at him. (No objection to her slapping him at first, and when at the end she throws the pot of flour on his head- The rest are to be deleted).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "When the man is searching his house and smashing the pots for money to buy illicit liquor, (a) delete the picture and dialogue of his taking away the talgir from his wife, her screaming and his shouting and pushing her; (b) Delete the picture and dialogue of his coming in drunk, trampling on the sleeping child and falling on his wife, including the sounds of shouting. (No objection from when Saroja says 'Agu. P').",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "When Saroja is shown tied up, delete the picture and sound of Garama offering her water twice, then smashing the pot and laughing.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "When Saroja is shown reading the 'Andhraprabha', delete her words 'Dush prachura'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "20",
+        "description": "Reduce to half the present length, the fight between Sanyasi and Ramesh.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Swayamprabha",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Solvakoti Pictures, Madras",
+    "cert_no": "10309",
+    "cert_date": "25-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of emblem and credit titles.",
+        "length_m": 60.96
+      }
+    ]
+  },
+  {
+    "film_title": "Gun For A Coward",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Universal International Films Inc., U.S.A.",
+    "cert_no": "19064",
+    "cert_date": "28-1-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Considerably the scenes of close combat between the brothers Will and Blew, particularly deleting close shots of direct punches.",
+        "length_retained_m": 11.2776
+      }
+    ]
+  },
+  {
+    "film_title": "Sheeh Noag",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Ajit Pictures, India",
+    "cert_no": "19066",
+    "cert_date": "28-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Shots in which two women, supposed to represent Swargalaxmi and Parithivi, are dragged by the hair by Indrajit in the court of Ravana and thrown at his feet.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shot of Brahma ordering Sarenwall to go and settle on Mantbara’s tongue.",
+        "length_m": 14.3256
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Words of Rishi paying to Rama 'Rishi Muniyon ko va kaeholm hi i-Lmha jaate ham' with reference to Ravana's people.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From dialogue of Messenger to Rama, the passage 'Jinko Rishi achhnt sazriajto the' with reference to Kirata, Bhilla etc.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From India's dialogue to Narada words '(Aap kab juto mart© hain'.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From Song No. 6 the word 'Dravid' from 'Dravid desh ke samrat'.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Run for The Sun",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "SuperScope",
+    "producer": "Rust-FloM Corporation, U.S.A.",
+    "cert_no": "19067",
+    "cert_date": "29-1-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Red X",
+        "description": "The scene of brutal fighting between Mike and the black hound.",
+        "length_retained_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Bannri Bala",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "format": "35 mm",
+    "producer": "Desai Productions, India",
+    "cert_no": "19068",
+    "cert_date": "29-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Ref V",
+        "description": "From the dialogue of Madankumar’s attendant the words 'That pat ghungliat klmlkar RAjknmiu Ito apna umira roop dikha do' addressed to the dancing girl.",
+        "length_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "Behave Yourself",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "RKO Radio Pictures, U.S.A.",
+    "cert_no": "19116",
+    "cert_date": "29-1-67",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red No. 2",
+        "description": "Delete the scene showing Bill taking his wife up the stairs into his bed-room.",
+        "length_m": 30.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Cardboard Cavalier",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "J. Arthur Rank Organisation, U.K.",
+    "cert_no": "19142",
+    "cert_date": "1-2-1957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the taking of the toast by Col. Lovelace.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the reference in the tavern scene to Ale being served.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Santiago",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Warnerscope",
+    "producer": "Warner Bros. Pictures Inc., U.S.A.",
+    "cert_no": "19220",
+    "cert_date": "2-2-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "One out of two close ups of the boy with blood trickling out of his mouth.",
+        "length_m": 0.762
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 10",
+        "description": "To a flash a soldier being drowned and strangulated.",
+        "length_retained_m": 6.5532
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. 11",
+        "description": "The last fight in the jungle.",
+        "length_retained_m": 14.0208
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Santiago\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Warnerscope",
+    "producer": "Warner Bros. Pictures Inc., U.S.A.",
+    "cert_no": "19221",
+    "cert_date": "2-2-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "The fight in the jungle.",
+        "length_retained_m": 0.88392
+      }
+    ]
+  },
+  {
+    "film_title": "Outside The Law",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Universal-International Films Inc., U.S.A.",
+    "cert_no": "19223",
+    "cert_date": "2-2-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Red 7",
+        "description": "The beating up of Johnny Salvo in his hotel room, omitting the blows when he is held by another and a very low punch in the stomach.",
+        "length_retained_m": 7.0104
+      }
+    ]
+  },
+  {
+    "film_title": "Patit Pawan",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "D. K. Films, Motion Pictures Producers, India",
+    "cert_no": "14795",
+    "cert_date": "6th December 1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red I",
+        "description": "Tableau.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red I /f",
+        "description": "Namdev and party committing dacoity (Mixes).",
+        "length_m": 15.5448
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red /7",
+        "description": "The Sardar giving the necklace to Neelambari saying 'Namdev terrelie hoar laaya' Namdev giving money to Rajai in the temple, the doha.",
+        "length_m": 62.484
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red V",
+        "description": "Neelambari going to Namdev in the cave. Namdev and party bluffing Mukhi in the guise of Sadhus from the mountain to Mukhia’s house.",
+        "length_m": 46.6344
+      }
+    ]
+  },
+  {
+    "film_title": "Dwarikodfieesh",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Bhagyodaya Pictures, India",
+    "cert_no": "18003",
+    "cert_date": "26-12-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel F///",
+        "description": "Shots of Kalindi singing without serpent crawling over her body replaced in place of deleted shots of Kalindi with serpent crawling over her body and close shots of serpents in the song.",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red XI",
+        "description": "Shots of singer and instructions of spectators replaced in place of deleted shots of funeral procession and funeral pyre.",
+        "length_m": 41.148
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of mother's dead body.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "description": "Flame suggestive funeral pyre.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of burnt out pyre.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "description": "Close-up of the cobra at the end of the song.",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Bhowani Junction",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "18035",
+    "cert_date": "11-12-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Ranjit lighting Victoria’s cigarette.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Ranjit lighting Victoria's cigarette.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Ranjit offering Victoria the holy book of the Sikhs.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Sikh priest and other Sikhs chanting hymns in the Gurudwara.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Jagte Ruho",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "RanbirRaj Kapoor, India",
+    "cert_no": "17579",
+    "cert_date": "5-9-60",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. /A",
+        "description": "The shot showing Sardar sharpening his b*jpun.",
+        "length_m": 1.0668
+      }
+    ]
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "film_title": "Sinbasan",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Shri D.V. Rao, Shri Jabbar Patel Kutkumb Road, Dond Poona.",
+    "cert_no": "B/F-344",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the following sentence in the dialogue: 'Suralya karoon ghala'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the expression Randsali",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI & XIII",
+        "description": "Delete the following abusive words wherever they appear: 'Bhosadicha', 'Bhadavya'",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "The In-Laws",
+    "languages": [
+      "English"
+    ],
+    "producer": "Arthur Hillier and William Sackheim, Inc.; 42-M Karyo Marg, Bombay-20",
+    "cert_no": "B/F-206",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to the barest minimum, for the sake of continuity, the shots showing the nude large size photograph of the lady",
+        "length_m": 26.21,
+        "length_retained_m": 2789.53
+      }
+    ]
+  },
+  {
+    "film_title": "Dhan Daulat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Vinod Shah, Bunglow No. 5, Moora Baug, Santacruz, West, Bombay-54",
+    "cert_no": "B/F-345",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the derogatory references to the caste 'Sunar' in the following sentences: (i) 'Neech Haramzada sunar ne.' (ii) 'Kasai nahi, sundu or Sunars'",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce suitably in length and impact the last fight sequence",
+        "length_m": 13.9,
+        "length_retained_m": 68.4
+      }
+    ]
+  },
+  {
+    "film_title": "Ganga Bhavani",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Children Film Society, India, Hingorani House, Worli, Bombay-18",
+    "cert_no": "B/F-263",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Maniara",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Babhubhai Thiba, 2, Nabuvat Villa, N. S. Road, J. V. P. D. Scheme, Andheri, West, Bombay-58",
+    "cert_no": "B/F-326",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV, VII, X, & XII",
+        "description": "Deleted all the sequences in the film where the comedian appears with his fancco",
+        "length_m": 396.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "IV",
+        "description": "Comedian's request to his father-in-law about marrying his daughter",
+        "length_m": 313.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Marriage scene of comedian and his fianc\nuevo",
+        "length_m": 119.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "IX",
+        "description": "Comedian approaches his friend Baharoopia to help him in escaping now from cell",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Comedian, his fiancee and his friend Baburoopia go to Khandar and how a play (Tamasha) to the soldier",
+        "length_m": 48.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Comedian and his wife visit a temple for granting their wishes",
+        "length_m": 58.2
+      }
+    ]
+  },
+  {
+    "film_title": "Jagal Bhag Hamar",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "producer": "M/s. Swar Chitra, 11-A, Roopdarshan, Juhu Lane, Andheri, (W), Bombay-58",
+    "cert_no": "B/F-331",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Rape sequence may be drastically reduced; particularly the shots after Moti falls on Sono, may be deleted till his eye falls on her ring",
+        "length_m": 13.06,
+        "length_retained_m": 7.5
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Death Dimension",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Finance Corporation. Harry Hope for Spectular Film Productions & Nicholas Communication Inc.",
+    "cert_no": "B/90584",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete entirely the shot in which a hand uncovers the transparent screen revealing Kelly's girl friend with bare bosom screaming (main title appears on this shot)",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot in which a (black) henchman of Pig attacks another man with a lethal ring worn in his finger with a scream",
+        "length_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot(s) in which a man with semi-nude girls around him seen in a swimming pool",
+        "length_m": 1.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the shot in which the henchman of Pig frightens a Felicia with a turtle and her scream",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete that shot in which Kelly bashes a goonda on the tree trunk",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the shot in which Kelly pushes the henchman and the latter falls down the Cliff",
+        "length_m": 1.05
+      }
+    ]
+  }
+]

@@ -1,0 +1,671 @@
+[
+  {
+    "film_title": "रानी रिक्शावाली",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "M/s Filmnagar, 30, Neelam Bldg., Worli, Bombay-18",
+    "cert_no": "B /F -1330",
+    "cert_date": "20-8-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogue of Mehta s Ratrary Padharima Padi Padi Kamaish.",
+        "length_m": 3.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the overall impact of the fight between the opposing groups and delete the repeated crushing of villiam s arms and limbs.",
+        "length_m": 14.72
+      }
+    ]
+  },
+  {
+    "film_title": "जीवन रहस्य",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Lalit Kohli, Climb Films, Triangle",
+    "cert_no": "B / 105027",
+    "cert_date": "16-8-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the views of the boy drawing sketch of male genitals. The film should end before the child draws the sketch.",
+        "length_m": 0.32
+      }
+    ]
+  },
+  {
+    "film_title": "Umrao Jaan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "N/A",
+    "cert_no": "U -Cert. No. 98288",
+    "cert_date": "3-11-1981",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Credit titles of all assistants of various departments.",
+        "length_m": 58.98
+      },
+      {
+        "kind": "insertion",
+        "reel": "11",
+        "description": "The scene showing Night Amiran as a girl getting up and running in corridor. Hussaini wakes up and call Amiran and searching into the room. Amiran is trying to jump. At that time Hussain and Maulvi catch her and beat her. Then Amiran is brought back to the room."
+      }
+    ]
+  },
+  {
+    "film_title": "Sivaranjini",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s Asha Chithra Films Kerala",
+    "cert_no": "M / 16283",
+    "cert_date": "16-8-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the reference to blood donation for Rs. 11 /- in the director s dialogue.",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the visual and song of Hariprasad kissing one of the boys."
+      }
+    ]
+  },
+  {
+    "film_title": "Kanne Donga",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s. Almighty Films, Madras",
+    "cert_no": "M /16126",
+    "cert_date": "19-8-82",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "Delete the word Deli in the title.",
+        "length_m": 5.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of cleavage of the girl while getting up in the hut."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visual of Ayyar squeezing the horn and putting his finger into it."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the reference to Panchali in the dialogue of Iyyar."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the rape sequence retain only the opening shot of the man looking at the girl, approaching her, a dog barking and the man running away."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Nirmala s thighs exposed revealing her panties while on the ground."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of cleavage of Rajeswari as she comes out from the hut."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of Nambudri s daughter squeezing her thigh."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In the song dance sequence, delete all close shots of naval, midriff, hip jerks and also close shots of dancer s bottom jerks."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete visual of Jyothilakshmi pointing her breast with indecent jerks."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the visuals of the camera focussing on Liza s thigh and under wear and struggle between her and Robinson s henchmen."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete close shots of Liza s bottom when Robinson s henchmen carry her towards the building."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "shots of Jyer urinating along with dialogues."
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduction in fight sequence."
+      }
+    ]
+  },
+  {
+    "film_title": "Thyagi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s. Padmalaya Pictures, Madras",
+    "cert_no": "M /15892",
+    "cert_date": "20-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Reduced by 25 % the fighting in the prison cell, delete also the shot showing the finger drawing blood from the neck.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete all reference to Rum."
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the fighting scene in the hotel by 25 %, retaining the shot relating to kicking on the forehead.",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete all visuals of Ganesh s leg on Lela s neck and all visuals of stamping."
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the sequence of Ganesh fighting with the hefty opponent by 25 %, However, the shot of hitting on the forehead can be retained.",
+        "length_m": 7.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the words of one of the villains Videvidama virundhalippa (visual also deleted)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In the bath-tub scene, after Rajani sits on the edge of the bath-tub, delete the remaining visuals of the bath-tub scene."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the visuals showing giving connection to the hosepipe with petrol and also with the water-pap."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shots of Ganesh s sister s body being rubbed up and down by the villains."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Pratap sword Anubavi. (visual also deleted)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete all sadistic expression of the villain including laughter, both before and after Ganesh and Gita go into the room and the door is shut."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7 & 8",
+        "description": "Delete all references to Arab countries."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the words uttered by Ganesh Apple kadithalthan injkkum (visual also deleted)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete all close and mid-close shots of nude poster on the wall above the bath-tub when both Ganesh enters the toilet to place the gun in the tank and when Baig searches the toilet."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the fight between Ganesh and Baig, delete all visuals of kicking and punching on the stomach."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the introduction of the VIPS with the words Ivardhan man dhiri, invardhan secretary, ivar I. G."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete all visuals of the VIP in bed, retaining only the negatives after Ganesh clicks his camera."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the words Thai kulam. (visual also deleted)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the torture scene, delete the visuals (including sound) showing the facial reaction of Ganesh when the nails are pulled and also when electricity is applied. The shot showing the plier with nail should also be deleted."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the visuals after Kamala s words \"Ivangalukku azhivu kaalam aarambhamayiduthu\" till Kamala starts crawling to Ganesh. However, the shot relating to eggs being crushed may be retained."
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the visuals of blood being wiped from the ground and collected in the bucket."
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Deleted the visual of Ajab Singh and Pratap writhing and shivering on the ground before death."
+      }
+    ]
+  },
+  {
+    "film_title": "Panchajanyam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Drishya Chitra, Madras",
+    "cert_no": "M -16288",
+    "cert_date": "25-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In the scene in the police station, delete shot of the accused shown between the constables picking up the cigarette removing match box from the pocket of the constable and smoking it Also delete the visual of the police constable gesturing for money being given."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of explosive being shown under the bonnet of the jeep."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the cabaret scene delete shots of all prominent breast jerks of the dancer."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete shots of lady and man embracing on the bed, retaining only the shot of the initial lying on bed."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "In the police station scene, delete the dialogue of the two constables regarding acceptance of money."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete shots of Sarada and the men embracing on the bed, retaining only the shots of their lying together."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the scene: (a) reduce struggle of Sarada and the villain. (b) delete the visual of villain zipping his trouser. (c) delete the shot of the three other villains lying on the rock and also their reaction. (d) delete the shot of the villain gesturing to another man to proceed."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the shot of the dead girl after the rape retaining only a mere suggestion."
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete shots of villain kicking Sarasu, retaining only the mere suggestion at the beginning."
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete shots of janat being run over and her blood stained face."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4, 5, 8, 13 & 14",
+        "description": "In all the fight scenes delete close shots of punching on face, kicking on stomach, hitting on head and holding by neck and stamping."
+      }
+    ]
+  },
+  {
+    "film_title": "Aasa",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Santhosh Films, Madras",
+    "cert_no": "M -16272",
+    "cert_date": "28-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of a hotel boy from the time he sprawls on the sand and waves hit him."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Sunil s red underwear."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of Kabir s tying his lungi as he gets out of bed and walks."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "After the fantasy sequence, delete the visual of a boy and a girl on the ground in a kissing posture."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words stepney uttered by Lal."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Reduce by 50 % the kissing into the telephone by Aasa and Boban and delete all shots of William s reaction."
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "In the song sequence, delete all the visuals of Boban passing his face over Aasa s body. (Replaced with c.s. of Aasa and clouds-11.15 ft. approved).",
+        "length_m": 3.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the visuals of Boban being hit on the stomach and being kicked viciously."
+      }
+    ]
+  },
+  {
+    "film_title": "Ina",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Murali Movies, Madras",
+    "cert_no": "M -16331",
+    "cert_date": "25-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of step-mother pulling the head of her son, Vinod to her breast."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shots of Vinod s step-mother wiping off the sweat of her son, Vinod in a very suggestive manner on the terrace after he had finished his exercise."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shots of goods train stops in the night and Anitha and Vinod tries to get down. (shot Nos. 123 to 143)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Anitha and Vinod walks through the woods. (shot Nos. 149 to 164)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Anitha and Vinod takes bath in a stream. (shut No. 1 to 26)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Song sequence Maior and Aunty singing (shot Nos. 48 to 117)."
+      }
+    ]
+  },
+  {
+    "film_title": "Novemborente Nashtam",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Charashnia Pictures, Calicut",
+    "cert_no": "M -16329",
+    "cert_date": "25-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the scene depicting the murder of Das by Mora, retaining only the following: (a) Mora bending over the cot with a bolt on her hand. (b) Moora on the floor pulling the belt and (c) face of Das after his death. (Replaced with (a) Meera struggling with a dog. (b) empty bottles 21.02 ft. approved).",
+        "length_m": 6.44
+      }
+    ]
+  },
+  {
+    "film_title": "Pakkathu Vootlu Rola",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Bhairavi Films, Madras",
+    "cert_no": "M -16321",
+    "cert_date": "26-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogue from Endha sizo aanaalum to panniduven."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dialogue between Madan and girl I will teach you a good game you will like it (This is not in the script)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "In the outdoor shooting scene, delete the dialogue of dancer to cameraman lanikku producer sir varuvaara naalaikku paakalam."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "From the visuals of song-1, delete the following: (A) Radha bending backward and Karthik falling over her. (B) Radha shaking her body suggestively near the rock. (C) Radha with Karthik behind her and both swaying together forward & backward."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the policeman s dialogue to Manorama Avar indoorle volaikariyai diroct pannikittu."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue of Rani to Karthik and Thyagu Klambunga."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6 & 7",
+        "description": "Delete close and mid-close shots of the breast of Karthik disguised as woman in the garden in the rickshaw and in the fight scene retaining only a few shots for continuity."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the visual of Karthik putting his leg over Radha."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the word of Karthik to Radha Pizhinjidum (shot No. 100)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the dialogue of policemen from Andha ponnu sandohapadera to mattonguthu."
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the words in rickshawalla dialogue Poondhu vita yaadu."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the dialogue of heroine s brother pillayae porakkathu nna aduthu veotukaaranukku offere koduthitiya."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the heroine s brother dialogue vitta midudangama vaasikka solveengalaa."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete visuals of dog and bitch passing and following each other."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete shots of Karthik going to bathroom and taking shower."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete from the dialogue of Madan and Karthik reference to first night reaction and all reference to cricket."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the dialogue of Karthik to Thyagu Adhukku thang."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "From the visuals of song No. 3, delete the following: (a) Karthik stroking Radha s thigh on the sofa. (b) views of their legs intertwined and also their kissing suggestive movements and jerks on the bed. (c) both standing in contact with each other and making a rocking movements (Radha s close shot 2.06 approved). (d) suggestive movement of Radha on bed. (Replaced with c.s. of Karthik 2.15 ft. approved)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete from the dialogue of Manorama to Radha Kaalala yurasu and No nenechaalum vilagt vara mudiyadumma."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the dialogue between Karthik and maid servant Vidiya Novai soyyaradhu and Sakasakala Rani angoy dhan."
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete Karthik s dialogue to Radha Kannji pona maattai marupadiyum katti vaikkartye."
+      }
+    ]
+  },
+  {
+    "film_title": "Aasa",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Santhosh Films, Madras",
+    "cert_no": "M -16272",
+    "cert_date": "28-8-82",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of a visitor entering the room of the three boys, and the shot of the wall on the hall being completely nude."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Sunil s red underwear."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visual of Kabir s tying his lungi as he gets out of bed and walks."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "After the fantasy sequence, delete the visual of a boy and a girl on the ground in a kissing posture."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words stepney uttered by Lal."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Reduce by 50 % the kissing into the telephone by Aasa and Boban and delete all shots of William s reaction."
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "In the song sequence, delete all the visuals of Boban passing his face over Aasa s body. (Replaced with c.s. of Aasa and clouds-11.15 ft. approved).",
+        "length_m": 3.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the visuals of Boban being hit on the stomach and being kicked viciously."
+      }
+    ]
+  }
+]

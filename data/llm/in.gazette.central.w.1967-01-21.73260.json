@@ -1,0 +1,414 @@
+[
+  {
+    "film_title": "McMales Navy Joins the Airforce",
+    "languages": [
+      "English"
+    ],
+    "producer": "Universal Pictures Pvt. Ltd., Metro House, M. G. Road, Bombay-1. Universal International, U.S.A.",
+    "cert_no": "48581",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 2468.88,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II (1B)",
+        "description": "Deleted underlined words from dialogue spoken by Dimitri: 'Is not made in Russia? We get twenty-five years in the salt mines if we get caught smuggling non-communist booze', 'Ve hatevodka. Ve can't stand Vodka! Vill you hide viskey, stinker-da?', and 'You complaining? Boy, this set Revolution back ten years!'",
+        "length_m": 34.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II (1B)",
+        "description": "Deleted underlined word from sentence spoken by Christy: 'Commissar Parker Probably won't come snooping around, but if he does, make sure you’re in the bunks and under the blankets'",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II/ (2A ) and IV (2B )",
+        "description": "Deleted references to NKVD wherever it occurs",
+        "length_m": 2.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (21 )",
+        "description": "Deleted underlined words from dialogue: FUJI: '... He go to town with the Russians for more whiskey,' and CHRISTY: 'Hey, you guys help me get out of this Commie uniform and I'll go find our ensign!'",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B )",
+        "description": "Deleted underlined words from dialogue spoken by Dimitri: 'So, secret police make mistake. So who's gung tell 'em. Not me, bubi. I end up lookink liko dis...'",
+        "length_m": 2.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B )",
+        "description": "Deleted shots of Parker holding up the brassiere in the training plane",
+        "length_m": 21.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V (JA )",
+        "description": "Deleted sentences said by Parker to Smitty: '... I wasn't trying to turn you out. I don't even know where your handles are...'",
+        "length_m": 2.26
+      }
+    ]
+  },
+  {
+    "film_title": "A Pistol For A Ringo (Revised)",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Movie International, 3-E Naaz Bldg., Lamington Rd. Bombay-4. Produzioni Cinemato grafiche Mediterieni, Roma, Italy.",
+    "cert_no": "48582",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 95.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted shots of hitting of Ringo by bandits when his hands are tied up in the first sequence",
+        "length_m": 6.06
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted shot of the bandit chief shooting while looking into the mirror",
+        "length_m": 2.69
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted shot of a knife being held to a man's throat",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduced shots of shooting consistent with continuity",
+        "length_m": 2.69,
+        "length_retained_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Dil Ne Phir Yaad Kiya",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Rawal Films. 1st floor Sukh Sagar, Bombay-7. B. L. Rawal, Bombay-7.",
+    "cert_no": "48592",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4275.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "In the song 'Wo chaal chalo matwali...', deleted shots of the brassieres slipping down over the stomach of Bhagwan, disguised as a woman, and at the end of the song, shots of the brassieres floating in the river and being picked up by Bhagat",
+        "length_m": 8.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the sound of flying kiss on telephone by Amjad (twice)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the sound of kissing of the photograph by Ashok (twice)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted shots of indecorous bust movements by the female dancers in pink and green costumes",
+        "length_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replaced deleted shots of indecorous bust movements with approved shots",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted Ashiq's dialogue addressed to Hopey: 'Ghar ki Murgi ho to achha hai jab chali zivah kar liya'",
+        "length_m": 1.68
+      }
+    ]
+  },
+  {
+    "film_title": "Battle of the Bulge",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Ultra Panavision (70 mm)",
+    "producer": "Warner Bros. First National Pictures, Inc., Eros Bldg., Churchgate, Bombay-1. Milton Sperling and Philip Yordan.",
+    "cert_no": "48609",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 5953.04,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduced the scene of massacre and view of dead bodies lying on ground",
+        "length_m": 10.06,
+        "length_retained_m": 1920.0
+      }
+    ]
+  },
+  {
+    "film_title": "This is the Vision",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Rev. R. S. Rahator, Secretary, Bible Society of India & Ceylon, India House, Fort Street, Bombay. The British & Foreign Bible Society in Australia, Australia.",
+    "cert_no": "48610",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 323.83,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted the following sentences from the commentary: '...This word is the answer. And you and I have been commissioned to take it to the ends of the earth...', '...some of the best children's magazines in India, English language or Hindu, have Communist payoffs inside...', '...Christians commenced the literacy campaign...'",
+        "length_m": 2.89
+      }
+    ]
+  },
+  {
+    "film_title": "Vallavan Oruvan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm, B&W",
+    "producer": "The Modern Theatres Ltd., Salem, India. The Modern Theatres Ltd., Salem.",
+    "cert_no": "47949",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4547.62,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Song 1 - Deleted two shots of female dancers in frocks with indecorous bust and hip movements",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song 2 - Deleted the shot of Sankar's head on the bare leg of Tara when they fall down in the lawn",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "(a) Deleted the picture of Sadanandam's head touching Ammukkutti's bust. (b) Deleted the view of Ammukkutti's low neckline view when she bends over Sadanandam. (c) Deleted the shot of Tara lying over Sankar in close proximity view. (d) Deleted the shot of Susi's bust touching Surgunam's hand when she bends over it.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "(a) Deleted Ranjini's kissing overture to Sankar. (b) Deleted the close-up from leg to face with emphasis prominently visible.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted close-up from leg to face with emphasis prominently visible.",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted the entire sequence of workers agitation against the hotel till Ammukkutti's sentence 'Porattani Marattain'",
+        "length_m": 143.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Deleted the shot of male dancers turning female dancers with kerchiefs round the posteriors of the latter",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 1",
+        "description": "Deleted the word 'Antarangam'",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 2",
+        "description": "Deleted the word 'SerpadaiSetu'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "(a) Deleted the line 'Tannpa Taniya tuzhivi'. (b) Deleted 'Muhattukku nele va'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "Deleted 'Muhattukku nele va'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 5",
+        "description": "Deleted the words 'Porattam' and 'Necrzttam'",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Aduguadalu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm, B&W",
+    "producer": "Navajyothi Films, 33, Bharathi Nagar, T. Nagar, Madras-34. Navajyothi Films, 33, Bharathi Nagar, T. Nagar, Madras-34.",
+    "cert_no": "47960",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4965.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted two shots of Kila with bare bust peeping out from inside the bathroom when she asks for jacket",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "From Thith's dialogue, deleted the words 'Pallisaga dtesi'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted Viry blowing kiss at Parvati at the end of song 2",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted the word 'Sivarathri' from the dialogue of Venkatram, occurring twice",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "(a) Deleted the shot of Kokila where her bust is partly exposed through the slit on the line 'Vennela rammandi'. (b) Deleted the shot of Venkatram superimposing on Kokila with his hand to her side.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 3",
+        "description": "(c) Deleted the view of Kokila's bust exposure when he pulls her by hand",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "(a) Deleted the dancer's skirt going up revealing her undergarment. (b) Deleted the shot of male dancer and the female dancer on floor moving to the right of the screen when his front is touching her posterior.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "From Thath's dialogue, deleted the phrase 'nokkavalsina chota nokkito' referring to women and later 'ekkada nokkoodado akkada nokkavu'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 5",
+        "description": "When Parvati is lying in Vijay's lap, deleted the picture where his arms are pressing her bust in embrace",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "From Kokila's dialogue, deleted the words 'aaku'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "When Kokila sits on sofa and sobs, deleted the picture of exposure of contours of her bust (before the dissolve)",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "From Venkatram's dialogue, deleted the sentence 'antukuni povuta deenikiantuledu - pattapagulu nattaratri antoo ledu'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kanmanikal",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm, B&W",
+    "producer": "Ranganathan Pictures, Madras. Ranganathan Pictures, Madras.",
+    "cert_no": "47983",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3870.68,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel - Song 2",
+        "description": "Deleted the picture where Sankar's hand rubs the bust of Thangam in its upward movement",
+        "length_m": 1.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Deleted Sosa's sentence 'Ningalum oru Aanano?'",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Song 3 - Deleted the first four lines of the song text",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel -",
+        "description": "Deleted the kissing gesture in kitchen of Thomra and Sosa",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted Sosa's undressing when his organ is exposed",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted Thomma's sentence 'guan aanaltu sarumatich'",
+        "length_m": 3.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduced the shots of children crying",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      }
+    ]
+  }
+]

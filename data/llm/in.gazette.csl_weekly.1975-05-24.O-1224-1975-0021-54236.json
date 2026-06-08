@@ -1,0 +1,495 @@
+[
+  {
+    "film_title": "Kaanch Ayr Jeera",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sudarshan Chitra, 5-E, Naaz Bldg., Lamington Road, Bombay-4",
+    "cert_no": "70425",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete all movements of the Egyptian (belly) dancer during the song 'Main hoon saamne...'",
+        "length_m": 32.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Considerably reduce the molestation and attempted rape of the girl dancer by Cleopatra",
+        "length_m": 35.97,
+        "length_retained_m": 20.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the scene between Probilizat and Sandhya in water, specifically the top pose and bathing",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Completely delete the dance of Anita after her sari is removed and she is shown in a short, scanty dress during the song 'Ek kadari ek mithi...'",
+        "length_m": 32.3
+      }
+    ]
+  },
+  {
+    "film_title": "Babul Ki Galiyan",
+    "languages": [
+      "Hindustani"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "S.D. Narang, New Oriental Pictures, 140-150, Famous Cine Bldg., Bombay-11",
+    "cert_no": "70429",
+    "endorsement": "U",
+    "original_length_m": 4002.13,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the sound of kissing in the scene showing Dinesh and Rekha",
+        "length_m": 0.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "In the boat, reduce the scene showing close physical proximity between Dinesh and Rekha, especially his caressing her body, and delete the sound of kissing",
+        "length_m": 4.88,
+        "length_retained_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "III & IV",
+        "description": "Reduce the showing of gambling by students with high stakes and reduce also the drinking bowls",
+        "length_m": 4.88,
+        "length_retained_m": 18.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the reference to 'Adiyal ghodi lai, usko expert rider chahiye. Ek hi thrust men winning post par pahunch jayegi' said by Sudhir with reference to Sharda",
+        "length_m": 0.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the reference to the college trustee whom Sharda is to meet before the stage shows",
+        "length_m": 2.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "From the picturisation of the song 'Lo yeh bhi aa gaye', delete the views of the female dancers jumping and sitting on the waists of male dancers, and delete prominent views of exposed thighs of girls in a row",
+        "length_m": 2.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to a flash the prominent view of the cover photograph on 'Playboy' magazine, as shown by Sudhir for the first time in the class room",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "From the song 'NA na na', delete the opening shot on music, circulating of hips on music, and rolling on the words 'Aag ko gale na Lagana'",
+        "length_m": 9.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the word 'Ghees' in the dialogue, 'Tumhara kya Ghees gaya'",
+        "length_m": 1.06
+      }
+    ]
+  },
+  {
+    "film_title": "Baazigar",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Mukul Enterprises, Ranjit Studios, Dadar, Bombay-14",
+    "cert_no": "70455",
+    "endorsement": "U",
+    "original_length_m": 3995.6,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the following words from the dialogue spoken by Lohar: (a) 'phans gayi...' up to 'Tel vel yehan kuch nahin hai' and (b) 'Chavi Phansa ke jaraha hun'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "From the song dance 'Mere jhoomke naacho jawani to ghungroo toot gaye...', delete the shot of Kamini rolling on Mansingh's body, the close view of Kamini's face on Mansingh's posterior, and two close views of Kamini jerking her breasts towards the end",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "From the song dance 'Mere jhoomke naacho jawani to ghungroo toot gaye...', delete the view of Mansingh moving his face on Kamini's body towards the end of the song",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete Mansingh's words 'Hamare mahalonmen ladki kunwari aati hai lekin kunwari jaati nahin'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete soldier's words 'Chal be o Bhagwani'",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Lalkar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "69855",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted various shots",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted various shots",
+        "length_m": 59.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted various shots",
+        "length_m": 79.86
+      }
+    ]
+  },
+  {
+    "film_title": "Kulagawravam",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35 mm",
+    "producer": "Ramakrishtna, NAT Combine, Madras",
+    "cert_no": "66587",
+    "endorsement": "U",
+    "original_length_m": 4880.14,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "1",
+        "description": "From the picturisation of song 'Happy life Kavali', delete the view of a girl in swimming suit climbing over the back of a boy at the beach",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "From the picturisation of song 'Enni Kalalu Kapnooru', delete the shot of two dancers standing face to face when their breasts are seen touching each other",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Gopu's sentence 'Ika pettukovachu' to Parvathi"
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the word 'Paikokku' uttered by Parvathi addressing Gopu"
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the Dewan saying 'Pachiga vunnavu' describing Kanakam"
+      }
+    ]
+  },
+  {
+    "film_title": "Miss Mary",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Sreemathi Combines, Madras",
+    "cert_no": "66589",
+    "endorsement": "U",
+    "original_length_m": 3928.56,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the word 'Bugger' from the dialogue spoken by Miss Mary"
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the word 'Sarkar office' from the dialogue spoken by Sankar"
+      }
+    ]
+  },
+  {
+    "film_title": "Kasan Kay Patil Baran Hai Ka?",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Prathama Chitra, 3-Zarna Kutir, Subhash Road, Vile Parle (E), Bombay-57",
+    "cert_no": "70474",
+    "endorsement": "U",
+    "original_length_m": 4051.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the first view of the exposed bust of Roopa while taking bath"
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the view of the dwarf riding on the back of one of the girls"
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the steady portion of the two girls kissing"
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the words 'Kaala tonchala' during the conversation between the two girls"
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete Sahibrao's words addressed to Ananda 'Naayki nina kola to Jogatinina karun naye'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete Bhola's words to his wife 'Pan mé garam zalo aahe'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete Mankya's words 'Mag kaay ratri dhadku mhantes?'"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce considerably the views of Mankya and Heera stuck together back to back as a result of black magic",
+        "length_retained_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words 'Chayala' in the conversation between the villagers while passing through the tano"
+      }
+    ]
+  },
+  {
+    "film_title": "No Blade of Grass",
+    "languages": [
+      "English"
+    ],
+    "format": "35 mm",
+    "producer": "Cornel Wilde",
+    "cert_no": "3150",
+    "endorsement": "A",
+    "original_length_m": 2758.51,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the derogatory reference to the Chinese fertilizing with human shit"
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the derogatory reference to pitched battles in India, Africa and starving Chinese engulfing Hong Kong"
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the derogatory reference to Chinese Air Force slaughtering 300 million and the Chinese nation by the use of nerve-gas"
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the derogatory reference to the Chinese using nerve-gas"
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word 'Balls' from Clara's conversation"
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the scene of molestation and attempted rape of Mary and Ann, particularly deleting the shot showing blood on Mary's thighs",
+        "length_retained_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the following dialogue: Ist Hun: Come on, get off I'll show you how to do it. 2nd Hun: All right, you've done the talking, now let's see the performance."
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the derogatory reference to Chinese"
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the derogatory reference to China"
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the following dialogue of Pirrie: 'She's got a survival kit between her legs'"
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce drastically the scene showing labour pains of a woman and the flashback scene of Ann's own labour, particularly deleting the shots of legs in close and mid shots",
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shots in which the bosom of a lady is prominently visible when she feeds the child"
+      }
+    ]
+  },
+  {
+    "film_title": "Dukh Bhanjan Tera Naam",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "70202",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "15",
+        "description": "Added various shots",
+        "length_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Mehmood Shooting",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "70430",
+    "alterations": []
+  },
+  {
+    "film_title": "Mele Mitran De",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "T.S. Arora, 123/85, Lawrence Road, Amritsar",
+    "cert_no": "70514",
+    "endorsement": "U",
+    "original_length_m": 3039.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Reduce visuals (stock shots) and commentary pertaining to the struggle for Bangladesh, the role played by the present President Ms. Bhutto etc.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the vulgar words 'Ajline clear Hai' and 'Nave do apni den hogi' uttered by comedian Bhagbhari when she accosts her husband"
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the views of the male dancer reclining on female dancer when she is rolling and also the close-view of her wiggling midriff"
+      }
+    ]
+  },
+  {
+    "film_title": "Zindagi - Zindagi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Jan Pictures, 7/34, Airconditioned Market, Tardeo Road, Bombay-34",
+    "cert_no": "70515",
+    "endorsement": "U",
+    "original_length_m": 3992.14,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the reference to Brahaman in the sentence 'Jaalim aur neech Brahmanohke yahan bamen rishta nahi karna hai' said by Sunil to Meeta's uncle and auntie when the latter humiliate his mother for being a low caste"
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "From Ramprasad's speech in the public meeting, delete reference to 'Bhangi'"
+      }
+    ]
+  },
+  {
+    "film_title": "Anokhee Pohachan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Ajay Movies Private Ltd., 34--5th Floor, Airconditioned Market, Tardeo, Bombay-34",
+    "cert_no": "70496",
+    "endorsement": "U",
+    "original_length_m": 3935.88,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "In the cabaret dance, delete the front angle view of the female dancer sitting with parted legs on the table (Blow up)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete Prime Minister's speech broadcast on All India Radio beginning with the words 'I speak to you at the moment...' and ending with the words 'Discipline and utmost unity'. Also delete the newspaper cuttings regarding declaration of war in English, Urdu and Hindi"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the partly exposed view of bust of Sonu and also the view of tearing of her blouse by Anil"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete Pyarelal's words 'Bura ho dushmanonka jang shuru kar di'"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the underlined words from the sentence 'Sarhadpai dushmano ki sargarmia badhatijaa rahi hai' spoken by the officer"
+      }
+    ]
+  }
+]

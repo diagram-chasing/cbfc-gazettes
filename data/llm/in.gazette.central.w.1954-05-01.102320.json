@@ -1,0 +1,543 @@
+[
+  {
+    "film_title": "I Love Melvin",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro U.S.A. House, Esplanade Road, Bombay.",
+    "cert_no": "B-8518",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "All mid-shots of Judy wherever her whole leg or under-wear is visible in the top-end of the song 'A Lady Loren', including taking off her gown.",
+        "length_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of Judy exposing thigh on waking up.",
+        "length_m": 9.75
+      }
+    ]
+  },
+  {
+    "film_title": "Aolaad",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kuldip Pictures Ltd., Kuldip Vihar, Andheri, Bombay.",
+    "cert_no": "B-9477",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The fat lady Nanool Maya saying 'Mera jawani ka Qutubujur udh gayi thi'.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II & VI",
+        "description": "The dialogue 'Kunbhakaran ki Aulad', 'Chor baras mein do bachche hone chahiyo', 'shadi hui ko bachcha', 'har din bachcha'.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Front art den front, eldo and bwk bip-ow ylig oft o fem? dinoeri. Replaced with approved insertion.",
+        "length_m": 26.21
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Monahi saying to his daughter 'tu nahi gadhi ki gadhi' replaced with 'Hathi ki hathi'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "AY",
+        "description": "The word 'Chudel' (sound erased).",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "AY",
+        "description": "Ramdin Words 'Dekho in Ameron ke kartoot' (sound replaced with 'in sharifon ke tartab').",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Words and shots depicting birth-control books, mentioning only a reference to Family Planning.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Considerably the burning Pyre, keeping the minimum for dramatic necessity. Length retained.",
+        "length_m": 5.18,
+        "length_retained_m": 7.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Ramdin Carrying the dead body of Dhaniya. Length retained.",
+        "length_m": 5.49,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Both the above excised portions have been replaced with approved insertion.",
+        "length_m": 24.99
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Shot of samadhi.",
+        "length_m": 30.48
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel II",
+        "description": "Ramdin coming to the village.",
+        "length_m": 21.34
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel Portion",
+        "description": "From the point Sushil laden carrying radio upto and including Dhaniya eating rice.",
+        "length_m": 30.48
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Ramdin entering the bungalow when a child is playing nonth organ.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Y, VII, XIV",
+        "description": "Trimming of dissolves and violent shots.",
+        "length_m": 85.34
+      }
+    ]
+  },
+  {
+    "film_title": "Wings to Vikingland",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "16 m.m.",
+    "producer": "Pan American World Airways Inc., Taj Mahal Hotel, Bombay",
+    "cert_no": "B-8000",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Qotal E. Brio",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Yshodhan Chitra, 299, Miranda Bldg., N. C. Kelkar Road, Bombay-28.",
+    "cert_no": "B-9681",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Khushboo'",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Beautiful Pasturoy, Beautiful Pictures, Jaya Mahal A Road, Marine Drive, Bombay-1.",
+    "cert_no": "B-9403",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Nostradamu, And The Queen",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Esplanade Road, Bombay.",
+    "cert_no": "B-9456",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Flight T. MAN",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Western India Theatres Ltd., Marubal Bldg., Ballard Estate, Bombay-1.",
+    "cert_no": "B-9318",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of 'Might To Man'",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Do.",
+    "cert_no": "B-09",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Akhil Bhartiy",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Jagirdar, Clo, Shambhu Films Bombay",
+    "cert_no": "B-0409",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Standing Waves on Transmission Lines",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m.",
+    "producer": "National Education & Information Films Ltd., National H. 80, Tulloch Road, Bombay.",
+    "cert_no": "B-9471",
+    "endorsement": "P.E.I.",
+    "alterations": []
+  },
+  {
+    "film_title": "The Electron - An Introduction",
+    "languages": [
+      "English"
+    ],
+    "format": "16 m.m.",
+    "producer": "U.S. CAI Education, U.S.A.",
+    "cert_no": "B-9426",
+    "endorsement": "P.E. II.",
+    "alterations": []
+  },
+  {
+    "film_title": "Roadin & Writis",
+    "languages": [
+      "English"
+    ],
+    "producer": "Mutual India Theatres Ltd., Marshall Bldg., Ballard Estate, Bombay-1.",
+    "cert_no": "B-9456",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sloan. Laimont (Silent)",
+    "languages": [
+      "English"
+    ],
+    "producer": "Koilash Jain, National Advertising Services Ltd, Bir P.M. Road, Bombay.",
+    "cert_no": "B-9500",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Picnic",
+    "colour": "Color",
+    "producer": "Hari S. Daunts Production. Mohan Studios, Andheri, Bombay.",
+    "cert_no": "B-9313",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sinters",
+    "colour": "Color",
+    "producer": "Do.",
+    "cert_no": "B-0481",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Short",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Ltd., Botawala Building, Fort, Bombay.",
+    "cert_no": "B-0823-27",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Reblo pumping the tyre as walla, Kaminidrawing on the tobo. Replaced with approved shots.",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel T",
+        "description": "The dialogue 'Aur tumt Main bhi' between Kamini and Roblo.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The short o que for the car mooldont lo vhloh Roblo And Kampl aro pontily drowned.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI, VII, XI, XIV XV1",
+        "description": "All logo physical contact between Robin and Kumini throughout the picture. Replaced with approved gloto.",
+        "length_m": 277.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The polloo waluting Robin twice and the village woman referring to Robin 16 'Dasogaji'.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red XV",
+        "description": "Kamini paying to Alton 'Tumhon sakhtdimagi beomari bai, tym rebam ko nohatej ho' as well as all dialogue expressing sympathy of the heroine for the villain.",
+        "length_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Hiton lifting the child Kann, threatening to fling him down, and throwing him roughly in the room.",
+        "length_m": 33.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Radwo",
+        "description": "The choty of the dood body of Mapisha.",
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Goondas lifting and taking away Kamini as well as Kamini's scream.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Scene between Robin and Kamini after the song Na yo oband.",
+        "length_m": 60.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Alarm fequenoo between Kamini and Robin.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Superimposition of sound between Robin and Kamini before the song 'Dokho ye oband'.",
+        "length_m": 66.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Silent comedy scene between Robln und Kumlul. Length retained.",
+        "length_m": 23.47,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 991",
+    "languages": [
+      "English"
+    ],
+    "producer": "Film Division, Govt. of India, 24, Peddar Road, Bombay-28.",
+    "cert_no": "B-9660",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "British Movietone News No. 1296",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corp. (India) Ltd., Metro House, Esplanade Road, Bombay.",
+    "cert_no": "B-9647",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Film Stars of India",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Color",
+    "producer": "Films of India, 41, Walkeshwar Road, Bombay.",
+    "cert_no": "B-9648-9",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Metro News. Volume 415",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Esplanade Road, Bombay.",
+    "cert_no": "B-9648-9",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Dallen's speech 'Under the conditions of today....... upto....... where his aggression could lord him', retaining the earlier reference to his having made a speech regarding U.S. Policy towards South East Asia.",
+        "length_m": 59.44
+      }
+    ]
+  },
+  {
+    "film_title": "Anurag",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Akash Chitra, Famous Cine Building, Haines Road, Mahalaxmi, Bombay.",
+    "cert_no": "B-7889",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Ruhi's entry into Zojila's bedroom.",
+        "length_m": 50.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Zojila walking in the balcony.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Haka call 'Mitwa'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Shot of the dog. Length retained.",
+        "length_m": 3.05,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Long shot of Simai and Raka passing.",
+        "length_m": 0,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Raka call Mitwa.",
+        "length_m": 3.35,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "A closeup of Ruhi.",
+        "length_m": 2.13,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Shot of waterfall.",
+        "length_m": 1.52,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Shot of Daima and Ruhi After the song.",
+        "length_m": 18.59,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Raka entering Simla's bedroom when she is asleep.",
+        "length_m": 42.67,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Beating of Singoba.",
+        "length_m": 0,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Ruhi entering Simla's bedroom.",
+        "length_m": 9.75,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVI",
+        "description": "Miscellaneous shots showing Simbi in Raka's house, Ruhi shouting for Simsi, Zojila throwing Simni on ground, close-up of Zojila in the marriage scene etc.",
+        "length_m": 20.42,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVII",
+        "description": "Pulur scene.",
+        "length_m": 61.57,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVIII",
+        "description": "Sequence following the song Unben kho kar.",
+        "length_m": 44.81,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Ilara Jyothi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "The Modern Theatres Ltd., Salem.",
+    "cert_no": "M-872",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Nottilingam dying 'What is wrong with Athai, Bhe ja getting fat like a bed.'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "In song No. 2, during Obitra. dance, delete the close-up trolley shot of the dancer's bust, against the words 'Look, Look', at the end of the pece beginning 'Nadanange) Puriven'.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 17",
+        "description": "Before the car accident, delete the upper picture of Mohan, in the driving seat, indicating premeditated intention to run over Manohar.",
+        "length_m": 56.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "Delete the slap given by Caltra to Kaveri. (1 ft. sound only).",
+        "length_m": 5.79
+      }
+    ]
+  }
+]

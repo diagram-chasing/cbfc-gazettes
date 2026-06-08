@@ -1,0 +1,239 @@
+[
+  {
+    "film_title": "Ahor Dil",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sushil Pictures, 219, Famous Cine Laboratories & Studios Bldg., Mahalaxmi, Bombay.",
+    "cert_no": "B -8878",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Death close-up of Jeevan and Asha",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Marriage scene of Jeevan and Asha",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Dak Babu",
+    "languages": [],
+    "producer": "Jubilee Pictures, West View, Andheri, Bombay.",
+    "cert_no": "B -8098",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Song \"Zindagi menango job\"",
+        "length_m": 60.96
+      }
+    ]
+  },
+  {
+    "film_title": "Naulakhe Har",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ritu Roop Pictures, C/o Prakash Studios, Kurla Road, Andheri, Bombay.",
+    "cert_no": "B -7309",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Panrakóba",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "National India Theatres, 24, Creek Lane, Calcutta-14.",
+    "cert_no": "C -1196",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 10",
+        "description": "The word \"Mairi\" in two places",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "Shot of police pick",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "The scene depicting attempt to poison Jadab",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 18",
+        "description": "The word \"Sairl\"",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Vilayattu Bommai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Sri Sukumar Productions, Royapettah High Road, Madras-4.",
+    "cert_no": "M -888",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Picture and sound of rough-handling by policemen when they arrest and take away Ramaswamy",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 4",
+        "description": "Conversation and picture of Kudlaniramu regarding Radhe's innocence and further dialogue about her being like a pearl",
+        "length_m": 27.432
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 5",
+        "description": "Picture and sound of police inspector saying \"This is a wonderful song. Alright. We shall go.\"",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 8",
+        "description": "Mohan telling Radha that he has not yet become an experienced husband lying in a bed",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Indian News Review No. 287 (Special)",
+    "languages": [
+      "English"
+    ],
+    "producer": "Films Division, Govt. of India, 24, Peddar Road, Bombay-26.",
+    "cert_no": "B -9776",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Commentary with relevant scenes: \"Full details of... upto...and of civilization as we know it\", \"There can be little...upto..., to avert calamity\", \"Destruction threatens...upto...the date and that threatens\"",
+        "length_m": 33.528
+      }
+    ]
+  },
+  {
+    "film_title": "Rangin Chutkiyan No. 18",
+    "languages": [],
+    "colour": "Color",
+    "producer": "Famous Pictures Ltd., 1834, Sandhurst Bridge, Bombay.",
+    "cert_no": "B -9884",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ahad Dil",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Brant Pictures, Zaveri Building, Parel, Bombay-12.",
+    "cert_no": "B -9740",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "R. VII",
+        "description": "Whipping of the Thakor",
+        "length_m": 0.6096,
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "R. VII",
+        "description": "Whipping of the Thakor and his daughter",
+        "length_m": 9.144,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "The Stud At Apache River",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "Intercraft Pictures India Ltd., Mustafa Bldg., Sir P.M. Road, Bombay-1.",
+    "cert_no": "B -8484",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In fight between Sheriff and Indian in stable, shots of stable-fork, and rabbit punch on Sheriff",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red 1",
+        "description": "Fighting between Commer and Indian",
+        "length_m": 5.0292,
+        "length_retained_m": 5.334
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Fight and shooting between Sheriff and Indian on and near the barge",
+        "length_m": 8.5952,
+        "length_retained_m": 9.3472
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Fighting considerably from the sequence in which the Apache boy is hurled to the Apache River Station",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerable fight, particularly deleting view of Indian's knife pointed over Sheriff",
+        "length_m": 20.7264,
+        "length_retained_m": 5.9744
+      }
+    ]
+  },
+  {
+    "film_title": "Hanumanjanma Alin Sant Anjini",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Rani Production, Modern Studio, Kurla Road, Andheri, Bombay.",
+    "cert_no": "B -9783",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot revealing Lalita's unchaste conception as conveyed by the proclaimer to the accompaniment of drum beat",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Reference to Anjani's illegitimate conception as made by the proclaimer to the accompaniment of drum beat",
+        "length_m": 1.2192
+      }
+    ]
+  }
+]

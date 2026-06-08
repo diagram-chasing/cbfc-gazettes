@@ -1,0 +1,863 @@
+[
+  {
+    "film_title": "Mausam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sunandiani Pictures, No. 5, Suabeam, 1st Floor, Peddar Road, Bombay-26.",
+    "cert_no": "80388",
+    "cert_date": "29-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the use of word \"Randi\" wherever it is used to cast aspersion on womanhood.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the italic word from the sentence of prostitute girl \"Doobki maarne hai\" to upar aav.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "From Kajali’s dialogue addressed to a customer, delete the underlined words from the following \"Dus rupayo me kya saariraat baithega ehhaati par ? Amma ka ghar samajh rakha hai ? Le pakad (chnppal) aur jaake mnar apni maan kc sar per”.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the italic word from the following remark of Gangubai addressed to prostitute girl \"Dckho kaun sc minister Inc, pass baithi hai\".",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the italic words from the following dialogue of Kajali addressed to Amar. \"Dosl yaar l urn hare uayenge to unke saamiu bt-ti, bet i I<a naatak mat karna. Aurat kahoge, rakha il. kahogc. ranc/i kahoge sab chalega, lekin ki si dost yaar kc saath .s one ko kahoge tonahi chalcga.\"",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Delete the word \"Dopehriya” from Gangurani’s remark. \"Ye kaun s a ala dopchriya a a gaya is waqt ?\".",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Delete the italic words from Gangurani’s dialogue addressed to Kajali regarding return of the girl taken by him from the brothel. \"Turn seed he scedhe aam ehuso aur gulhaliyan ha me wapas kar do\".",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "XX",
+        "description": "Delete the italic words from the dialogue between Kajali and Chaudhury. Chaudhury : Saale bhadrelne to bhanv badha diyc randiyon ko” Kajali : Bhadva hoga tu, Lerc baao ka nahi khata wo. khabardar jo use gaali di to” Chaudhury : Dhelc ki ranch aur baat karti hai” Kajali : Kya Kaha ? Ranch hogi teri maan . Chaudhury : Arc jan chhinal",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word \"Baithna” when it is used to express its actual meaning."
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Delete the italic words from Gangurani’s dialogue addressed to Kajali: \"Jn kothonse jaakc kabhi kisi ladaki ko basate nahi dekha aaj tak. Kisi mard ke bachche me itna dam nahi dekha jo aata hai phooll huyi saans lckar aata hai, jab dam utar jaata hai to”.",
+        "length_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "Mrig Trishna",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Naheta Films, 5/36, Tardeo Air-Conditioned Market, Bombay-34.",
+    "cert_no": "80414",
+    "cert_date": "31-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the impression of lip to lip kissing between Sandhya and Mansa.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the italic words from Jamuna’s remark \"Randi kc bistar men apni kaamyaabi ki sho-hrat manao\".",
+        "length_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "Chattrabhang",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Asha Seth, Nina Shivdasani, 19-A, Manek Nepean Sea Road, Bombay-6.",
+    "cert_no": "80414",
+    "cert_date": "31-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the close up of an Urdu paper with the head line “Congress ki qabra banegi\".",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the underlined word from the following sentence : \"Ek deh mahine app logon ke kaam me lag jaayega aur uske baad aap ka kaam hoga £ur madad kiya jayega\".",
+        "length_m": 0.13
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the sentence \"Aaj baba saheb hote to yeh sab hota\" ?."
+      }
+    ]
+  },
+  {
+    "film_title": "Siddhartha",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-20.",
+    "cert_no": "80328",
+    "cert_date": "02-01-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the sex-act between Kamala and Siddartha to a mere suggestion.",
+        "length_m": 8.4,
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete silhouette scene (showing Kamla and Siddartha giving erotic postures in standing position)."
+      }
+    ]
+  },
+  {
+    "film_title": "Purakshi Thalaivi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B&W",
+    "format": "35 mm.",
+    "producer": "Shamlal Jamani Productions, Madras.",
+    "cert_no": "78102",
+    "cert_date": "30-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "In the song Tdliu Namma Ponnadu\", delete- -Tdhu Desa Baklharin Vclivcsbam\". to “Sukam Thevai”.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "In song \"Kya Kisa. (club-song), delete: - (a) \"Ilmayai Pandaduda\"; (b) \"Daaham Thccrkknm Madurassa Pathram Ingey Irukku Pudusu\"; & (c) \"Sorgam Kadavukal Thirandcn\".",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In song beginning “Vanjakarirt Lokamada..”, delete: - (a) \"Needhi Ncrmai Marandarada\"; (b) \"Vayitrikku Sorillai. to “Idarka Barada thil Sudandiram Thandar\"; aDd (c) Padhaviye Kannana Arasiyalvadhi”.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the reference to “Deepam” in the dialogue of the hero and blackmarketeers and in the dialogue of the hero 3nd heroine in disguise."
+      }
+    ]
+  },
+  {
+    "film_title": "Kabani Nadhi Chuvannapol",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B&W",
+    "format": "35 mm.",
+    "producer": "Saga Movie Makers, Madras.",
+    "cert_no": "78104",
+    "cert_date": "31-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the students’ demonstration, in full."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the dialogue of Gopi M Oru Thulli Chora Kudikunna Kothuve Kollan Madikkunnundo”."
+      }
+    ]
+  },
+  {
+    "film_title": "Padi Pantalu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Padamalaya Art. Pictures, Madras.",
+    "cert_no": "78106",
+    "cert_date": "31-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the words “Nenu aagalenu” spoken by Gauraya to the dhobi girl."
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Delete the reference to brinjaLs by Gauraya to the dhobi girl at the haystack (savaseru vankayalu) (arc vise venkayalu).",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Delete the reference to 'Batrajulu' by the engineer."
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete shots showing the gundas actually setting fire to the huts."
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete shots showing cleavage of the breasts of Kondamma in scanty clothes in the birthday party."
+      },
+      {
+        "kind": "replacement",
+        "description": "Replacements approved.",
+        "length_m": 6.4
+      }
+    ]
+  },
+  {
+    "film_title": "Aekakini",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B&W",
+    "format": "35 mm.",
+    "producer": "Shri G.S. Panictker, Madras.",
+    "cert_no": "78107",
+    "cert_date": "31-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shot of Ravi's action caressing Shoba's ckeek with his mouth."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of Shoba being kissed by Ravi, including the sound of kiss."
+      }
+    ]
+  },
+  {
+    "film_title": "Nagin",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "N. N. Sippy, Parthiva Pictures, 4-B, Naaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "80541",
+    "cert_date": "28-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the words “Police inke jeb me ha in” as spoken by the accomplice of De-endayal."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the words “Dimaagh me kranti hogi aur haath me chaku chure honge” as spoken by D. S. P. to Decndayal."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word “Mulk” from the sentence “Is mulk me achhe naagarik banna mushkil hai”."
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the view of blood seen on the floor after the rape of Kali Charan's sister, as seen by him.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the words “Garmi lag rahi hai” as spoken by Sapna inside the godown."
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the molestation of Sapna by Deendayal’s men and delete the words 11 Maal bhl\" in the dialogue “Godam bhi apna hai aur maal bhi”.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the light between Shaka and D.S.P.",
+        "length_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce considerably the tight between Kalicharan and hired killer in the dilapidated church deleting the gruesome visuals."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Kalicharan and goondas by deleting gruesome visuals."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "In the cabret dance, delete the indecent jerking of midriff by the dancer in the beginning."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI V",
+        "description": "Delete the word “Sarkai ” in the sentence “Sarkar ha me hamari imaandari ka kya dethi hai” as spoken by Kalicharan."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the underlined words from the sentence “Bachhon ki chamadi badi naram hoti hai, itna maarna ki mare nalii “ from the dialogue of Deendaval, and delete the subsequent ction of Shetty putting the whip around the neck of the child and pulling him down."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI II",
+        "description": "Reduce considerably the violence in the godown and reduce the number of killings of godown guards, and reduce the close up of Shaka after his death."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the general fight, between the two groups."
+      },
+      {
+        "kind": "replacement",
+        "reel": "XVIII",
+        "description": "Modify suitably the railway lever scene to show that it was locked."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word “Lion” wherever it is prefixed with the name of “Deendayal”."
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined words from the sentence “Sarkar ke ghulam is khilone ke siway kar bhi kya sakta hai\", “jiskochahe usko giraftaar kar liya” as spoken by Shaka."
+      }
+    ]
+  },
+  {
+    "film_title": "The Conversation",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-20.",
+    "cert_no": "80533",
+    "cert_date": "27-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot of a couple in bed where the man has put his arm around the bosom of the woman."
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce indiscriminate firing by Sheriff and delete close ups of a man hit with bullets."
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the impact of killing of Apaches by Deane when be is attacked."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shots of shooting of Sheriff by Billy and his body on fire to modify the end which shows that the forces of law could be liquidated and Billy walks down the mountain along with his girlfriend."
+      }
+    ]
+  },
+  {
+    "film_title": "Harry And Tonto",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "20th Century Fox Corp. (I) Pvt. Ltd., Metro House, M. G. Road, Bombay-20.",
+    "cert_no": "80535",
+    "cert_date": "28-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined Words from the following dialogue : Jesus ; “ , , . . My grandfather is eighty two and he never slops screwing”. Marry ; “. . . . I can be a real pain the ass”."
+      },
+      {
+        "kind": "deletion",
+        "reel": "J.V",
+        "description": "Delete the shot where Ginger is seen topless while putting on a shirt."
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot where bare buttock is seen in a running car."
+      }
+    ]
+  },
+  {
+    "film_title": "Kalicharan",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "N. N. Sippy, Parthiva Pictures, 4-B, Naaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "80541",
+    "cert_date": "28-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the words “Police inke jeb me ha in” as spoken by the accomplice of De-endayal."
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the words “Dimaagh me kranti hogi aur haath me chaku chure honge” as spoken by D. S. P. to Decndayal."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word “Mulk” from the sentence “Is mulk me achhe naagarik banna mushkil hai”."
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the view of blood seen on the floor after the rape of Kali Charan's sister, as seen by him.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the words “Garmi lag rahi hai” as spoken by Sapna inside the godown."
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the molestation of Sapna by Deendayal’s men and delete the words 11 Maal bhl\" in the dialogue “Godam bhi apna hai aur maal bhi”.",
+        "length_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the light between Shaka and D.S.P.",
+        "length_m": 12.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce considerably the tight between Kalicharan and hired killer in the dilapidated church deleting the gruesome visuals."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the fight between Kalicharan and goondas by deleting gruesome visuals."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "In the cabret dance, delete the indecent jerking of midriff by the dancer in the beginning."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI V",
+        "description": "Delete the word “Sarkai ” in the sentence “Sarkar ha me hamari imaandari ka kya dethi hai” as spoken by Kalicharan."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the underlined words from the sentence “Bachhon ki chamadi badi naram hoti hai, itna maarna ki mare nalii “ from the dialogue of Deendaval, and delete the subsequent ction of Shetty putting the whip around the neck of the child and pulling him down."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI II",
+        "description": "Reduce considerably the violence in the godown and reduce the number of killings of godown guards, and reduce the close up of Shaka after his death."
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the general fight, between the two groups."
+      },
+      {
+        "kind": "replacement",
+        "reel": "XVIII",
+        "description": "Modify suitably the railway lever scene to show that it was locked."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the word “Lion” wherever it is prefixed with the name of “Deendayal”."
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined words from the sentence “Sarkar ke ghulam is khilone ke siway kar bhi kya sakta hai\", “jiskochahe usko giraftaar kar liya” as spoken by Shaka."
+      }
+    ]
+  },
+  {
+    "film_title": "Enter the Dragon",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "3278",
+    "cert_date": "17-12-1975",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VTTI",
+        "description": "Deleted various shots."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted various shots."
+      }
+    ]
+  },
+  {
+    "film_title": "Agya Do Hukam Karo",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "80132",
+    "cert_date": "19-11-1975",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of Films Divisions Monogram approved."
+      }
+    ]
+  },
+  {
+    "film_title": "Can We Overcome?",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "77268",
+    "cert_date": "06-03-1975",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of Films Divisions' Monogram approved."
+      }
+    ]
+  },
+  {
+    "film_title": "Bridging The Future",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "79368",
+    "cert_date": "28-08-1975",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots."
+      },
+      {
+        "kind": "insertion",
+        "description": "Added various shots."
+      }
+    ]
+  },
+  {
+    "film_title": "Samassiya",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "format": "35mm.",
+    "producer": "Kalaratnam Films, Madras.",
+    "cert_no": "78122",
+    "cert_date": "20-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Narayanan lighting beedi from the sacred lamp near Tulasi plant."
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the jailor snying “I am sorry”."
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Delete the entire strike by the Jarman priest and the carrying of placards, shouting etc. (Retaken picture is action approved 118-57 Mis. subject to cut below)."
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the fight, where the Priest is being boaten by his opponents."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the reference to Akila Kerala Hindu Mahasabha President."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the reference to Minister wherever it occurs In the film."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete sprinkiling of holy water by the Namboodiri priest after the H ary an boys leave the place, wherever it occurs."
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the action of Vishnudutt taking toddy thrice, like the ertham, drinking it in the toddy shop."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the words “Mahamahanmarkku Ennu Thandai Ilia\". (Great men have no father) said by Vishnudut Sharma)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the reference to (0 M.L.A, (2) Rashtriam, (3) “Mantri Kaikooli Vangiya Stalam Pathichukoduthu”, said by Vasudevan.."
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce to a flash (keeping the barest minimum necessary for continuity) the entire episode of Narayan a digging the pedestal of the temple idol, stealing the temple idol and inter-out shots of rape of Paravati by Menon."
+      }
+    ]
+  },
+  {
+    "film_title": "Yavvanam Kaatesindi",
+    "languages": [
+      "Tclugu"
+    ],
+    "colour": "B & W",
+    "format": "35mm.",
+    "producer": "Shy am Prasad Art Pictures, Madras.",
+    "cert_no": "78123",
+    "cert_date": "20-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the reference to sex magazine 'RamanT."
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the sequence showing Pulliah and Pappai making love to half length."
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce boy and girl hugging and caressing each other on the beach as observed by Knlpana, keeping only two shots for continuity."
+      },
+      {
+        "kind": "reduction",
+        "reel": "A",
+        "description": "Reduce zoom shots showing nude statues to half its present length."
+      },
+      {
+        "kind": "deletion",
+        "reel": "A",
+        "description": "Delete zoom shots focussed on the breast and nipple of nude Statue."
+      }
+    ]
+  },
+  {
+    "film_title": "Maya Manushya",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "B&W",
+    "format": "35mm.",
+    "producer": "Padmajaya Productions, Madras.",
+    "cert_no": "78124",
+    "cert_date": "21-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Gunda’s words ‘Hidigirge is the pump madida’."
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the fight, deleting direct hits and kicks."
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the close-up of the bald headed man with blood spalshed on his head with garden shears across his neck."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "In Ramba ’s dance delete: — (a) Ramba raising her leg, (b) Closc-up of Ramba exposing cleavage of breasts. (c) Picturisation on the lines of song ‘Tattitu Tattitu* of Ramba raising her legs -she and Anand dashing breast against each other (d) Arnold kissing Ramba on the back of her neck. (e) Kicks on the neck. (f) Squeezing of neck. (g) Reduce dire of hits and kicks."
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Chandru and Kanchana kissing."
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Chandru carassing Kanchana’s bare legs."
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete policeman tasting urine passed by the invincible dog and his subsequent dialogues."
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the club-dance delete (a) The very first shot of the dancer raising her legs revealing her undergarment. (b) Dancer exposing her bare breasts when tho villain bends her over the tabic. (c) Dancer exposing her breasts when she bends below the nude statue, (d) Dancers sitting on the floor revealing her bare thighs with right leg raised. (e) Dancer on the table exposing bare breasts and her subsequent shot showing her revolving round, facing tho camera exposing breasts (f) Dancer raising her right leg while Anand is standing near her on the line ‘Kadava mcllane thattide*. exposing cleevage."
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce henchmen of Anand hitting Dr, Verma."
+      }
+    ]
+  },
+  {
+    "film_title": "Kannvan Manaivi",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B&W",
+    "format": "35mm.",
+    "producer": "Shri Ramkumar Bohra. 1 42-Famous Cine Bldg., Bombay-11.",
+    "cert_no": "78126",
+    "cert_date": "22-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the action of police throwing tear-gas shells and the shots in which they are shown beating the labourers with their batons."
+      }
+    ]
+  },
+  {
+    "film_title": "Baduku Bangaravithu",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Bhuvaneshwari Art Productions, Mysore.",
+    "cert_no": "78130",
+    "cert_date": "29-1-76",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the entire scene of child marriage."
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the action of flinging Thali by the father of Girija."
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete Gowda's action of firing at Mukkanna in the scuffile."
+      }
+    ]
+  },
+  {
+    "film_title": "Pelli Kaanl ThandrP",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B&W",
+    "format": "35 mm.",
+    "producer": "Cbakrapani Art Pictures, Hyderabad.",
+    "cert_no": "78090",
+    "cert_date": "19-12-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Voluntary deletions approved."
+      }
+    ]
+  },
+  {
+    "film_title": "Andaru Bagundali",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "B&W",
+    "format": "35mm.",
+    "producer": "Padma Sri Pictures, Madras.",
+    "cert_no": "77777",
+    "cert_date": "29-9-75",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of sound in Reel No. t on monogram is approved."
+      }
+    ]
+  }
+]

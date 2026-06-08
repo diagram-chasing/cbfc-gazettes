@@ -1,0 +1,42 @@
+[
+  {
+    "film_title": "दिलबर",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "बी/एफ/1968",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce close shot of labour pains",
+        "length_retained_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the dialogue 'Apng Hamari Geography Dekhi hain aur kis Mulu kh ki sair karneki hai Sarkar'",
+        "length_m": 0.18288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the sentence 'Bahadur : Jabse ye paida hui hain na zane muje dilwar Do ghante ke liye bahar bitha deta hain . Agar ander gaya to phir us din jaisi pithai ho jayegi. Na jane ye dono akele mein kya karte hain . Old lady : kya kaha tha iske bapne kye ghanteke pahale ander nai aana. Bahadur : Mavashi sirf kahani nahi mara bhi hain Lady : Haha thik kahatha usne'",
+        "length_m": 1.16436
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduce considerably the rape scene",
+        "length_m": 0.70104
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete a shot of Zamindar putting his foot on Soniya when she is unconscious",
+        "length_m": 0.367776
+      }
+    ]
+  }
+]

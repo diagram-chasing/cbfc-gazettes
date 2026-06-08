@@ -1,0 +1,564 @@
+[
+  {
+    "film_title": "3 - 10 To Yuma",
+    "languages": [
+      "English"
+    ],
+    "format": "Megascope",
+    "producer": "Columbia Films of India Ltd., Lotus House, 33-A, Marine Lines, Bombay.",
+    "cert_no": "21995",
+    "cert_date": "21-11-07",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogue: \"And then a woman like that overnight Real olose: That must be ploe\"",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Close shots of logo of a man hanging by chandelier",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "A scene where a man is shown falling from one roof to another and then to the road below after he had been fatally wounded",
+        "length_m": 0.91,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Paying Guest (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmistan Private Ltd., Horniman Circle, Botawala Building, Bombay.",
+    "cert_no": "4-571",
+    "cert_date": "21-11-57",
+    "endorsement": "A",
+    "rule_applied": "29",
+    "original_length_m": 5486.4,
+    "length_deleted_m": 83.51,
+    "final_length_m": 4488.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From Ramesh's dialogue to the line 'Shaukin hai, jindagika lutf le rahe hai' (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Sequence where Ramesh while bringing Pongi No. 1 asks Shanti to ride on his bicycle and Shanti hesitates at first and eventually agrees to ride with him on the crossbar of the bicycle till they reach home. (There is no objection to the wordings of the song)",
+        "length_m": 37.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots where Shanti and Ramesh embrace each other when Ramesh is posing to be seriously injured and is lying in the artist's shop",
+        "length_m": 26.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Words 'Ram aur Sita mil rahe hain' addressed negatively by Prakash to Chanchal while Shanti and Ramesh are inside the room (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shots of girls held in horizontal position by their partners and a shot of girl who is hanging upside down by her partner during the New Year dance",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Shot of Ramesh and Shanti riding on the same bicycle towards the end of the film",
+        "length_m": 15.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Shots where Ramesh as Mirza pinches cheek of Shanti to one, delete all shots of the crossing of hand of Shanti etc. by Ramesh as Mirza",
+        "length_m": 8.84,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Dialogue of Ramesh as Mirza addressed to Shanti: 'Kitne mulayam hath hain tumhara'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Jagat's dialogue addressed to Ramesh after Shanti has gone away thinking him to be injured: 'Zakhmal ko baoho -idhar hamne pooth phiral udhar to Do ako galo ne lage liye'",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "description": "Song No. 2 beginning with the word 'Maza 40 goya'",
+        "length_m": 123.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogue of Shanti addressed to Ramesh when he enters Shanti's house little after her father goes to sleep: 'Jyada ihor machaya to Babuil Jau jayengo— wharlpbon ki taruh Lal karo'. Ramesh: 'Achho, to moro PLA 180 nhau'",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Dialogues of Prakash and Uma when Prakash enters the house with her. Prakash: 'Gay yajab bnhud bo to lipat ga biobaro Smejaji par ek nayar bhl nahin duli'. Prakash: 'Bregalo po zabin liptugl. Kwam lng wan ki tuinhen dokhkur plur se schra bandhnen ko ji chahata hai'. Uma: 'Thir vahi bahki baten - yo map kl bahan ke barabar hal'. Prakash: 'Sell ko upno dhuram meu bahun samajbnis pep hnı'",
+        "length_m": 22.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Dialogue of Chanchal addressed to Ramesh: 'Ter noukrl mon kuchh uper Il sandni hoti hai - se upper ki samdai banwhinen'",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots of Ramesh catching hold of Chanchal by her hair and giving her number of laps on the face",
+        "length_m": 6.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Sequence of Ramesh flirting with Shanti on the road",
+        "length_m": 1.22,
+        "length_retained_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Dulle Bhattı",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "17780",
+    "cert_date": "27-9-1956",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "original_length_m": 3444.24,
+    "length_deleted_m": 3.96,
+    "final_length_m": 3440.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Scene 13: Postl — \"S10 kangaaldo do olunjan Isrlayo\". Scene 14: Posti — \"Akin kboosa kattan walyan te lennat vhejnu sa jlwor gadikat kat\". (Scene 14): Posti — Janoni Inddi 20, siddl who di bota ) nel",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Scene 21: Posti — \"Chalmor nal te kadith lat dll da uhbal\". (Somnia \"l): Jhandu — \"Bitli tora machoq kohrl gali viob raheo la tuy\". (no 20) Jhandu - \"Apni na shpati de niml khafa to nain ho gaya\"",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Paris Does Strange Things",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, Esplanade Road, Bombay.",
+    "cert_no": "570",
+    "cert_date": "21-11-57",
+    "endorsement": "A",
+    "rule_applied": "24",
+    "original_length_m": 2346.72,
+    "length_deleted_m": 13.41,
+    "final_length_m": 2333.31,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Prolonged kissing of Henri and Lion",
+        "length_m": 4.27,
+        "length_retained_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Prolonged kissing of Rollen and Elona on the couch",
+        "length_m": 3.05,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Kissing of Mollan and Elona On Haifis",
+        "length_m": 1.22,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Kissing of Elona and Honneur open window",
+        "length_m": 3.35,
+        "length_retained_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Paris Does Strange Things",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Esplanade Road, Bombay.",
+    "cert_no": "21994",
+    "cert_date": "21-11-57",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "original_length_m": 40.84,
+    "length_deleted_m": 3.66,
+    "final_length_m": 37.18,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Scene Elenis and Henrl kigoing",
+        "length_m": 0.73,
+        "length_retained_m": 0.7
+      },
+      {
+        "kind": "reduction",
+        "description": "Scene Elona and mun Huated on Diven, he kiun ing hor",
+        "length_m": 0.79,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "description": "Soon IIM71 ) and Henil kløelny",
+        "length_m": 1.01,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "description": "Soon Elons and Rollan kurang",
+        "length_m": 0.3,
+        "length_retained_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Run of the Arrow",
+    "languages": [
+      "English"
+    ],
+    "format": "RKO scope",
+    "producer": "RKO Radio Pictures Private Ltd., Dhan Nar Building, St P M Road, Bombay.",
+    "cert_no": "22137",
+    "cert_date": "23-11-57",
+    "endorsement": "A",
+    "rule_applied": "29",
+    "original_length_m": 64.62,
+    "length_deleted_m": 4.33,
+    "final_length_m": 233.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Photo of burning arrow penetrating into the bodies",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots of burning bute towards the end of the trailer",
+        "length_m": 1.37
+      }
+    ]
+  },
+  {
+    "film_title": "Nau- Bahar (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "New Premier Films Ltd., Darbhu Flats No. 9, Peddar Road, Bombay 26.",
+    "cert_no": "22011",
+    "cert_date": "18-11-57",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "original_length_m": 4364.74,
+    "length_deleted_m": 551.07,
+    "final_length_m": 3973.67,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Song Bhool chunlo mero balum",
+        "length_m": 106.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Ashok's dialogue after making Murti",
+        "length_m": 77.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Faqir shouting 'Tu na mila'",
+        "length_m": 54.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Dialogues between the Doctor and Jagdiel. Sothi after restoration of Ashok's eye sight",
+        "length_m": 54.86
+      },
+      {
+        "kind": "deletion",
+        "description": "Movements of Kuldip before directly entering Ashok's sick room",
+        "length_m": 24.99
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Four old men discussing marriage",
+        "length_m": 243.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Spend between Balinukund and his wife",
+        "length_m": 39.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Two scenes between Kuldip and maidservant",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Damad",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Bima Productions, Kathoke Lodge, Main Road, Dadar, Bombay 14.",
+    "cert_no": "22014",
+    "cert_date": "18-11-07",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "original_length_m": 3437.17,
+    "length_deleted_m": 93.88,
+    "final_length_m": 3343.29,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Scene where Champak asks his mother to accompany him to his bride's bedroom on the first night.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Scene where Champak makes references to and tells his mother that his bride as a baby and also showing bride with the baby in the bedroom",
+        "length_m": 83.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduced to the minimum the scene in the classroom when the children are shown making fun of the teacher and also the scene, where the teacher makes fun",
+        "length_m": 29.87
+      }
+    ]
+  },
+  {
+    "film_title": "Nag Lok",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Hardip & BalShiv Shakti Studio, Basant Studio, Chembur, Bombay.",
+    "cert_no": "22180",
+    "cert_date": "26-11-07",
+    "endorsement": "U",
+    "rule_applied": "29",
+    "original_length_m": 3925.59,
+    "length_deleted_m": 238.96,
+    "final_length_m": 3686.63,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Sequence where Shiva refers to Chandra's wish for husband like Shiva, And Parbati's dialogue pertaining to the same. (The shot of Shiva conveying information about Chandra's future husband at the end of the scene may be retained)",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "All shots when a man pours on Moorti of Natarnjand afterwards JANOHA Tunday as Nataraj",
+        "length_m": 43.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Picture of Chitrangad superimposed on the \"Shiv Ling\". Dialogue of Chitrangad referring to early dawn. Suggestive of the fact that Chandra has spent the night with him (sound).",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Sequence beginning with the shot, where the King sentences Chitrangal to be burnt alive on the stake; he is shown tied to the stage-faggots are not on fire and Alunos leap around him (handru's song without the above mentioned shots may be retained)",
+        "length_m": 70.41
+      },
+      {
+        "kind": "deletion",
+        "description": "Shots of a man posing as Moorti of Nataraj",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Shots of Ashwini Kumar shown with horse-mask",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "description": "In song No. 8 (beginning with \"somwar ke vrat ko palan kartihai jo nori....... ....... ....... \" and ending with \"....... ....... ....... \" aati joopan men ojiyarl hal\") shots of its on wooden pile with flames leaping around her when the following lines are sung \"Satvanti Site ke uat ke Bgni parlksha sal ohlta hui chandan go bhital nahin lapti lahral\"",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The following dialogue of Nag Kanya to Chitrangad \"Sharper ki bhookh to nahin mitati\"",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "description": "Vulgar breast forks of a dancer while song No. 7 is being sung (Song beginning with Koliyon kltoll....... ....... and ending with Kellyonkl....... ....... )",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Sequence beginning with the shot where tribearnan hit Chandra unconscious with missile and take her for sacrifice at the altar of the Devi till the shot where Chandra begins to sing \"Kain main aaoon dwar tere\"",
+        "length_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shots and dialogues where Shiva attacks Chandra with valour weapons and otherwise till his third eye opens, also the dialogue which establish in the sequence Shiva's ignorance regarding Chandra",
+        "length_m": 58.52
+      }
+    ]
+  },
+  {
+    "film_title": "Pardesi",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "Cinemascope",
+    "producer": "Manmohan Sabir, National House, Tulloch Road, Bombay 1.",
+    "cert_no": "22180",
+    "cert_date": "26-11-07",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Deogarh",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Education Expansion Department, Allahabad.",
+    "cert_no": "22192",
+    "cert_date": "28-11-87",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The panning down shot of the idol of Shantinath",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Secdha Rasta",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Kelkar Film Exchango, Prabhat Studios, Poona.",
+    "cert_no": "22054",
+    "cert_date": "20-11-87",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Omit the shot showing Shyam dancing his Land Bela into his room at night time and locking the door",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Omit part of the dialogue where a small boy is heard asking his mother whether Bela will going to have a baby.",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Sant Janabal",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm",
+    "producer": "Kolkar Film Exchango, Prabhat Studios, Poona.",
+    "cert_no": "22065",
+    "cert_date": "20-11-87",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce everytime the beating of Jana by Nandoo, mother."
+      },
+      {
+        "kind": "deletion",
+        "description": "Cut out the actual ending by Vithal,"
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the flub of the new-born child."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the episode showing Nandou's dead son, big being carried to the temple, and his revival through Nandou's prayer."
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduced everytime Vithal is seen actually grinding, once along with the song too."
+      },
+      {
+        "kind": "deletion",
+        "description": "Cut out the scene showing Vithal sleeping in Janabalo lap."
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the episode of Janabal giving water to the untouchable just before the attachment of the hyugo."
+      },
+      {
+        "kind": "deletion",
+        "description": "Cut out the scene when the two sons of Nandoo come to Janaba when she is going towards the ghool."
+      }
+    ]
+  }
+]

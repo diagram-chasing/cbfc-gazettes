@@ -1,0 +1,244 @@
+[
+  {
+    "film_title": "Years of Lightning. . Day of Drums",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Herschensohn Productions, Inc.",
+    "cert_no": "43194",
+    "cert_date": "15-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deletion of dialogue stating there was a foreign dictated government in Cuba.",
+        "length_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of underlined words from a sentence about celebrations fading into history and a new chapter being written in Eastern Europe.",
+        "length_m": 1.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of a sentence stating the communist government of North Korea invaded the South.",
+        "length_m": 2.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of a sentence about police action continuing for years until a truce was signed guaranteeing the South its own elected government.",
+        "length_m": 15.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of a sentence stating that when the war was won, he betrayed his revolution, elections were not held, and Cuba had a new dictator.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deletion of a sentence about needing protection against a new Soviet threat that would strip away all Western rights to aid West Berlin.",
+        "length_m": 12.89
+      }
+    ]
+  },
+  {
+    "film_title": "The Evil of Frankenstein",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Hammer Film Production",
+    "cert_no": "1557",
+    "cert_date": "19-12-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "Deletion of close-up shots of the Burgomaster's wife's bare breasts and the action of the man standing beside her.",
+        "length_m": 0.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII (4B)",
+        "description": "Reduction of shots of the monster hitting the Burgomaster, specifically deleting shots of the monster banging the Burgomaster's head against the wall after the victim is dead.",
+        "length_m": 4.12,
+        "length_retained_m": 1.8
+      }
+    ]
+  },
+  {
+    "film_title": "Haqeeqat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chetan Anand",
+    "cert_no": "42683",
+    "cert_date": "30-9-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "Addition of shots of Jawans and an additional death scene.",
+        "length_m": 41.45
+      }
+    ]
+  },
+  {
+    "film_title": "Aao Pyar Karen",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmalaya Pvt. Ltd.",
+    "cert_no": "43092",
+    "cert_date": "24-11-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel V",
+        "description": "Re-insertion of breakfast scene.",
+        "length_m": 70.1
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "Re-insertion of scene of Prince and Secretary discussing bull-fight.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVIII",
+        "description": "Deletion of shot of Rakesh and Shalini in garden.",
+        "length_m": 19.2
+      }
+    ]
+  },
+  {
+    "film_title": "Aao Pyar Karen",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Filmalaya Pvt. Ltd.",
+    "cert_no": "43092",
+    "cert_date": "24-11-1964",
+    "endorsement": "U",
+    "rule_applied": "Rule 35",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Reduction of scene of prince and Shalini.",
+        "length_m": 196.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduction of shots of Shalini walking in street.",
+        "length_m": 57.0
+      }
+    ]
+  },
+  {
+    "film_title": "Thayin Madiyil",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Annai Films",
+    "cert_no": "41849",
+    "cert_date": "15-12-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Deletion of Gundumani's sentence 'Inda Kudirai Varuma ?'.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deletion of shot of Jiva lying on the spring cot and swinging.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Deletion of reference to Brahma Pindam.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Deletion of kissing gesture near the post, while Jiva and Raja pass through the boulevard.",
+        "length_m": 4.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Deletion of the sentence 'Vayala Pesadhe, Kannale Pesu' and the gesture by the male parent.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Deletion of kissing gesture of Jiva and Raja during Song 6.",
+        "length_m": 1.57
+      }
+    ]
+  },
+  {
+    "film_title": "Server Sundaram",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "A.V.M. Productions",
+    "cert_no": "41842",
+    "cert_date": "4-12-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels Nos. 10, 11 and 14",
+        "description": "Voluntary deletion of scenes.",
+        "length_m": 68.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sumangali",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Ashok Movies",
+    "cert_no": "41837",
+    "cert_date": "1-12-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel No. 1",
+        "description": "Addition of scenes.",
+        "length_m": 229.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 1",
+        "description": "Voluntary deletion of scenes.",
+        "length_m": 13.11
+      }
+    ]
+  }
+]

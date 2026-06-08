@@ -1,0 +1,353 @@
+[
+  {
+    "film_title": "An Optimistic Tragedy",
+    "languages": [
+      "English"
+    ],
+    "format": "Widescreen",
+    "producer": "Mosfilm Studio, USSR",
+    "cert_no": "43207",
+    "cert_date": "21-12-1964",
+    "endorsement": "U",
+    "original_length_m": 2882.0,
+    "length_deleted_m": 2.7,
+    "final_length_m": 2879.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shot of the sailor rubbing the boson of the woman commissur from behind.",
+        "length_m": 2.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI & IX",
+        "description": "The word syphilitic mentioned in relation to siply.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "The Frozen Moment",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Newmark International Inc.",
+    "cert_no": "43138",
+    "cert_date": "1-12-1964",
+    "endorsement": "U",
+    "original_length_m": 609.6,
+    "length_deleted_m": 55.16,
+    "final_length_m": 554.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Name plates of Esso and Emblem.",
+        "length_m": 55.16
+      }
+    ]
+  },
+  {
+    "film_title": "Culture in Transition",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Newmark International Inc. (Bert Lawrence)",
+    "cert_no": "43135",
+    "cert_date": "1-12-1964",
+    "endorsement": "U",
+    "original_length_m": 609.6,
+    "length_deleted_m": 55.16,
+    "final_length_m": 554.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Name plates of Esso and Emblem.",
+        "length_m": 55.16
+      }
+    ]
+  },
+  {
+    "film_title": "In What America ?",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Newmark International Inc. (Bert Lawrence)",
+    "cert_no": "43134",
+    "cert_date": "1-12-1964",
+    "endorsement": "U",
+    "original_length_m": 609.6,
+    "length_deleted_m": 55.16,
+    "final_length_m": 554.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Name plates of Esso and Emblem.",
+        "length_m": 55.16
+      }
+    ]
+  },
+  {
+    "film_title": "The Puritan Versus The Cavalier -- (England)",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Newmark International Inc. (Bert Lawrence)",
+    "cert_no": "43137",
+    "cert_date": "1-12-1964",
+    "endorsement": "U",
+    "original_length_m": 609.6,
+    "length_deleted_m": 54.25,
+    "final_length_m": 555.35,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Name plates of Esso and Emblem.",
+        "length_m": 54.25
+      }
+    ]
+  },
+  {
+    "film_title": "The Inner World (Greece)",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Newmark International Inc.",
+    "cert_no": "43136",
+    "cert_date": "1-12-1964",
+    "endorsement": "U",
+    "original_length_m": 609.6,
+    "length_deleted_m": 51.82,
+    "final_length_m": 557.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Name plates of Esso and Emblem.",
+        "length_m": 51.82
+      }
+    ]
+  },
+  {
+    "film_title": "Flower And The Hive",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "National Film Board of Canada (Govt. of Canada)",
+    "cert_no": "33735",
+    "cert_date": "27-10-1961",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "description": "This certificate is valid also for the Black And White version of the film."
+      }
+    ]
+  },
+  {
+    "film_title": "Aav Pyar Karen",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "format": "35 mm",
+    "producer": "Filmalaya Private Ltd.",
+    "cert_no": "43092",
+    "cert_date": "24-11-1964",
+    "endorsement": "U",
+    "original_length_m": 4727.5,
+    "final_length_m": 4315.67,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Scene of Rakesh trying to get cul his leg, in the presence of his friends.",
+        "length_m": 71.32
+      }
+    ]
+  },
+  {
+    "film_title": "Kudumbini",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Shri P. A. Thomas, Thomas Pictures",
+    "cert_no": "41852",
+    "cert_date": "21-12-1964",
+    "endorsement": "U",
+    "original_length_m": 4437.87,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "All close shots of the bust of Sundari.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Delivery scene, leaving only a suggestion.",
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "All shots of the prominent bust of Lakshmi.",
+        "length_m": 1.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Shot of the child suckling at the nipple.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Shot of Swami drying his arm pits with towel.",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Shot of Madhavan's kissing gesture of Janu's hair twice.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Kissing gesture of Madhavan and Janu in the boat.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Song 6 - Shot of Madhavan bending over Janu in the grass, towards the end.",
+        "length_m": 5.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "In the bed-room scene, Madhavan kissing Janu between the shoulder and the breast.",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Madhavan's dialogue meaning 'Close your eyes, I shall show you', with the accompanying gesture of kissing.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Near-view of Sharilda's bust while she is in bed.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Madhavan's kissing overture when he asks Janu to leave.",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Delivery scene reduced to the minimum, completely deleting the cesarian operation where the interior of the uterus is shown. Shot of the stained clothes on the floor reduced. One of the 3 shots of the blood on the floor deleted.",
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Mane Aliye",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35 mm",
+    "producer": "Prasad Art Pictures",
+    "cert_no": "41853",
+    "cert_date": "21-12-1964",
+    "endorsement": "U",
+    "original_length_m": 4945.98,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Song 2 - Shot of Meena being held and turned round, with her bust in close up; her leaning on the date palm with raised arm in close-up, his pulling her by the hand and embrace; their kissing gesture near the bush; their rolling collision and embrace; their lying together in close proximity, embracing and kissing.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "The last shot in the nuptial chamber of Meena and Somu in close proximity.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Embrace of Gowri and Parasivu, before the cats.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Kissing gesture of Parasivu and Gowri.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Song 3 - Somu pulling Meena and kissing her hand; embracing; the kissing gesture; his falling over her face and touching her lips; her lying down and his bending over her face and kissing.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Embrace and kiss of Somu and Meena.",
+        "length_m": 1.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "Song 4 - Meena lying flat on bed and wriggling with her bust in close-up.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Song 5 - Male dancer's all kissing gestures.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Song 6 - Close embrace on the cot; close-up embrace a second time.",
+        "length_m": 2.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Sentence 'Kidhar Gaya Beta'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Expression 'Haram Zada'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "17",
+        "description": "Song 7 - Somu holding Meena by the hips and jerking.",
+        "length_m": 1.21
+      }
+    ]
+  }
+]

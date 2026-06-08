@@ -1,0 +1,470 @@
+[
+  {
+    "film_title": "Nastik",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Vinod Doshi, V. R. Pictures, 31/3 Vikas Building, Peddar Rd., Bombay-26",
+    "cert_no": "B/F-1488",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the dialogue 'PHADKE RAKHDUNGA'",
+        "length_m": 3.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the view of Tiger branding the girl on the leg with cigarette butt and all obscene dialogues of the Tiger with reference to women",
+        "length_m": 21.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "III,VI,VII,VIII,X,XII,XIII,XIV,XV&XVI",
+        "description": "Drastically tone down the impact of sequence showing fights, violence, crimes, torture, electrocution etc.",
+        "length_m": 111.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "III,V,VI,VII,X,XII,XIII,XIV,XV&XVI",
+        "description": "Various shots",
+        "length_m": 185.01
+      }
+    ]
+  },
+  {
+    "film_title": "Myri Laila",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "M/S. New Horizon Films, 422-Veer Savarkar Rd., Prabhadevi, Bombay-25",
+    "cert_no": "B/F-1497",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the shots of Rani being massaged with her bare back exposed",
+        "length_m": 4.95
+      }
+    ]
+  },
+  {
+    "film_title": "Do Madari",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35mm",
+    "producer": "Bhakri Bios. CUD - Arvind Bhakri & D. K. Bhakri, 573/2 Jai Bharat Society, 5th Rd., Khar, Bombay-52",
+    "cert_no": "B/F-1496",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete all visuals of Mundri's bare body while undressing and the falling or removal of clothes",
+        "length_m": 6.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the entire sequence of the Bhambiri Pahalwan from appearance of the snake in his clothing to his away from the scene",
+        "length_m": 7.02
+      }
+    ]
+  },
+  {
+    "film_title": "Yeh Isha Nahin Asan",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Ashok Kumar, M/S Ashok Kumar Tipu Film International, 141-Famous Cine Bldg., Mahalaxmi, Bombay-11",
+    "cert_no": "B/F-1480",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II & XII",
+        "description": "Delete the indecorous movements of the dancer and close-up of the cleavage",
+        "length_m": 19.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the dialogues of Ratna regarding marriage, symbolising it as a sort of prostitution",
+        "length_m": 11.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete close shots of the knife in the back of a man and shots of blood pumped on the face of the dancer",
+        "length_m": 4.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the fight between Rajesh and Ajit and his men",
+        "length_m": 34.75
+      }
+    ]
+  },
+  {
+    "film_title": "Raging Bull",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "United Artists Corpn. Metro house, M.G. Rd., Bombay-20",
+    "cert_no": "B/F-1139",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "ID",
+        "description": "Radically reduce the bedroom scene by deleting prolonged patting, the women kissing the abdominal area of the man, the scene where he asks the woman to remove her panties, the shot of her removing the panties and the shot where the man washes his genitals with cold water",
+        "length_m": 49.07
+      }
+    ]
+  },
+  {
+    "film_title": "Thalai Magan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "M/s Kumara Raja Pictures, Madras",
+    "cert_no": "M/16833",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the words 'Sandhu' from the lyrics",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the dialogue 'Paadu Munda' (Replaced overlapping sound)",
+        "length_m": 2.47
+      }
+    ]
+  },
+  {
+    "film_title": "Ekanaina Marani",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Easwari Art Pictures, Madras",
+    "cert_no": "M/16834",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the dialogue of Tirupati wherein he refers to brokers and assembly",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the words 'Padu Munda' (Replaced overlapping sound)",
+        "length_m": 2.47
+      }
+    ]
+  },
+  {
+    "film_title": "Sabish Vadina",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Srikanth Productions, Madras",
+    "cert_no": "R/28/3258",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete dialogue of Pavunu and Raghavan",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dialogue of Pavunu - 'Kattilukku mela kidanthu Sampathichatnellam'",
+        "length_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete reference of Raghavan to Pavunu 'Pala perukku avanthan chinna veedu'",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete reference of one boy to Pavunu 'Kungumam thungathu'",
+        "length_m": 0.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete reference of the same boy 'ithukku than... to vainagarathu'",
+        "length_m": 0.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In Pavunu's dance sequence with the boys delete all visuals of Pavunu lifting her left leg to reveal thighs",
+        "length_m": 4.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue of Bharath 'Panakkurikku kuthalvantha nera Paddukkai vraikkutha poval'",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the rape sequence of Uma and Amar, delete all shots of the sequence from the time Amar announcing his intention from Aarambikattuma... up to Amar says Bye and goes away. No objection to Rishi's facial reactions. Repetition in flashback to be deleted",
+        "length_m": 34.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the sequence of Uma immolating herself retain: (i) Shot of kerosene tin (ii) Uma's reaction to it (iii) Shot of Uma walking into Rishi's room and Rishi and Uma's reaction (iv) Shot of Uma lighting the match (v) Shot of Rishi's reaction and dialogue 'En kannethirelye' and his crying. No objection to Rishi's facial reactions. Delete all shots of Uma pouring kerosene on herself wherever it occurs in later reels. Retain only to a suggestion one shot of Uma burning in flashback in reels 13, 14 and 15. (This shortage includes shots of Uma's molestation)",
+        "length_m": 21.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete mid-close of dancer shaking her breasts against the lyric artha rathri. Delete shot of male dancer lifting Pavunu's leg at the end of song sequence. (Replaced same length with the shots of Villait close-up)",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all visuals of struggle of Gowri and Amar in close, mid close and long shots specially in bed. Retain shot of Amar and Gowri in Bed as friend of Bharat jumps into the room",
+        "length_m": 7.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all visuals of Amar burning and writing in pain",
+        "length_m": 3.72
+      }
+    ]
+  },
+  {
+    "film_title": "Asservatham",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Gem Publicity Film Makers, Madras",
+    "cert_no": "M/16855",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the visuals of the young comedian popping out his head under the legs of the fat comedian",
+        "length_m": 1.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the visuals of the dancer's hip jerks when her dress goes up indecently against the song line 'Miyyaav...' (Replaced with mid-shot of dancer - 10.03 ft.)",
+        "length_m": 3.06
+      }
+    ]
+  },
+  {
+    "film_title": "Aasha",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Sargadhara Movies, Madras",
+    "cert_no": "M/16832",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogue of Pavunu and Raghavan",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the dialogue of Pavunu - 'Kattilukku mela kidanthu Sampathichatnellam'",
+        "length_m": 1.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete reference of Raghavan to Pavunu 'Pala perukku avanthan chinna veedu'",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete reference of one boy to Pavunu 'Kungumam thungathu'",
+        "length_m": 0.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete reference of the same boy 'ithukku than... to vainagarathu'",
+        "length_m": 0.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "In Pavunu's dance sequence with the boys delete all visuals of Pavunu lifting her left leg to reveal thighs",
+        "length_m": 4.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue of Bharath 'Panakkurikku kuthalvantha nera Paddukkai vraikkutha poval'",
+        "length_m": 2.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the rape sequence of Uma and Amar, delete all shots of the sequence from the time Amar announcing his intention from Aarambikattuma... up to Amar says Bye and goes away. No objection to Rishi's facial reactions. Repetition in flashback to be deleted",
+        "length_m": 34.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "In the sequence of Uma immolating herself retain: (i) Shot of kerosene tin (ii) Uma's reaction to it (iii) Shot of Uma walking into Rishi's room and Rishi and Uma's reaction (iv) Shot of Uma lighting the match (v) Shot of Rishi's reaction and dialogue 'En kannethirelye' and his crying. No objection to Rishi's facial reactions. Delete all shots of Uma pouring kerosene on herself wherever it occurs in later reels. Retain only to a suggestion one shot of Uma burning in flashback in reels 13, 14 and 15. (This shortage includes shots of Uma's molestation)",
+        "length_m": 21.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete mid-close of dancer shaking her breasts against the lyric artha rathri. Delete shot of male dancer lifting Pavunu's leg at the end of song sequence. (Replaced same length with the shots of Villait close-up)",
+        "length_m": 3.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all visuals of struggle of Gowri and Amar in close, mid close and long shots specially in bed. Retain shot of Amar and Gowri in Bed as friend of Bharat jumps into the room",
+        "length_m": 7.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete all visuals of Amar burning and writing in pain",
+        "length_m": 3.72
+      }
+    ]
+  },
+  {
+    "film_title": "Dodh Daya",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "Shiva International, 49/1 Tardco Aircondition Mt., Bombay-34",
+    "cert_no": "B/F-1502",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Reduce the scene of whipping of Kalu by Zamindar's people",
+        "length_m": 1.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Reduce beating of Zamindar by Vijay and his people with gun butts",
+        "length_m": 4.98
+      }
+    ]
+  },
+  {
+    "film_title": "Haan Nu Haan Pyara",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35mm",
+    "producer": "Kartar Films International 47/7 Rly. Colony, Santacruz (W), Bombay-54",
+    "cert_no": "B/F-1500",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete visuals of the old man lying on the girl while she is holding the hand of the boy under the cot",
+        "length_m": 4.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the dialogue regarding Langote",
+        "length_m": 8.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the word 'Baba Da' from the sentence 'Baba De Vachan Hai'",
+        "length_m": 0.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words 'Kum Rum Pum Mum' etc. from the spelling scene",
+        "length_m": 8.54
+      }
+    ]
+  },
+  {
+    "film_title": "Padre Padrone",
+    "languages": [
+      "Italian"
+    ],
+    "format": "35mm",
+    "producer": "ICACS Productions Italy, 13-16, Regent Chambers, Nariman Point, Bombay-21",
+    "cert_no": "B/F-1448",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete all the shots having explicit suggestion of ex-children masturbating (donkey, chickens) and couples rolling in bed",
+        "length_m": 34.69
+      }
+    ]
+  },
+  {
+    "film_title": "Cages",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "Central Labour Institute, Sterling Education Films, National House, Tulloch Road, Bombay-38",
+    "cert_no": "B/105351",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the visuals showing Arthur undressing the girl",
+        "length_m": 24.79
+      }
+    ]
+  }
+]

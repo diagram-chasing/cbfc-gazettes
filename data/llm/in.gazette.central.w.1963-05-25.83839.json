@@ -1,0 +1,1698 @@
+[
+  {
+    "film_title": "Jack The Giant Killer",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, Motro Road, Bombay-1.",
+    "cert_no": "30638",
+    "cert_date": "24-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of the claw of the giant being outstretched downwards towards the princess who cowers in fright",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots of the Captain burnt to death and Peter wailing by the side of his body",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Cluso",
+        "description": "Shots of the Griffin charging and attacking Jack and frightening the Princess, also close shots in the air",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Shots of the giant moving with the princess in his hand",
+        "length_m": 8.628,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "W IV AV",
+        "description": "Considerably close views of the witches attacking the princess and terrorising the princess, including her screaming and running, whilst the skeleton withdrawing in fright",
+        "length_m": 30.48,
+        "length_retained_m": 31.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably shots of witches in their magician's castle",
+        "length_m": 16.4592,
+        "length_retained_m": 22.86
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To a flash shots of two-headed monster pursuing Jack, Princess and company",
+        "length_m": 6.096,
+        "length_retained_m": 15.24
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Hell is for Horvos\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Pictures of India Ltd. Veerly Blanku Flagre Bldg, Sprott Rrl., Bombay-.",
+    "cert_no": "30639",
+    "cert_date": "24-9-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "gholis of guntire und Lettlo",
+        "length_m": 5.7912,
+        "length_retained_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "description": "bor-wumun muggostively inviting i guldur te hur roon",
+        "length_m": 1.6764
+      }
+    ]
+  },
+  {
+    "film_title": "Special Trailer of \"Hemingway's Adventures of A Young Man\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "30649",
+    "cert_date": "25-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shots in which Nick strikes at the candelabra in front of St. Francis in the church and destroys it",
+        "length_m": 3.2628
+      }
+    ]
+  },
+  {
+    "film_title": "Jadugar Daku",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in colour",
+    "producer": "Chandrakant M. Gor, C/o Joy Films, Shreekant Studios, Chembur, Bombay-71.",
+    "cert_no": "38884",
+    "cert_date": "25-4-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Shot of Rajkumari Meena's emphasised but while lying down after Sapara asks, her 'Tumhen kya Pagani hat'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "In gong, No. 2, beginning with the word, 'Koi pyar bhari chhe...', ment view of boat shaking by Pyari.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "In the song dance No. 3, 'Kali zulphen gori rhat....', (i) whole of emphasised bust and bust jerking by Rajkumari Meena while dancing, (ii) shot of emphasised bust of Rajkumari Meena while she is reclining",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "From the dialogue of Jhamoora addressed to Gudi Amwa his remark 'Khirakno laga prajama', From Jhamoora remarks addressed to the girls when a tray full of foodstuffs is offered to him by the girls the words 'Santram dabare haitu.... Daba, Daba Santure', Jhamoora remarks referring to the girls 'Chhokri bhi mithi mithi hai', Shot of Jhamoora putting a lock of girls hair around his foot",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume 289",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36600",
+    "cert_date": "27-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "In the \"Flood in India\" sequence, from the commentary the following words: '... but the rescue operations are slow'",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Light House",
+    "languages": [
+      "English"
+    ],
+    "producer": "Children's Film Society, Hingorani House, Worli, Bombay-18.",
+    "cert_no": "38861",
+    "cert_date": "27-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the commentary reference to Daby's mother as A Widow (deceased)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Dhol Jani",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Nigaristan (India) Films, Mohan Studios, Kurla Road, Andheri, Bombay.",
+    "cert_no": "38673",
+    "cert_date": "29-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Jhumrou shouting Bishni a namotwica in med nabon, towardly close of his room with Mamr",
+        "length_m": 18.288
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduced views of Munshi Raunqiram's figure during his suAne with Mana",
+        "length_m": 13.1064,
+        "length_retained_m": 13.1064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The words 'Main zehar kha laina' spoken by Rakhi, in her scene with Amar",
+        "length_m": 7.3152
+      }
+    ]
+  },
+  {
+    "film_title": "Romanoff And Juliet",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal Pictures India Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "90087",
+    "cert_date": "29-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "RIV",
+        "description": "Sound introduction granting impression about the Russian Ambassador getting interested in a laundry girl as also reference in visual and verbal in validity for his ofilin R:19401 Aib.144u lur n wila",
+        "length_m": 23.7744
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rirl VI",
+        "description": "Shots as in dialogue referring to our official film Ruy-iun Tinh Nay wpying over the Ambassador and also of A cook spying over both. Shots and dialogue alluding to the R2144İLTL ANNiYllit and Amnissaclor taking interest in anygautive ind hexy literature 11h44 pictures, muyuzinen, etc.",
+        "length_m": 100.584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rimll",
+        "description": "Inference in visual dialogue to Turkiylı delegate sleeping in the L.NO). Anaomlily hall while the session is on",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Real IX",
+        "description": "Shots of Russian Ambassador eating in a clumsy manner",
+        "length_m": 5.1816
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Romanoff And Juliet\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal Pictures India Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36688",
+    "cert_date": "29-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words 'If ever, I want a child I want it to be your' spoken by Juliet and the shots of their kissing",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Swoot Bird of Yumth",
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "1294",
+    "cert_date": "24-9-1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Repl No. IB",
+        "description": "Shots showing Channo undregaing Alorandra in bed",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "replacement",
+        "reel": "Brel No. III",
+        "description": "From dialogue of Miss Heavonly: (a) the underlined words from 'You never heard of the woman you keep in a fifty-(Iollar-a-day auite of rooms, (b) the following: 'That charges her oluthes und heouty treatments to your Accounti - and you say \"Who ja Miss Luny ? Well, keep you Love, PADA, Juut giveme len porcent of . . . . . . fortune you spend on this woman you never heard of\" . . . .She Huys you re not much of a Jovor ', (c) Shots in which Miss Heavenly is seen in drenched clothos when part of her anatomy is revealed, (d) The word 'hypocriticalHlut' from Bons Finley n dialoguo, (e) From the bed-room NOONG, whots showing Alexandra s brangiers hanging from lamp, (f) From dialogue between Alorandra and Charloa, the following '... Or acouge you of choating ? I don t mind waking up in an intimate situation with someone -- but I do like to 200 sho it is - 40. I con maku whatever adjustments geomod called for' (Baid by Alexandra), (g) Entirely the hotel bedroom goene between Alexuura and Chance up to tho point wben Chanoe oomeg out of the room",
+        "length_m": 27.432
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "(a) From dialogue of Alexandra addressed to Chanoo, 'And you wero anesthotio that enged my pain'. (b) From Alexandra s dialoguo Addrossed to Chanoo, the following 'Certainly not I. And oortuinly not your sthioy . . . .my interest always increases with satinfaotion . . . , oome here, lot s oomfort each other littlo' in niso thoxbota in which ho puts his head on her breast and both of them lie in a compromising position in bod, (c) From Aloxandra s dialognio, 'It s the only dopendable distraction and I need that distraction, right now' addreamed to Chanca, (d) Tho andorlinod words from Alexandra s dialogue 'Weare a patr of young lovers, without any shama'",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "replacement",
+        "reel": "Recl IVB",
+        "description": "( ) Shots showing Mias Luvy willing in an Indooru14 pusturo, (6) from Mias Luoy s dialogue, the following 'Oh, feast your tirolold syos, Iddy-doll, ooh, I guro cu lupe that this brinq out the beast in you.', (c) Shots in which Bony Finloy tenry down MiasToy s dress rovoulins les bousm partially. Alho from his l aurk 'my punk who s tot Ave dollars an oan out the mustard' reforring to her",
+        "length_m": 9.144
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 1",
+        "description": "The following dialoguo Chanvo : 'Oh, I ve wallowod 10 u Booial regiytor of New York with diyorest wivoy in thomillionele Hut - dabularilo Janightery in tho 10 noy Net'. Alexandra : 'Did they fout the hill, too ?' Chance : 'Yeah, but I always gavo thojn much more than Ithe l or olrlor woon, I levo buok 1 foaling ut otoitain nt and youlli. To nac, let women, dorciful display of a ffootion and lompvruly luipo. Govoztriu ? Understanlungan toloituus'",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "Ret VBI",
+        "description": "ruro Bury Hinloy s dialogue addroseout Chanco, the following : '] buto butour luo to korpall theblchymn trive from Loin violatod . . . . . . your bastard', From the woene between Chanuo and Heavonly on the pical stair @ 39, shuts in which they onlaicu ml Culilla pitivnately, inoluline intimate scene on bed. Also, Heavonly s words 'Hold me, just hold, holil mo'",
+        "length_m": 28.3464
+      },
+      {
+        "kind": "replacement",
+        "reel": "Heel VI",
+        "description": "From Chancu s dialoguv addrossud tu Hoavonly, '... t ) a bunch of fat-buttowo broads at this swank holol'",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "Boy's Night Out",
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "1298",
+    "cert_date": "24-9-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Marge's remark addressed to her husband, George, while asking him to come to bed: 'And, London my fuul aru culdi'",
+        "length_m": 0.4572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The passionate embrace between Cathy and froil",
+        "length_m": 12.192,
+        "length_retained_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The scene showing George kissing Cathy on the shoulder and neck zubi embracing her",
+        "length_m": 5.7912,
+        "length_retained_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Girl's Town",
+    "format": "Revised",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.C. Road, Bombay-1.",
+    "cert_no": "1200",
+    "cert_date": "25-9-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "The following dialogues of Dich and Silver - 'You know you are the first churk . . . . llpito . . . . 4000 ferround heru'",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "reol V",
+        "description": "All shots of Dick taking liorties with Silver during tlu u porfurm 11100 at tlo night ulub, trying to grlo horum in fide, puttiny hle 21 14 arsund hor olu., tly in LA !) thu lous of the suns 'Sono uno to, k193 -, myme to holl'",
+        "length_m": 17.3712
+      },
+      {
+        "kind": "deletion",
+        "reel": "Harl VI",
+        "description": "The econo of Jimmy lifing the gicl twice iu tho course of his dance wille hor",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Ruils PII & VIII",
+        "description": "The dialogues alsout Serafina living taken sleeping pills und hor attempted suivilis",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel X",
+        "description": "Fred putting his hand over Silver s mouth ind ho hoiny pill bv her plaucling their di blogiloyall Llicy Milbenquent phyiwal wouAle Amt die logues butwoon the girly and buys, rulaining tho cin of the gouence from the point Gred raises hatund Vidu grabs it and shovoy Hood, when Mother Veronioa appears on the huono",
+        "length_m": 30.1752
+      },
+      {
+        "kind": "reduction",
+        "description": "Draytiwully tho soone of Fordul Mury, clolotius ileiltaking liburtios with herin word nillor autu, inolunity liis blolmuilla tavotios, retaimu only the portion wheroin he enquiry about Silvor und Jeff und shows tho lipstick und Mary identifies it as bolongity to her sister",
+        "length_m": 3.6576,
+        "length_retained_m": 12.5008
+      },
+      {
+        "kind": "reduction",
+        "description": "Dreaticully tho lakesile scquence of buys and girls, rotuining only tho first stanın olthe song onding with . . . .jt keepy l opoaling . . . . I love you\", eliminating tho rost ofthe song and themedium ulco shot of tired mahulling Silver and all lutor slyty ofthe figlit in which boys grapplo with the yurls and vivu Fork",
+        "length_m": 20.4216,
+        "length_retained_m": 19.812
+      }
+    ]
+  },
+  {
+    "film_title": "Can Can",
+    "format": "Todd-AO",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "1207",
+    "cert_date": "25-9-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The whole of the Apacho dance",
+        "length_m": 106.0704
+      },
+      {
+        "kind": "deletion",
+        "description": "The pioturisation and thu lialogue betwoon Sulgo l hilippe ut iho heroine Simone where she joins hor luand tu tho noch of her low out blouso to indionte the place where slio keups her keys for sale",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "description": "Thu svone where Simno is shown lying over the lawyer francs",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "description": "(i) To thio Adam and Evo dando all dance sequencos after tho snyplo enting so quience, (ii) Saqucrops in which the herojno putting on very light broaclius faces the audience in the Arlam and Eve Junge",
+        "length_m": 128.016
+      },
+      {
+        "kind": "deletion",
+        "description": "Suquen von in thu ( AN -CAN clancu wheru two meu stunding behind two girls ylip under their legs and later vxhibit the ladies pantiosm",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Ocean's 11",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. First National Pictures Inc., 42-Queen's Rd., Bombay-1.",
+    "cert_no": "1299",
+    "cert_date": "26-9-02",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Prominent views of barely covered girls",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of the blowing up of the power lougo and the electric piller",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "replacement",
+        "reel": "Repl VIII & IX",
+        "description": "All shots in which the pale of ouean spray Boulesudut punt on the clour handlay and knube; alyu tho lirat domonstra tion of the paint and glassos",
+        "length_m": 37.7952
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red I",
+        "description": "The 90008 ul s female milssour with bare lega munauying Foxtor",
+        "length_m": 11.2776,
+        "length_retained_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Dilli Ka Dada",
+    "languages": [
+      "Urdu"
+    ],
+    "producer": "Film Sagar, C/o M/s S.P. Traders, 4-F, Nazz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "36225",
+    "cert_date": "21-7-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of Raju And Mirohi bringing Mala to Raja's house and their discussion regarding Mala's stay at Raja's house",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Shots from dance rehearsal of Sheol",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 111&S",
+        "description": "Some shots of a servant untying the rope by which Kishori is tied and close shots of Kishori",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Baat Ek Raat Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shanker Mukerji, Alankar Chitra, Mehboob Studio, Bandra, Bombay.",
+    "cert_no": "36814",
+    "cert_date": "18-9-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Telephone scene before Main title",
+        "length_m": 15.24
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 1",
+        "description": "Scene between Chunilai and 'ypowriter'",
+        "length_m": 18.288
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Scene between Chunilal and 'Typewriter'",
+        "length_m": 24.384
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Song of Chunilal and 'Typewriter'",
+        "length_m": 117.348
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IV",
+        "description": "Scene after song between Chununland 'Typowriter'",
+        "length_m": 55.1688
+      },
+      {
+        "kind": "deletion",
+        "reel": "V. B.",
+        "description": "Delete shots of C.I.D. Munshi accosting different girls along with his remark 'Haay haay'. Also delete shots of shadowgraph of a girl dancing and near views of the girls on balconies when he tries to flirt with them after climbing the ladder and before alighting on Julie's balcony.",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "V. B.",
+        "description": "From song beginning with the words 'Aaj ka din bhi phika phika....', delete the words 'Not me not me' spoken by a girl passing by",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Song of Miss Noela",
+        "length_m": 64.008
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "Kidnapping scene of Chunilal and Rajesh",
+        "length_m": 53.0352
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII",
+        "description": "Court room, summing up of Rajo",
+        "length_m": 42.672
+      }
+    ]
+  },
+  {
+    "film_title": "Baat Ek Raat Ki",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shanker Mukerji, Alankar Chitra, Mehboob Studio, Bandra, Bombay.",
+    "cert_no": "96614",
+    "cert_date": "18-9-1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The scene of mother beginning with her words 'Khud ohale gaye .. . .'",
+        "length_m": 24.6888
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Scene between Chunni and his mother with his words ' Rajeesh kidhar hui . . . . eto.'",
+        "length_m": 36.576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Scene between Rhjesh and Chuni Lal where Chuni Lal says 'Main lut guya atu'",
+        "length_m": 53.6448
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Rajesh receiving phone from the police station regarding Chunni's arrest",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IJ",
+        "description": "Jail scene shots of Chunni, Police Inspector and Rajosh and Rajesh's words addressed to Chunni about his arrest",
+        "length_m": 117.9552
+      },
+      {
+        "kind": "deletion",
+        "reel": "Heel IX",
+        "description": "Scene between Police Commissioner and Inspector and Commissioner's words 'Abhi abbhi Rajesh ka phone aya tha . . . . eto.'",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X11",
+        "description": "Scene between Police Inspootor and Rajesh where Rajesh inquires about Jaggu",
+        "length_m": 35.052
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X11",
+        "description": "Scene between Rajonh and Dwarku Pranud at Pearl Theatre where Rajogh inquired about Bani Prasad",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X11",
+        "description": "Court scene Dwarka Pragad's statement and his ('LOAS-Oamination by Rajesh",
+        "length_m": 85.344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rpel XIV",
+        "description": "Scene in jail between Neela and Rajesh and his words 'Tam se ka puchha jaaye . . . . ' etc.",
+        "length_m": 33.528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Noene between Rajsh and Douhinulih noi tho word]4 'Beni Pavad ka khun 1117541 . . . otr.'",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Hide out scene brtwnen Rajesh nl Boni l & url thoir dialogrin - and fight",
+        "length_m": 91.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Fight scene hetucen Roni Prasad and Rrjeste upt, Chunn Lal s putry",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Jait Avene whoung Werin putting her houd on (taula given ta her",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Hide out scone between Rajsh, (hunniana Beni lrasad",
+        "length_m": 30.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Jail gucne showing Voelu being taken for hanging, and the words Allii abhi khabar gaye hai ki uza roki jaye",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Court room, goena and thu tnll letwoen publlo prosecutor und the Judy",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rrel XV",
+        "description": "Scene between two old men in the court room and thou talk",
+        "length_m": 15.8496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rerl XVI",
+        "description": "The owirt seer wlicre Rujeok declares that he will produce the l cal murdorer within 10 minutes",
+        "length_m": 112.776
+      }
+    ]
+  },
+  {
+    "film_title": "Aarti",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rajabri Productions (Private) Ltd., Tardoo Building, Tardeo, Bombay-34.",
+    "cert_no": "35710",
+    "cert_date": "2-5-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel x",
+        "description": "Dissolve shot immediately after 63 feet",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel x",
+        "description": "In song No. 6 shot of Pradeep Kumar going to Meena Kumari saying 'Ab to khush ho'",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "replacement",
+        "description": "The original black and white song measuring 356 ft. deleted and replaced with 51 ft. of black and white in the beginning of the song and 304 ft. in colour",
+        "length_m": 108.5088
+      }
+    ]
+  },
+  {
+    "film_title": "Abhijan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Abhijatrik, 372/16, Rusk Road (East), Calcutta-133.",
+    "cert_no": "35814",
+    "cert_date": "25-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Two Daughters",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Satyajit Ray Productions (P) Ltd., 3 - Lake Temple Road, Calcutta-29.",
+    "cert_no": "35518",
+    "cert_date": "26-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Bjohitra",
+    "languages": [
+      "Hindi",
+      "Oriya",
+      "English"
+    ],
+    "producer": "Movie Advertising and Propaganda Service, 8/4A, Ballygunge Station Road, Calcutta-19.",
+    "cert_no": "35516",
+    "cert_date": "20-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anokhi Cigarette Lagging Show",
+    "languages": [
+      "Bengali",
+      "Hindi",
+      "Angu",
+      "Oriya",
+      "Tamil",
+      "Telugu",
+      "Malayalam",
+      "Kannada"
+    ],
+    "colour": "Coloured",
+    "producer": "Little Cinema (Calcutta) Private Ltd., 3/1, Bankshall Street, Calcutta-1.",
+    "cert_no": "35517",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Spotlight On EXXXX- TRA Satisfaction",
+    "colour": "Coloured",
+    "producer": "Do.",
+    "cert_no": "38818",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Shabhyadi Rakshan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Publicity Sales Promotion, 714, Netaji Subhas Road, Calcutta-1.",
+    "cert_no": "35519",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "George IV's Edinburgh",
+    "languages": [
+      "English"
+    ],
+    "colour": "Coloured",
+    "format": "16mm",
+    "producer": "The British Council Theatre Road, Calcutta-18.",
+    "cert_no": "35620",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Architecture of Japan",
+    "colour": "Coloured",
+    "format": "16mm",
+    "producer": "Consulate General of Japan, Calcutta, 12-Pretoria Street, Calcutta-16.",
+    "cert_no": "35521",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Forgotten Doll",
+    "colour": "Coloured",
+    "format": "16mm",
+    "producer": "Institute of Children's Film, 77-Dharamtolla Street, Calcutta-13.",
+    "cert_no": "36524",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tips, The Trouble Maker",
+    "colour": "Coloured",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "35526",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Devil of Tordy Brumm",
+    "colour": "Coloured",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "36527",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Petra y Blue Dogs",
+    "colour": "Coloured",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "35529",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Wolf And Lamb",
+    "colour": "Coloured",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "35529",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Daughters of Nile",
+    "languages": [
+      "English"
+    ],
+    "format": "10mm",
+    "producer": "The Information Department, Government of U.A.R.",
+    "cert_no": "35881",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Port Said, The City of Heroes",
+    "languages": [
+      "English"
+    ],
+    "format": "10mm",
+    "producer": "Do.",
+    "cert_no": "35531",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Don't Tease The Lion",
+    "colour": "Coloured",
+    "format": "35mm",
+    "producer": "Film Polski, Poland",
+    "cert_no": "35532",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Story of the Ball",
+    "colour": "Coloured",
+    "format": "16mm",
+    "producer": "Do.",
+    "cert_no": "35533",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Spring Adventures of The Groune Hala bala",
+    "colour": "Coloured",
+    "format": "16mm",
+    "producer": "Do.",
+    "cert_no": "36584",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Nuvve Nena\"",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Maheswari Productions, 19. Crescent Park St., Madras-17.",
+    "cert_no": "35338",
+    "cert_date": "25-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Operation of Wood",
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "Shri V. Embarumurthi, Madras.",
+    "cert_no": "35836",
+    "cert_date": "25-9-62",
+    "endorsement": "Passed as predominantly educational",
+    "alterations": []
+  },
+  {
+    "film_title": "Madanakumaraju Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Vittal Production, 63-6, Koil St., Purasa wakkam, Madras-7.",
+    "cert_no": "35337",
+    "cert_date": "26-9-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Virupaksha's pouch delete reference to Agrakulu Kanniku",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 3",
+        "description": "In landaru valli's prayer delete her offering her right hand as Kanuka for Kali. (Sound only 29 ft. Approved replacement sound only 20ft.)",
+        "length_m": 8.8392
+      },
+      {
+        "kind": "replacement",
+        "reel": "Repl 5",
+        "description": "Song 3 - Delete picture of Timmuraju and Sundari jerking hips at each other",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 6",
+        "description": "Song 4 - Delete picture of Prina yarunjai jerking her stomach. (Approved replacement - 12 ft.)",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete Bhotipathi being Intolf h20q1110 he is a Brahmin",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 12",
+        "description": "Song 7 - Let Madanukouraju lifting Rutnavulli",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 14",
+        "description": "Delete shots of Mysore Polent and Paluve ynto, illuminated",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete the kin; uomparing Manlunakulonta ju to Krishna with Antyabhama and Rukmini",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 14",
+        "description": "Delete Mandaravalli offering her hand to the Cudduse, and thu admirition of others upto and including the statement sho was tho idem wife",
+        "length_m": 18.5928
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete Ratnavalli recommending to Madanukumaraju to spend the night with Mohana who had been waiting for him",
+        "length_m": 24.6888
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Delete all pioture of Madanakumaraju vomitting and tottoring, before he dies",
+        "length_m": 7.62
+      },
+      {
+        "kind": "replacement",
+        "reel": "Real 16",
+        "description": "In the Agariri voice, delete the roferynce to the land which was offorod as Kanuka (Jonsequential on out No. 9) (Sound 3 ft. romovod and replacod)",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Azhagu ('holyan",
+    "colour": "Eastman colour",
+    "format": "35mm",
+    "producer": "A.L.S. Productions, Royapettah, Madras-14.",
+    "cert_no": "35338",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Apuroopa Sogasu",
+    "colour": "Eastman colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "36339",
+    "cert_date": "29-9-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Noeya Naana\"",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Maheswari Productions, 19. Crescent Park Street, Madras-17.",
+    "cert_no": "35340",
+    "cert_date": "29-1-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Experiment in Terror",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Columbia Films of India Ltd., Metro House, MG. Road, Bombay-1.",
+    "cert_no": "1803",
+    "cert_date": "1-10-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of Nancy Ashton removing her clothes and being seen only in underwear. Also shot of her dead body banging upside down",
+        "length_m": 93.2232
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "From the night-club scene, shot of a statue in furoground seen with the broagt emphasised",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "IY",
+        "description": "From the goone in which Lyuoh avvogts Kolly disguised as a woman, shota dodioating that ho han entered a public bathroom for ladies",
+        "length_m": 4.868
+      },
+      {
+        "kind": "deletion",
+        "reel": "v yrr",
+        "description": "All whots of Laby from thu point ghe starla romoving hor olothes undor duress, rogaining for the sake of continuity only the shot in which gho speaks to Kelly on Telephone",
+        "length_m": 18.7104
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Idongidorably Lynch gagging and throttling Kolly",
+        "length_m": 53.34,
+        "length_retained_m": 52
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "To a flash tho suene in which Lynol is soon with his fout on Kolly s neck while she is lying on the floor",
+        "length_m": 7.3182,
+        "length_retained_m": 4
+      }
+    ]
+  },
+  {
+    "film_title": "And Qulet Flows The Don -- Part I",
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sopexportim, 163-A Lower Colaba Road, Bombay.",
+    "cert_no": "1304",
+    "cert_date": "3-10-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of Grigori and Aksinya in an intimate situation in bed",
+        "length_m": 5.4864
+      }
+    ]
+  },
+  {
+    "film_title": "And Quiet Flew The Don -- Part II",
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Dovexportfilm, 183-A, Lower Corky Fluis Studio, Bombay.",
+    "cert_no": "1305",
+    "cert_date": "3-10-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Rry",
+        "description": "Shuts of Darya lying drunk and seen with dress diyarranged, exposing her legs in an inducorona pogturo",
+        "length_m": 19.4908
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Damon And Pythias\"",
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36729",
+    "cert_date": "15-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of an oid man being epoared",
+        "length_m": 0.87
+      },
+      {
+        "kind": "deletion",
+        "description": "Shota of ombracing und kissing between Adriana And Damon",
+        "length_m": 8.24
+      }
+    ]
+  },
+  {
+    "film_title": "Reminiscences Of Lenin",
+    "format": "18mm",
+    "producer": "The USSR Consulate General, 42 Nepangea Road, Bombay-6.",
+    "cert_no": "38730",
+    "cert_date": "6-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "The words 'The cradle of Manklod is greatest hopos'",
+        "length_m": 1
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Angel Woro Red\"",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "38733",
+    "cert_date": "3-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "1. The shot of a man and girl in ologe embrace and the words 'They should t have fallen in love'",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "description": "2. Shob of a woman olinging to a man",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "description": "3. The ghot in which a vuantily olad girl is dancing in the baokground",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "description": "4. The shot of a man umorously loaning on womun lying on the ground",
+        "length_m": 3.85
+      },
+      {
+        "kind": "reduction",
+        "description": "5. To the minimum the shot of a gonntily clad girl danoing in the background on the title card",
+        "length_m": 1.87,
+        "length_retained_m": 9.13
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Counterfeit Traitor\"",
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Road, Bombay-1.",
+    "cert_no": "36747",
+    "cert_date": "10-10-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Semi-nude native girls dancing Indecorously",
+        "length_m": 3.38
+      }
+    ]
+  },
+  {
+    "film_title": "Tengor Trailer of \"The Counterfeit Traitor\"",
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Road, Bombay-1.",
+    "cert_no": "36716",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Sounen of explosions and fires after air raid",
+        "length_m": 2.847,
+        "length_retained_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Caryo of The Werewolf\"",
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Universal Pictures India Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36718",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Metro News Vol. 240",
+    "format": "35mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36719",
+    "cert_date": "4-10-82",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "British Movietone News No. 1789",
+    "format": "35mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36720",
+    "cert_date": "4-10-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Sculptor Indroyer's \"Leniniana\"",
+    "format": "10mm",
+    "producer": "The USSR Consulate General, 42 Nepangea Road, Bombay-6.",
+    "cert_no": "36721",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Light Of The Uhrania",
+    "colour": "Colour",
+    "format": "18mm",
+    "producer": "Do.",
+    "cert_no": "36721",
+    "cert_date": "4-10-62",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "USSR Tody No. 3/00",
+    "format": "16mm",
+    "producer": "The USNE: Consulain Gouers1 Control Studio.",
+    "cert_no": "36722",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Science Und Envinsoring No. 1 / 1960",
+    "format": "16mm",
+    "producer": "Do.",
+    "cert_no": "36723",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Wild Life And Timber",
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "U. S. Department of Agriculture.",
+    "cert_no": "36727",
+    "cert_date": "4-10-612",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Niagara Falls Hydro-Electric Project and Jugtown Mountain",
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "Ingersoll Rand (India) Private Ltd., 171, Horniman Circle, Bombay-1.",
+    "cert_no": "36726",
+    "cert_date": "4-10-02",
+    "endorsement": "Nodinlogue or Commentary",
+    "alterations": []
+  },
+  {
+    "film_title": "Compressed Air Power",
+    "colour": "Colour",
+    "format": "16mm",
+    "producer": "Do.",
+    "cert_no": "36727",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Know The Gyro-Flo",
+    "format": "16mm",
+    "producer": "Do.",
+    "cert_no": "36728",
+    "cert_date": "4-10-02",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Where The Hot Wind Blows\"",
+    "format": "Cinemascope",
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M.G. Rd., Bombay-1.",
+    "cert_no": "36756",
+    "cert_date": "12-10-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "1. The shota showing hard slaps boing given to a woman",
+        "length_m": 0.7
+      },
+      {
+        "kind": "deletion",
+        "description": "2. The shot showing a man kissing passionately tho log of a woman rosting it on the grill",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "description": "3. The shot of a hard slap being given to a woman",
+        "length_m": 1.4
+      },
+      {
+        "kind": "deletion",
+        "description": "4. The shot of a woman lying on her belly and slowly gotting up and the camora emphaslads the flesh of her bosom and parting between her busto",
+        "length_m": 1.1
+      }
+    ]
+  },
+  {
+    "film_title": "Shiv Parvati",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Trilok Kapoor, T.K. Films, Union Park, Chembur, Bombay-71.",
+    "cert_no": "36756",
+    "cert_date": "12-10-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "ked I",
+        "description": "A tablet reading 'The story of this ploturo is based va Shiv Purana.' 'Is chitra ki katha Shiv Puran par adharlt hai'",
+        "length_m": 3.408
+      },
+      {
+        "kind": "deletion",
+        "reel": "Acel XIV",
+        "description": "Tho goyuonco of tortura of child kartiknya by Tarakasur aul the dialogue betwoon Tarakasur and his wifo and betwoon the latter and Kartikoya wlulo ho is held prisoner by Taraku",
+        "length_m": 56.3976
+      }
+    ]
+  },
+  {
+    "film_title": "Janam Janam Na Sathi",
+    "colour": "Partly in Colour",
+    "format": "35mm",
+    "producer": "Filmistan (Private) Ltd., 18 Horniman Circle, Fort, Bombay-1.",
+    "cert_no": "38757",
+    "cert_date": "12-10-02",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "In the song beginning with the words 'Ik houn, no ok tunm be' the shot of the girl reclining on the branch of a tree and the Loco bending over her",
+        "length_m": 8.6868
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel ( 1",
+        "description": "The words 'Sukh shaiyamanthi khenchi kadhish'",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel ( 1",
+        "description": "The shot of the girl putting her heud in lap of Mohan",
+        "length_m": 1.2102
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 111",
+        "description": "The words 'Khaya' from the phrase 'An kaaya she kubjaman rahosho' (Sound replaced with the approved word 'Maya')",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 111",
+        "description": "The word 'gha' from the phrase 'Lain i kari nakho gha' (Sound replaced with the approved word 'Kankuna')",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Shot of arching of the girl with the pointed buyt emphasised and shot of the girl lying on floor on her back and thon turning round and round, in the dance accompanying song No. 6 (Lakh ohoutyaysbi....)",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Xull",
+        "description": "The words tel lova ' from the phrase 'Tela gaya tel lova' (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rret X",
+        "description": "Consideredly Mohan twisting Sudha's band. Delete his pulling her by the braid of her hair. (Completely deleted). Tomitting of foam by Mohan. (Completely deleted)",
+        "length_m": 7.0101,
+        "length_retained_m": 7.0101
+      },
+      {
+        "kind": "reduction",
+        "reel": "Recl XV",
+        "description": "To a flash the shot of the twin bed at the end",
+        "length_m": 1.2104,
+        "length_retained_m": 1.9144
+      }
+    ]
+  },
+  {
+    "film_title": "The 300 Spartans",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, M.G. Road, Bombay-1.",
+    "cert_no": "36760",
+    "cert_date": "12-70-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel It",
+        "description": "Hrom tho danco Bone, all alota of the prinofpal dancer in whloh hor thighs are seen exposod",
+        "length_m": 8.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of Phylon reacting with blood oozing out from his mouth when he is treated with hot fron for his Injurios",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Lu thv denuo sequonco slots of principal dancer in which ho bare thighs are Hoon exposod",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Slot ofKing Xerxes lying Ovur Artongia and kissing and embracing hor, rotoining only a flesh of kiobing hor just beforo the entry of hlo military uommander",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 17",
+        "description": "The gnon0 of kissing and ombracing between Phylon and Ellas",
+        "length_m": 14.33,
+        "length_retained_m": 12.19
+      }
+    ]
+  },
+  {
+    "film_title": "Surrender Hell",
+    "format": "Revised",
+    "producer": "Rank Film Distributors of India Ltd., Dhan-Nur Bldg., Sir P.M. Road, Bombay-1.",
+    "cert_no": "1911",
+    "cert_date": "10th October 1962",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of a Japanese arny-guard bayonotting prisoners of wur moving in group on the road",
+        "length_m": 8.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The underline words from the remarks of Blackburn 'At loast I could walk in tho jungle without bayonot in my back'",
+        "length_m": 1.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "(9) From Blackburu s commentary, the followiuy lloes - ' . . . . . .whero Japanese helped themselves to supplies without prying for them . Hulplessly the ytoros owner, Diaz and his wifo looked on . . . . and his wife watched , vaddoned by tho nowatate of life under the forces of Onoupation'",
+        "length_m": 3.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "(6) 'Ever singo the Japaneno oume from the dialogue of Biag addressed to Blackburn'",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of Timlop o showing the shruuken hond of a Japanone to Donald and the oxpression of disgurt by thu latter",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Icom Timiopao s dialogue addroggod to Blackbuca, the following 'One bçaclhunter is better than 10 Jap . . . . . . . . . I hnte thu Japanese . . . will got you heads bofore you spend your monoy'",
+        "length_m": 3.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Entirely tho orotlo danoe by throc semi- Aude nativo girls",
+        "length_m": 48.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "(6) Shots of dead bodies atrown all around the courtyard whilo Donald Is walking with the body of Pilari in his army",
+        "length_m": 19.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IX",
+        "description": "(a) A JAPOOB soldier being throttled to death by Timjopuo",
+        "length_m": 1.69
+      }
+    ]
+  },
+  {
+    "film_title": "Mehndi Lagi More Laath",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Hiren Khera, Limelight, R.K. Studios, Chembur, Bombay-71.",
+    "cert_no": "98233",
+    "cert_date": "24th July 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Recl XIV",
+        "description": "Qawali song beginning with the words 'Mahendra-Na ye ranjo alam hote.......', etc. and a screne of Bhalla (Moti) addressing people in auditorium",
+        "length_m": 219.458
+      },
+      {
+        "kind": "replacement",
+        "reel": "Repl IIII",
+        "description": "The following wohnes after Deepak regains consciousness in the affected area (c) Aloti attired in bridal costumes - Tuxbi unvells him and woke him to behave properly. Ho barke. (6) Rajani touches the foot of Deepak's mother and mother asks Deepak to go away. Deepak enters and finds Rajni relaxing on the bed. Hemoves away from her and gayu Both in the car",
+        "length_m": 42.072
+      }
+    ]
+  },
+  {
+    "film_title": "Naughty Boy",
+    "colour": "Partly in Colour",
+    "format": "35mm",
+    "producer": "Shakti Filmn, 204, Famous Cine Bldg., Hajnos Road, Bombay-11.",
+    "cert_no": "90697",
+    "cert_date": "1st October, 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Dialogues betwoon Pritam, Jagdish and Yogi",
+        "length_m": 18.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Fight between Pritam and Mathur in car, giantwheel and In Merry-go-round. Shots of Noena, Chaolin and others watching (in colour)",
+        "length_m": 31.2
+      }
+    ]
+  },
+  {
+    "film_title": "Dhol Jani",
+    "languages": [
+      "Punjabi"
+    ],
+    "format": "35mm",
+    "producer": "Nigaristan (India) Films, Mohan Studios Kurla Road, Andheri, Bombay.",
+    "cert_no": "38673",
+    "cert_date": "20th September, 1962",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "A scene between Amar and Munshi",
+        "length_m": 74.676
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel IX",
+        "description": "A comedy scene between Muqabi, Mama, Riskoo and Jhumru",
+        "length_m": 168.924
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Biruni's entry in bunglow",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Amar follows Bishni",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Scene between Mela Ram and Labhu Ram before he fells",
+        "length_m": 64.008
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Song Rakhi 'Ni chan bhave neet ohudhave....'",
+        "length_m": 68.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Scene between Rakhi and her girl friend",
+        "length_m": 20.4216
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Svene between Mela Ram and Jbhu Ram",
+        "length_m": 31.0896
+      }
+    ]
+  }
+]

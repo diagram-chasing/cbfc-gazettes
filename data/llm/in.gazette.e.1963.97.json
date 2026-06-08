@@ -1,0 +1,982 @@
+[
+  {
+    "film_title": "Mere Mehboob",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "producer": "H.S. Rawail, 309-B, Famous Cine Bldg., Haines Road, Bombay-11.",
+    "cert_no": "39288",
+    "cert_date": "16-9-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4523.3,
+    "length_deleted_m": 17.0,
+    "final_length_m": 4506.3,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted underlined word from comedian's remark: 'Shair hoon, hajjani nahin'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted from comedian's father's death sequence, words 'Jaise hi burhau parlok sidhare'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted indecorous gestures of comedian throwing legs towards club members while reciting verses.",
+        "length_m": 13.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted from argument between comedian's father and mother: Father: 'Tujhe marnc men kitni dcr lagti hai', Mother: 'Tujhe maar ke marling!', Father: 'Are tu to kiya tern baap bhi mujhe nahin maar sakta'.",
+        "length_m": 3.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted underlined words from comedian's father's remarks to Punjabi: 'Khandani rastogi hokar ek Punjabi se nsta kaxenge bhala! Koi karorpati Punjabi hota to shadi ke bare men sochte bhi.'",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Taras Bulba",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "cert_no": "39292",
+    "cert_date": "17-9-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 96.0,
+    "length_deleted_m": 3.19,
+    "final_length_m": 92.81,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots of a woman's bare leg and thigh, and Bulba grabbing, lying over, and passionately kissing a woman.",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted underlined word from commentary: 'Death to the Infidel , Turk and the Pole.'",
+        "length_m": 0.19
+      }
+    ]
+  },
+  {
+    "film_title": "Akela",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39336",
+    "cert_date": "21-9-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4055.0,
+    "length_deleted_m": 65.36,
+    "final_length_m": 4013.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted Rajan's dialogue to his mother: 'Yeh zamana hi daakuon ka hai'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV",
+        "description": "Replaced shots showing Mohini's bare back while undressing behind a curtain with approved shots.",
+        "length_m": 10.06,
+        "length_retained_m": 10.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replaced Mohini's indecorous gestures during the song-dance sequence with approved shots.",
+        "length_m": 0.45,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Replaced shots of Mohini's drunken movements, hip-shaking, bust-jerking, suggestive winking, and close physical proximity with Rajan with approved shots.",
+        "length_m": 13.11,
+        "length_retained_m": 13.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted Rajan's speech: 'Hum aisc mi jayen, jaise sharaab men soda.'",
+        "length_m": 3.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted all shots suggesting Rajan's family was subjected to starvation and humiliation due to his actions as a police officer.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted son's dialogue condemning Rajan's actions during the scene between Rajan and his son in the park.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Replaced shots of indecorous gestures by the female dancer with an approved shot.",
+        "length_m": 0.45,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Reduced the scene showing Durjansingh being electrocuted by the villain, particularly deleting close-ups of the electric machine and Durjansingh's shrieks.",
+        "length_m": 4.86,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduced shots where Rajan, disguised as a Pathan, tries to take liberties with his wife before disclosing his identity.",
+        "length_m": 7.32,
+        "length_retained_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Drastically reduced the scene of drinking by Mohini and Rajan, and deleted sound of suggestive giggling and Rajan's endearments.",
+        "length_m": 2.44,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XV",
+        "description": "Reduced the fighting scene between Rajan and the Villain, specifically the scene of Mohini's death, the villain trying to electrocute Rajan, and the villain throttling Rajan.",
+        "length_m": 3.94,
+        "length_retained_m": 5.17
+      }
+    ]
+  },
+  {
+    "film_title": "Mujhe Jeene Do",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38779",
+    "cert_date": "9-7-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4420.0,
+    "final_length_m": 4437.0,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added English titles: 'I dedicate this film to the sweet memory of our beloved friends K Dutta and V. J. Shah who worked, lived and died for Ajanta Arts their demise is a great loss to Ajanta Arts and to me'—Sunil Dutt.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added acknowledgement of gratitude to Officers and villagers of Madhya Pradesh.",
+        "length_m": 30.0
+      }
+    ]
+  },
+  {
+    "film_title": "Ustadon - Ke - Ustad",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39256",
+    "cert_date": "9-9-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4193.29,
+    "length_deleted_m": 12.0,
+    "final_length_m": 4168.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted tightening sequence against water fall.",
+        "length_m": 12.0
+      }
+    ]
+  },
+  {
+    "film_title": "Harishchandra Taramati",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39136",
+    "cert_date": "13-8-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4074.26,
+    "length_deleted_m": 2.0,
+    "final_length_m": 4278.47,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Added song beginning with the words 'Ye jawam'.",
+        "length_m": 204.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted shots of bust jerking by the two dancers when they approach the camera.",
+        "length_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Akeli Mat Jaiyo",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "39236",
+    "cert_date": "4-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4159.28,
+    "length_deleted_m": 66.86,
+    "final_length_m": 4092.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted Seema's dialogue: 'Dekhiye ab kis se ntulaqat hoti hai.opto.Bas aapke to yahan khare huve thumakate rahna chahiye.'",
+        "length_m": 0.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots of Mrs. Saxena and words 'Chaprasi lo yah parcel miss Seema ko pahunchado'.",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shot of Seema and words 'Lekin yad rakhoge karnal-upto-Jan padta hai aaj kal aap chhootl pe hai'.",
+        "length_m": 0.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shot of girls and words 'Seema ka boy friend kabhi karnal nahin ho sakta.upto.Apna Astoria hotel to yahin hai. achclia ijajat.'",
+        "length_m": 16.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted dialogue from Reel II.",
+        "length_m": 43.56
+      }
+    ]
+  },
+  {
+    "film_title": "Mummy Daddy",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38342",
+    "cert_date": "9-5-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4075.0,
+    "length_deleted_m": 81.37,
+    "final_length_m": 3993.63,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel K",
+        "description": "Deleted scene between money lender Lala and Master Kanhayalal when the latter comes to borrow money.",
+        "length_m": 32.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted scene showing Bhola touching feet of Janardhan.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted scene between Pran and his college friend.",
+        "length_m": 25.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted scene showing hostel superintendent chasing Pran in the garden after the duet song.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted dialogues between Bhola and Vidya after he gets back his money and ornaments.",
+        "length_m": 3.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted from the scene between Maruti and Pran when he engages him to play the part of his father.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Deleted from the scene between Tiwari and Pran.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Molkareen",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "39128",
+    "cert_date": "9-8-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3749.04,
+    "final_length_m": 3749.04,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Added song beginning with the words 'Aai.aai.' (sound).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Chilampoli",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "37857",
+    "cert_date": "20-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4444.79,
+    "length_deleted_m": 60.02,
+    "final_length_m": 4444.79,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deleted scene of Parijatham collecting presents from men after Chintamani declines them.",
+        "length_m": 27.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Deleted scene of Neelambaram and Pithambaram being driven out with a broomstick, and in the following scene, the sentence that Tara’s arms were like pestles and would be smashed. Replaced with approved shots.",
+        "length_m": 3.64,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted Chintamani's dialogue when Parijatham persuades her to come out and dance: 'she wanted to make some money out of her'.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Deleted shot of Parijatham collecting money from people witnessing the dance, and text and picture of verse 3 from Abhinandhathlnde. Replaced with approved shots.",
+        "length_m": 4.0,
+        "length_retained_m": 11.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted dialogue between Viswom and Chintamani: 'Will the family consent to the marriage to a Deva Nartaki' and 'Is it marriage or concubine'.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Deleted Viswom's reference to Chintamani as Devadasi (Sound dubbed).",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted Viswom's reference to Parijatham's sampradaya (Sound only).",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted Tara’s statement that it was the habit in her family (Sound dubbed).",
+        "length_m": 11.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Deleted Vilwamangal’s statement that his wife was a very good woman and his happiness was hers, and all his mistakes she will forgive.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Deleted Vilwamangal asking Chintamani whether anyone else was coming, and whom she was waiting for.",
+        "length_m": 3.04
+      }
+    ]
+  },
+  {
+    "film_title": "Lakshadhikari",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "37859",
+    "cert_date": "21-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4540.01,
+    "length_deleted_m": 78.9,
+    "final_length_m": 4526.89,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted close-up of Leela performing seershasan and reduced the remaining portion.",
+        "length_m": 9.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted the entire swimming pool scene.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Deleted shot of Leela jerking her hip, synchronised with background music, and close-up of Leela with wet sari. Replaced with approved shots.",
+        "length_m": 9.44,
+        "length_retained_m": 9.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Deleted shot of Padma and Prasad in close-up on the ground and the shot where she rolls in the water after the song. Replaced with approved shots.",
+        "length_m": 2.43,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Deleted the entire portion of Atchamma beating Rao with a broomstick.",
+        "length_m": 5.48
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Deleted close-up of Padma and Prasad when they whistle at each other (first time). Replaced with approved shots.",
+        "length_m": 3.04,
+        "length_retained_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Deleted lines 'Ekkali.Mittapallam' from Song 6.",
+        "length_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Bin Badal Barsaat (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1404",
+    "cert_date": "24-7-63",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4237.49,
+    "length_deleted_m": 159.93,
+    "final_length_m": 4077.56,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted scene showing Prabhat and Sandhya standing by a tree before the song 'Ek Baar Jara Phir kah Do'.",
+        "length_m": 4.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted silent reactions of Sandhya and Prabhat after Sandhya reads the letter, Prabhat moving away, Sandhya sitting silently.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted Sandhya turning towards Prabhat with tears in her eyes.",
+        "length_m": 2.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted Sandhya coming to Prabhat's house while he is seeing a photo of Reshma up to the end of the scene.",
+        "length_m": 13.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted entry of Natoo's mediums.",
+        "length_m": 0.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted entry of Prabhat's car near the gypsy camp and further dialogues of Prabhat and Sandhya in the car.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted scene showing Homra dragging Prabhat away from the compound of the gypsy camp towards the tent.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted entry of Prabhat and Homru into the tent, Homru showing a photo to Prabhat and their dialogues.",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted scene of Prabhat and Sandhya sitting on a mountain top discussing previous truths etc., ending on a shot of two flowers.",
+        "length_m": 34.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted complete romantic interlude of Prabhat and Sandhya speaking to each other's photo.",
+        "length_m": 34.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Deleted entire scene of Naloo Saidar's medium.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Vachan",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "39252",
+    "cert_date": "6-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 304.49,
+    "length_deleted_m": 30.78,
+    "final_length_m": 273.71,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted dialogue of Daksha.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted dialogue of Raksha.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted dialogues of Raksha and Daksha.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted two dialogues of Raksha and Daksha.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted the shot showing the mother opening the cupboard.",
+        "length_m": 10.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted close shot of Raksha and dialogues.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted subsequent dialogue of Raksha.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted from the last title 'End'.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Mujhe Jeene Do",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38779",
+    "cert_date": "9-7-1963",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4420.0,
+    "length_deleted_m": 122.11,
+    "final_length_m": 4314.89,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted from Dara's close-up where he speaks 'Daroga Sahcb Maine Gulab Sing Ka Khoon Nnhin Kiya....' up to the close-up of Jarnail Singh when he fires the gun.",
+        "length_m": 41.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted from the beginning scene from Nawab's house the dialogues of Begum 'Woh Mua Ja nail Singh Aaycga Zaroor....' up to the dialogue of Chhoti Begum 'Jab Tak Woh Nafrasa Griftaar Na Kiya Jayegu Aap Kj Daulat Aur Meri Jawani Dono Mahfooz Nahin'.",
+        "length_m": 40.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Deleted the song lines 'Bhor Hot Tore Sang Clialungi Phir Rahungi Main Tumhari Atariya Men'.",
+        "length_m": 40.13
+      }
+    ]
+  },
+  {
+    "film_title": "Molkareen",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "39128",
+    "cert_date": "9-8-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3749.04,
+    "final_length_m": 3749.04,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Added the lines 'Deo Jari..' of the song in Reel No. 2 repeated in Reel No. 14 (Sound).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Ananda Bashpa",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "37860",
+    "cert_date": "23-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4526.89,
+    "length_deleted_m": 45.11,
+    "final_length_m": 4526.89,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Deleted shots of dancers in long shots bending forward thrice, exposing their bust; dancer bending backwards on the ground; Sheola running towards the camera and sinking out-field and then rising up and running back; Sheola in side-angle and mid-shot while she is kneeling; mid-close-up at the end of the song.",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Deleted the portion where Mari lights a cigarette, smokes and then puts it inside the drawer.",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted Joker’s sentence 'That was the essence of romance'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted Sheela accusing Lakshmi that a family woman should know the difference between father-in-law and husband; reduced the dialogue to the minimum required for the story; eliminated close-shots of Sheela in side-angle.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Deleted all close-shots of drink bottles and drinking in the scene between Balu and Ramesh.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Reduced the text of the kidnapping letter being read out.",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Konjum Kumari",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "37861",
+    "cert_date": "23-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 91.44,
+    "length_deleted_m": 8.21,
+    "final_length_m": 91.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted lines from Song No. 7. Approved replacement.",
+        "length_m": 6.69
+      },
+      {
+        "kind": "deletion",
+        "description": "Deleted the emblem shown at the end of the extract from song No. 2. Approved replacement.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Konjum Kumari",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "37862",
+    "cert_date": "23-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4434.43,
+    "length_deleted_m": 257.58,
+    "final_length_m": 4434.43,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel 2",
+        "description": "Deleted shots of Prema and Manickam on the ground rolling and crawling (twice), Prema swaying her hips back to the camera, and embracing at the end of Song 1. Replaced with approved shots.",
+        "length_m": 8.52,
+        "length_retained_m": 8.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted dialogues between Balu and Thangam: 'Must you separate each one of the parts of my body?' and the exclamation by Balu when he falls off the bench.",
+        "length_m": 9.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 4",
+        "description": "Considerably reduced the gun battle between the police and Manickam.",
+        "length_m": 1.82,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Deleted shots of bare legs and shoulder jerking by the dancers before Song 2. Replaced with approved shots.",
+        "length_m": 4.25,
+        "length_retained_m": 4.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels 6 and 7",
+        "description": "Reduced the scene of Ali in a tight blouse without a sari.",
+        "length_m": 8.83,
+        "length_retained_m": 8.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Reduced shots of Ali in a tight blouse without a sari before and after Song 4. Replaced with approved shots.",
+        "length_m": 3.34,
+        "length_retained_m": 3.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted Mannar's sentence to Ali's father that a sister for Ali could be arranged 'for even now'.",
+        "length_m": 8.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Deleted the words 'Jadikku Ettra Moodi' including all repetitions from Song 3. Replaced with approved shots.",
+        "length_m": 7.3,
+        "length_retained_m": 7.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted the sentence of the Poojari that Ali and Rajangam were already married according to the Gandharva rites, and Sahayam was witness, including the insert of Sahayam confirming it.",
+        "length_m": 7.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted the sentence of the Poojari that even though the marriage was not according to the poorva sampradaya, they were man and wife.",
+        "length_m": 4.56
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Deleted the words '(i) Mattikittaa; (ii) Matti thudikaddayya' from Song 6. Replaced with approved shots.",
+        "length_m": 3.95,
+        "length_retained_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Deleted Mannar's sentence referring to Menaka & Rembai.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Deleted the scene of Ali and Rajangam preparing to sleep under the blanket.",
+        "length_m": 23.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Deleted Rajangam approaching to kiss Ali and her stopping him.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels 15, 16, 17 and 18",
+        "description": "Deleted references in dialogue to Prema becoming pregnant.",
+        "length_m": 46.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Deleted Rajangam's reply when introduced to the rowdy.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "Reduced the flogging of Rajangam by Jambulingam.",
+        "length_m": 2.43,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Deleted Balu's sentence to Jambulingam that the latter was a very brave man, and Ali might be left to himself.",
+        "length_m": 1.47
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 17",
+        "description": "Deleted from Song 7: '(a) Toppuley Koiyya Intkkudhadi.Inikudhadi'; '(b) Mattikanurn'; '(c) Kaiyai Pudichu.Katti Pudikka Nenaikkiren'; '(d) Bnddhiyilladha Machan.Mulayay Matturn Pichhane.' Replaced with approved shots.",
+        "length_m": 93.57,
+        "length_retained_m": 93.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Deleted Balu's sentence that though he was lean, every bone of his was of cast iron and she would understand as time goes on.",
+        "length_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Sri Tirupathamma Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "37865",
+    "cert_date": "26-9-63",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4405.91,
+    "length_deleted_m": 125.3,
+    "final_length_m": 4405.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Deleted shots from Song 2: (a) Gopayya kissing Tirupathamma; (b) kissing gesture at the doorway; (c) embracing and leaning on her.",
+        "length_m": 9.75
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 6",
+        "description": "Deleted the rest of the scene after Tirupathamma bows at Gopayya's feet. Replaced with approved shots.",
+        "length_m": 4.57,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Deleted Gopayya catching Tirupathamma and kissing her before Venkamma comes; in the bedroom, catching and embracing her and then again catching her sari and pulling.",
+        "length_m": 7.31
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 8",
+        "description": "Deleted from Song 4: (a) all suggestion that the dance was in the temple, and (b) the reaction shots between Gopayya and Padma during the course of the dance. Replacement approved.",
+        "length_m": 9.14,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted: (a) scene of Vanaja and Padma when Padma goes to Gopayya; (b) kissing of Padma by Gopayya (twice); (c) reduced the rest of the picture and dialogue to bare suggestion that they were together; (d) the scene of Vanaja stopping Kanakam going to Padma, including all the shots of Padma in bed, up to and including Kanakam’s sentence that she would have to select a good day and entrust Padma.",
+        "length_m": 85.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted sentences uttered by Parvathamma and Sankariah in their sleep when Jogulu tries to wake up Kamudu.",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Deleted the entire scene in the prostitute’s house, from Kanakam receiving Rajaram, up to and including Kanakam lamenting at the end when Rajaram departs.",
+        "length_m": 101.49
+      }
+    ]
+  }
+]

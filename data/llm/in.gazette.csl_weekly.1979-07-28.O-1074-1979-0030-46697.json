@@ -1,0 +1,782 @@
+[
+  {
+    "film_title": "\"Badnam Basti\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Premkapoor, 226 - Jawahar Nagar, Bombay-62.",
+    "cert_no": "89366",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the dialogue 'Driver hote he hai paldaishi badmash, chor, uchchake...'",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "\"Kitane Suhano Din\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "85550",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "",
+        "description": "Added various shots",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "\"Sunhara Geet\"",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "87560",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted various shots",
+        "length_m": 40.07
+      }
+    ]
+  },
+  {
+    "film_title": "\"Aanakkalari\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri A. B. Raj.",
+    "cert_no": "80553",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete close-shots of the dancer showing her cleavage while bending before Bhargavan, the manager of the estate, and his feeling the thigh of the dancer.",
+        "length_m": 2.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the words of the nephew of Nanu saying 'Ammavan varunnu mumbu... Oru Ding Ding'",
+        "length_m": 34.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shots of Bhagyam sitting on the sofa and exhibiting her bare thigh.",
+        "length_m": 4.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the violent fight to the bare minimum.",
+        "length_m": 17.06,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete the shot of Salim passionately kissing Saraswathi song sequence.",
+        "length_m": 4.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "Delete the shot of Salim kissing Saraswathi.",
+        "length_m": 5.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the close-up shots of the nude photograph on the wall, and reduce the violence to the bare minimum.",
+        "length_m": 13.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the sentence dialogue beginning with the words 'Ningalkanu Jaadhi spirit', between Sankarap and Mohammed.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the violent fight to about half of the present length.",
+        "length_m": 14.55,
+        "length_retained_m": 14.55
+      }
+    ]
+  },
+  {
+    "film_title": "\"Bale Huduga\"",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Royal Pictures, Bangalore.",
+    "cert_no": "80555",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot of Ravi being lifted by the booted foot of the goonda and kicked with the other foot.",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the words of Gita 'Berale Istu Sihiyagidre Innee'",
+        "length_m": 1.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the following in the picturisation of the song under the bullock chart: Indecorous movements of Ravi and Gita in wet clothes and jerking of her breast; Rollug and falling of Ravi over Geetha; Shot of Gita sitting on the floor exposing her drenched thighs.",
+        "length_m": 7.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "In the cabaret sequence, delete the following: Indecorous frontal movements of the dancer in the beginning; Shot of the dancer lifting and placing her bare leg on the table, exposing her thigh; Close-up of shots of cleavage exposure; Indecorous movements of the dancer while sitting on the ground; Lifting of the dancer by Ravi and her movements while remaining in his hands.",
+        "length_m": 2.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the following words of the lyric in the song No. 4 'Seru baa, nodu baa, Naath na Nannalll Anubhava Ninnalli Sukbavide Nodilli' (Sound only).",
+        "length_m": 0.24
+      }
+    ]
+  },
+  {
+    "film_title": "\"Rickshaw Raji\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "VijayalakshmiMovies, Madras.",
+    "cert_no": "80557",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete Lingam's dialogue 'Naku thondaragane undi...'",
+        "length_m": 7.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete contractor's dialogue 'Notu choosevaruku prati aadadi kaadang anthudi'.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Delete the gesture of Rangudu showing his thumb up at the words, 'Iruvaiyclu'.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Lingam holding the water hose inside elevation.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the entire dance performed before Jagan and Rangan along with the lyrics of song No. 2 beginning with the words 'Patta page'.",
+        "length_m": 114.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the following visuals from the picturisation of the song: Shot of indecorous movements of the posterior of a girl; shot of two girls hitting their posteriors together.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the sequence of Ranghdu raping Raji to a suggestion, retaining only the shot of his pushing her down and the shot of her biting his ear.",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete Jagan's dialogue 'Challani Sarukku gontuloki mottani saruku parupuloke'.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Delete the entire dance performed before Jagan and his friends along with the lyrics of song No. 5 beginning with the words 'Kothapalli kobbaimukkas'.",
+        "length_m": 125.27
+      }
+    ]
+  },
+  {
+    "film_title": "\"Athanjkanta Ghanudu\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Adusumilli Lakshmikumar Madras.",
+    "cert_no": "80577",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Gopi kicking the fighter repeatedly under the chin with booted leg in the first fight.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "In the dance delete: Opening shot showing dancer swaying her front (opening no posterior shot); Dancer perched on the back of villain's henchmen; Close up of bust cleavage and bust jerks of dancer.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Gopi hitting the fat man in white dress on the face with chain in fists.",
+        "length_m": 3.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue referring to 'Bonz bandi repair vachindi' with reference to a woman.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Lalitha riding her hand from Gopi's ankle to his thighs.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Gopi hitting the posterior of Lalitha in the song sequence.",
+        "length_m": 2.66
+      }
+    ]
+  },
+  {
+    "film_title": "\"Madalasa\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "S/Shri K K Richardian Williams",
+    "cert_no": "80578",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "During the song delete the tup-angle shot at janu with exposed breasts.",
+        "length_m": 4.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the impact of the fighting sequence by reducing the length of the sequence and by deleting close-shots of fighting hard hitting lunuley Pi i da.",
+        "length_m": 3.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "From the song and a low sequence as imagined by Vasu delete the following visuals: The cament 700ning Dach had urd krwald he gil shakes her breasts; Vasu moving his fact over the body of the gil as he moves her body up and down indecorously when her thighs are exposed; Movement of the girl on the floor; The shot of the dancer moving her breasts indecorously with Ve su behind her.",
+        "length_m": 7.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the brutal puniciles and hits in the fight in the arrack shop.",
+        "length_m": 25.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From the song and fight sequences of Nieruy and others delete close shots where her breasts and thighs are indecently exposed.",
+        "length_m": 5.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following shots from the picturisation of the song (dream sequence): The shot of the dancer in green dress bending backward; The shot of Chandiu burying his face on the lorom of Jenu.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Replace running shot of dream set.",
+        "length_m": 0.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce to a mere suggestion the scene of love making between Jinu and Chandru in the cars-shed outside the car.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete entirely the scenes in which J nu and Chandru open the car and make love inside the car.",
+        "length_m": 2.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the love making scene between J, nu and Chandru under the shower.",
+        "length_m": 15.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce to a mere suggestion the shot of Chandiu crushing the head of Janu with a stone. Delete the subsequent portion of the scene where Janu is seen with blood spluttered face.",
+        "length_m": 1.02
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Turning Point\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "20th Century Fox Corpn.(I) Pvt. Ltd. Metro House, M.G. Road, Bombay-2.",
+    "cert_no": "89368",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the scene of love-making and delete the nude visuals wherever seen.",
+        "length_m": 17.31,
+        "length_retained_m": 14.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the reference to pill in the dialogue: 'Don't worry mother, I'm on the pill', as spoken by the girl.",
+        "length_m": 3.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue suggesting that there is no artistic freedom in Russia: 'I have come from Russia....... I am an artist....... I want artistic freedom'.",
+        "length_m": 1.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the words 'Horny Russian Bastard' spoken by Deedee.",
+        "length_m": 24.24
+      }
+    ]
+  },
+  {
+    "film_title": "\"Daaku Aur Jawan\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Lotus Production, 2, Kewal Kamal, 28th Road, Bandra, Bombay-50.",
+    "cert_no": "89370",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete Tuntun's remarks about her husband's impotence while taking bath at the river.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of Ganga's rape by Bhairav.",
+        "length_m": 8.23,
+        "length_retained_m": 52.73
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the beating up of Ramu by Bhairav's men in Zamindari's house.",
+        "length_m": 2.44,
+        "length_retained_m": 16.46
+      }
+    ]
+  },
+  {
+    "film_title": "\"Toofani Thakkar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rasila, 198, Khadilkar Road, Girgaum, Bombay-4.",
+    "cert_no": "89371",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shot of killing of a child.",
+        "length_m": 0.85
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce to a suggestion the scene of rape.",
+        "length_m": 7.4,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the fight by deleting gruesome and hard hitting shots.",
+        "length_m": 20.2,
+        "length_retained_m": 79.36
+      }
+    ]
+  },
+  {
+    "film_title": "\"Hazaar Haath\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Rajdeep Productions, 4, Zeenat, First Floor, 57A, Lady Jamshedji Road, Mahim, Bombay-16.",
+    "cert_no": "4344",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to a suggestion the sex-act between Dagru and a girl and delete her nude visual along with the dialogue: 'Tera pet mujhse nahin Bharta ki tum us ke peechhe pade ho'.",
+        "length_m": 4.87,
+        "length_retained_m": 4.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue of the girl: 'Aaj bhi mujhe le chal na', addressed to Dagru in a suggestive manner.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to a suggestion Dagru's attempt to rape the blind girl and delete the views of pulling out her saree.",
+        "length_m": 5.17,
+        "length_retained_m": 5.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to a suggestion the flash-back scene showing the brother procuring his sister for immoral purposes, particularly deleting the shot of the brother pushing his sister inside the room and the man taking out her saree.",
+        "length_m": 5.17,
+        "length_retained_m": 5.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replace with approved shots.",
+        "length_m": 0.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "During the picturisation of the song beginning with the words 'Yo hasarat hai koi alsa bhi......' reduce to a suggestion the molestation of a mad girl by four goondas and delete in particular all obscene visuals.",
+        "length_m": 3.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Replace with approved shots.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce the heating of Ram by goondas near the statue of Christ.",
+        "length_m": 9.48,
+        "length_retained_m": 17.99
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "From the cabaret item, delete the vulgar gestures and movements of the dancer.",
+        "length_m": 12.9
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Savage Bees\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "George Eckstein, U.S.A.",
+    "cert_no": "88684",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the shots of the dead man being lifted from the water.",
+        "length_m": 2.59
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ramudu Rangadu\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Tamma Raghu Dattha Reddy, Madras.",
+    "cert_no": "80568",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete the shots in which Subbulu deliberately and indecently expose the top of her breasts. (One shot replaced by shot of Subbulu without exposure of breasts).",
+        "length_m": 1.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the following words: (a) Madugu, (b) Taravanikunda; (c) Dhatostanu.",
+        "length_m": 4.16
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace word Ramachilaka for Tarayanikunda.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the scene of Ramesh molesting Gowri to a suggestion (Retained only the first shot and the last shot where Ramesh and Rangudu enter the room).",
+        "length_m": 18.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shots of Subbulu exposing the top of her breasts indecently.",
+        "length_m": 5.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shots showing the sketch of a man and a woman one above the other and the caption Kainakalu palu on the wall.",
+        "length_m": 0.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shots of Subbulu exposing the top of her breasts indecently.",
+        "length_m": 5.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the dialogue between Kaki and Subbulu regarding sleeping together (Sound only).",
+        "length_m": 44.26
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Replace dialogue approved.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the scene of Ramesh molesting Rama to a suggestion (Retained 10.06 m. approved).",
+        "length_m": 8.66,
+        "length_retained_m": 10.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Delete the lyric and the visuals of the song and dance number beginning with words 'Mavullo Oke Cheruvundi'.",
+        "length_m": 29.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the violent impact of the fight between Ramesh and Rangudu by deleting all mid-close and close shots of the hits punches. (Retained 40.84 mts. approved).",
+        "length_m": 10.67,
+        "length_retained_m": 40.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the scene of molestation of Jothi by Ramesh to a suggestion (Only by shot where she is taken into the room and the shot where Rangadu enter the room to rescue her may be retained). (The Two slots retained are approved).",
+        "length_m": 10.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the violent impact of the fighting scene.",
+        "length_m": 10.67,
+        "length_retained_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "\"Aaravam\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Creative Unit Madras",
+    "cert_no": "80569",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the shots of Sundari sitting with her thighs open on the cot.",
+        "length_m": 5.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace close shot of Kaveri.",
+        "length_m": 1.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete shot of Sundari running in pantie and bra.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace shot of violinist for 13:17 mts.",
+        "length_m": 13.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replace shot of violinist.",
+        "length_m": 8.53
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Replacement for item (1).",
+        "length_m": 7.18
+      }
+    ]
+  },
+  {
+    "film_title": "\"Karate Kamala\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Alankar Arts Madras.",
+    "cert_no": "80571",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete close-up of bust and bust cleavage of Nandini throughout the song in and out of water; Delete girl resting on Nandini in the water; Delete Nandini's movement in the water against the rock; Delete camera focussing on a row of girls jerking their buttocks; one girl shaking her buttocks against the sound of a drum.",
+        "length_m": 26.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the comedy scene delete the shot of a girl with outstretched legs seen from under the cot and the subsequent reaction shots of the comedian.",
+        "length_m": 8.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Delete the entire rape scene including the bathing scene retaining only a suggestion of the three men entering and the reaction of the child crying and last shots of the girl lying dead.",
+        "length_m": 26.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the first and second rapes by Nagu to a bare suggestion (Retained door opening and touching the woman).",
+        "length_m": 11.01
+      }
+    ]
+  },
+  {
+    "film_title": "\"Snehikkan Samayamilla\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri S. Srikant.",
+    "cert_no": "80573",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Mohan kissing and hugging the lady clerk in the office while sitting on his chair.",
+        "length_m": 2.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the shot showing Jayanthi's bare back hooking her bra while Manoharan looking at and laughing.",
+        "length_m": 1.46
+      }
+    ]
+  },
+  {
+    "film_title": "\"Athanjkanta Ghanudu\"",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Adusumilli Lakshmikumar Madras.",
+    "cert_no": "80577",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Gopi kicking the fighter repeatedly under the chin with booted leg in the first fight.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "In the dance delete: Opening shot showing dancer swaying her front (opening no posterior shot); Dancer perched on the back of villain's henchmen; Close up of bust cleavage and bust jerks of dancer.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Gopi hitting the fat man in white dress on the face with chain in fists.",
+        "length_m": 3.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the dialogue referring to 'Bonz bandi repair vachindi' with reference to a woman.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Lalitha riding her hand from Gopi's ankle to his thighs.",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Gopi hitting the posterior of Lalitha in the song sequence.",
+        "length_m": 2.66
+      }
+    ]
+  }
+]

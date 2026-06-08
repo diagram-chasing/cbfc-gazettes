@@ -1,0 +1,617 @@
+[
+  {
+    "film_title": "Badaltey Rishtey",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mr. Sudesh Kumar, Vijayshree Pictures.309, Neelam Bldg., Worli, Bombay-18.",
+    "cert_no": "89358",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Manohar's dialogue comparing Savitri to an egg-layer and gesturing towards children.",
+        "length_m": 4.4
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Shalimar”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Laxmi Productions, Raman House, 169-Backbay Reclamation, Bombay-20.",
+    "cert_no": "88592",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace shots of Rahman falling down stairs with approved shots.",
+        "length_m": 0.79,
+        "length_retained_m": 0.75
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replace shot of a blood-stained knife in Shefali's stomach with approved shots.",
+        "length_m": 0.89
+      }
+    ]
+  },
+  {
+    "film_title": "Chor Ke Ghar Chor",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sadanah Bios. 147-Famous Cine Bldg., Mahulaxmi, Bombay-11.",
+    "cert_no": "89763",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce fight between Sher Singh's people and Ranjit Singh.",
+        "length_m": 14.25,
+        "length_retained_m": 10.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce fight in the club between Mangal and Runa when a broken bottle is stuck in Runa's belly.",
+        "length_m": 2.04,
+        "length_retained_m": 5.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce shots of Shankar with a knife stuck in his back while going towards Pravi bhai's car.",
+        "length_m": 0.55,
+        "length_retained_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the words 'Ihendn idmi hai jab dekho battery down rahti hai'.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to a suggestion the scene of urinal when Ranjit outsits Shot Singh's people.",
+        "length_m": 13.86,
+        "length_retained_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce beating and tossing of Birjoo and Naina by Sher Singh's people with numbered red shirts.",
+        "length_m": 2.0,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "From the climax sequence, reduce fight between Mangal Singh's people and Sher Singh.",
+        "length_m": 2.64,
+        "length_retained_m": 12.9
+      }
+    ]
+  },
+  {
+    "film_title": "Aladdin And The Wonderful Lamp",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Basant Pictures, 136-Parmar Guruji Marg, Charni Road, Parel, Bombay-12",
+    "cert_no": "89364",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "NI",
+        "description": "Delete the words 'mere phhut ga>c' spoken by the chief guard.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "NI",
+        "description": "Delete the words '. . . turn kya kaiogi, main karonga' spoken by Baglo.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "NI",
+        "description": "Delete views where the chief guard's pyjamas go down and up when being tickled by Baglo.",
+        "length_m": 8.55
+      }
+    ]
+  },
+  {
+    "film_title": "Bot Lavtn Tithe Gudgulya",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Dada Kondake, 302 - Bombay Market, Tardeo, Bombay-34.",
+    "cert_no": "89365",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the sentence 'Yc yediya yanchyak’de saman asala tar yanni sansar nasta ka kela majhyasang'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the words ‘Kand Mandalu’, ‘Kadak Mandalu’ ‘Kandam L ndi’ (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete entire 'Gajar' sequence and all references to 'Maarh' barring the first one.",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete reference to 'Maai It' again and reference to 'Padri' with visuals.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the words of Chhotu to the effect 'Tichya angaashl ardha taas zomba zombi keli, tevha kalala ti baai aihe mhanun'.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete words uttered by Mama 'Yaa shai iraeba banket ltklshakti sathavali aaheki nustya vyajavar ck pornhala hotil'.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "From the song 'Lapvoo naka tbhapvu naka. . . ', delete the visuals 'Mau mau gavatavar jhopuya an preetieha gulknnd chakhuya'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Huryo' with the accompanying visual.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "From the dialogue between Chhotu and Mehuai, delete visual of cycle 'dPnda coming out and dialogue portion beginning with the sentence 'Aaila he kutun bahir aal danda' and ending with the sentence 'Munich munji majboot asnnarch ho'.",
+        "length_m": 34.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the dialogue beginning with the sentence 'Tu ladies cyclovar balas kassa and ending with ' to bhi majabutacha'.",
+        "length_m": 34.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the sentence 'Ti prurshacha shauk karto by Chhotu'.",
+        "length_m": 34.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the dialogue beginning with 'Bin cl ikhichya vihirimadhya udi, . . .' and ending with 'Chav ghctli mop jhala'.",
+        "length_m": 34.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the words spoken by Mchuni 'Baki kashala kahi lavayacha nahi'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the visuals in respect of the song lines 'Eka Barshat hoyil tcela', 'lo Damaynti me Nai'.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the song line 'Sashala bal koni dava'.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the words 'Udya mi kahi dakhvin tunhi kahi var karal' said by Chhotu.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the word 'Ek Ghanta balaya' with the accompanying gesture on the word by Chhotu.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the words 'Ji vastu mojhyakade aahe ti ka Kashala' with reference to Kutubminar spoken by Chhotu.",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Dhakati Mehuni",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Alhad Chitra, Kunte Chowk, Lakchmi Road, Poona-30.",
+    "cert_no": "4340",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the obscene gestures of Babu when he is in Sadhus' robes and his underclothes are visible.",
+        "length_m": 3.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the brothel scene.",
+        "length_m": 13.6
+      }
+    ]
+  },
+  {
+    "film_title": "The Goodbye Girl",
+    "languages": [
+      "English"
+    ],
+    "producer": "Warner Bros (F.E.) Inc., Eros Theatre Bldg., M. K. Road, Bombay-20.",
+    "cert_no": "4341",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to the barest minimum the scene showing a semi-nude cabaret dancer in the club sequence.",
+        "length_m": 8.67,
+        "length_retained_m": 1.42
+      }
+    ]
+  },
+  {
+    "film_title": "Gunakan Dava",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. S. Oberoi, Art Commercia.",
+    "cert_no": "88088",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Add various shots.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Ninakku Giuiium Jenakku Necyum",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Shri S. S. I. Lakshminarayan, Madras.",
+    "cert_no": "60572",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of Gopi caressing the buttocks of Lukshnu.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the shot of a child lying in the bathtub with hands, mouth, and legs tied and the water tap opened.",
+        "length_m": 1.69
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the shot of blood in the wash basin and gushing out of Balana's mouth.",
+        "length_m": 5.24,
+        "length_retained_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "Aa?dai Alayaazhi",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri H. K. Ramachandran and Smt. Prema.",
+    "cert_no": "3603",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogues of Vonu in the particular context telling 'she maybe my daughter or my mother, or my sister etc.'.",
+        "length_m": 9.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the sequence of a girl wearing a baniyan mentioning 'I am available'.",
+        "length_m": 4.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the words of Vonu to his wife 'Se.xy bitch, ....'.",
+        "length_m": 0.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Delete the photo flash-back completely except the last shot. In the same scene, delete shots of lovemaking of Venu with other girls on the bed and caressing her. Delete the shot of Venu and the girl in the bath-tub among soap foam. Replaced with butterfly.",
+        "length_m": 39.95,
+        "length_retained_m": 0.94
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the love-making of Venu with the wife of the artist, on the sofa, exposing his underwear.",
+        "length_m": 2.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the words of Venu to his wife 'You are a bitch -a whole'.",
+        "length_m": 4.47
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce the prolonged scene of Kalyani culti and Onni making love to each other.",
+        "length_m": 4.44
+      }
+    ]
+  },
+  {
+    "film_title": "Lawycar Viswanath",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "Cinemascope",
+    "producer": "Shri Y. V. Rau",
+    "cert_no": "80550",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close-up shots of Vishwanath's hand with blood oozing from it.",
+        "length_m": 1.02
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce by 25% the fight of Wishwanath with the gangsters and the impact of violence in general.",
+        "length_m": 14.13
+      }
+    ]
+  },
+  {
+    "film_title": "Satiru Samharam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Sree Kalpana Films, Madras.",
+    "cert_no": "80551",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the shot of piercing of Narayanan by Menon with spear and blood oozing from his body.",
+        "length_m": 0.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the reference to the 'modus operandi' of smuggling opium and hiding it (words only).",
+        "length_m": 3.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the shot of Rani on the steps, showing her thighs and her underwear.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the dialogue between Rani and the old man 'Enthoru Druthiyane— Ithra Veyassayaittum— ennulla erpadu — Enikku sahikan vayya etc.' In the bedroom scene.",
+        "length_m": 12.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue between Rani and Ravi while removing the button of her dress: 'Ithra Ptirasyamayi Chcyyan Pattume'.",
+        "length_m": 5.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the fantasy shot in which Rani falls on Ravi and Ravi kissing her breasts in the garden, both the visual and song-line (only that part where Ravi asks Rani for a kiss).",
+        "length_m": 5.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete close and mid-shot of dance shots of Gotnati and Sugandan, retaining only long shots for continuity.",
+        "length_m": 13.0,
+        "length_retained_m": 13.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the spear piercing of Menon by Bhasi, with blood splashing on Bhasi's face.",
+        "length_m": 0.63
+      }
+    ]
+  },
+  {
+    "film_title": "Aadanle Alusa \" (Revised)",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri G.V. Krishna Rao",
+    "cert_no": "8604",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the shot of kissing by two dancers in the birthday party.",
+        "length_m": 0.47
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the zoom shot of nude photograph on the wall calendar. Replaced with insert parrot.",
+        "length_m": 0.78
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the entire lyric in the song No. 2 beginning with the words 'Tellari Povaddu'. Replaced with approved words.",
+        "length_m": 0.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete (i) the shot of guitarist kissing Lalitha and (ii) the shot of Lalitha standing on the floor and lifting her bare leg. Replaced (i) baby doll and (ii) parrot.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce the freeze shots (super imposed by deleting shots 2 & 4).",
+        "length_m": 0.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the same rape scene, delete the shot of falling and mounting on the bed.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Delete the entire dance sequence, visuals and lyrics beginning with the words 'Chenna patnam chinna danni' except the first stanza and first two lines of the best stanza and first two lines of the last lyrics alone. Replaced shots approved and changed lyrics.",
+        "length_m": 33.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Delete the shots of the Lady doctor running in tattered clothes retaining the first shot of escape from Bheemarayudu’s house and the last shot where she meets the wounded boy.",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete all the shots where the villain’s wife prepares for suicide.",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the close-up shots of the cabaret dancer on the table.",
+        "length_m": 1.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "In the medical shop, delete the words 'll' Annu' of the chemist (a continuation of the I du varaku chesina runam Tirchava).",
+        "length_m": 3.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete all the close-up shots of two cabaret dancers exposing thighs, breasts etc.",
+        "length_m": 5.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the shot of the husband Madhya feeling the back and buttocks of Radha in the honeymoon room.",
+        "length_m": 0.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the shot of Radha taking the initiative to embrace and make love.",
+        "length_m": 1.54
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the cuddling shots of Radha and her husband in the car to two shots only, deleting particularly the shot of her husband kissing Radha and falling on her in the rear shot of the car.",
+        "length_m": 4.33
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the freeze shots (super imposed shot rape to two shots only).",
+        "length_m": 1.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the shots of rolling of Radha and the taxi driver in the scene on the hill.",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "ImI Aval Urongatte",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Navadarsana Films, Madras.",
+    "cert_no": "3605",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Delete the shot of Kanakam half-naked, on bed in the bedroom with a customer. Replaced shot of fully dressed girl.",
+        "length_m": 15.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the dialogue of Sunny 'Enikku Orikkalum Ninne Mathiy avi la Ad i C hakkc'.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the shot of Kanakam being forced to drink Liquor.",
+        "length_m": 10.67
+      }
+    ]
+  }
+]

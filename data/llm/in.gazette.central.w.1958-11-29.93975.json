@@ -1,0 +1,503 @@
+[
+  {
+    "film_title": "Bhola Shikar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26319",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Sequence preceding the main titles",
+        "length_m": 61.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Physical proximity and cuddling during song No. 1, starting with 'Meri tum sang preet lagi'",
+        "length_m": 8.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Close physical proximity between Dhandhan and Jhunjhun",
+        "length_m": 1.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The word 'Bandro' when addressed to tribal followers by the Tribal Sardar",
+        "length_m": 1.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Monkey cries of the Tribal people running for raids",
+        "length_m": 13.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In Song No. 2, preceding the shot where the dancer's skirt goes up exposing her legs and thighs",
+        "length_m": 2.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shots where dancers are shown in close physical proximity of Jhalam in song No. 2",
+        "length_m": 5.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In the repetition of song No. 1, in the dream of Romi, shots of close physical proximity",
+        "length_m": 19.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "In song No. 3, shots of close physical proximity between Romi and Badal",
+        "length_m": 29.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Remarks establishing that the Tribal Chief is enjoying independent sovereignty, particularly dialogue 'Hamari plauj, hamaro gipahi, baiara kanoon'",
+        "length_m": 1.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Monkey cries of Tribals",
+        "length_m": 5.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "In repetition of Song No. 3, shots of physical intimacy between Romi and Badal",
+        "length_m": 20.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Considerable fight between Badal, Jhalam and others",
+        "length_m": 61.0,
+        "length_retained_m": 42.67
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Considerable fight between Badal and Samri, and between Samri and Devegun",
+        "length_m": 20.98,
+        "length_retained_m": 10.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "A flash fight between Romi and Sharar",
+        "length_m": 5.58,
+        "length_retained_m": 2.63
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Considerable fight between Badal and Jhalam",
+        "length_m": 14.43,
+        "length_retained_m": 13.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "Considerable fight between Badal and Jhalam, and between Devogun and the gangsters",
+        "length_m": 26.21,
+        "length_retained_m": 19.68
+      }
+    ]
+  },
+  {
+    "film_title": "Flagpole Jitters",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "26325",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The sequence in which the leader of the gang plans the blowing of the safe with other gangsters",
+        "length_m": 7.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerable shots of the lighted fuse attached to the safe",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Gajagouri",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26326",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The words uttered by Bhishma: 'Dronane Eklavyaka angootha islya manga tha ki Anaryonmon chanurdhar nlrmun na ho aur Arvonpar aankat na aayo'",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Dialogue of Duryodhana to Dhritarashtra: 'Sach kahun taat Gurudevne Arjunke liyo Eklavyaka Angootha mang liya tha iliyo nah kirat chid utho muze to lagta hai ki un logonebi Pandavonka vadh kiya hoga'",
+        "length_m": 4.27
+      }
+    ]
+  },
+  {
+    "film_title": "Perri",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "26327",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots of the bleeding body of the rabbit with a fox cub worrying it",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Jailor",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26328",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of a cabaret dancer leaning on the arms of male dancers with her bosom prominently revealed",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of the dancer with her bosom prominently revealed",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Gunman's Walk",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Sievert lying in serious condition being threatened with a gun by Leo",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Dialogue and scene of Lee and Doctor after Lee had seen Sievert",
+        "length_m": 34.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Scene in which Ed indulges in revelry with girls in saloon, particularly shots in which he kisses two girls alternatively and carries them together on his arms and cuddles them",
+        "length_m": 25.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IX",
+        "description": "Scene A & B are transposed so that Scene B is followed by Scene A. Scene A shows Sheriff and Avery coming to see the doctor to interview Sievert and doctor refusing admittance due to Sievert's bad condition. Scene B shows Lee coming to see the doctor and interviewing Sievert and Lee leaving doctor's house.",
+        "length_m": 37.19
+      }
+    ]
+  },
+  {
+    "film_title": "A Tale of Two Cities",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "27843",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of soldiers actually falling from the rampart",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of a man being killed with an axe by Macguine Delryan",
+        "length_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "The scene of a boy being run over by the carriage of the Marquis",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Madhumati",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26313",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "A long shot of the motor car",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Anand's shot with subsequent insertion of beauty spot when he reaches there after the death of Madhu",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII and XIV",
+        "description": "The scene of Charan, Ojha and Balj Sharma from Ojha's place up to the Dak Banglow",
+        "length_m": 117.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The end portion of Anand's fall from the palace parapet, showing his fall in the water",
+        "length_m": 2.44
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII (a)",
+        "description": "A mid shot of Madhavi and her brother sitting in the car. Madhavi says 'Bhaiya aath to baj gaye, main jaldi jati han' and gets out of the car",
+        "length_m": 0.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII (b)",
+        "description": "Shot of the palace caretaker added after the flashback story, where he says 'Yo kahanimain bhi jante hun. Maine apno Ludhdhe habu ku puni thi. Maia hi kya, Shangadh ku bachcha baclicba yeh Kahani janta hai Yahan ke log aaj bhi Madhumati ko matimente hain aur uski pooja karte hain'",
+        "length_m": 9.75
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XVII (c)",
+        "description": "A composite shot of Anand and Radha at the station platform where they meet, with dialogue",
+        "length_m": 5.49
+      }
+    ]
+  },
+  {
+    "film_title": "Mujrim (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23612",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Dialogue of Shankar with Uma's photograph",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "One stanza of song 'Kar ke pyar pyar pyar' (Uma singing)",
+        "length_m": 34.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shankar talking to Uma in garden about his past life up to Uma slapping him on the face",
+        "length_m": 32.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Judge saying 'Faisala kal par multavi kiya jata hai'. Next day scene starts with Judge saying: 'Mujrim yeh baat bhi bhul gaya ki samaj men sohoho logon ki baksariyat hal. Agar aisa no ho to yu jamaj ok din na obolaskom login Pomozi to nahin dekhte uske baal ko dekhte hain - goki io sjpdagi to dozato bobplo ek gubah sebam ko phoro men ghir bu rahti hai'",
+        "length_m": 13.41
+      },
+      {
+        "kind": "replacement",
+        "description": "Interval title changed from Reel IX to Reel VII"
+      }
+    ]
+  },
+  {
+    "film_title": "Al Hilal Alias 'Judgement of Allah'",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "24513",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XII",
+        "description": "The qawwali song beginning with the words 'Hamen to loot liya milkar huen walono...' and ending with the words 'Din buharonk . gujarto hain magar marmurko mar gaye ham to hagino par bharosa karko'",
+        "length_m": 133.53
+      }
+    ]
+  },
+  {
+    "film_title": "Pati Parmeshwar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "26304",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots where titles are ripped out by a woman's hair",
+        "length_m": 63.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots where Varuna is shown striking hold of Chandra Kanya's 'Odhni' and molesting her",
+        "length_m": 7.32
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shots where Varuna is molesting Chandra Kanya",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Ardhaneshwar, Sita Ram, Laxmi and Vishnu",
+        "length_m": 22.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Entire sequence where an Ashram woman is shown fighting with Chandra Kanya and also shots where other Ashram women are shown joining the fray",
+        "length_m": 85.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots and dialogues where Varuna is shown participating in scandal-mongering against Chandra Kanya and conspires with Ashramites",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The following dialogue: 'Band Darwaze Ke Under Kaya Nahin ho Sakta'",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots and dialogues where a Rich man accuses Chandra Kanya and charges her with immorality",
+        "length_m": 12.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots and dialogues where an Ashram girl is shown exciting Varuna for harassing Chandra Kanya",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Sequence beginning with the shots where Varuna comes in disguise; he is shown in 'Viman' with Chandra Kanya; she is assaulted by Varuna",
+        "length_m": 182.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots where Varuna is trying to assault Chandra Kanya after the Viman has fallen",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Body where Chandra Kanya is assaulted, persecuted and manhandled by Ashram women",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Sequence where Chandra Kanya and Ashram women are shown fighting, ending with the shot where an Ashram girl falls down the precipice and dies",
+        "length_m": 34.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Sequence beginning with the shots where spirits curse Haruraj and excite Chandra Kanya to revolt against the Samaj, personified as an oppressive patriarch; Chandra Kanya resolves to fight the Samaj and destroy it",
+        "length_m": 62.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots where Shankar is shown with Ganga on his head in a derogatory make-up",
+        "length_m": 23.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shots where Goddess Laxmi and God Vishnu are shown in a derogatory manner with Rishi and Chandra Kanya",
+        "length_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Shots of Rishi and Chandra Kanya under water",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Shots of Rishi with Satya, Dharma, Niti, Varna etc.",
+        "length_m": 20.73
+      }
+    ]
+  },
+  {
+    "film_title": "The Snorkel",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "25357",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot of Janney trying to drown Cindy while swimming in the sea",
+        "length_m": 1.02
+      }
+    ]
+  }
+]

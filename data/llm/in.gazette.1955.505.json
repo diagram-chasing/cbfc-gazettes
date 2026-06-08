@@ -1,0 +1,269 @@
+[
+  {
+    "film_title": "Tib Mar Khan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kwatra Art Productions",
+    "cert_no": "14177",
+    "cert_date": "3-10-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of a blind dancing girl lying and tossing about and falling from her bed to the ground after removing the bed sheet until she starts dancing.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Views of Indira (step mother of Shard) in black satin dress with highly emphasised busts prominently outlined when she and the King are discussing the auction.",
+        "length_m": 1.49352
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Views of Indira with emphasized busts prominently outlined when the Queen tells her that Maharaja would die soon and when Indira gets elated over the news.",
+        "length_m": 0.54864
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Shots showing Indira putting a noose round her neck till she is shown to have fallen on the ground.",
+        "length_m": 0.4064
+      },
+      {
+        "kind": "deletion",
+        "reel": "F",
+        "description": "Reference to 'Acharya Narenda, Acharya Acre and Acharya Kishore Sabu' made by Bholu in his dialogue.",
+        "length_m": 3.5976
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Showing Indira folding a handkerchief to her bosom as if she was nursing it when Mohini sits near her.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "A scene showing a doctor saying 'A doctor is a doctor'.",
+        "length_m": 3.5976
+      }
+    ]
+  },
+  {
+    "film_title": "The Student Prince",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "cert_no": "14188",
+    "cert_date": "4-10-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Students breaking open a cask of beer and drinking straight from it, including the dialogue 'Or JV boys, let's all be gay'.",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The drinking song 'Drink, Drink, Drink'.",
+        "length_m": 5.54752
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Two inserts of close-ups of Kathy where the flesh of her bare bosom is visible when Karl is flirting with her.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "The kiss that Karl gives to Kathy after their leaving the masked dance.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Scenes of drinking by cutting the toast by Kathy and the students as she says 'Boys, I drink your health' and they reply 'To Kathy'.",
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Two shots of toasts drunk by students as they say 'Salamander' and again 'Long live Salamander'.",
+        "length_retained_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Words 'Now the spring we're greeting'.",
+        "length_m": 0.69088
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Lutz seated at table with glass of milk in his hand and students singing the line 'Gaudeamus Igitur Juvenes dum sumus'.",
+        "length_m": 3.29184
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Words 'Believe me when I tell you' and Karl singing 'Bright star fell from the blue now and forever Beloved'.",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Riders To The Stars",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "cert_no": "11231",
+    "cert_date": "5-10-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The remark 'A spice plot fomented by a dictatorship would enslave all free people'.",
+        "length_m": 2.04224
+      }
+    ]
+  },
+  {
+    "film_title": "That Lady",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "cert_no": "370",
+    "cert_date": "4-10-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Prominent views of Anna de Mendoza in red low-necked frilled gown when the deep flesh of her bosom is exposed.",
+        "length_m": 63.3984
+      }
+    ]
+  },
+  {
+    "film_title": "The Cobweb",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "cert_no": "371",
+    "cert_date": "4-10-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Shots of Karen lying awake on her bed at night when the flesh of her bosom is prominently exposed.",
+        "length_m": 1.6764
+      }
+    ]
+  },
+  {
+    "film_title": "The Marauders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "cert_no": "372",
+    "cert_date": "8-10-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The first gun fight between the Marauders and Mr. Everett, retaining only a flash of the pubic wound.",
+        "length_retained_m": 42.672
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The scene when Rutherford is dying, retaining only a flash of the pubic wound.",
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Scene showing the rancher being tortured by the marauders, deleting all shots showing the rancher being hooked and his agonised facial expressions.",
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII A / X",
+        "description": "The last gun fight between the marauders and Mr. Everett.",
+        "length_retained_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shot of Roy lying wounded in bed, reacting to call of Rutherford as latter staggers out dying.",
+        "length_m": 1.6764
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The scene showing rancher Ferber's son starting to enter from door of Everett's cabin.",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Africa Adventure",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "cert_no": "12084",
+    "cert_date": "13-1-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The words 'The economy of Africa is based on killing'.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The words 'because to get up to the Northern Frontier you have to pass all the bloody Mau-Miu strongholds. You never know if a hibby is shooting at you or pop at you with a gun as you drive past. As a matter of fact, the Man-Mau killed two white men half mile away from our jeep camp'.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The words 'Very savage' and the shot of two dark women with a loose cloth and the left bust loosely hanging.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The scene of a rather unclad gentleman passing up the muddy road.",
+        "length_m": 1.73712
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the dancing scene, an adolescent native girl with her breast exposed.",
+        "length_m": 5.7912
+      }
+    ]
+  }
+]

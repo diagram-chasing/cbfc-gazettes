@@ -1,0 +1,26 @@
+[
+  {
+    "film_title": "AVTAAR",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "रंगीन",
+    "cert_no": "103336",
+    "cert_date": "27-1-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The music portion of the song of OOPARWALE is deleted.",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "One line of the chorus song 'CHALO DODO BHAGO DODO' is deleted.",
+        "length_m": 9.45
+      }
+    ]
+  }
+]

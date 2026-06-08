@@ -1,0 +1,286 @@
+[
+  {
+    "film_title": "Mr. Toofan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Chandra Prakash Pictures, Bombay. 11.",
+    "cert_no": "38389",
+    "cert_date": "21-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I V, VI, IX, X & XII",
+        "description": "All references to Rajputs in dialogues which do not do justice to the traditional Rajput valor and chivalry, which are inconsistent with the characters, costumes and incidents portrayed and which are unduly emphasised without being adequately substantiated",
+        "length_m": 16.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "In the song-dance sequence, shot of bust-shaking by the dancer while approaching the camera",
+        "length_m": 103
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "In the scene between Swamy and the two girls, shot of his touching one of the girls from behind and holding the other girl’s hand on his chest",
+        "length_m": 28.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XII",
+        "description": "From the song dance sequence, specific lines and the entire stanza along with picturisation are replaced with an approved song",
+        "length_m": 93.74
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel Y",
+        "description": "A song beginning with the words “Do dil ke piyar,,,",
+        "length_m": 94.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Fighting scene between police and the hero and side hero with covered face in Raj Darbar (Voluntarily deleted)",
+        "length_m": 48.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Discussion between gang men and their leader",
+        "length_m": 45.72
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Bin Badal Barsaat”",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Uttara Chitra, Bombay 14.",
+    "cert_no": "38394",
+    "cert_date": "22-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete shot of the heroine patting her arms round hero's neck",
+        "length_m": 1.98
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Two For The Seesaw”",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "20th Century Fox (India) Pvt. Ltd., Metro House, M.G. Road, Bombay 1.",
+    "cert_no": "38395",
+    "cert_date": "22-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete shots of passionate embrace and kiss between Jerry and Gittal. Also delete her remark “Do you think I am too sexy or over-sexed,” as well as Jerry’s remark addressed to her “Your bottoms is tops”",
+        "length_m": 9.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted dialogue: 1. Jerry to Gittal - “I had a room of my own in the village at sixteen what do you think, to play potayf” 2. Gittal to Jerry - “Why should I hope in the hay with you”",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the shot of passionate kissing between Jerry and Gittal on the superimposed title “the play that delighted”",
+        "length_m": 3.2
+      }
+    ]
+  },
+  {
+    "film_title": "Pind De Kuri",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Rajkumar Kohli, Bombay 14.",
+    "cert_no": "38398",
+    "cert_date": "22-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The dialogue of the assistant asking for sharing the skull left by Kishni",
+        "length_m": 4.88
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "In song No. 1, shots of indecorous dancing and shots of the lady scratching her legs lying down on her bank and rolling round are replaced with approved shots",
+        "length_m": 0.48
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "In the picturisation of song No. 2, reduce to a flash the passionate love scene between the boy and the girl and reduce considerably the shots when she is lying in his lap",
+        "length_retained_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The shot in which Kishni is shown with emphasised busts, lying in Ashok’s lap under a tree",
+        "length_m": 12.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "In the picturisation of song No. 3, shots of indecorous dancing have been blown up and replaced with approved shots",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "In song No. 4, the following line “Goodh dhanake dande thale khis sas dharamnaal”",
+        "length_m": 10.07
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VI",
+        "description": "Shots of Indecorous dancing by the girl have been blown up and replaced with approved shots",
+        "length_m": 0.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Reduce the passionate love scene between Kishni and Ashok and delete the last shot before the scene is cut to the next one, when the shadow of a branch falls on them.",
+        "length_retained_m": 0.1
+      }
+    ]
+  },
+  {
+    "film_title": "Gul-e-Bakawali",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jugal Productions.",
+    "cert_no": "38398",
+    "cert_date": "24-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "General",
+        "description": "Koran from Quran to ensure that the words “Aliah” and “Eagle” are correctly pronounced.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "In the song, the following lines are deleted: Dil walon ka dil aa gaya, dukh ke hum ko raasti men, Mastana bhi ghabara gaya, dekh ke hum ko masti men",
+        "length_m": 10.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "In the song, the line “Forishte kya khuda bhi kadar karat a hal jawani ki” is deleted",
+        "length_m": 9.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce to the minimum the sequence of the three Shahjada’s hearing the cry of a woman in distress, fighting with each other and one of them finding her to be an old hag instead of the maiden they had imagined.",
+        "length_retained_m": 1.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduce shots of weird screaming and hideous faces of the demons before Taj encounters the Satan",
+        "length_retained_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "Royal Mail",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Indo Africa Films Ltd., 5A, Naaz Bldg., Lamington Rd., Bombay-4.",
+    "cert_no": "38408",
+    "cert_date": "25-5-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The shot of indecorous dancing in the picturisation accompanying song No. 1",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The words “Hamare Saath Mahalmen Chalogi” “Maisi Aaapki Maiji”",
+        "length_m": 1.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI VII",
+        "description": "Reduce the shot of Rajkumari tied to the crane hook and of the King bound to the railway lines",
+        "length_retained_m": 18.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The shot of backward bending of the dancer with emphasised busts in the picturisation accompanying song No. 5",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The scene showing fight between Hero and the sepoys (Voluntarily deleted)",
+        "length_m": 10.97
+      }
+    ]
+  },
+  {
+    "film_title": "Mutiny On The Bounty",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "1387",
+    "cert_date": "20-5-1963",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Red VI & VII",
+        "description": "Near views of Tahitian girls with busts partly exposed and with bare backs and hips dancing indecorously and shots of the sailors and Tahitian girls suggestively lying together",
+        "length_m": 28.6
+      }
+    ]
+  },
+  {
+    "film_title": "Ranjanandini",
+    "languages": [
+      "Tehigu"
+    ],
+    "producer": "Jaluruha Productions",
+    "cert_no": "22616",
+    "cert_date": "20-6-1958",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion totalling 2,828 feet from the film",
+        "length_m": 861.02
+      }
+    ]
+  }
+]

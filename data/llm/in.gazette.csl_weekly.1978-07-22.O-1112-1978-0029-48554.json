@@ -1,0 +1,220 @@
+[
+  {
+    "film_title": "Khel Kismat Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "SK Lula, Diamond Pal, IDID",
+    "cert_no": "86113",
+    "cert_date": "23-11-77",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the violence",
+        "length_m": 10.5,
+        "length_retained_m": 22.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kissa Kursee Ka",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Shri Amrit Nahta, 5 F, Naaz Buildings, Lemington Road, Bombay 400004",
+    "cert_no": "96123",
+    "cert_date": "24-11-77",
+    "endorsement": "U",
+    "original_length_m": 4007.19,
+    "length_deleted_m": 13.8,
+    "final_length_m": 3920.84,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the words 'Aur baad me jala dala gaya' from the producer's introductory speech",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "From Ruby's dialogue, delete references to undressing and reduce her actual undressing in front of the President to a suggestion, together with his vulgar reaction and indecent gestures",
+        "length_m": 11.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the visuals of the Natraj statue (zoom-close shots) trying to purposely catch the audience's attention, inter-cut with the President's speech, to avoid identifying the country",
+        "length_m": 2.2
+      }
+    ]
+  },
+  {
+    "film_title": "Norman... Is That You?",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "George Schlatter, Mayer India Ltd",
+    "cert_no": "4093",
+    "cert_date": "23-11-77",
+    "endorsement": "A",
+    "original_length_m": 2529.23,
+    "length_deleted_m": 4.49,
+    "final_length_m": 2524.74,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the underlined words from Ben's dialogue 'Your mother and my brother are at the moment cohabitating in a hotel in Mexico...'",
+        "length_m": 0.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete 'My brother \" screwing \" her'",
+        "length_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete vulgar words used by Ben while talking to his brother on phone",
+        "length_m": 2.72
+      }
+    ]
+  },
+  {
+    "film_title": "Parvarish",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "85895",
+    "cert_date": "11-10-1977",
+    "endorsement": "U",
+    "length_deleted_m": 98.45,
+    "final_length_m": 4462.89,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II, XVIII",
+        "description": "Deletion of various shots approved"
+      }
+    ]
+  },
+  {
+    "film_title": "PAHELI",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Shri Amrit Nahta, 5 F, Naaz Buildings, Lemington Road, Bombay 400004",
+    "cert_no": "86106",
+    "cert_date": "17-11-1977",
+    "endorsement": "U",
+    "length_deleted_m": 238.64,
+    "final_length_m": 3760.34,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, V, IX, XI, XIV, XV & XVI",
+        "description": "Deletion of various shots approved"
+      }
+    ]
+  },
+  {
+    "film_title": "LAKHENI LAAJ",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Partly Colour",
+    "cert_no": "85455",
+    "cert_date": "4-8-1977",
+    "endorsement": "U",
+    "length_deleted_m": 1.54,
+    "final_length_m": 3900.53,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the fight between Pratap and Nagesh by deleting direct hits & brutal punches",
+        "length_m": 1.54,
+        "length_retained_m": 22.25
+      }
+    ]
+  },
+  {
+    "film_title": "SHANKAR HUSAIN",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "cert_no": "83516",
+    "cert_date": "27-1-1977",
+    "endorsement": "U",
+    "length_deleted_m": 206.04,
+    "final_length_m": 3752.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II, IV, V, VI, VII, VIII, X, XI, XII, XIII, XIV, XV, & XVI",
+        "description": "Deletion of various shots approved"
+      }
+    ]
+  },
+  {
+    "film_title": "Broja Buli",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35 mm",
+    "producer": "Shri Lokenath Chitramandir, P-248, Purna Das Road, Calcutta-29",
+    "cert_no": "84572",
+    "cert_date": "26-11-77",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Innale Innu",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35 mm",
+    "producer": "Evershine Enterprises, Madras",
+    "cert_no": "79812",
+    "cert_date": "22-11-77",
+    "endorsement": "U",
+    "original_length_m": 3722.49,
+    "length_deleted_m": 20.42,
+    "final_length_m": 3702.07,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the scene of Chandran molesting Radha to a flash",
+        "length_m": 1.04,
+        "length_retained_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following dialogue by Nanu Aasan 'Rathri Kaalangalil Nee Onnu Kannadachal Anganeyum Kurachu Kaasu Undaakalam' (Sound only)",
+        "length_m": 2.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the fighting sequence by deleting shots of rowdies whipping others with their belts, and Rajan's neck being pressed with his two crutches",
+        "length_m": 16.76
+      }
+    ]
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "film_title": "Trailer of \"The Blade of Vengeance\" or \"The Magic Sword\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Sovoxportfilm, 163A Lower Colaba’Road, Bombay-5.",
+    "cert_no": "39978",
+    "cert_date": "2-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of female singer with her bust partially revealed",
+        "length_m": 8.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the dancer wiggling her hips",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of a man with a dagger in his back",
+        "length_m": 2.84
+      }
+    ]
+  },
+  {
+    "film_title": "Bhoolnath",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "cert_no": "39988",
+    "cert_date": "4-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Shots of Rajkumar in the disguise of Gurudov taking liberties with Rajkumari",
+        "length_m": 1.58
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "In the song-dance sequence “Koi mane ya na mane haqeekat hai yehi”, all near-views of emphasised busts, suggestive gestures and indecorous bust movements of the two female dancers",
+        "length_m": 25.41,
+        "length_retained_m": 25.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "The sequence of a girl reclining on Murli’s legs in a seductive pose and being turned into a skeleton",
+        "length_m": 7.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "In the song-dance sequence \"Mohabbat ki nazar yoon to bari masootn hoti hain\", near-views of emphasised bust, suggestive gestures, bust shaking and near front views of indecorous movements of the female dancer in Arab costume",
+        "length_m": 28.04,
+        "length_retained_m": 28.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "III, V & VI",
+        "description": "To the minimum visuals of skeletons and skulls, deleting all close-ups and near-views",
+        "length_m": 23.6,
+        "length_retained_m": 35.07
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Shikari\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "39989",
+    "cert_date": "5-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shot of gorilla trampling a man under his foot",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "A Berlin Guest Book",
+    "colour": "Colour",
+    "format": "16 mm",
+    "cert_no": "39993",
+    "cert_date": "5-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the commentary: “This too is a present day reality, the wall built by the communist rule of the East Berlin to split the city, A gruesome sight, this iron curtain of two East blocks. Here the iron curtain is made of russiamatic, but no less impenetrable.”",
+        "length_m": 4.19
+      }
+    ]
+  },
+  {
+    "film_title": "Shikari",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "cert_no": "40203",
+    "cert_date": "6-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The underlined word from the remark of Chandu: \"Bombay ke hotelon men aise bi kaam karate hain\" while he is seen to be cleaning utensils after spitting into them. (Sound)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Jagdish addressing Chandu as ‘Swine' (Sound)."
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "From fighting scenes, near-views of direct arrow, spear and knife thrusts",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "II & XI F",
+        "description": "Near-views of Otango, particularly close-ups of his face",
+        "length_m": 4.88,
+        "length_retained_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "To a flash the shot of the arrow stuck in the body of a man being taken out by Ajit",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the scene of village destroyed by Otango, the sounds of groaning and screaming, particularly of the children. (Sound)."
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "To a flash the shot of a man groaning while being experimented upon by Dr. Cyclops",
+        "length_m": 1.22,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "To the minimum near-views of blue-coloured monster advancing towards Rita",
+        "length_m": 0.91,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "To the minimum near-views of the dragon in Dr. Cyclops’ den",
+        "length_m": 0.91,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "To a flash shots of Jagdish pointing scissors threateningly at Ajit",
+        "length_m": 2.13,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"On the Beat\"",
+    "format": "35 mm.",
+    "cert_no": "40209",
+    "cert_date": "7-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From Giulio’s dialogue “Put Your Arms Around Me And Enjoy Yourself.”",
+        "length_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "Bombay Flight 417",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "cert_no": "40211",
+    "cert_date": "7-12-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "A tablet indicating that the story of the film is fictitious and does not represent the prevailing Customs traditions and conditions in the country and that it relates to pre-independence period.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Reference to Jagannath from the Rath Yatra. (Inked off)."
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Close shots of Indira’s scanty dress and exposed bosom, deleting shots of Bill kissing her.",
+        "length_m": 4.41,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Thoratanchi Kamala",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35 mm.",
+    "cert_no": "39717",
+    "cert_date": "29-10-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Sambhuji fighting with tiger.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Re-picturised Song No. 4 beginning with the words “Mazhy-Othant Ranged Guam”, in replacement of original picturisation",
+        "length_m": 125.88
+      }
+    ]
+  },
+  {
+    "film_title": "Holiday In Bombay",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm.",
+    "cert_no": "39754",
+    "cert_date": "5-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Song beginning with the words “Pyar Ki Chandani Dil Ki Bushman Bani . . . .”",
+        "length_m": 101.19
+      }
+    ]
+  },
+  {
+    "film_title": "Vtol System (Silent)",
+    "colour": "Colour",
+    "format": "16 mm.",
+    "cert_no": "39926",
+    "cert_date": "19-11-1963",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Credit titles containing name of \"Curtiss-Wright\"",
+        "length_m": 0.91
+      }
+    ]
+  }
+]

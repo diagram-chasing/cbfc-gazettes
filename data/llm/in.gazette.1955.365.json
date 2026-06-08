@@ -1,0 +1,523 @@
+[
+  {
+    "film_title": "Track of The Cat",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. Pictures Inc., U.S.A.",
+    "cert_no": "12124",
+    "cert_date": "24-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 2837.712,
+    "length_deleted_m": 18.288,
+    "final_length_m": 2799.424,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. I",
+        "description": "Kicking of Joe Sam on the buttocks by Curt",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. VI",
+        "description": "Shot of Gwendoline Williams rising with straw in her hair, and the continuous kissing between Gwen and Harold and omit the last fall of two together in darkness behind the haystack",
+        "length_m": 3.2512,
+        "length_retained_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Lagan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "O.P. Datta, OPEE Films C/o Famous Pictures Ltd., Oudell Road, Bombay 28.",
+    "cert_no": "12131",
+    "cert_date": "24-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 4026.792,
+    "length_deleted_m": 536.448,
+    "final_length_m": 5525.272,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots showing the emphasised pointed busts of Sheela in the midnight conversation between Sheela and Kishore outside their room, and in her Chawl's room",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel IV da IX",
+        "description": "Views of Rajani when she is at the tea-table and after tea in conversation with Kishore and later with Kishore, as also one insert with the nose of her bosom visible when Kishore is singing the song in the party",
+        "length_m": 29.8704
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "The actual hand-cuffing of the Manager (villain) in the trial scene",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red X",
+        "description": "In the manager's song in the office, the shots of the manager widening and narrowing his legs half-seated",
+        "length_m": 1.524
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red XI dr XII",
+        "description": "In the Law-court scene, the Counsel putting the witness Dr. Ray in the box and directing him to tell the truth and the bullying repetition in a loud tone to witness Sheela that she is in love with Kishore",
+        "length_m": 43.8912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Red IV",
+        "description": "The reference to Allahabad University when the villain says he is a graduate of Allahabad University",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Miami Mystery\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "12134",
+    "cert_date": "26-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 61.2648,
+    "length_deleted_m": 2.4384,
+    "final_length_m": 31.6992,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The sentence \"We are thing\" in the conversation between Gwen and Teddy",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "A dame who owns a couple of hundred other girls\" Flagg to Gwen",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "The Long Gray Line",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "Cinemascope",
+    "cert_no": "12135",
+    "cert_date": "25-1-55",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Metro News Volume 505",
+    "cert_no": "12142",
+    "cert_date": "27-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 255.424,
+    "length_deleted_m": 9.144,
+    "final_length_m": 246.28,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Item \"Hammarskjold in India\"",
+        "description": "Commentary \"Prime Minister Nehru, who wishes Mr. Hammarskjold success in his mission to seek release of the eleven Airmen and all other U.N. Personnel detained in China\" - the words 'Prime Minister Nehru' may be retained",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No 1327",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "12143",
+    "cert_date": "27-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 207.568,
+    "length_deleted_m": 21.488,
+    "final_length_m": 186.08,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Item on Costa Rica",
+        "description": "Sentence \"Costa Rica accuses the neighbouring country of Nicaragua of inspiring this Central-American crisis\"",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Item on Italy",
+        "description": "The item on Italy",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Item on Water Ski-ing",
+        "description": "Commentary, \"He doesn't do badly with only one shoe, at a time — though obviously finds her a pretty good handful for it.\"",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Men of the Fighting Lady\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "cert_no": "12144",
+    "cert_date": "27-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 86.868,
+    "length_deleted_m": 2.4384,
+    "final_length_m": 84.43,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "The words \"Across the Pacific skies\"",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "Railway Platform",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "12146",
+    "cert_date": "27-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 5754.792,
+    "length_deleted_m": 360.576,
+    "final_length_m": 4037.472,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 7",
+        "description": "A tablet reading \"Is him men bataya gay* pnatra kill Jaatl ya pradesh ya eampradaya ke pratlnldhTnahlnhahu agariveib'bb us he ya ryTahar ** ait* kel paatia kl*i ana* ] ya jmdeih ka Tyaktimalnm hota ho to bhi rue ns Jaati ya pradeeh ka pratlnldhl na *amjha Jai\"",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel Ill, IV, ZI, J/i",
+        "description": "Bedim* Neyn* clinging to Bam In the well and Bam asking her to do so",
+        "length_m": 2.4384,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "field",
+        "description": "Kavl playing \"Huan gale llpat raha hai\" (sound)",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "field",
+        "description": "Ram holding Sheela'n face when Sheela i* looking passionately and their brushing their oheoki with Angora",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "All flows of Ram and Slieela reclining and making love to each other on the sandy hillin the night",
+        "description": "All flows of Ram and Slieela reclining and making love to each other on the sandy hillin the night",
+        "length_m": 65.532,
+        "length_retained_m": 67.056
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. Ill",
+        "description": "Views of Navna taking bath at the well",
+        "length_m": 3.6576,
+        "length_retained_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul IV, V £ VII",
+        "description": "Views of Nayna with her emphasised busts when she is pouring rice into a cooking utensil",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "replacement",
+        "reel": "Rul IV, V £ VII",
+        "description": "Views of Nayna when she sings the line \"Jukte jukte\"",
+        "length_m": 6.9996,
+        "length_retained_m": 6.9996
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul IV, V £ VII",
+        "description": "Views of Nayna when she goes to the well",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul VI £ X",
+        "description": "The later part of the song \"Kitna badal gaya Bhivgwan\" where Naseebohand and Ram are repeating \"Bhagwan\" in a frenzied, ridiculous way",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "replacement",
+        "reel": "Rul VI £ X",
+        "description": "From the same song \"vah patthar hai, Bhagweo nahln\" the two inserts of the idol when these words are sung",
+        "length_m": 1.2192,
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul VI £ X",
+        "description": "The derogatory and sarcastic dialogue of Kavi regarding the necessity for God to have a house",
+        "length_m": 16.4592
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul VII, VIII £ V",
+        "description": "A young boy whistling to Sheola: (sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul VII, VIII £ V",
+        "description": "Naseebohand saying \"Mere maal ko sambul rathti hai\"",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Red No. VII £ X",
+        "description": "Considerably reduce the fight between Sheola and Nayna deleting their being referred to as \"Vllaybi maal \" and M D**i maal\" keeping minimum necessary for continuity",
+        "length_m": 7.62,
+        "length_retained_m": 12.192
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red No. VII £ X",
+        "description": "The song No. 3 \"Andher nagri ohaupat Raja\"",
+        "length_m": 121.92,
+        "length_retained_m": 48.768
+      },
+      {
+        "kind": "replacement",
+        "reel": "Red No. X",
+        "description": "From the song No. 5 delete the lines \"Hathonmen jaam hai\" \"Aaran jawan hai\", \"Ye jawaniyon kl raaten\" \"Bahon men ml Jaa\"",
+        "length_m": 30.7848,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rul IX",
+        "description": "Ghoola biting Ram's hand amorously",
+        "length_m": 1.2192,
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. X",
+        "description": "A view of Sheela dancing when her skirt goes up",
+        "length_m": 2.4384,
+        "length_retained_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul X/",
+        "description": "The sequence where Mr. Kapur and others are shown in a drunken state and Kapur says that he does not mind his wife philandering with somebody else",
+        "length_m": 55.7784
+      },
+      {
+        "kind": "reduction",
+        "reel": "Rul VI, X £ XI",
+        "description": "Considerably reduce scenes of drinking, petting and ballroom dancing on the sand by Mr. Kapur and his party",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Rul VI, X £ XI",
+        "description": "Naseebohand taking his wife and dancing",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "FttiitTilUfi/ iikfioni",
+        "description": "Ram pulling up Sheola to himself creating the impression of passionate embrace",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "insertion",
+        "reel": "Rul VI —",
+        "description": "The word \"Kun\"",
+        "length_m": 0
+      },
+      {
+        "kind": "insertion",
+        "reel": "Rail No. XIV",
+        "description": "Scene of Beth Naseebohand giving the money book",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "The Miami Story",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "326",
+    "cert_date": "28-1-55",
+    "endorsement": "A",
+    "rule_applied": "Rule 34",
+    "original_length_m": 2110.7184,
+    "length_deleted_m": 43.0048,
+    "final_length_m": 2057.7136,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I & II",
+        "description": "In the pool-side scene the views of the girls with flash of the bosom and parting between busts exposed. Similar views of the girl at the gambling table",
+        "length_m": 14.0208
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of a man in the pool with a floating case of drink bottles whilst swimming with girls",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III & VII",
+        "description": "The sentences \"We share things\" in the conversation between Gwen and Teddy and the subsequent kiss",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III & VII",
+        "description": "\"A dame who owns a couple of hundred other girls .... I said Owns\" Glagg to Gwen",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV & VIII",
+        "description": "In all the fights kicks in the chest, chin blows in close-up and blows in the stomach or low blows as also slugging of held-man",
+        "length_m": 12.192
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III & VII",
+        "description": "The slapping of Gwen and Holly by Flagg to a suggestion omitting the actual striking and the sound of the slap",
+        "length_m": 3.2512,
+        "length_retained_m": 0.33528
+      }
+    ]
+  },
+  {
+    "film_title": "Naokri",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "11963",
+    "cert_date": "10-12-64",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3844.032,
+    "length_deleted_m": 31.0896,
+    "final_length_m": 3730.944,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIV",
+        "description": "Dialogue between Patel and Seema",
+        "length_m": 26.2128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIV",
+        "description": "Dialogue between Seema and Katan",
+        "length_m": 26.2128
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIV",
+        "description": "Commentary at the end",
+        "length_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Good Manners",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "12000",
+    "cert_date": "7-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 300.048,
+    "length_deleted_m": 9.4488,
+    "final_length_m": 290.6,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "A close-up of a young man staring over shoulder at two young girls sitting on a Garden Bench.",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Three shots of old and young man at the Railway platform arguing as to who should get in to the train first.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Ardhaangi",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "12904-U",
+    "cert_date": "24-1-55",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "original_length_m": 3076.464,
+    "length_deleted_m": 71.3232,
+    "final_length_m": 5107.4112,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Beginning sequence where Neelavoni is lying on the bed and Nag blows on his hands and then slaps her on the behind",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Picture of Nagu drinking in Neela's house, his hiccup, and reeling and falling down on the bed",
+        "length_m": 48.768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Picture and dialogue of Nagu lying drunk, Bhimu massaging him, holding his nose at the stink and the reference to the scent and Duett Nagu lying drunk in bed when Rajeswari pleads with him, his drunken conversation, upto and including Matru Do vo Bhava.",
+        "length_m": 20.1168
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 18",
+        "description": "Close-up picture of Rajeswari after she is hit on the head, with the blood flowing",
+        "length_m": 1.8288
+      }
+    ]
+  }
+]

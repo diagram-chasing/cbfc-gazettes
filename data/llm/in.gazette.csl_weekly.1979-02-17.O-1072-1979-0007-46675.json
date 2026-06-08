@@ -1,0 +1,296 @@
+[
+  {
+    "film_title": "Damaad",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "M/s. OM Films International, Ashirwad, B.A., Vithal Nagar, 10th Road, Juhu, Bombay - 56",
+    "cert_no": "87444",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the underlined words 'Humare baat karo, Marathi' and 'hamare saath hi toh marathi' spoken by Khote and Sharad wherever spoken in the film.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the words of doctor 'Yeh ugat ki goliyan hai' said to Sharad along with his visual of raising his hand in suggestive manner.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From the dialogues of Rodrigues and Panditji, delete reference to Hanuman.",
+        "length_m": 9.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Animal",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M.G. Road, Bombay",
+    "cert_no": "87410",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the gruesome shot of Michael kissing one of the gangsters in the toilet by breaking his neck.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Nishan",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gemini Pictures Cir. (P) Ltd., 121, Mount Road, Madras-6",
+    "cert_no": "84703",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the part of the scene in the swimming pool (dialogue as well as visual) where the Zamindar asks a woman to undress for the necklace, making her come up stand up before him and others and then throwing her back in disgust.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Voluntary deletion of the shot showing the doctor carrying the babies in the forest.",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Voluntary deletion of the shot showing Ranjanat running in the jungle.",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Voluntary deletion of the shot showing two dacoits running away from the pond.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Gammathu Gudhacharulu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Devendra Art Pictures, Madras",
+    "cert_no": "80221",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Song No. 1, delete 'Ellamma cheyiste' along with visuals of forward jerks of Ranga Rao, replaced with 'Yenkala cheyiste' with approved pictures.",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Song No. 1, delete 'Aokaima Tosina' (Sound only lyrics replaced with 'Andala Na Lorry').",
+        "length_m": 0.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From Song No. 1, delete 'Tadi aari poyindana' (Sound only replaced with 'Tadi dari kadaya anaya').",
+        "length_m": 0.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete bust jerks and exposure of bust cleavage of Rani in the beginning of the song. Replaced with shot of fish shot in water.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete bust jerks and exposure of bust cleavage of Rani on the parapet of the swimming pool. Replaced with fish shot.",
+        "length_m": 0.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete close-up of Rani's busts while climbing up on railings and coming out of the swimming pool. Replaced with fountain shot with zoom back to swimming pool.",
+        "length_m": 0.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete Rani raising bare legs up on the parapet and her forward movements. Replaced with Rani getting down into swimming pool and Johny's closed shot.",
+        "length_m": 0.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete Johny lying over Rani near the bush. Replaced with two girls swimming.",
+        "length_m": 0.39
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "From picturisation song No. 3, delete Rani raising bare leg when Johny is on the railing. Replaced with fish shot.",
+        "length_m": 0.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete 'Monagabote Jalaga poyindai-hay hay, hay dohrary, bay'. (Sound only -replaced with 'Vanuku puttindo').",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete 'Eo tadi ika aaradu, ee chali ika teeradhu'. (Sound only -replaced with 'Eetaha taha theeradhu, nee taha taha theeradhu').",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete 'Eta gotti lotu lenduko'. (Replaced with 'Cheta Patta Cheyyekalu').",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "From the text of song No. 3, delete 'Tomalo juar paddavu'. (Sound replaced with 'Chepala Jari paddavu').",
+        "length_m": 0.36
+      }
+    ]
+  },
+  {
+    "film_title": "Per Solla Oru Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Sree Murugambikai Arts, Madras",
+    "cert_no": "80242",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the low-angle shot of Kannan and Parvathi in an embrace, during the BGM in the picturisation of the song. (Replacement shot approved)",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot where the woman opens the blouse exhibiting her bra and part of her breasts.",
+        "length_m": 1.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the shot of Venkat lifting his dhoti and squatting near the bust.",
+        "length_m": 6.92
+      }
+    ]
+  },
+  {
+    "film_title": "Amara Prema",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sri Lakshmi Prodns., Madras",
+    "cert_no": "80242",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Kamakshi washing Anji Babu's thighs.",
+        "length_m": 5.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete the words of Anji Babu 'Mardand cheyyadamlo inenu master ni- necku kooda cheyyana ?'",
+        "length_m": 1.28
+      }
+    ]
+  },
+  {
+    "film_title": "Ival Oru Seethai",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Welcome Movies, Madras",
+    "cert_no": "3383",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the sequence of the old man with torn clothes, threading the needles intercut with the bedroom scene. (Replaced with shots of dancer)",
+        "length_m": 11.78
+      }
+    ]
+  },
+  {
+    "film_title": "Rahu Ketu",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Vasudha Arts, Aircondition Market, Tardeo, Bombay - 34",
+    "cert_no": "87505",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following dialogue making a sweeping remark 'Agar ek officer Corrupt hoto uske ooper our pecche wale bhi Corrupt honge, nahin to aisa ho hu nahin sakta'.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete disoraging remarks to the Harijans to the effect 'Gandinaalimen pade huekeedon ko chhodiya'.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the indecorous movements of bust by the dance as also the kissing suggestion.",
+        "length_m": 11.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close up of dancer's thighs and other indecorous movements during the Qawali.",
+        "length_m": 7.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce fight between Ravi and gangsters.",
+        "length_m": 5.88,
+        "length_retained_m": 34.3
+      }
+    ]
+  }
+]

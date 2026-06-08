@@ -1,0 +1,5774 @@
+[
+  {
+    "film_title": "Raecs",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kamera Arts",
+    "cert_no": "B/76934",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Trailer",
+        "description": "Reduce shots of violence",
+        "length_m": 3.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete the kiss",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Trailer",
+        "description": "Delete all indecorous shots",
+        "length_m": 4.1
+      }
+    ]
+  },
+  {
+    "film_title": "Bullot",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Navketan Productions",
+    "cert_no": "B/79736",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete reference to Government investment in D.P. Shipping Corporation",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete reference to Government investment in D.P. Shipping Corporation",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Ajapna admi baitha hai' spoken by an agent to D.P. in reference to giving licence",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (a)",
+        "description": "Delete reference to Ambassador engaged in clandestine activities with D.P. and his reference to going to France and Italy",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the view of 'Diplomatic Bag' which reveals foreign currency",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the sound effect of kissing between Mala and D.P. (Sound only)",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete reference to 'Achhut' in Roshi's dialogue while giving intoxicating capsule to Dharamdey (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce the sound effect of children shrieking to one when D.P. threatens to explode the hospital with bomb, retaining only for continuity (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VE",
+        "description": "Reduce the fight between Dharam and the fighters",
+        "length_m": 1.83,
+        "length_retained_m": 25.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce the fight between Dharam and D.P.",
+        "length_m": 12.19,
+        "length_retained_m": 26.52
+      }
+    ]
+  },
+  {
+    "film_title": "Reason to Live",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "B/78668",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II (a)",
+        "description": "Delete the close views of a man's head and legs dangling when he is hanged by rope, keeping only a suggestion",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "II (b)",
+        "description": "Delete the view of actual hitting in the belly of a man by Col. Prembroke",
+        "length_m": 2.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the steady portion of the shot of a man's slit neck prominently showing the blood retaining only a suggestion",
+        "length_m": 4.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV (a)",
+        "description": "Delete the shot of General Ward striking a match on the male generative organ of a nude statue in his chamber (twice)",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV (b)",
+        "description": "Delete the 2nd expression on the face of the man when he is killed with eyes wide open",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV (c)",
+        "description": "Delete close views of the machine-gun firing and persons killed while capturing the machine gun by Col. Prembroke's men",
+        "length_m": 13.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI (a)",
+        "description": "Delete two close shots of men being killed by bayonet and reduce the machine-gun firing",
+        "length_m": 5.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI (b)",
+        "description": "Delete the words 'Fuck yourself' said by a man at the machine gun and the word 'Fucking'",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI (c)",
+        "description": "Delete the sound effect while Prembroke thrusts the sword through the neck of General Ward, also delete the view of his withdrawing the sword and close view of blood oozing from Ward's mouth, retaining only a suggestion that he is killed",
+        "length_m": 12.06
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce considerably the shots of killings and firings with a view to tone down the gruesome impact of realistic horrors of warfare",
+        "length_m": 173.73
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Drowning Pool\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Warner Bros (F.E.) Inc.",
+    "cert_no": "B/79447",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce the impact of violence in the Trailer",
+        "length_m": 3.96,
+        "length_retained_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Adalat",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "A.K. Nadiadwala",
+    "cert_no": "B/79176",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce fight between Dharma and goondas, deleting hard hitting shots",
+        "length_m": 0.0,
+        "length_retained_m": 25.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce attempted strangulation of Rajan by Dharma",
+        "length_m": 3.83,
+        "length_retained_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the word 'bequsoor' from Police Sub-Inspector Khan's remark: 'Dharma bequsoor hai' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce strangulation of Sujit by Dharma as also expression on Dharma's face",
+        "length_m": 14.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the shot of reaction on the face of Suresh when he is strangled",
+        "length_m": 5.94,
+        "length_retained_m": 3.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "During Geeta's birth-day party, delete the shot of a girl when her under clothing is revealed after she is lifted by her partner",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "From the climax scene, reduce the number of gun-firing shots",
+        "length_m": 12.19,
+        "length_retained_m": 26.52
+      }
+    ]
+  },
+  {
+    "film_title": "Mazdoor Zindabad",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Dimple Films",
+    "cert_no": "B/79830",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Delete reference to Government giving compensation to the workers killed and/or injured while working under private builders",
+        "length_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the words 'Raat ko tum sone nahin deti' said by Kansa to his wife",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the views of cabaret dancer sitting between two fat sethias",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce considerably the views of a small dog and Bhola searching for and eating food from the road-side dust-bin",
+        "length_m": 13.41,
+        "length_retained_m": 14.6
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete the words 'Bath room maln jo ho gya kisiko ka hina na hin' spoken by Kamla to Mohan",
+        "length_m": 5.49
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the following dialogue: 'Mohan: \"Aap ke aurmera fuse ek bai\". Kamla: Main tumko apna bangan kilati hoon. Magalo walo bangan aur woo bhi apni khet ke. Mohan: Vaise tore bangan bure nahnin lekin zara mirchi ziyada hai\"'",
+        "length_m": 0.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Delete the underlined words from Mohan's dialogue to Kamla: 'Subah ko taja taja kha na milita hia aur raat ka'",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Paapi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "4025",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Delete the shots of Police firing and killing a smuggler after the title recording (replaced with approved shot)",
+        "length_m": 0.95
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the shots of Ruby's lover shot by Abdul (Replaced with approved shots)",
+        "length_m": 1.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the shots of Kumar hitting Joe and the later falling on a table which moves towards water (Replaced with approved shots)",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the gangster pushing police constable and snatching his gun away, in the diamonds exhibition",
+        "length_m": 1.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Delete Rani giving a blow to the lady constable and running away (replaced with approved shots)",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "After Kumar shows the key to Joe at the door, reduce the fight between them",
+        "length_m": 31.99,
+        "length_retained_m": 25.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce fight in the bar between Vikramsingh and the owner",
+        "length_m": 20.1,
+        "length_retained_m": 25.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce fight between Kalu Lohar and Vikram",
+        "length_m": 1.31,
+        "length_retained_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the shots of Dr. Ashok Roy being hit on the forehead by a flying stone thrown by a man in the crowd when he comes out of the police station",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the fight between Rani and Kitty with a view to diverting attention of the guard including the shot in which Kitty fires the blank",
+        "length_m": 3.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the train robbery scene from the shot in which the violent blow is given to the real railway guard by gangster impersonating as railway guard to the shot in which a police constable shoots before the van is taken away",
+        "length_m": 29.28,
+        "length_retained_m": 24.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Delete the gangster hitting police woman on the head with a pistol after rescuing Rani from Police lockup",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the scene at the hide-out of the gangsters Rani being whipped by Vikram, intercut of Sunil catching gangster, whipping resumed five times till Rani faces Dr. Ashok Roy. Fighting starts here, Kitty firing thrice to kill gangsters, Boss No. 2 shoots Kitty, Kitty firing back at Boss No. 2 till police passes surround the area",
+        "length_m": 24.81,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce exchange of fire between the gangsters on roof-tops and the police down, whipping etc",
+        "length_m": 13.1,
+        "length_retained_m": 26.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce Boss No. 1 being shot at by Abdul from the balcony",
+        "length_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce Abdul firing at the Boss three times and subsequent shots of Bogg firing with machine gun, until Kumar hits Boss in the stomach who escapes by stair-case",
+        "length_m": 7.0,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIX",
+        "description": "Delete Boss shooting down five of his benchmen by machine gun emerging out of his van",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce the shots after the van hits the tree, fight between Kumar and Boss till Boss goes between the van and the tree",
+        "length_m": 0.0,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete portion of the shots in which the bare breast of a girl (side view) is visible when she is taking bath",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots of couple in compromising posture against the background of English song in a hall and the shot of a man dropping strings of blouse of his female partner and hugging her",
+        "length_m": 4.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce drastically the scene of the molestation and rape, keeping only a few feet at the beginning and at the end establish the outrage",
+        "length_m": 22.32,
+        "length_retained_m": 9.77
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "From Kitty's dance, delete indecorous shots and shots of her indecent movements",
+        "length_m": 5.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete Rocky saying Kya police department hai? Policewale to kuchh to chahiye bola. to Kumar (replaced with approved words)",
+        "length_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to the barest minimum the shots in which Rani caresses the woman's thigh by placing her hand under the skirt",
+        "length_m": 3.17,
+        "length_retained_m": 4.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete reference to 'Pope' by Rocky while talking with Ashok (replaced with approved words sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "In Kitty's dance in the hotel, delete indecorous shots and shots of her indecent movements",
+        "length_m": 2.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined portion from Rocky's dialogue: Suma hai police wala leta hai lekin wo to deke gayaa",
+        "length_m": 3.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the shots in which the bleeding knee of Abdulla is prominently visible after he falls from the building",
+        "length_m": 0.6,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete all indecorous gestures and postures of Kitty and advances of security gonda when he puts her on the sofa",
+        "length_m": 8.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete references to the train 304 Express as the train to be robbed",
+        "length_m": 3.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the shots in which third degree methods are employed by the Police to seek confession from Rani",
+        "length_m": 20.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "From the train robbery sequence, delete the portion of the shot where a gun is fired on the lock of Railway van and smoke is seen coming out",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Naon Mothein Lakshin Khotein",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sharad Pilgaonkar & Sunila Pilgaonkar",
+    "cert_no": "B/80189",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Phoolahand's words to the effect 'Saheb rajkurnabarobar kurye pau kartat oa?'",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the visual on the song line 'Ha bahar yauvagacha', where the dancer is pointing towards her breasts",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete one back view of kiss during the song",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Naami Chor",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kamal Mehra",
+    "cert_no": "B/79829",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "All scenes showing cruelty, brutality and gruesomeness should be deleted. Even physical conflicts which are true-to-life should be restricted to the barest minimum. The length of each such sequence would be reduced to the barest minimum necessary for telling the story. Every scene of shot portraying violence in any form (for example whipping, shooting, kicking, torture, murder etc.) would be treated as one sequence even if the length is only one or two seconds. (scenes of violence in the film are less than six minutes and each such sequence is less than 90 feet)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "V & VII",
+        "description": "Delete the actual view of pressing of handkerchief against the nose of victims to make them unconscious wherever it occurs",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the view of stabbing from front angle by Kundan of a man keeping merely a suggestion to establish that the man has been killed",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to flash the visual of Johnny falling in the boiling liquid along with his cry",
+        "length_m": 0.45,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the reference to 'Khandaan' of Tanson by Awali troup",
+        "length_m": 0.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "In the dance sequence, reduce the hip-to-hip movement of the two girls swinging towards each other",
+        "length_m": 0.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the close view of the breast movement of the dancers sitting on the ground",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the breast-to-breast movement of the dancers",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close view of a girl touching the bare waist of another girl",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the amorous sideway swinging of the hip of the dancers while lying on the ground",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the first back view of kissing couple near the lamp post",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the montage of theft and chase",
+        "length_m": 10.67,
+        "length_retained_m": 19.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Add commentary by Raja while stealing from a family safe that he has been compelled by the gangsters to do it with a view of minimising the motivation of the character (Addition of the commentary approved - Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete the direct kiss between Lina and Raja during the song while she is lying down",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce considerably close view of child in the safe and his panting for breath towards end",
+        "length_m": 4.88,
+        "length_retained_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Aakhri Goli",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Iqbal Singh & Krishan Bagga",
+    "cert_no": "B/79548",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I (a)",
+        "description": "Delete the symbolic gestures of Buford's friend signifying a lady's over emphasised bosom along with the dialogue",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "I (b)",
+        "description": "Delete the prominent views of a lady's breast seen through the knitted transparent costume",
+        "length_m": 18.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Suitably reduce the impact of first hitting by leg with the sound effect when Buford hits the opponents in the gambling house Lucky Spot",
+        "length_m": 1.84,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce suitably the back view of gangster reclining on the car when he is shot",
+        "length_m": 3.17,
+        "length_retained_m": 3.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce to a mere suggestion the view of a lady with bare back when she is tortured with a length of solid rubber tubing before Buford enters and covers the body, particularly avoiding the exposure of the naked body below the waist",
+        "length_m": 3.85,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "When the car rams in the Lucky spot club reduce to mere suggestion the people being crushed between the car front and the counter particularly deleting the view of man's bleeding hand seen when he slides down the counter",
+        "length_m": 1.82,
+        "length_retained_m": 1.21
+      }
+    ]
+  },
+  {
+    "film_title": "The Parallax View",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "4028",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce to the barest minimum the fight in the bar by deleting the gruesome shots",
+        "length_m": 16.2,
+        "length_retained_m": 21.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II (a)",
+        "description": "Delete close shot of Police Officer lying on the floor with blood-stained face",
+        "length_m": 7.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "II (b)",
+        "description": "Delete the close shot of Police officer with blood-smeared face after the fight near the dam",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "During the Parallax test, delete the still shots of nude figures",
+        "length_m": 5.4
+      }
+    ]
+  },
+  {
+    "film_title": "Immaan Dharam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suchitra, Hill View No. 241, Hill Road, Bandra, Bombay-50",
+    "cert_no": "B/79915",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the dialogue 'Aaj to ho jaye' as spoken by Ran Dayal to his wife while embracing her",
+        "length_m": 1.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I, II",
+        "description": "Reduce the scene of drinking in Diwan's house by deleting the visuals which glamourise drinking",
+        "length_m": 27.0,
+        "length_retained_m": 62.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the molestation of Bhagyawati deleting all intimate shots",
+        "length_m": 1.26,
+        "length_retained_m": 5.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between Diwan and Ram Dayal by deleting the hard hitting shots; and reduce to a suggestion the strangling of Ram Dayal",
+        "length_m": 7.05,
+        "length_retained_m": 10.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the pressing of cloth on the neck of Ram Dayal's son",
+        "length_m": 5.85,
+        "length_retained_m": 11.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to bare minimum necessary the fight between Shyam and Ranga in the club, by deleting hard hitting and gruesome shots",
+        "length_m": 2.5,
+        "length_retained_m": 10.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the drinking scene in Jaggu's den, by deleting the shots which glamourise drinking",
+        "length_m": 1.8,
+        "length_retained_m": 53.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the views of Shyam enjoying drink in the hotel",
+        "length_m": 7.4,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the shot of Shyam hugging and caressing a girl while dancing with her",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the dying agony of Shyam after he is shot by Rangal",
+        "length_m": 0.5,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of drinking in the dacoit's den",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the words 'Nayakhata kholoonga' as spoken by Sarja to Titli in a suggestive manner",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (a)",
+        "description": "Delete the close-up of the lower portion of Titli lying in bed while Surju looks at her body from head to toe",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (b)",
+        "description": "Delete the shot of Sarju drinking before going to Titli",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (c)",
+        "description": "Delete the caressing Titli's bare leg by Sarju and his words 'Aag bhujhade aaya hoon'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the close-up of Lilabai lied with a rope where her breasts are seen bulging out",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to a suggestion the strangling of Diwan by Ranga, by deleting gruesome visuals",
+        "length_m": 4.7,
+        "length_retained_m": 3.6
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the total length of scenes/sequences of violence (including kicking, fist-cuffs, whipping, torture, killings, etc.) in the entire film to less than 540 ft. by deleting all hard hitting and gruesome visuals. None of the retained violence sequence exceed 90 ft. in length",
+        "length_m": 33.7
+      }
+    ]
+  },
+  {
+    "film_title": "Naami Chor",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kamal Mehra",
+    "cert_no": "B/79829",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "V & VII",
+        "description": "Delete the actual view of pressing of handkerchief against the nose of victims to make them unconscious wherever it occurs",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the view of stabbing from front angle by Kundan of a man keeping merely a suggestion to establish that the man has been killed",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to flash the visual of Johnny falling in the boiling liquid along with his cry",
+        "length_m": 0.45,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the reference to 'Khandaan' of Tanson by Awali troup",
+        "length_m": 0.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "In the dance sequence, reduce the hip-to-hip movement of the two girls swinging towards each other",
+        "length_m": 0.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the close view of the breast movement of the dancers sitting on the ground",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the breast-to-breast movement of the dancers",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close view of a girl touching the bare waist of another girl",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the amorous sideway swinging of the hip of the dancers while lying on the ground",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the first back view of kissing couple near the lamp post",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the montage of theft and chase",
+        "length_m": 10.67,
+        "length_retained_m": 19.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Add commentary by Raja while stealing from a family safe that he has been compelled by the gangsters to do it with a view of minimising the motivation of the character (Addition of the commentary approved - Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete the direct kiss between Lina and Raja during the song while she is lying down",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce considerably close view of child in the safe and his panting for breath towards end",
+        "length_m": 4.88,
+        "length_retained_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Paapi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "4025",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Delete the shots of Police firing and killing a smuggler after the title recording (replaced with approved shot)",
+        "length_m": 0.95
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the shots of Ruby's lover shot by Abdul (Replaced with approved shots)",
+        "length_m": 1.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the shots of Kumar hitting Joe and the later falling on a table which moves towards water (Replaced with approved shots)",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the gangster pushing police constable and snatching his gun away, in the diamonds exhibition",
+        "length_m": 1.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Delete Rani giving a blow to the lady constable and running away (replaced with approved shots)",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "After Kumar shows the key to Joe at the door, reduce the fight between them",
+        "length_m": 31.99,
+        "length_retained_m": 25.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce fight in the bar between Vikramsingh and the owner",
+        "length_m": 20.1,
+        "length_retained_m": 25.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce fight between Kalu Lohar and Vikram",
+        "length_m": 1.31,
+        "length_retained_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the shots of Dr. Ashok Roy being hit on the forehead by a flying stone thrown by a man in the crowd when he comes out of the police station",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the fight between Rani and Kitty with a view to diverting attention of the guard including the shot in which Kitty fires the blank",
+        "length_m": 3.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the train robbery scene from the shot in which the violent blow is given to the real railway guard by gangster impersonating as railway guard to the shot in which a police constable shoots before the van is taken away",
+        "length_m": 29.28,
+        "length_retained_m": 24.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Delete the gangster hitting police woman on the head with a pistol after rescuing Rani from Police lockup",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the scene at the hide-out of the gangsters Rani being whipped by Vikram, intercut of Sunil catching gangster, whipping resumed five times till Rani faces Dr. Ashok Roy. Fighting starts here, Kitty firing thrice to kill gangsters, Boss No. 2 shoots Kitty, Kitty firing back at Boss No. 2 till police passes surround the area",
+        "length_m": 24.81,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce exchange of fire between the gangsters on roof-tops and the police down, whipping etc",
+        "length_m": 13.1,
+        "length_retained_m": 26.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce Boss No. 1 being shot at by Abdul from the balcony",
+        "length_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce Abdul firing at the Boss three times and subsequent shots of Bogg firing with machine gun, until Kumar hits Boss in the stomach who escapes by stair-case",
+        "length_m": 7.0,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIX",
+        "description": "Delete Boss shooting down five of his benchmen by machine gun emerging out of his van",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce the shots after the van hits the tree, fight between Kumar and Boss till Boss goes between the van and the tree",
+        "length_m": 0.0,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete portion of the shots in which the bare breast of a girl (side view) is visible when she is taking bath",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots of couple in compromising posture against the background of English song in a hall and the shot of a man dropping strings of blouse of his female partner and hugging her",
+        "length_m": 4.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce drastically the scene of the molestation and rape, keeping only a few feet at the beginning and at the end establish the outrage",
+        "length_m": 22.32,
+        "length_retained_m": 9.77
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "From Kitty's dance, delete indecorous shots and shots of her indecent movements",
+        "length_m": 5.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete Rocky saying Kya police department hai? Policewale to kuchh to chahiye bola. to Kumar (replaced with approved words)",
+        "length_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to the barest minimum the shots in which Rani caresses the woman's thigh by placing her hand under the skirt",
+        "length_m": 3.17,
+        "length_retained_m": 4.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete reference to 'Pope' by Rocky while talking with Ashok (replaced with approved words sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "In Kitty's dance in the hotel, delete indecorous shots and shots of her indecent movements",
+        "length_m": 2.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined portion from Rocky's dialogue: Suma hai police wala leta hai lekin wo to deke gayaa",
+        "length_m": 3.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the shots in which the bleeding knee of Abdulla is prominently visible after he falls from the building",
+        "length_m": 0.6,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete all indecorous gestures and postures of Kitty and advances of security gonda when he puts her on the sofa",
+        "length_m": 8.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete references to the train 304 Express as the train to be robbed",
+        "length_m": 3.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the shots in which third degree methods are employed by the Police to seek confession from Rani",
+        "length_m": 20.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "From the train robbery sequence, delete the portion of the shot where a gun is fired on the lock of Railway van and smoke is seen coming out",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Shaque",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Avikam",
+    "cert_no": "B/78714",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "During the bed-room scene between Vinod and Meena, reduce visuals towards the end of the scene after Vinod keeps the time-piece on the side table (The portion of the scene when Vinod and Meena have separated from each other may be retained)",
+        "length_m": 9.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From Rosi's cabaret dance, reduce close shots where her breast movements are prominent. The shot in which she is caressing the portion of her belly below the breast should be deleted",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "During the dialogue between Vinod and his friend in the hotel, delete reference to Yugoslavia designs not being useful",
+        "length_m": 5.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "From the scene when Vinod is counselling Meena on bed after her attempted suicide, delete: portion in which the camera pans from the bare feet of the couple to the bare thigh of Vinod till the portion where the quilt covers his thigh",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to the barest minimum the prolonged fight between Vinod and Man Singh, deleting close gruesome shots",
+        "length_m": 33.68,
+        "length_retained_m": 28.86
+      }
+    ]
+  },
+  {
+    "film_title": "The Reindeer Herders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "The Royal Swedish Embassy",
+    "cert_no": "B/79729",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the shot showing two persons skinning of a live Reindeer",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Jadoogar chapatnath",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Jagdcop International",
+    "cert_no": "B/78277",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the phrases 'Mooth Maarna', 'Mooth Marwana', etc. wherever they occur in the film (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "description": "Delete the following dialogues - Jadoogar: '...Guptgyan mein jaao, lablaba khaao...' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "description": "Jadoogar: 'My dear Madam, abhíabhl din hai, magar tumhare liye raat hai raar ko aana...' (underlined words to be deleted) (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "description": "Delete the shot in which Jadoogar takes out a doll from the skirt just below the belt",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Mata",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ashok Chandra",
+    "cert_no": "B/79527",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'cha miya siwade to mutravano marg to rakhvanopada' said by barbar to Ramzan (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "From the song beginning with the words 'Mari sankh non johan jo...', delete the following song line and its repetition - 'Toom thando posh hoon phagun garam garam' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to minimum fight between Chaman and Ramla",
+        "length_m": 2.43,
+        "length_retained_m": 27.5
+      }
+    ]
+  },
+  {
+    "film_title": "Shaft in Africa",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Metro Goldwyn Mayer India Ltd.",
+    "cert_no": "B/78675",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the underlined words from the following dialogue spoken by Shaft to Alemo with reference to her clitoris: 'Now how in the hell are you going to know what missing unless you give it a little wear and tear before they take it away'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "III (a)",
+        "description": "In the love-making scene between Shaft and Aleme, delete the shots wherever their bare buttocks and her bare breasts are seen",
+        "length_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "III (b)",
+        "description": "Reduce considerably the stick fight between Ziba and Shaft by deleting hard hitting and gruesome shots",
+        "length_m": 32.2,
+        "length_retained_m": 27.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "In the brothel scene, delete the view of a girl with exposed bust",
+        "length_m": 3.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (a)",
+        "description": "Delete the underlined words from the following dialogue of the white girl to Shaft: 'I always look for a man with prominent nose.... and long thick thumb'",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the view of Jazar in nude during her love scene with Shaft on the steamer",
+        "length_m": 2.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & VI",
+        "description": "Reduce the number of scenes/sequences containing violence (slapping, shooting, kicking, fist-cuffs, torture, murder etc.) to SIX and ensure that the length of each such sequence is reduced to the barest minimum. Delete hard hitting shots, gun shot, torture, physical violence, shooting and violence etc.",
+        "length_m": 17.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete shots of a man in lady's dress, shooting at Shaft and in turn he is shot dead by a police officer",
+        "length_m": 3.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete shots of white man shooting at Shaft and Shaft pulls him down and kills him",
+        "length_m": 4.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the fight between Shaft and Amar's men and Shaft strangles him to death",
+        "length_m": 8.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the shots on the deck of the steamer, Amali's man being shot dead by Shaft, another man throwing dagger at Shaft which kills the girl, and Shaft shooting the man dead",
+        "length_m": 3.5,
+        "length_retained_m": 27.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the torture of accommodation agent by Shaft",
+        "length_m": 4.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the shots of Amafi's man firing at Shaft and shattering the wind screen of the car",
+        "length_m": 2.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the killing (suggestion) of Amafi's man by an imprisoned slave with an iron rod",
+        "length_m": 0.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete torturing of a slave before he is taken away",
+        "length_m": 1.9
+      }
+    ]
+  },
+  {
+    "film_title": "The Drowning Pool",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Warner Bros (F.E.) Inc.",
+    "cert_no": "B/79446",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the view of a man giving punch to Karper and Harper hitting Reeves on opening the door",
+        "length_m": 3.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV (a)",
+        "description": "Reduce the exchange of fire between masked men and Harper in which Pat dies",
+        "length_m": 2.76,
+        "length_retained_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV (b)",
+        "description": "Delete the view of Harper hit by Kulburn's man in the telephone booth",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce suitably the splashing of water by powerful jets on Harper and Mavis",
+        "length_m": 10.97,
+        "length_retained_m": 16.15
+      }
+    ]
+  },
+  {
+    "film_title": "Salaakhen",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "A.K. Nadiadwala",
+    "cert_no": "80384",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Title superimposed on the shots of violence (Deleted all shots appearing after super-imposition of titles which gave the impression of violence)",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the scuffle between Ramlal (father) and Seth inside the lift and the subsequent action of father killing Seth by strangling to rob diamonds",
+        "length_m": 7.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the shot showing the Police Inspector shooting Ramlal with pistol in the chase till Ramlal falls down wounded on the ground",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the fight with knife upto Chandar falls down including intercuts",
+        "length_m": 3.05,
+        "length_retained_m": 26.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete shots of Chander with two comedian prisoners engaged in scuffle and hits on his belly also pressing his neck with a view to deliberately inviting the attention of the police to come",
+        "length_m": 3.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the view of lighting the cracker kept inside the coffin it explodes and the subsequent stampede by jail birds when police are trying to catch the escaping prisoners",
+        "length_m": 4.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the shots showing Chandar's uncle shot by pistol during the marriage of his daughter",
+        "length_m": 6.16
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Reduce the shots inside the car action of gangsters aiming pistol at Chandra and the eventual fight near the petrol pump and in the car also till the title 'Intermission' comes portion of car sprinkling on petrol of the car and strangling of gangster's neck in the steering wheel",
+        "length_m": 2.35,
+        "length_retained_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the fight between Chander and gangsters in the wooden apartment till injured man is taken away",
+        "length_m": 20.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the long view of Chandar giving a blow to jail guard standing on the watch tower",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the long view of explosion near the main gate of the jail",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce the view of Chander throwing dynamites in the jail compound for creating panic and stampede, Chander's action of lifting Ramlal and escaping out of jail by climbing the wall till he places Ramlal inside the boat kept for escape",
+        "length_m": 6.16,
+        "length_retained_m": 2.98
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the struggle and scuffle between Chander and Paul (gang chief) in the wooden shack in front of Ramlal and the subsequent fight till the gang chief falls down",
+        "length_m": 0.0,
+        "length_retained_m": 26.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the view of Chander hitting the factory guard to make him unconscious and dragging him inside",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the view of Police Inspector firing the first shot and the consequent fight with fire work on the ground and also the way the Sikh driver hitting the gangster and the henchmen and fighting, slapping of persons exchange of fire etc. till Ramlal is shot",
+        "length_m": 82.91,
+        "length_retained_m": 82.91
+      }
+    ]
+  },
+  {
+    "film_title": "The Easy Escape",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Adarsh Arts",
+    "cert_no": "83223",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted various shots",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "After the Silence",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "83121",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "If",
+        "description": "Deleted a close shot of an old man talking about Dattu Pathak",
+        "length_m": 0.62
+      }
+    ]
+  },
+  {
+    "film_title": "Maru Mano",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "Gomathi Sankar Pictures",
+    "cert_no": "77055",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "DET",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Krsnu Movies enterprise",
+    "cert_no": "83179",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.14
+      }
+    ]
+  },
+  {
+    "film_title": "I Don't Know Son",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "77344",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.14
+      }
+    ]
+  },
+  {
+    "film_title": "Autithi",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "77294",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.14
+      }
+    ]
+  },
+  {
+    "film_title": "Mehman",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "77173",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.14
+      }
+    ]
+  },
+  {
+    "film_title": "Mehman",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "77296",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.14
+      }
+    ]
+  },
+  {
+    "film_title": "Palasor Rang",
+    "languages": [
+      "Assamese"
+    ],
+    "colour": "Partly Coloured",
+    "format": "35mm",
+    "producer": "Jiban Bora",
+    "cert_no": "79962",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Search Goes On",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "Cine Sixteen (Eastern) (Private) Ltd",
+    "cert_no": "79963",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mera Dharam Meri Maa",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Dr. Bhupen Hazarika",
+    "cert_no": "79964",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Acina No 2",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8758",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ringlex No I",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8756",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pratisruti",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Pinaki Mukherjee Productions",
+    "cert_no": "8744",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ajasra Dhanyabad",
+    "languages": [
+      "Bengali"
+    ],
+    "colour": "Partly Coloured",
+    "format": "35mm",
+    "producer": "Young Stars Production",
+    "cert_no": "8747",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Kamadhenu",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "H.R. Films, Madras",
+    "cert_no": "78978",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the words 'Sthalam mari pokaruthey'",
+        "length_m": 4.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "5 & 7",
+        "description": "Reduce fight to a suggestion",
+        "length_m": 6.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "5 & 7",
+        "description": "Reduce fight to a suggestion",
+        "length_m": 2.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete all shots of fight in gowdown",
+        "length_m": 53.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the words of a woman in the park 'Thandai illa thandaimar undu'",
+        "length_m": 4.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete low angle close shot of Lakshmi with emphasis on her breasts",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete fight after the car chase",
+        "length_m": 32.91
+      }
+    ]
+  },
+  {
+    "film_title": "Yaru Sukhi!",
+    "languages": [
+      "Kannada"
+    ],
+    "format": "35mm",
+    "producer": "Pushpalaya Films, Bangalore",
+    "cert_no": "78979",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the words 'NINGE body thandivnee' spoken by Kempa to Chenni",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete display of Vat 69 bottle and drinking by Chamanlal",
+        "length_m": 15.54
+      }
+    ]
+  },
+  {
+    "film_title": "Thanal",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Sree Vardhini Movie",
+    "cert_no": "78981",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete display of liquor",
+        "length_m": 2.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce ragging of lady medical students in college hostel to bare flash. Delete Parvati being forced to drink milk in a feeding bottle water being poured from buckets on Parvati and Leela",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce ragging of lady medical students in college hostel to bare flash. Delete Parvati being forced to drink milk in a feeding bottle water being poured from buckets on Parvati and Leela",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the entire Hartkatha episode by the medical student Ravi at the annual day function, including reference to loop, abortion - Sakuntala and Dushyantan's love- Sakuntala having no need for family planning etc",
+        "length_m": 60.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "10 (i)",
+        "description": "Delete Narayana Kutty's words 'Avarudo Kamavikaram sampipikaa' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "10 (ii)",
+        "description": "Reduce ragging of male medical students to bare flash",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete completely the urine bath and garlanding with chappals",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the entire sequence showing display of liquor and drinking (Narayana Kutty coming with a liquor bottle students reaction - his pouring liquor and offering to all students their cheers drinking - subsequent drunken behaviour)",
+        "length_m": 50.58
+      }
+    ]
+  },
+  {
+    "film_title": "Sivthandavam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Abhayam Movies",
+    "cert_no": "78982",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Voorummadi Bathukulu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Art Enterprises, Secunderabad",
+    "cert_no": "78983",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the words of Harischandra 'Kallu chesina melu thalli cheyadura - challana thallara kallu munta' (Sound only - no replacement)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Attavaril",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Prasad Art Pictures (P) Ltd, Madras",
+    "cert_no": "78984",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Sreemadh Bhagavadh Geetha",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Geethanjali Pictures, Madras",
+    "cert_no": "78985",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Madhura Sopnam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Ganesh Productions, Madras",
+    "cert_no": "78986",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the fight between Thampi's men and Ravi, to a suggestion",
+        "length_m": 5.08,
+        "length_retained_m": 14.02
+      },
+      {
+        "kind": "replacement",
+        "reel": "14",
+        "description": "Delete shot of Sekhar's hand resting on the abdomen of Sarola",
+        "length_m": 1.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduce exchange of fire in Thampi's house to the last stage when the police overpowers him",
+        "length_m": 5.34,
+        "length_retained_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Ennai Pol Oruvan",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sri Vinayaga Pictures, Madras",
+    "cert_no": "78987",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete underclad girls serving drinks",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Namasivayam kicking the priest",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (a)",
+        "description": "Delete Vimala's dance which is vulgar and indecent",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (b)",
+        "description": "Delete scene of Vimala and a girl having liquor bottles",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (a)",
+        "description": "Delete Vimala's mid shots with naked thighs",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 & 14",
+        "description": "Delete Sekar's comments on brands of whisky",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 & 14",
+        "description": "Delete all shots preceding Vimala bringing Usbanandini to Sekhar's chamber",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the word bastard by Sekhar (Sound only - No replacement)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce fights among Namasivayam, Sekhar and the rest to the absolute minimum requirement of the story, not exceeding one minute; while reducing, delete shot of jamming the car door on the neck of a fighter",
+        "length_m": 29.87,
+        "length_retained_m": 27.43
+      }
+    ]
+  },
+  {
+    "film_title": "Mutysla Pallaki",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Kowmudi Pictures",
+    "cert_no": "78988",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Laasa Special Tea",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "The Nilgiri Tea Emporium, Hyderabad",
+    "cert_no": "78989",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Raja Parambara",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "BalabhaskarFilms, Madras",
+    "cert_no": "78990",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dsvara Duddu",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Rani Arts, Bangalore",
+    "cert_no": "78991",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Thuy Aroth, Nation",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Shri V.V. Babu, Vivekavani Enterprises, Madras",
+    "cert_no": "78984",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Parishramida Prithipula",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shri H.M.K. Murthy, Madras",
+    "cert_no": "78993",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Fruits of Labour",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shri H.M.K. Murthy, Madras",
+    "cert_no": "78994",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Samriddiya Sankethu",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "78995",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Symbol of Progress",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "78996",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pragathiya Payada",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "78997",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Miracles of Progress",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "78998",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ulithiyada Srirakho",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "78999",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Saving Safeguards",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "79000",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "O Manishi Thirigi Choodu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Bab & Bab Art Pictures, Hyderabad",
+    "cert_no": "79002",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Nurayum Pathayum",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "J.J. Arts, Madras",
+    "cert_no": "79003",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the shot of Madavi and Nair hugging each other and falling on the cot, including the sound of her cries",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "7 (a)",
+        "description": "Delete the panning shot of liquor bottle in traveller's bungalow",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "7 (b)",
+        "description": "Delete the shot of a contact man taking drinks",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete shots of drinking by Sankar",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete drinking of toddy by Vasu and others",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Vasu's action of molestation on Devaki",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Pelli Kaani Pelli",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Adiraja Productions, Madras",
+    "cert_no": "79004",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the assault on Shanta by Champal, to a bare flash",
+        "length_m": 2.74,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the climax fight to bare minimum necessary for continuity, and delete all direct hits from Vijay to Ramesh",
+        "length_m": 6.1,
+        "length_retained_m": 24.38
+      }
+    ]
+  },
+  {
+    "film_title": "Etharkum Thuninthavan",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "M.K.R. Pictures, Madras",
+    "cert_no": "79004",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete indecorous action of Kannan as old man, kicking girls with his bottom and the girls riding on him",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete the words in the song Veedu Virattudhu, reading 'Kizhavan Endralum Uzhavan Naanamma, Uzhudha Vayalai Ellam Kattukkamma', and (b) the lines 'Padukkai Yenamma.... to Thaalam Thattatta' (Sound only - replaced approved lines)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Sengayya's expression of delight and words at the feel of women bathers discarded robes on the banks",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete action of Mookayya displaying skirt and bra",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Song 2, delete shots of Rani's cleavage exposed excessively wherever in the song",
+        "length_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete low angle shot of Rani lying with her thighs and bottom exposed, under tree",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete close shot of Rani and Kanna hugging and rolling in water",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the sequence of Mukayya making love to donkey in a lewd manner",
+        "length_m": 20.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete all close shots of cabaret dancer (No objection to long shots)",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete insert of Seogayya sitting with a woman in the restaurant",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "11",
+        "description": "Song 3 beginning with words Elorum Kaithattungal* delete (a) Pattana chittondrai pandadungal, (b) Anil kooda kadik kadha kani pondra paani; (c) Adhikaalai andalum mudiyadha yaaham; (d) Pennodu seramal sunnaykal yauru to Nadhthu kadhayai nadhtu (Sound replacement approved)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete Maari's words Vayasu vandha ponnu puttu chutthimoonu naal aachu",
+        "length_m": 11.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce exchange of gun fire to once only",
+        "length_m": 0.0,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Asirvadam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Cholayoor Pictures, Hyderabad",
+    "cert_no": "79005",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Kakana Koto",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Raj N. Raj Combines, Mysore",
+    "cert_no": "79006",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Choondakkari",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Sangalpa, Kerala",
+    "cert_no": "79007",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the close shot of the bull's underneath and the dialogue 'Odakkatha kalai undu - venamengil medicho'",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete all shots of Janaki and Krishnan together in bed, repeated after the first insert",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Silanorangalil Sila Manithargal",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "A.B.S. Productions, Madras",
+    "cert_no": "79008",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5 & 6",
+        "description": "Delete the words Do Raha and bastard uttered by the novelist and Prabhu respectively",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "5 & 6",
+        "description": "Delete the words Do Raha and bastard uttered by the novelist and Prabhu respectively",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Mani Muzhakkam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Anaswara Chitra, Cochin",
+    "cert_no": "79009",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Rishya Shringa",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Young Cinema, Bangalore",
+    "cert_no": "79010",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete close up of face of a dead body opening its mouth in the graveyard",
+        "length_m": 0.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce close up of dead body of a man with pan in his mouth, to a flash",
+        "length_m": 0.75,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce to a flash, the dead body of a child",
+        "length_m": 0.95,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce to a flash close up of Gowda’s face before being dropped into the well",
+        "length_m": 0.45,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Sky Riders",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "20th Century Fox Corpn. (I) Pvt. Ltd.",
+    "cert_no": "B/79328",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the words 'the rich will die', as read in the ransom note: 'The rich will share or rich will die'",
+        "length_m": 1.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "From the sequence of kidnapping, delete the direct killings of servants. Delete the placing of mask on the head of Susie",
+        "length_m": 9.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the following dialogue of an Activist addressed to Ellen: 'This is a People's Jail. You are prisoners of the World Activist Revolutionary Army'",
+        "length_m": 4.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the words 'our struggle to liberate the oppressed peoples of the world', as spoken by an Activist",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the reference to 'The world Activist Revolutionary Army' wherever it occurs, is the message of Ellen heard oyer radio. Delete also the words '...fighting the tyranny of world wide imperialism'",
+        "length_m": 9.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the words 'This is people's jail' as spoken by lady Activist to Ellen",
+        "length_m": 0.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a flash the scuffle between Ellen and the lady Activist in the jail by deleting all hard hitting and gruesome shots",
+        "length_m": 3.35,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the words 'Force against force, murder for murder. No compromise' as spoken by Activist leader to Ellen",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the following dialogue of the Activist Leader spoken over radio: This is the World Activist Revolutionary Army We are military force fighting world wide imperialists. The money you raised will provide us with the Arms and the ammunition necessary for our victory",
+        "length_m": 7.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the list of arms and ammunition being ordered by the Activist through the transmitter",
+        "length_m": 25.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the blasting of van with the tape recorder inside it, by deleting the gruesome visuals",
+        "length_m": 8.72,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the direct killings of Activists when the sky-riders enter the monastery",
+        "length_m": 2.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & V",
+        "description": "Reduce drastically the fight between the sky-riders and the Activists and also the fight between the Police, Military and the Activists, by deleting all direct killings and gruesome visuals",
+        "length_m": 47.06,
+        "length_retained_m": 27.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce to a suggestion the Activist Leader killing himself, leaving only a suggestion",
+        "length_m": 4.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV & V",
+        "description": "Reduce the total number of fight/violence sequences (including slapping, whipping, shooting, kicking, torture, murder etc.) to Six only and reduce each such sequence to bare minimum",
+        "length_m": 18.6,
+        "length_retained_m": 9.27
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Barry Lyndon\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Hawk Films Ltd",
+    "cert_no": "B/79892",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the mid-close shot of a man being shot",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"That Splendid November\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Alain Porier for Gaumont International",
+    "cert_no": "B/79349",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'Adultery'",
+        "length_m": 1.1
+      },
+      {
+        "kind": "reduction",
+        "description": "Delete shots of nudity and reduce shots of lovemaking to a flash",
+        "length_m": 4.85
+      }
+    ]
+  },
+  {
+    "film_title": "Your Heritage",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Film 5",
+    "cert_no": "B/80097",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Shandaar Paint",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "The Far Production Co.",
+    "cert_no": "B/80089",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Prevention is better Than cure",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "The Far Production Co.",
+    "cert_no": "B/80088",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Khoon Pagina",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "M/s Prakash Mehra Combine",
+    "cert_no": "B/79768",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the dialogue 'Dusminute rukh jaao, tumbe swarg me pahunchata hoon' as spoken by the Mukadam to Chanda",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the following scenes/sequences of violence to the barest minimum necessary to tell the story, by deleting all gruesome and hard hitting shots. Under no circumstances, the total duration of such scenes/sequences in the entire film should be more than six minutes. The length of each such sequence should be less than 90 ft.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Children fight each other",
+        "length_m": 7.22,
+        "length_retained_m": 7.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Thakur burning the houses of Ram and Rahim",
+        "length_m": 1.9,
+        "length_retained_m": 10.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Goondas hitting the teacher in the class-room",
+        "length_m": 1.31,
+        "length_retained_m": 11.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Shiva hitting the goondas in the class-room",
+        "length_m": 0.0,
+        "length_retained_m": 20.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Suggestion of two men being shot dead (gun firing is heard) by Zalim Singh (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Comical fight in the marriage pandal before the song and dance by men (goondas and Shiva) starts",
+        "length_m": 4.89,
+        "length_retained_m": 24.84
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Mohan getting killed by Raghu",
+        "length_m": 7.3,
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Whipping of Shiva by Mukadam's men",
+        "length_m": 11.85,
+        "length_retained_m": 13.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Free-style wrestling type of fight between Shiva and Shera (only their physical struggle will be counted as violence)",
+        "length_m": 9.23,
+        "length_retained_m": 24.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Stick fight between Shiva and goonda",
+        "length_m": 10.3,
+        "length_retained_m": 12.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Fight between the goondas, Shera, Shiva and others at Zalim Singh's place",
+        "length_m": 8.52,
+        "length_retained_m": 26.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Suggestion of Zalim Singh beating a man in the market",
+        "length_m": 1.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Shera, in one swing, taking away the guns from the hands of Goondas",
+        "length_m": 0.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Suggestion of Shant shooting at Shiva (Freez shot)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Naon Mothein Lakshin Khotein",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sharad Pilgaonkar & Sunila Pilgaonkar",
+    "cert_no": "B/80189",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete Phoolahand's words to the effect 'Saheb rajkurnabarobar kurye pau kartat oa?'",
+        "length_m": 4.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the visual on the song line 'Ha bahar yauvagacha', where the dancer is pointing towards her breasts",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete one back view of kiss during the song",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Mata",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ashok Jain",
+    "cert_no": "B/79527",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Mutra vano Marg to rakhyano pade' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the words 'Too thando posh hoon phagun garam garam' (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Gumrah",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "S.S. Oberoi",
+    "cert_no": "82972",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V, VII, IX & XIV",
+        "description": "Deleted various shots",
+        "length_m": 65.54
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Bindu Sukh",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "A.M. Films",
+    "cert_no": "79974",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "The whole drinking sequence at the beginning of reel No. 6 in the deserted house",
+        "length_m": 6.7
+      }
+    ]
+  },
+  {
+    "film_title": "Veinex",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8765",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ringlex - 2",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8766",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "LeLeconex",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8767",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Arihin",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8767",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ramer Sumati",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "79979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "S+34 Rikshi",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "8761",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "P: 10 AM Palyachitini",
+    "languages": [
+      "Assamese"
+    ],
+    "format": "35mm",
+    "producer": "Bimal Nath",
+    "cert_no": "79979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Raay Dweshalu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sunil Pictures, Madras",
+    "cert_no": "79033",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete all prominent close-ups of Mohana's bust jerks while she dances with song played on a gramophone record",
+        "length_m": 3.25
+      }
+    ]
+  },
+  {
+    "film_title": "Ramba, Urvasi, Menaka",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Shyam Prasad Art Productions, Madras",
+    "cert_no": "3345",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete exposure of bare thighs of Urvasi on words Oorvasi Oorvasi",
+        "length_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce to a flash both sound and picturisation of Raja caressing Lakshmi in the hotel",
+        "length_m": 2.44,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce Raja squeezing Parvati's neck with a cord and also his subsequent twisting her neck on the dining table",
+        "length_m": 2.74,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the dog attacking Lakshmi to bare minimum",
+        "length_m": 3.66,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete all direct kicks on Raja by Lakshmi and Jaya",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Kaduvaye Pidicha Kiduva",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Jai Maruthy Productions, Madras",
+    "cert_no": "79034",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 0.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 3.88,
+        "length_retained_m": 12.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 3.73,
+        "length_retained_m": 20.86
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 11.88,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Rajani",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "A.M. Nair Movies Prodns, Kerala",
+    "cert_no": "79038",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the dialogue of boys 'Ammayum Pengalum Kulikkunnathe Nokkam Pattumo'",
+        "length_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the words of policeman 'Avalude thallyodu chothikku enikku sex undo'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the words of Vikram 'Thappi nokkatte'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete close shots of Projatha and Sukumaran in tight embrace",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "In the sequence suggesting molestation delete the third freeze shot of the man and the girl",
+        "length_m": 1.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the dialogue 'Atchutha Menonda Baranam'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the entire fight",
+        "length_m": 57.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "3 & 5",
+        "description": "Delete wherever occurring the words Inquilab zindabad in the film (Sound only delete)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Avan Oru Sarithram",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Gomathi Sankar Pictures",
+    "cert_no": "78957",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Voluntary deletion of Ammanai song's pallavi Gomathi's imagination",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Voluntary deletion of Sankar's words to the public at Gandhi Asaram",
+        "length_m": 22.87
+      },
+      {
+        "kind": "insertion",
+        "reel": "16",
+        "description": "Addition of a garlanding scene in Reel 16",
+        "length_m": 19.51
+      }
+    ]
+  },
+  {
+    "film_title": "Sonthamadi Nee Yennakku",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Jai Maruthy Prodn, Madras",
+    "cert_no": "79034",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 0.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 3.88,
+        "length_retained_m": 18.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 3.73,
+        "length_retained_m": 12.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 11.88,
+        "length_retained_m": 20.86
+      }
+    ]
+  },
+  {
+    "film_title": "Kalpataroo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ashok Jain",
+    "cert_no": "B/80231",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Saboot Dekhiye",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Suraj M. Rai, Television radio & Motion Pictures",
+    "cert_no": "B/80185",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Shankar Husain",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Hari Singhanoy",
+    "cert_no": "B/80096",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Swapnalok",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ashok Jain",
+    "cert_no": "B/80232",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Uttam Kheti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "F.B. Productions",
+    "cert_no": "B/80186",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Thie Parallax View\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "B/80234",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ranga Aur Raja",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Yogesh R. Shenoy",
+    "cert_no": "B/79944",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II",
+        "description": "Delete the dialogue 'Aaj to ho jaye' as spoken by Ran Dayal to his wife while embracing her",
+        "length_m": 1.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I, II",
+        "description": "Reduce the scene of drinking in Diwan's house by deleting the visuals which glamourise drinking",
+        "length_m": 27.0,
+        "length_retained_m": 62.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the molestation of Bhagyawati deleting all intimate shots",
+        "length_m": 1.26,
+        "length_retained_m": 5.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between Diwan and Ram Dayal by deleting the hard hitting shots; and reduce to a suggestion the strangling of Ram Dayal",
+        "length_m": 7.05,
+        "length_retained_m": 10.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the pressing of cloth on the neck of Ram Dayal's son",
+        "length_m": 5.85,
+        "length_retained_m": 11.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to bare minimum necessary the fight between Shyam and Ranga in the club, by deleting hard hitting and gruesome shots",
+        "length_m": 2.5,
+        "length_retained_m": 10.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the drinking scene in Jaggu's den, by deleting the shots which glamourise drinking",
+        "length_m": 1.8,
+        "length_retained_m": 53.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the views of Shyam enjoying drink in the hotel",
+        "length_m": 7.4,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the shot of Shyam hugging and caressing a girl while dancing with her",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the dying agony of Shyam after he is shot by Rangal",
+        "length_m": 0.5,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of drinking in the dacoit's den",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the words 'Nayakhata kholoonga' as spoken by Sarja to Titli in a suggestive manner",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (a)",
+        "description": "Delete the close-up of the lower portion of Titli lying in bed while Surju looks at her body from head to toe",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (b)",
+        "description": "Delete the shot of Sarju drinking before going to Titli",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (c)",
+        "description": "Delete the caressing Titli's bare leg by Sarju and his words 'Aag bhujhade aaya hoon'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the close-up of Lilabai lied with a rope where her breasts are seen bulging out",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to a suggestion the strangling of Diwan by Ranga, by deleting gruesome visuals",
+        "length_m": 4.7,
+        "length_retained_m": 3.6
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the total length of scenes/sequences of violence (including kicking, fist-cuffs, whipping, torture, killings, etc.) in the entire film to less than 540 ft. by deleting all hard hitting and gruesome visuals. None of the retained violence sequence exceed 90 ft. in length",
+        "length_m": 33.7
+      }
+    ]
+  },
+  {
+    "film_title": "Nyaya",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "V.S. Enterprises",
+    "cert_no": "B/80254",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Abhi Nahin",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "V.S. Enterprises",
+    "cert_no": "B/80256",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Choodiwala",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "V.S. Enterprises",
+    "cert_no": "B/80255",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"The Great Waldo Pepper\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "B/79898",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Great Waldo Pepper",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "B/79897",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Zanjeer",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "S.R. Saaz, Proprietor AMMA- A Movie Makers Association",
+    "cert_no": "B/80056",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted various shots",
+        "length_m": 87.34
+      }
+    ]
+  },
+  {
+    "film_title": "Immaan Dharam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suchitru, Hill View No. 241, Hill Road, Bandra, Bombay-50",
+    "cert_no": "B/79915",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted various shots",
+        "length_m": 432.3
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Mata",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Gomathi Sankar Pictures",
+    "cert_no": "83376",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Mutra vano Marg to rakhyano pade' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the words 'Too thando posh hoon phagun garam garam' (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Padarachya Sawlect",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35mm",
+    "producer": "Zohra Films",
+    "cert_no": "B/79997",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the view of Rosy's legs below the table and suggestive looks of Vilas at her",
+        "length_m": 5.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the shot of Vilas encircling his hands over the bosom of Rosy in the beach song",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the following dialogue between Hanmya, Vilas and Hanmya's wife",
+        "length_m": 2.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the scene of bare back of Pushpa standing near the wall",
+        "length_m": 0.0,
+        "length_retained_m": 0.63
+      }
+    ]
+  },
+  {
+    "film_title": "Love letter to mary Land",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "U.S.I.S",
+    "cert_no": "B/79931",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Papi\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "B/80208",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the view of bare back of the lady while she is taking bath",
+        "length_m": 0.75
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce suitably the impact of violence particularly firing and killings",
+        "length_m": 2.32
+      }
+    ]
+  },
+  {
+    "film_title": "Tinmaan Dharam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suchitru, Hill View No. 241, Hill Road, Bandra, Bombay-50",
+    "cert_no": "B/80257",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Uttam Kheti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "F.B. Productions",
+    "cert_no": "B/80186",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"This Parallax View\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "B/80234",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ranga Aur Raja",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Yogesh R. Shenoy",
+    "cert_no": "B/79944",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II",
+        "description": "Delete the dialogue 'Aaj to ho jaye' as spoken by Ran Dayal to his wife while embracing her",
+        "length_m": 1.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I, II",
+        "description": "Reduce the scene of drinking in Diwan's house by deleting the visuals which glamourise drinking",
+        "length_m": 27.0,
+        "length_retained_m": 62.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the molestation of Bhagyawati deleting all intimate shots",
+        "length_m": 1.26,
+        "length_retained_m": 5.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between Diwan and Ram Dayal by deleting the hard hitting shots; and reduce to a suggestion the strangling of Ram Dayal",
+        "length_m": 7.05,
+        "length_retained_m": 10.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the pressing of cloth on the neck of Ram Dayal's son",
+        "length_m": 5.85,
+        "length_retained_m": 11.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to bare minimum necessary the fight between Shyam and Ranga in the club, by deleting hard hitting and gruesome shots",
+        "length_m": 2.5,
+        "length_retained_m": 10.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the drinking scene in Jaggu's den, by deleting the shots which glamourise drinking",
+        "length_m": 1.8,
+        "length_retained_m": 53.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the views of Shyam enjoying drink in the hotel",
+        "length_m": 7.4,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the shot of Shyam hugging and caressing a girl while dancing with her",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the dying agony of Shyam after he is shot by Rangal",
+        "length_m": 0.5,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of drinking in the dacoit's den",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the words 'Nayakhata kholoonga' as spoken by Sarja to Titli in a suggestive manner",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (a)",
+        "description": "Delete the close-up of the lower portion of Titli lying in bed while Surju looks at her body from head to toe",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (b)",
+        "description": "Delete the shot of Sarju drinking before going to Titli",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (c)",
+        "description": "Delete the caressing Titli's bare leg by Sarju and his words 'Aag bhujhade aaya hoon'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the close-up of Lilabai lied with a rope where her breasts are seen bulging out",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to a suggestion the strangling of Diwan by Ranga, by deleting gruesome visuals",
+        "length_m": 4.7,
+        "length_retained_m": 3.6
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the total length of scenes/sequences of violence (including kicking, fist-cuffs, whipping, torture, killings, etc.) in the entire film to less than 540 ft. by deleting all hard hitting and gruesome visuals. None of the retained violence sequence exceed 90 ft. in length",
+        "length_m": 33.7
+      }
+    ]
+  },
+  {
+    "film_title": "The Great Space Journey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Central Studio of Films for Children and Youth",
+    "cert_no": "B/79592",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"A Car, A Violin, and Ink-Spot, the Dog\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "B/79597",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Machine Operations sheet Metal",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79975",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of Return of the Tall Blond man",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "B/78707",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce considerably the view of violence during the first part of the Trailer",
+        "length_m": 7.16,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Slap\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Alian Porier for Gaumont Productions & Ero International",
+    "cert_no": "B/78709",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the first shot where a man is hit on the face till he is pushed on the wall",
+        "length_m": 1.88
+      }
+    ]
+  },
+  {
+    "film_title": "India's Industry comes of age",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Pictures",
+    "cert_no": "B/80258",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mahitichitra No. 243",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "Asstt. Director of Information Govt. of Gujarat",
+    "cert_no": "83496",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1476",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "83497",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1476 (Northern Edition)",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "83498",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Maharashtra News No. 302",
+    "languages": [
+      "Marathi",
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "The Director General of Information & Public Relations, Govt. of Maharashtra",
+    "cert_no": "B/80244 - 45",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Refrigeration: Multiple Temperature Evaporators",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79972",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Electricity-Pressure & Current",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79973",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Refrigeration: Motors Controls and Testing",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79974",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Live Life King Size",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Film Malia",
+    "cert_no": "B/80160",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Lime Freshness",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "The Far Production Co.",
+    "cert_no": "B/79808",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tazgi Mehsoz Kijiye",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suraj M. Rai, Television radio & Motion Pictures",
+    "cert_no": "B/80157",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tazgi ki Jaltarang",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "The Far Production Co.",
+    "cert_no": "B/79807",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Taajgino Anand",
+    "languages": [
+      "Marathi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "B/79811",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Tingling Fresh",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Do.",
+    "cert_no": "B/79809",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Music From The Hills",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "U.S.I.S",
+    "cert_no": "B/79931",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Anmol bbont",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "S.S. Oberoi, Art Commercial",
+    "cert_no": "B/80192",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dog Day Afternoon",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Warner Bros (F.E.) Inc.",
+    "cert_no": "B/79487",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the word 'fuck' as spoken by Sonny to the F.B.I. Officer",
+        "length_m": 1.16
+      }
+    ]
+  },
+  {
+    "film_title": "Kalpataroo",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ashok Jain",
+    "cert_no": "B/80231",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Royal Flash\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "20th Century FoxCorpp.",
+    "cert_no": "B/79440",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the prominent view of exposed bosom of a lady",
+        "length_m": 1.79
+      }
+    ]
+  },
+  {
+    "film_title": "The Great Space Journey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "B/79592",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "A Car, A Violin, and Ink-Spot, the Dog",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "B/79596",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Machine Operations sheet Metal",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79975",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Return of the Tall Blond man\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Film Finance Corporation Ltd.",
+    "cert_no": "B/78707",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce considerably the view of violence during the first part of the Trailer",
+        "length_m": 7.16,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Slap\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Alian Porier for Gaumont Productions & Ero International",
+    "cert_no": "B/78709",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the first shot where a man is hit on the face till he is pushed on the wall",
+        "length_m": 1.88
+      }
+    ]
+  },
+  {
+    "film_title": "India's Industry comes of age",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Rajbans Pictures",
+    "cert_no": "B/80258",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Mahitichitra No. 243",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "Asstt. Director of Information Govt. of Gujarat",
+    "cert_no": "83496",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1476",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "83497",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Indian News Review No. 1476 (Northern Edition)",
+    "languages": [
+      "English"
+    ],
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "83498",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Maharashtra News No. 302",
+    "languages": [
+      "Marathi",
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "The Director General of Information & Public Relations, Govt. of Maharashtra",
+    "cert_no": "B/80244 - 45",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Refrigeration: Motors Controls and Testing",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79974",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Naami Chor",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Kamal Mehra",
+    "cert_no": "B/79829",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V & VII",
+        "description": "Delete the actual view of pressing of handkerchief against the nose of victims to make them unconscious wherever it occurs",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the view of stabbing from front angle by Kundan of a man keeping merely a suggestion to establish that the man has been killed",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to flash the visual of Johnny falling in the boiling liquid along with his cry",
+        "length_m": 0.45,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the reference to 'Khandaan' of Tanson by Awali troup",
+        "length_m": 0.92
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "In the dance sequence, reduce the hip-to-hip movement of the two girls swinging towards each other",
+        "length_m": 0.76
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the close view of the breast movement of the dancers sitting on the ground",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the breast-to-breast movement of the dancers",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the close view of a girl touching the bare waist of another girl",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the amorous sideway swinging of the hip of the dancers while lying on the ground",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the first back view of kissing couple near the lamp post",
+        "length_m": 0.76
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the montage of theft and chase",
+        "length_m": 10.67,
+        "length_retained_m": 19.81
+      },
+      {
+        "kind": "replacement",
+        "reel": "XI",
+        "description": "Add commentary by Raja while stealing from a family safe that he has been compelled by the gangsters to do it with a view of minimising the motivation of the character (Addition of the commentary approved - Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XII",
+        "description": "Delete the direct kiss between Lina and Raja during the song while she is lying down",
+        "length_m": 1.37
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce considerably close view of child in the safe and his panting for breath towards end",
+        "length_m": 4.88,
+        "length_retained_m": 11.58
+      }
+    ]
+  },
+  {
+    "film_title": "Paapi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "4025",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Delete the shots of Police firing and killing a smuggler after the title recording (replaced with approved shot)",
+        "length_m": 0.95
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Delete the shots of Ruby's lover shot by Abdul (Replaced with approved shots)",
+        "length_m": 1.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Delete the shots of Kumar hitting Joe and the later falling on a table which moves towards water (Replaced with approved shots)",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the gangster pushing police constable and snatching his gun away, in the diamonds exhibition",
+        "length_m": 1.25
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Delete Rani giving a blow to the lady constable and running away (replaced with approved shots)",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "After Kumar shows the key to Joe at the door, reduce the fight between them",
+        "length_m": 31.99,
+        "length_retained_m": 25.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce fight in the bar between Vikramsingh and the owner",
+        "length_m": 20.1,
+        "length_retained_m": 25.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Reduce fight between Kalu Lohar and Vikram",
+        "length_m": 1.31,
+        "length_retained_m": 21.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the shots of Dr. Ashok Roy being hit on the forehead by a flying stone thrown by a man in the crowd when he comes out of the police station",
+        "length_m": 0.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the fight between Rani and Kitty with a view to diverting attention of the guard including the shot in which Kitty fires the blank",
+        "length_m": 3.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce the train robbery scene from the shot in which the violent blow is given to the real railway guard by gangster impersonating as railway guard to the shot in which a police constable shoots before the van is taken away",
+        "length_m": 29.28,
+        "length_retained_m": 24.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Delete the gangster hitting police woman on the head with a pistol after rescuing Rani from Police lockup",
+        "length_m": 2.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the scene at the hide-out of the gangsters Rani being whipped by Vikram, intercut of Sunil catching gangster, whipping resumed five times till Rani faces Dr. Ashok Roy. Fighting starts here, Kitty firing thrice to kill gangsters, Boss No. 2 shoots Kitty, Kitty firing back at Boss No. 2 till police passes surround the area",
+        "length_m": 24.81,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce exchange of fire between the gangsters on roof-tops and the police down, whipping etc",
+        "length_m": 13.1,
+        "length_retained_m": 26.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce Boss No. 1 being shot at by Abdul from the balcony",
+        "length_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce Abdul firing at the Boss three times and subsequent shots of Bogg firing with machine gun, until Kumar hits Boss in the stomach who escapes by stair-case",
+        "length_m": 7.0,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIX",
+        "description": "Delete Boss shooting down five of his benchmen by machine gun emerging out of his van",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce the shots after the van hits the tree, fight between Kumar and Boss till Boss goes between the van and the tree",
+        "length_m": 0.0,
+        "length_retained_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete portion of the shots in which the bare breast of a girl (side view) is visible when she is taking bath",
+        "length_m": 0.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete shots of couple in compromising posture against the background of English song in a hall and the shot of a man dropping strings of blouse of his female partner and hugging her",
+        "length_m": 4.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce drastically the scene of the molestation and rape, keeping only a few feet at the beginning and at the end establish the outrage",
+        "length_m": 22.32,
+        "length_retained_m": 9.77
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "From Kitty's dance, delete indecorous shots and shots of her indecent movements",
+        "length_m": 5.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete Rocky saying Kya police department hai? Policewale to kuchh to chahiye bola. to Kumar (replaced with approved words)",
+        "length_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce to the barest minimum the shots in which Rani caresses the woman's thigh by placing her hand under the skirt",
+        "length_m": 3.17,
+        "length_retained_m": 4.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete reference to 'Pope' by Rocky while talking with Ashok (replaced with approved words sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "In Kitty's dance in the hotel, delete indecorous shots and shots of her indecent movements",
+        "length_m": 2.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the underlined portion from Rocky's dialogue: Suma hai police wala leta hai lekin wo to deke gayaa",
+        "length_m": 3.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Reduce the shots in which the bleeding knee of Abdulla is prominently visible after he falls from the building",
+        "length_m": 0.6,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete all indecorous gestures and postures of Kitty and advances of security gonda when he puts her on the sofa",
+        "length_m": 8.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete references to the train 304 Express as the train to be robbed",
+        "length_m": 3.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the shots in which third degree methods are employed by the Police to seek confession from Rani",
+        "length_m": 20.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "From the train robbery sequence, delete the portion of the shot where a gun is fired on the lock of Railway van and smoke is seen coming out",
+        "length_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "The Real Winner",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "83315",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Love in Action",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "83322",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I & II",
+        "description": "Deleted various shots along with commentary",
+        "length_m": 80.0
+      }
+    ]
+  },
+  {
+    "film_title": "Paapi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "83348",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted various shots",
+        "length_m": 200.5
+      },
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Addition of a man coming running towards Dharma and giving the news to him that 'Tumhere ghar Baccha huwa hai' approved",
+        "length_m": 8.23
+      },
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Addition to title showing 'All the characters are fictitious in the film' approved",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Woman Autar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "70859",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 48.46
+      }
+    ]
+  },
+  {
+    "film_title": "Pariksha",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "79100",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted various shots",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Chyavanprash.",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "82747",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ject Ki Rect",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Film Media",
+    "cert_no": "83336",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Train",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Films Division, Govt. of India",
+    "cert_no": "82526",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Makam Piranna Manka",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Jai Geetha Prodn, Madras",
+    "cert_no": "79011",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3 (a)",
+        "description": "Delete the shot of Namboodri's dhoti slipping down",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "3 (b)",
+        "description": "Delete close shot of Namboodri suggesting urination, including the shots of picture and sound and policemen's instruction",
+        "length_m": 13.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the scene of Namboodri and a woman wading across the river",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete Devadatthan's sending a customer to his wife in the hotel, after receiving money from him",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the dialogue of D.S.P. asking the police inspector over the phone to let off his erring daughter, without prosecution",
+        "length_m": 39.92
+      }
+    ]
+  },
+  {
+    "film_title": "Waters of kolleru",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shyam Prasad Art Productions, Madras",
+    "cert_no": "79035",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Dharmakai",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Nirmal Sarbajna",
+    "cert_no": "79973",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ek Bindu Sukh",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "A.M. Films",
+    "cert_no": "79974",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "The whole drinking sequence at the beginning of reel No. 6 in the deserted house",
+        "length_m": 6.7
+      }
+    ]
+  },
+  {
+    "film_title": "Veinex",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8765",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ringlex - 2",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8766",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "LeLeconex",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8767",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Arihin",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Calcutta Filmlet Advertising",
+    "cert_no": "8767",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ramer Sumati",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "79979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "S+34 Rikshi",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "Chitrakatha",
+    "cert_no": "8761",
+    "endorsement": "A",
+    "alterations": []
+  },
+  {
+    "film_title": "P: 10 AM Palyachitini",
+    "languages": [
+      "Assamese"
+    ],
+    "format": "35mm",
+    "producer": "Bimal Nath",
+    "cert_no": "79979",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Babruvahana",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Rajkamal Arts, Bangalore",
+    "cert_no": "79019",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Pukkita Chorandbu",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Thara Enterprises, Madras",
+    "cert_no": "79020",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Customers Choice",
+    "languages": [
+      "English",
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Thara Enterprises, Madras",
+    "cert_no": "79021",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Deepam",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Suresh Arts, Madras",
+    "cert_no": "79022",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Delete the words by Kannan 'Pondattiku Dabar' (Sound only replaced words 'Pendattikku Mama (approved)')",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Progress of Kerala (Valarunna Keralam)",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Chairman, Kerala State Film Development Corpn., Ltd., Trivandrum",
+    "cert_no": "79011",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Kalpanaa",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Shri Annapurna Cine Enterprises, Madras",
+    "cert_no": "79024",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "11",
+        "description": "Reduce the struggle between the lawyer and Seshu to bare minimum",
+        "length_m": 26.52,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "deletion",
+        "reel": "16 (i)",
+        "description": "Delete the prominent close-ups of Seshu's burnt face",
+        "length_m": 2.28
+      },
+      {
+        "kind": "reduction",
+        "reel": "16 (ii)",
+        "description": "Reduce the fight between Raghuram and Seshu to bare minimum and delete twisting of legs",
+        "length_m": 4.57,
+        "length_retained_m": 18.28
+      }
+    ]
+  },
+  {
+    "film_title": "Ungal Vazhkaiyil Vijay",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sound & Sight, Madras",
+    "cert_no": "79025",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Moc Soubhagyaniki Vijay",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Sham Prasad Art Productions, Madras",
+    "cert_no": "79034",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 0.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the indecorous bust jerks of the dancer while dancing and while on floor",
+        "length_m": 0.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 3.88,
+        "length_retained_m": 18.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 3.73,
+        "length_retained_m": 12.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "5, 10 & 15",
+        "description": "Reduce fights to bare minimum",
+        "length_m": 11.88,
+        "length_retained_m": 20.86
+      }
+    ]
+  },
+  {
+    "film_title": "Nimma Abhyudhaya Jeovakeo Vijay,",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Jai Geetha Prodn, Madras",
+    "cert_no": "79035",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ningalude Jecvidathil Vijay",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Jai Geetha Prodn, Madras",
+    "cert_no": "79029",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Swarganiki Nichonalu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Filmaluya Combines, Madras",
+    "cert_no": "79029",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Yasoda Krishna",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "SathyaJyothy Films, Madras",
+    "cert_no": "79030",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Thalryamo Jayam",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "P.V.T. Productions, Salem",
+    "cert_no": "79031",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce to a flash, the fight between police officer Vijay and a rowdy inside the rail compartment",
+        "length_m": 0.0,
+        "length_retained_m": 14.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "3 (i)",
+        "description": "Reduce blood oozing out of Vijaya's mouth and subsequent close-ups of his blood stained face",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "3 (ii)",
+        "description": "Reduce to bare minimum, the fight between police officer Anand and a rowdy, Inside the rail compartment",
+        "length_m": 0.0,
+        "length_retained_m": 20.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce the fight with torches and sticks between Anand and the rowdies to bare minimum",
+        "length_m": 0.0,
+        "length_retained_m": 19.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduce to bare minimum the fight in the hotel between Anand and the hotel owner and his men",
+        "length_m": 0.0,
+        "length_retained_m": 20.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the words 'I drink foreign whisky' from song No. 3",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (i)",
+        "description": "Delete Devi drinking and display of liquor bottle on her table wherever occurring in the scene",
+        "length_m": 13.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (ii)",
+        "description": "Delete a girl offering liquor to Prabha's father",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (iii)",
+        "description": "Delete close-up of breast cleavage of group dancers",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "11 (iv)",
+        "description": "Delete close-up of breast cleavage of Devi when she bends",
+        "length_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "12",
+        "description": "Reduce the prolonged embrace of Anand (as Raja) and Prabha in bed, and also the last shot where they are shown rolling",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "Akalle Akagam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Evershine Enterprises, Madras",
+    "cert_no": "79032",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the shot of Sankunni hugging an imaginary girl and making love to her, both picture and sound",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Ravindran pulling Sankunni, thinking him to be his wife and Sankunni falling over Ravindran in bed",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "The HAGUB-MONUMENT",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "Consulate General of the Netherlands",
+    "cert_no": "B/80086",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "A CAR, A VIOLIN, AND INK SPOT",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Soyexportfilm",
+    "cert_no": "B/79596",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Star Group of India",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/80250",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"W. W. AND THE DIXIE DANCEKING\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "20th Century Fox Corpn. (I) Pvt. Ltd.",
+    "cert_no": "B/79670",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Unbelievable",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "B/79598",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Unbelievable\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "B/79599",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Great Space Journey",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Central Studio of Films for Children and Youth",
+    "cert_no": "B/79592",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"A Car, A Violin, and Ink-Spot, the Dog\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Sovexportfilm",
+    "cert_no": "B/79597",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Machine Operations sheet Metal",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "N.E. & I.F. Ltd.",
+    "cert_no": "B/79975",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"The Great Waldo Pepper\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Warner Bros (F.E.) Inc.",
+    "cert_no": "B/79898",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word 'fuck'",
+        "length_m": 0.88
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete the shot of a man falling out of car through its wind screen as also the view of his blood smeared face",
+        "length_m": 0.86
+      }
+    ]
+  },
+  {
+    "film_title": "The Great Waldo Pepper",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "B/79897",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Zanjeer",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "S.R. Saaz, Proprietor AMMA- A Movie Makers Association",
+    "cert_no": "B/80056",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted various shots",
+        "length_m": 87.34
+      }
+    ]
+  },
+  {
+    "film_title": "Immaan Dharam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suchitru, Hill View No. 241, Hill Road, Bandra, Bombay-50",
+    "cert_no": "B/79915",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted various shots",
+        "length_m": 432.3
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Mata",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Gomathi Sankar Pictures",
+    "cert_no": "83376",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Mutra vano Marg to rakhyano pade' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the words 'Too thando posh hoon phagun garam garam' (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Padarachya Sawlect",
+    "languages": [
+      "Marathi"
+    ],
+    "format": "35mm",
+    "producer": "Zohra Films",
+    "cert_no": "B/79997",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the view of Rosy's legs below the table and suggestive looks of Vilas at her",
+        "length_m": 5.86
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Delete the shot of Vilas encircling his hands over the bosom of Rosy in the beach song",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the following dialogue between Hanmya, Vilas and Hanmya's wife",
+        "length_m": 2.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the scene of bare back of Pushpa standing near the wall",
+        "length_m": 0.0,
+        "length_retained_m": 0.63
+      }
+    ]
+  },
+  {
+    "film_title": "Love letter to mary Land",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "U.S.I.S",
+    "cert_no": "B/79931",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"Papi\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Ralhan Productions",
+    "cert_no": "B/80208",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the view of bare back of the lady while she is taking bath",
+        "length_m": 0.75
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce suitably the impact of violence particularly firing and killings",
+        "length_m": 2.32
+      }
+    ]
+  },
+  {
+    "film_title": "Tinmaan Dharam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suchitru, Hill View No. 241, Hill Road, Bandra, Bombay-50",
+    "cert_no": "B/80257",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Uttam Kheti",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "16mm",
+    "producer": "F.B. Productions",
+    "cert_no": "B/80186",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"This Parallax View\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "B/80234",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Ranga Aur Raja",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Yogesh R. Shenoy",
+    "cert_no": "B/79944",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I, II",
+        "description": "Delete the dialogue 'Aaj to ho jaye' as spoken by Ran Dayal to his wife while embracing her",
+        "length_m": 1.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "I, II",
+        "description": "Reduce the scene of drinking in Diwan's house by deleting the visuals which glamourise drinking",
+        "length_m": 27.0,
+        "length_retained_m": 62.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the molestation of Bhagyawati deleting all intimate shots",
+        "length_m": 1.26,
+        "length_retained_m": 5.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the fight between Diwan and Ram Dayal by deleting the hard hitting shots; and reduce to a suggestion the strangling of Ram Dayal",
+        "length_m": 7.05,
+        "length_retained_m": 10.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce to a suggestion the pressing of cloth on the neck of Ram Dayal's son",
+        "length_m": 5.85,
+        "length_retained_m": 11.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to bare minimum necessary the fight between Shyam and Ranga in the club, by deleting hard hitting and gruesome shots",
+        "length_m": 2.5,
+        "length_retained_m": 10.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the drinking scene in Jaggu's den, by deleting the shots which glamourise drinking",
+        "length_m": 1.8,
+        "length_retained_m": 53.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V (a)",
+        "description": "Reduce the views of Shyam enjoying drink in the hotel",
+        "length_m": 7.4,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V (b)",
+        "description": "Delete the shot of Shyam hugging and caressing a girl while dancing with her",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Reduce the dying agony of Shyam after he is shot by Rangal",
+        "length_m": 0.5,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of drinking in the dacoit's den",
+        "length_m": 0.0,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the words 'Nayakhata kholoonga' as spoken by Sarja to Titli in a suggestive manner",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (a)",
+        "description": "Delete the close-up of the lower portion of Titli lying in bed while Surju looks at her body from head to toe",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (b)",
+        "description": "Delete the shot of Sarju drinking before going to Titli",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI (c)",
+        "description": "Delete the caressing Titli's bare leg by Sarju and his words 'Aag bhujhade aaya hoon'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the close-up of Lilabai lied with a rope where her breasts are seen bulging out",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to a suggestion the strangling of Diwan by Ranga, by deleting gruesome visuals",
+        "length_m": 4.7,
+        "length_retained_m": 3.6
+      },
+      {
+        "kind": "reduction",
+        "description": "Reduce the total length of scenes/sequences of violence (including kicking, fist-cuffs, whipping, torture, killings, etc.) in the entire film to less than 540 ft. by deleting all hard hitting and gruesome visuals. None of the retained violence sequence exceed 90 ft. in length",
+        "length_m": 33.7
+      }
+    ]
+  },
+  {
+    "film_title": "Nyaya",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "V.S. Enterprises",
+    "cert_no": "B/80254",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Abhi Nahin",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "V.S. Enterprises",
+    "cert_no": "B/80256",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Choodiwala",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "V.S. Enterprises",
+    "cert_no": "B/80255",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Trailer of \"The Great Waldo Pepper\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "B/79898",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "The Great Waldo Pepper",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Universal Pictures India Pvt. Ltd.",
+    "cert_no": "B/79897",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Zanjeer",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "S.R. Saaz, Proprietor AMMA- A Movie Makers Association",
+    "cert_no": "B/80056",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted various shots",
+        "length_m": 87.34
+      }
+    ]
+  },
+  {
+    "film_title": "Immaan Dharam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Suchitru, Hill View No. 241, Hill Road, Bandra, Bombay-50",
+    "cert_no": "B/79915",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted various shots",
+        "length_m": 432.3
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Mata",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Col.",
+    "format": "35mm",
+    "producer": "Gomathi Sankar Pictures",
+    "cert_no": "83376",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Delete the words 'Mutra vano Marg to rakhyano pade' (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete the words 'Too thando posh hoon phagun garam garam' (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,351 @@
+[
+  {
+    "film_title": "Anlad",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Picturea Ltd., West View, Andheri, Bombay.",
+    "cert_no": "10635",
+    "cert_date": "5-4-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II & Ft",
+        "description": "The phrase \"Kumbhakaran ki aulad\", and dialogue about children being born to a married woman.",
+        "length_m": 4.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Front, side, and back hip movements of the female dancers.",
+        "length_m": 26.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Replaced dialogue \"Hathi ki haathi\" with approved dialogue.",
+        "length_m": 24.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The word \"Chudail\" (sound erased).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI",
+        "description": "Replaced dialogue \"Dekho in ameeron ke kartab\" with approved dialogue.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Words and shots depicting birth-control books, retaining only a reference to Family Planning.",
+        "length_m": 4.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Considerably the burning pyre, keeping the minimum for dramatic necessity.",
+        "length_retained_m": 7.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Ramdin carrying the dead body of Dhaniya.",
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "insertion",
+        "reel": "XI",
+        "description": "Approved insertions replacing excised portions.",
+        "length_m": 18.9
+      },
+      {
+        "kind": "insertion",
+        "reel": "XII",
+        "description": "Shot of Samadhi.",
+        "length_m": 30.5
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "Ramdin coming to the village.",
+        "length_m": 21.3
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIV",
+        "description": "Portion from the point Sushila is seen carrying radio upto and including Dhunia eating.",
+        "length_m": 45.7
+      },
+      {
+        "kind": "insertion",
+        "reel": "XV",
+        "description": "Ramdin entering the bungalow when a child is playing mouth organ.",
+        "length_m": 18.3
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVI",
+        "description": "Trimming of dissolves and silent shots.",
+        "length_m": 76.2
+      }
+    ]
+  },
+  {
+    "film_title": "Shart",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Hari S. Productions, Mohan Studios, Andheri, Bombay.",
+    "cert_no": "10646",
+    "cert_date": "6-4-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Replaced shot of Robin pumping the tyre and Kamini screwing on the tube with approved shots.",
+        "length_m": 23.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Dialogue \"Aar tumne main bhi\" between Kamini and Robin.",
+        "length_m": 8.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The short sequence after the car accident in which Robin and Kamini are scantily dressed.",
+        "length_m": 3.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "VI, VII, XI, XIV, XVI",
+        "description": "Replaced all physical contact between Robin and Kamini throughout the picture with approved shots.",
+        "length_m": 50.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The police saluting Robin twice and the village woman referring to Robin as \"Darogaji\".",
+        "length_m": 6.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Kamini saying to Alton \"Tumhen sakht dimagi beemari hai, tum reham hi mohabbat ho\" and all dialogue expressing sympathy of the heroine for the villain.",
+        "length_m": 16.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Hiten lifting the child Kanti, threatening to fling him down, and throwing him roughly in the room.",
+        "length_m": 33.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The shots of the dead body of Manisha.",
+        "length_retained_m": 2.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Goondas lifting and taking away Kamini as well as Kamini's screams.",
+        "length_retained_m": 7.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Scene between Robin and Kamini after the song \"Na ye chand\".",
+        "length_m": 32.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Alarm sequence between Kamini and Robin.",
+        "length_m": 25.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Superimposition of scene between Robin and Kamini before the song \"Dekho ye chand\".",
+        "length_m": 66.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Silent comedy scene between Robin and Kamini.",
+        "length_m": 23.5
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume 416",
+    "producer": "Metro Goldwyn Mayer, U.S.A.",
+    "cert_no": "10653",
+    "cert_date": "6-4-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Dialogue \"Under the conditions of today.... upto where his aggression could lead him\", retaining the earlier reference to his having made a speech regarding U.S. Policy towards South East Asia.",
+        "length_m": 56.7
+      }
+    ]
+  },
+  {
+    "film_title": "Angamy",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Akash Chitra, Famous Cine Building, Haines Road, Mahalaxmi, Bombay-11.",
+    "cert_no": "10563",
+    "cert_date": "20-3-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Rahi's entry into Zojila's bedroom.",
+        "length_m": 50.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Zojila walking in the balcony.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Raka call \"Mitwa\".",
+        "length_m": 2.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Shot of the dog.",
+        "length_retained_m": 3.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Long shot of Khushi and Raka passing.",
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "Raka's call 'Mitwa'.",
+        "length_retained_m": 3.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "A close-up of Rahi.",
+        "length_retained_m": 2.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Shot of waterfall.",
+        "length_retained_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Shot of Daima and Ruhi after the song.",
+        "length_retained_m": 18.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Raka entering Simsi's bedroom when she is asleep.",
+        "length_m": 42.7
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII",
+        "description": "Beating of Singoba.",
+        "length_m": 1.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Ruhi entering Simsi's bedroom.",
+        "length_m": 9.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Miscellaneous shots showing Simsi in Raka's house, Ruhi shouting for Simsi, Zojila throwing Simsi on ground, close-up of Zojila in the marriage scene etc.",
+        "length_m": 23.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Pillir scene.",
+        "length_m": 61.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Sequence following the song 'Unhen kho kar'.",
+        "length_m": 44.8
+      }
+    ]
+  },
+  {
+    "film_title": "Bengali",
+    "producer": "Now India Theatres Ltd., 68, Dharamtalla Street, Calcutta-13.",
+    "cert_no": "9590",
+    "cert_date": "6-4-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Meena's remarks to her husband as \"Itar Janani\" and Ananta's repetition of the same.",
+        "length_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Ilkra Jyotbi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "The Modern Theatres Ltd., Salem.",
+    "cert_no": "8180-U",
+    "cert_date": "3-4-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Nettilingam saying \"What is wrong with Athahsheis getting fat like a bed\".",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "description": "In reel No. 2, during Chitra's dance, delete the close-up trolley shot of the dancer's bust, against the words 'Look, Look', at the end of it's beginning 'Nadanangal Puriven'.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "description": "Reel No. 17. Before the car accident, delete the insert pictures of Mohan, in the driving boat, indicating premeditated intention to run over Manohar.",
+        "length_m": 4.9
+      },
+      {
+        "kind": "deletion",
+        "description": "Reel No. 18. Delete the flap given by Chitra to Kaved (sound only).",
+        "length_m": 5.8
+      }
+    ]
+  }
+]

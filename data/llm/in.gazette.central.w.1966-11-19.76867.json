@@ -1,0 +1,529 @@
+[
+  {
+    "film_title": "Grey Afternoon",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Jagat Murari, Principal, Film Institute of India, Poona-4",
+    "cert_no": "B /47119",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the close shot showing the picture of a woman's busts",
+        "length_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "The Loved One",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer (I) Ltd., Metro House, M.G. Road, Bombay-1",
+    "cert_no": "B45778",
+    "endorsement": "A",
+    "original_length_m": 3299.16,
+    "length_deleted_m": 71.57,
+    "final_length_m": 3227.59,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IV (2B)",
+        "description": "The shot of Dennis planting a kiss on the breast of a nude statue and his wincing",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI (3B)",
+        "description": "The shot of the Minister lighting his cigarette on candles in chapel",
+        "length_m": 0.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4B)",
+        "description": "The indecorous view of the bosom of a hostess",
+        "length_m": 4.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII (4B)",
+        "description": "All references to Gandhi, while referring to the Mynah bird",
+        "length_m": 13.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII (4B)",
+        "description": "Reduce, consistent with continuity, the sequence of Mrs. Joyboy eating a pig",
+        "length_m": 1.27,
+        "length_retained_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX (5A)",
+        "description": "References to Gandhi",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI (6A)",
+        "description": "All indecorous views of Savie and her view with her legs planted on Dennis shoulders",
+        "length_m": 26.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII (6B)",
+        "description": "Reduce drastically the sequence in which Glenworthy makes advances to Aimee, including the shots of animated statues making love. (Consistent with continuity leaving just enough to show why Aimee runs away from him in despair.)",
+        "length_m": 6.01,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Chalo Hain Sasural",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "U-Cort. No. 48107 , dt. 28 -6 -66.",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "length_deleted_m": 6.1,
+    "final_length_m": 3808.17,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "New credit titles in replacement of the original titles"
+      }
+    ]
+  },
+  {
+    "film_title": "Sangeetha Lakshmi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Seetarmanjaneya Pictures, 6-A, H.D. Raja St., Madras-18",
+    "cert_no": "46781-U",
+    "endorsement": "U",
+    "original_length_m": 5181.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Venu lifting down Radha on the line Jalapatala",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Kantham's sentence 'asalu vallakante meetondare okkuvaga vunde'",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Venu's dialogue 'Siggu ela toligedi, mogga ela virisedi telusule'",
+        "length_m": 3.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "Song 4",
+        "description": "Reduce the close-shot of Venu's mouth approaching Radha's in a kissing overture",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 4",
+        "description": "Venu pulling Radha over him",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Song 4",
+        "description": "Modify the shot where there is an appearance of Venu touching Radha's bust, while they are in the rain"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Song 4",
+        "description": "Venu hugging Radha near the pillar",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Venu lying over Radha on bed",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Anand's dialogue 'Enta Chakkani Adadaina edo oka lanchaniki chikki potundi'",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "In the bed-room dance, delete the picture of a male dancer holding a female dancer in a horizontal position",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete close view of Nalini's bust jerking",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the shot of the back of a woman on the line 'Vallu danchu koru ra'",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Delete the portion of the shot where Nalini is bent on the table with her busts upwards",
+        "length_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Enga Pappa",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Padmini Pictures, Madras-4",
+    "cert_no": "46785-U",
+    "endorsement": "U",
+    "original_length_m": 3993.48,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Song 2 - Delete the word Maarbini in the last line of the first verse",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song 3 - Delete the word Vathiyar in the first line of the fourth verse",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Song 4 - Delete the word Tharuvendam in the Third line of the fifth verse",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Panchaksharam giving the address as No. 111, Namakkaran Theruvu, Narayanapuram, and wherever it occurs",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the close-up of Shankar and Kalpana, where her bust is in close up",
+        "length_m": 5.17
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "Reduce the scene where the dog is shown dead",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Devamanava",
+    "languages": [
+      "Kannada"
+    ],
+    "producer": "Dhanalakshmi Films, Madras-8",
+    "cert_no": "46789-U",
+    "endorsement": "U",
+    "original_length_m": 3926.74,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete entirely the actual cockfight including the picture of the defeated cock lying on ground",
+        "length_m": 31.69
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Song 3 - Delete the shot of Radha in bathing suit standing on the steps at the water front. Delete Raja holding Radha close to him in water, Delete Raja's dialogue that he gave the money to principal and that without it he would not get his certificate",
+        "length_m": 3.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Song 4 - Delete Raja kissing Radha in cheek to cheek posture. When Radha is lying on bed, delete her soliciting for somebody on the other half of the bed",
+        "length_m": 5.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the words Black Market from the dialogue of Raja. Delete Radha's sentence 'Hekadavaru bartore, bedavaru hogtare'. Delete the shot of Radha lying on floor after murder with bust exposure without upper garment",
+        "length_m": 7.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the words Dharma and Nyaya from the soliloquy of Raja before his leaving for committing the crime",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Raja's sentence to Gowri that he was there in the place of her husband",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "In the bar dance, delete front views in close-up of the dancer with low neckline. Delete Raja's following dialogues: 'Idu abhava tripti'; 'Gutnalladaru nanna samparka madu'",
+        "length_m": 11.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "Reduce considerably Raja molesting Gowri, leaving only a suggestion. Delete the following dialogues of Raja: 'Nannu Yavagalu ondu henni najnale drishti iduvanalla, itro aa hennana biduvannalla.' 'Namma bhagawanta anta bliavisko'. 'Folidol laki bidu'. 'Mundo beedhi nayagowlu needu'. 'Swarga sukhamu anubhavisa beku.'",
+        "length_m": 46.32
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 15",
+        "description": "Reduce to a bare minimum Raja and Gowri struggling for revolver on the staircase, deleting especially their close proximity views. Delete the following dialogues of Raja: 'Nanu obhara mashulmadoyaduku hinjariyonalla'; 'Namma madhya mullagidda aa piudi karadi ondu kuda samagwatawagi tolegho yitu'; 'Anantara oshtu strce zora manabhanga madathiyo'; 'Bhoga duttagi kolçyali.'",
+        "length_m": 8.91
+      }
+    ]
+  },
+  {
+    "film_title": "Chemmecn",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "34/617",
+    "endorsement": "A",
+    "original_length_m": 3729.52,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Voluntary deletion",
+        "length_m": 735.77
+      }
+    ]
+  },
+  {
+    "film_title": "My Secret Vice",
+    "languages": [
+      "English"
+    ],
+    "producer": "Dolphin Productions, U.S.A.",
+    "cert_no": "B /47099",
+    "endorsement": "U",
+    "original_length_m": 210.45,
+    "final_length_m": 218.73,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The mid shot of Doris Day kissing Rod Taylor in bed",
+        "length_m": 0.72
+      }
+    ]
+  },
+  {
+    "film_title": "Adios Gringo",
+    "languages": [
+      "English"
+    ],
+    "producer": "George Finley, Italy",
+    "cert_no": "B /46962",
+    "endorsement": "U",
+    "original_length_m": 104.55,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot a man falling from the cliff",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Adios Gringo",
+    "languages": [
+      "English"
+    ],
+    "producer": "George Finley, Italy",
+    "cert_no": "B /46961",
+    "endorsement": "U",
+    "original_length_m": 2741.67,
+    "length_deleted_m": 8.52,
+    "final_length_m": 2733.15,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "The indecorous shots of Lucy when Brent approaches her to remove her knots",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V & IX",
+        "description": "All brutal and vicious blows and kicks on the face and stomach from the fight scenes",
+        "length_m": 7.31
+      }
+    ]
+  },
+  {
+    "film_title": "Vidyarthy",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "S. N. Srivastava, Bombay",
+    "cert_no": "B /47302",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II & VI",
+        "description": "Sajjan wearing Gandhicap during his scello with the boy, Jeevan & elsewhere",
+        "length_m": 32.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The line Mahak kar gulen ko masalke na choro from the song ‘Nazaron se mjlake nazar chaar karlo...’ as sung by the dancer",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels III & IX",
+        "description": "The near views of the picture old female appearing to be in the oudo at Goota's place",
+        "length_m": 26.83
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels III & IX",
+        "description": "Replaced with blown up shots"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The line 'You can extinguish this ever burning fire' from the song 'From the core of my heart.......' sung by Shanti at the picnic",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The view of Mao Tso Tung during the song 'Suno sungato aaj tumhen,...' against the line Sabhi deshon no khule hriday se baat Jawahar ki maani",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replaced with approved shot"
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Manoranjan's words 'Aulad bhi ganji paida hogi' as spoken by him while admonishing Jeevan against meeting former's sister",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels X & XI",
+        "description": "The hospital scene as re-edited is approved"
+      }
+    ]
+  },
+  {
+    "film_title": "Tasveer",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Wadia Movietone, 136, Chamurbagh Rd, Parel, Bombay-12",
+    "cert_no": "B /46647",
+    "endorsement": "U",
+    "rule_applied": "Rule 34",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The sound of the flying kiss given by Shyam when bidding farewell to Alaka",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "In the picturisation of the romantic song sung by Piloo while dancing before an old statue the impression that it is an idol of a Goddess",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "The sound of kissing when Prittibala presses her lips on the head of the comedian, her would-be son-in-law",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "From the picturisation of the song 'Mere sulagate hiyc Jilko.......' indecorous front movements of Alaka in the beginning of the dance, as also shots of Alaka and Shyam embracing each other on the steps suggestive of a kiss",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels II to V, VII, XV & XVII",
+        "description": "Overall length of the film by trimmings various scenes",
+        "length_m": 79.25
+      }
+    ]
+  },
+  {
+    "film_title": "Genghis Khan",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of (I) Ltd. Metro House M.G. Rd. Bombay-1",
+    "cert_no": "B /46590",
+    "endorsement": "A",
+    "original_length_m": 3443.33,
+    "length_deleted_m": 14.94,
+    "final_length_m": 3428.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of Chinese girls in the bath in which their bare busts and thighs are prominently visible and back view of a naked girl being pulled down by one of the Mongols as she tries to get out of the bath",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Shots of Jurnung? entering the bed in the nude before he sees the scar on Borte's back",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "The rape scene, deleting prominent views of Borte's bare thighs, bust and side during the struggle when her dress gets torn and shots of Jamunga holding her down towards the end",
+        "length_m": 3.05,
+        "length_retained_m": 11.89
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "The scene of the duel between Jamungil and Tejujin deleting shots towards the end in which their bleeding wounds are prominently seen",
+        "length_m": 7.32,
+        "length_retained_m": 88.39
+      }
+    ]
+  }
+]

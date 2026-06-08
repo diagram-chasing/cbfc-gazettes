@@ -1,0 +1,282 @@
+[
+  {
+    "film_title": "पवित्र गंगा",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1544",
+    "cert_date": "30-1-84",
+    "endorsement": "U",
+    "original_length_m": 3699.16,
+    "length_deleted_m": 5.71,
+    "final_length_m": 3699.16,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel - 2",
+        "description": "Delete visuals of Deva and Majjari rolling over each other during the song Hum bhi Tere Diwane.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words Tan Se Tanko Ragadke from the song Tu aur mai milke.",
+        "length_m": 3.07
+      }
+    ]
+  },
+  {
+    "film_title": "हम भी तेरे दीवाने",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1544",
+    "cert_date": "30-1-84",
+    "endorsement": "U",
+    "original_length_m": 3699.16,
+    "length_deleted_m": 5.71,
+    "final_length_m": 3699.16,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel - 2",
+        "description": "Delete visuals of Deva and Majjari rolling over each other during the song Hum bhi Tere Diwane.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the words Tan Se Tanko Ragadke from the song Tu aur mai milke.",
+        "length_m": 3.07
+      }
+    ]
+  },
+  {
+    "film_title": "हम बच्चे हिंदुस्तान के",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1545",
+    "cert_date": "30-1-84",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "अपेक्षा",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1546",
+    "cert_date": "31-1-84",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the following words spoken by Jaggu: '...Aaj bhi Vahaguru karo'.",
+        "length_m": 0.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the dialogue of Khayal. 'E sare pin de purohi' and then in the next dialogue delete Jiyan sare piad.",
+        "length_m": 3.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce by 30% molestation of Kamma by the villager.",
+        "length_m": 8.53,
+        "length_retained_m": 20.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the following sentence spoken by Dharamu: 'Kanoon de sahare O lane jina shakti nahia londi'.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the following sentence spoken by Meher Mittal: '...Main tainoo chuecaoon phidaa'.",
+        "length_m": 1.55
+      }
+    ]
+  },
+  {
+    "film_title": "मानवान थाडियन चाहवन",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "1547",
+    "cert_date": "2-2-84",
+    "endorsement": "U",
+    "original_length_m": 4334.67,
+    "length_deleted_m": 16.43,
+    "final_length_m": 4334.67,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete the dialogue of Rauaak and his friend about 'Aurat kya chiz hoti hai?'.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the words 'Chal Yeh Bhi Koi Tajurba hota hai Shikar Pe Jaa patale here nays dost tajurba hasil Karne Aye Hain'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Reduce by 30% molestation of Mamta by Shanker.",
+        "length_m": 8.53,
+        "length_retained_m": 20.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the following sentence spoken by Dharamu: 'Kanoon de sahare O lane jina shakti nahia londi'.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the following sentence spoken by Meher Mittal: '...Main tainoo chuecaoon phidaa'.",
+        "length_m": 1.55
+      }
+    ]
+  },
+  {
+    "film_title": "कुंवारी बहू",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1548",
+    "cert_date": "2-2-84",
+    "endorsement": "U",
+    "original_length_m": 3968.42,
+    "length_deleted_m": 14.02,
+    "final_length_m": 3868.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete conversation between Rauaak and his friend about 'Aurat kya chiz hoti hai?'.",
+        "length_m": 10.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the words 'Chal Yeh Bhi Koi Tajurba hota hai Shikar Pe Jaa patale here nays dost tajurba hasil Karne Aye Hain'.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Reduce by 30% molestation of Mamta by Shanker.",
+        "length_m": 8.53,
+        "length_retained_m": 20.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the following sentence spoken by Dharamu: 'Kanoon de sahare O lane jina shakti nahia londi'.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the following sentence spoken by Meher Mittal: '...Main tainoo chuecaoon phidaa'.",
+        "length_m": 1.55
+      }
+    ]
+  },
+  {
+    "film_title": "भूल",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "1549",
+    "cert_date": "2-2-84",
+    "endorsement": "U",
+    "original_length_m": 2812.39,
+    "length_deleted_m": 33.53,
+    "final_length_m": 2812.39,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the shot from where Kamla starts removing her clothes to the point she is shown wearing her dressing gown.",
+        "length_m": 33.53
+      }
+    ]
+  },
+  {
+    "film_title": "जख्मी बाघिन",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "058",
+    "cert_date": "30-1-84",
+    "endorsement": "A",
+    "original_length_m": 4389.77,
+    "length_deleted_m": 1.83,
+    "final_length_m": 4389.77,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete Me tila angakhali & par chola mola karnar.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "तरंग",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "059",
+    "cert_date": "30-1-84",
+    "endorsement": "A",
+    "original_length_m": 4672.0,
+    "length_deleted_m": 0.0,
+    "final_length_m": 4672.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Delete the abusive word 'Madarchod' addressed by Janki to Rahul (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "महानंदा",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "060",
+    "cert_date": "2-2-84",
+    "endorsement": "A",
+    "original_length_m": 3572.69,
+    "length_deleted_m": 3.94,
+    "final_length_m": 3572.69,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete the following sentences read out by the Post Master from the letter 'Tuj.:: \\1::hina Ruhi Aahe Kalay'.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the word 'Mayzavo' from the dialogue.",
+        "length_m": 0.43
+      }
+    ]
+  }
+]

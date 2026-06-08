@@ -1,0 +1,983 @@
+[
+  {
+    "film_title": "\"Kiklo.\"",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Shobha Pictures, Annees Chambers, Carnac Road, Bombay-1.",
+    "cert_no": "42254",
+    "cert_date": "12-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the underlined words of the song - line \"Bidi bandh dhuggi dand.......ho gayo pagal khane bandh.\"",
+        "length_m": 88.39
+      }
+    ]
+  },
+  {
+    "film_title": "\"Door Ki Awaz\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Goel Cine Corporation, 258 Famous Cine Bldg., Mahalaxmi, Bombay-11.",
+    "cert_no": "42255",
+    "cert_date": "12-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "From Moti's dialogue addressed to the nurse referring to his finances, delete the underlined words \"Zara taiyyar hai\".",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "From Dhanpatrai's dialogue addressed to his son, Moti, delete the underlined words \"Government ko baap ka kya jata hai\".",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. V",
+        "description": "From the magic act of Gogla Pasha, delete close-ups of the heart supposed to have been taken out of Kailash's body and replace with approved shot of audience.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VI",
+        "description": "From the dialogue of Moti (converted as a woman by the magician) addressed to his father, delete the underlined words: \"Meri ragon men aap ka dudh hai, aap ka khun hai.\"",
+        "length_m": 0.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel No. X",
+        "description": "From Dhanpatrai's dialogue addressed to Moti, delete the words \"Tujhe to chuhe ka baccha bhi nahin huwa,\" referring to Moti not having a child, and replace with approved words \"Tero yahan mitti ka bachcha bhi nahin hai.\"",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XV",
+        "description": "Delete the remark of Champabai addressed to Prakash referring to Bela: \"Yeh kisi ek ki nahin saaro bazaar ki bahu hai\" along with picturisation.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. II",
+        "description": "Reduce shot of Kailash threatening to throttle Bela in the train compartments.",
+        "length_m": 13,
+        "length_retained_m": 36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XIV",
+        "description": "Reduce the scene in which Bela tells Raja that he is not her son and he is seen crying for her.",
+        "length_m": 3.09,
+        "length_retained_m": 3.36
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XV",
+        "description": "Considerably reduce the scenes of fire, particularly close views and shots of Raja crying for his mother.",
+        "length_m": 34.14,
+        "length_retained_m": 98.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. IV",
+        "description": "Delete shots showing Jyoti sitting on ground under a tree and looking for Prakash, and Prakash searching something on the ground.",
+        "length_m": 13.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XV",
+        "description": "Delete shots of Champabai addressing Prakash's mother \"Kahanse aayi ho. Kaun ho tum.\" and full shots of Prakash's mother saying \"Main iski saag hoon, ye meri bahu hai.\"",
+        "length_m": 3.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "From the song beginning with the words \"Toot gayaa mere man\"",
+        "description": "Delete one antra beginning with the line \"Haayero uski majboori jo\" and ending with \"Duniya mile aur kho jayo\" with picturisation.",
+        "length_m": 32.31
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. IV",
+        "description": "Add shots of Jyoti and Prakash.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel No. XV",
+        "description": "Add shots of Tapalia, Naika, and Bela and audience, including the shot in which Naika asks Bela to sing a song.",
+        "length_m": 13.41
+      }
+    ]
+  },
+  {
+    "film_title": "\"Haqdaar\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Shri Ganesh Chitra, 2/6, Naaz Bldg., Lamington Road, Bombay-4.",
+    "cert_no": "42256",
+    "cert_date": "13-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, VI, XI to XIV",
+        "description": "Delete all shots of direct thrusts of swords, daggers and spears in the fighting scenes.",
+        "length_m": 22.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce shots of durjansingh repeatedly thrusting sword in the back of Mansingh.",
+        "length_m": 1.13
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Ziddi\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Pramod Chakrabarty, C/o Kardar Studios, Parel, Bombay.",
+    "cert_no": "42257",
+    "cert_date": "14-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of Asha swinging her legs while being carried over the shoulder by Ashok and of him throwing her down on the bed.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete near front view of Asha in jeans dancing indecorously.",
+        "length_m": 5.18
+      }
+    ]
+  },
+  {
+    "film_title": "\"Vaishakh Vanvah\"",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "H. P. Billmorla, 393, Lamington Road, Bombay-4.",
+    "cert_no": "42261",
+    "cert_date": "14-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete the sentence spoken by Mohan to Sanjivani \"doghaaina paazava laagte.\"",
+        "length_m": 0.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete the word aata spoken by Mohan after he puts off the light.",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the visuals of Niru stroking her stomach on the words \"Gooj jhankun thovin poti\".",
+        "length_m": 0.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the word \"Karan\" from the song \"jhali bahaal marji....\".",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete all references establishing that the doctor was prepared to carry out an illegal abortion.",
+        "length_m": 16.16
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the underlined word from the sentence spoken by Anna to Bhau \"Hina sukh dila naahi.\"",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX and X",
+        "description": "Delete all references to Goa.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX and X",
+        "description": "Delete the sentence \"tya kaamaacha, ya kaamaashikaahi sambandh naahl\" said by Shanbhagh to Mohan.",
+        "length_m": 22.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the underlined word spoken by Shanbhag to Mohan \"Eka veli doghina phasavulat\".",
+        "length_m": 1.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete the underlined word from Bholas speech \"Hey shindalkich poar\".",
+        "length_m": 22.58
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ek Don Tecn\"",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Ashok Tate, 23-A, Anandnagar, Bombay-26.",
+    "cert_no": "42263",
+    "cert_date": "14-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel (All)",
+        "description": "Delete all sequences which would make the police force look ridiculous i.e. the police officer arresting people without warrant, police commissioner appointing inspectors in an offhand manner, a police officer screaming, being afraid and acting comically.",
+        "length_m": 7.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels I, V, VIII and X",
+        "description": "Delete all references to Goa and also such visuals which show that the story has taken place in Goa (e.g. shots of Doana Paula, statue of Albuquerque and shot of fort Aguad, Bam Jesus, etc.).",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the shot of Baby biting Johnny's finger.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete the sentence said by shree to Suman: \"Me nusta khade taakun pabat hoto\". Also delete near view of Anita in bathing costume.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete views of close proximity between Rosie and Boss.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete Rosie praying to Jesus asking forgiveness for the crime which she has committed and she is about to commit.",
+        "length_m": 19.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Delete the line \"Swartha ha ekacha nyaay jagaacha\" from the song beginning with the words \"Naahi yethen kuni Kunacha.......\"."
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Andhi Aur Toofan\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kamran Films (Pvt.) Ltd., 139, Famous Cine Bldg., Mahalaxmi, Bombay-11.",
+    "cert_no": "42265",
+    "cert_date": "14-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of abduction of Mala by the gundas.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Black Zoo\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Rank Film Distributors of India, Dhan Nur Bldg., Sir P. M. Road, Bombay-1.",
+    "cert_no": "42267",
+    "cert_date": "14-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the mauling of woman by a tiger. Also delete the caption \"See a man devoured by a killer beast\".",
+        "length_m": 5.5
+      }
+    ]
+  },
+  {
+    "film_title": "\"Bullet For A Badman\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Universal Pictures India Private Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "42268",
+    "cert_date": "14-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 6 (5B)",
+        "description": "Delete the underlined words from lottie's talk to Jeff: \"No, no, no I Not now I'll come to you\".",
+        "length_m": 4.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7 (4A)",
+        "description": "Delete direct thrust by Tomahawk, knives, spears etc. from the fighting scenes.",
+        "length_m": 4.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II (13)",
+        "description": "Reduce the tussle between Sam and Susan.",
+        "length_m": 6.1,
+        "length_retained_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV (2B)",
+        "description": "Reduce passionate kissing between Sam and Lottie.",
+        "length_m": 2.43,
+        "length_retained_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "\"Love With The Proper Stranger\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd., Haguo Bldg., Sportt Road, Bombay-1.",
+    "cert_no": "1501",
+    "cert_date": "13-8-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IB",
+        "description": "Delete the view of Barbie and Rocky on bed while Rocky is caressing her legs and thighs.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IIA",
+        "description": "Delete the underlined sentence from Mama's talk to Dominick \"....... And we'll close the door. On the coach I would not trust him five minutes but in the kitchen what can happen?\"",
+        "length_m": 1.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IVA",
+        "description": "Delete close shot of Angie in her slip at window just before Rocky gets into the room.",
+        "length_m": 0.81
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IVB",
+        "description": "Reduce close-up of Angie in the bathroom.",
+        "length_m": 1.85,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIA",
+        "description": "Reduce passionate kissing between Angie and Rocky.",
+        "length_m": 9.3,
+        "length_retained_m": 8.5
+      }
+    ]
+  },
+  {
+    "film_title": "\"Natun Tirtha\"",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Production Syndicate (P) Ltd., 56, Dharamtala Street, Calcutta-13.",
+    "cert_no": "39563",
+    "cert_date": "11-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete Bose Ginni saying to the Rickshwala, 'Bidesh Thoko Bangla Deshe Ełchhish Rojgar Karto'.",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "\"Doop Novo Nai\"",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Shyamlal Jalan, 183/1, Dharamtala Street, Calcutta-13.",
+    "cert_no": "39509",
+    "cert_date": "15-6-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The correct length of the film, after deleting the objectionable portions, is 4160 metres and not 3956.9178 metres as declared by the applicant and shown on the obverse of the certificate."
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Fall of Rome\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Totalscope",
+    "producer": "Noronha Private Ltd., Liberty Bldg., 41-42, Marine Lines, Bombay-1.",
+    "cert_no": "42272",
+    "cert_date": "19-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete shot of a man being dragged across the ground.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete shots of Mathews being hit by arrows in the arena.",
+        "length_m": 0.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the view of the bare bust of Junius mistress.",
+        "length_m": 2.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the direct thrust with a spear by a Roman soldier to a Christian.",
+        "length_m": 0.55
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Fall of Rome\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Totalscope",
+    "producer": "Noronha Private Ltd., Liberty Bldg., 41-42, Marine Lines, Bombay-1.",
+    "cert_no": "42273",
+    "cert_date": "19-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, IV, VII, VIII & IX",
+        "description": "Delete all direct thrusts by knives, arrows, spears, swords, tridents etc. from the fighting and arena scenes.",
+        "length_m": 9.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete the near views of bare thighs of the Barbarian dancing girls.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Delete the view of the bare bust of Junius mistress.",
+        "length_m": 12.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Reduce the shot of man being dragged across the ground.",
+        "length_m": 2.14,
+        "length_retained_m": 1.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the garroting of Marcus by the gladiator.",
+        "length_m": 1.2,
+        "length_retained_m": 0.8
+      }
+    ]
+  },
+  {
+    "film_title": "\"Metro News Vol: 434\"",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali"
+    ],
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, MG. Road, Bombay-1.",
+    "cert_no": "42274",
+    "cert_date": "20-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the underlined words from Mr. Stevenson's speech: \"We are in Southeast Asia to help our friends preserve their own opportunity to be free of imported terror of alien assassination managed by the North Vietnam Communists based in Hanoi and backed by the Chinese Communists from Peking\".",
+        "length_m": 2.08
+      }
+    ]
+  },
+  {
+    "film_title": "Announcement Trailer of \"The Night of The Iguana\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro-Goldwyn-Mayer India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "42275",
+    "cert_date": "20-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of Maxine being embraced and kissed by the Mexican beach boys in the water.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"The Night of the Iguana\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "42276",
+    "cert_date": "20-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of Maxine being embraced and kissed by the Mexican beach boys in the water.",
+        "length_m": 11.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of Charlotte and Shannon in bed.",
+        "length_m": 1.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete all near-views of Charlotte dancing indecorously.",
+        "length_m": 1.62
+      }
+    ]
+  },
+  {
+    "film_title": "\"Sati Savitri\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "B. R. Pachisia, 1, Meno Mahal, Linking Rd., Santacruz (West) Bombay-54.",
+    "cert_no": "42277",
+    "cert_date": "20-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete entirely the sequence pertaining to Savitri being blinded along with the picturisation of the song \"Tum zulm karo, anyay karo.......\"."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Delete the shots of Satyavan turning Savitri out of the Ashram, along with their relevant dialogue, after being forced by the villagers to do so.",
+        "length_m": 22.86
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Sati Savitri\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "B. R. Pachisia, Magoti Mahal, Linking Rd., Santacruz (West), Bombay-54.",
+    "cert_no": "42278",
+    "cert_date": "21-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete dialogue of Chandisen \"Phor do iski aankhen\" ordering the blinding of Satyavan.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of Savitri groping about the hut on fire after being blind.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"Kiklee\"",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Shobha Pictures, Ances Chambers, Carnac Rd., Bombay-1.",
+    "cert_no": "42279",
+    "cert_date": "21-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete reference in the sentence pronounced by the judge on Makkhan, Pundit and the barber, to their being sent to the lunatic asylum as a punishment for contempt of court. Also establish in the subsequent scene that the above persons are actually detained in prison and not in the lunatic asylum as mentioned in the song \"Bidi bandh dhuggi dand.......ho gayo pagal khano bandh.,.,.\"",
+        "length_m": 13.73
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replace the distorted recitation of shlokas during the marriage ceremony of Raju and Billo with background music of shehnai."
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Considerably reduce the scene of Lakhan and his gang drinking in their den.",
+        "length_m": 4.27,
+        "length_retained_m": 32.31
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the scene of Billo being chased by Lakhan and his men.",
+        "length_m": 9.46,
+        "length_retained_m": 88.69
+      }
+    ]
+  },
+  {
+    "film_title": "\"Invasion of Normans\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. First National Pictures Inc., 42-Queens Rd., Bombay-1.",
+    "cert_no": "42280",
+    "cert_date": "21-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I, II, III & IX",
+        "description": "Delete all direct thrusts by knives, swords, axes, arrows etc. from the fighting scenes.",
+        "length_m": 7.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete shot of a man being dragged across the ground.",
+        "length_m": 1.4
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Reduce the view of the staring eyes of the dead man in the chair.",
+        "length_m": 1.57,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the view of Wilfred with the knife pierced in his heart and with blood on his lips.",
+        "length_m": 1.54,
+        "length_retained_m": 3.23
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Sarfarosh\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "United Movew Arts, Ranjit Studios, Dadar, Bombay-14 DD.",
+    "cert_no": "42281",
+    "cert_date": "21-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete near front views of the female dancer moving her body indecorously on the line \"Dupatta beiman ho gaya\".",
+        "length_m": 3.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Stage To Thunder Rock\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "producer": "Paramount Films of India Ltd., Haguo Bldg., Sprott Road, Bombay-1.",
+    "cert_no": "42283",
+    "cert_date": "22-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Part I-B (Reel 2)",
+        "description": "Delete the following sentence of Leah addressed to the mayor's friend as she is getting into the stage-coach: \"I am far too expensive\".",
+        "length_m": 0.96
+      }
+    ]
+  },
+  {
+    "film_title": "\"Divorce Italian Style\"",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "1502",
+    "cert_date": "18-8-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the scene of woman bringing bowl of water to examine Angela.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels II & V",
+        "description": "Reduce to the minimum the scenes in which Angela and her husband are lying in bed as also the shots in which Reel III - To minimum the suggestive shots of her sister and her lover in the bushes.",
+        "length_m": 3.04,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Reduce to minimum shots of Ferdinando passionately kissing Angela in the garden.",
+        "length_m": 7.62,
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Reduce the shots of Angela in bikinis.",
+        "length_m": 7.62,
+        "length_retained_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "\"Black Zoo\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Rank Film Distributors, Dhan-Nur Bldg., Sir P. M. Road, Bombay-1.",
+    "cert_no": "1503",
+    "cert_date": "21-8-1964",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels I, III, V, VII & IX",
+        "description": "Considerably reduce the mauling of human beings by animals and the screams of the victims.",
+        "length_m": 20.0,
+        "length_retained_m": 4.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce the view of garrotting by chain from the fight between Michael and Carl.",
+        "length_m": 1.7,
+        "length_retained_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "\"Exercise & Health\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "National Education & Information films Ltd., National House, Apollo Bunder, Bombay-1.",
+    "cert_no": "24168",
+    "cert_date": "23-4-58",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce shots showing exercises.",
+        "length_m": 48.15
+      }
+    ]
+  },
+  {
+    "film_title": "\"Sharabi\"",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jagdish Gupta, 119-Main Rd., Dadar, Bombay-14.",
+    "cert_no": "40540",
+    "cert_date": "23-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Various shots from Reels Nos. I, VI, VII, XI to XIV",
+        "description": "Delete various shots.",
+        "length_m": 309.68
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIII",
+        "description": "Add shots of minors.",
+        "length_m": 4.53
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Add shots of Keshav and mother and of Kamala.",
+        "length_m": 14.32
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Replace silent insertions of Kamala with approved shots, and shots of Keshav and Kamala superimposed in the song \"Mujhe Lo Chalo \"."
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels IX, X and XII",
+        "description": "Rearrange various shots by shifting."
+      }
+    ]
+  },
+  {
+    "film_title": "\"What Every Dancer Knows\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "S. H. Benson (India) Ltd. Steelcret House, Dinsha Vachha Road, Bombay-1.",
+    "cert_no": "40529",
+    "cert_date": "22-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Pack shot replaced with another approved pack shot.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Cracksman\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Warner Bros. First National Pictures Inc., 42-Queens Rd., Bombay-1.",
+    "cert_no": "42199",
+    "cert_date": "1-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "The reels of the film have been split into 12 (Twelve) instead of 7 (Seven) reels."
+      }
+    ]
+  },
+  {
+    "film_title": "\"Indian News Review No. 826\"",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil",
+      "Telugu",
+      "Bengali",
+      "Gujarati",
+      "Marathi",
+      "Kannada",
+      "Malayalam",
+      "Punjabi",
+      "Oriya",
+      "Assamese",
+      "Urdu"
+    ],
+    "producer": "Films Division, Govt. of India, 24-Peddar Road, Bombay-26.",
+    "cert_no": "42233",
+    "cert_date": "5-8-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete one item under \"News from Abroad - Nomination of Sen. Goldwater as the Republican Candidate for U.S. Presidency\".",
+        "length_m": 13.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Vazhi Piranthathu\"",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Arunachallam Pictures, 4, Arunachallam Road, Madras-24.",
+    "cert_no": "37976",
+    "cert_date": "21-1-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 11",
+        "description": "Voluntary deletion of 35.05 metres.",
+        "length_m": 35.05
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel 10",
+        "description": "Approved addition of one song.",
+        "length_m": 195.68
+      }
+    ]
+  }
+]

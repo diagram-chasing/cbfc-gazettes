@@ -1,0 +1,271 @@
+[
+  {
+    "film_title": "Trailer of \"Rahu Kotu\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Vasudha Arts, A . C . Market, Bombay .",
+    "cert_no": "87409",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the word \"Anti Social\" from the commentary and credit titles.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Replace deleted text with approved shot.",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Godfather\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Paramount Films of India Ltd.",
+    "cert_no": "4314",
+    "endorsement": "A",
+    "original_length_m": 4789.85,
+    "length_deleted_m": 30.55,
+    "final_length_m": 4759.3,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 2",
+        "description": "Reduce shots to bare minimum and cutting head of horse in the bed of Woltz.",
+        "length_m": 4.05,
+        "length_retained_m": 4.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 3",
+        "description": "Reduce the scene of the body-guard of Don Vito Corleone killed by strangulation.",
+        "length_m": 3.46,
+        "length_retained_m": 14.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete the second close up of Police Officer's forehead blood spurting out.",
+        "length_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 6",
+        "description": "Reduce considerable the beating of Culle by Sonny near a garbage bin and the broken water pipe.",
+        "length_m": 8.84,
+        "length_retained_m": 12.19
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Reduce shots of Apollonia with bare bosom making love with Michael.",
+        "length_m": 1.22,
+        "length_retained_m": 1.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Reduce the scene of Sonny being killed by Molia yung near a toll gue by deleting the close-up of bullets spurting on Sonny's body.",
+        "length_m": 1.3,
+        "length_retained_m": 7.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9",
+        "description": "Reduce massacre of Michael's rival gang by deleting close-ups shots of blood oozing out from the eye of a man on massage table and the shots of a couple in bed fired it repeatedly.",
+        "length_m": 1.22,
+        "length_retained_m": 9.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 7",
+        "description": "Reduce the beating of Connie by her husband with a belt.",
+        "length_m": 5.18,
+        "length_retained_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "\"Don\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "producer": "Sri Kanthi Enterprises",
+    "cert_no": "87174",
+    "endorsement": "U",
+    "final_length_m": 4558.58,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII, IX, XIV & XVI",
+        "description": "Deleted various shots.",
+        "length_m": 42.05
+      }
+    ]
+  },
+  {
+    "film_title": "\"Partner in India s Progress\" alias \"The Power Behind\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col.",
+    "cert_no": "79530",
+    "endorsement": "U",
+    "final_length_m": 661.22,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels I & III",
+        "description": "Deleted various shots.",
+        "length_m": 74.84
+      }
+    ]
+  },
+  {
+    "film_title": "\"Muhammad Mustaga\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Madeena Movies, Calicut.",
+    "cert_no": "80204",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the entire text of song 4 beginning with words “Pazhaya oru fiat Car anu along with the accompanying picturisation, showing a scantily clad girl.",
+        "length_m": 82.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete each member of the gang hitting Mohammed in the stomach (retaining only few shots of the Chief of the gang hitting him).",
+        "length_m": 7.81
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the entire text of song 5 beginning with words \"Swargamargam Thedi Alipagavan\" \"Kallu kund illa, thon gakullu kandilla\" along with the picturisation showing a scantily clad girl in the dance.",
+        "length_m": 76.2
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ilamai Conjaladu girathu\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "cert_no": "3379",
+    "endorsement": "A",
+    "final_length_m": 4043.85,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete shot of the hotel manager trying to remove Prabhu's underwear. The portion of the shot upto where the hotel manager extends his hand, can be retained.",
+        "length_m": 2.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 5",
+        "description": "Delete shot Prabhu and Padmani rolling on each other in the picturisation of the song. Replaced with Mid shot of Prabhu and Padmani turning.",
+        "length_m": 3.73
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 7",
+        "description": "Delete the entire picturisation of the village dance. Replaced with re-picturised dance approved with old lyrics.",
+        "length_m": 71.93
+      }
+    ]
+  },
+  {
+    "film_title": "\"Nanna Prayaschitta\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "cert_no": "3380",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete close-ups of the dancer's busts in skin tight dress prominently shown superimposed on the titles.",
+        "length_m": 8.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete dancer standing in skin tight dress, suggestive of nudity while Rabi enters the drawingroom.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Delete shots of Asha standing with raised hand where camera is focussed on her busts, revealing the bare upper portions.",
+        "length_m": 15.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the following dialogues: Ramkumar Enga Thange aalihu Sunita: Innu ondu sala along with accompanying picturisation.",
+        "length_m": 2.85
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete Ramkumar and Sunita kissing hugging caressing and falling on each other on the seat in the running taxi (retaining only one shot of their caressing being observed by the Taxi driver and his reaction once only).",
+        "length_m": 10.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the Advocate's word Onti prayoga Junti Prayga.",
+        "length_m": 4.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "Delete the police standing still without taking any action while the judge inled by Rabi with revolver till the inspector arrived.",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Delete flash forward scene showing students of 21st century indulging in drinking, violence arson, strikes etc.",
+        "length_m": 12.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Delete the statue of Comateshar.",
+        "length_m": 1.31
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the gesture with finger by Ramkumar's wife with the words to the effect Only once.",
+        "length_m": 0.6844
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 12",
+        "description": "Reduce considerable the cabaret dance as imagined by Asha while seeing a poster outside the theatre deleting all indecent shots of the dancer.",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

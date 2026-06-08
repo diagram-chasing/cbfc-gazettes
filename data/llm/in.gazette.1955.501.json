@@ -1,0 +1,651 @@
+[
+  {
+    "film_title": "Jasoos",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Firdaus Films, 137, Famous Cine Bldg., Bombay 11",
+    "cert_no": "13001",
+    "cert_date": "5-9-1955",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Policeman gambling in hotel",
+        "length_m": 30.1752
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Hanu marking playing cards to cheat the gangsters",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Kailash's escape after being surrounded by policemen and further incidents relating to him, such as his going in the lorry, fighting with Kumar in the lorry etc. (for Kailash, the part should end after he was captured by the police at the hospital)",
+        "length_m": 64.008
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The name 'Nana vati Hospital'",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Kicking of a policeman",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Fight exterior theatre",
+        "length_m": 19.812
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Fighting in the hotel",
+        "length_m": 24.6888
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Assault on the tea seller",
+        "length_m": 27.432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Assault on Rama while his father is in sick bed",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Knife attack on Rama",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Assault at Freight Bunder",
+        "length_m": 12.192
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Fight between Kumar and Kailash after Asha repulsed",
+        "length_m": 42.672
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Sitara sleeping in Kumar’s house",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Assault on Rai Saheb",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Kailash’s overtures of marriage",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Fight between Kumar and his assailants in Asha’s house",
+        "length_m": 11.2776
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Kumar fighting with gangsters on bridge, in motor car etc.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Fight when Kumar wants to arrest Kailash",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Fight between Kumar, Hamid and others",
+        "length_m": 61.2648
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The scene showing train passing",
+        "length_m": 8.2296
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Kumar watching persons into ring hotel",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The scene of Sitara’s house on fire",
+        "length_m": 9.4488
+      }
+    ]
+  },
+  {
+    "film_title": "Ye re Mazya Magalya",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Shri Lakxhmi Chitra, Jai Hind Film Exchange, 110, New Charni Road, Bombay 4",
+    "cert_no": "13009",
+    "cert_date": "6-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "The reference to Maroo when the man who wants Bhawanrao to sponsor his stage-show, talks about two new girls who sing well",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "When the Diwan and the Sirdar come for the first time to Bhawanrao’s house, the references to Bajrang doing comments of the guests",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "References to Bajrang doing comments of the guests",
+        "length_m": 0.54864
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "The kicks given by the Prince to his man and Bhawanrao to mere suggestion, omitting the actual strikes",
+        "length_m": 3.9624,
+        "length_retained_m": 14.6304
+      }
+    ]
+  },
+  {
+    "film_title": "Taj Aur Talwar",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Satya Roy, 190, Trivedi Bldg., Block No. 14, Wadala, Bombay 31",
+    "cert_no": "13910",
+    "cert_date": "6-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "All views of the dancer with highly emphasized busts with a strip of dupatta pawning in-between and the two breasts prominently outlined on two sides; also her views when she twists her body sideways and one of the breasts pointedly outlined",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The remarks 'Main tumharo kareeb itna aa chuka hoon ki tumhon dokhikar bekabu ho jata hoon'",
+        "length_m": 17.3736
+      }
+    ]
+  },
+  {
+    "film_title": "Shree 420",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R. K. Films, Chembur, Bombay",
+    "cert_no": "13014",
+    "cert_date": "6-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Vidya taking out her choli and her being without a choli",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "The gambling scene in the hotel",
+        "length_m": 8.2296,
+        "length_retained_m": 206.3508
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "General trimming of scenes and sequences throughout the film",
+        "length_m": 245.364
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News 1369",
+    "languages": [
+      "English"
+    ],
+    "producer": "Movietone News Ltd., U.K.",
+    "cert_no": "13017",
+    "cert_date": "8-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The item 'MOROCCO— THE REBELS SURRENDER'",
+        "length_m": 26.8224
+      }
+    ]
+  },
+  {
+    "film_title": "5 Against The House",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation, U.K.",
+    "cert_no": "13929",
+    "cert_date": "9-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shots of the crashing of head in the brawl over a girl between Brick and another man",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The shot of the leg and thigh of Kay in her room when Al comes to see her",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "The shots of pretty girls on the walls in the students' room",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III, IV V",
+        "description": "The passionate hugging and cuddling between Al and Kay, deleting the middling sequence on the sofa",
+        "length_m": 161.5416,
+        "length_retained_m": 14.9352
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "To the barest minimum shots of kissing and cuddling between Al and Kay in the car on the way to Reno to commit the theft",
+        "length_m": 4.572,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of '5 Against The House'",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corporation, U.S.A.",
+    "cert_no": "13030",
+    "cert_date": "9-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The shot of the bare leg and thigh of Kay in her room when Al comes to see her",
+        "length_m": 3.6576
+      }
+    ]
+  },
+  {
+    "film_title": "Balm",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R.R. Films, 218, Famous Cine Buildings, Haines Road, Mahaluxmi, Bombay 11",
+    "cert_no": "13931",
+    "cert_date": "9-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "In the last dance of the lady with two lamps in her hands, the very prominent views of the dancer with highly outlined busts with a strip of cloth not properly covering her choli at the breasts passing in-between",
+        "length_m": 17.6784
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Considerably the scenes of gambling at the table especially reducing drastically the show of pool of coins and notes and cards on the table and the shots of winners throwing wins in the pool",
+        "length_m": 3.3528,
+        "length_retained_m": 10.668
+      }
+    ]
+  },
+  {
+    "film_title": "Bap He Baap",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kardar Productions, Ltd., 30, Govt. Gate Road, Parol, Bombay 12",
+    "cert_no": "13944",
+    "cert_date": "13-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "A South Indian chewing food",
+        "length_m": 20.1168
+      }
+    ]
+  },
+  {
+    "film_title": "Variete",
+    "languages": [
+      "Color"
+    ],
+    "producer": "Morohna Ltd., CC33A, Marine Lines, Bombay 1",
+    "cert_no": "13046",
+    "cert_date": "13-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The entire song in Lallan sung by a girl on the stage",
+        "length_m": 135.636
+      }
+    ]
+  },
+  {
+    "film_title": "Nag Chhup Hing",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Toe H. Nolin Hoig Supplying Co., Mindvi, Bombay-3",
+    "cert_no": "13903",
+    "cert_date": "14-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Shot of Puja by a Shothji with all the paraphernalia in the traditional style when the sentence 'Shethji aaj bahot khunh ki puja kar raho hamko humne aaj nagmil gayen' is spoken, together with the scene. Similar shot with the lines of a Bhujang starting with the attention focussed on the metallic idol of 'Nag' a deity and then the camera slowly going upwards (together with pictures of the product placed on sides and in the background and mounting one on the other) with the scene ending in: 'Sub ko tern hi Sahara'. All shots of worship of nag an deity with the materialistic and cheap commercialisation of the deity with the product being worshipped which the man performs pooja in the traditional style",
+        "length_m": 6.096,
+        "length_retained_m": 6.096
+      }
+    ]
+  },
+  {
+    "film_title": "Run For Cover",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Ballard Estate, Bombay 1",
+    "cert_no": "11901",
+    "cert_date": "13-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce the first bank robbery to a mere suggestion, deleting all shots of the man standing at the writing desk except the first one to establish his identity as an associate together with all his shots when he sketches the plan of the bank-robbery regarding the position of safe, bank counters etc., merely retaining the shot of the man approaching the counter and the counter clerk looking at him; also, omitting all shots of his asking for change and clerk saying that he will have to bring more money etc., and reducing the actual blow to a mere suggestion",
+        "length_m": 13.4112,
+        "length_retained_m": 250.0416
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "In the second bank robbery, reduce the sequence of one of the gangsters keeping at bay the whole town crowd inside the church, omitting all his dialogues with the banker and latter’s replies, merely keeping his asking for the Sheriff, his recognizing him as an old jail-bird and the Sheriff asking the citizens to do as he bids",
+        "length_m": 37.7952,
+        "length_retained_m": 73.152
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume 338",
+    "languages": [
+      "English",
+      "Bengali"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Bombay",
+    "cert_no": "13905",
+    "cert_date": "15-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The following sentences from the item 'Hindu (Vienemony for On': 'The speaker of the Indian House of Commons Mr. Lyng making religious rites' and 'Several tons of butter, rice and incense will be poured into the fire in the hope that the Portuguese will give up their enclave on the Indian coast'",
+        "length_m": 9.7536
+      }
+    ]
+  },
+  {
+    "film_title": "Tis Mar Khan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kwatra Art Productions, 200, Famous Cine Buildings, Haines Road, Mahaluxmi, Bombay",
+    "cert_no": "13970",
+    "cert_date": "15-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "The view of the man dressed crudely in a woman’s garb, when his artificial busts under the blouse are prominently outlined without the saree properly covering her blouse",
+        "length_m": 0.3048,
+        "length_retained_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "Teen Bhai",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "D.P. Productions, 32, Gulalwadi, Bombay 4",
+    "cert_no": "13973",
+    "cert_date": "16-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VIII",
+        "description": "In Shibani's song at home in her native place before she is brought to Calcutta, delete one shot of hers with hands raised when her midriff is exposed together with her pointedly outlined bust when the saree does not properly cover her choli at the breasts",
+        "length_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XV",
+        "description": "After Suresh brings Ammonium and Vitamin B-Complex injection tubes from the chemist, omit the actual picturisation of re-sealing of the injection tube by the quack degree-less bogus doctor, who thus displays modus operandi of adulteration of contents of injections by harmful drugs. There is no objection to the quack bragging to Suresh that even the best doctor will not know the difference and that his wife will not survive the dose. The method of replacement of contents of Vitamins B Complex injections by Argentic should not be established in details in dialogue also",
+        "length_m": 4.572
+      }
+    ]
+  },
+  {
+    "film_title": "Riyasat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mahipatray Shah, 201-B, Khetwadi Main Road, Bombay 4",
+    "cert_no": "13974",
+    "cert_date": "16-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close-up of Manasingh with multi-pointed weapon",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Riyasat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mahipatray Shah, 201-B, Khetwadi Main Road, Bombay 4",
+    "cert_no": "13076",
+    "cert_date": "17-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel I",
+        "description": "Prominent views of the dancers with emphasised busts under thin transparent coverings (on shining satin cholis) tucked from the neckline and falling on two sides and with bust points outlined in profile or in front views",
+        "length_m": 2.7432,
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II, VI, IX and X",
+        "description": "All prominent views of Amber and Rajkumari with emphasised busts heavily outlined thro' the thin transparent white odhni or saree on her back or coloured blouse with camera focussed on the chest in the case of Amber and without the saree properly covering her one bust (in the case of Rajkumari) which is thus prominently outlined",
+        "length_m": 8.2296,
+        "length_retained_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The sentence of the Rajkumari 'Mam tapaka hamn, tapt l j j gaya luii'",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The prominent views of the bare bloated stomach of fat man with bulges (round) with the bees singing thereon",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Whilst learning fencing and sword fighting from Dilip, the shot of Rajkumari falling in the arms of Dilip with her views of busts being very prominent",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "After Amber refused to sing and dance when Rajkumari gives her the first slashings, all subsequent sadistio strokes of whipping of Amber by Rajkumari to which Dilip is a silent witness, during the forced song and dance of Amber",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIII",
+        "description": "When Rajkumari is escaping after capture by Dilip and Chaitising (along with Kumar and Ida friend) her killing of the various guards omitting particularly her hastly thrusts in the belly, stomach, buttock and/or back of the guards",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "The last fight between Dilip and Manasingh and particularly some of Mansingh’s thrusts and blows at Dilip with pointed or multi-pointed weapons omitting all close-ups of such points in case of multi-pointed ones which Dilip either parries or evades",
+        "length_m": 24.384,
+        "length_retained_m": 92.0592
+      }
+    ]
+  },
+  {
+    "film_title": "Theodora, Slave Empress",
+    "languages": [
+      "English"
+    ],
+    "producer": "Naronha Ltd., 33A, Maxine Lines, Bombay",
+    "cert_no": "384",
+    "cert_date": "15-9-55",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II, IV, V, VIII and IX",
+        "description": "All near views of Theodora, her sister and the court dancer where part of the flesh of their bosom and bare legs upto thigh are prominently visible",
+        "length_m": 192.024
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel F",
+        "description": "Areal putting his head on the breast of Theodora in the hut",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V, XI",
+        "description": "A shot of a man’s hand mauled by a leopard and blood trickling from it, also all except one very brief shot of red-hot iron, all sounds of pain, screams and shots of his face in close-up",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII and VIII",
+        "description": "Appearance of extremely scantily clad Black slave woman in the bath scene of Theodora, also Theodora raising her bare leg when she is taking bath",
+        "length_m": 28.3464
+      }
+    ]
+  },
+  {
+    "film_title": "Nimila Angka",
+    "languages": [
+      "Assamese"
+    ],
+    "producer": "Nilachal Chitrapith, C/o Kalyan Kumar Gupta 38, Golf Club Road, Tollygunge, Calcutta 33",
+    "cert_no": "12578",
+    "cert_date": "12-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "reel 3",
+        "description": "The scene showing the boy (Keshav) stealing money from his father's pocket",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "reel 4 and 5",
+        "description": "All the scenes after Mukul and his friend who brought some money leave to see the cinema (this part shows children who have run away from school enjoying themselves)",
+        "length_m": 20.7264
+      }
+    ]
+  },
+  {
+    "film_title": "Devi Malini",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "Sunrise Film Distributors Ltd., 87, Dharmtalla Street, Calcutta 13",
+    "cert_no": "12581",
+    "cert_date": "12-9-55",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "reel 2",
+        "description": "The flashback scene in which Malini embraces Sureshwar",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "replacement",
+        "reel": "reel 2",
+        "description": "Replacement of a shot showing Malini and Sureshwar standing in place of the shot of their embracing",
+        "length_m": 8.5344
+      }
+    ]
+  }
+]

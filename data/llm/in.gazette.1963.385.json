@@ -1,0 +1,293 @@
+[
+  {
+    "film_title": "Khedan De Din Char",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "30453",
+    "cert_date": "20-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "View of Pyara and Satto in close physical proximity in song",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Thumri's words",
+        "length_m": 1.143
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel XI",
+        "description": "Jatindar's words to Pyara",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Mr. Sardonicus",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "36482",
+    "cert_date": "21-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Scenes of Elenka",
+        "length_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of Sardonicus's father in the grave",
+        "length_retained_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "The Pattern",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "36483",
+    "cert_date": "21-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Word spoken with reference to adulteration of sugar (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Jai Bhadra Kali",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "30485",
+    "cert_date": "21-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels XI, XII and XIII",
+        "description": "All prominent views of the meeting of Bhadrakali with the husband emphasized in an objectionable manner",
+        "length_m": 19.2024
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel P",
+        "description": "The remark said by Kallojit to his wife",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "From the dialogue between Chandrakant and Alakmunda, references to enjoyment as husband and wife after marriage, effort of Chandrakanta trying to kiss Alakmunda",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The scene of the wife beating Kalloji and the nude comedy between them",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The scene in Kotmal dragging Himlra on the ground",
+        "length_m": 0.54864
+      }
+    ]
+  },
+  {
+    "film_title": "The Cabinet of Dr. Caligari",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30401",
+    "cert_date": "22-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "From the dialogue, 'How did you feel what did you think? Were you frightened, disgusted, disturbed? What did he say, what words did you want to know, Nine tell me now, All of you!'",
+        "length_m": 6.096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Mark screen scream in terror as also the subsequent weird sounds",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Shots of a man peeping through the window over Jane’s as also Jane’s words 'I was completely vulnerable in my bath'",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Jane’s dialogue, 'What are you feeling? Tell me now, Look at me! What does it look like, not to have any feelings?' Shots of Jane seen only in underwear",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Shots in which Caligari raises sand-clapped hand and strikes at Jane and she screams",
+        "length_m": 10.0584
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "To a flash shots in which David flogs Ruth",
+        "length_retained_m": 0.42672
+      }
+    ]
+  },
+  {
+    "film_title": "The Secret of The Portrait",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30495",
+    "cert_date": "25-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel",
+        "description": "Added and altered scenes created through the black magic of Kyorigami",
+        "length_m": 6.7056
+      }
+    ]
+  },
+  {
+    "film_title": "Mr. Sardonicus",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1280",
+    "cert_date": "21-8-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Remarks of Brogan regarding girls with different birth marks while choosing a girl",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of Sardonicus's late father in the dark room",
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Shots of maid's face with the removal of blood stains on her face after the leeches have been removed",
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Shots of maid being tortured",
+        "length_retained_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "To a flash shots of the skull of Mr. Sardonicus's father in the grave",
+        "length_retained_m": 0.6096
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Screams of Elenka on hearing ugly fine of her husband",
+        "length_retained_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "From the torture chair",
+        "length_retained_m": 0.9144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "To minimize the shots of the skull of Mr. Sardonicus",
+        "length_retained_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "The Cabinet of Dr. Caligari (Cinemascope)",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1281",
+    "cert_date": "21-8-62",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue and music including the phrases 'Young man, you're my father's son, but you are fooling me'",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shots of Jane, rising from the ground, scream with her hand repeatedly",
+        "length_m": 10.668
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shots in which Caligari strikes at the face of Jane, wounding her with a claw-like hand and she screams",
+        "length_m": 10.0584
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shots of Jane's nightmare in which she sees horrible scenes of men and women boxed up into ground, a fat cook looking human bodies and stacking them up in trays",
+        "length_m": 9.144
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Shots of Ruth being stabbed by David",
+        "length_retained_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "Borneo, Juliet And Partners",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "30105",
+    "cert_date": "24-8-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Hanka and Pavel lying together kissing and embracing and spending the night in their state",
+        "length_m": 9.144
+      }
+    ]
+  }
+]

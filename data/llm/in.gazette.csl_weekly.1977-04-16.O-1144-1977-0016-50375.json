@@ -1,0 +1,879 @@
+[
+  {
+    "film_title": "Nehle Peh Dehlaa",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Ajantaa Arts, Sunrise, 24th Road, Bandra, Bombay-50",
+    "cert_no": "B / 76483",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete the italic word from the dialogue of General \"Yo incri army hai main inka general hoon army retreat\"",
+        "length_m": 1.59
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the italic word from the dialogue of Sunil “Tumhara Kunoon ek chhalni hai, Jis me policcwale paani bharne ki koshish kar rahi hai\"",
+        "length_m": 1.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce fight in casino between Sunil and Rahim by deleting hard hitting shots, kicks and chops",
+        "length_m": 0.69,
+        "length_retained_m": 69.54
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Delete the indecorous pose of Meena lying on bed and male hand caressing her thigh and delete Sunil s remark. \"Log rotiyan şckhate hai, tum mall sekh rahi ho\". Reduce the struggle between Meena and Sunil under bed sheet",
+        "length_m": 0.59,
+        "length_retained_m": 58.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce the fight at the beach",
+        "length_m": 0.17,
+        "length_retained_m": 17.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIIJ",
+        "description": "Delete the gesture of Ranjit on the word \"Jamall\" in the sentence \"Kamzal dikherneke liye jammal dikhna Padoga.\""
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Delete Ranjit s suggestive reply to Meena \"Main réudy hoon\" (Deleted sound only) and replace with approved words"
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the word \"Bhangi\" used by General while accusing Tiger (Deleted sound only) and replace with approved words"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce the fight in the van by deleting hard hitting shots",
+        "length_m": 0.13,
+        "length_retained_m": 12.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "In the struggle in a swimming pool between Ram and Tiger reduce shots of strangulation and drowning",
+        "length_m": 0.36,
+        "length_retained_m": 36.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce the general fight on the board the ship by deleting herd hitting shots",
+        "length_m": 0.43,
+        "length_retained_m": 43.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIX",
+        "description": "Reduce the repeated shots of General being pushed in water by Sunil",
+        "length_m": 0.07,
+        "length_retained_m": 6.91
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Who Loved Cat Dancing",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd, Metro House, M.G. Road, Bombay-20",
+    "cert_no": "B / 76574",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce considerably shots showing hard hits and blows",
+        "length_m": 0.04,
+        "length_retained_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Reduce to a flash the attempted rape of Catherine by Red Indians"
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete Catherine saying to Jay \"I d like to have your baby... your baby\" and his reply \"take off your clothes\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Reduce torture of Dawes by Jay"
+      }
+    ]
+  },
+  {
+    "film_title": "Sachha Mera Roop Hai",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Brar Productions, 10-Surang Hotel, Santacruz (West) Bombay-57",
+    "cert_no": "B / 77191",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Change the present main title \"Khalsa Mera Roop Hai\" with another suitable title"
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "From the dialogue of Sardarji talking about various kinds of meat, delete the reference to \"Sur\""
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Change the couplet \"In Hi ki Kirpe sc saje heyn hum -Nahin mo so Garib kawr pyre hain\" with the exact couplet mentioned in Guru grantha"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the shot of Chechi taking out \"Kripan\" in front of Jaggi and others in her house"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Delete the shot of Jaggi taking out \"Kripan\" to frighten the girls in the hostel room"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete all the shots of Shera drinking while bargaining with the broker and others about the girl"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the fight between Shera and the gangsters by deleting the hard hits and other gruesome looking visuals",
+        "length_m": 0.15,
+        "length_retained_m": 15.24
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce to a flash the view of blood stained Kripan in the hand of Jaggi after it is pulled out of the stomach of Shera",
+        "length_m": 0.01,
+        "length_retained_m": 0.76
+      }
+    ]
+  },
+  {
+    "film_title": "The Man Who Loved Cat Dancing",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Metro-Goldwyn-Mayer India Ltd, Metro House, M.G. Road, Bombay-20",
+    "cert_no": "B / 76574",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "During the train hold up by robbers, reduce drastically the number of killings and other gruesome details",
+        "length_m": 0.09,
+        "length_retained_m": 4.57
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce considerably the solicitation of Catherine and delete shots of Billy holding her breast",
+        "length_m": 0.03,
+        "length_retained_m": 3.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce drastically the repeated hitting on stomach and back of Billy by Dawes",
+        "length_m": 0.01,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce close ups of Billy s bleeding face after he collapses from the horse"
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce drastically the violence and direct killings by Red Indians"
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce drastically the scene of three Red Indians trying to rape Catherine"
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce considerably the fight between Jay and Dawes deleting hard hits and gruesome shots"
+      }
+    ]
+  },
+  {
+    "film_title": "Aandhi",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Ajantaa Arts, Sunrise, 24th Road, Bandra, Bombay-50",
+    "cert_no": "B / 73687",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "VII",
+        "description": "Scene showing someone mixes alcohol in coca cola glass taken away for Aarti"
+      }
+    ]
+  },
+  {
+    "film_title": "Shankar Shambhu",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B / 76414",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "I",
+        "description": "Added various shots"
+      },
+      {
+        "kind": "insertion",
+        "reel": "VI",
+        "description": "Added various shots"
+      }
+    ]
+  },
+  {
+    "film_title": "Anavaranam",
+    "languages": [
+      "Malayalam"
+    ],
+    "format": "35mm",
+    "producer": "Cherupushpam Films (P) Ltd., Cochin (Kerala)",
+    "cert_no": "M /9839",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete all shots of fighting with a broken bottle in the hands of Rajappan"
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shot of Rosamma being dragged into villain s house"
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the fight in the forest to a suggestion",
+        "length_retained_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete all actions of whipping of John by Stappan"
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the action of Abu pressing the chest of Sathappan with his leg"
+      }
+    ]
+  },
+  {
+    "film_title": "Adi Manavulu",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Chetana Combines, Madras",
+    "cert_no": "M /9339",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the shot of blood stained body of a man rolled down from the cliff; delete all close shots of the blood stained body of the man (including repetitive shots)",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the close-shot of the men killed by the prehistoric monster who pierced its horn into his stomach, and also the close shots of intestines stained with blood outside his stomach and also his eye gored by the monster (including repetitive shots)"
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete open sex scenes of the members of the tribes including the man lying over a woman with her bust exposed"
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Delete the scenes depicting the woman tied with a pole with burning sticks around her. Only the beginning and the end for the purpose of continuity should be retained",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the shot of a body of a woman after her fall from the cliff, to a flash",
+        "length_m": 0.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the blood stained body of a woman and its repetitive shots"
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduce the rape scene to the minimum. Only the beginning and the end for the purpose of continuity should be allowed",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the scenes depicting the fall of a man in a snake pit who died inside it"
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the scene depicting the oozing of blood from the mouth of an old man, who died"
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the scenes depicting of throwing of a stone on a man s chest and blood oozing from it"
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the scene depicting the fight between the boy and the python"
+      }
+    ]
+  },
+  {
+    "film_title": "Sabse Bada Rupaiya",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Balaji Kalamandir, Madras",
+    "cert_no": "B / 77495",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete in the credit-titles, the rupee coin displaying the Asoka Emblem"
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete dialogue \"aajkal ke neta sab yahee kamato hain\" and replace with approved words \"Aajkalki Boto\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete the assault on hero s sister, and the following fight"
+      }
+    ]
+  },
+  {
+    "film_title": "Ungalil Oruthi",
+    "languages": [
+      "Tamil"
+    ],
+    "format": "35mm",
+    "producer": "Aalayamman Enterprises, Madras",
+    "cert_no": "M -9836",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shots of women in charge of the brothel offering money to Srikanth"
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Srikanth s words \"Satyam Indha Nattiloy currency notti loy thaan irukku\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Srikanth reading the matter printed on the currency notes \"I promise to pay etc\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the shot of priest visiting Kamala"
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete Asokan s action of kicking Shanker; the action of slashing in the light with a rope; trying to hit Shanker with the anchor of a boat"
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete lawyer s words \"Population prostitution aayidum\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete the action of picking up Tuisulam from the temple, by Srikanth"
+      }
+    ]
+  },
+  {
+    "film_title": "Manushulantha Okkato",
+    "languages": [
+      "Telugu"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Adithya Chitra, Madras",
+    "cert_no": "M -9888",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Chalammayya s dialogue with Achard \"Ade Pattukkuntundi\""
+      },
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduce the whipping before Zamindar, to a flash",
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Achari s dialogue with Muthayalu \"Emo edalna faraginda\""
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the words of Ramu to Shanti \"Baruyu Moosadani Neovu\""
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduce the climax fight between two groups, to half, by overall reduction of whipping, fights, direct hits and kicks. Delete the assault on a woman",
+        "length_retained_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete actual setting fire to the granaries in the village"
+      }
+    ]
+  },
+  {
+    "film_title": "Swami Drobulu",
+    "languages": [
+      "Telugu"
+    ],
+    "format": "35mm",
+    "producer": "Markandeya Films, Madras",
+    "cert_no": "M -9855",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete close-ups of the dancer s thighs, facing the camera"
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "Reduce fights to half its present length",
+        "length_retained_m": 7.92
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In song 3, beginning with the words \"Ionulu pongulo ola daatyavu\", delete the word \"Pongula\" sung by Malathi on the last but one line of the song"
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the fight to half its present length by overall reductions, and particularly deleting direct hits and kicks",
+        "length_retained_m": 10.97
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the climax fight to half its present length by overall reduction, particularly deleting direct hits and kicks",
+        "length_retained_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Gunsun dri",
+    "languages": [
+      "Gujarati"
+    ],
+    "format": "35mm",
+    "producer": "K. & K. Films, Goverdan Bldg, No. 2, Parekh Street, Bombay-4",
+    "cert_no": "B / 77334",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the word \"radni\" as spoken by a man"
+      }
+    ]
+  },
+  {
+    "film_title": "Dharti Saadi Maa",
+    "languages": [
+      "Punjabi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "S. J. K. Productions, 11-Surang Hotel, Santacruz, Bombay-54",
+    "cert_no": "B / 77181",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete suggestive shot showing bosom of Veona in the car"
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce to bare minimum the scene of attempted molestation by the driver and also the remark \"Tonu taqdirwalo piyango\"",
+        "length_m": 0.1,
+        "length_retained_m": 14.22
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce fight by deleting hard hitting shots",
+        "length_m": 0.09,
+        "length_retained_m": 18.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "In the song \"Mori ni mari mai dugaabaz ne mask\" delete indecorous action and shots and replace with approved shots"
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the impression of kiss between Ranbir and Veona during the song in the garden"
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the scene of Dinkar and girl drinking alcohol"
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the scene of blood smeared face of Veena after she is knocked down by a jeep",
+        "length_m": 0.01,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "During the picnic song dance by boys and girls, delete all indecorous shots of a girl shaking her bosom and midriff and vulgar gestures of the comedians and replace with approved shots"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the Major s talk \"Suhaagrat di kurbanidi thi\" addressed to Subedar Ranbir"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Delete the shots of Dinkar and the girl sleeping in bed semi-nude including the shot of the girl trying to cover herself"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce to bare suggestion the entire scene of Pradhan attempting to molest Veona by deleting his trying to hold her, shots on the bed etc",
+        "length_m": 0.14,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the chase of Veena by the driver",
+        "length_m": 0.03,
+        "length_retained_m": 4.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the shot of Yogesh being pushed from the jeep",
+        "length_m": 0.04,
+        "length_retained_m": 2.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the shot of Veena being tied to a tree",
+        "length_m": 0.05,
+        "length_retained_m": 2.65
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Delete the shots of driver wielding a knife and threatening Veena s child if she does not sign on the paper"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce fight by deleting hard hitting shots",
+        "length_m": 0.01,
+        "length_retained_m": 14.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Delete Yogesh s dialogue pertaining to his telling Ranbir \"Tun dosh ke sipahai jaan dete hai...\" etc. as it only expresses cheap sentiments"
+      }
+    ]
+  },
+  {
+    "film_title": "Dus Numbri",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Madan Mohia, Part Seven Arts, 250 Famous Cine Bldg, Bombay-11",
+    "cert_no": "B / 77271",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce to the barest minimum shots of Arjun s mother being hit with stones thrown by children",
+        "length_m": 0.3,
+        "length_retained_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the view of a person sitting for urination against a wall",
+        "length_m": 2.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the scene of planting of explosives on a train and delete reference to a foreign embassy regarding receiving money for his work. Also reduce the fight at the railway yard",
+        "length_m": 16.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the use of Words \"Tumhari biwise mere najayaj talukat hai\" etc",
+        "length_m": 12.42
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Reduce drastically the fight between Viru and Damu and delete shots of bashing Viru s head against a pillar"
+      },
+      {
+        "kind": "replacement",
+        "reel": "IX",
+        "description": "Delete the underlined dialogue: \"Jail ki chakki pees pees kar thak gaya ab to aaram kara doa\" addressed to Rosy by Daulatram (Deleted sound only) and replace with approved words"
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Delete the indecorous shots of Rosy climbing the staircase"
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the fight to a barest minimum"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the words of Pran \"Jaldi karo dalo aur nikalo\""
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the view of Rosy tied with rope with hands bleeding"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the shots of the dancer on the swing"
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Reduce the dialogues to the effect \"Kaise mard ho istri peochhe so lagvate ho\" (Deleted sound only) and replace with approved words"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the scene of Rosy being manhandled by girls"
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Delete the entire dialogue \"Pakdo dabao, ap nahi pharo\" etc. and replace with approved words"
+      },
+      {
+        "kind": "replacement",
+        "reel": "XV",
+        "description": "Delete the reference to CBI chief Mr. Kumar and replace with approved words"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce the whipping of bleeding hand of Arjun who is tied to a post"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Reduce the fight drastically by deleting hard hitting shots"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce drastically the beating of Premnath"
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVIII",
+        "description": "Reduce the scene of gas chamber"
+      }
+    ]
+  },
+  {
+    "film_title": "Kasam",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "S. Kamruddin, Parvana Amar Deep, Flat No. 1, Santacruz, Bombay-54",
+    "cert_no": "B / 77480",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "description": "Reduce considerably shots of fighting in the trailer",
+        "length_m": 2.59
+      }
+    ]
+  },
+  {
+    "film_title": "Bhai Bandhi",
+    "languages": [
+      "Gujarati"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Jagdambe Pictures, 409 Prasad Chambers, Opp. Roxy Cinema, Bombay-4",
+    "cert_no": "B / 77502",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "From the dance, delete the close view of the dancer shaking her breasts vigorously"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Delete the entire dialogue between the comedian and the girl outside the room beginning with the words \"Dugada kadhi nakh\" which is overheard by the other two girls inside the room"
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Delete the sequence showing the comedian marrying three girls at a time and also delete the dialogues relating to the sharing of his days by the three girls"
+      }
+    ]
+  },
+  {
+    "film_title": "Wafadar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35mm",
+    "producer": "Rajendrajeet Singh, Homelands, 95-Carter Road, Bandra, Bombay-50",
+    "cert_no": "B / 77440",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "Reduce the fight deleting direct thrusts of swords and other gruesome visuals",
+        "length_m": 7.93,
+        "length_retained_m": 27.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce to a suggestion the direct stabbing of a man",
+        "length_m": 12.2,
+        "length_retained_m": 36.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Reduce the fight in general to remove the gruesome impact",
+        "length_m": 41.7,
+        "length_retained_m": 86.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII & XIV",
+        "description": "Reduce the whipping drastically",
+        "length_m": 4.91,
+        "length_retained_m": 3.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduce the fight in general by deleting hard hits direct thrusts of swords and other gruesome looking visuals"
+      }
+    ]
+  }
+]

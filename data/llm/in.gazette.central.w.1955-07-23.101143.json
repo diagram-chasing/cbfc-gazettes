@@ -1,0 +1,686 @@
+[
+  {
+    "film_title": "Bindiya",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Prem Pictures Ltd., 11, Botowalla Bldg., Elphinstone Circle, Bombay 1. & Film Analtd., Bombay 1.",
+    "cert_no": "12306",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The word \"Guilde\" in the song \"Gilde ka geet\" is deleted.",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "The insertion of a lady who is addressed to buy lemons is replaced with an extension of the port scene.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Shot of physician carrying cow dung is reduced.",
+        "length_m": 1.191792,
+        "length_retained_m": 1.191792
+      }
+    ]
+  },
+  {
+    "film_title": "Double Exposure",
+    "languages": [
+      "English"
+    ],
+    "producer": "Ansaltd., Bombay 1. & Reuel Pudutex Krup, Tinlmul Ftien., L.S.A.",
+    "cert_no": "12300",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The shot of the woman in the photographer's studio sitting at a table.",
+        "length_m": 1.524
+      }
+    ]
+  },
+  {
+    "film_title": "This Island Earth",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Universal Pictures India Ltd., Mustafa Bldg., Sir P.M. Road, Bombay.",
+    "cert_no": "12587",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Close-ups of Ruth Adams with wet clothes clinging to her body.",
+        "length_m": 6.37032
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Shots of Ruth Adams with wet clothes clinging to her body.",
+        "length_m": 6.37032
+      }
+    ]
+  },
+  {
+    "film_title": "The Man From Laramie",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "producer": "Columbia Films of India Ltd., 83A, Marina, Lines, Bombay.",
+    "cert_no": "12436",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The shot of the man fallen on the ground with an arrow piercing his body.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Considerably the scene of cold-blooded shooting of the mule, omitting the grounds of the mule as shots are fired. Keep only the waggoman giving the order and the firing of the first shot and later reference by Lockhart.",
+        "length_m": 6.7056,
+        "length_retained_m": 6.7056
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The dragging of Lockhart when a man on a horse throws a loop of rope around his body.",
+        "length_m": 1.524,
+        "length_retained_m": 1.524
+      },
+      {
+        "kind": "reduction",
+        "reel": "VII",
+        "description": "The fight between Lockhart and Dave and Lockhart and Vin, omitting the obvious blows in close-up kicks and blows below the belt.",
+        "length_m": 22.86,
+        "length_retained_m": 12.192
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the sequence of close-range shooting of Lockhart's hand by Dave, when he is held by two men, also the preceding struggle with the men holding him, omitting the shot when he is fully facing Dave with his palms stretched aside, merely looping the suggestion of struggle, suggestion of firing and Lockhart's reaction and subsequently wounded hand.",
+        "length_m": 5.97408,
+        "length_retained_m": 3.5052
+      }
+    ]
+  },
+  {
+    "film_title": "San-Ka-Note",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ramalngh, (10, 11, S.H.S. Films, M. & T. Studios Ltd., Andheri, Bombay.",
+    "cert_no": "12366",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The words \"Yahan pah ok hoti hai, sham duari\" and \"Alaub kuchh de denye\".",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The words \"Mulaqat nahin hoi tokarav hun takrad\".",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "The prominent views of Rajani with shining embroidery on her blouse at the vista visible through the transparent arm (1) taroney with the newspaper Ojorter (6) the dance accompanying the song \"Chelo Chalo...\"",
+        "length_m": 40.8432
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "The role one to Kaddu in Rajani. Interview with the reporter, also all repetitions by herself or the reporter.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "In the song \"Anjane men kar yaye....\", the line \"JIar dan kara mujhH inanmaul\" is replaced with \"IIA1 lum kini Filmani\".",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Bala's word \"Main to thok bajake apna pati loonal\".",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The words \"Aurat no nuradķi takat ko tode\".",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Prominent view of Rajani with shining embroidery on her blouse at the vista visible through the transparent water in the face of her dance in song \"yo duniya japo na.......\"",
+        "length_m": 4.2672
+      }
+    ]
+  },
+  {
+    "film_title": "Holiday Ahead",
+    "languages": [
+      "English"
+    ],
+    "format": "16 mm",
+    "producer": "Uniyornal Pulles India Ltd., Mustafa Bldg., Sir P.M. Road, Bombay.",
+    "cert_no": "13401",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The close-up of the bare thighs of a girl spread apart, through which parts of her body are portrayed.",
+        "length_m": 1.3716
+      }
+    ]
+  },
+  {
+    "film_title": "The Robins Sing",
+    "languages": [
+      "English"
+    ],
+    "producer": "Uniycrda lictuset ludia Ltd., Mustafa Bldg. Sir P.M. Road, Bombay.",
+    "cert_no": "13482",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shot in the dance number of a silhouette of a girl showing her legs up to the thigh through gauze-like costume.",
+        "length_m": 9.21768
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume 826",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House, Bombay.",
+    "cert_no": "13483",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "In the item regarding \"Sharing of Nuclear Reactors\" the last sentence in the portion of Mr. Dwight Eisenhower's speech from \"But I have Nugh unlimited confidence.......who join together in this blatorio venture\".",
+        "length_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Deep In My Heart",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer India Ltd Metro House Bombay",
+    "cert_no": "108",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Hip shaking and close views of partially bare bosom of the principal dancer in red costume with the song Surige in Paris. Close view of Dorothy with the flesh of her bosom prominently visible when she is getting up and saying Excuse me.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII, XIII",
+        "description": "The entire dance with the desert song after the male dancer makes the entry and dances in a sexy suggestive manner with the female dancer.",
+        "length_m": 101.5008
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Considerably the sexy dance of the scantily dressed principal dancer in red with the song. Particularly deleting her hip shaking, breast-jerkings and prominently emphasised views of partially bare bosom. The plain tap dance part of this number may be retained.",
+        "length_m": 3.9624,
+        "length_retained_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Dance song Sariee in Paris.",
+        "length_m": 13.1064
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII, XIII",
+        "description": "Credit titles relating to Desert Song and My Maryland.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII, XIII",
+        "description": "Remaining Desert Song sequence.",
+        "length_m": 117.348
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Entire vocal number My Maryland.",
+        "length_m": 74.9808
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of Deep In My Heart",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Metro Goldwyn Mayer India Ltd., Metro House Bombay.",
+    "cert_no": "13499",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Hip shaking of the principal dancer in red costume with the Sunrise in Paris.",
+        "length_m": 5.39472
+      },
+      {
+        "kind": "deletion",
+        "description": "Male dancer dancing with the female dancer in a sexy suggestive manner in the Desert Song.",
+        "length_m": 3.56616
+      },
+      {
+        "kind": "deletion",
+        "description": "Number My Maryland.",
+        "length_m": 3.9624
+      }
+    ]
+  },
+  {
+    "film_title": "Aerial Spraying In Bhopal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Burmah Shell Storage & Distt Co. of India Ltd., Fort Bombay.",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Midlong shot showing procedure of mixing Endrin with water.",
+        "length_m": 10.0584
+      },
+      {
+        "kind": "insertion",
+        "description": "Close ups of aforesaid procedure.",
+        "length_m": 16.1544
+      }
+    ]
+  },
+  {
+    "film_title": "US Vice President Nixon Ambassador of Friendship",
+    "languages": [
+      "English"
+    ],
+    "producer": "Paramount Films of India Ltd Hague Bldg Ballard Estate Bombay 1",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words \"Is samaye swatrantrata ki kitni pariksha ho rahi hai\", \"Ta prachin desh nen 18 samaye ladai aur vidroh chal raha hai vishvas aur salas kt bal tiitrata laal jasakti hai\", \"Vah awatantrata duniya apni shakti ki janch kar rahi hai aur sath hi sath iská pra luni de rahi hai ki Vietnam 11 satu t ti jasaktı\", and \"Swatantrata\" referring to the countries which have been wending supplied and films. \"To swatanatrata ke paksh men ladneke liye yahan aaye hue hain, Pratham horea fruitutra Division ki dava yiyor kirikhwah hi 2 ri itu jo pre desh bachao ke liye kayıbahaduri ki ladaiyan lad chuke hall init i trpes Swatantrata\" from the sentence referring to defence of freedom by sister nations.",
+        "length_m": 32.9184
+      },
+      {
+        "kind": "deletion",
+        "description": "The sentence \"Yahan Philippin ne apni Swatantrata duniya ke sath rehne ka nirnay 11 thai hi iulam bankar nahin Su o mi of the free nations as against the side of the slave nations\".",
+        "length_m": 8.2296
+      }
+    ]
+  },
+  {
+    "film_title": "Sardar",
+    "languages": [
+      "Hindi"
+    ],
+    "format": "35 mm",
+    "producer": "Gyan Mukerji Estate, Azad Road, Andheri, Bombay",
+    "cert_no": "1342",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "X",
+        "description": "Insertion of Ranjit hiding in the truck while he is in search of Sardar.",
+        "length_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "The Bridges At Tuko-Ri",
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Hugue Bldg. Ballard Estate, Bombay.",
+    "cert_no": "13476",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "A view of heroine in swimming pool where her bare breasts are visible near the wall of the pool.",
+        "length_m": 2.9056
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "I believe without question, one morning (cmroplet Clerctelpurd conridge TH willle } oldiga mcotln ; to diacung tho future of the war. A menuangti will ruin and tell their \"They ve knocked outcointhe bridgepat Token -ri\".",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "If wo did , they do tuku Japan , Indoohina , tho Llulippines.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "I told them woure fighting Rumia furs , Russlan rader , Russlan plus en and Russlan submarines . Alot of our wen aro being killed ly Ruslan equipment , manned hy Russinn gpmetu , Everhinoo theo . thoy bundle pe outofhere og fugtne poapil lr.",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "MIKE: \"I reully hato them Comnien,\".",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "O.L.C. officer's voice: \"Three American Hillcd by Commlinjat troope\".",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of The Bridge At Toko-Ri",
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Legue Bldg., Ballard Estate, Bombay.",
+    "cert_no": "13477",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot in the dance number of a silhouette of a girl showing her legs up to the thigh through gauze-like costume.",
+        "length_m": 9.21768
+      }
+    ]
+  },
+  {
+    "film_title": "The Bridges At Tuko-Ri",
+    "colour": "Color",
+    "format": "35 mm",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Ballard Estate, Bombay.",
+    "cert_no": "13476",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "A view of heroine in swimming pool where her bare breasts are visible near the wall of the pool.",
+        "length_m": 2.9056
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "\"I believe without question, one morning (cmroplet Clerctelpurd conridge TH willle } oldiga mcotln ; to diacung tho future of the war. A menuangti will ruin and tell their \"They ve knocked outcointhe bridgepat Token -ri\".",
+        "length_m": 5.1816
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "\"If wo did , they do tuku Japan , Indoohina , tho Llulippines.\"",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "\"I told them woure fighting Rumia furs , Russlan rader , Russlan plus en and Russlan submarines . Alot of our wen aro being killed ly Ruslan equipment , manned hy Russinn gpmetu , Everhinoo theo . thoy bundle pe outofhere og fugtne poapil lr.\"",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "MIKE: \"I reully hato them Comnien,\".",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "O.L.C. officer's voice: \"Three American Hillcd by Commlinjat troope\".",
+        "length_m": 1.2192
+      }
+    ]
+  },
+  {
+    "film_title": "Chella Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. J.V.M. Productions, 11, Vardanik, Madras.",
+    "cert_no": "12063",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6, 17",
+        "description": "Whats deleted.",
+        "length_m": 31.0896
+      },
+      {
+        "kind": "insertion",
+        "description": "A title \"After 2 years Honour of van from Jail family TC -upon-\".",
+        "length_m": 24.384
+      },
+      {
+        "kind": "insertion",
+        "description": "Close-shot of judge trying it by leon o inloguny.",
+        "length_m": 40.2336
+      }
+    ]
+  },
+  {
+    "film_title": "Chella Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. J.V.M. Productions, 11, Vardanik, Madras.",
+    "cert_no": "12063",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "After Man and the other boys are shown playing marbles, delete the sequence showing their playing a game with coins. (There is no objection to the sequence at the end of this game where Mani quarrels with a young man while getting on the bicycle).",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Where the boy Mani is shown playing coins, delete the picture showing him smoking.",
+        "length_m": 3.6576
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "In the dance hall, after Mani discovers the tampering with his OANA, reduce to a bare suggestion the rest of the violent fighting which takes place until Mani leaves the room. (The shots showing Mani and the Pathan grappling and fighting with each other are to be deleted altogether, in any case).",
+        "length_m": 12.192,
+        "length_retained_m": 12.192
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "In Deenadayalu's shop, delete the picture and dialogue where Deenadayalu asks why that shining bright person is, Thala Thuln, Pala Pala) and Thrilokam's statement referring to Laltha the item about whom Deenadayalu had been bothering himself.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Avatharam referring to \"our profession and colour\".",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "When Mani meets Anjalai after marriage, delete: (a) the picture of her sari slipping and Maal advancing on her, smiling eagerly; (b) the picture and dialogue of Maat and Anjalai about engaging in beauty research, about her hair, eyes and lips and (c) the picture and dialogue where Mani and Anjala are seated on the bed referring to the moonlight, and him getting up and putting it out.",
+        "length_m": 39.624
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the picture of Lalitha with her bust in close-up. (Just after the shot showing the fruits).",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the picture of Avatharam smelling the necklace shown to him.",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete Avatharam's sentence \"Sarkar gaathote & Orowd and garlandı ithelf\".",
+        "length_m": 12.4968
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "When Mani refers to the love-stories between Majny and Lalla, Romeo & Juliet, delete the reference to Rama and Sita.",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "In the Chettiar's shop, after Mani leaves, delete the picture and dialogue of Thrilokam blackmailing the Chettiar and asking for Rs. 200/- in return for the said evidence that he will give and receiving the payment.",
+        "length_m": 13.716
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "When Lalitha begs Anfulai to dress up as a butler, delete the sentence \"Do not go before anybody with a seri\".",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "After Nolan discovers Mani stealing, delete the entire sequence, picture and dialogue, referring to the exchanging of counterfeit currency or Government currency. (There is no objection to the mere suggestion of Mani leaving with the money).",
+        "length_m": 8.5344
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "When the police go to Paramasivam's house and question him about the counterfeit currency, delete the sentence of the policeman (including the picture of the future he bako) \"If he is taken to the station and asked, he will say everything himself\".",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "Delete the pictures in close-up of Lalitha looping on the bed before she is roughd by Avatharam.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "16",
+        "description": "When Lalitha asks Anfulai to dress up as a butler, delete the sentence \"Do not go before anybody with a seri\".",
+        "length_m": 1.524
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Delete the picture and dialogue of the police-Inspector interrogating Thrilmasivam and saying that they had been questioning him for ten days, and he should be te back toulder.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Z&",
+        "description": "During song 11 (Madhana hiyil Raja), delete the picture of Lalitha, with the camera tracking to a close-up, focused on her bust, (against the words \"flomai Permblom Jai Badrum Vaipadhundo\" when it is sung for the first time).",
+        "length_m": 24.6888
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "Delete the picture and sound of the police-inspector acting in a clownish manner: (a) when the police enter Anjalalla's house after knocking: (b) the inspector sitting in the side-car and asking the driver to go faster, (c) at the railway bookstall when he refers to himself as Ettumalal, and (d) when he is recovered by the escaping team from the locomotive and is prevented from out-obeying Mani.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "19",
+        "description": "When Mani is escaping from the chasing policemen, delete: (a) His disguising a policeman's son at the book stall, and (b) in the train compartment with the policeman's uniforms in hand.",
+        "length_m": 66.7512
+      },
+      {
+        "kind": "reduction",
+        "reel": "1",
+        "description": "A villager being stabbed in the back by a dagger.",
+        "length_m": 2.1336,
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII & XIV",
+        "description": "Bankoy's appearance in female garb.",
+        "length_m": 56.0832,
+        "length_retained_m": 75.5904
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Shot of darkness (overlapped by girl's laughter).",
+        "length_m": 2.7432,
+        "length_retained_m": 2.7432
+      }
+    ]
+  },
+  {
+    "film_title": "Chella Pillai",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "M/s. J.V.M. Productions, 11, Vardanik, Madras.",
+    "cert_no": "12063",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "0, 17",
+        "description": "Whats deleted.",
+        "length_m": 31.0896
+      },
+      {
+        "kind": "insertion",
+        "description": "A title \"After 2 years Honour of van from Jail family TC -upon-\".",
+        "length_m": 24.384
+      },
+      {
+        "kind": "insertion",
+        "description": "Close-shot of judge trying it by leon o inloguny.",
+        "length_m": 40.2336
+      }
+    ]
+  }
+]

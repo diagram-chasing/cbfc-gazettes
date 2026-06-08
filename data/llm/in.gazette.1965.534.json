@@ -1,0 +1,352 @@
+[
+  {
+    "film_title": "Marvel Man",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Indo-Africa Films Ltd., 5th Floor, Naaz Bldg., Lamington, Bombay-4.",
+    "cert_no": "42967",
+    "cert_date": "2-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Near-view of a girl dancer shaking her bust in the song-dance sequence.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shots of Professor and others being lowered over flames by Maharaja's soldiers.",
+        "length_m": 0.77
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Distorted recitation of marriage shlokas by the pundit.",
+        "length_m": 2.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From the picturisation of qawali, shot of Vasanti leaning over harmonium in which her bust is emphasized.",
+        "length_m": 5.94
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "The sound of hysterical laughter by Simba while dragging Vasanti up the minaret.",
+        "length_retained_m": 1.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "To a flash the throttling of Simba by Marvel Man.",
+        "length_retained_m": 1.3
+      }
+    ]
+  },
+  {
+    "film_title": "Dr. Strangelovo",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Metro House, M. G. Road, Bombay-1.",
+    "cert_no": "42970",
+    "cert_date": "2-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "All shots of the girl in bikinis.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "description": "Dialogue: 'Nuclear combat toe to toe with the Ruskjcs'.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "description": "Dialogue: 'I first became aware of it. Mandrake, during the physical act of love'.",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Yalach Mhantat Prem",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Nalanda Chitra, 238/3261 Tagore Nagar, Vikroli, Bombay-83.",
+    "cert_no": "42972",
+    "cert_date": "2-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Suggestion of a kiss between Nishikant and Shobha.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From Song 1, the indecorous gesture when the singer sings the line 'Anmol nazraana ha ghyaa' the second time.",
+        "length_m": 0.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From song No. 5, the jerking of bust by the dancer on the line 'Janoo yawan zaaio Vhushi' and the indecorous gesture on the words 'Sonachaphya-pari maze ang' when the line is sung the second time.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "From Sudhakar's speech to Neelima regarding advance booking, the words 'Jaaga nakki'. (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "From Nishikant’s speech to Shobha asking her not to fall on the feet of her debtor, the word ‘Marvaadyachya’. (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Robin And The Seven Hoods",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Panavision",
+    "producer": "Warner Bros. First National Pictures Inc, Eros Cinema Bldg., 42, Queen’s Road, Bombay-1.",
+    "cert_no": "42984",
+    "cert_date": "3-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Front and back views of scantily-clad waitresses in the billiard room.",
+        "length_m": 10.95
+      },
+      {
+        "kind": "deletion",
+        "description": "Shot of the scantily-clad female dancers.",
+        "length_m": 5.66
+      }
+    ]
+  },
+  {
+    "film_title": "Blood Fractions In Clinical Medicine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Dr. N. J. Modi, Convener, Medical Films & Tape Recorded Libraries of Association of Physicians of India, 8, New Queen’s Road, Bombay-4.",
+    "cert_no": "42643",
+    "cert_date": "23-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The caption 'The Merck Sharp & Dohme Postgraduate Program'.",
+        "length_m": 3.38
+      }
+    ]
+  },
+  {
+    "film_title": "Kemicterus And Its Prophylaxis",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Sandoz (India) Ltd., 3, Wittet Road, Ballard Estate, Bombay-1.",
+    "cert_no": "1515",
+    "cert_date": "18-9-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The name and monogram of Sandoz.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Vertebral Artery Syndrome",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Sandoz (India) Ltd., 3, Wittet Road, Ballard Estate, Bombay-1.",
+    "cert_no": "1516",
+    "cert_date": "18-9-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The name and monogram of Sandoz.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Migraine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Sandoz (India) Ltd., 3, Wittet Road, Ballard Estate, Bombay-1.",
+    "cert_no": "1518",
+    "cert_date": "18-9-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The name and monogram of Sandoz.",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Poona— Our Pride",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Films Officer, Directorate of Publicity, Govt. of Maharashtra, Sachivalaya, Bombay-32.",
+    "cert_no": "38500",
+    "cert_date": "5-6-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Various shots and parts of the commentary.",
+        "length_m": 233.0
+      },
+      {
+        "kind": "replacement",
+        "description": "New shots and commentary.",
+        "length_m": 323.0
+      }
+    ]
+  },
+  {
+    "film_title": "Amma Yetim-y ?",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "The Modern Theatres Ltd., Salem.",
+    "cert_no": "40200",
+    "cert_date": "2-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel 5",
+        "description": "The girl walking in jeans.",
+        "length_m": 1.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Dance — Delete the shot of a woman living passed through the legs of a man.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete the close-up in which a kiss is suggested, just before the shot of the two rabbits.",
+        "length_m": 0.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 13",
+        "description": "At the end of the dance, delete the shot of Peter’s pyjamas coming down.",
+        "length_m": 8.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Delete the shot of the collision of heads in the bed-room scene, of Ranjitham and Ravi.",
+        "length_m": 1.44
+      }
+    ]
+  },
+  {
+    "film_title": "Manchi Munfchi",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Chaya Cllilra, 16, Boag Road, Madras-17.",
+    "cert_no": "41803",
+    "cert_date": "7-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete the sentence ‘Chai Vedliava Udyogam’. (Sound only).",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Song 1- Delete picturisation of the modus operandi of pickpocketing and stealing jewels.",
+        "length_m": 4.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Delete Susi kissing her image in the mirror.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song 4—Delete the kissing gesture of Venu and Suri, and Venu bending over Susi in close proximity.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the sequence of Junior Venkataswami controlling traffic on the road, with police uniform.",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the sentence of Narasamma saying that the police will initiate some nuisance case if one talked to them.",
+        "length_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the close shot of pick pocketing, leaving only a suggestion.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete the dialogue of Venu that stealing was the only way left to the poor, and the following sentences justifying theft and banditry.",
+        "length_m": 10.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete the speech of the chief of gangsters extolling theft and banditry, retaining the first sentence.",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete reference to ‘Communist’. (Sound only).",
+        "length_m": 0.0
+      }
+    ]
+  }
+]

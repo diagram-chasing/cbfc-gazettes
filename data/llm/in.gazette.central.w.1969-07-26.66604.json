@@ -1,0 +1,20 @@
+[
+  {
+    "film_title": "Juggernaut",
+    "languages": [
+      "English"
+    ],
+    "format": "16mm",
+    "producer": "Coronet Instructional Films, U. S. A.",
+    "cert_no": "B/53508",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete shots of the several head of a bull.",
+        "length_m": 304.6
+      }
+    ]
+  }
+]

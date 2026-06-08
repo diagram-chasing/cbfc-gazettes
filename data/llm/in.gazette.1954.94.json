@@ -1,0 +1,895 @@
+[
+  {
+    "film_title": "The Actress",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer",
+    "cert_no": "10025",
+    "cert_date": "10-12-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Dialogue: 'Heathen' referring to the Chinese.",
+        "length_m": 21.336
+      }
+    ]
+  },
+  {
+    "film_title": "The Band Wagon",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Metro Goldwyn Mayer",
+    "cert_no": "10026",
+    "cert_date": "10-12-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of Gaby exposing underwear during dance with Tony after their compromise.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "description": "Ballerina in transparent blue dress revealing her figure as Tony holds her in his arms and as she moves round him, retaining a flash showing her in his arms as he lifts her from her sliding position.",
+        "length_m": 0.9144
+      }
+    ]
+  },
+  {
+    "film_title": "The Man From the Alamo",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Universal International Films Inc.",
+    "cert_no": "10034",
+    "cert_date": "17-12-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the commentary the word 'Pakistan'.",
+        "length_m": 1.8288
+      }
+    ]
+  },
+  {
+    "film_title": "Laroy",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Anis Pictures",
+    "cert_no": "10037",
+    "cert_date": "17-12-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II & XIII",
+        "description": "Winking by Chaim in the duet 'Tere long da pyulishkara' in the mola sequence and, later, in the dream sequence.",
+        "length_m": 10.9728
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Reference to 'gharodidu' by Phattu in respect of himself.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Winking by Chaim during the duet 'Nehon nahin lana'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Entire duet 'Tu rnera main teri' and accompanying dance by phattu in female dress and Chann.",
+        "length_m": 80.772
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Ajju's words 'Aao pher tohanun ghut deviye' as spoken to Belli.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Entire appearance of the man with bare belly in the fight sequence.",
+        "length_m": 39.624
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Balli's words 'Mera C'hann teriyan sariun sagiyau soriyan noon jamadarni bana ke bi na rajje'.",
+        "length_m": 4.2672
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Balli's words 'Jamadarni tan ohoorhi hoondi aye' and her later reference to pind-di-choorhi.",
+        "length_m": 9.7536
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The bangles scene, particularly eliminating Thattu's words 'Tainun bi ohadha dene aim' wherever he omits to add 'Ohurlyan', reducing also crooning by him and by Charm.",
+        "length_m": 30.48,
+        "length_retained_m": 91.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The hemp pounding scene.",
+        "length_m": 12.192,
+        "length_retained_m": 6.7056
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "The hemp intoxication scene of Charm, particularly deleting Phattu's body-jerking movements and accompanying words 'Dhaknik, dhak nik'.",
+        "length_m": 21.9456,
+        "length_retained_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Do. Bahadur",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Bagdad Pictures (Nari Cawasji)",
+    "cert_no": "10042",
+    "cert_date": "17-12-88",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Song 'Mere Husn ka charoha' along with picturisation of dance in street by a small girl.",
+        "length_m": 71.628
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Replaced with Madan's scene including a dance and song by a girl.",
+        "length_m": 213.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Words 'Kiamat men meri Geota, Japo Ram, Japo Seeta'.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV & VII",
+        "description": "Clownish movements of Kishore's assistant.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Impression of kidnapping of the street-singer immediately after her song.",
+        "length_m": 7.3152
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replaced with approved scenes of gangsters carrying off collections and Balo and her father stealthily riding on carrier of the car etc.",
+        "length_m": 35.052
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Babu's words to Chikwalla 'Zara pyar so bolo to mujhe maza ata hai'.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "description": "Line 'Amlioii ko mita den' from the song 'Bhagwan tore zulum ki koi had to bata de' (suppressed under sound of storm).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Court punning sentence of death on Madan.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Word 'Lahu' as referred to in respect of Lachhoo.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "description": "Kumar's words to Seeta 'Zabardosti main apni pyas bujha ke rahunga'.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Views of Lachhu's mutilated hands.",
+        "length_m": 0.3048,
+        "length_retained_m": 0.3048
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Flashes of decolleties committed by Lachho when in deportation he reverts to his former life of crime.",
+        "length_m": 2.7432,
+        "length_retained_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "The Golden Blade",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Universal International Films Inc.",
+    "cert_no": "10067",
+    "cert_date": "19-12-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II, IV & V",
+        "description": "Shots showing the bare legs of Bakhamraonco walking towards the Princess while she is imprisoned in the Palace, second when lying with Hada on the couch, third when sitting with Prince.",
+        "length_m": 14.6304
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The second killing scene in jail - Haim friendship prince.",
+        "length_m": 9.144
+      }
+    ]
+  },
+  {
+    "film_title": "Boot Polish",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "R. K. Films",
+    "cert_no": "10126",
+    "cert_date": "31-12-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Hip-jerking by the dancer twice in profile and once facing camera during the song 'Main baharon ki natkhat rani'.",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "The Robe In Cinema Scope",
+    "languages": [
+      "English"
+    ],
+    "colour": "Color",
+    "producer": "20th Century Fox Film Corp.",
+    "cert_no": "10147",
+    "cert_date": "2-1-54",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The portion of the slave market scene showing a girl wrapped in white cloth opening it and showing her body to the buyers, including the portion showing the dealer taking off wrapper from a girl.",
+        "length_m": 4.8768
+      }
+    ]
+  },
+  {
+    "film_title": "The Prairie",
+    "languages": [
+      "English"
+    ],
+    "colour": "color",
+    "producer": "Republic Pictures",
+    "cert_no": "10080",
+    "cert_date": "24-12-53",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Marina's words to you smell like an animal, you act like one and Conway's reply 'and you love it'.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Close embrace and kiss of Karen And Warden on the sea-beach.",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Walking in the club.",
+        "length_m": 3.3528
+      }
+    ]
+  },
+  {
+    "film_title": "From Here To Eternity",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Pictures Corpn.",
+    "cert_no": "10114",
+    "cert_date": "30-12-83",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The words 'A beautiful woman going all wonder'.",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Kissing and embracing between Karen and Warden on the sea beach.",
+        "length_m": 9.3264
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI & VII",
+        "description": "All shots of waitress walking in a tantalising manner between tables, wolf calls and looks by the men and the words 'I want to watch you'.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "The sentence 'It's almost a sacred duty to be drunk'.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Karen and Warden's close embrace in the car.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "The first kiss between Karen and Warden.",
+        "length_m": 2.7432,
+        "length_retained_m": 2.7432
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Embracing between Karen and Warden when listening to Haw Rilr music.",
+        "length_m": 2.1336,
+        "length_retained_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Considerably fight between Prewitt and Onlovitrh.",
+        "length_m": 21.6408,
+        "length_retained_m": 26.8224
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "To a minimum scene of Prewitt and Warden drunk on the road.",
+        "length_m": 48.768,
+        "length_retained_m": 39.624
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "Maggio's description of the brutality with which he has been treated in the stockade.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Fighting between Prewitt and Fateo, particularly shots of attempted strangling.",
+        "length_m": 5.4864,
+        "length_retained_m": 18.5928
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Considerably actual drinking.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI, VII",
+        "description": "Considerably actual drinking.",
+        "length_m": 6.4008
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reference to kissing between Karen and Warden.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Dhoop Chhaon",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Suhail Art Production",
+    "cert_no": "10171",
+    "cert_date": "8-1-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Anand's gesture in respect of Tisha while singing the line 'Pakki pahni khecr'.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replaced with Tisha's close-up.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Word 'Paune' as referred to by Anand and the hotel boy. (sound,)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Kanchan gauge",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "Miss Lata Mangoshkar",
+    "cert_no": "10172",
+    "cert_date": "8-1-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The interruptory remarks as made by students during Bhayya Sahib's speech at the college function.",
+        "length_m": 11.8872
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the Urs sequence the shot of the Saint's grave with a view to removing the impression that Kanchan is singing and dancing in front of it.",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Shot of hotel-boy throwing water at Kanchan.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Words 'Aael ata Dane alit kntbe tarl gaxa aad' as spoken in respect of Kanchan.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots of women in the brothel scene sitting behind window bars including the words 'gaza aad'.",
+        "length_m": 26.8224
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Display of the National Flag and recitation of 'Vando Mataram'.",
+        "length_m": 25.6032
+      }
+    ]
+  },
+  {
+    "film_title": "Samrat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Filmistan Ltd.",
+    "cert_no": "10173",
+    "cert_date": "9-1-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From dance song 'Gora bhi achha' prominent hip-shaking by Bijli and shots showing her in a triangular suggestive belt round waist with a tassel hanging between thighs excepting in fast movements long shots.",
+        "length_m": 60.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Replace with same shots blown above waist.",
+        "length_m": 60.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "From the scene following the first dance, close up of Bijli with Sugar and showing her leaning on him, including her words 'Phir tum aur kuchh chah hi nahin sakte'.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "deletion",
+        "reel": "III, IV, VI, VIII, XIII",
+        "description": "Close ups and mid-shots of Rajkumari with one breast emphasised and uncovered by odni.",
+        "length_m": 51.816
+      },
+      {
+        "kind": "replacement",
+        "reel": "III, IV, VI, VIII, XIII",
+        "description": "Replaced with same shots blown above hast.",
+        "length_m": 51.816
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Gurnansingh declaring that lights will be put off and every man can have the girl he catches hold of in darkness, etc.",
+        "length_m": 9.144
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replaced with approved scene to the effect that lights will be put off for a moment and the girl caught hold of by a man will be his partner in the next dance.",
+        "length_m": 24.384
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Rajkumari brushing the bruised chest of Sagar.",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "From the song 'Aish ki raat hai' the opening couplet 'Aish ki raat hai dil se milon dil also, jaam so jaam ladate hain sharabi jaise' and Bijli redlining in Sagar's anna.",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Reference to the horse as 'Saimir' by the coachman.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Pirate Captain's words 'Ekdam acfiha-wala, ekdam lana mangba'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Sound replaced with 'Good, very good, boys, jaldl apna kAam karo'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Bankay's words 'la dafa saikdo ka saikda apka'.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Sound replaced with 'Naar hai'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Pirate's words 'Lollipop'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Sound replaced with 'Menu&heb'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Pirate Captain's words 'Ekdam acfiha-wala lolly pop- riaya aaal ka naya lollypop'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "VII",
+        "description": "Sound replaced with 'Bahut aohha hua— naya aaal aohha ohalu hna'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "From the song 'Kabko mubarak naya aaal': Shots showing a girl and, later, a number of girls bosom to bosom with men as the line 'Dil bo dil takrane do' it sung.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Replaced with approved shots of the girls.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of men lifting up girls.",
+        "length_m": 4.8768
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Shots of bust-jerking by Rajkumari.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "replacement",
+        "reel": "VIII",
+        "description": "Replaced with other approved inserts.",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "Gumansingh's words 'fifty- fifty is dhandomon nahin'.",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shot of Sagar with lips against Rajkumari's face as she lies unconscious after the storm.",
+        "length_m": 1.8288
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Words 'Are, wall beta' as used in the Qawali.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Sound replaced with 'Aye, chaha, ha).",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Close-up of Bijli with bust uncovered by odni in the Qawali.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Replaced with approved insert of Rajkumari.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Jamura's words 'Chhorna kaam hai chidimar ka'.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Sound replaced with 'Ohhoma kaam mera nahin'.",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Word 'Prjyotma' in respect of Rajkumari as referred to by Jamura and Sagar.",
+        "length_m": 0
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Sound replaced with 'Pyari'.",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "A villager being stabbed in the back by a dagger.",
+        "length_m": 2.1336,
+        "length_retained_m": 1.2192
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIII and XIV",
+        "description": "Bankey's appearance in female garb.",
+        "length_m": 40.8432,
+        "length_retained_m": 75.5904
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Shot of darkness (overlapped by girl's laughter).",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Afreeka",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Movie India",
+    "cert_no": "10162",
+    "cert_date": "5-1-04",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Shots of dancer sitting on lap of Ramesh and again, on lap of another man during her dance at the hotel, including shot of a man blowing tobacco smoke on her face.",
+        "length_m": 6.7056
+      },
+      {
+        "kind": "replacement",
+        "reel": "I",
+        "description": "Replaced with approved inserts.",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The gambling scene eliminating prominent display of the cards.",
+        "length_m": 3.6576,
+        "length_retained_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "XI",
+        "description": "To a flash Aj it dragging the dead body of the tribal chieftain.",
+        "length_m": 4.572,
+        "length_retained_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "To a flash scene of Bamringh gradually slanting down into the swamp.",
+        "length_m": 2.4384,
+        "length_retained_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Metro News Volume No. 402-E",
+    "languages": [
+      "English"
+    ],
+    "producer": "Metro Goldwyn Mayer",
+    "cert_no": "10168",
+    "cert_date": "7-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The words 'Communist atrocities'.",
+        "length_m": 0.8052
+      },
+      {
+        "kind": "deletion",
+        "description": "The words 'Communist-dominated homelands'.",
+        "length_m": 2.49936
+      },
+      {
+        "kind": "deletion",
+        "description": "The word 'Free' (from the sentence 'with help from the free nations they hope to build'.",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "description": "A workers’ grievance demonstration turns into a mass protest against communist rule. Russian workers are brought in to quell the revolt, which, Soviet authorities report, spread to cities throughout E. Germany, Poland and Czechoslovakia.",
+        "length_m": 6.1008
+      },
+      {
+        "kind": "deletion",
+        "description": "From the 'Colombo Conference' item, from the phrase 'Colombo Peace Conference' the word 'Peace'.",
+        "length_m": 0.3048
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1282",
+    "languages": [
+      "English"
+    ],
+    "producer": "British Movietones Ltd.",
+    "cert_no": "10169",
+    "cert_date": "7-1-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "From the item on Marshal Stalin's death: 'Not only' and 'but also over many satellite countries'.",
+        "length_m": 1.2192
+      },
+      {
+        "kind": "deletion",
+        "description": "For a while Russian diplomacy seemed to be taking a less aggressive course, but time alone can prove the sincerity of Malenkov and his comrades.",
+        "length_m": 3.9624
+      },
+      {
+        "kind": "deletion",
+        "description": "Breaking away from the Russian control from the item on President Tito.",
+        "length_m": 2.4384
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of 'Samrat'",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s. Filmistan Ltd.",
+    "cert_no": "10171",
+    "cert_date": "7-1-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Song lines 'Beds bwhoiftm bain jiyeia rah# M' and entire repetition, as sung by the two men sitting on back-seat of the car being driven by the girl.",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "description": "Song lines 'Tumbar* pyftr ka yiwjm kya jah*n naur mill phiaal gays'.",
+        "length_m": 4.572
+      }
+    ]
+  },
+  {
+    "film_title": "Dhoop Chhaon",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Suhail Art Production",
+    "cert_no": "10171",
+    "cert_date": "8-1-54",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Anand's gesture in respect of Tisha while singing the line 'Pakki pahni khecr'.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "replacement",
+        "reel": "IV",
+        "description": "Replaced with Tisha's close-up.",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Word 'Paune' as referred to by Anand and the hotel boy. (sound,)",
+        "length_m": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1125 @@
+[
+  {
+    "film_title": "Nindu Noorellu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri Midde Ramarao, Madras",
+    "cert_no": "81337",
+    "cert_date": "12-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel - 1",
+        "description": "Delete the words of Ravi and Sujatha: 'Istena lesthanu, Lestbane Isthana Jyvanide levaya, Leyandi Iyyava'",
+        "length_m": 20.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 2",
+        "description": "Delete the words of Meenakshi: 'Anigindan ma Rendi'",
+        "length_m": 2.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 2",
+        "description": "Replace close-up of kissing posture of Ravi and Sujatha against the line 'Pedavi Pedavi' with sea background",
+        "length_m": 2.08,
+        "length_retained_m": 2.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 2",
+        "description": "Replace visuals of Sujatha pointing her finger upwards against the words 'Aa korika' with close shot of Ravi",
+        "length_m": 2.1,
+        "length_retained_m": 2.1
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 2",
+        "description": "Replace visual of Ravi placing his face against Sujatha's breasts while she is bending backwards with Ravi & Sujatha standing",
+        "length_m": 1.04,
+        "length_retained_m": 1.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 3",
+        "description": "Delete the words of Sujatha: 'Edutham'",
+        "length_m": 52.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 4",
+        "description": "Delete the words of Gopi: 'Dunlop Dunlop' when he bends towards Meenakshi",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 4",
+        "description": "Replace Ravi's words 'Anumanamga Unda' with 'Tamashga Unda'",
+        "length_m": 26.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 4",
+        "description": "Delete Ravi's words 'Paid ka Ekki untundi- Ekkadathaka okkindo choosi ekkada Korikes tho' (Sound and picture)",
+        "length_m": 26.12
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 4",
+        "description": "Replace Ravi's words in Burkha 'Pagalu kodetedu - Ratrikodetadu' with 'Roju weepux pagalu kod : thadu'",
+        "length_m": 2.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 5",
+        "description": "Delete kissing shot (3 shots) wherever it occurs when Ravi and Sujatha are on bed",
+        "length_m": 6.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 5",
+        "description": "Replace shot of Sujatha embracing Ravi and pressing his back with steady frames of Ravi and Sujatha on bed",
+        "length_m": 42.0,
+        "length_retained_m": 42.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace Sujatha rolling over Ravi in the song with shots of hills background",
+        "length_m": 2.06,
+        "length_retained_m": 2.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete the words of the writer: 'Thalupulu theesi bedroom lo duri' (Sound only)",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 8",
+        "description": "Delete the words of Papa Rao: 'Climax lo vachanau rice chethulu naligi chacchanu' spoken to Gopi",
+        "length_m": 26.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 8",
+        "description": "Delete the upward and downward movements of Gopi on the ground against the words 'Adave Mayuri'",
+        "length_m": 2.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace 'Thimmiri Thimmiri dinusa' wherever it occurs with 'Tempary tempary dinusa' (Sound only)",
+        "length_m": 3.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace 'Muddarstidi' with 'Muddu chestadi' (Sound only)",
+        "length_m": 6.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 10",
+        "description": "Replace dancer's bust movements and hip jerks with mid-shots of dancing boy and girls",
+        "length_m": 1.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 10",
+        "description": "Replace shots of dancer in transparent clothes with close-shot of Indira and mid-shot of Indira",
+        "length_m": 2.06,
+        "length_retained_m": 2.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 10",
+        "description": "Delete man hitting the buttocks of the dancer against the words 'Loka minte amc Vente unnadr'",
+        "length_m": 6.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel - 13",
+        "description": "Reduce the attempted rape of Sujatha by Ranga Rao retaining only 2 shots: her being thrown on the bed and her hitting the villain with flower vase",
+        "length_m": 59.01
+      }
+    ]
+  },
+  {
+    "film_title": "Neeyo Njano",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri M. Mani, Madras",
+    "cert_no": "3701",
+    "cert_date": "12-11-79",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel - 8",
+        "description": "Reduce camera lingering over Rakkamma's body while she is sweeping the floor and cleaning the table in Prasad's house to once only",
+        "length_m": 5.08
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel - 8",
+        "description": "Reduce the struggle of Rakkamma with Prasad when he tries to rape her",
+        "length_m": 3.03
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel - 14",
+        "description": "Reduce to a suggestion, Dainu being dragged on ground by Prasad on horseback",
+        "length_m": 3.03
+      }
+    ]
+  },
+  {
+    "film_title": "Burripalem Bullodu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Tirupathi International, Madras",
+    "cert_no": "81340",
+    "cert_date": "13-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel - 1",
+        "description": "Reduce the scene of Chitti Babu being pushed into the room and delete the camera tilting up showing Ladies Toilet up to the Principal's words 'No I don't want to hear anything'",
+        "length_m": 189.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 3",
+        "description": "Delete the words from the dialogue of Chitti Babu: 'Pachaiappa in Pachaieppa Kiliselule'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 3",
+        "description": "Delete the dialogue of Chidambaram: 'Em. Nakku Putti vundadani anumanuma Nijamenayva -Man Animave s'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 4",
+        "description": "Delete the visuals of Chitti B: bu with lipstick marks on his face",
+        "length_m": 2.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 5",
+        "description": "Replace words 'Pulakarintha puvvu ayutundi' with 'Molakasiggu moggavulunte' in song No. 2",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 5",
+        "description": "Replace 'Rasa Rajadhani' with 'Rasarayya Geethe' in song No. 2",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 5",
+        "description": "Delete Chitti Babu and Jyothi rolling over each other during the song sequence",
+        "length_m": 14.01
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace words 'Bandhalatho _ Tellara Neve _ Telli ripothe' wherever they occur with 'Anubandalato, Alarinchi prove, Alarinchipotha'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace 'Na koka gali thagili nce kaka ragulu thinte' with 'Aa kondagalithagilinec gunde raguluthunte'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace 'Garello Bella vesi garamga necku pedutha' with 'Garala malle uvvula haralau neeku vesta'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete 'Ereethi venta padithe venemma damma dulipi', along with visuals of Jyothi's backward and forward movement with the lifted kalipi",
+        "length_m": 6.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete visuals of hand gesture of Jyothi against the words 'Muntc Majji gichukunta' in the dance",
+        "length_m": 20.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete hip jerks of Jyothi on BGM before the words 'Poddu vateragane' in triple exposure",
+        "length_m": 17.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete hip jerks of Jyothi while Chitti Babu is bending before her",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete Chitti Babu hitting Jyothi on her hips",
+        "length_m": 10.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 7",
+        "description": "Replace Sundari's words to Chitti Babu 'Jyothi-kunnavunni Na Kuv yunnayi' with 'Jyothi-kunna Andham Naaku Vunde'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 7",
+        "description": "Delete mid-shots of Savithiri's bust cleavage while standing beside Sathyamurthi",
+        "length_m": 6.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 7",
+        "description": "Delete the shot of Sathyamurthi mounted on Savithri on the sofa",
+        "length_m": 26.02
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 10",
+        "description": "Replace words 'Idi Vedi meedunna Na venele madugammo' with 'Idi Veyi paruvala nad vennela vayasamno' in song 4",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 10",
+        "description": "Replace 'Sunnum kodathadu' with 'Dandam Padathadu' in song 4",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 10",
+        "description": "Replace 'Dinchamakku pichirlu' with 'Cheppamaku patalu' in song 4",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 10",
+        "description": "Replace 'Chethikichikkichcdugudodo Aadindhi' with 'Chilakala koliki chituku chituku choosindi' in song 4",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 8",
+        "description": "Delete Chitti Babu and Jyothi hitting each other on hips in the dance",
+        "length_m": 6.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 8",
+        "description": "Delete Chitti Babu and Jyothi hitting each other on hips against words 'Vennela Madugammo'",
+        "length_m": 6.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 8",
+        "description": "Delete mid-close of the grinding movement of Jyothi",
+        "length_m": 9.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 8",
+        "description": "Delete Chitti Babu hitting against the hip of Jyothi (Mid-shot)",
+        "length_m": 6.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 8",
+        "description": "Replace hitting of hips of Chitti Babu & Jyothi on BGM with tree panning shots",
+        "length_m": 9.12,
+        "length_retained_m": 9.12
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Koti lingala Revu kada Jatharni' with 'Nec jithuku chithe kani, china danni' in song No. 5",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Kaatste' with 'Kajesc' in song No. 5",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Vateso Choravunte Chotunolira Matundhira' with 'Vaddinche sogasunte Aatundira Paatundira'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Karukaina Kannundi' with 'Kalaganna Kannundi'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Sarukunte Suatundimautundi' with 'Chaligunte Chelivundi pillichindi'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'E lsaguntali gasa gasamantadhi' with 'Isurenduku gusa gusalonduku'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Buruduntadi Basa, Busamantadhi' with 'Budakuntadi guda buda mantadi'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Raachanimmalameena' with 'Raagalathotalona'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 12",
+        "description": "Replace 'Medanti' with 'Maananti'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 12",
+        "description": "Delete visual of the dancer pinching Chitti Babu on the back against the word 'Gilli, Gilli'",
+        "length_m": 4.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 12",
+        "description": "Delete grinding movements of the dancer behind the pillar",
+        "length_m": 5.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 13",
+        "description": "Replace Chidambaram's words 'Iddarikioke Timea -Adola Kuduruthundi ?' with 'Iddriki Alage Cheppinda - Enduku Cheppindi'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 13",
+        "description": "Replace Kannayya's words 'Soctha odi kosam' with 'Seethakkosamega'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 14",
+        "description": "Replace words 'M4 Dhaggarcmundo Mecdhi Mecdhikostaru' with 'Maa siggu mogga veste mirti mirti chustaru' in song 6",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 14",
+        "description": "Replace 'Kindi nundi paidaka guchi, guchi choostaru' wherever it occurs with 'Guntanakualaga nakki nakki chustaru'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 14",
+        "description": "Replace Chidambaram's action against Kannaya with orchestra group",
+        "length_m": 7.02,
+        "length_retained_m": 7.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 14",
+        "description": "Delete grinding movements of waist and hips by group dancers",
+        "length_m": 5.03
+      }
+    ]
+  },
+  {
+    "film_title": "Chal Mohana Ranga (Revised)",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Shri P. Thrinadha Rao, Madras",
+    "cert_no": "81339",
+    "cert_date": "14-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel - 4",
+        "description": "Reduce strangulation of Zamindar by Raja with a neck-tie to a suggestion, retaining only the shot of zamindar being thrown on the bed held by Nagendra and the last shot of Raja removing the neck-tie from the dead body",
+        "length_m": 28.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 5",
+        "description": "Delete flash-back of Lalitha recollecting her rape",
+        "length_m": 22.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace prism-shots of Radha and Mohan making love in the garden with alternative shots of Krishna & Deepa",
+        "length_m": 55.09,
+        "length_retained_m": 55.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace shot of Mohan and Radhe lying on the beach face to face and moving indecorously with Krishna-Deepa shot",
+        "length_m": 21.0,
+        "length_retained_m": 21.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace shot of Radha bending backward and Mohan putting his face on her bust cleavage with sea-shot double-print",
+        "length_m": 0.14,
+        "length_retained_m": 0.14
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace shot of Mohan and Radha rubbing their faces with flowers double print",
+        "length_m": 11.05,
+        "length_retained_m": 11.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace Raja's hand on dancer's thigh riding upwards with Jayamalini & Mohan Babu shot",
+        "length_m": 7.04,
+        "length_retained_m": 7.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace dancer expanding her legs on the ground with Jayamalini & Mohan Babu shot",
+        "length_m": 7.08,
+        "length_retained_m": 7.08
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace dancer revealing her bust cleavage (close-up) with Jayamalini & Mohan Babu shot",
+        "length_m": 6.05,
+        "length_retained_m": 6.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace midriff jerks of dancer facing camera with Jayamalini & Mohan Babu shot",
+        "length_m": 2.11,
+        "length_retained_m": 2.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 11",
+        "description": "Delete shot of Radha placing her thigh on the hip of Mohan in the song sequence",
+        "length_m": 4.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 12",
+        "description": "Delete entire rape scene of Lalitha together with symbolic shots, retaining shot showing Raja entering kitchen, shot of feet with flowers, and the last shot of girl on bed and Sathyamurthi entering the room",
+        "length_m": 24.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 13",
+        "description": "Delete flash-back of Lalitha recollecting the rape by Raja",
+        "length_m": 16.12
+      }
+    ]
+  },
+  {
+    "film_title": "Veettukku Veedu Vasappadi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Arun Prasad Movies (P) Ltd., Madras",
+    "cert_no": "81345",
+    "cert_date": "15-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel - 4",
+        "description": "Delete the dialogue of the hero to the heroine: 'Kalyanam' to 'Valimai Irukkum'",
+        "length_m": 14.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 5",
+        "description": "Delete dialogue of Maldurai the drunkard comparing prohibition policies of Tamilnadu and Andhra, and dialogue of the drunkard: 'Aankal irandu yeda thkkuthan'",
+        "length_m": 31.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 7",
+        "description": "Delete visual of the hero and the heroine lying on the bed with their legs intertwined",
+        "length_m": 9.09
+      }
+    ]
+  },
+  {
+    "film_title": "Iniyum Kanam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri S.S.R. Thambi Durai, Madras",
+    "cert_no": "81346",
+    "cert_date": "15-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel - 4",
+        "description": "Replace close low-angle shots of girls marching in a row on the swimming pool, revealing bare legs and underwear, by shots of fountain",
+        "length_m": 12.0,
+        "length_retained_m": 12.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 6",
+        "description": "Delete sustained lingering shot of the steno's bare leg while taking dictation",
+        "length_m": 33.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 7",
+        "description": "Delete dialogue of Kesavan: 'Bharya, lo Uniform maatum and Uduppu to Onnumilla'",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 15",
+        "description": "Delete bedroom scene when the boss is lying with his steno, retaining only the opening shot of their lying on the bed, followed by Devan making his appearance on the scene",
+        "length_m": 15.02
+      }
+    ]
+  },
+  {
+    "film_title": "Yaarukku Yaar Kaaval",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Cine Neo Manijeh Productions, Madras",
+    "cert_no": "81347",
+    "cert_date": "16-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "Reel - 1",
+        "description": "Replace visual of Somu rolling the saree of Meena and passing his hand over her bare leg by shot of Somu touching the back of Meena",
+        "length_m": 5.01,
+        "length_retained_m": 5.01
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 2",
+        "description": "Replace Jagan's gesture with his finger outlining the breast of the girl in the painting while talking over the phone by shot of Meena holding telephone",
+        "length_m": 4.03,
+        "length_retained_m": 4.03
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 2",
+        "description": "Replace Jagan's words 'You bloody bitch' (Sound only silent shot only) of Jagan pushing her by a shot of Jagan pushing her",
+        "length_m": 2.11,
+        "length_retained_m": 2.11
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 5",
+        "description": "Replace Kulandaivelu's dialogue with the vegetable vendor",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 6",
+        "description": "Replace Kulandaivelu's wife's dialogue 'End, thoori kattunnu Oru pullaiya' with 'Endi sooranai kattonnu kekiradhukku oru pillaiya'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 8",
+        "description": "Replace Gundy Sami's dialogue 'Pongalnna Thangu Thangunnu Thanguvaru, and Adhu ingey sulabam than vanga' with 'Penkalunna vango vangonnu aaduvaaru -unthavaran kidaikkalam'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel - 9",
+        "description": "Replace dialogues between Kulandzi and the fat disciple",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 9",
+        "description": "Delete shots of Somu lifting his hand with a ladle with the sound of beating the chair",
+        "length_m": 7.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel - 14",
+        "description": "Delete all visuals of struggle between Jagan and Meena on the bed",
+        "length_m": 6.05
+      }
+    ]
+  },
+  {
+    "film_title": "Mahasakthi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Anordalakshmi Art Productions Madras",
+    "cert_no": "81348",
+    "cert_date": "16-11-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Zamindar",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Ravindra Art Pictures, Madras",
+    "cert_no": "80990",
+    "cert_date": "16-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "I",
+        "description": "In the scene where two cars crash into an oil truck, and the petrol catches fire, delete close shots showing dead body of Szell's brother catching fire and similar close shots of the other person in his car",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete double meaning dialogue by Melendez when Bane runs up steps of the building: 'You time yourself in the shower with suggestive action'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the fight between Doe and Chinaman delete shots when blood is oozing from Doe's hand profusely and other gruesome shots",
+        "length_m": 3.8
+      },
+      {
+        "kind": "reduction",
+        "reel": "III",
+        "description": "Reduce the love-making scene between Baba and Ela, and also delete the breast nudity",
+        "length_m": 11.27,
+        "length_retained_m": 1.68
+      },
+      {
+        "kind": "reduction",
+        "reel": "M",
+        "description": "In the scene where Doe meets Szell who thrusts the knife into Doe's stomach, delete all shots depicting oozing of blood from Doe's stomach and blood-stained hands",
+        "length_m": 7.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "NO",
+        "description": "Delete the scene showing Doc entering into Babe's room with blood oozing from stomach and mouth and with blood-stained hands",
+        "length_m": 6.4,
+        "length_retained_m": 2.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce considerably scenes showing dead body of Doe lying on the ground with blood oozing from his mouth in the room of Baho. Also delete scene showing Doe's body being placed inside the coffin",
+        "length_m": 1.67,
+        "length_retained_m": 0.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV & V",
+        "description": "Delete all shots of dental torture, retaining just a few frames for suggestion of the purpose of the scenes",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Manasakshi",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Vijaya Balaji Movies, Madras",
+    "cert_no": "80991",
+    "cert_date": "16-11-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Apli Manse",
+    "languages": [
+      "Marathi"
+    ],
+    "producer": "V.K. Productions",
+    "cert_no": "91915",
+    "cert_date": "19-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete visuals showing Kanchan Shekhar in compromising, intimate poses and rolling over each other prior to and during the song sequence in the garden",
+        "length_m": 2.36
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIV",
+        "description": "Replace the word 'maal' with an approved shot when referring to the dancing girl",
+        "length_m": 1.41,
+        "length_retained_m": 1.41
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Tere Ashiq Hain",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Prem Sagar Films, Natraj Studios",
+    "cert_no": "91919",
+    "cert_date": "22-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete dialogue regarding children being born in spite of 'Nasbandi' and sending the wife to her parents for three years, as uttered by Keshto Mukerji",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete close shots of cabaret dancers with their thighs prominently exposed",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Maal' and 'Choosa' with reference to Ramkali",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close shot of Ramkali's blouse being unzipped when her brassier is shown during attempted rape",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce drastically in impact the visuals showing fire and fighting between the villain, the hero and the heroine",
+        "length_m": 21.0,
+        "length_retained_m": 27.4
+      }
+    ]
+  },
+  {
+    "film_title": "Preet Khandan Ni Dhaar",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Mr. Ramraj Nahta, M/s. Ranglok Films",
+    "cert_no": "91920",
+    "cert_date": "23-11-79",
+    "endorsement": "U",
+    "alterations": []
+  },
+  {
+    "film_title": "Desh Drohi (Revised)",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Sangam Arts International Bhagwant Singh, G.L. Khanna",
+    "cert_no": "4583",
+    "cert_date": "22-11-79",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Delete dialogue regarding children being born in spite of 'Nasbandi' and sending the wife to her parents for three years, as uttered by Keshto Mukerji",
+        "length_m": 3.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "Delete close shots of cabaret dancers with their thighs prominently exposed",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete the word 'Maal' and 'Choosa' with reference to Ramkali",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete close shot of Ramkali's blouse being unzipped when her brassier is shown during attempted rape",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV & XVI",
+        "description": "Reduce drastically in impact the visuals showing fire and fighting between the villain, the hero and the heroine",
+        "length_m": 21.0,
+        "length_retained_m": 27.4
+      }
+    ]
+  },
+  {
+    "film_title": "Bandhan",
+    "languages": [
+      "Bengali"
+    ],
+    "producer": "M/s. Kalimata Prc ductions, 50, M. N. Sen Lane, Calcutta-40",
+    "cert_no": "090603",
+    "cert_date": "19-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the visual of the judge reading the verdict",
+        "length_m": 18.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the voice of the judge reading the verdict from the sound track and the objectionable portion in the song following amounting to contempt of court",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Srungara Ramudu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Sathiyaithaai Preductions, Madras",
+    "cert_no": "81349",
+    "cert_date": "19-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the word of Rajaram: 'Meshanani'",
+        "length_m": 4.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete visuals: Rajaram hitting Shanthi's back with a brief case, his lifting Shanthi's neckline with finger, his patting her lap and running his hand on her lap",
+        "length_m": 13.06
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace Rajaram's dialogue 'Brahmandamga undi' with 'baga undi' and delete visuals",
+        "length_m": 3.1,
+        "length_retained_m": 3.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete Rajaram's dialogue 'Alavatu chesuko Vali'",
+        "length_m": 8.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete visuals in the song sequence: Rajaram pinching Shanthi's buttocks, knocking her chest to chest, hitting her with his knee, hitting her with elbow, hugging her",
+        "length_m": 11.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace words in song No. 2: 'Sth line Bppudomi- Bla doyyalo' with 'Express coffee kavala, Adi extra - strong cheyyala, . Anukunnanu'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace 'Oka gari . . Choppali' with 'Oka şasi thagera . . Chosthanani cheppall'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replace last four words of 7th line 'Andaka . . Cheyyali' with 'Andaka ochaga agalena idi nakcladani the luyukoyali'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replace Ram's visual of tearing the blouse strap of Shanthi with shot of Shanthi's leg",
+        "length_m": 1.13,
+        "length_retained_m": 1.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete dialogue of Rajaram: 'Repa Repa'",
+        "length_m": 16.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete dialogue of Rajaram: 'Na Debba'",
+        "length_m": 8.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete visuals in the song sequence: body to body hit between Rajaram and Shanthi, hitting her with his shoulder, two prolonged low-angle shots of Shanthi and Rajaram on boat revealing thighs",
+        "length_m": 10.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete dialogue of Rita while in bath tub: 'Vallu vedikkinde' and Pratap's reply 'Ayedi bath tubfoete'",
+        "length_m": 18.11
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete visuals of Pratap getting up with bare body and shot of clock showing time lapse",
+        "length_m": 12.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete visuals: Rajaram opening Rita's zip, Rajaram sitting on Rita's lap, Rajaram hitting her with knee, Rajaram unzipping the blouse",
+        "length_m": 1.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Rita's gesture against the word 'Choodu choodu'",
+        "length_m": 2.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete gesture against the word 'Iddaram adeaata okati'",
+        "length_m": 15.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete Rajaram's dialogue 'Nee bodilo unna vodi'",
+        "length_m": 12.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete visual of Rajaram kicking Shanthi with leg",
+        "length_m": 1.12
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete Shanthi rubbing on her hips and moving her skirt up and down against the words 'Vayasuku sogasulu choopistu'",
+        "length_m": 3.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete Rajaram's dialogue: 'With Ramnarayan Ratbriki oka ranku mugudito pandukini ranku pellam', 'With Rita 'Muhurtham Rathri padinkiti', 'Atta Mamaoto moodu nidralayinc cheseva', Rita reply 'Ayyo antamathrane'",
+        "length_m": 7.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete Pratap's dialogue 'Nayallu yedikki potundi'",
+        "length_m": 6.08
+      }
+    ]
+  },
+  {
+    "film_title": "Indra Dhanassu",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Shri G.S. Panicker, Attungal, Kerala",
+    "cert_no": "81365",
+    "cert_date": "21-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduce the torture of Govindan on the ice-blocks to a suggestion",
+        "length_m": 17.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduce the throttling to death of the physician by Menon",
+        "length_m": 16.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce the shot of Mohamed being stamped on the neck of Karuppiah",
+        "length_m": 5.09
+      }
+    ]
+  },
+  {
+    "film_title": "Uranguthu Kangal",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Arunachalam Pictures Madras",
+    "cert_no": "81372",
+    "cert_date": "22-11-79",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete visuals in the dance sequence of the hero and heroine singing together: shots of hero and heroine rolling over each other, shot of hero caressing heroine's hips",
+        "length_m": 1.091
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete shots of hero caressing the heroine's hips",
+        "length_m": 4.12
+      }
+    ]
+  }
+]

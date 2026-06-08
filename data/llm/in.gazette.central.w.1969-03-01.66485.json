@@ -1,0 +1,828 @@
+[
+  {
+    "film_title": "Shhar di Kudi",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "S. P. Ghai, Junina Productions, Bombay- 11",
+    "cert_no": "53167",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Introduction of approved tablet stating that all names of persons depicted in the film are imaginary and have no resemblance to any living persons.",
+        "length_m": 7.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the picturisation of the song 'Lute gaye lute gaye', delete the close view of Sheela with her back to the audience as she walks away.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel II",
+        "description": "Approved shots replacing deleted content.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the words 'Checz wadi wadiya ayc' as spoken by Bhatija with reference to Shtela.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete Mana's words addressed to an old woman: 'Je tu hoven meri jaan'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the scene of Bhatija with the Army Recruiting Officer, delete the portion where he starts massaging the officer's arm.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V & VIII",
+        "description": "Delete the entire appearance of Bhatija in military uniform after his dismissal from service in the Army as a cook.",
+        "length_m": 139.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Remove all dialogues indicating that Taro, depicted as Durbaru's mistress, is actually a C.I.D. Officer.",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Palumanasulu",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Gowri Productions, Madras",
+    "cert_no": "52053",
+    "endorsement": "U",
+    "rule_applied": "Voluntary deletion and replacement",
+    "original_length_m": 4349.0,
+    "final_length_m": 4349.0,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "last reel",
+        "description": "Voluntary deletion of 15.54 Metres and replacement of the same with 15.54 Metres.",
+        "length_m": 15.54
+      }
+    ]
+  },
+  {
+    "film_title": "The Great Diamond Robbery",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Fida Cinematografica, Italy",
+    "cert_no": "53175",
+    "endorsement": "U",
+    "original_length_m": 132.0,
+    "length_deleted_m": 3.66,
+    "final_length_m": 128.34,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Reduce blows given to bald-headed person by Lang.",
+        "length_m": 2.44,
+        "length_retained_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce shot of blood-smeared face of Lang.",
+        "length_m": 1.22,
+        "length_retained_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "The Umbrellas of Cherbourg",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Parc films-madeline films- paris beta film - munich, France & Germany",
+    "cert_no": "53166",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII 4B",
+        "description": "Delete the following shots in the fight between boys and PJ. at the Caballero: Boys holding P.J. and one of them clawing fingernails on his neck; Bartender kneeing P.J.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII 4B",
+        "description": "Reduce the shot of Maureen seated in bath tub in nude retaining only the shot when she talks with P.J. towards the end for continuity.",
+        "length_m": 3.98,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X 3B",
+        "description": "Delete shot of Maureen lying over P.J. and later P.J. embracing her and rolling on top of her.",
+        "length_m": 7.03
+      }
+    ]
+  },
+  {
+    "film_title": "The Great Diamond Robbery",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Fida Cinematografica, Italy",
+    "cert_no": "2156",
+    "endorsement": "U",
+    "original_length_m": 2920.0,
+    "length_deleted_m": 6.7,
+    "final_length_m": 2913.3,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Reduce passionate kissing between Lang and Eve.",
+        "length_m": 2.74,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Reduce blows given to Lang by men from Forenc's gang.",
+        "length_m": 3.96,
+        "length_retained_m": 43.66
+      }
+    ]
+  },
+  {
+    "film_title": "Brahmachari",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "G. P. Sippy, Anand Niwas A - Road, Churchgate, Bombay- 1",
+    "cert_no": "53185",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel XIV",
+        "description": "Established by inserting suitable dialogue or otherwise to convey that the bridegroom who is dislodged from the marital alter as a result of the intervention by Brahmachari, is a married person having children.",
+        "length_m": 10.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Deleted Ravi's words to the effect that Roopa could undergo abortion at one of the Nursing Homes.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XV",
+        "description": "Approved words replacing deleted content.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "Raaz",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "G. P. Sippy, Anand Niwas, Churchgate, Bombay- 1",
+    "cert_no": "53192",
+    "endorsement": "U",
+    "original_length_m": 88.39,
+    "length_deleted_m": 3.13,
+    "final_length_m": 86.26,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the close view of the man lying dead with eyes wide open.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shot of the hero being mercilessly whipped, with view of bleeding on his bare back.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "P.J.",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Edward J. Montagne, USA",
+    "cert_no": "2160",
+    "endorsement": "U",
+    "original_length_m": 2982.77,
+    "length_deleted_m": 16.3,
+    "final_length_m": 2966.47,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII 4B",
+        "description": "Delete the following shots in the fight between boys and PJ. at the Caballero: Boys holding P.J. and one of them clawing fingernails on his neck; Bartender kneeing P.J.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII 4B",
+        "description": "Reduce the shot of Maureen seated in bath tub in nude retaining only the shot when she talks with P.J. towards the end for continuity.",
+        "length_m": 3.98,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X 3B",
+        "description": "Delete shot of Maureen lying over P.J. and later P.J. embracing her and rolling on top of her.",
+        "length_m": 7.03
+      }
+    ]
+  },
+  {
+    "film_title": "Kannan En Kathalan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Shri R. M. Veerappan, Madras",
+    "cert_no": "52442",
+    "endorsement": "U",
+    "original_length_m": 3976.72,
+    "length_deleted_m": 27.42,
+    "final_length_m": 3976.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Song - Delete Malati rolling over MGR exposing her bust.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 2",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete Gita's bust exposure on the word 'Please?'. In the ball scene, delete main dancer's indecorous jerks.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Gita's prominent front triangle views in light pants talking to rowdy.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 6.09
+      }
+    ]
+  },
+  {
+    "film_title": "Circar Express",
+    "languages": [
+      "Telugu"
+    ],
+    "producer": "Gowri Art Films, Madras",
+    "cert_no": "52429",
+    "endorsement": "U",
+    "original_length_m": 3998.27,
+    "length_deleted_m": 65.96,
+    "final_length_m": 3998.27,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Song - In the dance, delete dancer Kalayatly's bust exposures with jerky movements.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 9",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 5.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Song - Delete the entire picturisation of the dance in the hotel.",
+        "length_m": 60.96
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Approved replacement for picturisation.",
+        "length_m": 60.96
+      }
+    ]
+  },
+  {
+    "film_title": "Liludi Dharati",
+    "languages": [
+      "Gujarati"
+    ],
+    "producer": "Suresh Amin",
+    "cert_no": "53732",
+    "endorsement": "U",
+    "original_length_m": 3931.2,
+    "length_deleted_m": 37.16,
+    "final_length_m": 3844.04,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the reference to suthar with regard to the adopted son.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduce the gestures of Shadulbha, Mandan and others towards Santu at Ragha's hotel.",
+        "length_m": 2.44,
+        "length_retained_m": 28.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II & IX",
+        "description": "Reduce the reference to 'Kanba and Kanban' when these are not contradicted in words or actions.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the scenes of dead body of Parbat.",
+        "length_m": 4.57,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the words 'Khali Khatalo tahari vaat joto hashe'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the reference to 'petman paap'.",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete the following dialogues: 'Pan mane okaline suvani na padasho. Eneya tev padi gayi chhe.'",
+        "length_m": 8.53
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX & XIII",
+        "description": "Reduce the scenes of Bhuvas and worshippers of the Meladi Mata shaking their body vigorously.",
+        "length_m": 24.08,
+        "length_retained_m": 18.29
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX & XIV",
+        "description": "Reduce the scenes showing the pan in which Santu is to put her hand in boiling oil.",
+        "length_m": 7.32,
+        "length_retained_m": 45.41
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Reduce the scenes of fight between the two ladies and omit the word 'Raand' and derogatory references to Kanban from their dialogues. Delete similar references in Ajawall's talk with her husband.",
+        "length_m": 13.41,
+        "length_retained_m": 53.34
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the scenes of delivery of Santu and Jadi with their cries of pain.",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Delete the sentence: 'Deedur Jarveshna ane kartook Kabana.'",
+        "length_m": 7.62
+      }
+    ]
+  },
+  {
+    "film_title": "Wanted Johny Texas",
+    "languages": [
+      "English"
+    ],
+    "format": "Totalscope",
+    "producer": "Film Kantor Italiana- Firenze, Italy",
+    "cert_no": "53763",
+    "endorsement": "U",
+    "original_length_m": 85.0,
+    "length_deleted_m": 1.6,
+    "final_length_m": 83.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete direct hit in the stomach to Johnny.",
+        "length_m": 0.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce fighting between the Rangers and the pioneers.",
+        "length_m": 0.71,
+        "length_retained_m": 0.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the blow of the knee on the forehead of Johnny given by O'Connor.",
+        "length_m": 0.64
+      }
+    ]
+  },
+  {
+    "film_title": "Divorce American Style",
+    "languages": [
+      "English"
+    ],
+    "producer": "Norman Lear, USA",
+    "cert_no": "53764",
+    "endorsement": "U",
+    "original_length_m": 83.82,
+    "length_deleted_m": 10.69,
+    "final_length_m": 73.13,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the shots in which Richard and Barbara are shown undressing.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete the following dialogue of Zenwinn addressed to Richard: 'I always suggest that we think of the sex strive as we would of a fine violin. Play it regularly, as it were, and it stays in tune.'",
+        "length_m": 4.88
+      }
+    ]
+  },
+  {
+    "film_title": "Point Blank",
+    "languages": [
+      "English"
+    ],
+    "format": "Panavision",
+    "producer": "Judd Bernard, USA",
+    "cert_no": "53765",
+    "endorsement": "U",
+    "original_length_m": 78.03,
+    "length_deleted_m": 10.33,
+    "final_length_m": 67.7,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce shots of Lee Marvin jabbing his caravan against pillars in quick succession.",
+        "length_m": 1.72,
+        "length_retained_m": 1.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots in which John Vernon unbuttons dress of Angie Dickinson and both are seen making love to each other naked in bed.",
+        "length_m": 3.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shots of Lee Marvin and Angie Dickinson kissing each other in bed and rolling over.",
+        "length_m": 5.52
+      }
+    ]
+  },
+  {
+    "film_title": "The Happening",
+    "languages": [
+      "English"
+    ],
+    "producer": "Jud Kinberg, USA",
+    "cert_no": "2162",
+    "endorsement": "U",
+    "original_length_m": 2507.28,
+    "length_deleted_m": 30.93,
+    "final_length_m": 2476.35,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I (i)",
+        "description": "Delete near views of scantily-clad young men and women lying about in pairs, on branches of trees as well as on the ground in the jungle garden before and during the police chase.",
+        "length_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel I (ii)",
+        "description": "Reduce the shots showing Taurus and a scantily-clad girl lying on ground and kissing each other passionately.",
+        "length_m": 1.52,
+        "length_retained_m": 0.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I (iii)",
+        "description": "Delete the shot in which a couple run naked when chased by police.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete underlined words from the dialogues of Monica addressed to Taurus with reference to her husband: 'For 200 thousand dollars, you keep the son of a bitch.'",
+        "length_m": 0.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Reduce to the barest minimum the passionate embrace and kiss between Sureshot and Sandy meaning and snickering in the dilapidated house.",
+        "length_m": 17.68
+      }
+    ]
+  },
+  {
+    "film_title": "Mexican Slayride",
+    "languages": [
+      "English"
+    ],
+    "format": "CS",
+    "producer": "Francaus du film prodr., France/Italy",
+    "cert_no": "2164",
+    "endorsement": "U",
+    "original_length_m": 2404.87,
+    "length_deleted_m": 79.62,
+    "final_length_m": 2325.25,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Remove the underlined words from the dialogues: 'Old man...'. 'Richand is in Saint Domingo, Poidart's in Pakistan, ...'",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III (a)",
+        "description": "Delete close shot of the slaughtered goat at the entrance of the slaughter house.",
+        "length_m": 17.07
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III (b)",
+        "description": "Reduce considerably shots of slaughtered goats hanging.",
+        "length_m": 17.07,
+        "length_retained_m": 13.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III (c)",
+        "description": "Reduce shot of Fondine hanging upside down.",
+        "length_m": 11.89,
+        "length_retained_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete close shot of the bosom of the Countess when she is dressed in knitted clothing and is standing near the bed.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Delete shots of torture of a person by dragging him behind a car and his screams retaining only a flash shot for continuity.",
+        "length_m": 7.07
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the following scene starting from Man: 'We must take...' upto Voice: '...United States will be paralysed and destroyed.'",
+        "length_m": 18.9
+      }
+    ]
+  },
+  {
+    "film_title": "Agent X 2 Operation Underwater",
+    "languages": [
+      "English"
+    ],
+    "format": "Wide screen",
+    "producer": "Arthur Davies Prodas, Japan",
+    "cert_no": "53769",
+    "endorsement": "U",
+    "original_length_m": 60.96,
+    "length_deleted_m": 10.06,
+    "final_length_m": 50.9,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete close shots of Cyborgs.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Delete shot of the hand of a person who is being turned into Cyborg.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Reduce shooting by Cyborgs.",
+        "length_m": 4.27,
+        "length_retained_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "P.J.",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Edward J. Montagne, USA",
+    "cert_no": "2157",
+    "endorsement": "U",
+    "original_length_m": 4132.48,
+    "length_deleted_m": 7.77,
+    "final_length_m": 4124.71,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII 4B",
+        "description": "Reduce the love-scene between Brown and Murtha, omitting the shot of his hand scar her bust.",
+        "length_m": 4.87,
+        "length_retained_m": 4.26
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X 5B",
+        "description": "Delete the shot of a Haitian biting at the neck of a cock prepared for the sacrifice.",
+        "length_m": 2.08
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVI",
+        "description": "Delete the shot of a Tonton man actually lacerating the throat of Dr. Maguiot while attending to a patient operation.",
+        "length_m": 0.82
+      }
+    ]
+  },
+  {
+    "film_title": "The Night of The Generals",
+    "languages": [
+      "English"
+    ],
+    "producer": "Sam Spiegel, England",
+    "cert_no": "2158",
+    "endorsement": "U",
+    "original_length_m": 3770.99,
+    "length_deleted_m": 24.38,
+    "final_length_m": 3746.61,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the underlined portions from the following dialogue: Liegwoski - 'Providing the Polish patriot was also a sexual degenerate'; Liegwoski - 'One hundred knife wounds goes beyond normal patriotic zeal'; Medical - '...As you can see, the focus of the murder's attack was on the woman's sexual organs'.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV & V",
+        "description": "Shorten the bed scene showing passionate love making of Ulrike and Hartmann.",
+        "length_m": 21.33,
+        "length_retained_m": 15.15
+      }
+    ]
+  },
+  {
+    "film_title": "Divorce American Style",
+    "languages": [
+      "English"
+    ],
+    "producer": "Norman Lear, USA",
+    "cert_no": "2199",
+    "endorsement": "U",
+    "original_length_m": 2994.36,
+    "length_deleted_m": 0.0,
+    "final_length_m": 2994.36,
+    "alterations": []
+  },
+  {
+    "film_title": "P.J.",
+    "languages": [
+      "English"
+    ],
+    "format": "Techniscope",
+    "producer": "Edward J. Montagne, USA",
+    "cert_no": "2160",
+    "endorsement": "U",
+    "original_length_m": 2982.77,
+    "length_deleted_m": 16.3,
+    "final_length_m": 2966.47,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII 4B",
+        "description": "Delete the following shots in the fight between boys and PJ. at the Caballero: Boys holding P.J. and one of them clawing fingernails on his neck; Bartender kneeing P.J.",
+        "length_m": 2.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII 4B",
+        "description": "Reduce the shot of Maureen seated in bath tub in nude retaining only the shot when she talks with P.J. towards the end for continuity.",
+        "length_m": 3.98,
+        "length_retained_m": 2.43
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X 3B",
+        "description": "Delete shot of Maureen lying over P.J. and later P.J. embracing her and rolling on top of her.",
+        "length_m": 7.03
+      }
+    ]
+  },
+  {
+    "film_title": "Kannan En Kathalan",
+    "languages": [
+      "Tamil"
+    ],
+    "producer": "Shri R. M. Veerappan, Madras",
+    "cert_no": "52442",
+    "endorsement": "U",
+    "original_length_m": 3976.72,
+    "length_deleted_m": 27.42,
+    "final_length_m": 3976.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2",
+        "description": "Song - Delete Malati rolling over MGR exposing her bust.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 2",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Delete Gita's bust exposure on the word 'Please?'. In the ball scene, delete main dancer's indecorous jerks.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 4",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Delete Gita's prominent front triangle views in light pants talking to rowdy.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 10",
+        "description": "Approved replacement for deleted content.",
+        "length_m": 6.09
+      }
+    ]
+  }
+]

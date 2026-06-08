@@ -1,0 +1,1213 @@
+[
+  {
+    "film_title": "Milap",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "70668",
+    "endorsement": "U",
+    "rule_applied": "34",
+    "original_length_m": 3309.72,
+    "length_deleted_m": 14.63,
+    "final_length_m": 3309.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "various shots deleted",
+        "length_m": 12.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "various shots added",
+        "length_m": 5.64
+      },
+      {
+        "kind": "replacement",
+        "description": "old commentary sound replaced with no commentary sound",
+        "length_m": 10.52
+      }
+    ]
+  },
+  {
+    "film_title": "Music of India” Santoor”",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "cert_no": "60701",
+    "rule_applied": "34",
+    "original_length_m": 321.65,
+    "final_length_m": 325.0,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "Addition of Film Division's monogram",
+        "length_m": 3.35
+      }
+    ]
+  },
+  {
+    "film_title": "Hum Do Hamare Do",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "61924",
+    "rule_applied": "34",
+    "original_length_m": 309.6,
+    "length_deleted_m": 10.0,
+    "final_length_m": 299.6,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "various shots deleted",
+        "length_m": 10.0
+      }
+    ]
+  },
+  {
+    "film_title": "Road to Freedom",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "71718",
+    "rule_applied": "34",
+    "original_length_m": 388.39,
+    "length_deleted_m": 14.9,
+    "final_length_m": 373.49,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "2",
+        "description": "various shots added",
+        "length_m": 8.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "various shots deleted",
+        "length_m": 14.9
+      }
+    ]
+  },
+  {
+    "film_title": "Bhagya L a M»i (Maha r ashtra Lottery)",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "61500",
+    "rule_applied": "34",
+    "original_length_m": 304.8,
+    "final_length_m": 331.8,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "description": "various shots added",
+        "length_m": 27.0
+      }
+    ]
+  },
+  {
+    "film_title": "Aapraadh",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "69513",
+    "rule_applied": "34",
+    "original_length_m": 144.78,
+    "final_length_m": 136.25,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "various shots deleted",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Thiruvabharanam",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "66969",
+    "rule_applied": "34",
+    "original_length_m": 3992.88,
+    "length_deleted_m": 11.26,
+    "final_length_m": 3891.62,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Deleted name 'Nirodh Kumar' and other characters calling him by that name.",
+        "length_m": 10.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Deleted sequence showing Nambudiri and others displaying a bra and dialogue referencing it.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Deleted shot of Kumar catching a man's head between his thighs during a fight.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Bangarada Kalla",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "66970",
+    "rule_applied": "34",
+    "original_length_m": 3945.02,
+    "length_deleted_m": 4.85,
+    "final_length_m": 3942.91,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted reference to 'Pakistan' from Papanna's dialogue.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replaced two prominent 'X's on Kalpana's body before song with audience shot.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted close-shot of Jagga removing latch with knife to open door.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted shot of Jagga's face after blood spills on it.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted shot of Jagga laying his leg on Kalpana's belly and crushing it during a fight.",
+        "length_m": 0.6
+      }
+    ]
+  },
+  {
+    "film_title": "Villi Deivanai",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "66971",
+    "rule_applied": "34",
+    "original_length_m": 4012.98,
+    "length_deleted_m": 25.55,
+    "final_length_m": 3987.43,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Deleted shot of record dancer displaying a bra and salesman's dialogue about size.",
+        "length_m": 6.39
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduced fighting, particularly mid-eng and mid-close shots of kicking and legs pressing near face.",
+        "length_m": 5.78,
+        "length_retained_m": 50.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted words 'Perumal Koil Kadhavu Madhiri' and 'Chi Vagal Mooduda' spoken by compounder.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduced fighting, particularly kicking.",
+        "length_m": 5.47,
+        "length_retained_m": 70.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted shot of Sadan toppling a patient while bandaging his leg.",
+        "length_m": 1.82
+      }
+    ]
+  },
+  {
+    "film_title": "C.I.D. 72",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "66973",
+    "rule_applied": "34",
+    "original_length_m": 4563.48,
+    "length_deleted_m": 121.26,
+    "final_length_m": 4527.53,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Re-taken picturisation of song in shower bath sequence.",
+        "length_m": 85.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted view of hand on the dividing line of posteriors when Sridhar is carrying Anita's body.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduced sequence of ruffians whipping Sridhar and Sridhar and Raju whipping ruffians.",
+        "length_m": 18.88,
+        "length_retained_m": 72.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Deleted shot of a ruffian breaking a bottle on Sridhar's head.",
+        "length_m": 0.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduced excessive fighting scenes.",
+        "length_m": 15.53,
+        "length_retained_m": 156.56
+      }
+    ]
+  },
+  {
+    "film_title": "Kaalachakram",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "66977",
+    "rule_applied": "34",
+    "original_length_m": 4207.15,
+    "length_deleted_m": 12.92,
+    "final_length_m": 4118.76,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replaced cabaret dance sequence with Ravi insert.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replaced cabaret dancer's movements with music party insert.",
+        "length_m": 7.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replaced objectionable movements of cabaret dancer with music party insert.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Replaced mid-shot of dancer with music party insert.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Voluntary deletion",
+        "length_m": 88.39
+      }
+    ]
+  },
+  {
+    "film_title": "Milap",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "70668",
+    "rule_applied": "34",
+    "original_length_m": 3309.72,
+    "length_deleted_m": 14.63,
+    "final_length_m": 3309.72,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "various shots deleted",
+        "length_m": 12.19
+      },
+      {
+        "kind": "insertion",
+        "reel": "XIII",
+        "description": "various shots added",
+        "length_m": 5.64
+      },
+      {
+        "kind": "replacement",
+        "description": "old commentary sound replaced with no commentary sound",
+        "length_m": 10.52
+      }
+    ]
+  },
+  {
+    "film_title": "Bandhe Hath",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "71705",
+    "rule_applied": "34",
+    "original_length_m": 4083.0,
+    "length_deleted_m": 73.95,
+    "final_length_m": 4083.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "various shots deleted",
+        "length_m": 268.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VIII",
+        "description": "various shots deleted",
+        "length_m": 31.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "various shots deleted",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "various shots deleted",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "various shots deleted",
+        "length_m": 22.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "various shots deleted",
+        "length_m": 36.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "various shots deleted",
+        "length_m": 2.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "various shots deleted",
+        "length_m": 22.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduced violence in the last fight sequence.",
+        "length_m": 73.95,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "replacement",
+        "description": "approved replacement shots",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Banarsi Babu",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "72175",
+    "rule_applied": "34",
+    "original_length_m": 4152.38,
+    "length_deleted_m": 72.7,
+    "final_length_m": 4083.0,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted silhouette shots of Neelu undressing.",
+        "length_m": 2.65
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduced sequence of Sohan and Neela in bed.",
+        "length_m": 4.87,
+        "length_retained_m": 6.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted visuals and dialogue of Gulabi putting hand inside blouse and Mohan looking at her bosom.",
+        "length_m": 5.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replaced shot of girl doing aerobatics with approved shot.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted Faryal's dialogue to Mohan and indecorous dance movements.",
+        "length_m": 21.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted shots of Gulabi's bare legs and comedians peeping under her skirt.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted Gulabi's back shot while unbuttoning skirt and revealing hips.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduced Multan being given blows by hirelings.",
+        "length_m": 1.52,
+        "length_retained_m": 1.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted bald-headed goonda tearing Gulabi's blouse.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced fight between Sohan and Mohan.",
+        "length_m": 2.13,
+        "length_retained_m": 2.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced fight between Mohan and Sohan.",
+        "length_m": 2.74,
+        "length_retained_m": 2.82
+      }
+    ]
+  },
+  {
+    "film_title": "Anuraag",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "71213",
+    "rule_applied": "34",
+    "original_length_m": 3751.17,
+    "length_deleted_m": 34.43,
+    "final_length_m": 3716.74,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "various shots deleted",
+        "length_m": 4.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "various shots deleted",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "various shots deleted",
+        "length_m": 28.65
+      }
+    ]
+  },
+  {
+    "film_title": "Daag",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "72267",
+    "rule_applied": "34",
+    "original_length_m": 4017.33,
+    "length_deleted_m": 18.66,
+    "final_length_m": 3998.67,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted shots of Sunil rolling on top of Sonia and kissing her, including end of kiss and Sunil's lungi dropping down, and Sonia's blouse falling down.",
+        "length_m": 3.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted underlined words from Sonia's dialogue reflecting badly on judiciary.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduced fight between Sunil and Sudhir.",
+        "length_m": 9.06,
+        "length_retained_m": 58.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduced Sunil kissing Sonia's neck.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Deleted underlined words from Sudhir's dialogue.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Shareef Badmas",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "72289",
+    "rule_applied": "34",
+    "original_length_m": 3963.9,
+    "length_deleted_m": 124.84,
+    "final_length_m": 3869.44,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted dying driver's face on the bridge.",
+        "length_m": 0.75
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Replaced shots of Seema quivering her bosom during cabaret dance.",
+        "length_m": 1.7
+      },
+      {
+        "kind": "replacement",
+        "reel": "II",
+        "description": "Replaced shots of dancer quivering bosom and wriggling body.",
+        "length_m": 1.4
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replaced shots of Helen pulling out scarf and showing thigh.",
+        "length_m": 4.8
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replaced shots of Helen's indecorous hip movements.",
+        "length_m": 1.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replaced shots of Helen advancing towards Ramesh and wriggling midriff.",
+        "length_m": 2.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replaced shots of Helen vigorously quivering her busts.",
+        "length_m": 0.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "V",
+        "description": "Replaced shot of Helen's bare thigh.",
+        "length_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduced fight between Diwan and hirelings.",
+        "length_m": 0.9,
+        "length_retained_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted bald-headed goonda tearing Gulabi's blouse.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced fight between Sohan and Mohan.",
+        "length_m": 2.13,
+        "length_retained_m": 2.15
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced fight between Mohan and Sohan.",
+        "length_m": 2.74,
+        "length_retained_m": 2.82
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced gun fight between Ramesh and hoodlums.",
+        "length_m": 10.9,
+        "length_retained_m": 1.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced gun battle between Ramesh and hoodlums.",
+        "length_m": 4.4,
+        "length_retained_m": 1.09
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced gun battle between Ramesh and hoodlums.",
+        "length_m": 1.9,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted gun battle between Ramesh and hoodlums.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduced Ramesh hitting Ranjit.",
+        "length_m": 2.0,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Deleted shots of Ranjit hitting Diwan and Ramesh.",
+        "length_m": 7.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Deleted shots of Ramesh fighting hoodlums.",
+        "length_m": 2.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Deleted shots of revolver and rifle firing.",
+        "length_m": 10.45
+      },
+      {
+        "kind": "replacement",
+        "description": "approved replacement shots",
+        "length_m": 30.48
+      }
+    ]
+  },
+  {
+    "film_title": "Nii D tniya Nxyc Log",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "3178",
+    "rule_applied": "34",
+    "original_length_m": 3617.46,
+    "length_deleted_m": 62.03,
+    "final_length_m": 3566.71,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduced drinking scene by Mrs. Nath.",
+        "length_m": 4.27,
+        "length_retained_m": 24.69
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "Replaced shots of Mrs. Nath's dance.",
+        "length_m": 11.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Deleted shots of Mrs. Nath lying on Ravi's thighs, Ravi lifting her, caressing her chest, and her biting him.",
+        "length_m": 19.2
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduced fight between Shyam and Mrs. Nath's hirelings.",
+        "length_m": 5.03,
+        "length_retained_m": 46.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Deleted shots of Ravi and Mrs. Nath hugging and kissing.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted scene of Mrs. Nath kissing Ravi's cheek.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Deleted shots of Ravi kissing Mrs. Nath and them lying together.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deleted shots of Ravi and Mrs. Nath on bed together and Ravi kissing her.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Deleted underlined word from Sandhya's dialogue.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduced shots of Prakash's blood-smeared face after car crash.",
+        "length_m": 1.83,
+        "length_retained_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Reduced shots of Mrs. Nath shooting Ravi.",
+        "length_m": 3.35,
+        "length_retained_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Bhola Phir Muskuraya",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "71916",
+    "rule_applied": "34",
+    "original_length_m": 200.01,
+    "final_length_m": 186.05,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Deleted first, third and fifth shots of Faryal dancing and making gyrating movements in skin column costume.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Removed last two shots of fight after Faryal dancing.",
+        "length_m": 0.32
+      },
+      {
+        "kind": "replacement",
+        "description": "approved replacement shots",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "Beeslde Bale",
+    "languages": [
+      "Kannada"
+    ],
+    "cert_no": "67009",
+    "rule_applied": "34",
+    "original_length_m": 4496.4,
+    "length_deleted_m": 87.33,
+    "final_length_m": 4413.13,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted shot of Manja and Malli rolling over each other on the sand.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deleted suggestive kissing between Manja and Malli at the seashore and dialogues.",
+        "length_m": 13.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Deleted shot of Malli in water facing camera with wet transparent blouse.",
+        "length_m": 3.34
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Replaced shots of dancer's breast shakes and suggestive kissings with photographs of Boss and dancer.",
+        "length_m": 4.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Deleted close-range shot of Malli's high kicking on Narasimha's chest during fight.",
+        "length_m": 0.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "8",
+        "description": "Reduced first night scene in the cottage.",
+        "length_m": 16.15,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Deleted sentence spoken by Manja.",
+        "length_m": 6.39
+      },
+      {
+        "kind": "reduction",
+        "reel": "10",
+        "description": "Reduced shots showing Malli in labour pains.",
+        "length_m": 3.95,
+        "length_retained_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted sentence spoken by Mookanna.",
+        "length_m": 9.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "16",
+        "description": "Reduced boss dragging Malli and shot of boss over Malli on bed.",
+        "length_m": 1.82,
+        "length_retained_m": 9.14
+      },
+      {
+        "kind": "reduction",
+        "reel": "17",
+        "description": "Reduced fighting between boss and Manja.",
+        "length_m": 18.28,
+        "length_retained_m": 43.38
+      }
+    ]
+  },
+  {
+    "film_title": "Malamma Katha",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "66997",
+    "rule_applied": "34",
+    "original_length_m": 4348.26,
+    "length_deleted_m": 12.16,
+    "final_length_m": 4120.56,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted dialogues of Lingam.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted dialogues of Lingam.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted dialogues of Lingam.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted Lingam's dialogues.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted Lingam's dialogues.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted Lingam's dialogues.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted Sarasa removing and shedding her kit and silhouette shots.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Voluntary deletion",
+        "length_m": 115.54
+      }
+    ]
+  },
+  {
+    "film_title": "Aaradhika",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "67006",
+    "rule_applied": "34",
+    "original_length_m": 3710.93,
+    "length_deleted_m": 84.94,
+    "final_length_m": 3646.37,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Replaced Saitji's dialogue with approved sound.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Deleted Premkumar's lustful smacking and touching of a girl's picture and Lucy looking through keyhole.",
+        "length_m": 0.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted Jayan bending over Hema and kissing her in dream sequence.",
+        "length_m": 2.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Deleted Premkumar displaying a bra.",
+        "length_m": 25.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Deleted hippie boy mentioning LSD and its effects.",
+        "length_m": 4.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted Hari's hand resting on Hema's hip portion and their legs intertwined.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "replacement",
+        "reel": "10",
+        "description": "Replaced intertwined legs with bird portrait shots.",
+        "length_m": 3.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Deleted shots of Hari being held by legs and neck twisted with a forked stick.",
+        "length_m": 8.57
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Replaced suggestive dance movements with audience shots.",
+        "length_m": 14.93
+      },
+      {
+        "kind": "reduction",
+        "reel": "14",
+        "description": "Reduced sequence of Jayan and Hema, deleting kissing and suggestive actions.",
+        "length_m": 15.84,
+        "length_retained_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Oka Nari Vanda Thu-pakulu",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "67007",
+    "rule_applied": "34",
+    "original_length_m": 4589.02,
+    "length_deleted_m": 25.83,
+    "final_length_m": 4509.26,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "2",
+        "description": "Reduced Sardar and followers laughing after killing Durgadas and son.",
+        "length_m": 3.64,
+        "length_retained_m": 3.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replaced Sardar pulling dancer with Bulbul close-shots.",
+        "length_m": 2.43
+      },
+      {
+        "kind": "reduction",
+        "reel": "4",
+        "description": "Reduced two gangsters laughing after killing a man.",
+        "length_m": 1.52,
+        "length_retained_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "7",
+        "description": "Replaced Avataram rolling over nurse with tree panning shots.",
+        "length_m": 3.64
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduced shot of Bulbul with pointed breasts sitting with Sardar.",
+        "length_m": 0.91,
+        "length_retained_m": 0.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted dialogues of a man and woman about the cot sound.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted Sardar's dialogues to Ramba.",
+        "length_m": 5.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "17",
+        "description": "Deleted shot of child Raja hanging upside down tied to a rope.",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "Kalasochina Kalam",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "67008",
+    "rule_applied": "34",
+    "original_length_m": 3773.11,
+    "length_deleted_m": 33.74,
+    "final_length_m": 3742.41,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Deleted sound of man shaking bottle.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Deleted near kissing shots in car and repeated shots.",
+        "length_m": 3.04
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Replaced kissing shots with flowers.",
+        "length_m": 7.04
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted hugging woman in the pond.",
+        "length_m": 7.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Deleted hero's action of kissing music master's daughter.",
+        "length_m": 3.6
+      },
+      {
+        "kind": "reduction",
+        "reel": "9",
+        "description": "Reduced fight to minimum to suggest flashback.",
+        "length_m": 3.6,
+        "length_retained_m": 3.6
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Deleted shot of Bharathi in water with breasts exposed.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Deleted two boys kissing each other in near view.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted song lines and picturisation of two ladies sitting and moving towards each other.",
+        "length_m": 11.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Deleted shot of boy sleeping with legs over another man.",
+        "length_m": 2.74
+      }
+    ]
+  }
+]

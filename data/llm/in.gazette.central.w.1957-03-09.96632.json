@@ -1,0 +1,824 @@
+[
+  {
+    "film_title": "Dhaku Ki Malmal",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Kanhyap Productions, Minerva Studios, Bunder Road, Sowri, Bombay",
+    "cert_no": "18948",
+    "cert_date": "31-12-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shooting of Indiana by Europeans",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shot of scaffold splmebed with blood of hands of Jeeva that had been tied to it",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shouts of Bande Matram, a war cry for striking and killing (Sound only)",
+        "length_m": 3.96
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Stoning of Jueva to a ghost",
+        "length_m": 7.31,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Beating of Tiku to a ghost",
+        "length_m": 5.49,
+        "length_retained_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVII",
+        "description": "Screaming of Mona for Jeeva (Sound)",
+        "length_m": 2.74
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Shots of persons with their hands tied to scaffold",
+        "length_m": 15.54
+      }
+    ]
+  },
+  {
+    "film_title": "Port Afrique",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Columbia Films of India Ltd., Lotus House, 384, Marine Lines, Bombay 1",
+    "cert_no": "18958",
+    "cert_date": "2-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The resignation of Abdul having received bribe from Reardon and imparting to Reardon information about the file for Georgotto, sailor in cabinet Police Chief",
+        "length_m": 8.84
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Drastically the sequence of the nude model putting 2 mp around her as soon as Reardon enters, then allowing it suggestively to slip thus showing her thigh and later on when she goes out of the room, suggestively opening it wide from the front when her back is turned to the Painter, Reardon and the Camera",
+        "length_m": 3.29
+      }
+    ]
+  },
+  {
+    "film_title": "Spin A Dark Web",
+    "languages": [
+      "English"
+    ],
+    "producer": "Columbia Films of India Ltd., Lotus House 33A, Marine Lines, Bombay",
+    "cert_no": "18967",
+    "cert_date": "2-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shots of Bill sliding down on couch and Jim bending down to her and kissing passionately",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Jim's dialogue 'I will explain why later. Now, when we are ready to operate, untap the main line-connect it here and here-throw this switch and out the line. Now the bookie in the track is still connected but only through us. Nowhere's where we remain. Our boys are connected up here when we are ready to enter, we throw this switch and one of our boys is connected to the track and the other one is connected to the book.'",
+        "length_m": 13.41
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shot of Jim's hands throwing switches on phone gadget",
+        "length_m": 0.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Shot of Jim at top of telephone pole attaching phone wire to lines, and the following dialogue also: 'Buddy: Now look, fellom-right here, that's the spot where the guy went wire above the main board, connect up to two independent telegraph post wires in this field here.' Jim: Switch on number one. Buddy: Switch on Number One. Okay Now!'",
+        "length_m": 10.06
+      },
+      {
+        "kind": "reduction",
+        "reel": "3",
+        "description": "Shot of Jim struggling on floor with Belle holding a gun in her hand",
+        "length_m": 2.44,
+        "length_retained_m": 0.91
+      }
+    ]
+  },
+  {
+    "film_title": "Ek-Jhmlak",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Doop Khosla & Pradeep Kuper, 250, Famous Cine Lab, Haines Road, Mahalaxmi, Bombay 11",
+    "cert_no": "19060",
+    "cert_date": "3-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Male dialogue to Shekhar where she asks him to meet her at 12 at night for elopement",
+        "length_m": 14.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Pradeep dialogue, 'Kuchh Jama ye nahin Jama'",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Shots where Pradeep invites Shobha to a bed spread in the jungle at night",
+        "length_m": 17.37
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "All dialogues spoken by him at that time till he howls like a wolf. The dialogues, where he asks her as to where she is going and that dangerous wolves are abroad may however be retained",
+        "length_m": 30.78
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "All shots after Shobha rushes frightened to Pradeep, falls in his arms and their impressions are registered on solo close shots, till the dream sequence",
+        "length_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "The shot where Shobha and Pradeep are shown huddled together after the dream sequence",
+        "length_m": 11.58
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "The word 'Raat' from the 'Anubhav Raat' (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Shobha refers in the car to what passed at night",
+        "length_m": 36.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Shot where Shobha encircles Pradeep's neck with her arms when singing song No. V",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "XV",
+        "description": "Gruesome direct hits",
+        "length_m": 8.53
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVI",
+        "description": "Shobha's following dialogues 'Maine kupro nahin badlo' (Sound only) 'Var kuchne vale laso pahlehi var kor lenge'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVII",
+        "description": "Pradeep's following dialogue, 'Gele panna to aapki adat hai'",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "VI",
+        "description": "Shot where Pradeep strikes the head of the goonda against the ground",
+        "length_m": 1.52,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Fighting room, in the Bhutim Mahal in one-third (Footage included in cut No. 6)",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Garama Garm",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "G. M. Pictures, 119, Main Road, Dadar, Bombay 14",
+    "cert_no": "18941",
+    "cert_date": "3-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "711",
+        "description": "From Banke's dialogue, the words 'Please Raj Kapoor!'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "711",
+        "description": "'To Be Let Hai!' addressed to Ashe",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "In the sequence in which Ashe goes to Banke and starts whispering in his ears, delete the last shots in which the paper in Banke's hands is rolled up to cover their faces rather suggestively",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "After Banwari kneels down, picks her up on his shoulder and walks out, delete the shots near the staircase where Ashe's hips and legs are shown rather too prominently",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "The punches given by Banke to Banwari, and Banwari's rolling down a number of times as a result of repeated knockouts",
+        "length_m": 27.43,
+        "length_retained_m": 29.87
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "'Yahan Bo To Be Let'",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "'Opening of 1st, 2nd, 3rd and 4th doors of the treasure place by Banke and Banwari'",
+        "length_m": 23.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "Banke and Banwari's dialogue, retaining the tremors box empty except finding a letter",
+        "length_m": 14.63
+      }
+    ]
+  },
+  {
+    "film_title": "Bal Bul",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "The lobscun Pielar H, 248, Famous Cine Baikling, Haidon Road, Mabulaxmi, Bombay 11",
+    "cert_no": "18972",
+    "cert_date": "7-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shots of amorous movements of the body of Bul Bul while singing song No. II, and shots where her skirt goes up",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The shot where Gori makes vulgar gestures while Murkh regains consciousness",
+        "length_m": 36.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "The following lines, from song No. II: 'Urdiphirdi' maat javani, Labdi phirdi dil de jani, Hund nun je mil jay jani, Phor bajo shahnai ro'",
+        "length_m": 12.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "The shots of amorous movements of the body of Bul Bol while singing song No. III, and shots where her skirt goes up",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "The following lines from song No. IV, 'Tun neli tu hor batere'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The shots of the girls falling on Murkh and shots where Murkh falls on girl",
+        "length_m": 7.01
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The following dialogue of Murkh: 'E mashukan nun bhuannda jele'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The following dialogue of Murkh, 'O bevakuf o ubohat do sodo udhar ashin hondo naknd sunkadi'",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "71",
+        "description": "The photo of amorous movements of the body of Bul Bul while singing song No. 7",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "71",
+        "description": "The shot where Markh spits water on Gori's face",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "71",
+        "description": "The following line from song No. V, 'Nalo Instr pyar dian ohnkkhyo'",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "71",
+        "description": "The following dialogue of Murkh: 'Jadon kyl chhots-chhoto hondo tanın te sadi bebo sanun ohori du val satheundi 10'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The following dialogue of Bhadaun: 'Merl bhain dn putr bal Bhadon da putr nahln'",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "The shots of amorous movements of the body of Bul Bul while singing song No. II, shots where her skirt goes up, and shot where she is shown lying on Sajjan's lap; Sajjan catches hold of her from behind and caresses her",
+        "length_m": 10.97
+      },
+      {
+        "kind": "deletion",
+        "reel": "IX",
+        "description": "The shots of Murkh pulling Gori on his lap, and shots where Murkh is falling over her",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "The shots where Bal Bul and Sajjan are embracing",
+        "length_m": 2.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The shots where Bul Bul is whipped",
+        "length_m": 15.24
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The following dialogue of Bhadaun: 'U Rab Rakle Dlya Puti' (Sound only)",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "The close shot of Bul Bil, when her bust is prominently exposed while singing song No. VIII",
+        "length_m": 24.38
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots of Sajjan being whipped",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "The following words spoken by Bhadaun: 'Raja Indra' (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "The shots of Bul Bul, when her bust is shown prominently while she is lying prostrate",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "Direct hit on the stomach",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIV",
+        "description": "X-reens when fighting (Sound only)",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "Considerably Bhadaun whipping Banki",
+        "length_m": 2.13,
+        "length_retained_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "XIV",
+        "description": "Fighting to one-third, and strangling",
+        "length_m": 6.99,
+        "length_retained_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Gambling to one-third",
+        "length_m": 10.36,
+        "length_retained_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Bogunoh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Mahipatray Shah, 201-B, Khotwadi Main Road, Bombay 4",
+    "cert_no": "18974",
+    "cert_date": "7-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "IX",
+        "description": "To a mere flash the falling of the dead bodies of Sitaram, Prakash",
+        "length_m": 0.61,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "To a mere flash the falling of the dead body of Dinu",
+        "length_m": 0.3,
+        "length_retained_m": 0.61
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Lying of the dead body of Dinu on the ground",
+        "length_m": 1.83,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Two Tickets To Broadway",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "RKO Radio Pictures Private Ltd., Dhanpur Bldg., Sir P.M. Road, Bombay 1",
+    "cert_no": "18860",
+    "cert_date": "4-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "The opening shot of the house in the gymnasium on the terrace. (Showing the movement of a girl on the rocking-horse)",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "Laxmi Narayan",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Basant Pictures, 130, Chamarbaugh Road, Parel, Bombay 12",
+    "cert_no": "18841",
+    "cert_date": "28-12-56",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Dialogue between Indra and Bhavan, the latter refusing to marry Indra followed by Indra's kidnapping her and fight with Arishtanomi ending with Arishtanomi's fall from Heaven",
+        "length_m": 114.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Narad's dialogues referring to Bhuvan's kidnapping",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Dialogue between two girls referring to Bhuvan being in prison",
+        "length_m": 5.49
+      },
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Sequence where Indra, Aditi and Brihaspati, are shown together and it is established by dialogues that Aditi and Brihaspati are to dissuade Indra from his infatuation for Bhuvan Sundari but he insults mother and banishes Brihaspati from Heaven. Aditi follows and the sequence ends with Narad and Aditi following Indra in the passage",
+        "length_m": 21.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Sequence where Indra is shown in the room where Bhuvan is in prison and attempts to rape her. The sequence ends with Indra running for his life from her halo of fire",
+        "length_m": 74.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Shots where Indra is shown looking lowly at Mohini coming out of the ocean-churn",
+        "length_m": 1.22
+      },
+      {
+        "kind": "replacement",
+        "reel": "XIII",
+        "description": "Replaced close-up of Vishnu",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of \"Umar Marvi\"",
+    "languages": [
+      "Sindhi"
+    ],
+    "producer": "M/s T. M. Bihari, 1-A, Near Building, Lamington Road, Bombay 4",
+    "cert_no": "18991",
+    "cert_date": "9-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The shot of African Dance",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "description": "The dialogue, 'Mman unujo man maun shadikayal...Unaje khadangan shudi kayan'",
+        "length_m": 2.44
+      }
+    ]
+  },
+  {
+    "film_title": "Narni Bhagat",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Goel Cine Corporation, 208, Famous Cine Building, Haines Road, Bombay 11",
+    "cert_no": "18995",
+    "cert_date": "10-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Shots of Lakshmi with Menek and Krishna in Narsi's garb are shown together talking as husband and wife after the feast",
+        "length_m": 11.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "XI",
+        "description": "The dialogue of Narsi's daughter 'Jaiye chalo jaire pita' and a part of Narad's dialogue in reply to her 'Jalan Banton bharnipita 10BON BORD dhan se tolti hui'",
+        "length_m": 3.05
+      }
+    ]
+  },
+  {
+    "film_title": "Momoo",
+    "languages": [
+      "Punjabi"
+    ],
+    "producer": "Pushpa Pictures, Neaz Building, Lemington Road, Bombay 4",
+    "cert_no": "18996",
+    "cert_date": "10-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Both sound and picture of the song sung by Shumi (Song No. 3)",
+        "length_m": 85.34
+      }
+    ]
+  },
+  {
+    "film_title": "Alexander The Great",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, Colour, 35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "18998",
+    "cert_date": "10-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following words from the commentary: '... have lorded the window of talking through their Chieftains and...'",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Drum, War A Holiday",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "16 mm",
+    "producer": "Cadbury-Fry (India) Ltd., Spoor's Building, Forjett Street, Bombay 26",
+    "cert_no": "18998",
+    "cert_date": "10-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The following words from the commentary: '... have lorded the window of talking through their Chieftains and...'",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Dwarkadheh",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly Coloured",
+    "producer": "Bhagyodaya Pictures, 7, Kamani House, Pedder Road, Bombay 26",
+    "cert_no": "19000",
+    "cert_date": "10-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Shot of the blind boy with the closed eyes upon you",
+        "length_m": 1.52
+      }
+    ]
+  },
+  {
+    "film_title": "The Desperados Are In Town",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope, 35 mm",
+    "producer": "20th Century Fox Corp. (India) Private Ltd., Metro House, Mahatma Gandhi Road, Bombay",
+    "cert_no": "19008",
+    "cert_date": "19-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "In the Saloon scene from the dialogue of the two women the words 'Next time you choose your size and your age'",
+        "length_m": 1.83
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "The sequence of gun battle between the gangsters and townspeople to half",
+        "length_m": 24.08,
+        "length_retained_m": 24.38
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "To a flash the scene in which Alice falls flat on her back in the cotton-field and Lonny is over her",
+        "length_m": 6.1,
+        "length_retained_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "VIII",
+        "description": "Considerably the hang in which Lonny is being throttled by Dock",
+        "length_m": 3.35,
+        "length_retained_m": 2.74
+      }
+    ]
+  },
+  {
+    "film_title": "Medhosh",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Wadia Films Private Ltd., Zaveri Bldg., 136, Chamarbaugh Road, Parel, Bombay 12",
+    "cert_no": "18878",
+    "cert_date": "9-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "4db",
+        "description": "Show only Raya putting Soni on horse-back and then show her as being taken off horse-back and delete shots showing Raya sitting behind Soni and naturally riding in that position retaining only the long shots",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "4db",
+        "description": "Delete all lip-swaying and hip jerking inside Bhil Shakriya's Cave, before Raina herself comes down and begins dancing",
+        "length_m": 9.14
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Show only Raina being placed on horse-back and long shot of Raina and Raya riding away and delete the shot showing Raya getting up horse-back and sitting behind Raina and starting the ride",
+        "length_m": 5.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete shots of Raina's short skirt going up and revealing her undergarment",
+        "length_m": 0.91
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce Shakriya whipping Raina",
+        "length_m": 5.49
+      },
+      {
+        "kind": "insertion",
+        "reel": "11",
+        "description": "Establish beyond shadow of doubt that Raya and Raina are married soon after they reach Bombay",
+        "length_m": 6.1
+      },
+      {
+        "kind": "reduction",
+        "reel": "13",
+        "description": "Reduce manhandling of Soni by Raya in Bombay house and in flashback",
+        "length_m": 9.14
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In Almghad scene delete Raya's passionate embrace of Raina when he says he wants her support",
+        "length_m": 18.29
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "In the last four dance shot of Gomata focusing on Soni's bust after she is dead",
+        "length_m": 10.67
+      }
+    ]
+  },
+  {
+    "film_title": "Tukhra",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s Shorey Art Productions, Cine Procud Room, 10, Filmistan Ltd., Malad, Bombay",
+    "cert_no": "18883",
+    "cert_date": "11-1-57",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete scenes showing children taking a oath from Doctor beard in they are to canvassing and doing propaganda for him. Establish through dialogues that he is only a quack and that is why he does not get patients",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete close-ups of busts of Kunti in the beginning of Mukhe balam ka 'sony",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete Nirmala's word. 'Pitaji gharuen nahin hainh kisise der nahin hai'. Loop only enough of Nirmala's dance to establish continuity and rule out all her hip movements towards Kuldeep, an aunt jerks towards him, especially in close hit of bust without adni",
+        "length_m": 9.14
+      }
+    ]
+  }
+]

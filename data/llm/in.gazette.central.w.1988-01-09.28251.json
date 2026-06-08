@@ -1,0 +1,50 @@
+[
+  {
+    "film_title": "Dilbar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B/F/1968",
+    "cert_date": "26-6-84",
+    "endorsement": "U",
+    "original_length_m": 3511.7,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete dialogue 'Ek Bar Hamara Haath Lag Jane Do Hamari Lathi Ka Andaj lag jayega'.",
+        "length_m": 19.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "6",
+        "description": "Reduce close shot of labour pains. Retained length 9 ft.",
+        "length_retained_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete dialogue 'Apng Hamari Geography Dekhi hain aur kis Mulu kh ki sair karneki hai Sarkar'.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete sentence 'Jabse ye paida hui hain na zane muje dilwar Do ghante ke liye bahar bitha deta hain. Agar ander gaya to phir us din jaisi pithai ho jayegi. Na jane ye dono akele mein kya karte hain.' and old lady's dialogue 'kya kaha tha iske bapne kye ghanteke pahale ander nai aana.' and Bahadur's dialogue 'Mavashi sirf kahanj nahi mara bhi hain' and Lady's dialogue 'Haha thik kahatha usne'.",
+        "length_m": 11.04
+      },
+      {
+        "kind": "reduction",
+        "reel": "7",
+        "description": "Reduce rape scene considerably. Retained length 23.07 ft.",
+        "length_retained_m": 7.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete shot of Zamindar putting his foot on Soniya when she is unconscious.",
+        "length_m": 3.68
+      }
+    ]
+  }
+]

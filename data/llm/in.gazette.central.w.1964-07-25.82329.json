@@ -1,0 +1,524 @@
+[
+  {
+    "film_title": "Naihar Chhutal Jayo",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "producer": "Bhojpur Films, 235 Famous Cine Bldg., Bombay-11",
+    "cert_no": "40525",
+    "cert_date": "22-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot of Ramu pulling Dipa's sari in the Holi scene.",
+        "length_m": 1.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Suggestion of a kiss between Ramu and Dipa.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Take Her She's Mine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "Twentieth Century-Fox Corp. (India) Private Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "40527",
+    "cert_date": "22-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "RM11",
+        "description": "Close-up of Sandra Dee where her bust is prominently shown and the view of the Chinese girl getting on to Frank's back.",
+        "length_m": 5.06
+      }
+    ]
+  },
+  {
+    "film_title": "Sharabi",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Jagdish Gupta, 119 Main Rd Dadar, Bombay-14",
+    "cert_no": "40540",
+    "cert_date": "23-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "In the romantic sequence between Kesho and Kamala: (a) Shot of her resting her head on his heart along with dialogue, (b) Subsequent shot of them falling down together suggestively.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shanker's dialogue addressed to Kesho.",
+        "length_m": 10.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Shanker's dialogue addressed to Kesho.",
+        "length_m": 37.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "All shots of Kesho drinking with friends before starting the song.",
+        "length_m": 16.76
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "Shots of Kesho touching his mother's neck in an attempt to throttle her.",
+        "length_m": 5.49
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Drinking sequence between Kesho and Shankar in the liquor shop, deleting all shots of disorderly behaviour of the drunkards.",
+        "length_m": 97.84,
+        "length_retained_m": 63.09
+      }
+    ]
+  },
+  {
+    "film_title": "Fury Of The Pagans",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Dyaliscope",
+    "producer": "Paramount Films of India Ltd., Hague Bldg. Sprott Road., Bombay-1",
+    "cert_no": "40541",
+    "cert_date": "23-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Assault by Kovo on Toryok's wife, particularly deleting excessive kissing and strangling.",
+        "length_m": 6.12
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Bed scene of Kovo and Lianora, particularly his reaction to Lianora's sleeping form and deleting the revealing leg of Lianora.",
+        "length_m": 2.45,
+        "length_retained_m": 1.25
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Assault by two soldiers on woman.",
+        "length_m": 1.83,
+        "length_retained_m": 1.45
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel",
+        "description": "Death agony of Kovo.",
+        "length_m": 4.05,
+        "length_retained_m": 2.0
+      }
+    ]
+  },
+  {
+    "film_title": "Fury Of The Pagans",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Dyaliscope",
+    "producer": "Paramount Films of India Ltd., Hague Bldg., Sprott Rd., Ballard Estate, Bombay-1",
+    "cert_no": "40582",
+    "cert_date": "28-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reels III, IV, V, VII & VIII",
+        "description": "All direct hits by arrows, axes, spears, etc.",
+        "length_m": 27.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "The view of the man with a wound in the neck occurring twice.",
+        "length_m": 4.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The prominent view of bust of Lianora.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "View of the man with arrow in his back and blood flowing near the ladders.",
+        "length_m": 0.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Hitting of the woman to the ground by two warriors, while the narrator's voice is on the sound track.",
+        "length_m": 1.62,
+        "length_retained_m": 1.75
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels I and III",
+        "description": "Assault by Kovo on Toryok's wife deleting the excessive kissing and strangling at the end of kissing.",
+        "length_m": 9.58,
+        "length_retained_m": 9.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels III and IV",
+        "description": "The dance by woman in Kovo's camp particularly deleting the back view of the dancer where her bare hips are seen, and also deleting indecorous jerks of bust and hips.",
+        "length_m": 16.36,
+        "length_retained_m": 17.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Dragging by the wounded woman after the arrow has pierced her back.",
+        "length_m": 1.22,
+        "length_retained_m": 1.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The bed scene of Kovo and Lianora particularly Kovo's reaction to Lianora's sleeping form and deleting the revealing leg of Lianora.",
+        "length_m": 3.8,
+        "length_retained_m": 3.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Death agony of Kovo.",
+        "length_m": 4.6,
+        "length_retained_m": 4.75
+      }
+    ]
+  },
+  {
+    "film_title": "Living Word in Japan",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "producer": "Bible Society of India and Ceylon, India House, Opp. G. P. O., Bombay-1",
+    "cert_no": "40589",
+    "cert_date": "29-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "From commentary, the words: '...a nation which only a few years ago waged a disastrous war against Western Civilization.' and '...The Emperor renounced his divinity; regular Bible reading was started by the Imperial family.'",
+        "length_m": 0.94
+      }
+    ]
+  },
+  {
+    "film_title": "Captain Azad",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "Ram Rasila, Kala Ras Chitra, 198 Khadilkar Rd., Girgaum, Bombay-4",
+    "cert_no": "40683",
+    "cert_date": "14-2-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Shot of Kamini and Shamsher putting their hands suggestively on the statuette.",
+        "length_m": 5.79
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Shots of the dancing girl holding grapes over Senapati's mouth and caressing his face.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I / I",
+        "description": "Suggestions of a kiss between Kamini and Senapati just before the Rajkumar is announced.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Kishan's dialogue addressed to Murli.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Kamini and Rajkumar licking each other with their fingers the pastry which had fallen down on their faces.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "From the song: 'Suni hai digariya jane de....' the underlined word from the line: 'Thar thar kanpe kalajava mere angiva men.'",
+        "length_m": 0.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Prominent view of the statuette at the beginning of the reel.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Kishan's dialogue addressed to the cook, referring to the fat woman, and shots of the cook following the fat woman suggestively.",
+        "length_m": 4.88
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Shots of Rajkumar caressing and covering the statuette with a veil.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Shots of the cook suggestively offering to Radha a variety of fruits.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "The shot Radha sitting on the cook and beating him.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The shot of Azad addressing the statuette covered by a veil.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Reference to Jawahar in the dialogue of the woman patriot.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The shot of gorilla humping Uma in the back to make her fall in the arms of Capt. Azad.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Kishan's dialogue.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The shot of Kishan massaging Murli's body.",
+        "length_m": 1.83
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "The dialogue of Radha addressed to the cook.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Prominent views of the statuette during the dialogue between Kishan and Capt. Azad.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The shot of the milk bottle being sucked by Rajkumar (in disguise as a baby).",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Kamini's dialogue addressed to Capt. Azad.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Front view of Kamini's emphasised bust as she enters and all shots of her emphasised bust when she raises her arms.",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Prominent views of the statuette.",
+        "length_m": 9.45
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "The shot of Kishan's indecorous gesture when he comes close to a girl during the picturisation of the song.",
+        "length_m": 0.3
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Shots of a woman being dragged by the hair and whipped by Senapati's soldiers.",
+        "length_m": 2.74,
+        "length_retained_m": 3.9
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Shots of Kishun hanging with his legs tied to the ceiling, deleting the word: 'Ongul,' addressed to him by Azad.",
+        "length_m": 6.4,
+        "length_retained_m": 7.01
+      }
+    ]
+  },
+  {
+    "film_title": "Take Her She's Mine",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century-Fox Corp. (India) Private Ltd., Metro House, M. G. Road, Bombay-1",
+    "cert_no": "1443",
+    "cert_date": "10-2-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "General",
+        "description": "Close-ups of Mollie where her bust is prominently shown.",
+        "length_m": 17.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "The views of Miss Wu getting on to Frank's back. Also close-ups of scantily clad prostitutes being hustled down by the police.",
+        "length_m": 10.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "The view of the scantily clad girl coming down the stairs while Bonnet looks on. Also the underlined word from Frank's speech to Mollie 'Oh, the anti-American Hottentots.'",
+        "length_m": 2.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The following lines from song 'Havah-nagilah havah.......'",
+        "length_m": 3.05
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "The 'Can Can particularly deleting the shot where buck views of the dancers flipping their skirts are shown.",
+        "length_m": 2.63,
+        "length_retained_m": 2.24
+      }
+    ]
+  },
+  {
+    "film_title": "Eroica",
+    "languages": [
+      "Polish"
+    ],
+    "colour": "Colour",
+    "producer": "Consulate of the Polish People's Republic in Bombay, 40/A Peddar Road, Mewar Bldg., Bombay-26",
+    "cert_no": "1444",
+    "cert_date": "13-2-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Shot in which Teddy is urinating behind a tree.",
+        "length_m": 4.78
+      }
+    ]
+  },
+  {
+    "film_title": "Samson",
+    "languages": [
+      "Urdu"
+    ],
+    "colour": "Colour",
+    "producer": "Darshan, Prop. Shree Krishna Film, 304, Famous Cine Bldg., Mahalaxmi, Bombay-11",
+    "cert_no": "40448",
+    "cert_date": "7-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Discussion between Ustad Rasheed and His images.",
+        "length_m": 55.47
+      }
+    ]
+  },
+  {
+    "film_title": "Naihar Chhutal Jayo",
+    "languages": [
+      "Bhojpuri"
+    ],
+    "producer": "Bhojpuri Films, 235 Famous Cine Bldg., Bombay-11",
+    "cert_no": "40525",
+    "cert_date": "22-1-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XIV",
+        "description": "Deleted the end portion showing father lifting his gun and aiming at Ramu.",
+        "length_m": 95.0
+      }
+    ]
+  },
+  {
+    "film_title": "Kuttikkuppayam",
+    "languages": [
+      "Malayalam"
+    ],
+    "producer": "Jai Maruthy Productions, II, Gopalakrishna Road, Madras-17",
+    "cert_no": "37991",
+    "cert_date": "14-2-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 13 & 14",
+        "description": "Doctor's verdict that Jabbar was sterile, repeated on Jabbar's reaction when Sephia's pregnancy is known; dialogues leading to the disclosure that Rashid was the real father; Sephia's waking Rashid and informing him that she was going to be a mother because of him; Rashid denying the paternity.",
+        "length_m": 128.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Song 10: Delete Jabbar's body being prepared for burial.",
+        "length_m": 9.14
+      }
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "film_title": "परछाई",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "ओम नारायण तोमर, मोती फिल्म्स सी / 54 जीत नगर वर्सावा , अंधेरी (प० ) अंबई- 61",
+    "cert_no": "91992",
+    "cert_date": "29-2-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VI",
+        "description": "Delete all compromising and suggestive gestures of dancers during the spider web dance.",
+        "length_m": 1.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete intimate sequence during dream, subsequent nude/semi-nude shots of Anil and Bindu, and dialogues about bed scenes and nudity.",
+        "length_m": 26.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "X",
+        "description": "Delete suggestive shots showing vulgar movements of the dancer from the cabaret dance sequence.",
+        "length_m": 8.53
+      }
+    ]
+  },
+  {
+    "film_title": "गरम खून",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "तेजनाथ जार, जार्स इंटरनेशनल श्री साउड स्टूडियो , दादर, बंबई- 12",
+    "cert_no": "91993",
+    "cert_date": "29-2-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the sequence of Johnny with the girl in bed and delete suggestive shots where Johnny opens her bra from the back.",
+        "length_m": 10.67,
+        "length_retained_m": 23.77
+      },
+      {
+        "kind": "replacement",
+        "reel": "X",
+        "description": "In the cabaret sequence, delete suggestive shots of Helen where she executes bumps by her hips and breasts movements.",
+        "length_m": 6.77
+      }
+    ]
+  },
+  {
+    "film_title": "Camouflage",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Film Polski",
+    "cert_no": "4612",
+    "cert_date": "27-2-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the portion of the shot in which the Assistant Professor and English girl are seen in bed where he touches her bare breast and tries to kiss it.",
+        "length_m": 5.67
+      }
+    ]
+  },
+  {
+    "film_title": "सबूत",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "राजबालोजाद भारत पियर्स (मद्रास ) 105 फेमस स्टूडियो",
+    "cert_no": "4614",
+    "cert_date": "29-2-80",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "VII",
+        "description": "Delete views of Rita's exposure while she is taking a bath in a tub and raising her legs up.",
+        "length_m": 11.34
+      }
+    ]
+  },
+  {
+    "film_title": "मीरा",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Voluntarily deleted scenes.",
+        "length_m": 35.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "XII",
+        "description": "Voluntarily deleted scenes.",
+        "length_m": 19.51
+      },
+      {
+        "kind": "deletion",
+        "reel": "XIII",
+        "description": "Voluntarily deleted scenes.",
+        "length_m": 97.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Voluntarily deleted scenes.",
+        "length_m": 21.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Voluntarily deleted scenes.",
+        "length_m": 50.29
+      }
+    ]
+  },
+  {
+    "film_title": "ईतू संसार",
+    "languages": [
+      "Bengali"
+    ],
+    "format": "35mm",
+    "producer": "मेसर्स शिफनी, 21ए बिप्लषी रास बिहारी बोस रोड़, कलकत्ता",
+    "cert_no": "090718",
+    "cert_date": "25-2-80",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Reduce sequence of whipping of Radha by Sekhar.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Reduce sequence of whipping of Sekhar by Radha.",
+        "length_m": 9.14
+      }
+    ]
+  }
+]

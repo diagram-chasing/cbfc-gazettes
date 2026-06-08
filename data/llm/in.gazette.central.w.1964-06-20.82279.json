@@ -1,0 +1,340 @@
+[
+  {
+    "film_title": "Trailer of \"The Condemned Of Allava\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "40304",
+    "cert_date": "16-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Deletion from commentary: \"...as the actress who shared her love with her husband's brother.\"",
+        "length_m": 1.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot of Franz lowering Johanna's gown straps and her replacing them, with his dialogue: \"How do you know I won't lift the straps off your traitor's gown and devour your fat, sleek, traitor's body.\"",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Dialogue by Werner referring to his sister: \"It is a relationship I don't like to think about.\"",
+        "length_m": 1.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shot of Johanna with her bare back in her dressing room.",
+        "length_m": 2.33
+      }
+    ]
+  },
+  {
+    "film_title": "The Condemned OF Altona",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1423",
+    "cert_date": "18-12-63",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Gerlach's remark to Jolenni: \"In an administration in which the No. 2 man was the chief architect of the law that punished by death those non-aryans who had sexual relations with aryans.\"",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Werner's remark to his wife regarding his sister's relations with their brother, Franz: \"It's a relationship I don't like to think about.\"",
+        "length_m": 2.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Shots of Franz lowering Johanna's gown and looking at her suggestively, with his dialogue: \"How do you know I won't devour your fat, sleek traitor's body?\" Also shot of her restoring gown straps with his remark: \"Cover up your wares.\"",
+        "length_m": 12.5
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Gerlach's remarks to Franz about torture in Almeria, antisemitism in the Soviet Union, and McCarthy's unofficial power in the U.S.",
+        "length_m": 10.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 1",
+        "description": "Shots of Johanna with her bare back in her dressing room before Werner enters, reduced to a flash.",
+        "length_m": 1.71,
+        "length_retained_m": 0.45
+      }
+    ]
+  },
+  {
+    "film_title": "Mujhe Jeene Do",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "38779",
+    "cert_date": "6-7-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel Song",
+        "description": "Song beginning with the words \"Molic Nú Yoon Ghoor Ghoor Kar Dekho.\"",
+        "length_m": 112.48
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Song",
+        "description": "Shot of the Zamindar suggestively whispering into the dancer's ears and passing currency notes to her.",
+        "length_m": 3.66
+      }
+    ]
+  },
+  {
+    "film_title": "Bandhan Asoon Swatantrya",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "37775",
+    "cert_date": "6-3-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Monogram of Films Division and words \"RELEASED THROUGH FILMS DIVISION.\"",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "Shetkaryancha Margadarshak",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "37325",
+    "cert_date": "24-12-62",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Monogram of Films Division and words \"RELEASED THROUGH FILMS DIVISION.\"",
+        "length_m": 1.83
+      }
+    ]
+  },
+  {
+    "film_title": "The ABC of Diesel Engine",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "38505",
+    "cert_date": "7-6-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Words G.B. General Motors and Monogram.",
+        "length_m": 3.96
+      }
+    ]
+  },
+  {
+    "film_title": "Pahoo Re Kiti Wat",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "40311",
+    "cert_date": "17-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "From dialogue between Dr. Charudatta and Sulabha, the underlined word from: \"Shuddhivar aale apli Rani.\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "From the stage drama sequence of Shivaji and his comrades taking oath of ousting enemy in front of the temple of Rohiteshwar, shots in which the Crescent moon and stars on the flag are seen clearly. Also the bringing down of the crescent and star flag.",
+        "length_m": 1.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XV",
+        "description": "From the dialogue between Sulabha and the dancer, the underlined word from: \"Pyar ke raaste kharaab hote hain.\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel",
+        "description": "Shots in which the elderly neighbour of Dr. Charudatta urges his daughter to fall from the tree in order to attract Dr. Charudatta's attention towards her (Particularly the shots in which he is standing in the balcony and making signs to her.)",
+        "length_m": 2.88
+      }
+    ]
+  },
+  {
+    "film_title": "Captain Sindbad",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Widescope",
+    "cert_no": "40321",
+    "cert_date": "17-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 2 (18)",
+        "description": "From the scene in which the princess is disrobing herself, shots where she is seen in brassiere with her trousers tied below her navel.",
+        "length_m": 7.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3 (2.4)",
+        "description": "Shots showing blood oozing out of the soldier's neck on board the ship, when he is killed by Sindbad.",
+        "length_m": 0.67
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4 (2B)",
+        "description": "From dancing scene, close-up of female dancers in bras and thin trousers where their legs are seen in shadowgraph.",
+        "length_m": 7.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8 (4B)",
+        "description": "Close shots of swamps and crocodiles with their mouth open, Shots in which crocodiles are seen closing in on the man.",
+        "length_m": 2.44
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 9 (5A)",
+        "description": "Fight between Sindbad and the Hydra.",
+        "length_m": 3.58,
+        "length_retained_m": 9.14
+      }
+    ]
+  },
+  {
+    "film_title": "Tarzan And The Gorilla",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "40351",
+    "cert_date": "19-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All near-views of direct spear thrusts during fighting scenes.",
+        "length_m": 3.18
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Shots of Jaggu edging towards Shishma suggestively.",
+        "length_m": 4.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "The underlined words in the dialogue spoken by Jaggu to Shishma: \"Main pahar ke pecchhe ja raha hun — Jahan wo, Jahan wo.\"",
+        "length_m": 0
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel Song-dance sequence",
+        "description": "In the song-dance sequence beginning with the words: “Hemachalti hawa, ye nazara...\", shots of Madhu reclining sensuously.",
+        "length_m": 10.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In the song-dance sequence beginning with the words \"Baba he....ha....ho.\", near views of bust-jerking and hip-shaking by female dancers.",
+        "length_m": 2.54
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Near views of bust-jerking and hip-shaking by female dancers in a song-dance sequence.",
+        "length_m": 2.54
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Close-ups of the second Maharani with a sensuous expression on her face while looking at Raja. Also shot of her lying alongside Raja after their having taken wine together.",
+        "length_m": 11.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "In the song-dance sequence beginning with the words: “Tikha tikha chand khila, mitha mitha pyar mila....\", near views of bust-shaking by two girls.",
+        "length_m": 4.47
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VII",
+        "description": "Near views of bust-shaking by two girls in a song-dance sequence.",
+        "length_m": 4.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From Jaggu's dialogue, the word \"Chatani ko.\"",
+        "length_m": 0
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Shots of Maharani's coquettish behaviour towards Raja, reduced to the minimum.",
+        "length_m": 6.89,
+        "length_retained_m": 7.62
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI",
+        "description": "Close-ups of gorilla in the dungeon along with screams of Madhu. Also considerably close-ups of the gorilla while he is seen tearing through and destroying huts in the village.",
+        "length_m": 7.11,
+        "length_retained_m": 12.5
+      }
+    ]
+  },
+  {
+    "film_title": "Laajo",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "40352",
+    "cert_date": "20-12-63",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reels II, VII",
+        "description": "Sequences of shoe-beating of Lalloo and Suindas by the women.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Shots of Ram banging his head on the door frame in the temple of Devi.",
+        "length_m": 2.45
+      }
+    ]
+  }
+]

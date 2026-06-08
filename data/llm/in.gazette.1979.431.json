@@ -1,0 +1,782 @@
+[
+  {
+    "film_title": "\"Saturday Night Fever\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Robert Shtwcod. With tru nglc.",
+    "cert_no": "B/86371",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the shot of semi-nude dancer on bar counter",
+        "length_m": 2.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of Tomy making love with one of his fans in the left of the car",
+        "length_m": 14.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the close-up of condoms in the hand of a girl when she is showing them to Tony",
+        "length_m": 2.13
+      }
+    ]
+  },
+  {
+    "film_title": "\"Amr Shakti\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "75 mm",
+    "producer": "A K. Movie'. 1-1 , A Is. N.iiidvu'lP, WilhO'Ufle",
+    "cert_no": "B/86055",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "II",
+        "description": "Reduce the scene of Amur being tied to and being dragged by a running horse",
+        "length_m": 4.57,
+        "length_retained_m": 4.27
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce drastically the sequence showing torture of knheele Satdflr Baba by Kotwal",
+        "length_m": 8.84,
+        "length_retained_m": 15.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "V",
+        "description": "Delete the shots showing Chamhic being manhandled and thrown from one person to other after she is caught",
+        "length_m": 8.23
+      },
+      {
+        "kind": "reduction",
+        "reel": "V",
+        "description": "Reduce the fight sequence between the King’s and Shakli's men",
+        "length_m": 13.41,
+        "length_retained_m": 36.58
+      },
+      {
+        "kind": "reduction",
+        "reel": "VTTT",
+        "description": "Reduce drastically the sequence showing Aag K« Kuan and Shakti and Hameera fighting on it",
+        "length_m": 15.24,
+        "length_retained_m": 20.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "X",
+        "description": "Reduce suitably the torture of Shakti by King’s men",
+        "length_m": 2.13,
+        "length_retained_m": 3.35
+      },
+      {
+        "kind": "reduction",
+        "reel": "XT",
+        "description": "Reduce the whipping of fat man",
+        "length_m": 0.91,
+        "length_retained_m": 3.66
+      },
+      {
+        "kind": "reduction",
+        "reel": "XII",
+        "description": "Reduce suitable the fight between Amor and Shakti",
+        "length_m": 7.32,
+        "length_retained_m": 29.26
+      },
+      {
+        "kind": "reduction",
+        "reel": "XV",
+        "description": "Reduce suitably the torture of Lceln when she is asking for the water",
+        "length_m": 1.52,
+        "length_retained_m": 29.87
+      },
+      {
+        "kind": "reduction",
+        "reel": "XVI",
+        "description": "Reduce suitably the fight sequences",
+        "length_m": 20.75
+      }
+    ]
+  },
+  {
+    "film_title": "\"The Scarlet Buccaneer\"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Col",
+    "format": "35 mm",
+    "producer": "Jennings Lang.",
+    "cert_no": "B/86174",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "the underwater shot of Jane from her back",
+        "length_m": 0.5
+      },
+      {
+        "kind": "reduction",
+        "reel": "IV",
+        "description": "Reduce to a flash swimming in nude",
+        "length_m": 10.38,
+        "length_retained_m": 0.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Reduce the scene of a Negro pirate with two girls sitting on his thighs and making vulgar action, when Jane goes to seek the help of Lynch",
+        "length_m": 6.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "IV",
+        "description": "Delete the shot of an old pirate with girl in his lap in a suggestive posture, as seen by Jane",
+        "length_m": 6.03
+      }
+    ]
+  },
+  {
+    "film_title": "\"Akah S.inglwrsh\"",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Guru haj an Mulhotra.",
+    "cert_no": "B/86590",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Delete the word “Bhagu an”",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "III",
+        "description": "The Words Bachcha Bachcha have been replaced with approved words ‘Purza Purza’",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Anayum Atnbariyum\"",
+    "languages": [
+      "Maiayalam"
+    ],
+    "colour": "B&W",
+    "format": "33 mm",
+    "producer": "Shri V. Joshi. Madias",
+    "cert_no": "80347",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the shots ofthe rehearsal scene in which the underwears are seen and the two men feeling all over the bodies of the girls",
+        "length_m": 79.25
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete the fight between the man in dhoti and another",
+        "length_m": 18.9
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shots of the make up of the girl where the make-up man brushes thigh and the Ayah standing behind and removing the pin from the breasts",
+        "length_m": 27.74
+      },
+      {
+        "kind": "replacement",
+        "reel": "9",
+        "description": "In the song sequence, delete the shot of the girl revealing her body in tight white blouse and exposing her breasts and thighs. Replaced shot of sea",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the rehearsal shots of the romantic scene in which the two girls are fondled and hugged in an indecent manner",
+        "length_m": 58.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Delete all shots of the Arcb girl in sidethroat and the two women outside removing their shirts in a suggestive manner",
+        "length_m": 112.78
+      }
+    ]
+  },
+  {
+    "film_title": "\"Maenakshl Kumkumam\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35mm",
+    "producer": "Shri R. M. Narayanan, Madras.",
+    "cert_no": "80348",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete the words Lingappa 'Link panni vittukittu irukken, link pannividaran'",
+        "length_m": 3.94
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete the following visuals from the picturisation of song: (i) Chandra putting her leg around the waist of a man (Replaced close-up shot of 3 men), (ii) Her indecorous movements near the pillar, (iii) Her bust movements near the words kavalil Nindrathamma (Replaced chokkan thinking about Meenakshi), (iv) Her reclining on the floor (Replaced Chandra sitting near Chokkan)",
+        "length_m": 5.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the following dialogue: (i) Ushakku. Padhlyile Izhuthutte' Parih ylcle Izhuthlttena, (ii) Lingappa ; ‘Avalai Naan Ayyo’ Amukku — along with visuals, (iii) Lingappa— ‘Paya Thadav . Aaramblchuttan— Theilli Pottaley Thindaviduvan’, (iv) Lingappa: From \"Avalukku Venurnna , ,to ‘Samalichikalam’, (v) From Uzakku-'Enakku onnu Varudhu..to Lingappa I 'Thallidaren Enkiraya?",
+        "length_m": 4.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "4",
+        "description": "Delete the following words horn the song, Ennau Chenjandi’ (Replaced Ennavo Cbonnandi’)",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "18",
+        "description": "in the picturisation of the song, delete the visuals of Sundram and Meenakshi moving indecorously on the ground together",
+        "length_m": 3.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following words of Lingappa.",
+        "length_m": 2.68
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the following dialogue:",
+        "length_m": 2.46
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the visuals of Alamu struggling with Cgokkan on the lope for the second time and their struggle inside the hut",
+        "length_m": 16.15
+      },
+      {
+        "kind": "deletion",
+        "reel": "11",
+        "description": "Delete the dialogue of Meenakshi ‘Purushanukku Virikkira Mun-dhanaiyai Unakku Virikkiren’ (Sound)",
+        "length_m": 6.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "12",
+        "description": "Deloto the words of Lingappa from ‘Angey Kalyai vschchu to ‘Paavadai Kitteyc Kaiyai Vaehuttey",
+        "length_m": 3.71
+      }
+    ]
+  },
+  {
+    "film_title": "\"Ellttiamman\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "Colour",
+    "format": "35 mm",
+    "producer": "Shri R. V. S. mani. Madras.",
+    "cert_no": "80349",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the shot of the dancer lying on the floor when the profile of her breast is seen prominently",
+        "length_m": 1.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shot of the dancer in yellow dress, while shaking her breasts.",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the sequence where the same dancer is jerking her waist",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "13",
+        "description": "Delete the shot of the same dancer jumping her hips with that of the mile dancer repeatedly",
+        "length_m": 20.74
+      }
+    ]
+  },
+  {
+    "film_title": "\"Kiladi Jodi\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope) (35 mm.)",
+    "producer": "Vee Vee International, Bangalore.",
+    "cert_no": "80350",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete close-ups of bust cleavage of dancer",
+        "length_m": 2.64
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete George rolling over Jenny under water, (last shot towards end.)",
+        "length_m": 1.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "(i) Delete George rolling over Jenny on the haystack and also their intertwined legs, (ii) Delete sorcerer feeling the bare thigh of the model and raising its skirt above thigh",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "(ii) Delete sorcerer feeling the bare thigh of the model and raising its skirt above thigh",
+        "length_m": 1.5
+      }
+    ]
+  },
+  {
+    "film_title": "\"Mukkuvanc Snjhicha Bhootham\"",
+    "languages": [
+      "Malayajam"
+    ],
+    "colour": "Colour",
+    "format": "35 mm.",
+    "producer": "Smt. Mymoon With cuts.",
+    "cert_no": "80351",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete theall shots of Ambili bathing when the comedian tries to peep",
+        "length_m": 5.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "Delete the following visuals from the picturisation of the song: (i) Ambth’s bust movements near Rajan, (ii) The women’s bust movements in front of man, (iii) Ambih’s bust movements with her hands held up",
+        "length_m": 1.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "(ii) The women’s bust movements in front of man",
+        "length_m": 1.89
+      },
+      {
+        "kind": "deletion",
+        "reel": "4",
+        "description": "(iii) Ambih’s bust movements with her hands held up",
+        "length_m": 3.9
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete the top-angle shot of Ambili lying on the sand where her breast is indecently exposed. (Replaced with shot of sea)",
+        "length_m": 4.05
+      }
+    ]
+  },
+  {
+    "film_title": "\"Swamiji\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "B &W",
+    "format": "35mm.",
+    "producer": "Kesthur Creations, Bungaloic.",
+    "cert_no": "80355",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the close shot of the two girls bathing in the river, where nipples of the breasts are visible",
+        "length_m": 3.35
+      },
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the entire second stanza of the song, together with the visuals",
+        "length_m": 11.28
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Delete the following visuals from the song - (i) All shots showing the excitement of Girija on the bed including the shot where hugs the pillow, (ii) The shot of Girija recchned on the rock in wet clothes and Sundare bending over her, (iii) The shot of Girija and Sundara rolling on each other in the water. (Replaced shots of clouds)",
+        "length_m": 25.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete the shot of the cow inter-cut with the embrace of Sundara and Girija",
+        "length_m": 3.96
+      },
+      {
+        "kind": "deletion",
+        "reel": "8",
+        "description": "Delete all shots of Sundara and Girija making love after he pulls her down for the first tune",
+        "length_m": 43.28
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shot of Sundara kissing Girija on the neck and the earner zooming in and out",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Delete the following shots from the song - (a) Girija moving her hips holding her hands up. (Replaced clouds-shot), (b) Girija's movement of her bust. (Replaced shot)",
+        "length_m": 3.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "(b) Girija's movement of her bust. (Replaced shot)",
+        "length_m": 6.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the entire flash-back of the multiple rape after the man lays his hand on the girl for the first time. (Replaced— nil — close up of girls face, with narration)",
+        "length_m": 65.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete the shot of the girl walking across the river with her sari indecently lifted. (Replaced — nil — composite shot of girl in water with a few young watching— permitted.)",
+        "length_m": 14.72
+      }
+    ]
+  },
+  {
+    "film_title": "\"Iraivan Kodutha Varam\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B&W",
+    "format": "35 mm.",
+    "producer": "Raja Cine Madras.",
+    "cert_no": "80356",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Reduce the fight after Rajanikant follows the rowdy into the building under construction, and delete the subsequent motor-cycle fight after the first hit from the motor-cycle",
+        "length_m": 10.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "(i) After Rajanikant pulls the first girl on to bed. delete the rest of the bedroom scene",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "(ii) Delete Rajanikant kissing a girl under the tree along with overlapping kiss sound",
+        "length_m": 9.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "(iii) Delete Rajanikant kissing a girl along with overlapping kissing sound and pulling the blanket over himself and the girl and covering themselves with the blanket",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Rajanikant looking upto the breast of a girl along with the kissing sound",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "9",
+        "description": "Delete sound of Ramu kissing Parimala. (Sound only)",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "\"Cheppindl Chesta\"",
+    "languages": [
+      "Tclugu"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope) (35 mm)",
+    "producer": "Sri K.V.S N. Murthy Visakapatnam.",
+    "cert_no": "80358",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "6",
+        "description": "Delete the following dialogue horn ‘Madan Emiti Jerku. . . .to ‘Bandlni Kadu. . . .Naanu’ spoken by Gopi and Radha",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "15",
+        "description": "Delete the shot of Shevkhan kissing a girl",
+        "length_m": 0.0
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the fight between Gopi, Radha and the tiger considerably. (Replaced close-up ot Sherkhan & followers)",
+        "length_m": 9.71
+      },
+      {
+        "kind": "replacement",
+        "reel": "15",
+        "description": "Delete the shots of the child being lowered into the crocodile pond repeatedly and the shots of the python around the neck of Gopi and Rajan inside the glass case. (Replaced shots ol crocodiles, & python on hero’s chest approved)",
+        "length_m": 9.71
+      },
+      {
+        "kind": "reduction",
+        "reel": "15",
+        "description": "Reduce the impact of the fight in the den. (Replaced shots of crocodiles and close-ups ol villain’s face)",
+        "length_m": 6.51
+      }
+    ]
+  },
+  {
+    "film_title": "\"Karunai Ullam\"",
+    "languages": [
+      "Tamil"
+    ],
+    "colour": "B & W",
+    "format": "35 mm",
+    "producer": "Smt. Vasantha Baiiah",
+    "cert_no": "80383",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "1",
+        "description": "Delete the following dialogue by Susaiappa : 'M. L. A. Pillai Illai— Adhan Kaiyai Ncetureenga. ‘Enna Karyai kaiyai neetureenga’.",
+        "length_m": 5.86
+      },
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete the following dialogue : Susaiappa : ‘Assembly Madiri Irukkum Gowri’ : ‘Naan speaker Madiri Irundhuttu poren’.",
+        "length_m": 1.63
+      }
+    ]
+  },
+  {
+    "film_title": "\"Vasanthalakbhmi\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope) (35 mm)",
+    "producer": "Vittal Movies, Bangalore.",
+    "cert_no": "80385",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete the words of Muni 'Seeremelay ketti' (Sound only) (Replaced ‘Seeremelay katti’)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the opening shot of the dancer on the bed in white dress in which her busts are revealed prominently (Replaced close shot of 3 comedians)",
+        "length_m": 1.35
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the shot of 3 men feeling the thigh of the dancer against the nude status (Replaced close shot of hero)",
+        "length_m": 1.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "5",
+        "description": "Delete all shots of the dancer in tight mini red dress exposing the busts prominently",
+        "length_m": 4.15
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete all shots of the dancer In black dress exhibiting busts and cleavage and shaking in an obscene manner (Replaced close shot of hero)",
+        "length_m": 3.54
+      },
+      {
+        "kind": "replacement",
+        "reel": "5",
+        "description": "Delete the shot of the dancer opening her dress from the side, to reveal her breasts and hips (Replaced mid-close shot of 3 comedians only)",
+        "length_m": 2.05
+      },
+      {
+        "kind": "replacement",
+        "reel": "8",
+        "description": "Delete the words of the doctor saying \"Nanu Maadithinu Ncedu Nodu-theyiru.’ (Replaced ‘Cure maadithini Neenu Nodutheyiru’)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "10",
+        "description": "Delete the close up of the nude statue in the nuptial night",
+        "length_m": 1.39
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Delete the shot of Lakshmi’s hips being shaken vigorously by her husband sitting on the ground in the dance sequence (Replaced close-up of flowers)",
+        "length_m": 0.89
+      }
+    ]
+  },
+  {
+    "film_title": "\"Thappithu T ha la\"",
+    "languages": [
+      "Kannada"
+    ],
+    "colour": "B & VV",
+    "format": "35 mm",
+    "producer": "Lalitha Lakshmi Combines, Bangalore.",
+    "cert_no": "3396",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "2",
+        "description": "Delete Soma hugging Strqja after the words “Preethi Maathinalilla”",
+        "length_m": 2.17
+      },
+      {
+        "kind": "replacement",
+        "reel": "2",
+        "description": "Delete Strqja’s words Tnecthe ThumbithmeleBa’ (Replaced with ‘Dharya turn kondu ba’) (Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "replacement",
+        "reel": "3",
+        "description": "Delete Strqsa’s words “Theetha Thumbkondu Bandhya\" (Replaced with ‘Dharyn thogondu Bhandya’ — Sound only)",
+        "length_m": 0.0
+      },
+      {
+        "kind": "deletion",
+        "reel": "3",
+        "description": "Delete Soma pulling the patticoat string of Maria.",
+        "length_m": 3.79
+      },
+      {
+        "kind": "reduction",
+        "reel": "5",
+        "description": "Reduce the shots of the man embracing Devu’s mother to once only. (Replaced with O. U. of mother)",
+        "length_m": 3.41
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Delete Sarasa in petticoat and bra coming into the bedroom and sitting with Hiralal till Hi ratal starts mentioning about ‘Ek Pathlnivarth’ etc. Delete again from the moment Sarasa stands up and starts moving towards the minor. (Replaced with shot ofsarasu taking pills.)",
+        "length_m": 3.66
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Delete the shots in the Flash-back in which Sarasa is in a state of partial nudity. (Replaced with shot of mirror with snuff box)",
+        "length_m": 2.44
+      },
+      {
+        "kind": "replacement",
+        "reel": "6",
+        "description": "Delete shots of Sarasa where her bare back is exposed in the bathing scene. (Replaced with approved shots)",
+        "length_m": 10.55
+      },
+      {
+        "kind": "deletion",
+        "reel": "7",
+        "description": "Delete Soma hitting S3rojt with his knee, and subsequently with his posterior.",
+        "length_m": 5.52
+      },
+      {
+        "kind": "replacement",
+        "reel": "12",
+        "description": "Delete the rape of Sarasa by Soma including Soma’s dialogues and accompanying sound (retaining only the shots in the beginning where Sarasa is brought to Soma by his henchmen, reaction shot of Devu and the last long shot where Devu’s picks up Sarasa.) (Replaced with glare shot in three places)",
+        "length_m": 1.33
+      },
+      {
+        "kind": "replacement",
+        "reel": "13",
+        "description": "Delete Sarasa kissing Sonia’s henchmen. (Replaced with freeze shots of Sarasa face.)",
+        "length_m": 1.02
+      },
+      {
+        "kind": "deletion",
+        "reel": "14",
+        "description": "Delete Sarasa’s words ‘Kelsa Mugiohamcle Kaasillantha Halthane Kacchida Baddi Maga’",
+        "length_m": 3.54
+      }
+    ]
+  },
+  {
+    "film_title": "\"Asokavamm\"",
+    "languages": [
+      "Malayalam"
+    ],
+    "colour": "B & W",
+    "format": "35 mm",
+    "producer": "N/A",
+    "cert_no": "S0371",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "5",
+        "description": "Sequence of Police Inspector questioning two writers in the hotel",
+        "length_m": 106.07
+      },
+      {
+        "kind": "insertion",
+        "reel": "7",
+        "description": "A customer entering a hotel, being sent out",
+        "length_m": 171.91
+      }
+    ]
+  }
+]

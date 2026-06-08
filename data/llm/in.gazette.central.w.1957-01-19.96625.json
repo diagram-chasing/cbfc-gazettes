@@ -1,0 +1,344 @@
+[
+  {
+    "film_title": "Trailer of \" Trapezo \"",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "producer": "20th Century Fox Corp . (India ) Private Ltd .",
+    "cert_no": "18410",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Lola singing passionately and Lola saying \"Stop, stop\"",
+        "length_m": 3.048
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Lola and Lola singing during the trapeze act",
+        "length_m": 0.8128,
+        "length_retained_m": 0.8128
+      }
+    ]
+  },
+  {
+    "film_title": "Tankho",
+    "languages": [
+      "Hindi"
+    ],
+    "producer": "M/s Chitra Niketan Private Ltd.",
+    "cert_no": "18411",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of Ratna and Shekhar lying side by side in close proximity, with Ratna's head on Shekhar's arm",
+        "length_m": 29.8704
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Shot of the landlord wearing a Marwari turban in the sequence of eviction of tenant, also dialogue from neighbours and landlord's leg being grabbed",
+        "length_m": 21.336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Sequence relating to the anointing of the idol by the landlord",
+        "length_m": 9.4488
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Close shots of humorous movements of the body by the chief dancer when she sings a specific line",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII II",
+        "description": "The word \"Pathar\" when used with the word \"Bhagwan\"",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel X",
+        "description": "The entire scene of procuration showing Shekhar in company with the procuror"
+      }
+    ]
+  },
+  {
+    "film_title": "British Movietone News No. 1482",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "18415",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item on \"THE SOVIET CELEBRATES\", commentary about the free world being horrified by the cruelty of Russian Communism and not a cause for celebrations in Moscow",
+        "length_m": 13.716
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "From the item on \"REPORT FROM SUEZ\", commentary about attempts to grab food, British troops distributing supplies, Nasser's order, and Egyptian protests",
+        "length_m": 24.6888
+      }
+    ]
+  },
+  {
+    "film_title": "Gaumont British News No. 47/50",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "18410",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Commentary about Egyptians, Colonel Nasser's orders, Egyptian defenders fighting, and the operation's success",
+        "length_m": 9.4488
+      }
+    ]
+  },
+  {
+    "film_title": "Malole Hev",
+    "languages": [
+      "Gujarati"
+    ],
+    "cert_no": "18420",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "Shot where Kanji and Jeco embrace on the bank of the river",
+        "length_m": 0.6096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. VI",
+        "description": "Dialogue of Hira",
+        "length_m": 14.9352
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. X",
+        "description": "Shot where a little girl is thrown out by Dula",
+        "length_m": 0.9144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. III",
+        "description": "Stoning of Jori by boys",
+        "length_m": 7.9248
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIII",
+        "description": "Torture of Jeco by the priest",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel No. XIII",
+        "description": "Shot where priest is shown dying as a result of a stroke given by Kanji",
+        "length_m": 2.4384
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. VII",
+        "description": "Scene where husband beats Jeco",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. VIII",
+        "description": "Witchcraft scene",
+        "length_m": 56.6928
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. IX",
+        "description": "Scene where Jeco is beaten and kicked by the ruffians",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel No. XIII",
+        "description": "Entire sequence of exercising evil spirit",
+        "length_m": 3.048
+      }
+    ]
+  },
+  {
+    "film_title": "Ek Hi Rasta",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "15229",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Dialogue between Malti and Amar, and close shot of Malti playing the organ",
+        "length_m": 39.624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Mid-long shot of Malti sitting and eating vegetables, and shot of Bihari walking out of frame",
+        "length_m": 24.384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Close shot of my eating brought by Bihari to Pyare, and dialogue",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Long shot of Malti, Amar and Raja taking their food to the Ashram representatives leaving, and dialogue",
+        "length_m": 45.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Long shot of the spectators sitting in the theatre auditorium till the end of the song",
+        "length_m": 185.3184
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Long shot of Pyare looking for his chappals to his handing over letter",
+        "length_m": 4.572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Mid-shot of Amar entering his room to Raja running out, and dialogue",
+        "length_m": 24.9912
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "From the beginning of the song \"Bado bhaiya luyo hau\" till the lines in the song ending \"Duaclo bano bhidulliun gori gori\"",
+        "length_m": 76.2
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "From the beginning of the song \"Ev ja nanhe note, tu goja\" to the end",
+        "length_m": 85.644
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Shot of Malti touching dancing to the girls till the end of the song",
+        "length_m": 19.5072
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Bihari's dialogue to one of the children in the Mission saying \"Dhanda karna Lai to buithra bazar men ja kar\"",
+        "length_m": 31.3944
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "The song beginning with \"Aakhir taro jnhan men badnam kucha chhola\"",
+        "length_m": 91.44
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot of Pyare and the dog playing till Raja saying",
+        "length_m": 3.3528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Close shot of Toya till Raja saying",
+        "length_m": 13.4112
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot of Raju coming down the stairs",
+        "length_m": 5.4864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot of Pyare trying to fend the dog till Pyare's dialogue",
+        "length_m": 54.864
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot of Shobha praying water on the flower bed till Shobha saying",
+        "length_m": 65.532
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Prakash entering with the Doctor till Doctor saying",
+        "length_m": 18.288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Shot showing Malti sitting and Raja coming nearer her, and dialogue",
+        "length_m": 24.384
+      }
+    ]
+  },
+  {
+    "film_title": "Punt Ahe Mulrgi",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "19463",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. II",
+        "description": "Scene where Ratan, the prostitute, is shown washing pulwan who is in a huff after fighting it out with the Raj Kumar and his companion. The scene ends with Ratan and Pulwan reconciling and making merry.",
+        "length_m": 21.6408
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel M2, XI",
+        "description": "Dialogue of Ratan",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Arzoo",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "18609",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel No. 2",
+        "description": "Shot of Kamini exposing her bust while getting up into a sitting position in the first haystack scene",
+        "length_m": 6.096
+      }
+    ]
+  }
+]

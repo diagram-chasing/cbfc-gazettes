@@ -1,0 +1,331 @@
+[
+  {
+    "film_title": "Ek Saal Pahle",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "44730",
+    "cert_date": "25-5-1965",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Close up of cat’s face with glaring eyes.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Shot of a man with a dagger aimed at the back of Kailash.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Screams and shrieks, wherever they occur (sound only).",
+        "length_m": 0,
+        "length_retained_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Young Fury",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Techniscope",
+    "cert_no": "44744",
+    "cert_date": "26-5-65",
+    "endorsement": "U",
+    "original_length_m": 2184,
+    "length_deleted_m": 66.04,
+    "final_length_m": 2117.96,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel I",
+        "description": "Fighting.",
+        "length_m": 12.04,
+        "length_retained_m": 6
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Fighting, particularly deleting the garrotting of a man by a stick.",
+        "length_m": 33.82,
+        "length_retained_m": 15
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "The scuffle of two boys with two dancers on a bed and the indecorous view of a dancer fixing her dress.",
+        "length_m": 5.5,
+        "length_retained_m": 5
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IV",
+        "description": "Fighting and deleting the view of a boy's face besmeared with blood.",
+        "length_m": 14.68,
+        "length_retained_m": 15
+      }
+    ]
+  },
+  {
+    "film_title": "Shonkan Mele Di",
+    "languages": [
+      "Punjabi"
+    ],
+    "cert_no": "44767",
+    "cert_date": "29-5-65",
+    "endorsement": "U",
+    "original_length_m": 3907.4,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Shot of Chand holding Shano’s hair and pulling her down on his knee and of their close physical proximity suggestive of a kiss.",
+        "length_m": 6.71
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "From the picturisation of the song “Ni mai baay mar gayee”, shots of bust shaking by Shano while holding the branch of a tree and also her suggestive gesture of biting her lips while reclining on the flower-bed and heaving her bust.",
+        "length_m": 2.43
+      }
+    ]
+  },
+  {
+    "film_title": "Shadow Of Treason",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "1611",
+    "cert_date": "29-5-1965",
+    "endorsement": "A",
+    "original_length_m": 2484,
+    "length_deleted_m": 7.58,
+    "final_length_m": 2476.42,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "All near views of strip tease. (There is no objection to retain one long shot at end of the dance to establish Tina’s identity)",
+        "length_m": 6.72
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The semi-nude view of one African woman in the dance sequence.",
+        "length_m": 0.86
+      }
+    ]
+  },
+  {
+    "film_title": "Life Time Care For Your Hair",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "44607",
+    "cert_date": "10th May 1965",
+    "endorsement": "U",
+    "original_length_m": 30.48,
+    "final_length_m": 25.91,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Two shots of the model putting pins in her hair etc.",
+        "length_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "lik Sapera Ek Lutera",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "44724",
+    "cert_date": "22-5-1965",
+    "endorsement": "U",
+    "original_length_m": 3957.37,
+    "final_length_m": 3933.44,
+    "alterations": [
+      {
+        "kind": "replacement",
+        "reel": "",
+        "description": "Correction of film length.",
+        "length_m": 0
+      }
+    ]
+  },
+  {
+    "film_title": "Shahi Lutera",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "44773",
+    "cert_date": "31-5-1965",
+    "endorsement": "U",
+    "original_length_m": 3761.4,
+    "length_deleted_m": 10.04,
+    "final_length_m": 3761.1,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "From the song-dance \"Chimp ke sanam chori chori\", shots of bust-shaking by the dancer.",
+        "length_m": 8.22
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "From the dream sequence, back views of the dancer wiggling her hips.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "The shot of Durjansingh taking out the sword after piercing it through Jeewan’s body.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Mehbooba",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "44784",
+    "cert_date": "2-6-1965",
+    "endorsement": "U",
+    "original_length_m": 3433.15,
+    "length_deleted_m": 10.78,
+    "final_length_m": 3422.37,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "The shot showing Jamal teasing a girl in set.",
+        "length_m": 6.1
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Reference to Sultan of Iraq.",
+        "length_m": 0.11
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VIII",
+        "description": "Scene of Sheikh trying to molest the princess; particularly deleting shots of his catching the princess’s hair and their subsequent struggle.",
+        "length_m": 3.55
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Scene of whipping of the prince by Sheikh’s men.",
+        "length_m": 1.22
+      }
+    ]
+  },
+  {
+    "film_title": "What A Crazy World",
+    "languages": [
+      "English"
+    ],
+    "format": "Cinemascope",
+    "cert_no": "44801",
+    "cert_date": "4-6-1965",
+    "endorsement": "U",
+    "original_length_m": 86.86,
+    "length_deleted_m": 3.86,
+    "final_length_m": 83,
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Fight in the saloon.",
+        "length_m": 1.31,
+        "length_retained_m": 1.03
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "The sentence \"Well that depends what service you got dun it\" said by Sam to the Waitress.",
+        "length_m": 2.55
+      }
+    ]
+  },
+  {
+    "film_title": "Pardesi Preetam alias Sussi & Punhoo",
+    "languages": [
+      "Sindhi"
+    ],
+    "cert_no": "44805",
+    "cert_date": "4-6-1965",
+    "endorsement": "U",
+    "original_length_m": 3606.69,
+    "length_deleted_m": 186.23,
+    "final_length_m": 3420.46,
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "The caption ‘Sindhi Kaum Zindabad’ from the credit titles.",
+        "length_m": 3.05
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Song No. 1 beginning with the words \"Tarikh\" entirely along with the accompanying visuals relating to migration after the partition of the country in 1947.",
+        "length_m": 182.88
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XII",
+        "description": "Considerably the shots of a man being dragged when tied to a camel.",
+        "length_m": 0.3
+      }
+    ]
+  },
+  {
+    "film_title": "Pardesi Preetam alias Sussi & Punhoo",
+    "languages": [
+      "Sindhi"
+    ],
+    "cert_no": "44805",
+    "cert_date": "4-6-1965",
+    "endorsement": "U",
+    "original_length_m": 3584.45,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel I",
+        "description": "Address to audience, and a scene of Sussi’s father with the old man.",
+        "length_m": 163.99
+      }
+    ]
+  },
+  {
+    "film_title": "Waghya Murali",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "43281",
+    "cert_date": "30-12-1964",
+    "endorsement": "U",
+    "original_length_m": 4318.71,
+    "final_length_m": 4440.63,
+    "alterations": [
+      {
+        "kind": "insertion",
+        "reel": "Reel III",
+        "description": "Song beginning with the words: \"Dharu Nakos Padar Murari \".",
+        "length_m": 121.92
+      }
+    ]
+  }
+]

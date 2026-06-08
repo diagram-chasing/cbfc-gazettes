@@ -1,0 +1,149 @@
+[
+  {
+    "film_title": "Milky Way",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-9764",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "II",
+        "description": "Scene showing operation of indeplination of cattle",
+        "length_m": 2.1336
+      }
+    ]
+  },
+  {
+    "film_title": "Gentlemen Prefer Blondes",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-9373",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "In the first dance the skirts in which the dancers expose their thighs",
+        "length_m": 79.5528
+      },
+      {
+        "kind": "deletion",
+        "reel": "III",
+        "description": "Shot in gym where Dorothy touches the thighs of a man",
+        "length_m": 0.3048
+      },
+      {
+        "kind": "deletion",
+        "reel": "V & VI",
+        "description": "The song 'Diamonds are a girl's best friend' sung by Lorelei and later by Dorothy, including accompanying dances",
+        "length_m": 140.8176
+      }
+    ]
+  },
+  {
+    "film_title": "Miss Sadie Thompson",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-9534",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Words 'When I think of all the guys who had their hands up you' as spoken by O'Hara",
+        "length_m": 2.1336
+      },
+      {
+        "kind": "deletion",
+        "description": "Item of the native dance",
+        "length_m": 2.7432
+      },
+      {
+        "kind": "deletion",
+        "description": "Item 'Fast to on'",
+        "length_m": 299.6208
+      },
+      {
+        "kind": "deletion",
+        "description": "Item 'Blue Paolo Blue'",
+        "length_m": 81.3816
+      }
+    ]
+  },
+  {
+    "film_title": "Return To Paradise",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-9081",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "The word 'Sopranour' from the commentary",
+        "length_m": 0.51816
+      }
+    ]
+  },
+  {
+    "film_title": "King of The Khyber Rifles",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-9788",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Sub-title 'That is India'",
+        "length_m": 0.6096
+      }
+    ]
+  },
+  {
+    "film_title": "Cinemascope Demonstration Reel No. 2",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "B-9243",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Picturisation of the song 'Diamonds are a Girl's Best Friend'",
+        "length_m": 37.4904
+      }
+    ]
+  },
+  {
+    "film_title": "Angaray",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "B-7880",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "I",
+        "description": "Flashback of Ranima maduent and narration of the story by Zojila",
+        "length_m": 67.056
+      },
+      {
+        "kind": "deletion",
+        "reel": "XVIII",
+        "description": "Death scene of Simal",
+        "length_m": 60.96
+      },
+      {
+        "kind": "insertion",
+        "reel": "XVIII",
+        "description": "Sequence of Bimoi being saved by Roke",
+        "length_m": 55.1712
+      }
+    ]
+  }
+]

@@ -1,0 +1,501 @@
+[
+  {
+    "film_title": "Sant Gyancshwar",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43089",
+    "cert_date": "23-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the shot of the bare breast of Gyancshwar’s mother.",
+        "length_m": 3.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels II, III & IX",
+        "description": "Remove the word 'Chammar' wherever used in an abusive manner.",
+        "length_m": 1.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Correct the pronunciation of all Vedic texts and slokas from Gita wherever necessary.",
+        "length_m": 1.33
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete the sentence said by the Raja to Visoba: 'Bhainsa Veda nahin bollega, to kya Kaamsutra bollega ?'",
+        "length_m": 1.63
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XII",
+        "description": "Delete the dialogue between Visoba and Raja regarding Gyandev's influence.",
+        "length_m": 1.01
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduce the beating of the children by the teacher.",
+        "length_m": 1.72,
+        "length_retained_m": 5.4
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Correct the spelling of 'Rg Veda'.",
+        "length_m": 2.75
+      }
+    ]
+  },
+  {
+    "film_title": "Towards Unity In Papua & New Guinea",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "43090",
+    "cert_date": "24-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete shots showing bare-breasted women working in the field.",
+        "length_m": 2.49
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots showing bare-breasted women crossing the river.",
+        "length_m": 1.22
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots showing bare-breasted women being attended by the nurse.",
+        "length_m": 6.49
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete shots showing bare-breasted women where road work is carried.",
+        "length_m": 0.85
+      }
+    ]
+  },
+  {
+    "film_title": "Aao Pyar Karen",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Partly in Colour",
+    "cert_no": "43922",
+    "cert_date": "24-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the underlined word from Hari’s dialogue while writing a letter, referring to Rusi lions.",
+        "length_m": 0.93
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Delete the reference to 'Situ' from Rakesh’s dialogue addressed to Shalini.",
+        "length_m": 0.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Delete the underlined words from Hari’s dialogue regarding a hungry girl.",
+        "length_m": 0.95
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the underlined words from Hari’s dialogue about having no money.",
+        "length_m": 0.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the underlined remark from Hari’s dialogue comparing Paris fashion to Indian dance.",
+        "length_m": 1.47
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete shots of the girl in short pants where her bare thighs are prominently visible.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Replace shots of the girl in short pants with approved shots.",
+        "length_m": 0.91
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the underlined words from Sethji’s dialogue about Paris mems.",
+        "length_m": 1.56
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the underlined words from Rakesh’s dialogue to Shalini about the double mattress.",
+        "length_m": 0.34
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the underlined words from Hari and Meena’s dialogue regarding Asha’s anger.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete the shot of the dancer shaking her body before Seth and her dialogue 'You like it?'.",
+        "length_m": 0.42
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel III",
+        "description": "Replace the shot of the dancer shaking her body with an approved shot.",
+        "length_m": 0.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Delete her dialogue to Rakesh about his skill in making clothes.",
+        "length_m": 3.7
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the underlined word from Rakesh’s dialogue about Rishikesh and the word 'Avatar' referring to Rishikesh.",
+        "length_m": 1.73
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the underlined words from the dancer’s dialogue 'Strip-tease, India needs me.'.",
+        "length_m": 1.3
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete Shalini’s remark to Rakesh about the Prince and the French Assembly bill.",
+        "length_m": 3.66
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete the underlined words from Prince’s dialogue about the poor inheriting the earth.",
+        "length_m": 0.8
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the dialogue between Aslam and Mack comparing Prince to Pakistan's claim on Kashmir.",
+        "length_m": 1.23
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the underlined words from Mac’s dialogue referring to the foreign dancer and Seth’s reply.",
+        "length_m": 0.42
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Delete the Secretary's remark about the Parisian dancer's performance and reduce shots of the poster advertising it as 'sex-citing' and announcing 'Half-rates for moles'.",
+        "length_m": 4.56
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reels VII & VIII",
+        "description": "Reduce shots of the whipping of the female dancer and her reclining indecorously during the song-dance sequence 'Dilbardilbar o dilbar'.",
+        "length_m": 2.27
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reels VII & VIII",
+        "description": "Replace shots of the whipping of the female dancer with approved shots.",
+        "length_m": 2.27
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reels VII & VIII",
+        "description": "Delete all references to 'strip-tease' in English and its Hindi translation and the dialogue pertaining to this dance.",
+        "length_m": 1.98
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the underlined word from Shalini’s remark about the rich lacking heart and conscience.",
+        "length_m": 0.21
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the underlined words from Shalini’s dialogue to Rakesh about love and betrayal.",
+        "length_m": 0.75
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Delete the word 'Mochi' from Rakesh’s dialogue with reference to Prince.",
+        "length_m": 0.19
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Delete Rakesh’s remark about robbing banks.",
+        "length_m": 1.31
+      }
+    ]
+  },
+  {
+    "film_title": "Let There Always Be Sunshine",
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "cert_no": "43094",
+    "cert_date": "24-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete underlined words from commentary about hard toil and unemployment in capitalist countries.",
+        "length_m": 4.27
+      },
+      {
+        "kind": "deletion",
+        "description": "Delete passage from commentary about patriots perishing in concentration camps, Iraqi patriot's torture, and widow's speech.",
+        "length_m": 24.69
+      }
+    ]
+  },
+  {
+    "film_title": "Veer Bhimsen",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "43120",
+    "cert_date": "28-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Delete indecorous movements from Hidimba’s dance, like rubbing of legs, jerking of bust, and suggestion of a kiss between Bhim and Hidimba.",
+        "length_m": 4.26
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel V",
+        "description": "Replace indecorous shots from Hidimba’s dance with approved shots.",
+        "length_m": 2.74
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VIII",
+        "description": "Delete indecorous view of Jarasandh’s legs as Bhim tries to tear him apart.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel VIII",
+        "description": "Replace indecorous view of Jarasandh’s legs with an approved shot.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XVII",
+        "description": "Delete near-views of the agonised face of a mother from the song 'Dekho Bhagwan, ye pyaara desh hua sumshan'.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XVII",
+        "description": "Replace near-views of the agonised face with an approved shot.",
+        "length_m": 2.13
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XVIII",
+        "description": "Reduce fight between Dusshasan and Bhim, particularly portions where Bhim tears away Dusshasan's hands and breaks open his chest."
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel XIII",
+        "description": "Delete shots of Bhim pressing Keechak's mouth and throttling him during the fight.",
+        "length_m": 0.61
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel XIII",
+        "description": "Replace shots of Bhim pressing Keechak's mouth and throttling him with approved shots.",
+        "length_m": 0.61
+      }
+    ]
+  },
+  {
+    "film_title": "Trailer of “Johnny Cool\"",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "43125",
+    "cert_date": "28-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "description": "Delete the sentence 'I need you right now' and the sequence of the shooting from the suitcase.",
+        "length_m": 6.44
+      }
+    ]
+  },
+  {
+    "film_title": "Separate Beds",
+    "languages": [
+      "English"
+    ],
+    "colour": "Colour",
+    "format": "Cinemascope",
+    "cert_no": "1546",
+    "cert_date": "25-11-64",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel III(2A)",
+        "description": "Delete from Molly's talk to Eloise the part about tension, acids, and enamel.",
+        "length_m": 4.95
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel XI (6/1)",
+        "description": "Reduce the shots of Henry's beauty ritual.",
+        "length_m": 6.66,
+        "length_retained_m": 4.57
+      }
+    ]
+  },
+  {
+    "film_title": "Geet Gaya Pattharon Ne",
+    "languages": [
+      "Hindi"
+    ],
+    "colour": "Colour",
+    "cert_no": "42996",
+    "cert_date": "9-11-1964",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "reduction",
+        "reel": "Reel XIV",
+        "description": "Reduce the visuals of the song 'Raat Nan jnwan jhoonita sama'.",
+        "length_m": 14.82
+      }
+    ]
+  },
+  {
+    "film_title": "Kulanjju Kittiya Thera-guin",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "41831",
+    "cert_date": "26-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete kissing gesture between Sudhakar and Girija and embrace at the end in long shot. Delete shot of Sudhakar pulling slipper which falls off Girija's body.",
+        "length_m": 4.57
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Delete few frames of the foreign lady's pose against the wall where her un-covered bust is visible.",
+        "length_m": 0.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Delete kissing gesture on the parapet wall of Sudhakar and Girija.",
+        "length_m": 7.62
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 11",
+        "description": "Delete close and mid-shots of the picture when the song is in full swing.",
+        "length_m": 4.87
+      },
+      {
+        "kind": "replacement",
+        "reel": "Reel 11",
+        "description": "Replace deleted shots with edited version.",
+        "length_m": 17.06
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Delete reference to 'USSR' in regard to the furniture.",
+        "length_m": 0.0
+      }
+    ]
+  },
+  {
+    "film_title": "Aisha",
+    "languages": [
+      "Malayalam"
+    ],
+    "cert_no": "41833",
+    "cert_date": "27-11-64",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 1",
+        "description": "Delete the shot of Basheer and Ameena striking their cheeks when the child slips down.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Delete the shot of 3 girls in close-up with emphasised busts.",
+        "length_m": 1.36
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "During the horse chase, delete the shot of Biyathu falling on Moideen, Ada falling on Biyathu, and also the embrace of Biyathu and Moideen in the water.",
+        "length_m": 1.82
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 8",
+        "description": "Delete close-shots of Aisha lying down with emphasised bust; Munir trying to kiss Jamal; the shot of both in embrace on the line 'Akkunni'; and the last shot of the kissing gesture in the dance.",
+        "length_m": 6.09
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Delete the shot of Adu embracing Biyathu.",
+        "length_m": 1.52
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 13",
+        "description": "Reduce the shots of Abubaker beating Aisha.",
+        "length_m": 0.45
+      }
+    ]
+  }
+]

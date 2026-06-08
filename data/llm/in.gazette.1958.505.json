@@ -1,0 +1,622 @@
+[
+  {
+    "film_title": "Damn Citizen",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23257",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted dialogue: 'He gets me my customers'",
+        "length_m": 0.003048
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted dialogue: 'Sixteen'",
+        "length_m": 0.0003048
+      }
+    ]
+  },
+  {
+    "film_title": "Mohndi",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23266",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots where the Mufti is shown dead with blood-stained face",
+        "length_m": 0.003048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted close shots of the lion and the reaction of terror of Amiran",
+        "length_m": 0.0018288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots where Dilawar threatens Amiran with a knife",
+        "length_m": 0.003048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots and dialogues of Dilawar near the fountain where he refers to his vengeance on the Mufti and his intention of making Amiran a prostitute",
+        "length_m": 0.006096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted dialogues exchanged between Khanam, Dilawar and others when Amiran is being handed over to Khanam, suggestive of prostitution",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted the word 'Hamrat' (sound)",
+        "length_m": 0.0006096
+      },
+      {
+        "kind": "insertion",
+        "reel": "Reel II",
+        "description": "Inserted shots during Mimhira where prostitutes are shown soliciting",
+        "length_m": 0.0118872
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Reduced to flash shots where Amiran is snatched out of the Palky",
+        "length_retained_m": 0.0008128
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably reduced the fight which ensues after Dilawar snatches Amiran from the Polky",
+        "length_retained_m": 0.0004064
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Completely deleted shots where Dilawar carries Amiran in a bullock-cart",
+        "length_m": 0.0073152
+      }
+    ]
+  },
+  {
+    "film_title": "Sweet Smell of Success",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23272",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted scene where J.J. strikes Tony and says that he has put his hands on his ulster",
+        "length_m": 0.0036576
+      },
+      {
+        "kind": "reduction",
+        "reel": "",
+        "description": "Drastically reduced scene where Sidney compels the cigarette girl to spend the night with a man",
+        "length_retained_m": 0.0079248
+      }
+    ]
+  },
+  {
+    "film_title": "Sweet Smell of Success",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "600",
+    "endorsement": "A",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel XI",
+        "description": "Deleted reference in dialogue to girls 'thinking with hips'",
+        "length_m": 0.0036576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V",
+        "description": "Drastically reduced episode where Sidney compels the cigarette girl to spend the night with a man",
+        "length_retained_m": 0.0079248
+      }
+    ]
+  },
+  {
+    "film_title": "The Giant Claw",
+    "languages": [
+      "English"
+    ],
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of a man vulgarly massaging and giving jerks to the feet of a prostrate woman",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of skeleton",
+        "length_m": 0.0024384
+      }
+    ]
+  },
+  {
+    "film_title": "Gopichand",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23297",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of a man vulgarly massaging and giving jerks to the feet of a prostrate woman",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted shot of skeleton",
+        "length_m": 0.0024384
+      }
+    ]
+  },
+  {
+    "film_title": "Jailhouse Rock",
+    "languages": [
+      "English"
+    ],
+    "cert_no": "23298",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted close shots of dancer's legs",
+        "length_m": 0.0036576
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel III",
+        "description": "Reduced whipping to two strokes",
+        "length_retained_m": 0.001524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel V/VI",
+        "description": "Reduced to one shot where Everett kisses Sherry Wilson passionately",
+        "length_retained_m": 0.003048
+      }
+    ]
+  },
+  {
+    "film_title": "Mujrim",
+    "languages": [
+      "Hindi"
+    ],
+    "cert_no": "23042",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted shots where Uma and Shankar are shown in close physical proximity at the beach, Uma lying flat and Shankar bending over her",
+        "length_m": 0.0064008
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel II",
+        "description": "Considerably reduced shots where Bali and Neela fighting",
+        "length_retained_m": 0.00762
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VI",
+        "description": "Considerably reduced shots where Ashok and Bali are shown in close physical proximity",
+        "length_retained_m": 0.0109728
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel VII",
+        "description": "Considerably reduced shots where Billis stoned by the mob",
+        "length_retained_m": 0.0042672
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel IX",
+        "description": "Considerably reduced shots where Bali and Neela fighting towards the end",
+        "length_retained_m": 0.0033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel I",
+        "description": "Deleted dialogue: 'Jal Jagsmba Diviji'",
+        "length_m": 0.0004572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted shots where Loku and dancing girl Najo are shown in a prostrate position near each other and are shown fondling",
+        "length_m": 0.00158496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel II",
+        "description": "Deleted sequence where smugglers take off their disguise as sadhus, dialogues establishing modus operandi of smuggling and bootlegging etc. and regarding liquor and drinking exchanged till end of the sequence",
+        "length_m": 0.0158496
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel III",
+        "description": "Deleted dialogue of Loku addressed to Chauli: 'Jitna lipstick lagati ho itna makhan lagao to beda paar ho jayoga tumhara'",
+        "length_m": 0.0018288
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IV",
+        "description": "Deleted the words 'Accidental lover'",
+        "length_m": 0.0003048
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel V",
+        "description": "Deleted Usha's dialogue which ridicules Gandhian philosophy on Charkha",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted Devichand's dialogue which is an adverse comment on Government's policy regarding broadcasting of communal programmes",
+        "length_m": 0.009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted the dialogue 'Bal Congress Ka Jhanda Aur Munh Khadhi Bhundar Lana Rakha Hai'",
+        "length_m": 0.0012192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted shots where Harish kisses Usha's hand from behind the chair",
+        "length_m": 0.0021336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted Shamnu's dialogue to Radhamohan in the train: 'Mam kakun ye oomar ka aadml aadmi hota nai ohhoti oomar ka anjan'",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted shots where a dancer does a summersault during the 'Rock and Roll dance'",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted shots of indecorous movements of a little girl during the 'Rock and Roll dance'",
+        "length_m": 0.001524
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel X",
+        "description": "Considerably reduced shots where Harish belabours his father and throws him out",
+        "length_retained_m": 0.0048768
+      }
+    ]
+  },
+  {
+    "film_title": "Gyanba Tukaram",
+    "languages": [
+      "Marathi"
+    ],
+    "cert_no": "23697",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted Sarjerao's dialogue about 'Vilayati vango'",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted references to the girl of Naraba chougule being pregnant",
+        "length_m": 0.0039624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VI",
+        "description": "Deleted shots of shoes being used as 'Chiplayus' to keep time by Tukaram in a song having sacred associations",
+        "length_m": 0.0246888
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel VII",
+        "description": "Deleted suggestive dialogues of Keshav saying to Manju: 'Kasnal a ga' 'Mala Watala'",
+        "length_m": 0.0006096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel IX",
+        "description": "Deleted dialogue between wrestler boy and his father: 'Baykovar shaddoo marto' - 'Baykashivay shaddoo marat nahin' - 'Eka langotivar bara kuatya marto'",
+        "length_m": 0.0036576
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel X",
+        "description": "Deleted shots where Keshav takes liberties with Manju lifting her up after she had sung a song",
+        "length_m": 0.003048
+      }
+    ]
+  },
+  {
+    "film_title": "Anna Thammudu",
+    "languages": [
+      "Telugu"
+    ],
+    "cert_no": "22556",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted picture of the boy Ravi with pistol in hand, telling his mother that he will shoot and kill. (The same shot appearing in Reel 16 as a montage superimposed on Ronta's face is also to be deleted)",
+        "length_m": 0.006096
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 3",
+        "description": "Deleted picture of the Siva temple with the words 'Where is your mercy?'",
+        "length_m": 0.0024384
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 4",
+        "description": "Deleted picture of money being paid to Brahmandam and money paid by Brahmandam to two rowdies",
+        "length_m": 0.0073152
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 5",
+        "description": "Deleted statement of the marwadi when he asks 'If mom is on my side, why do I want a pleader?'",
+        "length_m": 0.0039624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 6",
+        "description": "Deleted portion of the picturisation where the various election placards are brought together and hidden by the Congress placard, with the picture of the National flags featured along the top of the frame",
+        "length_m": 0.0042672
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 7",
+        "description": "Deleted statement of Nala to Nageswara Rao when he tells him that Vajram has gone to the circus: 'Is it for performing or for seeing?'",
+        "length_m": 0.0039624
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted statement of Nala to Ravi that there is plenty of work at the house: 'Is it for commission or her Towards?'",
+        "length_m": 0.0097536
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted entire picture and dialogue of Nageswara Rao attempting to rape Padma. (Note — After the first shot showing them inside the room and he speaks about her saundarya, the next picture will be her running along the balcony and falling down)",
+        "length_m": 0.033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 9",
+        "description": "Deleted 2 close-ups of Ravi shouting and him swearing revenge when Padma dies",
+        "length_m": 0.0067056
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 10",
+        "description": "Reduced to the barest minimum, the fighting which follows, the picture of the dagger stuck on Vajram, and the picture of her blood-stained finger and hand whenever it comes inside the frame",
+        "length_retained_m": 0.0033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted picture and dialogue of H. C. Naidu reacting and exclaiming 'Me Sir'?",
+        "length_m": 0.001524
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted picture and dialogue of H. C. Naidu reacting and exclaiming when the news of Ravi's escape is received",
+        "length_m": 0.0012192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 10",
+        "description": "Deleted insert pictures of H. C. Naidu enjoying the Chenchulakshmi's singing; after the mask falls off Ravi, the two pictures of H. C. Naidu first not understanding, and then reacting to the incident during song No. 7",
+        "length_m": 0.0027432
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 11",
+        "description": "Reduced when Ravi comes dressed as a woman, in the noksliaw, all the portions of H. C. Naidu downing (a) reference to anuraga, stroking Ravi's arm, catching the sari, chasing Ravi; (b) during song No. 9, attempting to embrace Ravi catching the sari, circling around with Ravi and dancing; (c) at the end of the dance, the entire incident of Ravi escaping after throwing snuff into H. C. Naidu's eyes, and the police coming round",
+        "length_retained_m": 0.0143256
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 12",
+        "description": "Deleted statement of Nageswara Rao when he asks Purushottham for Rani that his asthanam was now vacant",
+        "length_m": 0.0064008
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 14",
+        "description": "Reduced when Inspector stops Ravi, deleted (a) his reply that he will himself come back when his work was over; (b) during the Inspector's search of the hotel, the picture of Ravi escaping from under the half-door; (d) when the man sleeping on the cot is left by the police, the picture of Ravi emerging from under the cot and running away, including Naidu's chase with the words 'Stop Sir'",
+        "length_retained_m": 0.012192
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Deleted when Ravi comes to Santa and says he is not a thief, the statement that the police were chasing him wrongly, and the portion where Santa shows the Bhagavad Gita before she ties-up his wound",
+        "length_m": 0.009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Deleted picture and dialogue of H. C. Naidu saving 'I saw with both my own eyes', and in the next sequence on the name set, his comic gesture, before the police go upstairs",
+        "length_m": 0.0033528
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Deleted entire picture and dialogue of Santa hiding Ravi in the cupboard. Rani remonstrating, and when the police are searching, her closing the cupboard door and saying that nobody is there",
+        "length_m": 0.062484
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 14",
+        "description": "Deleted the rest of the entire reel, picture and dialogue — Ravi telling Raja who he was, Raja telephoning to the police, but desisting when the others plead, the dialogue about Justice",
+        "length_m": 0.062484
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Deleted picture and sound of Ranganna shouting at Nageswara Rao, and the latter breaking his head, including the bleeding face of Ranganna in close-up",
+        "length_m": 0.0021336
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 15",
+        "description": "Deleted picture and dialogue of H. C. Naidu and other policemen saying that something was wrong, right, wrong etc. and going to the police-station",
+        "length_m": 0.004572
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Deleted entire picture and dialogue of Nageswara Rao attempting to rape Raul, upto and including catching and throwing her on the bed, falling on her. (Note — When Brahmandam and Ranganna run into the room later, the picture showing Rani and Nageswara Rao on the bed, is also to be deleted)",
+        "length_m": 0.0268224
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 16",
+        "description": "Deleted picture and sound of Ranganna shouting at Nageswara Rao, and the latter breaking his head, including the bleeding face of Ranganna in close-up",
+        "length_m": 0.0021336
+      },
+      {
+        "kind": "reduction",
+        "reel": "Reel 16",
+        "description": "Reduced Ravi's oration from the dock, to the dialogues strictly necessary for his mordor was for the purpose of dhironv and justice, and nobbing more",
+        "length_retained_m": 0.0265176
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Deleted (d) picture and dialogue of Santa pleading for Ravi's life, and (b) Raja weeping when told that Ravi was his brother, including the portion at the end where he is in the frame, while Santa is weeping",
+        "length_m": 0.0265176
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Deleted portion where his reaction is shown, with the portrait of President Rajendra Prasad in the frame, and when he weeps while awarding the sentence on the accused",
+        "length_m": 0.016764
+      },
+      {
+        "kind": "deletion",
+        "reel": "Reel 17",
+        "description": "Deleted portion of Raja in Judge's robes, weeping, embracing and bowing at the accused's feet, and asking to be pardoned. (Note — No objection where Ravi admires him for having done his duty and entrusts his mother to him)",
+        "length_m": 0.009144
+      }
+    ]
+  },
+  {
+    "film_title": "Alai Kandu Mayangathe",
+    "languages": [
+      "Tamil"
+    ],
+    "cert_no": "22553",
+    "endorsement": "U",
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted Shankaran objecting to the older brother's picture being placed alongside that of great men, and referring to the elder brother as a fraudulent tiger. (Approved replacement 8 ft. sound only)",
+        "length_m": 0.0009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted paragraphs 2 and 3 and the term 'crows' in the last paragraph. (The Congress government is today saving us, but it is being abused by the people who come to shelter no now chewing. The person who receives the kick, if once he becomes a minister, I will cut his tail close; I will pierce his crooked eye). (Approved replacement 3 ft. sound) - 3 ft. sound only.",
+        "length_m": 0.0082296
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the sentence of Shankar to Avataram - 'While you have a wife like a green parrot' (Approved replacement 6.5 ft. sound) - 6.5 ft. sound only.",
+        "length_m": 0.0019812
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the sentence of Sidhanti 'A good narabali should also be given' (Approved replacement 4.5 ft. sound) - 4.5 ft. sound only.",
+        "length_m": 0.0013716
+      }
+    ]
+  },
+  {
+    "film_title": "Pedda Manushulu",
+    "languages": [
+      "Telugu"
+    ],
+    "alterations": [
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted Sidhanti being chased and thrashed inside the temple",
+        "length_m": 0.009144
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the suffering by the shot driver, and the close-ups of his bleeding including the sounds of his groans (retaining the picture only during the confession by the person for the purpose of the story)",
+        "length_m": 0.0054864
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted drunken entering and his chasing Santa in the Ruranalayam are to be cut, except for a suggestion at the beginning and showing Santa's escape at the end",
+        "length_m": 0.0097536
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the sound only of the Purusha Suktam verse upto the close of the mantra 'Yathasthana' when Sidhanti removes the Idol",
+        "length_m": 0.0021336
+      },
+      {
+        "kind": "deletion",
+        "reel": "",
+        "description": "Deleted the hiring of goondas by Nagoji, leaving only a suggestion",
+        "length_m": 0.009144
+      }
+    ]
+  }
+]
