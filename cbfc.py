@@ -367,6 +367,75 @@ def _fmt_num(v: object) -> str:
     return ""
 
 
+def _norm_title(t: str) -> str:
+    """Normalise a film title for dedup: strip quotes, lowercase, collapse whitespace,
+    drop a leading 'Trailer of ' so trailer/film pairs can be compared."""
+    s = re.sub(r"\s+", " ", t).strip().strip("\"'“”‘’").lower()
+    s = re.sub(r"^trailer\s+(?:no\.?\s*\d+\s+)?(?:of\s+)?", "", s)
+    return s.strip(" \"'“”‘’")
+
+
+def _norm_cuts(s: str) -> str:
+    """Fingerprint of a cuts text for fuzzy dedup. Extracts each ≥4-char
+    alphabetic token, truncates to its first 4 chars, takes the first 20 — so
+    reel refs ([I] / [1]), numbers, lengths, and OCR typos at the tail of a
+    word (dialogue → dialoguc both become 'dial') don't break the comparison."""
+    stems = [w[:4] for w in re.findall(r"[a-zA-Z]{4,}", s.lower())]
+    return " ".join(stems[:20])
+
+
+def _is_trailer(title: str) -> bool:
+    return title.lower().lstrip(" \"'“”‘’").startswith("trailer")
+
+
+def _dedupe(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    """Drop redundant rows from gazette republishes, endorsement repeats, and
+    LLM contamination across adjacent OCR entries.
+
+    Pass A — trailer kill: drop "Trailer of X" rows whose cuts fingerprint
+    matches a non-trailer X under the same normalised title. These are
+    almost always LLM contamination from adjacent OCR table cells.
+
+    Pass B — cross-gazette collapse: collapse by (norm_title, cuts_sig). Prefer
+    the row with (i) an all-digit primary cert_no over a B/...-prefixed
+    endorsement, (ii) a populated gazette_date, (iii) the earliest date.
+    """
+    def cuts_sig(r: dict[str, str]) -> str:
+        body = r["deletions"] or (r["reductions"] + r["insertions"])
+        return _norm_cuts(body)
+
+    # Pass A
+    non_trailer_cuts: dict[str, set[str]] = {}
+    for r in rows:
+        if not _is_trailer(r["film_title"]):
+            non_trailer_cuts.setdefault(_norm_title(r["film_title"]), set()).add(cuts_sig(r))
+    after_a = [
+        r for r in rows
+        if not (_is_trailer(r["film_title"]) and cuts_sig(r) in non_trailer_cuts.get(_norm_title(r["film_title"]), set()))
+    ]
+
+    # Pass B — for each key, pick the highest-scored candidate.
+    def score(r: dict[str, str]) -> tuple:
+        cert = r["cert_no"].strip()
+        all_digits = cert.isdigit() and len(cert) >= 3
+        has_date = bool(r["gazette_date"])
+        # Higher tuple wins. Use negative date so "earlier is better" stays
+        # consistent with max().
+        return (all_digits, has_date, -ord(r["gazette_date"][:1] or "z"))
+
+    best: dict[tuple[str, str], dict[str, str]] = {}
+    for r in after_a:
+        key = (_norm_title(r["film_title"]), cuts_sig(r))
+        prev = best.get(key)
+        if prev is None or score(r) > score(prev):
+            best[key] = r
+        elif score(r) == score(prev):
+            # Stable tie-break: earlier gazette_date wins.
+            if (r["gazette_date"] or "9999") < (prev["gazette_date"] or "9999"):
+                best[key] = r
+    return list(best.values())
+
+
 def export_csv(items: list[Item]) -> int:
     by_id = {it.identifier: it for it in items}
     rows: list[dict[str, str]] = []
@@ -410,6 +479,9 @@ def export_csv(items: list[Item]) -> int:
                 "gazette_date": (item.date if item else ""),
                 "source_url": (item.details_url if item else f"{DETAILS_URL}/{ident}"),
             })
+    before = len(rows)
+    rows = _dedupe(rows)
+    print(f"dedupe: {before} -> {len(rows)} rows ({before - len(rows)} dropped)")
     CSV_PATH.parent.mkdir(parents=True, exist_ok=True)
     with CSV_PATH.open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=CSV_COLUMNS, quoting=csv.QUOTE_ALL)
