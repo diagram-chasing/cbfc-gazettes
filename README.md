@@ -2,6 +2,8 @@
 
 Scrapes the [Internet Archive's gazetteofindia collection](https://archive.org/details/gazetteofindia?tab=collection&sin=TXT) for Central Board of Film Certification entries with modifications (deleted/reduced/inserted scenes). 1953 to 1994.
 
+Preview the CSV in the browser: [flatgithub.com/diagram-chasing/cbfc-gazettes](https://flatgithub.com/diagram-chasing/cbfc-gazettes?filename=data%2Fmovies.csv).
+
 ## Run
 
 ```
